@@ -1,0 +1,674 @@
+{
+  "chapter": 8,
+  "title": "Liver Disorders and Rh Isoimmunization in Pregnancy",
+  "pageRange": "406-417",
+  "units": [
+    {
+      "id": "OBG-U8-1",
+      "ch": 8,
+      "n": 1,
+      "title": "HELLP Syndrome & Differential Diagnosis of Liver Disorders",
+      "sec": "Hepatic disorders \u00b7 p406-407",
+      "guide": "HELLP syndrome (Hemolysis, Elevated Liver enzymes, Low Platelets) occurs in 10-20% of severe pre-eclampsia cases, typically presenting with right upper quadrant abdominal pain. Tennessee diagnostic criteria require microangiopathic hemolysis (schistocytes, LDH >=600 IU/L, bilirubin >=1.2 mg/dL), AST/ALT elevated at least 2-fold (>=70 IU/L), and platelet count <100,000/microL; serum alkaline phosphatase is excluded as it is physiologically elevated from placental production.",
+      "qs": [
+        "OBG-C8-001",
+        "OBG-C8-002",
+        "OBG-C8-003",
+        "OBG-C8-004",
+        "OBG-C8-005"
+      ]
+    },
+    {
+      "id": "OBG-U8-2",
+      "ch": 8,
+      "n": 2,
+      "title": "Acute Fatty Liver of Pregnancy & Swansea Diagnostic Criteria",
+      "sec": "AFLP pathophysiology \u00b7 p407-408",
+      "guide": "AFLP is an obstetric emergency caused by fetal homozygous deficiency in long-chain 3-hydroxyacyl-CoA dehydrogenase (LCHAD) in a heterozygous mother, leading to toxic maternal accumulation of fetal fatty acid intermediates. Presenting in the third trimester with nausea, vomiting, profound hypoglycemia (<72 mg/dL), encephalopathy, and DIC, it is diagnosed via Swansea criteria (>=6 features); prompt maternal stabilization and immediate delivery are lifesaving.",
+      "qs": [
+        "OBG-C8-006",
+        "OBG-C8-007",
+        "OBG-C8-008",
+        "OBG-C8-009",
+        "OBG-C8-010"
+      ]
+    },
+    {
+      "id": "OBG-U8-3",
+      "ch": 8,
+      "n": 3,
+      "title": "Intrahepatic Cholestasis of Pregnancy & Fetal Bile Toxicity",
+      "sec": "Cholestasis of pregnancy \u00b7 p408-409",
+      "guide": "ICP is characterized by intractable maternal pruritus primarily affecting palms and soles without primary dermatological rash, worsening nocturnally due to impaired estrogen/progesterone-mediated bile acid excretion. Elevated maternal serum total bile acids (>10 micromol/L) cross into amniotic fluid, irritating fetal bowel (meconium passage), depressing cardiac pacemaker conductance, and risking sudden stillbirth; managed with Ursodeoxycholic acid (UDCA) and planned delivery at 36-37 weeks.",
+      "qs": [
+        "OBG-C8-011",
+        "OBG-C8-012",
+        "OBG-C8-013",
+        "OBG-C8-014",
+        "OBG-C8-015"
+      ]
+    },
+    {
+      "id": "OBG-U8-4",
+      "ch": 8,
+      "n": 4,
+      "title": "Rh Antigens, Genetics & Isoimmunization Pathophysiology",
+      "sec": "Rh genetics & immunology \u00b7 p410-411",
+      "guide": "Rh blood group antigens (D, C, c, E, e) are transmembrane proteins encoded by RHD and RHCE genes located on the short arm of chromosome 1 (1p36). The D antigen is by far the most immunogenic; primary fetomaternal hemorrhage sensitizes an Rh-negative mother, initially triggering IgM antibodies (which cannot cross the placenta), followed post-delivery or in secondary exposures by maternal IgG anti-D which freely cross the placenta to destroy Rh-positive fetal red cells.",
+      "qs": [
+        "OBG-C8-016",
+        "OBG-C8-017",
+        "OBG-C8-018",
+        "OBG-C8-019",
+        "OBG-C8-020"
+      ]
+    },
+    {
+      "id": "OBG-U8-5",
+      "ch": 8,
+      "n": 5,
+      "title": "Rh Isoimmunization: Fetal Anemia & Hydrops Fetalis",
+      "sec": "Fetal hemolytic sequelae \u00b7 p411-412",
+      "guide": "Maternal IgG anti-D binding causes extravascular splenic destruction of fetal red blood cells, resulting in fetal anemia and compensatory extramedullary hematopoiesis in liver and spleen. When fetal hematocrit falls below 15% (Hb <4 g/dL), high-output heart failure, hypoalbuminemia, and capillary leakage trigger Hydrops Fetalis (defined by fluid accumulation in >=2 serous compartments: ascites, pleural effusion, pericardial effusion, or subcutaneous scalp edema [Buddha sign]).",
+      "qs": [
+        "OBG-C8-021",
+        "OBG-C8-022",
+        "OBG-C8-023",
+        "OBG-C8-024",
+        "OBG-C8-025"
+      ]
+    },
+    {
+      "id": "OBG-U8-6",
+      "ch": 8,
+      "n": 6,
+      "title": "Management of Unsensitized Rh-Negative Mother & Anti-D",
+      "sec": "Unsensitized Rh-negative care \u00b7 p412-413",
+      "guide": "All Rh-negative pregnant women undergo an Indirect Coombs Test (ICT) at booking. If ICT is negative (unsensitized), routine antenatal prophylaxis with 300 mcg (1500 IU) Anti-D immunoglobulin is administered at 28 weeks; following delivery, if the newborn is Rh-positive with a negative Direct Coombs Test (DCT), another 300 mcg dose is administered within 72 hours (up to 28 days), coupled with early cord clamping during delivery.",
+      "qs": [
+        "OBG-C8-026",
+        "OBG-C8-027",
+        "OBG-C8-028",
+        "OBG-C8-029"
+      ]
+    },
+    {
+      "id": "OBG-U8-7",
+      "ch": 8,
+      "n": 7,
+      "title": "Management of Rh-Sensitized Mother: Titer, MCA Doppler & IUT",
+      "sec": "Sensitized pregnancy protocols \u00b7 p414-415",
+      "guide": "In Rh-sensitized women (ICT positive), maternal antibody titer is monitored; a titer >=1:16 is critical, mandating fetal surveillance for anemia. Middle Cerebral Artery Peak Systolic Velocity (MCA PSV) Doppler is the non-invasive screening gold standard: PSV >=1.5 MoM indicates moderate-to-severe fetal anemia. This is confirmed via cordocentesis (fetal hematocrit <30%), followed by intrauterine blood transfusion (IUT) with O-negative irradiated CMV-negative PRBCs if gestation is <35 weeks.",
+      "qs": [
+        "OBG-C8-030",
+        "OBG-C8-031",
+        "OBG-C8-032",
+        "OBG-C8-033",
+        "OBG-C8-034"
+      ]
+    },
+    {
+      "id": "OBG-U8-8",
+      "ch": 8,
+      "n": 8,
+      "title": "Fetomaternal Hemorrhage, Minor Antigens & Mirror Syndrome",
+      "sec": "FMH tests & minor antigens \u00b7 p415-417",
+      "guide": "Excessive fetomaternal hemorrhage (>30 mL whole blood) is screened by the Rosette test and precisely quantified by the Kleihauer-Betke (KB) acid elution test, requiring 10 mcg extra anti-D per 1 mL fetal whole blood over 30 mL. Anti-Kell alloimmunization is the most common non-D cause following mismatched transfusion (causing erythroblast suppression), while Anti-c is the most severe; Mirror syndrome (Ballantyne syndrome) involves maternal generalized edema and hydrops mirroring fetal hydrops.",
+      "qs": [
+        "OBG-C8-035",
+        "OBG-C8-036",
+        "OBG-C8-037",
+        "OBG-C8-038",
+        "OBG-C8-039"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "sec": "Hepatic disorders",
+      "page": 406,
+      "q": "What three classic clinical components define HELLP syndrome, and what is its most common presenting symptom?",
+      "opts": [
+        "Hemolysis, Elevated Liver enzymes, and Low Platelets; presenting most commonly with right upper quadrant or epigastric abdominal pain",
+        "Hepatic failure, Encephalopathy, Leukopenia, and Polyuria; presenting with painless jaundice",
+        "Hypertension, Edema, Lung lesions, and Proteinuria; presenting with dyspnea",
+        "Hyperglycemia, Elevated Lipids, Lactic acidosis, and Pruritus; presenting with intense itching"
+      ],
+      "ans": 0,
+      "exp": "HELLP denotes microangiopathic Hemolysis, Elevated Liver enzymes, and Low Platelets; abdominal/epigastric pain is present in up to 90% of cases. (Book p406)",
+      "id": "OBG-C8-001"
+    },
+    {
+      "sec": "Hepatic disorders",
+      "page": 406,
+      "q": "According to the Tennessee criteria for HELLP syndrome, which laboratory threshold confirms microangiopathic hemolysis?",
+      "opts": [
+        "Serum LDH >= 600 IU/L, abnormal peripheral smear with schistocytes/burr cells, or total serum bilirubin >= 1.2 mg/dL",
+        "Serum LDH < 200 IU/L",
+        "Serum haptoglobin > 150 mg/dL",
+        "Reticulocyte count < 0.2%"
+      ],
+      "ans": 0,
+      "exp": "Tennessee criteria require evidence of hemolysis: LDH >= 600 IU/L, peripheral schistocytes/burr cells, bilirubin >= 1.2 mg/dL, or low haptoglobin. (Book p406)",
+      "id": "OBG-C8-002"
+    },
+    {
+      "sec": "Hepatic disorders",
+      "page": 406,
+      "q": "Why is serum Alkaline Phosphatase (ALP) deliberately EXCLUDED from the diagnostic criteria for HELLP syndrome?",
+      "opts": [
+        "Alkaline phosphatase is physiologically elevated by 2- to 3-fold during normal pregnancy due to placental isoenzyme production",
+        "Alkaline phosphatase levels drop to zero in liver failure",
+        "Alkaline phosphatase is only produced in the fetal myocardium",
+        "Alkaline phosphatase cannot be assayed during pregnancy"
+      ],
+      "ans": 0,
+      "exp": "Placental syncytiotrophoblasts secrete heat-stable alkaline phosphatase, elevating maternal levels normally and rendering ALP non-specific for liver injury. (Book p406)",
+      "id": "OBG-C8-003"
+    },
+    {
+      "sec": "Hepatic disorders",
+      "page": 406,
+      "q": "What platelet count threshold defines thrombocytopenia in complete HELLP syndrome?",
+      "opts": [
+        "Platelet count < 100,000 / mm3 (< 1 lakh/mm3)",
+        "Platelet count < 250,000 / mm3",
+        "Platelet count < 20,000 / mm3 only",
+        "Platelet count < 150,000 / mm3"
+      ],
+      "ans": 0,
+      "exp": "Complete HELLP syndrome requires thrombocytopenia with platelets < 100,000/mm3 (Tennessee criteria) or < 50,000 for Class 1 (Mississippi). (Book p406)",
+      "id": "OBG-C8-004"
+    },
+    {
+      "sec": "Hepatic disorders",
+      "page": 407,
+      "q": "What catastrophic intra-abdominal hepatic complication can occur in severe pre-eclampsia / HELLP syndrome, presenting with sudden right upper quadrant pain, shoulder pain, and hypovolemic shock?",
+      "opts": [
+        "Subcapsular liver hematoma rupture",
+        "Acute appendiceal rupture",
+        "Splenic artery aneurysm rupture",
+        "Acalculous cholecystitis"
+      ],
+      "ans": 0,
+      "exp": "Subcapsular hepatic hematoma rupture carries high maternal-fetal mortality and requires urgent surgical intervention or embolization. (Book p407)",
+      "id": "OBG-C8-005"
+    },
+    {
+      "sec": "AFLP pathophysiology",
+      "page": 407,
+      "q": "What fetal inborn error of metabolism is causally linked to the development of Acute Fatty Liver of Pregnancy (AFLP) in a heterozygous mother?",
+      "opts": [
+        "Fetal homozygous deficiency of Long-Chain 3-Hydroxyacyl-CoA Dehydrogenase (LCHAD)",
+        "Fetal deficiency of phenylalanine hydroxylase (PKU)",
+        "Fetal deficiency of galactose-1-phosphate uridyltransferase",
+        "Fetal glycogen storage disease type 1a"
+      ],
+      "ans": 0,
+      "exp": "Homozygous fetal LCHAD enzyme deficiency causes accumulation of fetal long-chain fatty acids that enter maternal circulation and poison the maternal liver. (Book p407)",
+      "id": "OBG-C8-006"
+    },
+    {
+      "sec": "AFLP pathophysiology",
+      "page": 407,
+      "q": "Which metabolic abnormality is a distinctive hallmark that strongly differentiates AFLP from pre-eclampsia and HELLP syndrome?",
+      "opts": [
+        "Profound maternal hypoglycemia (< 72 mg/dL) due to catastrophic hepatic glycogen depletion and impaired gluconeogenesis",
+        "Profound hyperglycemia (> 400 mg/dL)",
+        "Elevated serum calcium",
+        "Marked polycythemia"
+      ],
+      "ans": 0,
+      "exp": "Severe hypoglycemia is a cardinal feature of AFLP distinguishing it from HELLP syndrome and reflecting fulminant hepatic parenchymal failure. (Book p407)",
+      "id": "OBG-C8-007"
+    },
+    {
+      "sec": "AFLP pathophysiology",
+      "page": 408,
+      "q": "What diagnostic consensus criteria are used clinically to establish the diagnosis of Acute Fatty Liver of Pregnancy without requiring a liver biopsy?",
+      "opts": [
+        "Swansea criteria (presence of 6 or more clinical and laboratory features in the absence of another explanation)",
+        "Ranson criteria",
+        "Child-Pugh score",
+        "MELD score"
+      ],
+      "ans": 0,
+      "exp": "Swansea criteria (requiring >= 6 of 14 features including vomiting, abdominal pain, polydipsia/polyuria, jaundice, hypoglycemia, hyperuricemia) diagnose AFLP. (Book p408)",
+      "id": "OBG-C8-008"
+    },
+    {
+      "sec": "AFLP pathophysiology",
+      "page": 408,
+      "q": "What characteristic histopathological lesion is seen in maternal liver tissue in patients with AFLP?",
+      "opts": [
+        "Microvesicular fatty infiltration / steatosis of hepatocytes with centrally placed nuclei, predominantly in zone 3",
+        "Macrovesicular steatosis with peripheral nuclear displacement",
+        "Hepatic granulomas with Langhans giant cells",
+        "Extensive sinusoidal lymphocytic cuffing"
+      ],
+      "ans": 0,
+      "exp": "AFLP is characterized by diffuse microvesicular steatosis where small fat droplets crowd the hepatocyte cytoplasm without displacing the nucleus. (Book p408)",
+      "id": "OBG-C8-009"
+    },
+    {
+      "sec": "AFLP pathophysiology",
+      "page": 408,
+      "q": "What is the definitive medical management for a pregnant woman diagnosed with Acute Fatty Liver of Pregnancy in the third trimester?",
+      "opts": [
+        "Immediate maternal hemodynamic and metabolic stabilization followed by prompt delivery of the fetus regardless of gestational age",
+        "Conservative expectant management until 39 weeks",
+        "High-dose oral steroid therapy and discharge",
+        "Plasma exchange without delivery"
+      ],
+      "ans": 0,
+      "exp": "AFLP is a medical emergency with up to 10% maternal mortality; prompt delivery halts the disease, with maternal liver function recovering within 1-2 weeks. (Book p408)",
+      "id": "OBG-C8-010"
+    },
+    {
+      "sec": "Cholestasis of pregnancy",
+      "page": 408,
+      "q": "What is the cardinal presenting symptom of Intrahepatic Cholestasis of Pregnancy (ICP)?",
+      "opts": [
+        "Generalized pruritus characteristically localized to the palms of the hands and soles of the feet, worsening significantly at night, WITHOUT primary skin lesions",
+        "A maculopapular erythematous rash starting on the periumbilical striae",
+        "Intense right lower quadrant rebound tenderness",
+        "Painful bullae on the extensor surfaces"
+      ],
+      "ans": 0,
+      "exp": "ICP presents with nocturnal pruritus centered on palms and soles in the absence of primary skin lesions; skin excoriations may develop secondary to scratching. (Book p408)",
+      "id": "OBG-C8-011"
+    },
+    {
+      "sec": "Cholestasis of pregnancy",
+      "page": 408,
+      "q": "Why does maternal Intrahepatic Cholestasis of Pregnancy carry an increased risk of maternal antepartum and postpartum hemorrhage?",
+      "opts": [
+        "Decreased intestinal bile salts impair the micellar absorption of fat-soluble Vitamin K, leading to coagulopathy (prolonged PT/INR)",
+        "Direct platelet destruction by bile salts in the spleen",
+        "Autoimmune destruction of factor VIII",
+        "Massive consumption of fibrinogen in placental vessels"
+      ],
+      "ans": 0,
+      "exp": "Cholestasis impairs intestinal fat-soluble vitamin absorption, specifically Vitamin K, leading to deficiency of factors II, VII, IX, and X, raising bleeding risk. (Book p408)",
+      "id": "OBG-C8-012"
+    },
+    {
+      "sec": "Cholestasis of pregnancy",
+      "page": 409,
+      "q": "What is the single most sensitive and specific diagnostic laboratory investigation for Intrahepatic Cholestasis of Pregnancy?",
+      "opts": [
+        "Total serum bile acid (SBA) level > 10 micromol/L",
+        "Serum alkaline phosphatase level",
+        "Serum alanine transaminase alone",
+        "Urine urobilinogen"
+      ],
+      "ans": 0,
+      "exp": "Fasting total serum bile acids > 10 micromol/L confirms ICP; levels >= 40 micromol/L indicate moderate-to-severe disease with heightened fetal danger. (Book p409)",
+      "id": "OBG-C8-013"
+    },
+    {
+      "sec": "Cholestasis of pregnancy",
+      "page": 409,
+      "q": "Why is Intrahepatic Cholestasis of Pregnancy associated with sudden unexplained intrauterine fetal demise near term?",
+      "opts": [
+        "High concentrations of maternal bile acids cross into the fetal circulation, inducing acute fetal cardiac dysrhythmias and sudden cardiac arrest",
+        "Bile salts trigger acute rupture of the umbilical cord",
+        "Fetal liver undergoes complete cirrhosis",
+        "Placental abruption occurs in 100% of cases"
+      ],
+      "ans": 0,
+      "exp": "Bile acids accumulate in fetal cardiomyocytes, causing calcium influx abnormalities, ventricular arrhythmias, bowel peristalsis (meconium), and sudden stillbirth. (Book p409)",
+      "id": "OBG-C8-014"
+    },
+    {
+      "sec": "Cholestasis of pregnancy",
+      "page": 409,
+      "q": "What is the medical DRUG OF CHOICE for symptomatic relief and biochemical improvement in Intrahepatic Cholestasis of Pregnancy?",
+      "opts": [
+        "Ursodeoxycholic acid (UDCA) 10 to 15 mg/kg/day orally PLUS Vitamin K supplementation",
+        "Cholestyramine alone",
+        "Oral Dexamethasone",
+        "Antihistamines (Hydroxyzine) as monotherapy"
+      ],
+      "ans": 0,
+      "exp": "UDCA displaces toxic hydrophobic endogenous bile acids, restores hepatobiliary transport, relieves maternal pruritus, and improves liver biochemistry. (Book p409)",
+      "id": "OBG-C8-015"
+    },
+    {
+      "sec": "Rh genetics & immunology",
+      "page": 410,
+      "q": "On which human chromosome are the Rh blood group genes (RHD and RHCE) located?",
+      "opts": [
+        "Short arm of chromosome 1 (1p36)",
+        "Long arm of chromosome 9",
+        "Short arm of chromosome 6 (HLA region)",
+        "Chromosome 21"
+      ],
+      "ans": 0,
+      "exp": "The Rh genetic locus resides on the short arm of chromosome 1 (1p36.13-p34.3) and encodes the multi-pass transmembrane Rh antigens. (Book p410)",
+      "id": "OBG-C8-016"
+    },
+    {
+      "sec": "Rh genetics & immunology",
+      "page": 410,
+      "q": "At what gestational age do Rh antigens first appear on the surface of human fetal red blood cell membranes?",
+      "opts": [
+        "By 38 days after fertilization (approximately 6 weeks of gestation)",
+        "At 24 weeks of gestation",
+        "Only after birth following first breath",
+        "At 16 weeks of gestation"
+      ],
+      "ans": 0,
+      "exp": "Rh antigens are fully formed and immunogenic on embryonic erythrocytes as early as day 38 of embryonic development (~6 weeks GA). (Book p410)",
+      "id": "OBG-C8-017"
+    },
+    {
+      "sec": "Rh genetics & immunology",
+      "page": 410,
+      "q": "If an Rh-negative pregnant woman conceives with a husband who is heterozygous Rh-positive (Dd), what is the probability that the fetus will be Rh-positive?",
+      "opts": [
+        "50% chance of Rh-positive fetus (Dd) and 50% chance of Rh-negative fetus (dd)",
+        "100% chance of Rh-positive fetus",
+        "0% chance of Rh-positive fetus",
+        "25% chance of Rh-positive fetus"
+      ],
+      "ans": 0,
+      "exp": "With a heterozygous Rh-positive father (Dd) and Rh-negative mother (dd), Mendelian inheritance predicts 50% Dd (Rh-positive) and 50% dd (Rh-negative). (Book p410)",
+      "id": "OBG-C8-018"
+    },
+    {
+      "sec": "Rh genetics & immunology",
+      "page": 411,
+      "q": "Why is the FIRST pregnancy of an unsensitized Rh-negative mother carrying an Rh-positive fetus almost always unaffected by hemolytic disease of the newborn?",
+      "opts": [
+        "The primary immune response predominantly produces IgM antibodies, which are pentameric and cannot cross the placenta; IgG antibodies are formed post-delivery",
+        "Fetal red cells do not have Rh antigens in the first pregnancy",
+        "Placental enzymes destroy all maternal antibodies",
+        "Maternal progesterone neutralizes Rh antibodies"
+      ],
+      "ans": 0,
+      "exp": "Primary immune response to feto-maternal hemorrhage during delivery generates IgM (MW 900 kDa), which cannot cross syncytiotrophoblasts; IgG develops later. (Book p411)",
+      "id": "OBG-C8-019"
+    },
+    {
+      "sec": "Rh genetics & immunology",
+      "page": 411,
+      "q": "In a subsequent pregnancy of an Rh-sensitized mother carrying an Rh-positive fetus, what antibody class crosses the placenta to cause fetal hemolysis?",
+      "opts": [
+        "Maternal IgG Anti-D antibodies (actively transported across the placenta via FcRn receptors)",
+        "Maternal IgM Anti-D antibodies",
+        "Maternal IgA antibodies from breast milk",
+        "Maternal IgE reaginic antibodies"
+      ],
+      "ans": 0,
+      "exp": "Anamnestic memory response rapidly produces monomeric IgG anti-D, which crosses via placental neonatal Fc receptors (FcRn) to destroy fetal RBCs. (Book p411)",
+      "id": "OBG-C8-020"
+    },
+    {
+      "sec": "Fetal hemolytic sequelae",
+      "page": 411,
+      "q": "What is the primary mechanism of fetal red blood cell destruction in Rh isoimmunization?",
+      "opts": [
+        "Extravascular hemolysis in the fetal spleen by splenic macrophages recognizing IgG-coated fetal erythrocytes",
+        "Intravascular complement-mediated cell lysis in umbilical veins",
+        "Direct mechanical shearing against cardiac valves",
+        "Fetal hepatic microsomal oxidation"
+      ],
+      "ans": 0,
+      "exp": "IgG-coated fetal RBCs are phagocytosed extravascularly by fetal splenic reticuloendothelial macrophages, releasing indirect bilirubin. (Book p411)",
+      "id": "OBG-C8-021"
+    },
+    {
+      "sec": "Fetal hemolytic sequelae",
+      "page": 412,
+      "q": "Why do fetuses with severe Rh isoimmunization develop prominent hepatosplenomegaly?",
+      "opts": [
+        "Profound compensatory extramedullary hematopoiesis in the fetal liver and spleen in response to severe anemia",
+        "Viral infiltration of hepatic parenchyma",
+        "Direct storage of intact bilirubin crystals",
+        "Glycogen deposition stimulated by fetal insulin"
+      ],
+      "ans": 0,
+      "exp": "Severe anemia drives intense compensatory extramedullary erythropoiesis in the fetal liver and spleen, causing marked organomegaly. (Book p412)",
+      "id": "OBG-C8-022"
+    },
+    {
+      "sec": "Fetal hemolytic sequelae",
+      "page": 412,
+      "q": "What ultrasound finding is recognized as the earliest pathognomonic sign ('Buddha sign') of impending Hydrops Fetalis?",
+      "opts": [
+        "Scalp subcutaneous edema appearing as a halo around the fetal cranium",
+        "Bilateral renal agenesis",
+        "Shortened femoral length",
+        "Absence of fetal stomach bubble"
+      ],
+      "ans": 0,
+      "exp": "Fetal scalp subcutaneous edema creates a double-contour appearance resembling the halo around Buddha's head ('Buddha sign'), the earliest sign of hydrops. (Book p412)",
+      "id": "OBG-C8-023"
+    },
+    {
+      "sec": "Fetal hemolytic sequelae",
+      "page": 412,
+      "q": "What diagnostic ultrasound criteria confirm the clinical diagnosis of Hydrops Fetalis?",
+      "opts": [
+        "Abnormal fluid accumulation in at least TWO fetal serous body compartments (ascites, pleural effusion, pericardial effusion, or generalized skin edema)",
+        "Isolated polyhydramnios alone",
+        "Single unilocular ovarian cyst in female fetus",
+        "Placentomegaly without any fetal fluid"
+      ],
+      "ans": 0,
+      "exp": "Hydrops fetalis is defined sonographically by pathological fluid accumulation in at least two serous cavities or one cavity plus diffuse anasarca. (Book p412)",
+      "id": "OBG-C8-024"
+    },
+    {
+      "sec": "Fetal hemolytic sequelae",
+      "page": 412,
+      "q": "What classic fetal heart rate pattern on cardiotocography (CTG) is indicative of severe fetal anemia and tissue hypoxia?",
+      "opts": [
+        "Sinusoidal fetal heart rate pattern (smooth, undulating wave with frequency of 2-5 cycles/min and amplitude 5-15 bpm)",
+        "Persistent variable decelerations",
+        "Early decelerations during contractions",
+        "Baseline tachycardia with normal variability"
+      ],
+      "ans": 0,
+      "exp": "A true sinusoidal FHR pattern is an ominous Category III tracing indicating profound fetal anemia (erythroblastosis) or severe hypoxia. (Book p412)",
+      "id": "OBG-C8-025"
+    },
+    {
+      "sec": "Unsensitized Rh-negative care",
+      "page": 412,
+      "q": "What laboratory test is performed on MATERNAL venous blood to determine whether an Rh-negative pregnant woman is already sensitized?",
+      "opts": [
+        "Indirect Coombs Test (ICT) / Indirect Antiglobulin Test",
+        "Direct Coombs Test (DCT)",
+        "Kleihauer-Betke test",
+        "Maternal serum alpha-fetoprotein"
+      ],
+      "ans": 0,
+      "exp": "The Indirect Coombs Test detects circulating maternal IgG anti-D antibodies in maternal serum; a negative test confirms the mother is unsensitized. (Book p412)",
+      "id": "OBG-C8-026"
+    },
+    {
+      "sec": "Unsensitized Rh-negative care",
+      "page": 413,
+      "q": "At what gestational age is routine antenatal Anti-D immunoglobulin prophylaxis administered to an unsensitized Rh-negative pregnant woman?",
+      "opts": [
+        "At 28 weeks of gestation (single dose of 300 mcg / 1500 IU IM)",
+        "At 12 weeks of gestation",
+        "At 36 weeks of gestation",
+        "Only after onset of labor"
+      ],
+      "ans": 0,
+      "exp": "Routine antenatal anti-D prophylaxis is given at 28 weeks (300 mcg / 1500 IU) because fetomaternal hemorrhages naturally increase in the third trimester. (Book p413)",
+      "id": "OBG-C8-027"
+    },
+    {
+      "sec": "Unsensitized Rh-negative care",
+      "page": 413,
+      "q": "Following the delivery of an Rh-positive infant, within what ideal timeframe should the Rh-negative mother receive postpartum Anti-D immunoglobulin?",
+      "opts": [
+        "Within 72 hours of delivery (can still provide partial benefit if given up to 28 days postpartum)",
+        "Within 10 minutes only",
+        "Between 4 and 6 weeks postpartum",
+        "Never after placental separation"
+      ],
+      "ans": 0,
+      "exp": "Postpartum anti-D should be administered ideally within 72 hours of delivery; if missed, it can be given up to 28 days post-delivery. (Book p413)",
+      "id": "OBG-C8-028"
+    },
+    {
+      "sec": "Unsensitized Rh-negative care",
+      "page": 413,
+      "q": "What umbilical cord management strategy is recommended during the delivery of an Rh-negative unsensitized mother?",
+      "opts": [
+        "Early umbilical cord clamping, to minimize fetomaternal transfusion of fetal red cells into maternal circulation",
+        "Delayed cord clamping for 10 minutes",
+        "Milking the cord toward the fetus five times",
+        "Cord blood autotransfusion"
+      ],
+      "ans": 0,
+      "exp": "Early cord clamping in unsensitized Rh-negative mothers minimizes fetomaternal microtransfusion at delivery, reducing the risk of sensitization. (Book p413)",
+      "id": "OBG-C8-029"
+    },
+    {
+      "sec": "Sensitized pregnancy protocols",
+      "page": 414,
+      "q": "In an Rh-negative sensitized pregnant woman (ICT positive), what maternal antibody titer is recognized as the CRITICAL TITER requiring initiation of fetal surveillance for anemia?",
+      "opts": [
+        "Anti-D antibody titer >= 1:16 (or 1:32)",
+        "Anti-D antibody titer >= 1:2",
+        "Anti-D antibody titer >= 1:1024 only",
+        "Any positive titer at 1:1"
+      ],
+      "ans": 0,
+      "exp": "A critical antibody titer of >= 1:16 (or 1:32) indicates sufficient antibody load to cause hydrops fetalis, mandating Doppler surveillance. (Book p414)",
+      "id": "OBG-C8-030"
+    },
+    {
+      "sec": "Sensitized pregnancy protocols",
+      "page": 414,
+      "q": "What is the non-invasive screening investigation of choice to detect and monitor fetal anemia in an Rh-sensitized pregnancy?",
+      "opts": [
+        "Doppler measurement of Middle Cerebral Artery Peak Systolic Velocity (MCA PSV)",
+        "Umbilical artery Doppler systolic-to-diastolic ratio",
+        "Ductus venosus pulsatility index",
+        "Fetal biophysical profile alone"
+      ],
+      "ans": 0,
+      "exp": "MCA PSV Doppler (Mari criteria) is the non-invasive gold standard; reduced fetal blood viscosity and hyperdynamic circulation increase peak systolic velocity. (Book p414)",
+      "id": "OBG-C8-031"
+    },
+    {
+      "sec": "Sensitized pregnancy protocols",
+      "page": 414,
+      "q": "What Middle Cerebral Artery Peak Systolic Velocity (MCA PSV) threshold indicates moderate-to-severe fetal anemia?",
+      "opts": [
+        "MCA PSV >= 1.5 Multiples of the Median (MoM)",
+        "MCA PSV < 0.5 MoM",
+        "MCA PSV exactly 1.0 MoM",
+        "MCA PSV >= 3.0 MoM"
+      ],
+      "ans": 0,
+      "exp": "An MCA PSV >= 1.5 MoM indicates moderate to severe fetal anemia with >95% sensitivity, prompting diagnostic cordocentesis and transfusion. (Book p414)",
+      "id": "OBG-C8-032"
+    },
+    {
+      "sec": "Sensitized pregnancy protocols",
+      "page": 415,
+      "q": "When severe fetal anemia (hematocrit < 30%) is confirmed via cordocentesis in a fetus at 28 weeks of gestation, what is the definitive therapeutic intervention?",
+      "opts": [
+        "Intrauterine Blood Transfusion (IUT) into the umbilical vein using fresh, irradiated, CMV-negative, O Rh-negative packed red blood cells",
+        "Immediate emergency Caesarean delivery",
+        "Maternal oral iron therapy",
+        "Intra-amniotic erythropoietin injection"
+      ],
+      "ans": 0,
+      "exp": "IUT into the umbilical vein with O-negative irradiated CMV-negative PRBCs corrects severe fetal anemia and reverses hydrops until term is reached. (Book p415)",
+      "id": "OBG-C8-033"
+    },
+    {
+      "sec": "Sensitized pregnancy protocols",
+      "page": 415,
+      "q": "At what gestational age is planned delivery indicated for an Rh-sensitized pregnancy that has reached near-term maturity or after successful IUT stabilization?",
+      "opts": [
+        "At 37 to 38 weeks of gestation",
+        "At 42 completed weeks",
+        "At 28 weeks routinely",
+        "At 32 weeks routinely"
+      ],
+      "ans": 0,
+      "exp": "Delivery is planned at 37-38 weeks once fetal maturity is reached to avoid late intrauterine fetal demise while minimizing neonatal prematurity risks. (Book p415)",
+      "id": "OBG-C8-034"
+    },
+    {
+      "sec": "FMH tests & minor antigens",
+      "page": 415,
+      "q": "A standard prophylactic single vial of 300 mcg (1500 IU) Anti-D immunoglobulin covers what volume of fetomaternal hemorrhage?",
+      "opts": [
+        "Up to 30 mL of fetal whole blood (or 15 mL of fetal packed red blood cells)",
+        "Up to 5 mL of fetal whole blood",
+        "Up to 100 mL of fetal whole blood",
+        "Up to 300 mL of fetal whole blood"
+      ],
+      "ans": 0,
+      "exp": "Standard 300 mcg anti-D neutralizes up to 30 mL of fetal whole blood (equivalent to 15 mL of packed fetal RBCs). (Book p415)",
+      "id": "OBG-C8-035"
+    },
+    {
+      "sec": "FMH tests & minor antigens",
+      "page": 416,
+      "q": "What laboratory test is used to quantitatively calculate the exact volume of fetomaternal hemorrhage in maternal blood based on the acid resistance of fetal hemoglobin?",
+      "opts": [
+        "Kleihauer-Betke (KB) acid elution test",
+        "Rosette screening test",
+        "Apt-Downey alkali denaturation test",
+        "Direct Coombs test"
+      ],
+      "ans": 0,
+      "exp": "Kleihauer-Betke test exploits the acid resistance of fetal hemoglobin (HbF); adult RBCs elute hemoglobin leaving ghost cells, allowing precise fetal RBC counting. (Book p416)",
+      "id": "OBG-C8-036"
+    },
+    {
+      "sec": "FMH tests & minor antigens",
+      "page": 416,
+      "q": "For every additional 1 mL of fetal whole blood detected in maternal circulation beyond the baseline 30 mL, how much additional Anti-D immunoglobulin must be administered?",
+      "opts": [
+        "10 mcg of additional Anti-D immunoglobulin",
+        "100 mcg of additional Anti-D",
+        "50 mcg of additional Anti-D",
+        "1 mcg of additional Anti-D"
+      ],
+      "ans": 0,
+      "exp": "Additional anti-D dosing: 10 mcg per 1 mL of additional fetal whole blood (or 20 mcg per 1 mL of fetal packed red blood cells). (Book p416)",
+      "id": "OBG-C8-037"
+    },
+    {
+      "sec": "FMH tests & minor antigens",
+      "page": 417,
+      "q": "Which minor red blood cell antigen is the MOST COMMON cause of maternal alloimmunization following a mismatched blood transfusion, uniquely causing erythroid precursor suppression in addition to hemolysis?",
+      "opts": [
+        "Kell antigen (Anti-Kell alloimmunization)",
+        "Lewis antigen",
+        "Duffy antigen",
+        "I-antigen"
+      ],
+      "ans": 0,
+      "exp": "Anti-Kell antibodies not only cause hemolysis but also destroy early erythroid progenitor cells in fetal bone marrow, causing rapid and severe anemia. (Book p417)",
+      "id": "OBG-C8-038"
+    },
+    {
+      "sec": "FMH tests & minor antigens",
+      "page": 417,
+      "q": "What rare condition, also known as Ballantyne syndrome, is characterized by generalized maternal edema and pre-eclampsia-like features mirroring severe fetal hydrops?",
+      "opts": [
+        "Mirror syndrome (Ballantyne syndrome)",
+        "Sheehan syndrome",
+        "Asherman syndrome",
+        "Mondor syndrome"
+      ],
+      "ans": 0,
+      "exp": "Mirror syndrome (maternal hydrops mirroring fetal hydrops) features generalized maternal edema and placental enlargement accompanying hydrops fetalis. (Book p417)",
+      "id": "OBG-C8-039"
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "chapter": 10,
+  "title": "Ectopic Pregnancy",
+  "pageRange": "433-442",
+  "units": [
+    {
+      "id": "OBG-U10-1",
+      "ch": 10,
+      "n": 1,
+      "title": "Fallopian Tube Anatomy & Ectopic Implantation Sites",
+      "sec": "Tubal anatomy & sites \u00b7 p433",
+      "guide": "The fallopian tube comprises four anatomical segments from medial to lateral: Interstitium (intramural), Isthmus, Ampulla, and Infundibulum. The ampulla is the widest part and the most frequent site of both fertilization and ectopic pregnancy (~70-80%); the isthmus is the physiological narrowest segment and ruptures earliest (at 6-8 weeks); the interstitium is surrounded by myometrium, allowing pregnancy to advance up to 12-16 weeks before presenting with catastrophic, torrential hemorrhage.",
+      "qs": [
+        "OBG-C10-001",
+        "OBG-C10-002",
+        "OBG-C10-003",
+        "OBG-C10-004",
+        "OBG-C10-005"
+      ]
+    },
+    {
+      "id": "OBG-U10-2",
+      "ch": 10,
+      "n": 2,
+      "title": "Natural History, Outcomes & Non-Tubal Diagnostic Criteria",
+      "sec": "Natural history & criteria \u00b7 p434, 440",
+      "guide": "Tubal ectopic outcomes include tubal rupture (most common in the isthmus) and tubal abortion through the fimbrial end (most common in the ampulla). Non-tubal ectopics are verified using classic eponymic criteria: Studdiford criteria for primary abdominal pregnancy, Spiegelberg criteria for ovarian ectopic, and Paalman criteria for cervical ectopic pregnancy (closed internal os with partially open external os).",
+      "qs": [
+        "OBG-C10-006",
+        "OBG-C10-007",
+        "OBG-C10-008",
+        "OBG-C10-009",
+        "OBG-C10-010"
+      ]
+    },
+    {
+      "id": "OBG-U10-3",
+      "ch": 10,
+      "n": 3,
+      "title": "Ectopic Risk Factors & Contraceptive Failure Dynamics",
+      "sec": "Risk factors \u00b7 p434",
+      "guide": "Pelvic inflammatory disease (PID/salpingitis) is the most common cause of ectopic pregnancy by creating intratubal adhesions, while a history of prior ectopic pregnancy carries the highest future recurrence risk. While all modern contraceptives reduce the absolute risk of all pregnancies, contraceptive failure with tubal sterilization carries the highest relative risk of an ectopic gestation, followed by levonorgestrel-releasing IUDs.",
+      "qs": [
+        "OBG-C10-011",
+        "OBG-C10-012",
+        "OBG-C10-013",
+        "OBG-C10-014",
+        "OBG-C10-015"
+      ]
+    },
+    {
+      "id": "OBG-U10-4",
+      "ch": 10,
+      "n": 4,
+      "title": "Clinical Presentation, Ruptured Ectopic & Culdocentesis",
+      "sec": "Clinical presentation \u00b7 p435-436",
+      "guide": "The classic clinical triad consists of amenorrhea, unilateral lower abdominal pain, and abnormal vaginal bleeding. Intraperitoneal hemoperitoneum irritates the diaphragm, causing referred shoulder tip pain (Danforth sign), and pools in the pouch of Douglas, creating an urge to defecate; culdocentesis yielding dark, non-clotting blood confirms hemoperitoneum and mandates immediate operative laparoscopy or laparotomy.",
+      "qs": [
+        "OBG-C10-016",
+        "OBG-C10-017",
+        "OBG-C10-018",
+        "OBG-C10-019",
+        "OBG-C10-020"
+      ]
+    },
+    {
+      "id": "OBG-U10-5",
+      "ch": 10,
+      "n": 5,
+      "title": "Sonographic Signs & Beta-hCG Discriminatory Dynamics",
+      "sec": "Diagnosis & biomarkers \u00b7 p437-438",
+      "guide": "Transvaginal ultrasound landmarks include the 'bagel sign' (tubal ring), 'ring of fire' on color Doppler, an empty uterine cavity with a pseudogestational sac, and a complex adnexal mass. The beta-hCG discriminatory zone is 1500 to 2000 mIU/mL; an empty uterus above this cutoff strongly suggests an ectopic pregnancy, while subnormal 48-hour beta-hCG rises (<35-50%) indicate non-viable implantation.",
+      "qs": [
+        "OBG-C10-021",
+        "OBG-C10-022",
+        "OBG-C10-023",
+        "OBG-C10-024",
+        "OBG-C10-025"
+      ]
+    },
+    {
+      "id": "OBG-U10-6",
+      "ch": 10,
+      "n": 6,
+      "title": "Medical Management: Single-Dose Methotrexate Protocols",
+      "sec": "Medical management \u00b7 p438-439",
+      "guide": "Systemic intramuscular methotrexate (50 mg/m2) is the medical treatment of choice for unruptured ectopic pregnancy meeting strict prerequisites: hemodynamically stable, serum beta-hCG <5000 IU/L, mass size <3.5-4 cm, and absent fetal cardiac activity. Serial beta-hCG is drawn on Day 1, Day 4, and Day 7; a decline >=15% between Day 4 and Day 7 confirms treatment success, whereas a smaller drop warrants a second dose or surgery.",
+      "qs": [
+        "OBG-C10-026",
+        "OBG-C10-027",
+        "OBG-C10-028",
+        "OBG-C10-029",
+        "OBG-C10-030"
+      ]
+    },
+    {
+      "id": "OBG-U10-7",
+      "ch": 10,
+      "n": 7,
+      "title": "Surgical Strategies, Heterotopic & Cornual Pregnancy",
+      "sec": "Surgical management & variants \u00b7 p439-442",
+      "guide": "Laparoscopic linear salpingostomy (making an antimesenteric incision and removing conceptus while sparing the tube) is indicated when fertility preservation is desired; total unilateral salpingectomy is the standard for ruptured tubes or completed family. In heterotopic pregnancy (coexisting intrauterine and ectopic gestation, frequent in ART), methotrexate is contraindicated and surgical laparoscopic resection of the ectopic preserves the intrauterine pregnancy.",
+      "qs": [
+        "OBG-C10-031",
+        "OBG-C10-032",
+        "OBG-C10-033",
+        "OBG-C10-034",
+        "OBG-C10-035"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "sec": "Tubal anatomy & sites",
+      "page": 433,
+      "q": "What is the single most common anatomical site of ectopic pregnancy implantation in the human body?",
+      "opts": [
+        "Fallopian tube (specifically the ampulla, accounting for ~70% of all ectopic pregnancies)",
+        "Ovarian surface",
+        "Peritoneal pouch of Douglas",
+        "Cervical canal"
+      ],
+      "ans": 0,
+      "exp": "The fallopian tube accounts for >95% of all ectopics, with the ampulla being the most common segment (~70%) due to wide mucosal plicae. (Book p433)",
+      "id": "OBG-C10-001"
+    },
+    {
+      "sec": "Tubal anatomy & sites",
+      "page": 433,
+      "q": "What are the four anatomical segments of the fallopian tube ordered from medial (uterine) to lateral (ovarian)?",
+      "opts": [
+        "Interstitium (intramural) -> Isthmus -> Ampulla -> Infundibulum (with fimbriae)",
+        "Infundibulum -> Ampulla -> Isthmus -> Interstitium",
+        "Isthmus -> Interstitium -> Infundibulum -> Ampulla",
+        "Ampulla -> Isthmus -> Interstitium -> Infundibulum"
+      ],
+      "ans": 0,
+      "exp": "From uterus outwards: Interstitium (passes through myometrium), Isthmus (narrow muscular), Ampulla (wide/fertilization), Infundibulum (fimbriated end). (Book p433)",
+      "id": "OBG-C10-002"
+    },
+    {
+      "sec": "Tubal anatomy & sites",
+      "page": 433,
+      "q": "Which segment of the fallopian tube is the ANATOMICALLY NARROWEST luminal part?",
+      "opts": [
+        "Interstitium (intramural segment)",
+        "Isthmus",
+        "Ampulla",
+        "Infundibulum"
+      ],
+      "ans": 0,
+      "exp": "The interstitium (intramural portion traversing the uterine cornua) has the smallest luminal diameter (~1 mm). (Book p433)",
+      "id": "OBG-C10-003"
+    },
+    {
+      "sec": "Tubal anatomy & sites",
+      "page": 433,
+      "q": "Why does an ectopic pregnancy located in the INTERSTITIAL (intramural) segment of the fallopian tube present latest (at 12-16 weeks) but carry the HIGHEST mortality?",
+      "opts": [
+        "Surrounding thick myometrium allows expansion up to 12-16 weeks, but rupture lacerates the uterine and ovarian artery anastomoses, causing torrential fatal hemorrhage",
+        "Interstitial tissue does not have blood vessels",
+        "The fetus is protected by the amniotic sac until 28 weeks",
+        "Interstitial ectopics spontaneously resolve into fibroids"
+      ],
+      "ans": 0,
+      "exp": "Abundant myometrium delays rupture until 12-16 weeks, at which point rupture causes catastrophic bleeding from the uterine-ovarian arterial anastomoses. (Book p433)",
+      "id": "OBG-C10-004"
+    },
+    {
+      "sec": "Tubal anatomy & sites",
+      "page": 433,
+      "q": "What is the most common NON-TUBAL site of ectopic pregnancy?",
+      "opts": [
+        "Ovary (ovarian pregnancy, accounting for approximately 3% of ectopics)",
+        "Cervix",
+        "Spleen",
+        "Omentum"
+      ],
+      "ans": 0,
+      "exp": "Ovarian ectopic pregnancy is the most common extratubal site (accounts for ~3%), followed by abdominal and cervical pregnancies. (Book p433)",
+      "id": "OBG-C10-005"
+    },
+    {
+      "sec": "Natural history & criteria",
+      "page": 434,
+      "q": "In which segment of the fallopian tube does an ectopic pregnancy most commonly terminate via TUBAL RUPTURE versus TUBAL ABORTION?",
+      "opts": [
+        "Tubal rupture is most common in the Isthmus; Tubal abortion through the fimbrial end is most common in the Ampulla",
+        "Tubal rupture is most common in the Ampulla; Tubal abortion in the Isthmus",
+        "Both occur exclusively in the Infundibulum",
+        "Tubal rupture occurs only in cervical ectopics"
+      ],
+      "ans": 0,
+      "exp": "The isthmus has a narrow lumen and thin muscular wall prone to early rupture (6-8w); the ampulla is wide, allowing extrusion into peritoneal cavity (tubal abortion). (Book p434)",
+      "id": "OBG-C10-006"
+    },
+    {
+      "sec": "Natural history & criteria",
+      "page": 434,
+      "q": "What eponymic criteria are used to diagnose a true primary OVARIAN ectopic pregnancy?",
+      "opts": [
+        "Spiegelberg criteria (fallopian tube intact, gestational sac in ovary, connected by ovarian ligament, ovarian tissue in sac wall)",
+        "Studdiford criteria",
+        "Paalman criteria",
+        "McDonald criteria"
+      ],
+      "ans": 0,
+      "exp": "Spiegelberg's 4 criteria define ovarian pregnancy: intact ipsilateral tube, sac occupied in ovary, connected by utero-ovarian ligament, and ovarian tissue in wall. (Book p434)",
+      "id": "OBG-C10-007"
+    },
+    {
+      "sec": "Natural history & criteria",
+      "page": 434,
+      "q": "What criteria define a primary ABDOMINAL ectopic pregnancy?",
+      "opts": [
+        "Studdiford criteria (normal bilateral fallopian tubes and ovaries, absence of uteroperitoneal fistula, pregnancy solely attached to peritoneal surface)",
+        "Spiegelberg criteria",
+        "Paalman criteria",
+        "Tennessee criteria"
+      ],
+      "ans": 0,
+      "exp": "Studdiford criteria confirm primary peritoneal implantation: normal tubes/ovaries, no uteroperitoneal fistula, and early peritoneal attachment. (Book p434)",
+      "id": "OBG-C10-008"
+    },
+    {
+      "sec": "Natural history & criteria",
+      "page": 440,
+      "q": "What anatomical landmark differentiates an ANGULAR pregnancy from an INTERSTITIAL (cornual) ectopic pregnancy?",
+      "opts": [
+        "Angular pregnancy implants medial to the round ligament within the uterine angle; Interstitial ectopic implants lateral to the round ligament",
+        "Angular pregnancy implants in the posterior cervix",
+        "Interstitial ectopic is medial to the cervix",
+        "Angular pregnancy implants in the ovary"
+      ],
+      "ans": 0,
+      "exp": "Angular pregnancy implants medial to the round ligament reflection; interstitial/cornual pregnancy implants lateral to the round ligament. (Book p440)",
+      "id": "OBG-C10-009"
+    },
+    {
+      "sec": "Natural history & criteria",
+      "page": 440,
+      "q": "According to Paalman and McElin criteria, what is a characteristic speculum examination finding in CERVICAL ectopic pregnancy?",
+      "opts": [
+        "The internal cervical os is closed, while the external cervical os is partially dilated/open, with the cervix appearing barrel-shaped",
+        "Both internal and external os are wide open",
+        "The cervix is completely absent",
+        "The cervix shows cervical intraepithelial neoplasia"
+      ],
+      "ans": 0,
+      "exp": "In cervical pregnancy, the internal os is closed while the external os is patulous/stretched over the conceptus, producing an enlarged barrel-shaped cervix. (Book p440)",
+      "id": "OBG-C10-010"
+    },
+    {
+      "sec": "Risk factors",
+      "page": 434,
+      "q": "What is the single MOST COMMON underlying risk factor for developing an ectopic pregnancy?",
+      "opts": [
+        "Pelvic Inflammatory Disease (PID) / chronic salpingitis",
+        "Use of barrier condoms",
+        "Multiparity",
+        "Young maternal age < 20 years"
+      ],
+      "ans": 0,
+      "exp": "PID (caused by Chlamydia or Gonorrhea) produces tubal endosalpingitis, deciliation, and luminal adhesions, representing the most common cause. (Book p434)",
+      "id": "OBG-C10-011"
+    },
+    {
+      "sec": "Risk factors",
+      "page": 434,
+      "q": "Which patient risk factor confers the HIGHEST STATISTICAL ODDS RATIO / relative risk for an ectopic pregnancy?",
+      "opts": [
+        "Previous history of an ectopic pregnancy (recurrence risk is approximately 10% to 15% after 1, and >25% after 2 prior ectopics)",
+        "History of Caesarean section",
+        "Cigarette smoking alone",
+        "Use of combined oral contraceptives"
+      ],
+      "ans": 0,
+      "exp": "A prior ectopic pregnancy is the single strongest clinical predictor, conferring the highest relative risk for a subsequent ectopic implantation. (Book p434)",
+      "id": "OBG-C10-012"
+    },
+    {
+      "sec": "Risk factors",
+      "page": 434,
+      "q": "How do modern contraceptive methods affect the absolute versus relative risk of ectopic pregnancy?",
+      "opts": [
+        "All contraceptives substantially reduce the ABSOLUTE risk of ectopic pregnancy; however, if a contraceptive fails, the RELATIVE risk of that failure being an ectopic pregnancy is increased",
+        "Contraceptives increase the absolute number of ectopics",
+        "Contraceptives have zero effect on pregnancy",
+        "Barrier methods cause tubal deciliation"
+      ],
+      "ans": 0,
+      "exp": "Contraceptives prevent pregnancy overall (reducing absolute risk); however, if pregnancy occurs despite method, the proportion of ectopics is elevated. (Book p434)",
+      "id": "OBG-C10-013"
+    },
+    {
+      "sec": "Risk factors",
+      "page": 434,
+      "q": "If pregnancy occurs following contraceptive failure, which method carries the HIGHEST RELATIVE RISK of the gestation being ectopic?",
+      "opts": [
+        "Failed tubal sterilization (tubal ligation)",
+        "Combined oral contraceptive pill failure",
+        "Copper-T IUCD failure",
+        "Male condom slippage"
+      ],
+      "ans": 0,
+      "exp": "Failed tubal sterilization carries the highest relative risk: up to 30-50% of pregnancies occurring post-tubal ligation are ectopic. (Book p434)",
+      "id": "OBG-C10-014"
+    },
+    {
+      "sec": "Risk factors",
+      "page": 434,
+      "q": "Why does the Levonorgestrel-releasing Intrauterine Device (LNG-IUD) have a higher relative risk of ectopic pregnancy upon contraceptive failure compared to Copper-T?",
+      "opts": [
+        "Progesterone exerts a smooth-muscle relaxant effect on fallopian tube myosalpinx, markedly reducing tubal peristalsis and ciliary propulsion",
+        "Progesterone stimulates tubal chemotaxis for blastocysts",
+        "LNG-IUD directly damages the ampullary epithelium",
+        "Progesterone dissolves the syncytiotrophoblast"
+      ],
+      "ans": 0,
+      "exp": "Progesterone relaxes tubal smooth muscle, depressing tubal peristalsis and delaying blastocyst transit through the tube. (Book p434)",
+      "id": "OBG-C10-015"
+    },
+    {
+      "sec": "Clinical presentation",
+      "page": 435,
+      "q": "What is the classic clinical diagnostic triad of ectopic pregnancy?",
+      "opts": [
+        "Amenorrhea, lower abdominal / pelvic pain, and abnormal vaginal bleeding",
+        "High fever, jaundice, and epigastric pain",
+        "Amenorrhea, hypertension, and proteinuria",
+        "Severe nausea, breast tenderness, and glycosuria"
+      ],
+      "ans": 0,
+      "exp": "The classic ectopic triad consists of amenorrhea (often 6-8 weeks), unilateral lower abdominal pain, and abnormal vaginal bleeding/spotting. (Book p435)",
+      "id": "OBG-C10-016"
+    },
+    {
+      "sec": "Clinical presentation",
+      "page": 435,
+      "q": "What clinical phenomenon is known as the Danforth sign in a ruptured ectopic pregnancy?",
+      "opts": [
+        "Referred shoulder tip pain caused by hemoperitoneum irritating the diaphragmatic peritoneum (phrenic nerve C3-C5)",
+        "Bruising around the umbilicus",
+        "Pain upon gentle internal rotation of the hip",
+        "Tenderness over McBurney's point"
+      ],
+      "ans": 0,
+      "exp": "Danforth sign refers to ipsilateral shoulder tip pain elicited by diaphragmatic irritation from subdiaphragmatic blood pooling. (Book p435)",
+      "id": "OBG-C10-017"
+    },
+    {
+      "sec": "Clinical presentation",
+      "page": 435,
+      "q": "Why do patients with ruptured ectopic pregnancy and substantial hemoperitoneum frequently report a sudden, intense urge to defecate?",
+      "opts": [
+        "Blood pooling within the pouch of Douglas (rectouterine pouch) exerts direct mechanical pressure on the anterior rectal wall",
+        "Reflex paralytic ileus throughout the small bowel",
+        "Pelvic parasympathetic ganglionic necrosis",
+        "Acute mesenteric artery thrombosis"
+      ],
+      "ans": 0,
+      "exp": "Free blood accumulating in the dependent pouch of Douglas irritates and compresses the rectum, creating tenesmus and an urge to defecate. (Book p435)",
+      "id": "OBG-C10-018"
+    },
+    {
+      "sec": "Clinical presentation",
+      "page": 436,
+      "q": "During culdocentesis for suspected ruptured ectopic, non-clotting dark red blood is aspirated from the pouch of Douglas. Why does this blood fail to clot?",
+      "opts": [
+        "The blood has undergone defibrinogenation by peritoneal mesothelial fibrinolytic enzymes following intraperitoneal hemorrhage",
+        "The patient has congenital hemophilia A",
+        "The blood was aspirated from the internal iliac artery",
+        "Maternal platelets are completely absent"
+      ],
+      "ans": 0,
+      "exp": "Intraperitoneal blood clots initially and is subsequently defibrinated by peritoneal enzymes; non-clotting blood confirms true intraperitoneal hemoperitoneum. (Book p436)",
+      "id": "OBG-C10-019"
+    },
+    {
+      "sec": "Clinical presentation",
+      "page": 436,
+      "q": "A 26-year-old woman presents with acute severe lower abdominal pain, fainting, tachycardia (130 bpm), and BP 80/50 mmHg. Examination reveals peritoneal guarding, rigidity, and severe cervical motion tenderness. What is the immediate surgical management?",
+      "opts": [
+        "Emergency exploratory laparotomy with immediate unilateral salpingectomy while initiating fluid and blood resuscitation",
+        "Transvaginal ultrasound followed by outpatient observation",
+        "Intramuscular methotrexate injection",
+        "Diagnostic hysteroscopy"
+      ],
+      "ans": 0,
+      "exp": "Hemodynamic instability with peritoneal signs indicates ruptured ectopic with massive hemoperitoneum; immediate laparotomy and salpingectomy are lifesaving. (Book p436)",
+      "id": "OBG-C10-020"
+    },
+    {
+      "sec": "Diagnosis & biomarkers",
+      "page": 437,
+      "q": "What characteristic sonographic sign on transvaginal ultrasound represents the gestational sac surrounded by an echogenic trophoblastic ring in the fallopian tube?",
+      "opts": [
+        "Tubal ring sign / Bagel sign",
+        "Snowstorm appearance",
+        "Lambda sign",
+        "Spoke-wheel sign"
+      ],
+      "ans": 0,
+      "exp": "The tubal ring or 'bagel sign' represents the thick, echogenic rim of trophoblast tissue surrounding an unruptured ectopic gestational sac. (Book p437)",
+      "id": "OBG-C10-021"
+    },
+    {
+      "sec": "Diagnosis & biomarkers",
+      "page": 437,
+      "q": "What sonographic finding on color Doppler imaging around an adnexal ectopic pregnancy is described as the 'Ring of Fire'?",
+      "opts": [
+        "A hypervascular circumferential ring of low-impedance, high-velocity blood flow surrounding the gestational sac",
+        "Total avascularity of the fallopian tube",
+        "Retrograde arterial flow into the uterine fundus",
+        "Twisted vascular pedicle with no Doppler signal"
+      ],
+      "ans": 0,
+      "exp": "The 'Ring of Fire' on color Doppler demonstrates low-resistance, high-diastolic trophoblastic arterial flow encircling the ectopic gestation. (Book p437)",
+      "id": "OBG-C10-022"
+    },
+    {
+      "sec": "Diagnosis & biomarkers",
+      "page": 437,
+      "q": "What is the DISCRIMINATORY ZONE of serum beta-hCG, and what does its absence signify?",
+      "opts": [
+        "The serum beta-hCG concentration (typically 1500 to 2000 mIU/mL on TVS) above which an intrauterine gestational sac should ALWAYS be visible; an empty uterus above this level strongly indicates an ectopic pregnancy",
+        "The beta-hCG level at which fetal movements begin",
+        "The level of beta-hCG that triggers ovulation",
+        "The concentration at which beta-hCG drops to zero at term"
+      ],
+      "ans": 0,
+      "exp": "The discriminatory zone (1500-2000 mIU/mL on TVS) is the threshold where an intrauterine sac must be seen; if absent, ectopic pregnancy is highly probable. (Book p437)",
+      "id": "OBG-C10-023"
+    },
+    {
+      "sec": "Diagnosis & biomarkers",
+      "page": 437,
+      "q": "How does serial serum beta-hCG normally rise over a 48-hour period in a viable early intrauterine pregnancy compared to an ectopic pregnancy?",
+      "opts": [
+        "A viable intrauterine pregnancy demonstrates a rise of at least 35% to 53% (traditionally near-doubling), whereas an ectopic pregnancy typically exhibits an abnormally slow rise (<35%) or plateau",
+        "Ectopic beta-hCG rises by >200% every 24 hours",
+        "Both drop by 50% every 48 hours",
+        "Ectopic beta-hCG remains exactly 0"
+      ],
+      "ans": 0,
+      "exp": "Viable intrauterine gestation rises by >=35-53% in 48 hours; suboptimal slower rises or plateauing titers strongly point to an ectopic gestation. (Book p437)",
+      "id": "OBG-C10-024"
+    },
+    {
+      "sec": "Diagnosis & biomarkers",
+      "page": 438,
+      "q": "What is the single most common finding on transvaginal ultrasound in a patient with a confirmed ectopic pregnancy?",
+      "opts": [
+        "A heterogeneous, complex adnexal mass separate from the ovary",
+        "A live embryo with heartbeat in the cervix",
+        "Snowstorm appearance in the uterine cavity",
+        "A fluid-filled ovarian dermoid cyst"
+      ],
+      "ans": 0,
+      "exp": "The most common sonographic finding (>80% of cases) is an inhomogeneous, complex adnexal mass resulting from hematoma and trophoblastic tissue. (Book p438)",
+      "id": "OBG-C10-025"
+    },
+    {
+      "sec": "Medical management",
+      "page": 438,
+      "q": "What are the essential PREREQUISITES for offering medical management with Methotrexate in an ectopic pregnancy?",
+      "opts": [
+        "Hemodynamically stable patient, unruptured ectopic, serum beta-hCG < 5000 mIU/mL, adnexal mass size < 3.5 to 4.0 cm, and absent fetal cardiac activity",
+        "Active intra-abdominal bleeding with hemoperitoneum",
+        "Beta-hCG > 20,000 mIU/mL with visible cardiac activity",
+        "Coexisting viable intrauterine pregnancy"
+      ],
+      "ans": 0,
+      "exp": "Candidates for medical MTX must be stable, unruptured, with beta-hCG <5000 mIU/mL, mass <3.5-4 cm, and no embryonic cardiac activity. (Book p438)",
+      "id": "OBG-C10-026"
+    },
+    {
+      "sec": "Medical management",
+      "page": 438,
+      "q": "What is the standard SINGLE-DOSE intramuscular Methotrexate protocol for unruptured ectopic pregnancy?",
+      "opts": [
+        "Methotrexate 50 mg/m2 body surface area (or 1 mg/kg) administered intramuscularly as a single injection on Day 1",
+        "Methotrexate 500 mg IV every 8 hours",
+        "Methotrexate 5 mg oral daily for 30 days",
+        "Methotrexate 100 mg intrathecally"
+      ],
+      "ans": 0,
+      "exp": "Single-dose MTX is dosed at 50 mg/m2 BSA (or 1 mg/kg IM); it arrests rapidly dividing trophoblastic cells without requiring folinic acid rescue. (Book p438)",
+      "id": "OBG-C10-027"
+    },
+    {
+      "sec": "Medical management",
+      "page": 439,
+      "q": "In the single-dose Methotrexate protocol, on which days are serum beta-hCG levels drawn to evaluate therapeutic response?",
+      "opts": [
+        "Day 1 (baseline), Day 4, and Day 7",
+        "Day 1 and Day 2 only",
+        "Every day for 30 consecutive days",
+        "Day 14 and Day 28 only"
+      ],
+      "ans": 0,
+      "exp": "hCG often rises between Day 1 and Day 4 due to trophoblast lysis; therapeutic success is judged by comparing Day 4 and Day 7 levels. (Book p439)",
+      "id": "OBG-C10-028"
+    },
+    {
+      "sec": "Medical management",
+      "page": 439,
+      "q": "What percentage decline in serum beta-hCG between DAY 4 and DAY 7 confirms adequate response to single-dose Methotrexate?",
+      "opts": [
+        "A decline of >= 15% between Day 4 and Day 7",
+        "A decline of >= 90% between Day 1 and Day 2",
+        "A decline of exactly 5%",
+        "Any increase of >10%"
+      ],
+      "ans": 0,
+      "exp": "A >= 15% decline from Day 4 to Day 7 confirms success; weekly monitoring continues until hCG is < 5 mIU/mL. If <15% fall, repeat dose or operate. (Book p439)",
+      "id": "OBG-C10-029"
+    },
+    {
+      "sec": "Medical management",
+      "page": 439,
+      "q": "What transient symptom commonly occurs 3 to 7 days after Methotrexate administration that must be differentiated from true tubal rupture?",
+      "opts": [
+        "Separation pain / resolving pain (mild-to-moderate lower abdominal discomfort lasting 24-48 hours due to tubal abortion/hematoma stretching)",
+        "Violent rigors and hyperpyrexia",
+        "Profuse hematemesis",
+        "Bilateral facial nerve palsy"
+      ],
+      "ans": 0,
+      "exp": "'Separation pain' occurs in up to 60-70% of MTX-treated patients due to conceptus detachment; if hemodynamically stable, it is managed conservatively. (Book p439)",
+      "id": "OBG-C10-030"
+    },
+    {
+      "sec": "Surgical management & variants",
+      "page": 439,
+      "q": "What is the surgical procedure of choice for a patient with an unruptured ampullary ectopic pregnancy who strongly desires future fertility and has a damaged contralateral tube?",
+      "opts": [
+        "Laparoscopic linear salpingostomy (making a longitudinal incision along the antimesenteric border, removing conceptus, and leaving edges open)",
+        "Bilateral total salpingo-oophorectomy",
+        "Uterine artery embolization",
+        "Total abdominal hysterectomy"
+      ],
+      "ans": 0,
+      "exp": "Linear salpingostomy preserves the tube by evacuating the trophoblast through an antimesenteric incision that heals by secondary intention. (Book p439)",
+      "id": "OBG-C10-031"
+    },
+    {
+      "sec": "Surgical management & variants",
+      "page": 439,
+      "q": "What is the definition and incidence of a HETEROTOPIC pregnancy in natural conception versus assisted reproduction (ART/IVF)?",
+      "opts": [
+        "Simultaneous coexistence of an intrauterine pregnancy and an ectopic pregnancy; occurs in ~1 in 30,000 natural pregnancies, but rises to ~1 in 100 in ART/IVF",
+        "Twin ectopic in both fallopian tubes; occurs in 1 in 500",
+        "Two intrauterine pregnancies sharing one sac",
+        "Triplets in the peritoneal cavity"
+      ],
+      "ans": 0,
+      "exp": "Heterotopic pregnancy (intrauterine + ectopic) is rare naturally (1:30,000) but dramatically more common with IVF superovulation (up to 1%). (Book p439)",
+      "id": "OBG-C10-032"
+    },
+    {
+      "sec": "Surgical management & variants",
+      "page": 439,
+      "q": "Why is Methotrexate ABSOLUTELY CONTRAINDICATED in the management of a heterotopic pregnancy?",
+      "opts": [
+        "Methotrexate is a potent teratogen that would destroy the coexisting viable intrauterine fetus",
+        "Methotrexate causes immediate tubal spasm",
+        "Methotrexate has zero effect on trophoblast",
+        "Methotrexate is metabolized by the intrauterine placenta"
+      ],
+      "ans": 0,
+      "exp": "Systemic MTX terminates or severely malforms the intrauterine pregnancy; surgical laparoscopic resection of the ectopic tube preserves the intrauterine baby. (Book p439)",
+      "id": "OBG-C10-033"
+    },
+    {
+      "sec": "Surgical management & variants",
+      "page": 440,
+      "q": "In an unruptured ectopic pregnancy treated by linear salpingostomy, what postoperative complication requires monitoring with serial weekly beta-hCG until negative?",
+      "opts": [
+        "Persistent ectopic pregnancy / persistent trophoblastic tissue (occurring in 5% to 15% of salpingostomies)",
+        "Choriocarcinoma in 100% of cases",
+        "Pelvic actinomycosis",
+        "Permanent amenorrhea"
+      ],
+      "ans": 0,
+      "exp": "Residual trophoblast left in the tubal bed can continue growing (persistent ectopic), requiring postoperative hCG monitoring or prophylactic MTX. (Book p440)",
+      "id": "OBG-C10-034"
+    },
+    {
+      "sec": "Surgical management & variants",
+      "page": 442,
+      "q": "For how long should effective contraception (such as oral contraceptive pills) be advised following successful treatment of an ectopic pregnancy before attempting conception again?",
+      "opts": [
+        "At least 3 months following Methotrexate therapy (to allow complete drug clearance and ovarian recovery), or 1 to 2 normal menstrual cycles post-surgery",
+        "At least 5 years strictly",
+        "No contraception needed; conceive immediately next day",
+        "Pregnancy is permanently contraindicated"
+      ],
+      "ans": 0,
+      "exp": "Methotrexate is retained in tissues for months; delaying pregnancy for at least 3 months prevents MTX-induced teratogenicity. (Book p442)",
+      "id": "OBG-C10-035"
+    }
+  ]
+}

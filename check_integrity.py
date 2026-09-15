@@ -67,9 +67,10 @@ def verify():
     if len(chapters) != 24:
         errors.append(f"Expected 24 chapters, found {len(chapters)}")
 
-    # Chapters 1 to 5 must be live; Chapters 6 to 24 must be locked
+    # Chapters 1 to 10 must be live; Chapters 11 to 24 must be locked
+    live_chapters = list(range(1, 11))
     for ch in chapters:
-        if ch["n"] in [1, 2, 3, 4, 5]:
+        if ch["n"] in live_chapters:
             if not ch["live"]:
                 errors.append(f"Chapter {ch['n']} should be marked live")
         else:
@@ -82,7 +83,12 @@ def verify():
         2: (302, 326),
         3: (327, 339),
         4: (340, 357),
-        5: (358, 374)
+        5: (358, 374),
+        6: (375, 390),
+        7: (391, 405),
+        8: (406, 417),
+        9: (418, 432),
+        10: (433, 442)
     }
 
     # Group questions by chapter
@@ -160,7 +166,7 @@ def verify():
             print(" -", err)
         sys.exit(1)
     else:
-        print(f"PASS: All syntax and integrity checks succeeded perfectly across {len(questions)} questions and {len(units)} units in 5 live chapters!")
+        print(f"PASS: All syntax and integrity checks succeeded perfectly across {len(questions)} questions and {len(units)} units in {len(live_chapters)} live chapters!")
 
 if __name__ == "__main__":
     verify()
