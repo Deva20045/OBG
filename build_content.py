@@ -26,6 +26,11 @@ LIVE_CHAPTERS = {
     8: "Eclampsia, Liver Disorders & Rh-Negative Pregnancy",
     9: "Abortion, Recurrent Loss & MTP",
     10: "MTP, Ectopic Pregnancy & Gestational Trophoblastic Disease",
+    11: "Gestational Trophoblastic Disease: Staging & Management",
+    12: "Antepartum Hemorrhage & Placenta Accreta Spectrum",
+    13: "Multifetal Gestation: Chorionicity, Complications & Delivery",
+    14: "Preterm Labour, PROM & Post-term Pregnancy",
+    15: "Maternal Pelvis, Contracted Pelvis & CPD",
 }
 
 
@@ -42,7 +47,7 @@ def between(text: str, start: str, end: str) -> tuple[int, int]:
 
 def main() -> None:
     chapters = []
-    for number in range(1, 11):
+    for number in range(1, 16):
         path = DATA_PATH / f"ch{number:02d}.json"
         chapter = json.loads(path.read_text(encoding="utf-8"))
         if chapter["chapter"] != number:
@@ -86,7 +91,7 @@ def main() -> None:
     APP_PATH.write_text(html, encoding="utf-8")
     print(
         f"Embedded {len(questions)} questions and {len(units)} units across "
-        f"chapters 1–10 in {APP_PATH.name}."
+        f"chapters 1–15 in {APP_PATH.name}."
     )
 
 
