@@ -93,9 +93,9 @@ function assert(condition, message) {
   if (!condition) throw new Error(message);
 }
 
-assert(pulse.QUESTIONS.length === 1453, `Expected 1,453 questions, found ${pulse.QUESTIONS.length}.`);
-assert(pulse.UNITS.length === 213, `Expected 213 units, found ${pulse.UNITS.length}.`);
-assert(pulse.CHAPTERS.filter((chapter) => chapter.live).length === 10, 'Expected 10 live chapters.');
+assert(pulse.QUESTIONS.length === 1869, `Expected 1,869 questions, found ${pulse.QUESTIONS.length}.`);
+assert(pulse.UNITS.length === 256, `Expected 256 units, found ${pulse.UNITS.length}.`);
+assert(pulse.CHAPTERS.filter((chapter) => chapter.live).length === 15, 'Expected 15 live chapters.');
 
 pulse.chapters();
 assert(elements.get('chList').children.length === 24, 'Roadmap did not render 24 chapter rows.');
@@ -112,4 +112,12 @@ assert(elements.get('qtext').textContent.length > 20, 'Quiz did not render a que
 assert(elements.get('opts').children.length === 4, 'Quiz did not render four options.');
 assert(pulse.QBYID['OBG-C10-228'].page === 441, 'Final Chapter 10 question is unavailable.');
 
-console.log('PASS: roadmap, Chapter 6/10 path data, Chapter 10 quiz start, and final Chapter 10 question render at runtime.');
+pulse.path(15);
+assert(pulse.unitsOf(15).length === 6, 'Chapter 15 unit lookup did not return 6 units.');
+assert(elements.get('pathTitle').textContent === pulse.CHAPTERS[14].t, 'Chapter 15 path title did not render.');
+const lastUnit = pulse.start(15);
+assert(lastUnit.id === 'OBG-U15-1', 'Chapter 15 first unit did not start.');
+assert(elements.get('opts').children.length === 4, 'Chapter 15 quiz did not render four options.');
+assert(pulse.QBYID['OBG-C15-050'].page === 489, 'Final Chapter 15 question is unavailable.');
+
+console.log('PASS: roadmap, Chapter 6/10/15 path data, Chapter 10/15 quiz starts, and final Chapter 10/15 questions render at runtime.');

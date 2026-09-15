@@ -25,6 +25,11 @@ LIVE_CHAPTERS = {
     8: ("Eclampsia, Liver Disorders & Rh-Negative Pregnancy", 402, 417, 224, 31),
     9: ("Abortion, Recurrent Loss & MTP", 418, 427, 158, 22),
     10: ("MTP, Ectopic Pregnancy & Gestational Trophoblastic Disease", 428, 441, 228, 28),
+    11: ("Gestational Trophoblastic Disease: Staging & Management", 442, 446, 61, 6),
+    12: ("Antepartum Hemorrhage & Placenta Accreta Spectrum", 447, 459, 113, 11),
+    13: ("Multifetal Gestation: Chorionicity, Complications & Delivery", 460, 471, 87, 9),
+    14: ("Preterm Labour, PROM & Post-term Pregnancy", 472, 482, 105, 11),
+    15: ("Maternal Pelvis, Contracted Pelvis & CPD", 483, 489, 50, 6),
 }
 
 REQUIRED_UI = [
@@ -106,7 +111,7 @@ def verify() -> None:
         # This makes accidental partial generation or duplicate appends fail loudly.
         if expected_qs < 1 or expected_units < 1:
             errors.append(f"Invalid expected content count configured for Chapter {number}")
-    for number in range(11, 25):
+    for number in range(16, 25):
         if metadata.get(number, {}).get("live"):
             errors.append(f"Future Chapter {number} should remain marked Soon")
 
@@ -266,7 +271,7 @@ def verify() -> None:
 
     total_pages = sum(last - first + 1 for _title, first, last, _q, _u in LIVE_CHAPTERS.values())
     print(
-        "PASS: 10 live chapters; "
+        "PASS: 15 live chapters; "
         f"{len(questions)} questions; {len(units)} units; "
         f"all {total_pages} in-scope Book pages represented; "
         "IDs, four-option structure, citations, order, source artifacts, UI hooks, and JavaScript syntax verified."

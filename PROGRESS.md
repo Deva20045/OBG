@@ -162,14 +162,47 @@ Build a line-by-line PULSE quiz companion for the Marrow Edition 8 Obstetrics & 
 - **Total units**: **28** (`OBG-U10-1` through `OBG-U10-28`)
 - **Coverage**: first-/second-trimester method selection, medical-abortion protocols, suction evacuation/MVA/D&E and complications; ectopic anatomy, sites, risks, presentation, rupture and emergency care; unruptured diagnostic algorithms, methotrexate, expectant and surgical care; special ectopics; and molar/gestational trophoblastic disease foundations, risk and presentation.
 
+
+### Chapter 11: Gestational Trophoblastic Disease: Staging & Management
+- **Page range**: Book pages 442–446 (Part 3 PDF pages 55–59)
+- **Total questions**: **61** (`OBG-C11-001` through `OBG-C11-061`)
+- **Total units**: **6** (`OBG-U11-1` through `OBG-U11-6`)
+- **Coverage**: molar pregnancy signs, evacuation and β-hCG follow-up; partial vs complete mole; GTN causes, lab criteria and metastases; FIGO staging with WHO risk scoring; methotrexate and EMA-CO/EMA-EP chemotherapy; hysterectomy indications, PSTT/ETT and histopathology.
+
+### Chapter 12: Antepartum Hemorrhage & Placenta Accreta Spectrum
+- **Page range**: Book pages 447–459 (Part 3 PDF pages 60–62 and Part 4 PDF pages 1–10)
+- **Total questions**: **113** (`OBG-C12-001` through `OBG-C12-113`)
+- **Total units**: **11** (`OBG-U12-1` through `OBG-U12-11`)
+- **Coverage**: APH definition, causes and etiopathogenesis; placenta previa classification, risks, presentation, examination and resuscitation; follow-up, mode of delivery and expectant/active management; abruptio varieties, Page grading, management, DIC and differentials; placenta accreta spectrum classification, workup and ACOG management.
+
+### Chapter 13: Multifetal Gestation: Chorionicity, Complications & Delivery
+- **Page range**: Book pages 460–471 (Part 4 PDF pages 11–22)
+- **Total questions**: **87** (`OBG-C13-001` through `OBG-C13-087`)
+- **Total units**: **9** (`OBG-U13-1` through `OBG-U13-9`)
+- **Coverage**: dizygotic vs monozygotic twins, Hellin's rule, superfecundation/superfetation; chorionicity/amnionicity and membrane timing; DCDA/MCDA/MCMA comparison and twin ultrasound; maternal and fetal complications with fetal reduction; vanishing twin and single-twin death; TTTS physiology, Quintero staging and treatment; TAPS, TRAP, selective IUGR; and delivery of twins.
+
+### Chapter 14: Preterm Labour, PROM & Post-term Pregnancy
+- **Page range**: Book pages 472–482 (Part 4 PDF pages 23–33)
+- **Total questions**: **105** (`OBG-C14-001` through `OBG-C14-105`)
+- **Total units**: **11** (`OBG-U14-1` through `OBG-U14-11`)
+- **Coverage**: PTL causes, risks and TVS prediction; cerclage and progesterone prevention; established-PTL definitions and fetal fibronectin; corticosteroids, tocolytics, MgSO4, GBS and antibiotics with the early/late summary; PROM/PPROM consequences, fluid evaluation and management; chorioamnionitis; post-term pregnancy physiology, consequences, ACOG management and macrosomia.
+
+### Chapter 15: Maternal Pelvis, Contracted Pelvis & CPD
+- **Page range**: Book pages 483–489 (Part 4 PDF pages 34–40)
+- **Total questions**: **50** (`OBG-C15-001` through `OBG-C15-050`)
+- **Total units**: **6** (`OBG-U15-1` through `OBG-U15-6`)
+- **Coverage**: pelvic brim, false/true pelvis and inlet diameters; cavity planes of greatest and least dimensions; mid-pelvis, outlet, sagittal diameters and pelvic angles; ischial spine significance and stations; contracted pelvis cut-offs, pelvic variations and cephalopelvic disproportion; CPD notes and Caldwell-Moloy pelvic types.
+
 ---
 
 ## Validation Status
-- Total live chapters: **10** (Chapters 1 to 10)
-- Total questions: **1,453**
-- Total units: **213**
+- Total live chapters: **15** (Chapters 1 to 15)
+- Total questions: **1,869**
+- Total units: **256**
 - New Chapter 6–10 addition: **915 questions** in **122 focused units** across Book pages **375–441**.
-- All **177** in-scope Book pages (265–441) have at least one cited question; all 67 newly added source pages are represented.
+- New Chapter 11–15 addition: **416 questions** in **43 focused units** across Book pages **442–489**.
+- All **225** in-scope Book pages (265–489) have at least one cited question; all 115 added source pages are represented.
+- Roadmap rows for Chapters 16–24 were re-titled from the actual Book content (Fetal Skull & Terminologies of Labour p490, Stages of Labour p499, Partogram & WHO Labour Care Guide p506, Normal Labour & Induction p513, PPH & Third Stage Complications p529, Perineal Trauma & Malpresentations p540, Breech & Instrumental Delivery p551, Caesarean Section & VBAC p563, Puerperium p567) and remain locked as "Soon".
 - Contiguous, globally unique question and unit IDs: **PASS**
 - Exactly four distinct, non-empty options and a valid answer index per question: **PASS**
 - 100% question coverage by units exactly once, in source order: **PASS**
@@ -185,7 +218,12 @@ Build a line-by-line PULSE quiz companion for the Marrow Edition 8 Obstetrics & 
   - Chapter 8 — Eclampsia, Liver Disorders & Rh-Negative Pregnancy: **224 questions**, **31 units**, Book p402–417.
   - Chapter 9 — Abortion, Recurrent Loss & MTP: **158 questions**, **22 units**, Book p418–427.
   - Chapter 10 — MTP, Ectopic Pregnancy & Gestational Trophoblastic Disease: **228 questions**, **28 units**, Book p428–441.
-- **Roadmap**: Chapters 1–10 are Live; Chapters 11–24 remain marked as "Soon" until transcribed.
+  - Chapter 11 — Gestational Trophoblastic Disease: Staging & Management: **61 questions**, **6 units**, Book p442–446.
+  - Chapter 12 — Antepartum Hemorrhage & Placenta Accreta Spectrum: **113 questions**, **11 units**, Book p447–459.
+  - Chapter 13 — Multifetal Gestation: Chorionicity, Complications & Delivery: **87 questions**, **9 units**, Book p460–471.
+  - Chapter 14 — Preterm Labour, PROM & Post-term Pregnancy: **105 questions**, **11 units**, Book p472–482.
+  - Chapter 15 — Maternal Pelvis, Contracted Pelvis & CPD: **50 questions**, **6 units**, Book p483–489.
+- **Roadmap**: Chapters 1–15 are Live; Chapters 16–24 remain marked as "Soon" until transcribed.
 
 ## Live Links
 - GitHub Pages live link: `https://deva20045.github.io/OBG/` (redirects to `pulse-obg.html`).

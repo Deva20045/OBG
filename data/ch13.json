@@ -1,0 +1,1404 @@
+{
+ "chapter": 13,
+ "title": "Multifetal Gestation: Chorionicity, Complications & Delivery",
+ "pageRange": "460-471",
+ "questions": [
+  {
+   "id": "OBG-C13-001",
+   "sec": "Dizygotic vs monozygotic twins",
+   "page": 460,
+   "q": "Fill up: Dizygotic twins form when ______, whereas monozygotic twins form when ______.",
+   "opts": [
+    "2 ova are fertilized by 2 different sperms; a single ovum fertilized by a single sperm divides into 2",
+    "1 ovum is fertilized by 2 sperms; 2 ova fuse",
+    "Both arise from 1 zygote",
+    "Both arise from 2 zygotes"
+   ],
+   "ans": 0,
+   "exp": "Dizygotic = 2 ova + 2 sperms → 2 zygotes; monozygotic = 1 ovum + 1 sperm → 1 zygote that divides. (Book p460)"
+  },
+  {
+   "id": "OBG-C13-002",
+   "sec": "Dizygotic vs monozygotic twins",
+   "page": 460,
+   "q": "Which twin type is more common and what are they also called?",
+   "opts": [
+    "Dizygotic – fraternal twins",
+    "Monozygotic – fraternal twins",
+    "Dizygotic – identical twins",
+    "Monozygotic – binovular twins"
+   ],
+   "ans": 0,
+   "exp": "Dizygotic twins are more common and are called fraternal; monozygotic are identical. (Book p460)"
+  },
+  {
+   "id": "OBG-C13-003",
+   "sec": "Dizygotic vs monozygotic twins",
+   "page": 460,
+   "q": "Which characteristics are SHARED by monozygotic twins but may differ in dizygotic twins?",
+   "opts": [
+    "Sex, blood group, HLA typing and phenotyping – yet fingerprints differ",
+    "Only sex",
+    "Only blood group",
+    "Nothing is shared"
+   ],
+   "ans": 0,
+   "exp": "Monozygotic twins share sex, blood group, HLA and phenotype but have different fingerprints; dizygotic sex may differ. (Book p460)"
+  },
+  {
+   "id": "OBG-C13-004",
+   "sec": "Dizygotic vs monozygotic twins",
+   "page": 460,
+   "q": "Match incidence of dizygotic twinning by country.",
+   "opts": [
+    "Nigeria 1 in 20 (maximum), Japan 1 in 200 (least), India 1 in 80",
+    "Nigeria 1 in 200, Japan 1 in 20, India 1 in 800",
+    "Uniform 1 in 80 everywhere",
+    "India 1 in 20, Nigeria 1 in 200"
+   ],
+   "ans": 0,
+   "exp": "Incidence: Nigeria 1:20 max, Japan 1:200 least, India 1:80. (Book p460)"
+  },
+  {
+   "id": "OBG-C13-005",
+   "sec": "Dizygotic vs monozygotic twins",
+   "page": 460,
+   "q": "Monozygotic twinning incidence across the world is:",
+   "opts": [
+    "Uniform – about 1 in 250",
+    "Highest in Nigeria",
+    "Lowest in Japan",
+    "Same as dizygotic in India"
+   ],
+   "ans": 0,
+   "exp": "Monozygotic twinning is uniform worldwide (1 in 250). (Book p460)"
+  },
+  {
+   "id": "OBG-C13-006",
+   "sec": "Dizygotic vs monozygotic twins",
+   "page": 460,
+   "q": "Hellin's rule states twins occur 1 in 80; triplets and quadruplets follow which pattern?",
+   "opts": [
+    "Triplets 1 in 80², quadruplets 1 in 80³",
+    "Triplets 1 in 160, quadruplets 1 in 320",
+    "Triplets 1 in 80, quadruplets 1 in 160",
+    "Triplets 1 in 80³, quadruplets 1 in 80²"
+   ],
+   "ans": 0,
+   "exp": "Hellin's rule: triplets 1 in 80² and quadruplets 1 in 80³. (Book p460)"
+  },
+  {
+   "id": "OBG-C13-007",
+   "sec": "Superfecundation, superfetation & risk factors",
+   "page": 461,
+   "q": "Two ova released in the SAME cycle but fertilized at different times by different acts of coitus is:",
+   "opts": [
+    "Superfecundation – rare but seen in humans",
+    "Superfetation – not seen in humans",
+    "Superfecundation – never seen in humans",
+    "Superfetation – common in humans"
+   ],
+   "ans": 0,
+   "exp": "Superfecundation = same-cycle ova fertilized at different times; it is rare but possible in humans. (Book p461)"
+  },
+  {
+   "id": "OBG-C13-008",
+   "sec": "Superfecundation, superfetation & risk factors",
+   "page": 461,
+   "q": "Superfetation (ova released and fertilized in DIFFERENT cycles) is:",
+   "opts": [
+    "Not seen in humans – theoretically possible until the uterine cavity is obliterated at 14–16 weeks",
+    "Common after IVF",
+    "Seen only in multiparae",
+    "The same as superfecundation"
+   ],
+   "ans": 0,
+   "exp": "Superfetation is not seen in humans; theoretically possible until cavity obliteration at 14–16 weeks. (Book p461)"
+  },
+  {
+   "id": "OBG-C13-009",
+   "sec": "Superfecundation, superfetation & risk factors",
+   "page": 461,
+   "q": "Risk factors for DIZYGOTIC twins include all EXCEPT:",
+   "opts": [
+    "IVF only – geographical distribution, ↑ maternal age, ↑ parity and maternal family history are not risks",
+    "Geographical distribution",
+    "↑ maternal age and ↑ parity",
+    "Maternal family h/o twins and ovulation-induction drugs (clomiphene, hMG)"
+   ],
+   "ans": 0,
+   "exp": "Dizygotic risks: geography, ↑ age, ↑ parity, maternal family history, IVF and ovulation induction; IVF alone is the monozygotic risk. (Book p461)"
+  },
+  {
+   "id": "OBG-C13-010",
+   "sec": "Superfecundation, superfetation & risk factors",
+   "page": 461,
+   "q": "The only listed risk factor for MONOZYGOTIC twins is:",
+   "opts": [
+    "IVF",
+    "↑ parity",
+    "Geographical distribution",
+    "Ovulation induction with clomiphene"
+   ],
+   "ans": 0,
+   "exp": "Monozygotic twinning risk lists IVF only. (Book p461)"
+  },
+  {
+   "id": "OBG-C13-011",
+   "sec": "Chorionicity & amnionicity",
+   "page": 461,
+   "q": "Zygosity refers to ______ while chorionicity refers to ______.",
+   "opts": [
+    "Type of conception; type of placentation",
+    "Type of placentation; type of conception",
+    "Number of sacs; number of embryos",
+    "Sex; karyotype"
+   ],
+   "ans": 0,
+   "exp": "Zygosity = type of conception; chorionicity = type of placentation. (Book p461)"
+  },
+  {
+   "id": "OBG-C13-012",
+   "sec": "Chorionicity & amnionicity",
+   "page": 461,
+   "q": "Match the fetal membranes: chorion and amnion.",
+   "opts": [
+    "Chorion – outer membrane formed on day 8; amnion – inner membrane formed on day 10",
+    "Chorion – inner, day 10; amnion – outer, day 8",
+    "Both form on day 8",
+    "Both form on day 10"
+   ],
+   "ans": 0,
+   "exp": "Chorion is the outer membrane (day 8) and amnion the inner (day 10). (Book p461)"
+  },
+  {
+   "id": "OBG-C13-013",
+   "sec": "Chorionicity & amnionicity",
+   "page": 461,
+   "q": "Dizygotic twins always have which membrane arrangement?",
+   "opts": [
+    "Dichorionic diamniotic – each twin with separate amnion and chorion",
+    "Monochorionic diamniotic",
+    "Monochorionic monoamniotic",
+    "Dichorionic monoamniotic"
+   ],
+   "ans": 0,
+   "exp": "Dizygotic twins are DCDA with separate amnion and chorion each. (Book p461)"
+  },
+  {
+   "id": "OBG-C13-014",
+   "sec": "Chorionicity & amnionicity",
+   "page": 462,
+   "q": "Match division timing of a monozygotic zygote to its membrane pattern: <4 days (morula), 4–8 days (blastocyst), 8–12 days, ≥12 days.",
+   "opts": [
+    "DCDA; MCDA; MCMA; conjoined/Siamese",
+    "MCDA; DCDA; MCMA; conjoined",
+    "DCDA; MCMA; MCDA; conjoined",
+    "Conjoined; MCMA; MCDA; DCDA"
+   ],
+   "ans": 0,
+   "exp": "<4 days DCDA; 4–8 days MCDA (common chorion by day 8); 8–12 days MCMA; ≥12 days conjoined twins. (Book p462)"
+  },
+  {
+   "id": "OBG-C13-015",
+   "sec": "Chorionicity & amnionicity",
+   "page": 462,
+   "q": "Division at 4–8 days (blastocyst stage) yields MCDA because:",
+   "opts": [
+    "By day 8 a common chorion is already formed while amnions remain separate",
+    "The amnion forms before the chorion",
+    "Both membranes are shared",
+    "No membranes form"
+   ],
+   "ans": 0,
+   "exp": "Division after day 4 but before the common chorion/amnion sequence gives a shared chorion with two amnions. (Book p462)"
+  },
+  {
+   "id": "OBG-C13-016",
+   "sec": "Chorionicity & amnionicity",
+   "page": 462,
+   "q": "Division occurring after formation of the single amnion, chorion and embryonic disc (≥12 days) results in:",
+   "opts": [
+    "Conjoined/Siamese twins",
+    "MCDA twins",
+    "DCDA twins",
+    "Vanishing twin"
+   ],
+   "ans": 0,
+   "exp": "Late division after the embryonic disc forms produces conjoined/Siamese twins. (Book p462)"
+  },
+  {
+   "id": "OBG-C13-017",
+   "sec": "Chorionicity & amnionicity",
+   "page": 462,
+   "q": "Complications and management of monochorionic monoamniotic twins (which include all conjoined twins):",
+   "opts": [
+    "Cord entanglement and sudden IUD of both twins; corticosteroids for lung maturity and C-section at 32–34 weeks",
+    "TTTS only; laser ablation",
+    "Preterm labour only; cerclage",
+    "Nothing specific; vaginal delivery at term"
+   ],
+   "ans": 0,
+   "exp": "MCMA carries cord entanglement and sudden double IUD; give steroids and deliver by C-section at 32–34 weeks. (Book p462)"
+  },
+  {
+   "id": "OBG-C13-018",
+   "sec": "Chorionicity & amnionicity",
+   "page": 462,
+   "q": "The m/c variety of twins overall and among monozygotic twins respectively are:",
+   "opts": [
+    "DCDA (dizygotic); MCDA",
+    "MCDA; DCDA",
+    "MCMA; DCDA",
+    "DCDA; MCMA"
+   ],
+   "ans": 0,
+   "exp": "Overall m/c is DCDA; among monozygotic twins m/c is MCDA. (Book p462)"
+  },
+  {
+   "id": "OBG-C13-019",
+   "sec": "Chorionicity & amnionicity",
+   "page": 462,
+   "q": "Prognosis in twins depends primarily on:",
+   "opts": [
+    "Chorionicity – monochorionic bad, dichorionic better",
+    "Zygosity only",
+    "Fetal sex",
+    "Maternal parity"
+   ],
+   "ans": 0,
+   "exp": "Prognosis depends on chorionicity: monochorionic worse, dichorionic better. (Book p462)"
+  },
+  {
+   "id": "OBG-C13-020",
+   "sec": "Chorionicity & amnionicity",
+   "page": 462,
+   "q": "Determination of chorionicity: IOC and timing are:",
+   "opts": [
+    "USG (TVS) between 10–14 weeks (1st trimester)",
+    "TAS at 20–24 weeks",
+    "MRI at 28 weeks",
+    "Doppler at 16 weeks"
+   ],
+   "ans": 0,
+   "exp": "Chorionicity is best determined by TVS at 10–14 weeks. (Book p462)"
+  },
+  {
+   "id": "OBG-C13-021",
+   "sec": "DCDA vs MCDA vs MCMA",
+   "page": 463,
+   "q": "Number of membrane layers between the twins in DCDA, MCDA and MCMA respectively:",
+   "opts": [
+    "4, 2, 0",
+    "2, 4, 0",
+    "4, 0, 2",
+    "6, 4, 2"
+   ],
+   "ans": 0,
+   "exp": "DCDA 4 layers, MCDA 2 layers, MCMA none. (Book p463)"
+  },
+  {
+   "id": "OBG-C13-022",
+   "sec": "DCDA vs MCDA vs MCMA",
+   "page": 463,
+   "q": "Membrane thickness distinguishing DCDA from MCDA is:",
+   "opts": [
+    "≥ 2 mm in DCDA vs < 2 mm in MCDA",
+    "≥ 5 mm vs < 5 mm",
+    "< 1 mm vs ≥ 1 mm",
+    "Thickness is identical"
+   ],
+   "ans": 0,
+   "exp": "DCDA membranes are ≥2 mm thick while MCDA are <2 mm. (Book p463)"
+  },
+  {
+   "id": "OBG-C13-023",
+   "sec": "DCDA vs MCDA vs MCMA",
+   "page": 463,
+   "q": "Vascular connections between twins in DCDA, MCDA and MCMA are:",
+   "opts": [
+    "Absent; deep vascular connections; superficial vascular connections",
+    "Deep; absent; superficial",
+    "Superficial; deep; absent",
+    "Absent in all"
+   ],
+   "ans": 0,
+   "exp": "DCDA lacks connections; MCDA has deep connections (TTTS risk); MCMA has superficial ones. (Book p463)"
+  },
+  {
+   "id": "OBG-C13-024",
+   "sec": "DCDA vs MCDA vs MCMA",
+   "page": 463,
+   "q": "Placental number and USG sign in DCDA twins:",
+   "opts": [
+    "2 placentae (or appearing single) with twin peak/Lambda sign (placenta between chorions)",
+    "Single placenta with T sign",
+    "Single placenta with no sign",
+    "2 placentae with T sign"
+   ],
+   "ans": 0,
+   "exp": "DCDA shows 2 placentae and the twin peak/Lambda sign with placenta between the chorions. (Book p463)"
+  },
+  {
+   "id": "OBG-C13-025",
+   "sec": "DCDA vs MCDA vs MCMA",
+   "page": 463,
+   "q": "The T sign on USG (single chorion with no intervening placenta) indicates:",
+   "opts": [
+    "MCDA",
+    "DCDA",
+    "MCMA",
+    "Conjoined twins"
+   ],
+   "ans": 0,
+   "exp": "T sign = single chorion without intervening placenta = MCDA. (Book p463)"
+  },
+  {
+   "id": "OBG-C13-026",
+   "sec": "DCDA vs MCDA vs MCMA",
+   "page": 463,
+   "q": "Specific complications of MCDA and MCMA respectively:",
+   "opts": [
+    "TTTS (due to deep vascular connections); cord entanglement",
+    "Cord entanglement; TTTS",
+    "Vanishing twin; TRAP",
+    "Selective IUGR; TAPS"
+   ],
+   "ans": 0,
+   "exp": "MCDA → TTTS via deep connections; MCMA → cord entanglement. (Book p463)"
+  },
+  {
+   "id": "OBG-C13-027",
+   "sec": "DCDA vs MCDA vs MCMA",
+   "page": 463,
+   "q": "Delivery timing for DCDA, MCDA and MCMA twins:",
+   "opts": [
+    "38 weeks; 36 weeks; 32–34 weeks by C-section after corticosteroids",
+    "40 weeks; 38 weeks; 36 weeks",
+    "36 weeks; 34 weeks; 32 weeks",
+    "37 weeks for all"
+   ],
+   "ans": 0,
+   "exp": "DCDA 38 weeks, MCDA 36 weeks, MCMA 32–34 weeks by C-section after steroids. (Book p463)"
+  },
+  {
+   "id": "OBG-C13-028",
+   "sec": "USG in twin pregnancy & conjoined twins",
+   "page": 464,
+   "q": "USG in twin pregnancy is significant for assessing gestational age, chorionicity and ↑NT. Chorionicity can be determined earliest at ______ and best at ______.",
+   "opts": [
+    "7 weeks; 10 weeks",
+    "5 weeks; 8 weeks",
+    "10 weeks; 14 weeks",
+    "12 weeks; 16 weeks"
+   ],
+   "ans": 0,
+   "exp": "Chorionicity: earliest 7 weeks, best 10 weeks. (Book p464)"
+  },
+  {
+   "id": "OBG-C13-029",
+   "sec": "USG in twin pregnancy & conjoined twins",
+   "page": 464,
+   "q": "An increased nuchal translucency in a twin pregnancy raises suspicion of ______, and its ideal assessment time is the ______ trimester.",
+   "opts": [
+    "Twin-to-twin transfusion syndrome; 2nd",
+    "Conjoined twinning; 1st",
+    "TAPS; 3rd",
+    "Selective IUGR; 1st"
+   ],
+   "ans": 0,
+   "exp": "↑NT suggests TTTS; the ideal time is the 2nd trimester. (Book p464)"
+  },
+  {
+   "id": "OBG-C13-030",
+   "sec": "USG in twin pregnancy & conjoined twins",
+   "page": 464,
+   "q": "Which is NOT a marker of dichorionicity on USG?",
+   "opts": [
+    "Single thin membrane of <2 mm",
+    "≥4 membranes between twins",
+    "Different fetal sexes",
+    "Twin peak sign (+) or 2 placentae"
+   ],
+   "ans": 0,
+   "exp": "Dichorionicity markers: ≥4 membranes, ≥2 mm thickness, different sexes, 2 placentae and twin peak sign. (Book p464)"
+  },
+  {
+   "id": "OBG-C13-031",
+   "sec": "USG in twin pregnancy & conjoined twins",
+   "page": 464,
+   "q": "Conjoined twins are a complication of which twin type, and how are the types named?",
+   "opts": [
+    "Monoamniotic twins; parapagus (lower abdomen/pelvis), thoracophagus (thorax), rachiphagus (vertebral column), craniophagus",
+    "Dichorionic twins; cephalopagus only",
+    "MCDA twins; ischiopagus only",
+    "Dizygotic twins; parapagus only"
+   ],
+   "ans": 0,
+   "exp": "Conjoined twins complicate monoamniotic pregnancies with the listed joining types. (Book p464)"
+  },
+  {
+   "id": "OBG-C13-032",
+   "sec": "USG in twin pregnancy & conjoined twins",
+   "page": 464,
+   "q": "Management of conjoined twins is:",
+   "opts": [
+    "C-section between 32–34 weeks after completing the steroid course",
+    "Vaginal delivery at 38 weeks",
+    "Fetal reduction at 12 weeks",
+    "Serial amnioreduction"
+   ],
+   "ans": 0,
+   "exp": "Deliver by C-section at 32–34 weeks after the steroid course. (Book p464)"
+  },
+  {
+   "id": "OBG-C13-033",
+   "sec": "Maternal complications & PIH prophylaxis",
+   "page": 465,
+   "q": "Maternal complications of twin pregnancy include pronounced haemodynamic changes, ↑ placental size, polyhydramnios and which liver conditions?",
+   "opts": [
+    "Intrahepatic cholestasis and acute fatty liver of pregnancy",
+    "Cirrhosis and hepatitis E",
+    "Gilbert syndrome",
+    "Budd-Chiari syndrome"
+   ],
+   "ans": 0,
+   "exp": "Intrahepatic cholestasis and acute fatty liver of pregnancy are listed maternal complications. (Book p465)"
+  },
+  {
+   "id": "OBG-C13-034",
+   "sec": "Maternal complications & PIH prophylaxis",
+   "page": 465,
+   "q": "Twin pregnancy increases the risk of which obstetric complications?",
+   "opts": [
+    "Preterm labour, PROM, PPH, cord prolapse, malpresentations, pre-eclampsia, abruptio and placenta previa",
+    "Only gestational diabetes",
+    "Only hyperemesis",
+    "Only anaemia"
+   ],
+   "ans": 0,
+   "exp": "All listed risks rise, including pre-eclampsia from ↑ paternal antigen exposure. (Book p465)"
+  },
+  {
+   "id": "OBG-C13-035",
+   "sec": "Maternal complications & PIH prophylaxis",
+   "page": 465,
+   "q": "↑ hCG and ↑ human placental lactogen in twins explain which associations?",
+   "opts": [
+    "Hyperemesis gravidarum and gestational diabetes",
+    "Pre-eclampsia and eclampsia",
+    "PPH and DIC",
+    "Malpresentation and cord prolapse"
+   ],
+   "ans": 0,
+   "exp": "↑hCG → hyperemesis; ↑hPL → gestational diabetes. (Book p465)"
+  },
+  {
+   "id": "OBG-C13-036",
+   "sec": "Maternal complications & PIH prophylaxis",
+   "page": 465,
+   "q": "Pre-eclampsia in twin pregnancy is attributed to:",
+   "opts": [
+    "↑ exposure to paternal antigens",
+    "↑ maternal age only",
+    "Low aspirin intake",
+    "Rh negativity"
+   ],
+   "ans": 0,
+   "exp": "The notes attribute pre-eclampsia to increased paternal antigen exposure. (Book p465)"
+  },
+  {
+   "id": "OBG-C13-037",
+   "sec": "Maternal complications & PIH prophylaxis",
+   "page": 465,
+   "q": "PIH prophylaxis in twin pregnancy uses:",
+   "opts": [
+    "Low-dose aspirin 80–150 mg/day started before 16 weeks (ideal 12 weeks)",
+    "High-dose aspirin after 28 weeks",
+    "Calcium only after 20 weeks",
+    "Heparin from conception"
+   ],
+   "ans": 0,
+   "exp": "Low-dose aspirin 80–150 mg/day before 16 weeks (ideally 12) is the prophylaxis. (Book p465)"
+  },
+  {
+   "id": "OBG-C13-038",
+   "sec": "Fetal complications & fetal reduction",
+   "page": 465,
+   "q": "Fetal complications are m/c in which order?",
+   "opts": [
+    "Monochorionic > dichorionic and monozygotic > dizygotic (except cumulative chromosomal anomaly risk)",
+    "Dichorionic > monochorionic",
+    "Dizygotic > monozygotic always",
+    "Equal in all"
+   ],
+   "ans": 0,
+   "exp": "Complications are m/c in monochorionic and monozygotic twins, except cumulative chromosomal anomaly risk. (Book p465)"
+  },
+  {
+   "id": "OBG-C13-039",
+   "sec": "Fetal complications & fetal reduction",
+   "page": 465,
+   "q": "For aneuploidy testing, sampling differs by zygosity how?",
+   "opts": [
+    "Monozygotic – sample any one twin; dizygotic – sample both twins",
+    "Monozygotic – sample both; dizygotic – sample one",
+    "Sample both in all cases",
+    "Sampling is not needed"
+   ],
+   "ans": 0,
+   "exp": "Monozygotic twins share genetics so one sample suffices; dizygotic need both sampled. (Book p465)"
+  },
+  {
+   "id": "OBG-C13-040",
+   "sec": "Fetal complications & fetal reduction",
+   "page": 465,
+   "q": "Prognosis depends on chorionicity and amnionicity EXCEPT for which two complications?",
+   "opts": [
+    "Preterm labour (related to number of twins) and IUGR",
+    "TTTS and TAPS",
+    "TRAP and cord entanglement",
+    "Vanishing twin and conjoining"
+   ],
+   "ans": 0,
+   "exp": "Preterm labour relates to twin number and IUGR is independent of chorionicity. (Book p465)"
+  },
+  {
+   "id": "OBG-C13-041",
+   "sec": "Fetal complications & fetal reduction",
+   "page": 465,
+   "q": "Fetal reduction in multifetal pregnancy: DOC, target and timing are:",
+   "opts": [
+    "Intracardiac KCl injection into the fetus with least chance of survival, at 10–13 weeks",
+    "Intracardiac KCl into the largest fetus at 20 weeks",
+    "Aspiration of amniotic fluid at 8 weeks",
+    "Cord occlusion at 16 weeks"
+   ],
+   "ans": 0,
+   "exp": "Intracardiac KCl to the least-viable fetus at 10–13 weeks; it does not affect the other fetus's survival. (Book p465)"
+  },
+  {
+   "id": "OBG-C13-042",
+   "sec": "Complications common to all twins",
+   "page": 466,
+   "q": "The three complications common to ALL twin pregnancies are:",
+   "opts": [
+    "Preterm labour (m/c), IUGR and congenital anomalies",
+    "TTTS, TAPS and TRAP",
+    "Cord prolapse, vasa previa and rupture",
+    "PIH, GDM and anaemia"
+   ],
+   "ans": 0,
+   "exp": "Preterm labour (m/c), IUGR and congenital anomalies affect all twins. (Book p466)"
+  },
+  {
+   "id": "OBG-C13-043",
+   "sec": "Complications common to all twins",
+   "page": 466,
+   "q": "In a primigravida twin pregnancy without history of preterm labour or 2nd-trimester abortion, cervical cerclage is:",
+   "opts": [
+    "Not done",
+    "Done routinely at 14 weeks",
+    "Done only with TVS-guided indication",
+    "Done with progesterone cover"
+   ],
+   "ans": 0,
+   "exp": "The notes state cerclage is not done in this scenario. (Book p466)"
+  },
+  {
+   "id": "OBG-C13-044",
+   "sec": "Complications common to all twins",
+   "page": 466,
+   "q": "Congenital anomalies in twins are m/c compared with singletons and follow which pattern?",
+   "opts": [
+    "Twin > singleton; monochorionic > dichorionic; heart defects",
+    "Singleton > twin",
+    "Dichorionic > monochorionic",
+    "Neural tube defects only"
+   ],
+   "ans": 0,
+   "exp": "Anomalies are more common in twins, especially monochorionic, with heart defects highlighted. (Book p466)"
+  },
+  {
+   "id": "OBG-C13-045",
+   "sec": "Complications common to all twins",
+   "page": 466,
+   "q": "For TTTS screening in monochorionic twins, echocardiography is done at ______ and a target/anomaly/level II scan is done in ______.",
+   "opts": [
+    "18–22 weeks; all pregnant women",
+    "12–14 weeks; monochorionic only",
+    "28–30 weeks; twins only",
+    "34 weeks; all pregnant women"
+   ],
+   "ans": 0,
+   "exp": "Echo at 18–22 weeks; the level II scan applies to all pregnant women. (Book p466)"
+  },
+  {
+   "id": "OBG-C13-046",
+   "sec": "Complications common to all twins",
+   "page": 466,
+   "q": "Vanishing twin syndrome refers to ______ and is common in ______.",
+   "opts": [
+    "Early spontaneous reduction of a twin pregnancy to singleton; IVF pregnancies",
+    "Death of both twins at term; spontaneous conception",
+    "Selective feticide; IVF",
+    "Late IUD of one twin; natural conception"
+   ],
+   "ans": 0,
+   "exp": "Vanishing twin = early spontaneous reduction to singleton, common after IVF. (Book p466)"
+  },
+  {
+   "id": "OBG-C13-047",
+   "sec": "Complications common to all twins",
+   "page": 466,
+   "q": "Effect of a vanishing twin on the surviving co-twin:",
+   "opts": [
+    "Normal survival ± low birth weight/SGA",
+    "Always preterm delivery",
+    "High risk of cerebral palsy",
+    "No effect ever"
+   ],
+   "ans": 0,
+   "exp": "The second twin usually survives normally, ± LBW/SGA. (Book p466)"
+  },
+  {
+   "id": "OBG-C13-048",
+   "sec": "Death of one twin",
+   "page": 466,
+   "q": "After death of one twin, complications in the survivor depend on chorionicity how?",
+   "opts": [
+    "Surviving monochorionic twin – complications (+) due to vascular anastomosis; surviving dichorionic twin – complications (−)",
+    "Both suffer equally",
+    "Dichorionic survivor suffers more",
+    "Neither suffers"
+   ],
+   "ans": 0,
+   "exp": "Vascular anastomoses transmit injury only in monochorionic survivors. (Book p466)"
+  },
+  {
+   "id": "OBG-C13-049",
+   "sec": "Death of one twin",
+   "page": 466,
+   "q": "In a dying monochorionic co-twin, the sequence in twin A (high-pressure system) flowing to twin B (low-pressure system) causes:",
+   "opts": [
+    "Hypotension, anemia and exsanguination leading to death of twin A",
+    "Polycythemia in twin A",
+    "Hypertension in twin B",
+    "No haemodynamic change"
+   ],
+   "ans": 0,
+   "exp": "Blood flows from the high-pressure twin A to twin B causing hypotension, anemia, exsanguination and death of twin A. (Book p466)"
+  },
+  {
+   "id": "OBG-C13-050",
+   "sec": "Death of one twin",
+   "page": 467,
+   "q": "Management when USG shows impending death of the 1st twin:",
+   "opts": [
+    "Immediate delivery of both twins",
+    "Expectant management with Doppler",
+    "Selective feticide of twin B",
+    "Serial amnioreduction"
+   ],
+   "ans": 0,
+   "exp": "Impending death of the 1st twin mandates immediate delivery of both. (Book p467)"
+  },
+  {
+   "id": "OBG-C13-051",
+   "sec": "Monochorionic-specific complications",
+   "page": 467,
+   "q": "The four complications specific to monochorionic twins are:",
+   "opts": [
+    "TTTS, TAPS, TRAP and selective IUGR",
+    "Preterm labour, IUGR, anomalies, PPH",
+    "Cord entanglement, conjoining, vanishing twin, show",
+    "PIH, GDM, cholestasis, AFLP"
+   ],
+   "ans": 0,
+   "exp": "TTTS, TAPS, TRAP and selective IUGR are monochorionic-specific. (Book p467)"
+  },
+  {
+   "id": "OBG-C13-052",
+   "sec": "Monochorionic-specific complications",
+   "page": 467,
+   "q": "Differentiate IUGR from selective IUGR in twins.",
+   "opts": [
+    "IUGR relates to twin number with both twins IUGR; selective IUGR is a monochorionic complication with one normal and one IUGR twin",
+    "Both terms are identical",
+    "Selective IUGR affects dichorionic twins only",
+    "IUGR affects only one twin"
+   ],
+   "ans": 0,
+   "exp": "General IUGR affects both twins (number-related); selective IUGR affects one monochorionic twin. (Book p467)"
+  },
+  {
+   "id": "OBG-C13-053",
+   "sec": "TTTS: etiopathogenesis & donor-recipient",
+   "page": 467,
+   "q": "TTTS occurs due to:",
+   "opts": [
+    "Deep vascular anastomosis between artery and vein",
+    "Superficial arterio-arterial anastomosis only",
+    "Absent vascular connections",
+    "Cord entanglement"
+   ],
+   "ans": 0,
+   "exp": "Deep arterio-venous anastomoses cause TTTS. (Book p467)"
+  },
+  {
+   "id": "OBG-C13-054",
+   "sec": "TTTS: etiopathogenesis & donor-recipient",
+   "page": 467,
+   "q": "Prevalence of TTTS by chorionicity/amnionicity:",
+   "opts": [
+    "MCDA m/c (deep anastomoses); MCMA l/c (superficial); DCDA not seen (no connections)",
+    "DCDA m/c; MCDA never",
+    "MCMA m/c; MCDA never",
+    "Equal in all"
+   ],
+   "ans": 0,
+   "exp": "MCDA is m/c, MCMA less common and DCDA exempt. (Book p467)"
+  },
+  {
+   "id": "OBG-C13-055",
+   "sec": "TTTS: etiopathogenesis & donor-recipient",
+   "page": 467,
+   "q": "In TTTS, the DONOR twin shows which renal and fluid findings?",
+   "opts": [
+    "↓ renal blood flow (↑ renal failure risk), ↓ GFR and oligohydramnios",
+    "↑ renal blood flow and polyhydramnios",
+    "Normal renal flow with polyhydramnios",
+    "↑ GFR and oligohydramnios"
+   ],
+   "ans": 0,
+   "exp": "The donor has reduced renal perfusion and GFR with oligohydramnios; the recipient the opposite. (Book p467)"
+  },
+  {
+   "id": "OBG-C13-056",
+   "sec": "TTTS: etiopathogenesis & donor-recipient",
+   "page": 467,
+   "q": "Haemoglobin consequences in TTTS are:",
+   "opts": [
+    "Donor – anemia with heart failure; recipient – polycythemia with thrombosis and congestive heart failure",
+    "Donor – polycythemia; recipient – anemia",
+    "Both anemic",
+    "Both polycythemic"
+   ],
+   "ans": 0,
+   "exp": "Donor anemia/heart failure vs recipient polycythemia/thrombosis/CHF. (Book p467)"
+  },
+  {
+   "id": "OBG-C13-057",
+   "sec": "TTTS: etiopathogenesis & donor-recipient",
+   "page": 467,
+   "q": "Peak systolic velocity of the MCA in TTTS donor vs recipient:",
+   "opts": [
+    "Donor ≥ 1.5 MoM; recipient < 0.8 MoM",
+    "Donor < 0.8 MoM; recipient ≥ 1.5 MoM",
+    "Both ≥ 1.5 MoM",
+    "Both < 0.8 MoM"
+   ],
+   "ans": 0,
+   "exp": "MCA-PSV ≥1.5 MoM in the anemic donor and <0.8 MoM in the polycythemic recipient. (Book p467)"
+  },
+  {
+   "id": "OBG-C13-058",
+   "sec": "TTTS: etiopathogenesis & donor-recipient",
+   "page": 467,
+   "q": "Serious complications listed for TTTS fetuses are:",
+   "opts": [
+    "Hydrops fetalis and death",
+    "Selective IUGR only",
+    "Vanishing twin only",
+    "Cord true knots"
+   ],
+   "ans": 0,
+   "exp": "Hydrops fetalis and death are the listed complications. (Book p467)"
+  },
+  {
+   "id": "OBG-C13-059",
+   "sec": "TTTS: diagnosis & staging",
+   "page": 468,
+   "q": "The best method for amniotic fluid assessment in twin pregnancy is:",
+   "opts": [
+    "Single largest vertical pocket on USG",
+    "Amniotic fluid index summing four quadrants",
+    "Subjective assessment only",
+    "Dye dilution"
+   ],
+   "ans": 0,
+   "exp": "The single largest vertical pocket is the best method in twins. (Book p468)"
+  },
+  {
+   "id": "OBG-C13-060",
+   "sec": "TTTS: diagnosis & staging",
+   "page": 468,
+   "q": "Diagnostic criteria of TTTS in monochorionic diamniotic twins:",
+   "opts": [
+    "Polyhydramnios in one twin with oligohydramnios in the other",
+    "Polyhydramnios in both",
+    "Oligohydramnios in both",
+    "Normal fluid with discordant growth"
+   ],
+   "ans": 0,
+   "exp": "Poly-oligo sequence between MCDA twins defines TTTS. (Book p468)"
+  },
+  {
+   "id": "OBG-C13-061",
+   "sec": "TTTS: diagnosis & staging",
+   "page": 468,
+   "q": "The early marker of TTTS is:",
+   "opts": [
+    "↑ nuchal translucency",
+    "↓ MCA-PSV",
+    "Absent bladder in both",
+    "Twin peak sign"
+   ],
+   "ans": 0,
+   "exp": "Increased NT is the early marker of TTTS. (Book p468)"
+  },
+  {
+   "id": "OBG-C13-062",
+   "sec": "TTTS: diagnosis & staging",
+   "page": 468,
+   "q": "The 'stuck twin' appearance in TTTS results from:",
+   "opts": [
+    "RAAS activation in the donor twin to maintain intravascular volume/BP → oliguria, anuria, anhydramnios",
+    "Polyhydramnios compressing the donor",
+    "Cord entanglement",
+    "Uterine septum"
+   ],
+   "ans": 0,
+   "exp": "Donor RAAS activation causes oliguria/anuria/anhydramnios, fixing the stuck twin. (Book p468)"
+  },
+  {
+   "id": "OBG-C13-063",
+   "sec": "TTTS: diagnosis & staging",
+   "page": 468,
+   "q": "Quintero stage 1 vs stage 2 of TTTS differ by:",
+   "opts": [
+    "Bladder visible (oliguria) in stage 1 vs not visible (anuria) in stage 2, both with normal Doppler",
+    "Doppler abnormality in stage 1",
+    "Hydrops in stage 2",
+    "Death in stage 2"
+   ],
+   "ans": 0,
+   "exp": "Stage 1: oligohydramnios with visible bladder; stage 2: bladder not visible; Doppler still normal in both. (Book p468)"
+  },
+  {
+   "id": "OBG-C13-064",
+   "sec": "TTTS: diagnosis & staging",
+   "page": 468,
+   "q": "Match Quintero stages 3, 4 and 5.",
+   "opts": [
+    "Stage 3 abnormal Doppler; stage 4 hydrops fetalis in one/both; stage 5 death of one/both twins",
+    "Stage 3 hydrops; stage 4 abnormal Doppler; stage 5 anuria",
+    "Stage 3 anuria; stage 4 Doppler; stage 5 hydrops",
+    "Stage 3 death; stage 4 hydrops; stage 5 Doppler"
+   ],
+   "ans": 0,
+   "exp": "Stages 3–5 add abnormal Doppler, hydrops and death respectively. (Book p468)"
+  },
+  {
+   "id": "OBG-C13-065",
+   "sec": "TTTS: follow-up & treatment",
+   "page": 469,
+   "q": "Follow-up Doppler studies in monochorionic twins are done at 16–20 weeks and include:",
+   "opts": [
+    "Umbilical artery, vein, ductus venosus and PSV of MCA",
+    "Only uterine artery Doppler",
+    "Only MCA-PSV",
+    "Aortic isthmus only"
+   ],
+   "ans": 0,
+   "exp": "Doppler at 16–20 weeks covers umbilical artery/vein, ductus venosus and MCA-PSV. (Book p469)"
+  },
+  {
+   "id": "OBG-C13-066",
+   "sec": "TTTS: follow-up & treatment",
+   "page": 469,
+   "q": "USG follow-up in TTTS-risk twins assesses:",
+   "opts": [
+    "Fetal biometry for growth, oligo/polyhydramnios and diagnosis of hydrops fetalis",
+    "Cervical length only",
+    "Placental grade only",
+    "Fetal sex"
+   ],
+   "ans": 0,
+   "exp": "USG tracks growth biometry, fluid discordance and hydrops. (Book p469)"
+  },
+  {
+   "id": "OBG-C13-067",
+   "sec": "TTTS: follow-up & treatment",
+   "page": 469,
+   "q": "Echocardiography of the RECIPIENT twin in TTTS looks for:",
+   "opts": [
+    "Pulmonary atresia/stenosis, hypertrophy and right-side > left-side dysfunction",
+    "Left hypoplasia only",
+    "VSD only",
+    "Normal heart always"
+   ],
+   "ans": 0,
+   "exp": "Recipient echo shows pulmonary atresia/stenosis, hypertrophy and right > left dysfunction. (Book p469)"
+  },
+  {
+   "id": "OBG-C13-068",
+   "sec": "TTTS: follow-up & treatment",
+   "page": 469,
+   "q": "Treatment of TTTS by gestational age: ≤28 weeks vs >28 weeks.",
+   "opts": [
+    "Fetoscopic laser ablation of vascular anastomoses; serial amnioreduction",
+    "Serial amnioreduction; laser ablation",
+    "Delivery in both",
+    "Septostomy in both"
+   ],
+   "ans": 0,
+   "exp": "≤28 weeks fetoscopic laser ablation; >28 weeks serial amnioreduction. (Book p469)"
+  },
+  {
+   "id": "OBG-C13-069",
+   "sec": "TAPS & TRAP",
+   "page": 469,
+   "q": "TAPS is best described as:",
+   "opts": [
+    "An atypical, milder, chronic form of TTTS due to slow RBC transfusion through few small (<1 mm) arterio-venous anastomoses",
+    "An acute severe form of TTTS",
+    "A dichorionic complication",
+    "A complication of cord knots"
+   ],
+   "ans": 0,
+   "exp": "TAPS arises from slow transfusion across tiny (<1 mm) anastomoses, spontaneously or post-laser. (Book p469)"
+  },
+  {
+   "id": "OBG-C13-070",
+   "sec": "TAPS & TRAP",
+   "page": 469,
+   "q": "TAPS can occur spontaneously or after which procedure?",
+   "opts": [
+    "Laser ablation of TTTS",
+    "Amniocentesis",
+    "Cerclage",
+    "External cephalic version"
+   ],
+   "ans": 0,
+   "exp": "TAPS may follow laser ablation of TTTS. (Book p469)"
+  },
+  {
+   "id": "OBG-C13-071",
+   "sec": "TAPS & TRAP",
+   "page": 469,
+   "q": "Features of TAPS: haemoglobin, amniotic fluid and MCA-PSV.",
+   "opts": [
+    "Donor anemia, recipient polycythemia; amniotic fluid NORMAL in both; PSV >1.5 MoM donor and <0.8 MoM recipient",
+    "Poly-oligo sequence present; PSV equal",
+    "Donor polycythemia; recipient anemia",
+    "Amniotic fluid abnormal in both"
+   ],
+   "ans": 0,
+   "exp": "Unlike TTTS, TAPS has normal amniotic fluid with anemia/polycythemia and discordant MCA-PSV. (Book p469)"
+  },
+  {
+   "id": "OBG-C13-072",
+   "sec": "TAPS & TRAP",
+   "page": 469,
+   "q": "TRAP sequence is a rare complication of monochorionic twins caused by:",
+   "opts": [
+    "An aberrant arterio-arterial anastomosis with twin A pumping deoxygenated blood via the umbilical artery to the acardiac twin B",
+    "Deep arterio-venous anastomoses",
+    "Superficial venous anastomoses",
+    "Absent anastomoses"
+   ],
+   "ans": 0,
+   "exp": "Twin A's normal heart perfuses the acardiac twin B with deoxygenated blood through an aberrant arterio-arterial anastomosis. (Book p469)"
+  },
+  {
+   "id": "OBG-C13-073",
+   "sec": "Selective IUGR & monoamniotic complications",
+   "page": 470,
+   "q": "Outcomes in the acardiac twin of TRAP are named:",
+   "opts": [
+    "Acardiac acephalus (only lower part developed) and acardiac amorphous (amorphous mass, no parts)",
+    "Acardiac cephalus and acardiac thoracus",
+    "Hemi-acardius only",
+    "Acardiac anceps only"
+   ],
+   "ans": 0,
+   "exp": "Acardiac acephalus has only the lower part developed; acardiac amorphus is an amorphous mass. (Book p470)"
+  },
+  {
+   "id": "OBG-C13-074",
+   "sec": "Selective IUGR & monoamniotic complications",
+   "page": 470,
+   "q": "Selective IUGR is defined by fetal weight < 10th percentile of the normal co-twin OR:",
+   "opts": [
+    "> 10% discordance in weight",
+    "> 25% discordance in weight",
+    "> 50% discordance in weight",
+    "Equal weights"
+   ],
+   "ans": 1,
+   "exp": "Discordance >25% in weight also defines selective IUGR. (Book p470)"
+  },
+  {
+   "id": "OBG-C13-075",
+   "sec": "Selective IUGR & monoamniotic complications",
+   "page": 470,
+   "q": "Causes of selective IUGR listed are:",
+   "opts": [
+    "Unequal placental sharing and unequal splitting of the initial cell mass",
+    "Deep vascular anastomoses only",
+    "Maternal diabetes",
+    "Cord entanglement"
+   ],
+   "ans": 0,
+   "exp": "Unequal placental sharing or unequal splitting of the initial cell mass causes selective IUGR. (Book p470)"
+  },
+  {
+   "id": "OBG-C13-076",
+   "sec": "Selective IUGR & monoamniotic complications",
+   "page": 470,
+   "q": "Complications specific to MONOAMNIOTIC twins and the cause of cord entanglement:",
+   "opts": [
+    "Cord entanglement and conjoined twins; true knots form the cause",
+    "TTTS and TAPS; anastomoses",
+    "Selective IUGR; unequal sharing",
+    "Vanishing twin; thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Monoamniotic twins face cord entanglement (true knots) and conjoining. (Book p470)"
+  },
+  {
+   "id": "OBG-C13-077",
+   "sec": "Selective IUGR & monoamniotic complications",
+   "page": 470,
+   "q": "Management of monoamniotic twins with cord entanglement risk:",
+   "opts": [
+    "C-section at 32–34 weeks",
+    "Vaginal delivery at 38 weeks",
+    "Cerclage at 16 weeks",
+    "Laser ablation"
+   ],
+   "ans": 0,
+   "exp": "C-section at 32–34 weeks is advised. (Book p470)"
+  },
+  {
+   "id": "OBG-C13-078",
+   "sec": "Delivery in twin pregnancy",
+   "page": 471,
+   "q": "The 1st twin is defined as the one that:",
+   "opts": [
+    "Is closer to the internal os during pregnancy / comes out first during delivery",
+    "Has the larger weight",
+    "Is always vertex",
+    "Is labelled by the sonologist arbitrarily"
+   ],
+   "ans": 0,
+   "exp": "The twin closer to the internal os (delivered first) is the 1st twin. (Book p471)"
+  },
+  {
+   "id": "OBG-C13-079",
+   "sec": "Delivery in twin pregnancy",
+   "page": 471,
+   "q": "The m/c and 2nd m/c presentation combinations in twins are:",
+   "opts": [
+    "Both vertex; 1st vertex with 2nd breech",
+    "Both breech; both vertex",
+    "1st breech 2nd vertex; both vertex",
+    "Transverse; vertex"
+   ],
+   "ans": 0,
+   "exp": "Both-vertex is m/c; 1st vertex + 2nd breech is second m/c. (Book p471)"
+  },
+  {
+   "id": "OBG-C13-080",
+   "sec": "Delivery in twin pregnancy",
+   "page": 471,
+   "q": "Interlocking of twins is seen with which combination and is managed by:",
+   "opts": [
+    "1st breech + 2nd cephalic; C-section",
+    "Both vertex; vaginal delivery",
+    "1st vertex + 2nd breech; assisted breech",
+    "Both transverse; version"
+   ],
+   "ans": 0,
+   "exp": "Interlocking occurs when the 1st is breech and 2nd cephalic; C-section is done. (Book p471)"
+  },
+  {
+   "id": "OBG-C13-081",
+   "sec": "Delivery in twin pregnancy",
+   "page": 471,
+   "q": "Mode of delivery in twins depends on the presentation of the:",
+   "opts": [
+    "1st twin – vertex allows vaginal delivery; breech/transverse lie needs C-section",
+    "2nd twin always",
+    "Larger twin",
+    "Placental site only"
+   ],
+   "ans": 0,
+   "exp": "Presentation of the 1st twin governs the route: vertex → vaginal, breech/transverse → C-section. (Book p471)"
+  },
+  {
+   "id": "OBG-C13-082",
+   "sec": "Delivery in twin pregnancy",
+   "page": 471,
+   "q": "Match delivery plans when the 1st twin is vertex: 2nd vertex, 2nd breech, 2nd transverse.",
+   "opts": [
+    "Both vaginal; assisted breech delivery for 2nd; shift to OT with internal podalic version + breech extraction for 2nd",
+    "All C-sections",
+    "All vaginal",
+    "C-section for 2nd breech only"
+   ],
+   "ans": 0,
+   "exp": "Vertex-vertex both vaginal; vertex-breech assisted breech; vertex-transverse internal podalic version and breech extraction in OT. (Book p471)"
+  },
+  {
+   "id": "OBG-C13-083",
+   "sec": "Delivery in twin pregnancy",
+   "page": 471,
+   "q": "After delivery of the 1st twin, which drug is contraindicated and why?",
+   "opts": [
+    "Methylergometrine – it causes uterine contractions trapping the 2nd twin",
+    "Oxytocin – it causes hypotension",
+    "Misoprostol – it causes pyrexia",
+    "Magnesium – it causes sedation"
+   ],
+   "ans": 0,
+   "exp": "Methylergometrine is c/i after the 1st twin as it contracts the uterus. (Book p471)"
+  },
+  {
+   "id": "OBG-C13-084",
+   "sec": "Delivery in twin pregnancy",
+   "page": 471,
+   "q": "The maximum acceptable time gap between delivery of the twins is ______; beyond it the action is ______.",
+   "opts": [
+    "30 minutes; immediate C-section of the 2nd twin",
+    "15 minutes; forceps",
+    "60 minutes; observation",
+    "45 minutes; internal version"
+   ],
+   "ans": 0,
+   "exp": "A gap >30 minutes mandates immediate C-section of the second twin. (Book p471)"
+  },
+  {
+   "id": "OBG-C13-085",
+   "sec": "Delivery in twin pregnancy",
+   "page": 471,
+   "q": "Internal podalic version has a single indication and one contraindication:",
+   "opts": [
+    "2nd twin in transverse lie; previous h/o C-section",
+    "1st twin breech; previous vaginal delivery",
+    "Cord prolapse; placenta previa",
+    "Shoulder presentation; oligohydramnios"
+   ],
+   "ans": 0,
+   "exp": "IPV is indicated only for a transverse 2nd twin and c/i after previous C-section. (Book p471)"
+  },
+  {
+   "id": "OBG-C13-086",
+   "sec": "Delivery in twin pregnancy",
+   "page": 471,
+   "q": "Technique of internal podalic version:",
+   "opts": [
+    "Under general anaesthesia a hand is inserted into the uterus, the baby's feet are held and rotated to convert to breech",
+    "Under spinal, forceps rotation of the head",
+    "External manipulation with intact membranes",
+    "Ultrasound-guided cord traction"
+   ],
+   "ans": 0,
+   "exp": "Under GA the hand enters the uterus, grasps the feet and rotates the fetus to breech. (Book p471)"
+  },
+  {
+   "id": "OBG-C13-087",
+   "sec": "Delivery in twin pregnancy",
+   "page": 471,
+   "q": "The note adds that EXTERNAL cephalic version is attempted only if:",
+   "opts": [
+    "Membranes are intact",
+    "The cervix is 4 cm dilated",
+    "The fetus is breech at 30 weeks",
+    "After methylergometrine"
+   ],
+   "ans": 0,
+   "exp": "ECV requires intact membranes per the note. (Book p471)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OBG-U13-1",
+   "ch": 13,
+   "n": 1,
+   "title": "Dizygotic vs monozygotic twins → Superfecundation, superfetation & risk factors",
+   "sec": "Twin types, incidence & superfecundation · p460-461",
+   "guide": "Contrast dizygotic and monozygotic twins from formation to fingerprints, apply Hellin's rule and separate superfecundation from superfetation with their risk factors. Focus for this checkpoint: Dizygotic vs monozygotic twins, Superfecundation, superfetation & risk factors.",
+   "qs": [
+    "OBG-C13-001",
+    "OBG-C13-002",
+    "OBG-C13-003",
+    "OBG-C13-004",
+    "OBG-C13-005",
+    "OBG-C13-006",
+    "OBG-C13-007",
+    "OBG-C13-008",
+    "OBG-C13-009",
+    "OBG-C13-010"
+   ]
+  },
+  {
+   "id": "OBG-U13-2",
+   "ch": 13,
+   "n": 2,
+   "title": "Chorionicity & amnionicity",
+   "sec": "Chorionicity & amnionicity · p461-462",
+   "guide": "Time the zygote's division against membrane formation to predict DCDA, MCDA, MCMA or conjoined twins, and know why chorionicity drives prognosis and scan timing. Focus for this checkpoint: Chorionicity & amnionicity.",
+   "qs": [
+    "OBG-C13-011",
+    "OBG-C13-012",
+    "OBG-C13-013",
+    "OBG-C13-014",
+    "OBG-C13-015",
+    "OBG-C13-016",
+    "OBG-C13-017",
+    "OBG-C13-018",
+    "OBG-C13-019",
+    "OBG-C13-020"
+   ]
+  },
+  {
+   "id": "OBG-U13-3",
+   "ch": 13,
+   "n": 3,
+   "title": "DCDA vs MCDA vs MCMA → USG in twin pregnancy & conjoined twins",
+   "sec": "DCDA vs MCDA vs MCMA & twin USG · p463-464",
+   "guide": "Read the membrane-layer, thickness, vascular-connection and lambda/T-sign table, then use twin ultrasound markers and conjoined-twin management. Focus for this checkpoint: DCDA vs MCDA vs MCMA, USG in twin pregnancy & conjoined twins.",
+   "qs": [
+    "OBG-C13-021",
+    "OBG-C13-022",
+    "OBG-C13-023",
+    "OBG-C13-024",
+    "OBG-C13-025",
+    "OBG-C13-026",
+    "OBG-C13-027",
+    "OBG-C13-028",
+    "OBG-C13-029",
+    "OBG-C13-030",
+    "OBG-C13-031",
+    "OBG-C13-032"
+   ]
+  },
+  {
+   "id": "OBG-U13-4",
+   "ch": 13,
+   "n": 4,
+   "title": "Maternal complications & PIH prophylaxis → Fetal complications & fetal reduction",
+   "sec": "Maternal & fetal complications, reduction · p465",
+   "guide": "List the exaggerated maternal physiology of twins, aspirin prophylaxis for PIH and the rules of aneuploidy sampling and fetal reduction. Focus for this checkpoint: Maternal complications & PIH prophylaxis, Fetal complications & fetal reduction.",
+   "qs": [
+    "OBG-C13-033",
+    "OBG-C13-034",
+    "OBG-C13-035",
+    "OBG-C13-036",
+    "OBG-C13-037",
+    "OBG-C13-038",
+    "OBG-C13-039",
+    "OBG-C13-040",
+    "OBG-C13-041"
+   ]
+  },
+  {
+   "id": "OBG-U13-5",
+   "ch": 13,
+   "n": 5,
+   "title": "Complications common to all twins → Death of one twin",
+   "sec": "Common complications & death of one twin · p466-467",
+   "guide": "Remember the three universal twin complications, the vanishing twin and the haemodynamic fate of a surviving monochorionic co-twin. Focus for this checkpoint: Complications common to all twins, Death of one twin.",
+   "qs": [
+    "OBG-C13-042",
+    "OBG-C13-043",
+    "OBG-C13-044",
+    "OBG-C13-045",
+    "OBG-C13-046",
+    "OBG-C13-047",
+    "OBG-C13-048",
+    "OBG-C13-049",
+    "OBG-C13-050"
+   ]
+  },
+  {
+   "id": "OBG-U13-6",
+   "ch": 13,
+   "n": 6,
+   "title": "Monochorionic-specific complications → etiopathogenesis & donor-recipient",
+   "sec": "Monochorionic complications & TTTS physiology · p467",
+   "guide": "Distinguish selective IUGR from general IUGR and build the TTTS donor-recipient picture from anastomosis depth to MCA-PSV. Focus for this checkpoint: Monochorionic-specific complications, TTTS: etiopathogenesis & donor-recipient.",
+   "qs": [
+    "OBG-C13-051",
+    "OBG-C13-052",
+    "OBG-C13-053",
+    "OBG-C13-054",
+    "OBG-C13-055",
+    "OBG-C13-056",
+    "OBG-C13-057",
+    "OBG-C13-058"
+   ]
+  },
+  {
+   "id": "OBG-U13-7",
+   "ch": 13,
+   "n": 7,
+   "title": "diagnosis & staging → follow-up & treatment",
+   "sec": "TTTS diagnosis, staging & treatment · p468-469",
+   "guide": "Apply the poly-oligo criteria, stuck-twin physiology and Quintero stages, then choose laser ablation versus serial amnioreduction by gestational age. Focus for this checkpoint: TTTS: diagnosis & staging, TTTS: follow-up & treatment.",
+   "qs": [
+    "OBG-C13-059",
+    "OBG-C13-060",
+    "OBG-C13-061",
+    "OBG-C13-062",
+    "OBG-C13-063",
+    "OBG-C13-064",
+    "OBG-C13-065",
+    "OBG-C13-066",
+    "OBG-C13-067",
+    "OBG-C13-068"
+   ]
+  },
+  {
+   "id": "OBG-U13-8",
+   "ch": 13,
+   "n": 8,
+   "title": "TAPS & TRAP → Selective IUGR & monoamniotic complications",
+   "sec": "TAPS, TRAP & monoamniotic risks · p469-470",
+   "guide": "Separate TAPS from TTTS by normal fluid volumes, trace the acardiac twin of TRAP and manage cord entanglement in monoamniotic pregnancies. Focus for this checkpoint: TAPS & TRAP, Selective IUGR & monoamniotic complications.",
+   "qs": [
+    "OBG-C13-069",
+    "OBG-C13-070",
+    "OBG-C13-071",
+    "OBG-C13-072",
+    "OBG-C13-073",
+    "OBG-C13-074",
+    "OBG-C13-075",
+    "OBG-C13-076",
+    "OBG-C13-077"
+   ]
+  },
+  {
+   "id": "OBG-U13-9",
+   "ch": 13,
+   "n": 9,
+   "title": "Delivery in twin pregnancy",
+   "sec": "Delivery of twins · p471",
+   "guide": "Let the first twin's presentation decide the route, handle the transverse second twin with internal podalic version and respect the 30-minute gap rule. Focus for this checkpoint: Delivery in twin pregnancy.",
+   "qs": [
+    "OBG-C13-078",
+    "OBG-C13-079",
+    "OBG-C13-080",
+    "OBG-C13-081",
+    "OBG-C13-082",
+    "OBG-C13-083",
+    "OBG-C13-084",
+    "OBG-C13-085",
+    "OBG-C13-086",
+    "OBG-C13-087"
+   ]
+  }
+ ]
+}
