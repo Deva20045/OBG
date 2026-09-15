@@ -1,0 +1,2044 @@
+{
+  "chapter": 7,
+  "title": "Pregnancy-Induced Hypertension",
+  "pageRange": "390-401",
+  "units": [
+    {
+      "id": "OBG-U7-1",
+      "ch": 7,
+      "n": 1,
+      "title": "PIH definition → PIH postpartum course",
+      "sec": "PIH definitions · p390-391",
+      "guide": "Anchor every hypertensive diagnosis to accurate blood-pressure confirmation, timing relative to 20 weeks and 12 weeks postpartum, and the distinction between pre-eclampsia, gestational hypertension, chronic hypertension, and superimposed disease. Focus for this checkpoint: PIH definition, Chronic hypertension, Pregnancy-induced hypertension, PIH postpartum course.",
+      "qs": [
+        "OBG-C7-001",
+        "OBG-C7-002",
+        "OBG-C7-003",
+        "OBG-C7-004",
+        "OBG-C7-005",
+        "OBG-C7-006",
+        "OBG-C7-007"
+      ]
+    },
+    {
+      "id": "OBG-U7-2",
+      "ch": 7,
+      "n": 2,
+      "title": "Pre-eclampsia → End-organ damage → Superimposed pre-eclampsia",
+      "sec": "PIH definitions · p390-391",
+      "guide": "Anchor every hypertensive diagnosis to accurate blood-pressure confirmation, timing relative to 20 weeks and 12 weeks postpartum, and the distinction between pre-eclampsia, gestational hypertension, chronic hypertension, and superimposed disease. Focus for this checkpoint: Pre-eclampsia, Proteinuria, End-organ damage. It also includes Superimposed pre-eclampsia.",
+      "qs": [
+        "OBG-C7-008",
+        "OBG-C7-009",
+        "OBG-C7-010",
+        "OBG-C7-011",
+        "OBG-C7-012",
+        "OBG-C7-013",
+        "OBG-C7-014",
+        "OBG-C7-015",
+        "OBG-C7-016",
+        "OBG-C7-017",
+        "OBG-C7-018"
+      ]
+    },
+    {
+      "id": "OBG-U7-3",
+      "ch": 7,
+      "n": 3,
+      "title": "Mild pre-eclampsia → Impending eclampsia",
+      "sec": "PIH phenotypes · p392-393",
+      "guide": "Severity hinges on BP or severe features, not the amount of protein or edema. Recognize impending eclampsia, classify eclamptic seizures by timing, and use postpartum reassessment to distinguish transient gestational hypertension from chronic disease. Focus for this checkpoint: Mild pre-eclampsia, Severe pre-eclampsia, Severity assessment, Pathological edema, Impending eclampsia.",
+      "qs": [
+        "OBG-C7-019",
+        "OBG-C7-020",
+        "OBG-C7-021",
+        "OBG-C7-022",
+        "OBG-C7-023",
+        "OBG-C7-024",
+        "OBG-C7-025",
+        "OBG-C7-026",
+        "OBG-C7-027",
+        "OBG-C7-028"
+      ]
+    },
+    {
+      "id": "OBG-U7-4",
+      "ch": 7,
+      "n": 4,
+      "title": "PIH admission → Atypical eclampsia",
+      "sec": "PIH phenotypes · p392-393",
+      "guide": "Severity hinges on BP or severe features, not the amount of protein or edema. Recognize impending eclampsia, classify eclamptic seizures by timing, and use postpartum reassessment to distinguish transient gestational hypertension from chronic disease. Focus for this checkpoint: PIH admission, PIH investigations, Eclampsia, Eclampsia timing, Atypical eclampsia.",
+      "qs": [
+        "OBG-C7-029",
+        "OBG-C7-030",
+        "OBG-C7-031",
+        "OBG-C7-032",
+        "OBG-C7-033",
+        "OBG-C7-034",
+        "OBG-C7-035",
+        "OBG-C7-036"
+      ]
+    },
+    {
+      "id": "OBG-U7-5",
+      "ch": 7,
+      "n": 5,
+      "title": "PRES & Gestational hypertension",
+      "sec": "PIH phenotypes · p392-393",
+      "guide": "Severity hinges on BP or severe features, not the amount of protein or edema. Recognize impending eclampsia, classify eclamptic seizures by timing, and use postpartum reassessment to distinguish transient gestational hypertension from chronic disease. Focus for this checkpoint: PRES, Gestational hypertension.",
+      "qs": [
+        "OBG-C7-037",
+        "OBG-C7-038",
+        "OBG-C7-039",
+        "OBG-C7-040"
+      ]
+    },
+    {
+      "id": "OBG-U7-6",
+      "ch": 7,
+      "n": 6,
+      "title": "Normal placentation & PIH pathophysiology",
+      "sec": "PIH pathophysiology · p394-396",
+      "guide": "Normal extravillous trophoblast converts spiral arteries into low-resistance vessels in two phases. PIH begins when remodeling fails, driving placental ischemia, antiangiogenic mediator release, endothelial leak, thrombosis, renal injury, and neurologic symptoms. Focus for this checkpoint: Normal placentation, PIH pathophysiology.",
+      "qs": [
+        "OBG-C7-041",
+        "OBG-C7-042",
+        "OBG-C7-043",
+        "OBG-C7-044",
+        "OBG-C7-045",
+        "OBG-C7-046",
+        "OBG-C7-047",
+        "OBG-C7-048"
+      ]
+    },
+    {
+      "id": "OBG-U7-7",
+      "ch": 7,
+      "n": 7,
+      "title": "Placental ischemia & PIH mediators",
+      "sec": "PIH pathophysiology · p394-396",
+      "guide": "Normal extravillous trophoblast converts spiral arteries into low-resistance vessels in two phases. PIH begins when remodeling fails, driving placental ischemia, antiangiogenic mediator release, endothelial leak, thrombosis, renal injury, and neurologic symptoms. Focus for this checkpoint: Placental ischemia, PIH mediators.",
+      "qs": [
+        "OBG-C7-049",
+        "OBG-C7-050",
+        "OBG-C7-051",
+        "OBG-C7-052",
+        "OBG-C7-053",
+        "OBG-C7-054",
+        "OBG-C7-055"
+      ]
+    },
+    {
+      "id": "OBG-U7-8",
+      "ch": 7,
+      "n": 8,
+      "title": "PIH clinical expression → PIH cause",
+      "sec": "PIH pathophysiology · p394-396",
+      "guide": "Normal extravillous trophoblast converts spiral arteries into low-resistance vessels in two phases. PIH begins when remodeling fails, driving placental ischemia, antiangiogenic mediator release, endothelial leak, thrombosis, renal injury, and neurologic symptoms. Focus for this checkpoint: PIH clinical expression, Endothelial injury, Thrombosis, PIH outcomes, PIH cause.",
+      "qs": [
+        "OBG-C7-056",
+        "OBG-C7-057",
+        "OBG-C7-058",
+        "OBG-C7-059",
+        "OBG-C7-060",
+        "OBG-C7-061",
+        "OBG-C7-062"
+      ]
+    },
+    {
+      "id": "OBG-U7-9",
+      "ch": 7,
+      "n": 9,
+      "title": "PIH treatment principle → Cerebrovascular pathology",
+      "sec": "PIH pathophysiology · p394-396",
+      "guide": "Normal extravillous trophoblast converts spiral arteries into low-resistance vessels in two phases. PIH begins when remodeling fails, driving placental ischemia, antiangiogenic mediator release, endothelial leak, thrombosis, renal injury, and neurologic symptoms. Focus for this checkpoint: PIH treatment principle, Renal pathology, Cerebrovascular pathology.",
+      "qs": [
+        "OBG-C7-063",
+        "OBG-C7-064",
+        "OBG-C7-065",
+        "OBG-C7-066",
+        "OBG-C7-067",
+        "OBG-C7-068",
+        "OBG-C7-069"
+      ]
+    },
+    {
+      "id": "OBG-U7-10",
+      "ch": 7,
+      "n": 10,
+      "title": "PIH risk factors",
+      "sec": "PIH risk and prediction · p397-398",
+      "guide": "Risk rises with first or increased placental exposure, placentomegaly, autoimmune disease, demographic and vascular factors. Separate measures with a proven preventive role from those without one, and interpret uterine-artery Doppler and biomarker prediction. Focus for this checkpoint: PIH risk factors.",
+      "qs": [
+        "OBG-C7-070",
+        "OBG-C7-071",
+        "OBG-C7-072",
+        "OBG-C7-073",
+        "OBG-C7-074",
+        "OBG-C7-075",
+        "OBG-C7-076",
+        "OBG-C7-077",
+        "OBG-C7-078"
+      ]
+    },
+    {
+      "id": "OBG-U7-11",
+      "ch": 7,
+      "n": 11,
+      "title": "PIH prevention & Aspirin prophylaxis",
+      "sec": "PIH risk and prediction · p397-398",
+      "guide": "Risk rises with first or increased placental exposure, placentomegaly, autoimmune disease, demographic and vascular factors. Separate measures with a proven preventive role from those without one, and interpret uterine-artery Doppler and biomarker prediction. Focus for this checkpoint: PIH prevention, Aspirin prophylaxis.",
+      "qs": [
+        "OBG-C7-079",
+        "OBG-C7-080",
+        "OBG-C7-081",
+        "OBG-C7-082",
+        "OBG-C7-083",
+        "OBG-C7-084",
+        "OBG-C7-085",
+        "OBG-C7-086"
+      ]
+    },
+    {
+      "id": "OBG-U7-12",
+      "ch": 7,
+      "n": 12,
+      "title": "PIH predictors & Uterine-artery Doppler",
+      "sec": "PIH risk and prediction · p397-398",
+      "guide": "Risk rises with first or increased placental exposure, placentomegaly, autoimmune disease, demographic and vascular factors. Separate measures with a proven preventive role from those without one, and interpret uterine-artery Doppler and biomarker prediction. Focus for this checkpoint: PIH predictors, Uterine-artery Doppler.",
+      "qs": [
+        "OBG-C7-087",
+        "OBG-C7-088",
+        "OBG-C7-089",
+        "OBG-C7-090",
+        "OBG-C7-091",
+        "OBG-C7-092",
+        "OBG-C7-093"
+      ]
+    },
+    {
+      "id": "OBG-U7-13",
+      "ch": 7,
+      "n": 13,
+      "title": "PIH evaluation & Delivery timing",
+      "sec": "PIH management overview · p399-400",
+      "guide": "Initial PIH assessment includes targeted maternal and fundal evaluation plus a HELLP screen. Severity drives site of care and timing of delivery; fetal surveillance and umbilical-artery Doppler guide escalation in expectant management. Focus for this checkpoint: PIH evaluation, Delivery timing.",
+      "qs": [
+        "OBG-C7-094",
+        "OBG-C7-095",
+        "OBG-C7-096",
+        "OBG-C7-097",
+        "OBG-C7-098",
+        "OBG-C7-099",
+        "OBG-C7-100",
+        "OBG-C7-101",
+        "OBG-C7-102"
+      ]
+    },
+    {
+      "id": "OBG-U7-14",
+      "ch": 7,
+      "n": 14,
+      "title": "Fetal monitoring & Umbilical artery Doppler",
+      "sec": "PIH management overview · p399-400",
+      "guide": "Initial PIH assessment includes targeted maternal and fundal evaluation plus a HELLP screen. Severity drives site of care and timing of delivery; fetal surveillance and umbilical-artery Doppler guide escalation in expectant management. Focus for this checkpoint: Fetal monitoring, Umbilical artery Doppler.",
+      "qs": [
+        "OBG-C7-103",
+        "OBG-C7-104",
+        "OBG-C7-105",
+        "OBG-C7-106",
+        "OBG-C7-107",
+        "OBG-C7-108",
+        "OBG-C7-109"
+      ]
+    },
+    {
+      "id": "OBG-U7-15",
+      "ch": 7,
+      "n": 15,
+      "title": "Mild PE management → Severe PE management",
+      "sec": "PIH treatment algorithms · p400-401",
+      "guide": "Mild PE without severe features is outpatient-oriented with surveillance and education; severe PE is inpatient care. Stabilize seizures and BP first, use corticosteroids when appropriate, and treat delivery as the definitive endpoint rather than an automatic cesarean. Focus for this checkpoint: Mild PE management, Mild PE treatment, Severe PE management.",
+      "qs": [
+        "OBG-C7-110",
+        "OBG-C7-111",
+        "OBG-C7-112",
+        "OBG-C7-113",
+        "OBG-C7-114",
+        "OBG-C7-115",
+        "OBG-C7-116",
+        "OBG-C7-117",
+        "OBG-C7-118",
+        "OBG-C7-119"
+      ]
+    },
+    {
+      "id": "OBG-U7-16",
+      "ch": 7,
+      "n": 16,
+      "title": "Severe PE management → Eclampsia management",
+      "sec": "PIH treatment algorithms · p400-401",
+      "guide": "Mild PE without severe features is outpatient-oriented with surveillance and education; severe PE is inpatient care. Stabilize seizures and BP first, use corticosteroids when appropriate, and treat delivery as the definitive endpoint rather than an automatic cesarean. Focus for this checkpoint: Severe PE management, PE delivery mode, PE delivery anesthesia, Eclampsia management.",
+      "qs": [
+        "OBG-C7-120",
+        "OBG-C7-121",
+        "OBG-C7-122",
+        "OBG-C7-123",
+        "OBG-C7-124",
+        "OBG-C7-125"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "OBG-C7-001",
+      "sec": "PIH definition",
+      "page": 390,
+      "q": "What blood-pressure finding defines hypertension in pregnancy in the notes?",
+      "opts": [
+        "At least 130/80 mmHg on one occasion",
+        "At least 160/110 mmHg on two occasions 24 hours apart",
+        "At least 150/100 mmHg after delivery only",
+        "At least 140/90 mmHg on two occasions 4 hours apart"
+      ],
+      "ans": 3,
+      "exp": "Hypertension is BP ≥140/90 mmHg on two readings 4 hours apart. (Book p390)"
+    },
+    {
+      "id": "OBG-C7-002",
+      "sec": "PIH definition",
+      "page": 390,
+      "q": "If an initial BP is at least 160/110 mmHg, when should it be rechecked?",
+      "opts": [
+        "After 15 minutes",
+        "After 4 hours only",
+        "After 24 hours",
+        "After 1 week"
+      ],
+      "ans": 0,
+      "exp": "For BP ≥160/110 mmHg, the exception is repeat measurement after 15 minutes. (Book p390)"
+    },
+    {
+      "id": "OBG-C7-003",
+      "sec": "PIH definition",
+      "page": 390,
+      "q": "If BP of at least 160/110 mmHg persists on its 15-minute repeat, what is the next action?",
+      "opts": [
+        "Give only dietary salt restriction",
+        "Start antihypertensive treatment",
+        "Wait for a 24-hour urine result before action",
+        "Classify it as normal pregnancy"
+      ],
+      "ans": 1,
+      "exp": "Persistent severe BP after the 15-minute repeat requires antihypertensives. (Book p390)"
+    },
+    {
+      "id": "OBG-C7-004",
+      "sec": "Chronic hypertension",
+      "page": 390,
+      "q": "Which presentation best characterizes chronic hypertension in pregnancy?",
+      "opts": [
+        "BP elevation begins only after delivery",
+        "BP is elevated only during labor",
+        "A woman with hypertension conceives and BP is high from day 1",
+        "A normotensive woman first develops BP elevation after 20 weeks"
+      ],
+      "ans": 2,
+      "exp": "Chronic hypertension is present from day 1 in a woman who was hypertensive when she conceived. (Book p390)"
+    },
+    {
+      "id": "OBG-C7-005",
+      "sec": "Pregnancy-induced hypertension",
+      "page": 390,
+      "q": "Which presentation best characterizes pregnancy-induced hypertension?",
+      "opts": [
+        "BP is high before conception",
+        "Hypertension occurs only during the first trimester",
+        "It is caused by maternal TSH transfer",
+        "A previously normotensive woman develops hypertension after 20 weeks due to placental pathology"
+      ],
+      "ans": 3,
+      "exp": "PIH begins after 20 weeks in a previously normotensive woman and is related to placental pathology. (Book p390)"
+    },
+    {
+      "id": "OBG-C7-006",
+      "sec": "PIH postpartum course",
+      "page": 390,
+      "q": "Within what period after delivery does PIH usually normalize?",
+      "opts": [
+        "Within 12 weeks",
+        "Within 12 hours",
+        "Within 48 hours only",
+        "Only after one year"
+      ],
+      "ans": 0,
+      "exp": "PIH usually normalizes within 12 weeks of delivery. (Book p390)"
+    },
+    {
+      "id": "OBG-C7-007",
+      "sec": "Chronic hypertension",
+      "page": 390,
+      "q": "How is persistent hypertension beyond 12 weeks postpartum classified?",
+      "opts": [
+        "Transient hypertension only",
+        "Chronic hypertension",
+        "Gestational hypertension",
+        "Mild pre-eclampsia"
+      ],
+      "ans": 1,
+      "exp": "A BP that remains raised at 12 weeks postpartum is reclassified as chronic hypertension. (Book p390)"
+    },
+    {
+      "id": "OBG-C7-008",
+      "sec": "Pre-eclampsia",
+      "page": 390,
+      "q": "Which finding distinguishes pre-eclampsia from gestational hypertension in the source comparison?",
+      "opts": [
+        "Elevated BP",
+        "A prior pregnancy",
+        "Proteinuria and/or signs of end-organ damage",
+        "Onset after 20 weeks"
+      ],
+      "ans": 2,
+      "exp": "Both may arise after 20 weeks with high BP; pre-eclampsia has proteinuria and/or end-organ-damage signs. (Book p390)"
+    },
+    {
+      "id": "OBG-C7-009",
+      "sec": "Proteinuria",
+      "page": 391,
+      "q": "What 24-hour urinary protein excretion establishes proteinuria in the notes?",
+      "opts": [
+        "At least 3 g per 24 hours only",
+        "At least 1 g per week",
+        "At least 300 mg per 24 hours",
+        "At least 30 mg per 24 hours"
+      ],
+      "ans": 2,
+      "exp": "Proteinuria is ≥300 mg in 24 hours. (Book p391)"
+    },
+    {
+      "id": "OBG-C7-010",
+      "sec": "Proteinuria",
+      "page": 391,
+      "q": "What urine protein:creatinine ratio meets the listed proteinuria threshold?",
+      "opts": [
+        "At least 0.03",
+        "At least 3.0",
+        "At least 30",
+        "At least 0.3"
+      ],
+      "ans": 3,
+      "exp": "A urine protein:creatinine ratio ≥0.3 meets the threshold. (Book p391)"
+    },
+    {
+      "id": "OBG-C7-011",
+      "sec": "Proteinuria",
+      "page": 391,
+      "q": "What dipstick protein result is the OPD screening threshold in the source notes?",
+      "opts": [
+        "At least +1",
+        "Trace only",
+        "At least +4 only",
+        "Any negative value"
+      ],
+      "ans": 0,
+      "exp": "Urine dipstick of +1 or more is the stated OPD screening threshold; the notes also flag stricter NICE/ACOG use. (Book p391)"
+    },
+    {
+      "id": "OBG-C7-012",
+      "sec": "Proteinuria",
+      "page": 391,
+      "q": "What is the gold-standard diagnostic test for proteinuria in PIH?",
+      "opts": [
+        "Serum uric acid only",
+        "24-hour urinary protein excretion",
+        "Urine dipstick",
+        "Fundus examination"
+      ],
+      "ans": 1,
+      "exp": "Twenty-four-hour urine protein excretion is listed as the gold standard. (Book p391)"
+    },
+    {
+      "id": "OBG-C7-013",
+      "sec": "End-organ damage",
+      "page": 391,
+      "q": "Which platelet count is a severe-feature/end-organ-damage threshold in pre-eclampsia?",
+      "opts": [
+        "Below 3 lakh/mm³ only",
+        "Below 10 lakh/mm³",
+        "Below 1 lakh/mm³",
+        "Above 4 lakh/mm³"
+      ],
+      "ans": 2,
+      "exp": "Platelet count below 1 lakh is a listed end-organ-damage criterion. (Book p391)"
+    },
+    {
+      "id": "OBG-C7-014",
+      "sec": "End-organ damage",
+      "page": 391,
+      "q": "Which creatinine value is a severe-feature/end-organ-damage threshold?",
+      "opts": [
+        "At least 0.3 mg/dL",
+        "At least 0.8 mg/dL only",
+        "At least 5 mg/dL only",
+        "At least 1.1 mg/dL"
+      ],
+      "ans": 3,
+      "exp": "Serum creatinine ≥1.1 mg/dL is a listed severe feature. (Book p391)"
+    },
+    {
+      "id": "OBG-C7-015",
+      "sec": "End-organ damage",
+      "page": 391,
+      "q": "Which hepatic finding qualifies as end-organ involvement in pre-eclampsia?",
+      "opts": [
+        "Transaminases at least twice normal",
+        "Any rise in alkaline phosphatase",
+        "Low bilirubin only",
+        "Low LDH only"
+      ],
+      "ans": 0,
+      "exp": "Transaminases at least two times normal are a severe feature; placental ALP normally rises in pregnancy. (Book p391)"
+    },
+    {
+      "id": "OBG-C7-016",
+      "sec": "End-organ damage",
+      "page": 391,
+      "q": "Which pair is explicitly included among end-organ-damage features?",
+      "opts": [
+        "Rh negativity and proteinuria alone",
+        "Pulmonary edema and cerebral/visual symptoms",
+        "Physiological pedal edema and glycosuria",
+        "Anemia and hyperemesis"
+      ],
+      "ans": 1,
+      "exp": "Pulmonary edema and cerebral or visual symptoms are listed severe features. (Book p391)"
+    },
+    {
+      "id": "OBG-C7-017",
+      "sec": "Superimposed pre-eclampsia",
+      "page": 391,
+      "q": "When should chronic hypertension with superimposed pre-eclampsia be suspected?",
+      "opts": [
+        "If a normotensive woman is first seen at 8 weeks",
+        "When glucose is above 140 mg/dL",
+        "After 20 weeks, if uncontrollable BP, new proteinuria, or end-organ damage develops",
+        "When hypertension disappears after 12 weeks postpartum"
+      ],
+      "ans": 2,
+      "exp": "Superimposed PE is chronic hypertension plus new, worsening features after 20 weeks and has a bad prognosis. (Book p391)"
+    },
+    {
+      "id": "OBG-C7-018",
+      "sec": "Superimposed pre-eclampsia",
+      "page": 391,
+      "q": "Why is aspirin considered in a woman with chronic hypertension in pregnancy?",
+      "opts": [
+        "To stop fetal movement",
+        "To treat seizures once they begin",
+        "To lower serum creatinine directly",
+        "To prevent superimposed pre-eclampsia"
+      ],
+      "ans": 3,
+      "exp": "The source notes aspirin use to prevent superimposed PE in chronic hypertension. (Book p391)"
+    },
+    {
+      "id": "OBG-C7-019",
+      "sec": "Mild pre-eclampsia",
+      "page": 392,
+      "q": "Which BP range defines mild pre-eclampsia in the notes?",
+      "opts": [
+        "Below 130/80 mmHg",
+        "160/110 mmHg or higher",
+        "Only systolic BP above 200 mmHg",
+        "140/90 to less than 160/110 mmHg"
+      ],
+      "ans": 3,
+      "exp": "Mild PE is BP ≥140/90 and <160/110 without severe features. (Book p392)"
+    },
+    {
+      "id": "OBG-C7-020",
+      "sec": "Severe pre-eclampsia",
+      "page": 392,
+      "q": "Which statement defines severe pre-eclampsia?",
+      "opts": [
+        "BP at least 160/110 mmHg or any severe feature",
+        "Any proteinuria with BP below 140/90",
+        "Any edema with normal BP",
+        "Only 4+ dipstick protein"
+      ],
+      "ans": 0,
+      "exp": "Severe PE is defined by BP ≥160/110 or severe features/end-organ damage. (Book p392)"
+    },
+    {
+      "id": "OBG-C7-021",
+      "sec": "Severity assessment",
+      "page": 392,
+      "q": "Which finding does NOT differentiate mild from severe pre-eclampsia according to the notes?",
+      "opts": [
+        "BP ≥160/110 mmHg",
+        "Degree of proteinuria",
+        "Presence of end-organ damage",
+        "Presence of impending-eclampsia symptoms"
+      ],
+      "ans": 1,
+      "exp": "Degree of proteinuria is non-differentiating; BP and severe features determine severity. (Book p392)"
+    },
+    {
+      "id": "OBG-C7-022",
+      "sec": "Severity assessment",
+      "page": 392,
+      "q": "Which clinical finding is also non-differentiating between mild and severe pre-eclampsia?",
+      "opts": [
+        "Visual symptoms",
+        "End-organ damage",
+        "Oliguria",
+        "Severe BP elevation"
+      ],
+      "ans": 2,
+      "exp": "Oliguria is listed as non-differentiating because reduced renal perfusion may occur in both. (Book p392)"
+    },
+    {
+      "id": "OBG-C7-023",
+      "sec": "Severity assessment",
+      "page": 392,
+      "q": "Which fetal finding does not by itself distinguish mild from severe pre-eclampsia?",
+      "opts": [
+        "BP ≥160/110 mmHg",
+        "Pulmonary edema",
+        "Severe headache",
+        "IUGR"
+      ],
+      "ans": 3,
+      "exp": "IUGR is a non-differentiating feature in the source table. (Book p392)"
+    },
+    {
+      "id": "OBG-C7-024",
+      "sec": "Pathological edema",
+      "page": 392,
+      "q": "What feature makes edema pathological in pre-eclampsia?",
+      "opts": [
+        "It does not subside with rest and involves dependent and non-dependent parts",
+        "It appears only after prolonged standing and resolves fully with rest",
+        "It is confined to one hand",
+        "It is always absent in PIH"
+      ],
+      "ans": 0,
+      "exp": "Pathological edema does not improve with rest and is present in dependent and non-dependent parts. (Book p392)"
+    },
+    {
+      "id": "OBG-C7-025",
+      "sec": "Impending eclampsia",
+      "page": 392,
+      "q": "Which headache suggests impending eclampsia?",
+      "opts": [
+        "Headache exclusively before 12 weeks",
+        "A severe headache not relieved by usual medication",
+        "A brief mild headache relieved by rest",
+        "Only occipital pain after exercise"
+      ],
+      "ans": 1,
+      "exp": "Impending eclampsia includes severe headache not relieved by usual medication. (Book p392)"
+    },
+    {
+      "id": "OBG-C7-026",
+      "sec": "Impending eclampsia",
+      "page": 392,
+      "q": "Epigastric pain in impending eclampsia is attributed to:",
+      "opts": [
+        "Uterine contractions",
+        "Renal colic",
+        "Subcapsular hematoma stretching the liver capsule",
+        "Gastritis from iron tablets only"
+      ],
+      "ans": 2,
+      "exp": "Epigastric pain reflects subcapsular hematoma and stretching of the liver capsule. (Book p392)"
+    },
+    {
+      "id": "OBG-C7-027",
+      "sec": "Impending eclampsia",
+      "page": 392,
+      "q": "Which visual symptom should prompt concern for impending eclampsia?",
+      "opts": [
+        "Only presbyopia",
+        "A painless red eye only",
+        "Improved night vision",
+        "Diplopia, blurring, scotoma, or blindness"
+      ],
+      "ans": 3,
+      "exp": "The source lists diplopia, blurred vision, scotoma, and blindness as warning symptoms. (Book p392)"
+    },
+    {
+      "id": "OBG-C7-028",
+      "sec": "Impending eclampsia",
+      "page": 392,
+      "q": "Why should a fundus examination be done when visual symptoms occur in PIH?",
+      "opts": [
+        "To assess hypertensive retinal involvement",
+        "To diagnose GDM",
+        "To measure cervical length",
+        "To quantify fetomaternal hemorrhage"
+      ],
+      "ans": 0,
+      "exp": "Fundus examination is part of evaluating visual symptoms in PIH. (Book p392)"
+    },
+    {
+      "id": "OBG-C7-029",
+      "sec": "PIH admission",
+      "page": 392,
+      "q": "What is the stated disposition for all women with pre-eclampsia?",
+      "opts": [
+        "Observe at home without tests",
+        "Admit them",
+        "Manage all on OPD only",
+        "Discharge after a single BP"
+      ],
+      "ans": 1,
+      "exp": "The notes state that all pre-eclampsia patients should be admitted. (Book p392)"
+    },
+    {
+      "id": "OBG-C7-030",
+      "sec": "PIH investigations",
+      "page": 392,
+      "q": "Which three investigations are emphasized as important in all pre-eclampsia patients?",
+      "opts": [
+        "Karyotype, TORCH, and VDRL",
+        "Serum bile acids, ICT, and OGTT",
+        "LFT, serum creatinine, and platelet count",
+        "TSH, calcium, and HbA1c"
+      ],
+      "ans": 2,
+      "exp": "LFT, serum creatinine, and platelets are the three highlighted investigations. (Book p392)"
+    },
+    {
+      "id": "OBG-C7-031",
+      "sec": "Eclampsia",
+      "page": 393,
+      "q": "What is eclampsia by definition?",
+      "opts": [
+        "Proteinuria without hypertension",
+        "Chronic hypertension with edema only",
+        "Severe pre-eclampsia with generalized tonic-clonic seizures",
+        "Any seizure in a pregnant woman with normal BP"
+      ],
+      "ans": 2,
+      "exp": "Eclampsia is severe PE plus generalized tonic-clonic seizures. (Book p393)"
+    },
+    {
+      "id": "OBG-C7-032",
+      "sec": "Eclampsia timing",
+      "page": 393,
+      "q": "Which type of eclampsia is most common and has the worst prognosis?",
+      "opts": [
+        "Intrapartum eclampsia",
+        "Postpartum eclampsia",
+        "Remote postpartum seizure at 6 months",
+        "Antepartum eclampsia"
+      ],
+      "ans": 3,
+      "exp": "Antepartum eclampsia is the most common type and has the worst prognosis. (Book p393)"
+    },
+    {
+      "id": "OBG-C7-033",
+      "sec": "Eclampsia timing",
+      "page": 393,
+      "q": "Postpartum eclampsia is defined in the notes as occurring within what time after delivery?",
+      "opts": [
+        "Within 48 hours",
+        "Within 12 weeks",
+        "Within 7 days only",
+        "After 6 months"
+      ],
+      "ans": 0,
+      "exp": "Postpartum eclampsia occurs after delivery within 48 hours. (Book p393)"
+    },
+    {
+      "id": "OBG-C7-034",
+      "sec": "Atypical eclampsia",
+      "page": 393,
+      "q": "Which seizure timing is atypical for eclampsia?",
+      "opts": [
+        "Within 48 hours after delivery",
+        "More than 48 hours after delivery",
+        "During labor",
+        "In the antenatal period"
+      ],
+      "ans": 1,
+      "exp": "Onset beyond 48 hours postpartum is a feature of atypical eclampsia. (Book p393)"
+    },
+    {
+      "id": "OBG-C7-035",
+      "sec": "Atypical eclampsia",
+      "page": 393,
+      "q": "Which antenatal seizure timing should be considered atypical eclampsia?",
+      "opts": [
+        "During the second stage of labor",
+        "At 40 weeks only",
+        "Before 20 weeks of pregnancy",
+        "After 37 weeks"
+      ],
+      "ans": 2,
+      "exp": "A seizure before 20 weeks is an atypical-eclampsia feature. (Book p393)"
+    },
+    {
+      "id": "OBG-C7-036",
+      "sec": "Atypical eclampsia",
+      "page": 393,
+      "q": "What is the investigation of choice for atypical eclampsia?",
+      "opts": [
+        "Plain abdominal X-ray",
+        "DIPSI",
+        "Kleihauer–Betke test",
+        "MRI"
+      ],
+      "ans": 3,
+      "exp": "MRI is the investigation of choice for atypical eclampsia. (Book p393)"
+    },
+    {
+      "id": "OBG-C7-037",
+      "sec": "PRES",
+      "page": 393,
+      "q": "In posterior reversible encephalopathy syndrome, edema is localized chiefly to which brain region?",
+      "opts": [
+        "Posterior cerebral hemisphere",
+        "Pituitary gland",
+        "Cerebellar vermis only",
+        "Frontal sinus"
+      ],
+      "ans": 0,
+      "exp": "PRES is described as edema localized to the posterior cerebral hemisphere. (Book p393)"
+    },
+    {
+      "id": "OBG-C7-038",
+      "sec": "Gestational hypertension",
+      "page": 393,
+      "q": "About what proportion of gestational-hypertension cases change to pre-eclampsia in the notes?",
+      "opts": [
+        "0%",
+        "50%",
+        "5%",
+        "100%"
+      ],
+      "ans": 1,
+      "exp": "The source states that about 50% of gestational hypertension cases evolve to PE. (Book p393)"
+    },
+    {
+      "id": "OBG-C7-039",
+      "sec": "Gestational hypertension",
+      "page": 393,
+      "q": "How should gestational hypertension with BP at least 160/110 mmHg be managed?",
+      "opts": [
+        "With no monitoring",
+        "Like diet-controlled GDM",
+        "Like severe pre-eclampsia",
+        "As normal pregnancy"
+      ],
+      "ans": 2,
+      "exp": "Severe-range gestational hypertension is managed like severe PE. (Book p393)"
+    },
+    {
+      "id": "OBG-C7-040",
+      "sec": "Gestational hypertension",
+      "page": 393,
+      "q": "A woman first found hypertensive after 20 weeks has no proteinuria or end-organ damage. What is the provisional diagnosis?",
+      "opts": [
+        "Chronic hypertension immediately",
+        "Severe PE immediately",
+        "Eclampsia",
+        "Gestational hypertension"
+      ],
+      "ans": 3,
+      "exp": "The provisional diagnosis is gestational hypertension; BP is rechecked 12 weeks after delivery. (Book p393)"
+    },
+    {
+      "id": "OBG-C7-041",
+      "sec": "Normal placentation",
+      "page": 394,
+      "q": "What is the role of extravillous trophoblast in normal pregnancy?",
+      "opts": [
+        "It constricts spiral arteries to reduce placental flow",
+        "It produces maternal insulin",
+        "It blocks all decidual remodeling",
+        "It replaces spiral-artery lining and converts high-resistance vessels to low-resistance vessels"
+      ],
+      "ans": 3,
+      "exp": "Extravillous trophoblast replaces spiral-artery lining, converting high-resistance arteries to low-resistance vessels. (Book p394)"
+    },
+    {
+      "id": "OBG-C7-042",
+      "sec": "Normal placentation",
+      "page": 394,
+      "q": "Why is spiral-artery remodeling important in normal pregnancy?",
+      "opts": [
+        "It maintains uteroplacental circulation",
+        "It prevents all placental implantation",
+        "It creates maternal hypertension",
+        "It decreases intervillous blood volume"
+      ],
+      "ans": 0,
+      "exp": "Trophoblastic invasion and vascular remodeling maintain uteroplacental circulation. (Book p394)"
+    },
+    {
+      "id": "OBG-C7-043",
+      "sec": "Normal placentation",
+      "page": 394,
+      "q": "When does the first phase of normal spiral-artery remodeling occur and what segment is replaced?",
+      "opts": [
+        "At delivery; the whole artery",
+        "At 12 weeks; the decidual segment lining",
+        "At 6 weeks; the myometrial segment",
+        "At 20 weeks; the decidual segment"
+      ],
+      "ans": 1,
+      "exp": "The first phase occurs around 12 weeks and replaces the decidual segment lining. (Book p394)"
+    },
+    {
+      "id": "OBG-C7-044",
+      "sec": "Normal placentation",
+      "page": 394,
+      "q": "When does the second phase of normal spiral-artery remodeling occur and what segment is replaced?",
+      "opts": [
+        "At 28–32 weeks; the endocervix",
+        "After birth; the placental villi",
+        "At 16–20 weeks; the myometrial segment lining",
+        "At 12 weeks; the decidual segment"
+      ],
+      "ans": 2,
+      "exp": "The second phase is 16–20 weeks and replaces the myometrial segment lining. (Book p394)"
+    },
+    {
+      "id": "OBG-C7-045",
+      "sec": "Normal placentation",
+      "page": 394,
+      "q": "Which maternal immune cell type participates in spiral-artery remodeling?",
+      "opts": [
+        "Neutrophils only",
+        "Eosinophils only",
+        "Red blood cells",
+        "Natural killer cells"
+      ],
+      "ans": 3,
+      "exp": "Maternal NK cells play a role in vascular remodeling. (Book p394)"
+    },
+    {
+      "id": "OBG-C7-046",
+      "sec": "PIH pathophysiology",
+      "page": 394,
+      "q": "What is incomplete in trophoblastic invasion in PIH according to the notes?",
+      "opts": [
+        "The second phase of remodeling",
+        "Only the first phase",
+        "Both phases are excessive",
+        "No phase is relevant"
+      ],
+      "ans": 0,
+      "exp": "In PIH, the second phase of trophoblastic invasion is incomplete. (Book p394)"
+    },
+    {
+      "id": "OBG-C7-047",
+      "sec": "PIH pathophysiology",
+      "page": 394,
+      "q": "What happens to spiral-artery resistance when trophoblastic remodeling is incomplete?",
+      "opts": [
+        "It disappears entirely",
+        "It remains high",
+        "It falls below normal",
+        "It becomes unrelated to placental blood flow"
+      ],
+      "ans": 1,
+      "exp": "Incomplete invasion leaves resistance high. (Book p394)"
+    },
+    {
+      "id": "OBG-C7-048",
+      "sec": "PIH pathophysiology",
+      "page": 394,
+      "q": "What immediate placental consequence follows persistently high spiral-artery resistance?",
+      "opts": [
+        "Placental overgrowth without ischemia",
+        "Immediate fetal hyperinsulinemia",
+        "Reduced blood volume in the intervillous space and placental ischemia",
+        "Increased uteroplacental perfusion"
+      ],
+      "ans": 2,
+      "exp": "High resistance lowers intervillous blood volume, producing placental ischemia. (Book p394)"
+    },
+    {
+      "id": "OBG-C7-049",
+      "sec": "Placental ischemia",
+      "page": 395,
+      "q": "How does placental ischemia affect placental size in the source pathway?",
+      "opts": [
+        "It has no effect on placenta",
+        "It doubles placental diameter",
+        "It decreases placental size",
+        "It always causes placentomegaly"
+      ],
+      "ans": 2,
+      "exp": "Placental ischemia decreases placental size and contributes to uteroplacental insufficiency. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-050",
+      "sec": "Placental ischemia",
+      "page": 395,
+      "q": "What fetal growth consequence follows uteroplacental insufficiency in PIH?",
+      "opts": [
+        "Macrosomia",
+        "Hydrops from hemolysis",
+        "Neural-tube defect",
+        "IUGR"
+      ],
+      "ans": 3,
+      "exp": "Reduced fetal blood supply causes IUGR. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-051",
+      "sec": "Placental ischemia",
+      "page": 395,
+      "q": "Why can oligohydramnios develop in PIH with placental insufficiency?",
+      "opts": [
+        "Fetal brain sparing reduces renal blood flow, causing oliguria",
+        "Maternal insulin crosses and stops urine formation",
+        "It results only from PROM",
+        "Placental ischemia increases fetal renal blood flow"
+      ],
+      "ans": 0,
+      "exp": "Brain sparing directs blood to brain and away from kidneys, causing oliguria and oligohydramnios. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-052",
+      "sec": "PIH mediators",
+      "page": 395,
+      "q": "Which mediator is increased in PIH and is an antiangiogenic soluble FMS-like tyrosine kinase?",
+      "opts": [
+        "Prostacyclin I2",
+        "sFlt-1",
+        "VEGF",
+        "Placental growth factor"
+      ],
+      "ans": 1,
+      "exp": "sFlt-1 is increased and is a key antiangiogenic/vasoconstrictor mediator. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-053",
+      "sec": "PIH mediators",
+      "page": 395,
+      "q": "Which pair of vasodilatory/angiogenic mediators is decreased in PIH?",
+      "opts": [
+        "Thromboxane A2 and TNF-alpha",
+        "Angiotensin sensitivity and ILs",
+        "VEGF and placental growth factor",
+        "sFlt-1 and soluble endoglin"
+      ],
+      "ans": 2,
+      "exp": "VEGF and placental growth factor are decreased in PIH. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-054",
+      "sec": "PIH mediators",
+      "page": 395,
+      "q": "Which eicosanoid change favors vasoconstriction in PIH?",
+      "opts": [
+        "Decreased thromboxane A2 with increased prostacyclin I2",
+        "Increase in both only",
+        "No eicosanoid change",
+        "Increased thromboxane A2 with decreased prostacyclin I2"
+      ],
+      "ans": 3,
+      "exp": "PIH shifts toward increased thromboxane A2 and decreased prostacyclin I2. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-055",
+      "sec": "PIH mediators",
+      "page": 395,
+      "q": "What happens to sensitivity to angiotensin in PIH?",
+      "opts": [
+        "It increases",
+        "It decreases to zero",
+        "It is unchanged",
+        "It matters only after delivery"
+      ],
+      "ans": 0,
+      "exp": "PIH features increased sensitivity to angiotensin. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-056",
+      "sec": "PIH clinical expression",
+      "page": 395,
+      "q": "What is the first clinical manifestation of PIH following vasoconstriction?",
+      "opts": [
+        "Seizure before implantation",
+        "Raised blood pressure after 20 weeks",
+        "Proteinuria before conception",
+        "Postpartum hemorrhage"
+      ],
+      "ans": 1,
+      "exp": "Vasoconstriction causes raised BP, the first clinical manifestation after 20 weeks. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-057",
+      "sec": "Endothelial injury",
+      "page": 395,
+      "q": "What does endothelial injury do to capillaries in PIH?",
+      "opts": [
+        "Prevents thrombosis",
+        "Raises albumin production",
+        "Makes them leaky",
+        "Makes them impermeable to all fluid"
+      ],
+      "ans": 2,
+      "exp": "Endothelial injury makes capillaries leaky. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-058",
+      "sec": "Endothelial injury",
+      "page": 395,
+      "q": "What third-space manifestations follow capillary leak in PIH?",
+      "opts": [
+        "Glycosuria and ketosis",
+        "Neonatal jaundice and anemia",
+        "Only polycythemia",
+        "Pathological edema and ascites"
+      ],
+      "ans": 3,
+      "exp": "Capillary leak moves fluid to the third space, causing pathological edema and ascites. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-059",
+      "sec": "Endothelial injury",
+      "page": 395,
+      "q": "What intravascular state follows capillary leak in PIH?",
+      "opts": [
+        "Hemoconcentration",
+        "Hemodilution only",
+        "Complete absence of platelets",
+        "Hypercalcemia"
+      ],
+      "ans": 0,
+      "exp": "Fluid loss from vessels causes hemoconcentration. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-060",
+      "sec": "Thrombosis",
+      "page": 395,
+      "q": "Which three elements form the Virchow-triad pathway in PIH noted in the source?",
+      "opts": [
+        "Fetal tachycardia, bradycardia, and edema",
+        "Stasis, platelet activation/aggregation, and endothelial injury",
+        "Hyperglycemia, anemia, and fever",
+        "Proteinuria, glycosuria, and hematuria"
+      ],
+      "ans": 1,
+      "exp": "Stasis, platelet activation/aggregation, and endothelial injury raise thrombosis risk. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-061",
+      "sec": "PIH outcomes",
+      "page": 395,
+      "q": "What major systemic result can occur from PIH-associated thrombosis?",
+      "opts": [
+        "Definitive cure without delivery",
+        "No clinical effect",
+        "End-organ damage and multiple-organ failure",
+        "Only improved renal filtration"
+      ],
+      "ans": 2,
+      "exp": "Thrombosis can lead to end-organ damage and multiple-organ failure. (Book p395)"
+    },
+    {
+      "id": "OBG-C7-062",
+      "sec": "PIH cause",
+      "page": 396,
+      "q": "What is described as the main factor in PIH pathophysiology?",
+      "opts": [
+        "Maternal pancreas",
+        "The cervix",
+        "The placenta",
+        "The fetal brain"
+      ],
+      "ans": 2,
+      "exp": "The placenta is the main factor; PIH can occur even with no fetus, as in molar pregnancy. (Book p396)"
+    },
+    {
+      "id": "OBG-C7-063",
+      "sec": "PIH treatment principle",
+      "page": 396,
+      "q": "What is the definitive treatment for PIH?",
+      "opts": [
+        "Long-term bed rest alone",
+        "Salt restriction alone",
+        "Aspirin after seizure alone",
+        "Termination/delivery of pregnancy"
+      ],
+      "ans": 3,
+      "exp": "Delivery/termination of pregnancy is the definitive treatment. (Book p396)"
+    },
+    {
+      "id": "OBG-C7-064",
+      "sec": "Renal pathology",
+      "page": 396,
+      "q": "What is the first organ involved in PIH and what is its characteristic histology?",
+      "opts": [
+        "Maternal kidney with glomeruloendotheliosis",
+        "Fetal liver with cirrhosis",
+        "Maternal lung with emphysema",
+        "Placenta with choriocarcinoma"
+      ],
+      "ans": 0,
+      "exp": "The maternal kidney is first involved, showing glomeruloendotheliosis. (Book p396)"
+    },
+    {
+      "id": "OBG-C7-065",
+      "sec": "Renal pathology",
+      "page": 396,
+      "q": "What happens to renal blood flow and GFR in PIH?",
+      "opts": [
+        "Neither changes",
+        "Both decrease",
+        "Both increase",
+        "Renal blood flow increases while GFR falls"
+      ],
+      "ans": 1,
+      "exp": "Raised BP and renal involvement reduce renal blood flow and GFR. (Book p396)"
+    },
+    {
+      "id": "OBG-C7-066",
+      "sec": "Renal pathology",
+      "page": 396,
+      "q": "Which laboratory pattern follows reduced renal filtration in PIH?",
+      "opts": [
+        "Only reduced bilirubin",
+        "Low LDH only",
+        "Raised serum urea, uric acid, and creatinine",
+        "Low creatinine with low uric acid"
+      ],
+      "ans": 2,
+      "exp": "Reduced filtration raises serum urea, uric acid, and creatinine. (Book p396)"
+    },
+    {
+      "id": "OBG-C7-067",
+      "sec": "Cerebrovascular pathology",
+      "page": 396,
+      "q": "Which process can lead from leaky cerebral capillary endothelium to eclamptic seizures?",
+      "opts": [
+        "Improved autoregulation and reduced blood flow",
+        "Maternal glucose transfer only",
+        "Fetal renal vasodilation",
+        "Cerebral edema, hypoxia, and excitatory-neurotransmitter release"
+      ],
+      "ans": 3,
+      "exp": "Leaky cerebral capillaries lead to edema, hypoxia, excitatory neurotransmitters, and convulsions. (Book p396)"
+    },
+    {
+      "id": "OBG-C7-068",
+      "sec": "Cerebrovascular pathology",
+      "page": 396,
+      "q": "Loss of cerebral autoregulation in PIH produces what hemodynamic consequence?",
+      "opts": [
+        "Cerebral hyperperfusion",
+        "Cerebral hypoperfusion only",
+        "No symptom at all",
+        "Fetal bradycardia directly"
+      ],
+      "ans": 0,
+      "exp": "Loss of autoregulation causes cerebral hyperperfusion. (Book p396)"
+    },
+    {
+      "id": "OBG-C7-069",
+      "sec": "Cerebrovascular pathology",
+      "page": 396,
+      "q": "Why do visual disturbances occur in PIH according to the notes?",
+      "opts": [
+        "Only anemia causes visual symptoms",
+        "Cerebral hyperperfusion affects the occipital lobe",
+        "The retina is replaced by trophoblast",
+        "Maternal insulin crosses the optic nerve"
+      ],
+      "ans": 1,
+      "exp": "Cerebral hyperperfusion chiefly involving the occipital lobe explains visual disturbance. (Book p396)"
+    },
+    {
+      "id": "OBG-C7-070",
+      "sec": "PIH risk factors",
+      "page": 397,
+      "q": "Which reproductive history represents first exposure to placenta and raises PIH risk?",
+      "opts": [
+        "Tubal ligation",
+        "Primigravida",
+        "Multiparity with the same partner only",
+        "Previous term delivery only"
+      ],
+      "ans": 1,
+      "exp": "Primigravida is listed as first placental exposure and a PIH risk factor. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-071",
+      "sec": "PIH risk factors",
+      "page": 397,
+      "q": "Which paternal/spacing history raises PIH risk by exposing a woman to placenta for the first time again?",
+      "opts": [
+        "Prior episiotomy",
+        "Rh positivity",
+        "New paternity or a long interpregnancy interval",
+        "Breastfeeding only"
+      ],
+      "ans": 2,
+      "exp": "New paternity and a long interpregnancy interval are listed risk factors. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-072",
+      "sec": "PIH risk factors",
+      "page": 397,
+      "q": "Which group is associated with PIH because of increased placental tissue/placentomegaly?",
+      "opts": [
+        "Only singleton normal pregnancy",
+        "Hypothyroidism only",
+        "Iron deficiency only",
+        "Twin pregnancy, diabetes, or Rh-negative pregnancy"
+      ],
+      "ans": 3,
+      "exp": "Twin pregnancy, diabetes, and Rh-negative pregnancy are listed with placentomegaly risk. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-073",
+      "sec": "PIH risk factors",
+      "page": 397,
+      "q": "Which condition illustrates early-onset pre-eclampsia before 20 weeks due to placental tissue?",
+      "opts": [
+        "Molar pregnancy",
+        "Cervical ectopic pregnancy",
+        "Physiological glycosuria",
+        "Postpartum cardiomyopathy"
+      ],
+      "ans": 0,
+      "exp": "Molar pregnancy is associated with early-onset PE before 20 weeks. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-074",
+      "sec": "PIH risk factors",
+      "page": 397,
+      "q": "Which autoimmune diseases are listed as PIH risk factors?",
+      "opts": [
+        "Only iron deficiency",
+        "APLA syndrome and SLE",
+        "Hashimoto thyroiditis and diabetes insipidus",
+        "Acute appendicitis and asthma"
+      ],
+      "ans": 1,
+      "exp": "APLA syndrome and SLE are listed autoimmune PIH risks. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-075",
+      "sec": "PIH risk factors",
+      "page": 397,
+      "q": "Which maternal age group is listed as higher risk for PIH?",
+      "opts": [
+        "Exactly 30 years",
+        "Only postmenopausal women",
+        "Younger than 18 years or 40 years and older",
+        "20–25 years only"
+      ],
+      "ans": 2,
+      "exp": "The risk group is age <18 years or ≥40 years. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-076",
+      "sec": "PIH risk factors",
+      "page": 397,
+      "q": "Which patient characteristics are listed as PIH risk factors?",
+      "opts": [
+        "Tall stature and normal calcium only",
+        "Hyperthyroidism alone",
+        "Rh positivity only",
+        "Obesity, calcium deficiency, and genetic predisposition"
+      ],
+      "ans": 3,
+      "exp": "Obesity, calcium deficiency, and genetic predisposition are listed risk factors. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-077",
+      "sec": "PIH risk factors",
+      "page": 397,
+      "q": "Which previous history increases PIH risk?",
+      "opts": [
+        "IVF, chronic hypertension, prior PIH, or chronic kidney disease",
+        "Only a prior uncomplicated vaginal birth",
+        "Prior fetal echo",
+        "Prior successful OGTT"
+      ],
+      "ans": 0,
+      "exp": "IVF, chronic HTN, PIH, and chronic kidney disease are listed risk factors. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-078",
+      "sec": "PIH risk factors",
+      "page": 397,
+      "q": "What is the protective factor listed for PIH in these source notes?",
+      "opts": [
+        "Chronic kidney disease",
+        "Smoking",
+        "Primigravidity",
+        "Molar pregnancy"
+      ],
+      "ans": 1,
+      "exp": "Smoking is listed as a protective factor in the source notes. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-079",
+      "sec": "PIH prevention",
+      "page": 397,
+      "q": "Which measure has a proven role in PIH prevention?",
+      "opts": [
+        "Fish oil",
+        "Vitamin E",
+        "Aspirin",
+        "Antioxidants"
+      ],
+      "ans": 2,
+      "exp": "Aspirin is included among measures with a proven preventive role. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-080",
+      "sec": "PIH prevention",
+      "page": 397,
+      "q": "When do calcium supplements have a proven preventive role for PIH according to the notes?",
+      "opts": [
+        "In every woman irrespective of calcium status",
+        "Never in pregnancy",
+        "Only after delivery",
+        "Only when calcium deficiency is present"
+      ],
+      "ans": 3,
+      "exp": "Calcium supplements are useful only in calcium deficiency. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-081",
+      "sec": "PIH prevention",
+      "page": 397,
+      "q": "Which measure is listed as having no proven role in PIH prevention?",
+      "opts": [
+        "Absolute bed rest",
+        "Weight loss",
+        "Aspirin",
+        "Calcium supplementation in deficiency"
+      ],
+      "ans": 0,
+      "exp": "Absolute bed rest has no proven preventive role. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-082",
+      "sec": "PIH prevention",
+      "page": 397,
+      "q": "Which dietary strategy is listed as having no proven role in PIH prevention?",
+      "opts": [
+        "Aspirin prophylaxis",
+        "Salt restriction",
+        "Correction of calcium deficiency",
+        "Appropriate weight loss"
+      ],
+      "ans": 1,
+      "exp": "Salt restriction is in the no-proven-role column. (Book p397)"
+    },
+    {
+      "id": "OBG-C7-083",
+      "sec": "Aspirin prophylaxis",
+      "page": 398,
+      "q": "Which patient group is specifically highlighted for low-dose aspirin prophylaxis?",
+      "opts": [
+        "Only women after delivery",
+        "APLA syndrome, chronic HTN, multifetal pregnancy, kidney disease, or diabetes",
+        "Only women with normal BP and no risk factors",
+        "Only women with anemia"
+      ],
+      "ans": 1,
+      "exp": "The mnemonic list includes APLA, chronic HTN, multifetal gestation, kidney disease, and diabetes. (Book p398)"
+    },
+    {
+      "id": "OBG-C7-084",
+      "sec": "Aspirin prophylaxis",
+      "page": 398,
+      "q": "When should low-dose aspirin prophylaxis for PIH be started?",
+      "opts": [
+        "At delivery",
+        "Before conception only",
+        "At 12 weeks, not later than 16 weeks",
+        "After 32 weeks only"
+      ],
+      "ans": 2,
+      "exp": "Start aspirin at 12 weeks and no later than 16 weeks. (Book p398)"
+    },
+    {
+      "id": "OBG-C7-085",
+      "sec": "Aspirin prophylaxis",
+      "page": 398,
+      "q": "When is low-dose aspirin stopped in the stated PIH-prevention protocol?",
+      "opts": [
+        "At 20 weeks",
+        "At onset of labor only",
+        "At 12 weeks",
+        "At 36 weeks"
+      ],
+      "ans": 3,
+      "exp": "The low-dose aspirin course ends at 36 weeks. (Book p398)"
+    },
+    {
+      "id": "OBG-C7-086",
+      "sec": "Aspirin prophylaxis",
+      "page": 398,
+      "q": "What aspirin dose range is listed for PIH prophylaxis?",
+      "opts": [
+        "80–150 mg/day",
+        "5–10 mg/day",
+        "300–600 mg/day",
+        "1 g/day"
+      ],
+      "ans": 0,
+      "exp": "The stated prophylactic dose range is 80–150 mg/day. (Book p398)"
+    },
+    {
+      "id": "OBG-C7-087",
+      "sec": "PIH predictors",
+      "page": 398,
+      "q": "Which biomarker pattern is listed as a new predictor of PIH?",
+      "opts": [
+        "Low creatinine only",
+        "Raised sFlt-1 and soluble endoglin with low VEGF and PlGF",
+        "Raised VEGF and PlGF with low sFlt-1",
+        "Raised insulin and glucose only"
+      ],
+      "ans": 1,
+      "exp": "New predictors include ↑sFlt-1/soluble endoglin and ↓VEGF/placental growth factor. (Book p398)"
+    },
+    {
+      "id": "OBG-C7-088",
+      "sec": "PIH predictors",
+      "page": 398,
+      "q": "Which ratio is identified as the best biomarker predictor of PIH?",
+      "opts": [
+        "Protein:creatinine ratio",
+        "L/S ratio",
+        "sFlt-1:placental growth factor ratio",
+        "LDH:bilirubin ratio"
+      ],
+      "ans": 2,
+      "exp": "The sFlt-1:PlGF ratio is marked as the best predictor. (Book p398)"
+    },
+    {
+      "id": "OBG-C7-089",
+      "sec": "PIH predictors",
+      "page": 398,
+      "q": "Which is an outdated PIH predictor in the notes?",
+      "opts": [
+        "Uterine-artery Doppler",
+        "sFlt-1:PlGF ratio",
+        "Pulsatility index",
+        "Roll-over test"
+      ],
+      "ans": 3,
+      "exp": "The roll-over test and angiotensin-II challenge test are labelled outdated predictors. (Book p398)"
+    },
+    {
+      "id": "OBG-C7-090",
+      "sec": "Uterine-artery Doppler",
+      "page": 398,
+      "q": "What happens to the normal uterine-artery diastolic notch as pregnancy progresses?",
+      "opts": [
+        "It disappears by 20–22 weeks as peripheral vascular resistance falls",
+        "It appears for the first time at 36 weeks",
+        "It persists throughout normal pregnancy",
+        "It increases with normal placentation"
+      ],
+      "ans": 0,
+      "exp": "In normal pregnancy, falling PVR leads the diastolic notch to disappear by 20–22 weeks. (Book p398)"
+    },
+    {
+      "id": "OBG-C7-091",
+      "sec": "Uterine-artery Doppler",
+      "page": 398,
+      "q": "Which uterine-artery Doppler finding predicts PIH?",
+      "opts": [
+        "Only fetal tachycardia",
+        "Persistent diastolic notch with increased PI or RI",
+        "Absent systolic flow with low PI",
+        "A normal disappearing notch"
+      ],
+      "ans": 1,
+      "exp": "Persistence of the notch and increased pulsatility or resistance index predict PIH. (Book p398)"
+    },
+    {
+      "id": "OBG-C7-092",
+      "sec": "Uterine-artery Doppler",
+      "page": 398,
+      "q": "At what gestational window is uterine-artery Doppler used to predict PIH?",
+      "opts": [
+        "32–34 weeks only",
+        "After delivery",
+        "22–24 weeks",
+        "4–6 weeks"
+      ],
+      "ans": 2,
+      "exp": "The source lists 22–24 weeks to predict PIH. (Book p398)"
+    },
+    {
+      "id": "OBG-C7-093",
+      "sec": "Uterine-artery Doppler",
+      "page": 398,
+      "q": "At what gestational window are uterine-artery PI and RI used to predict early-onset pre-eclampsia?",
+      "opts": [
+        "20–22 weeks only",
+        "28–30 weeks",
+        "After 40 weeks",
+        "11–13 weeks"
+      ],
+      "ans": 3,
+      "exp": "PI and RI at 11–13 weeks are listed for early-onset PE prediction. (Book p398)"
+    },
+    {
+      "id": "OBG-C7-094",
+      "sec": "PIH evaluation",
+      "page": 399,
+      "q": "What is the initial disposition stated for all PIH cases in the management page?",
+      "opts": [
+        "Manage all on OPD without tests",
+        "Deliver all cases immediately before assessment",
+        "Give aspirin and discharge",
+        "Admit all cases for assessment"
+      ],
+      "ans": 3,
+      "exp": "The p399 management page begins with admission of all PIH cases. (Book p399)"
+    },
+    {
+      "id": "OBG-C7-095",
+      "sec": "PIH evaluation",
+      "page": 399,
+      "q": "Which test set is used to help rule out HELLP syndrome in PIH?",
+      "opts": [
+        "LFT, serum creatinine, platelets, LDH, and peripheral smear for schistocytes",
+        "TSH, OGTT, and ICT",
+        "Only urine pregnancy test",
+        "Karyotype and TORCH testing"
+      ],
+      "ans": 0,
+      "exp": "The HELLP screen includes LFT, creatinine, platelets, LDH, and peripheral smear for schistocytes. (Book p399)"
+    },
+    {
+      "id": "OBG-C7-096",
+      "sec": "PIH evaluation",
+      "page": 399,
+      "q": "A PIH patient with BP above 160/110 or end-organ damage should be classified and managed as:",
+      "opts": [
+        "Diet-controlled GDM",
+        "Severe pre-eclampsia; remain admitted",
+        "Mild PE; OPD only",
+        "Transient normal hypertension"
+      ],
+      "ans": 1,
+      "exp": "BP >160/110 or end-organ damage indicates severe PE, which remains admitted. (Book p399)"
+    },
+    {
+      "id": "OBG-C7-097",
+      "sec": "PIH evaluation",
+      "page": 399,
+      "q": "A PIH patient without severe BP or end-organ damage is managed as:",
+      "opts": [
+        "Chronic hypertension from day 1",
+        "HELLP syndrome automatically",
+        "Mild pre-eclampsia on an OPD basis",
+        "Eclampsia requiring ICU"
+      ],
+      "ans": 2,
+      "exp": "Without severe findings, the source indicates mild PE and OPD management. (Book p399)"
+    },
+    {
+      "id": "OBG-C7-098",
+      "sec": "Delivery timing",
+      "page": 399,
+      "q": "At what gestation is delivery planned for mild pre-eclampsia?",
+      "opts": [
+        "34 weeks",
+        "39 weeks",
+        "Immediately regardless of gestational age",
+        "37 weeks"
+      ],
+      "ans": 3,
+      "exp": "The timing table lists 37 weeks for mild PE. (Book p399)"
+    },
+    {
+      "id": "OBG-C7-099",
+      "sec": "Delivery timing",
+      "page": 399,
+      "q": "At what gestation is delivery planned for severe pre-eclampsia when no immediate indication is present?",
+      "opts": [
+        "34 weeks",
+        "37 weeks",
+        "39 weeks",
+        "42 weeks"
+      ],
+      "ans": 0,
+      "exp": "The timing table lists 34 weeks for severe PE. (Book p399)"
+    },
+    {
+      "id": "OBG-C7-100",
+      "sec": "Delivery timing",
+      "page": 399,
+      "q": "Which group requires immediate termination irrespective of gestational age in the p399 table?",
+      "opts": [
+        "Diet-controlled GDM",
+        "Eclampsia, impending eclampsia, HELLP, fetal distress, or abruption",
+        "Mild PE alone at 28 weeks",
+        "Chronic HTN alone at 20 weeks"
+      ],
+      "ans": 1,
+      "exp": "Eclampsia, impending eclampsia, HELLP, fetal distress, and PIH with abruption require immediate delivery. (Book p399)"
+    },
+    {
+      "id": "OBG-C7-101",
+      "sec": "Delivery timing",
+      "page": 399,
+      "q": "When is delivery planned for chronic hypertension without superimposed pre-eclampsia?",
+      "opts": [
+        "39–40 weeks only",
+        "Immediately at diagnosis",
+        "37–38 weeks",
+        "34 weeks"
+      ],
+      "ans": 2,
+      "exp": "The table gives 37–38 weeks for chronic hypertension. (Book p399)"
+    },
+    {
+      "id": "OBG-C7-102",
+      "sec": "Delivery timing",
+      "page": 399,
+      "q": "When is delivery planned for chronic hypertension with superimposed pre-eclampsia?",
+      "opts": [
+        "34 weeks only",
+        "40 weeks",
+        "Only after 42 weeks",
+        "37 weeks"
+      ],
+      "ans": 3,
+      "exp": "The timing table lists 37 weeks for chronic hypertension with superimposed PE. (Book p399)"
+    },
+    {
+      "id": "OBG-C7-103",
+      "sec": "Fetal monitoring",
+      "page": 400,
+      "q": "How often is daily fetal movement count done in mild and severe pre-eclampsia?",
+      "opts": [
+        "Weekly in mild and never in severe",
+        "Only at delivery",
+        "Monthly in both",
+        "Daily in both"
+      ],
+      "ans": 3,
+      "exp": "The table lists daily fetal movement counting for both mild and severe PE. (Book p400)"
+    },
+    {
+      "id": "OBG-C7-104",
+      "sec": "Fetal monitoring",
+      "page": 400,
+      "q": "How does NST frequency differ between mild and severe pre-eclampsia?",
+      "opts": [
+        "Weekly in mild and alternate days in severe",
+        "Daily in mild and monthly in severe",
+        "Never in mild and weekly in severe",
+        "The same once-monthly schedule in both"
+      ],
+      "ans": 0,
+      "exp": "NST is weekly in mild PE and alternate-day in severe PE. (Book p400)"
+    },
+    {
+      "id": "OBG-C7-105",
+      "sec": "Fetal monitoring",
+      "page": 400,
+      "q": "How does biophysical-score frequency differ between mild and severe pre-eclampsia?",
+      "opts": [
+        "Only one BPS at delivery",
+        "Weekly in mild and alternate days in severe",
+        "Daily in mild and monthly in severe",
+        "No BPS is needed in severe PE"
+      ],
+      "ans": 1,
+      "exp": "BPS is weekly in mild PE and alternate-day in severe PE. (Book p400)"
+    },
+    {
+      "id": "OBG-C7-106",
+      "sec": "Fetal monitoring",
+      "page": 400,
+      "q": "How often is ultrasound for fetal growth done in mild versus severe pre-eclampsia?",
+      "opts": [
+        "Only once at 20 weeks in both",
+        "Never in severe PE",
+        "Every 3 weeks in mild and every 2 weeks in severe",
+        "Every week in mild and every month in severe"
+      ],
+      "ans": 2,
+      "exp": "Growth scan frequency is every 3 weeks in mild and every 2 weeks in severe PE. (Book p400)"
+    },
+    {
+      "id": "OBG-C7-107",
+      "sec": "Umbilical artery Doppler",
+      "page": 400,
+      "q": "What umbilical-artery S/D ratio is a PIH/uteroplacental-insufficiency finding linked to delivery at 37 weeks?",
+      "opts": [
+        "Less than 1",
+        "Exactly 1.5",
+        "Less than 2 only",
+        "At least 3"
+      ],
+      "ans": 3,
+      "exp": "An umbilical-artery S/D ratio ≥3 is linked to 37-week delivery in the source table. (Book p400)"
+    },
+    {
+      "id": "OBG-C7-108",
+      "sec": "Umbilical artery Doppler",
+      "page": 400,
+      "q": "What is the listed delivery timing for absent end-diastolic flow in the umbilical artery?",
+      "opts": [
+        "33–34 weeks",
+        "37 weeks",
+        "31–32 weeks",
+        "39 weeks"
+      ],
+      "ans": 0,
+      "exp": "Absent end-diastolic flow is linked to delivery at 33–34 weeks. (Book p400)"
+    },
+    {
+      "id": "OBG-C7-109",
+      "sec": "Umbilical artery Doppler",
+      "page": 400,
+      "q": "What is the listed delivery timing for reversed end-diastolic flow in the umbilical artery?",
+      "opts": [
+        "39 weeks",
+        "31–32 weeks",
+        "37 weeks",
+        "33–34 weeks"
+      ],
+      "ans": 1,
+      "exp": "Reversed end-diastolic flow is linked to delivery at 31–32 weeks. (Book p400)"
+    },
+    {
+      "id": "OBG-C7-110",
+      "sec": "Mild PE management",
+      "page": 400,
+      "q": "Where is mild pre-eclampsia without severe features managed in the notes?",
+      "opts": [
+        "At home with no follow-up",
+        "Only after cesarean delivery",
+        "On an OPD basis",
+        "Only in ICU"
+      ],
+      "ans": 2,
+      "exp": "Mild PE without severe features is managed on an OPD basis. (Book p400)"
+    },
+    {
+      "id": "OBG-C7-111",
+      "sec": "Mild PE management",
+      "page": 400,
+      "q": "From what gestation does fetal monitoring begin in the mild-PE OPD approach?",
+      "opts": [
+        "12 weeks",
+        "20 weeks",
+        "Only at delivery",
+        "32 weeks"
+      ],
+      "ans": 3,
+      "exp": "The OPD approach starts fetal monitoring at 32 weeks. (Book p400)"
+    },
+    {
+      "id": "OBG-C7-112",
+      "sec": "Mild PE management",
+      "page": 400,
+      "q": "What counseling is specifically included for mild pre-eclampsia?",
+      "opts": [
+        "Education on signs and symptoms of impending eclampsia",
+        "Education that seizures cannot occur",
+        "Avoid all fetal movement counting",
+        "No follow-up until labor"
+      ],
+      "ans": 0,
+      "exp": "Patients are educated about impending-eclampsia signs and symptoms. (Book p400)"
+    },
+    {
+      "id": "OBG-C7-113",
+      "sec": "Mild PE treatment",
+      "page": 400,
+      "q": "What BP level is an ACOG indication for IV antihypertensives in mild/severe PE?",
+      "opts": [
+        "Any single normal BP",
+        "At least 160/110 mmHg",
+        "At least 140/90 mmHg in all women",
+        "At least 120/80 mmHg"
+      ],
+      "ans": 1,
+      "exp": "The source notes IV antihypertensives for BP ≥160/110 mmHg per ACOG. (Book p400)"
+    },
+    {
+      "id": "OBG-C7-114",
+      "sec": "Mild PE treatment",
+      "page": 400,
+      "q": "Which therapies have no role in mild pre-eclampsia management according to the notes?",
+      "opts": [
+        "Patient education",
+        "Antihypertensives at severe BP",
+        "Aspirin, bed rest, salt reduction, and magnesium sulfate",
+        "BP monitoring and fetal surveillance"
+      ],
+      "ans": 2,
+      "exp": "The source lists no role for aspirin, bed rest, salt restriction, and MgSO4 in mild PE. (Book p400)"
+    },
+    {
+      "id": "OBG-C7-115",
+      "sec": "Severe PE management",
+      "page": 401,
+      "q": "Where is severe pre-eclampsia treated?",
+      "opts": [
+        "No care is required until 39 weeks",
+        "At home alone",
+        "Inpatient",
+        "OPD only"
+      ],
+      "ans": 2,
+      "exp": "Severe pre-eclampsia is treated as an inpatient. (Book p401)"
+    },
+    {
+      "id": "OBG-C7-116",
+      "sec": "Severe PE management",
+      "page": 401,
+      "q": "Why is magnesium sulfate used in severe pre-eclampsia?",
+      "opts": [
+        "To lower blood glucose",
+        "To treat proteinuria directly",
+        "To mature the fetal lungs",
+        "To prevent seizures"
+      ],
+      "ans": 3,
+      "exp": "MgSO4 is used to prevent seizures. (Book p401)"
+    },
+    {
+      "id": "OBG-C7-117",
+      "sec": "Severe PE management",
+      "page": 401,
+      "q": "Why are antihypertensives used in severe pre-eclampsia?",
+      "opts": [
+        "To prevent intracranial hemorrhage",
+        "To treat fetal macrosomia",
+        "To cure placental ischemia permanently",
+        "To prevent thyroid storm"
+      ],
+      "ans": 0,
+      "exp": "Antihypertensives are used to prevent intracranial hemorrhage. (Book p401)"
+    },
+    {
+      "id": "OBG-C7-118",
+      "sec": "Severe PE management",
+      "page": 401,
+      "q": "In severe PE without emergency conditions and at less than 34 weeks, what is the corticosteroid plan?",
+      "opts": [
+        "Give only aspirin and discharge",
+        "Complete the corticosteroid course while continuing pregnancy to 34 weeks with monitoring",
+        "Deliver before the first dose",
+        "Do not give corticosteroids"
+      ],
+      "ans": 1,
+      "exp": "If no emergency condition and GA <34 weeks, complete steroids and monitor until 34 weeks. (Book p401)"
+    },
+    {
+      "id": "OBG-C7-119",
+      "sec": "Severe PE management",
+      "page": 401,
+      "q": "Which condition is an emergency indication for delivery after the first corticosteroid dose?",
+      "opts": [
+        "Physiological glycosuria",
+        "Normal fetal movement",
+        "HELLP syndrome",
+        "Mild edema alone"
+      ],
+      "ans": 2,
+      "exp": "HELLP syndrome is listed among emergencies warranting delivery after the first steroid dose. (Book p401)"
+    },
+    {
+      "id": "OBG-C7-120",
+      "sec": "Severe PE management",
+      "page": 401,
+      "q": "What is the most common complication of severe pre-eclampsia listed on the management page?",
+      "opts": [
+        "Placenta previa",
+        "Rh sensitization",
+        "Ectopic pregnancy",
+        "Abruptio placentae"
+      ],
+      "ans": 3,
+      "exp": "Abruptio placentae is marked as the most common complication. (Book p401)"
+    },
+    {
+      "id": "OBG-C7-121",
+      "sec": "PE delivery mode",
+      "page": 401,
+      "q": "What is the preferred mode of delivery in mild or severe pre-eclampsia when there is no obstetric indication for cesarean?",
+      "opts": [
+        "Vaginal delivery",
+        "Routine cesarean delivery",
+        "Forceps delivery in every case",
+        "No delivery is permitted"
+      ],
+      "ans": 0,
+      "exp": "Vaginal delivery is preferred; cesarean is only for an obstetric indication. (Book p401)"
+    },
+    {
+      "id": "OBG-C7-122",
+      "sec": "PE delivery anesthesia",
+      "page": 401,
+      "q": "Which anesthetic technique is preferred for delivery in pre-eclampsia?",
+      "opts": [
+        "Local cervical anesthesia only",
+        "Neuraxial/epidural anesthesia",
+        "General anesthesia in every case",
+        "No anesthesia under any circumstances"
+      ],
+      "ans": 1,
+      "exp": "The notes prefer neuraxial anesthesia, particularly epidural. (Book p401)"
+    },
+    {
+      "id": "OBG-C7-123",
+      "sec": "Eclampsia management",
+      "page": 401,
+      "q": "What is the first supportive step for a woman actively convulsing from eclampsia?",
+      "opts": [
+        "Apply fundal pressure",
+        "Perform a urine dipstick only",
+        "Raise bed rails and manage the airway",
+        "Immediately give oral metformin"
+      ],
+      "ans": 2,
+      "exp": "The algorithm begins with safety measures, raised bed rails, and airway management. (Book p401)"
+    },
+    {
+      "id": "OBG-C7-124",
+      "sec": "Eclampsia management",
+      "page": 401,
+      "q": "After airway/safety measures, what two treatment pillars are used for eclampsia?",
+      "opts": [
+        "Insulin and anti-D",
+        "Aspirin and bed rest",
+        "Cerclage and progesterone",
+        "Magnesium sulfate for seizures and antihypertensives for BP"
+      ],
+      "ans": 3,
+      "exp": "MgSO4 treats convulsions and antihypertensives control BP before definitive delivery. (Book p401)"
+    },
+    {
+      "id": "OBG-C7-125",
+      "sec": "Eclampsia management",
+      "page": 401,
+      "q": "What is the definitive management of eclampsia after stabilization?",
+      "opts": [
+        "Terminate/deliver irrespective of gestational age",
+        "Observe until 40 weeks in all cases",
+        "Continue aspirin only",
+        "Treat with MNT"
+      ],
+      "ans": 0,
+      "exp": "After stabilization, eclampsia requires termination/delivery irrespective of gestation. (Book p401)"
+    }
+  ]
+}

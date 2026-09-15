@@ -24,7 +24,13 @@ Build a line-by-line PULSE quiz companion for the Marrow Edition 8 Obstetrics & 
     - Chapter 3: Book pages 327–339 (PDF pages 1–13)
     - Chapter 4: Book pages 340–357 (PDF pages 14–31)
     - Chapter 5: Book pages 358–374 (PDF pages 32–48)
+    - Chapter 6 begins here: Book pages 375–387 (PDF pages 49–61); it continues on Part 3 Book pages 388–389.
   - `Uploads/OBG_Vol_2_Part_3_pages_124-185.pdf`: PDF pages 1–62 → Book pages 388–449 (Book page = PDF page + 387).
+    - Chapter 6 concludes: Book pages 388–389 (PDF pages 1–2).
+    - Chapter 7: Book pages 390–401 (PDF pages 3–14).
+    - Chapter 8: Book pages 402–417 (PDF pages 15–30).
+    - Chapter 9: Book pages 418–427 (PDF pages 31–40).
+    - Chapter 10: Book pages 428–441 (PDF pages 41–54).
   - `Uploads/OBG_Vol_2_Part_4_pages_186-246.pdf`: PDF pages 1–61 → Book pages 450–510 (Book page = PDF page + 449).
   - `Uploads/OBG_Vol_2_Part_5_pages_247-308.pdf`: PDF pages 1–62 → Book pages 511–572 (Book page = PDF page + 510).
 
@@ -125,29 +131,61 @@ Build a line-by-line PULSE quiz companion for the Marrow Edition 8 Obstetrics & 
   17. Unit 17: Intrapartum & Postpartum Management of Heart Disease (p372) — 4 questions
   18. Unit 18: Peripartum Cardiomyopathy & Mitral Stenosis Management (p373-374) — 4 questions
 
+
+### Chapter 6: Thyroid, Diabetes & Shoulder Dystocia
+- **Page range**: Book pages 375–389 (Part 2 PDF pages 49–61 and Part 3 PDF pages 1–2)
+- **Total questions**: **180** (`OBG-C6-001` through `OBG-C6-180`)
+- **Total units**: **25** (`OBG-U6-1` through `OBG-U6-25`)
+- **Coverage**: pregnancy thyroid physiology and fetal thyroid dependence; hypo-/hyperthyroidism and thyroid storm; diabetes physiology and classification; pregestational/GDM diagnosis, surveillance, nutrition, oral agents and insulin; intrapartum/postpartum care; maternal-fetal-neonatal complications and lung maturity; and stepwise shoulder-dystocia maneuvers and complications.
+
+### Chapter 7: Pregnancy-Induced Hypertension
+- **Page range**: Book pages 390–401 (Part 3 PDF pages 3–14)
+- **Total questions**: **125** (`OBG-C7-001` through `OBG-C7-125`)
+- **Total units**: **16** (`OBG-U7-1` through `OBG-U7-16`)
+- **Coverage**: diagnostic definitions and proteinuria; mild, severe and superimposed pre-eclampsia; eclampsia and PRES; abnormal placentation and endothelial pathophysiology; risks, prevention and prediction; maternal-fetal surveillance; delivery timing; and mild/severe/eclamptic management.
+
+### Chapter 8: Eclampsia, Liver Disorders & Rh-Negative Pregnancy
+- **Page range**: Book pages 402–417 (Part 3 PDF pages 15–30)
+- **Total questions**: **224** (`OBG-C8-001` through `OBG-C8-224`)
+- **Total units**: **31** (`OBG-U8-1` through `OBG-U8-31`)
+- **Coverage**: eclampsia stabilization/delivery and hypertensive emergencies; antihypertensive regimens; magnesium sulfate protocols, monitoring and toxicity; HELLP, acute fatty liver of pregnancy and intrahepatic cholestasis; Rh antigens, sensitization, anti-D prevention and dosing; fetal-anemia assessment/IUT; fetomaternal hemorrhage testing; and immune/nonimmune hydrops.
+
+### Chapter 9: Abortion, Recurrent Loss & MTP
+- **Page range**: Book pages 418–427 (Part 3 PDF pages 31–40)
+- **Total questions**: **158** (`OBG-C9-001` through `OBG-C9-158`)
+- **Total units**: **22** (`OBG-U9-1` through `OBG-U9-22`)
+- **Coverage**: abortion terminology/types; recurrent-loss epidemiology, causes and investigation; cervical insufficiency, progesterone and cerclage techniques; obstetric antiphospholipid syndrome; clinical and septic abortion; and MTP Act 2021 eligibility, consent, provider/facility rules and method selection.
+
+### Chapter 10: MTP, Ectopic Pregnancy & Gestational Trophoblastic Disease
+- **Page range**: Book pages 428–441 (Part 3 PDF pages 41–54)
+- **Total questions**: **228** (`OBG-C10-001` through `OBG-C10-228`)
+- **Total units**: **28** (`OBG-U10-1` through `OBG-U10-28`)
+- **Coverage**: first-/second-trimester method selection, medical-abortion protocols, suction evacuation/MVA/D&E and complications; ectopic anatomy, sites, risks, presentation, rupture and emergency care; unruptured diagnostic algorithms, methotrexate, expectant and surgical care; special ectopics; and molar/gestational trophoblastic disease foundations, risk and presentation.
+
 ---
 
 ## Validation Status
-- Total live chapters: **5** (Chapters 1 to 5)
-- Total questions: **538**
-- Total units: **91**
-- Contiguous question IDs for all chapters: **PASS**
-- Exactly 4 options per question: **PASS**
-- Valid answer index (0–3): **PASS**
-- 100% question coverage by units exactly once: **PASS**
-- Strict book order preservation: **PASS**
-- All question explanations end with `(Book pX)`: **PASS**
-- JavaScript syntax and DOM integrity: **PASS**
+- Total live chapters: **10** (Chapters 1 to 10)
+- Total questions: **1,453**
+- Total units: **213**
+- New Chapter 6–10 addition: **915 questions** in **122 focused units** across Book pages **375–441**.
+- All **177** in-scope Book pages (265–441) have at least one cited question; all 67 newly added source pages are represented.
+- Contiguous, globally unique question and unit IDs: **PASS**
+- Exactly four distinct, non-empty options and a valid answer index per question: **PASS**
+- 100% question coverage by units exactly once, in source order: **PASS**
+- Correct Book-page range and matching explanation citation for every question: **PASS**
+- Editable `data/ch01.json`–`data/ch10.json` artifacts exactly match the embedded application data: **PASS**
+- Required UI hooks, Node JavaScript syntax check, and dependency-free DOM runtime smoke test: **PASS**
 
 ## Status
-- **DONE**:
-  - Chapter 1: Fundamentals of Reproduction (235 questions, 28 units, Book p265–301)
-  - Chapter 2: Normal Pregnancy and Antenatal Care (107 questions, 18 units, Book p302–326)
-  - Chapter 3: Fetal Assessment and Ultrasound (61 questions, 12 units, Book p327–339)
-  - Chapter 4: Fetal Surveillance and Maternal Adaptations (65 questions, 15 units, Book p340–357)
-  - Chapter 5: Medical Disorders: Anemia, Drugs and Heart Disease (70 questions, 18 units, Book p358–374)
-- **NEXT**: Chapter 6: Operative Obstetrics and Induction of Labor (Book p375+)
-- **Roadmap**: Chapters 1–5 are Live; Chapters 6–24 marked as "Soon" until transcribed.
+- **DONE / LIVE**:
+  - Chapters 1–5: **538 questions**, **91 units**, Book p265–374.
+  - Chapter 6 — Thyroid, Diabetes & Shoulder Dystocia: **180 questions**, **25 units**, Book p375–389.
+  - Chapter 7 — Pregnancy-Induced Hypertension: **125 questions**, **16 units**, Book p390–401.
+  - Chapter 8 — Eclampsia, Liver Disorders & Rh-Negative Pregnancy: **224 questions**, **31 units**, Book p402–417.
+  - Chapter 9 — Abortion, Recurrent Loss & MTP: **158 questions**, **22 units**, Book p418–427.
+  - Chapter 10 — MTP, Ectopic Pregnancy & Gestational Trophoblastic Disease: **228 questions**, **28 units**, Book p428–441.
+- **Roadmap**: Chapters 1–10 are Live; Chapters 11–24 remain marked as "Soon" until transcribed.
 
 ## Live Links
 - GitHub Pages live link: `https://deva20045.github.io/OBG/` (redirects to `pulse-obg.html`).

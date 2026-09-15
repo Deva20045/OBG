@@ -1,0 +1,3709 @@
+{
+  "chapter": 10,
+  "title": "MTP, Ectopic Pregnancy & Gestational Trophoblastic Disease",
+  "pageRange": "428-441",
+  "units": [
+    {
+      "id": "OBG-U10-1",
+      "ch": 10,
+      "n": 1,
+      "title": "Abortion methods & Second-trimester abortion → Second-trimester abortion & Hysterotomy",
+      "sec": "Abortion methods by gestation · p428",
+      "guide": "Match abortion method to gestational age and setting. First-trimester care includes outpatient medical abortion, suction evacuation, and rural MVA; second-trimester management moves to inpatient medication, evacuation, or selected hysterotomy. Focus for this checkpoint: Abortion methods, Second-trimester abortion. It also includes Second-trimester abortion & Hysterotomy.",
+      "qs": [
+        "OBG-C10-001",
+        "OBG-C10-002",
+        "OBG-C10-003",
+        "OBG-C10-004",
+        "OBG-C10-005",
+        "OBG-C10-006",
+        "OBG-C10-007",
+        "OBG-C10-008",
+        "OBG-C10-009",
+        "OBG-C10-010",
+        "OBG-C10-011",
+        "OBG-C10-012"
+      ]
+    },
+    {
+      "id": "OBG-U10-2",
+      "ch": 10,
+      "n": 2,
+      "title": "Medical abortion → Medical abortion protocol",
+      "sec": "Medical MTP protocol · p428-429",
+      "guide": "Outpatient first-trimester medical abortion is time limited and depends on safe follow-up. Understand the complementary mechanisms of mifepristone and misoprostol, dosing routes and chronology, ultrasound exceptions, contraindications, and what to do after a nonbleeding or failed course. Focus for this checkpoint: Medical abortion, Mifepristone mechanism, Misoprostol mechanism, Medical abortion protocol.",
+      "qs": [
+        "OBG-C10-013",
+        "OBG-C10-014",
+        "OBG-C10-015",
+        "OBG-C10-016",
+        "OBG-C10-017",
+        "OBG-C10-018",
+        "OBG-C10-019",
+        "OBG-C10-020",
+        "OBG-C10-021",
+        "OBG-C10-022"
+      ]
+    },
+    {
+      "id": "OBG-U10-3",
+      "ch": 10,
+      "n": 3,
+      "title": "Medical abortion protocol → Medical abortion contraindications",
+      "sec": "Medical MTP protocol · p428-429",
+      "guide": "Outpatient first-trimester medical abortion is time limited and depends on safe follow-up. Understand the complementary mechanisms of mifepristone and misoprostol, dosing routes and chronology, ultrasound exceptions, contraindications, and what to do after a nonbleeding or failed course. Focus for this checkpoint: Medical abortion protocol, Medical abortion ultrasound, Medical abortion contraindications.",
+      "qs": [
+        "OBG-C10-023",
+        "OBG-C10-024",
+        "OBG-C10-025",
+        "OBG-C10-026",
+        "OBG-C10-027",
+        "OBG-C10-028",
+        "OBG-C10-029",
+        "OBG-C10-030",
+        "OBG-C10-031",
+        "OBG-C10-032"
+      ]
+    },
+    {
+      "id": "OBG-U10-4",
+      "ch": 10,
+      "n": 4,
+      "title": "Medical abortion contraindications → Medical abortion assessment",
+      "sec": "Medical MTP protocol · p428-429",
+      "guide": "Outpatient first-trimester medical abortion is time limited and depends on safe follow-up. Understand the complementary mechanisms of mifepristone and misoprostol, dosing routes and chronology, ultrasound exceptions, contraindications, and what to do after a nonbleeding or failed course. Focus for this checkpoint: Medical abortion contraindications, Medical-abortion outcome, Medical-abortion failure, Medical abortion assessment.",
+      "qs": [
+        "OBG-C10-033",
+        "OBG-C10-034",
+        "OBG-C10-035",
+        "OBG-C10-036",
+        "OBG-C10-037",
+        "OBG-C10-038",
+        "OBG-C10-039"
+      ]
+    },
+    {
+      "id": "OBG-U10-5",
+      "ch": 10,
+      "n": 5,
+      "title": "Suction evacuation & Suction evacuation procedure",
+      "sec": "S&E procedure · p429-431",
+      "guide": "Suction evacuation is the preferred first-trimester surgical method within its time window. Study its prerequisites, stepwise technique, cannula sizing and endpoints, safe paracervical block, and recognition/response to perforation. Focus for this checkpoint: Suction evacuation, Suction evacuation procedure.",
+      "qs": [
+        "OBG-C10-040",
+        "OBG-C10-041",
+        "OBG-C10-042",
+        "OBG-C10-043",
+        "OBG-C10-044",
+        "OBG-C10-045",
+        "OBG-C10-046",
+        "OBG-C10-047",
+        "OBG-C10-048",
+        "OBG-C10-049"
+      ]
+    },
+    {
+      "id": "OBG-U10-6",
+      "ch": 10,
+      "n": 6,
+      "title": "Uterine sound → Karman cannula",
+      "sec": "S&E procedure · p429-431",
+      "guide": "Suction evacuation is the preferred first-trimester surgical method within its time window. Study its prerequisites, stepwise technique, cannula sizing and endpoints, safe paracervical block, and recognition/response to perforation. Focus for this checkpoint: Uterine sound, Suction evacuation safety, Karman cannula.",
+      "qs": [
+        "OBG-C10-050",
+        "OBG-C10-051",
+        "OBG-C10-052",
+        "OBG-C10-053",
+        "OBG-C10-054",
+        "OBG-C10-055",
+        "OBG-C10-056"
+      ]
+    },
+    {
+      "id": "OBG-U10-7",
+      "ch": 10,
+      "n": 7,
+      "title": "Paracervical block → Suction evacuation endpoint",
+      "sec": "S&E procedure · p429-431",
+      "guide": "Suction evacuation is the preferred first-trimester surgical method within its time window. Study its prerequisites, stepwise technique, cannula sizing and endpoints, safe paracervical block, and recognition/response to perforation. Focus for this checkpoint: Paracervical block, Suction evacuation, Suction evacuation endpoint.",
+      "qs": [
+        "OBG-C10-057",
+        "OBG-C10-058",
+        "OBG-C10-059",
+        "OBG-C10-060",
+        "OBG-C10-061",
+        "OBG-C10-062",
+        "OBG-C10-063"
+      ]
+    },
+    {
+      "id": "OBG-U10-8",
+      "ch": 10,
+      "n": 8,
+      "title": "S&E perforation → S&E perforation management",
+      "sec": "S&E procedure · p429-431",
+      "guide": "Suction evacuation is the preferred first-trimester surgical method within its time window. Study its prerequisites, stepwise technique, cannula sizing and endpoints, safe paracervical block, and recognition/response to perforation. Focus for this checkpoint: S&E perforation, S&E perforation prevention, S&E perforation management.",
+      "qs": [
+        "OBG-C10-064",
+        "OBG-C10-065",
+        "OBG-C10-066",
+        "OBG-C10-067",
+        "OBG-C10-068",
+        "OBG-C10-069",
+        "OBG-C10-070"
+      ]
+    },
+    {
+      "id": "OBG-U10-9",
+      "ch": 10,
+      "n": 9,
+      "title": "MVA → Second-trimester abortion",
+      "sec": "MVA and second-trimester care · p431-432",
+      "guide": "MVA preserves access where electricity and suction machinery are unavailable. For second-trimester abortion, distinguish inpatient prostaglandin protocols from D&E, identify the relevant instruments, and recognize why continued pregnancy after failed misoprostol is unsafe. Focus for this checkpoint: MVA, MVA vs MR, Second-trimester abortion.",
+      "qs": [
+        "OBG-C10-071",
+        "OBG-C10-072",
+        "OBG-C10-073",
+        "OBG-C10-074",
+        "OBG-C10-075",
+        "OBG-C10-076",
+        "OBG-C10-077"
+      ]
+    },
+    {
+      "id": "OBG-U10-10",
+      "ch": 10,
+      "n": 10,
+      "title": "Second-trimester medical abortion & Second-trimester surgical abortion",
+      "sec": "MVA and second-trimester care · p431-432",
+      "guide": "MVA preserves access where electricity and suction machinery are unavailable. For second-trimester abortion, distinguish inpatient prostaglandin protocols from D&E, identify the relevant instruments, and recognize why continued pregnancy after failed misoprostol is unsafe. Focus for this checkpoint: Second-trimester medical abortion, Second-trimester surgical abortion.",
+      "qs": [
+        "OBG-C10-078",
+        "OBG-C10-079",
+        "OBG-C10-080",
+        "OBG-C10-081",
+        "OBG-C10-082",
+        "OBG-C10-083",
+        "OBG-C10-084"
+      ]
+    },
+    {
+      "id": "OBG-U10-11",
+      "ch": 10,
+      "n": 11,
+      "title": "D&E & Failed medical abortion",
+      "sec": "MVA and second-trimester care · p431-432",
+      "guide": "MVA preserves access where electricity and suction machinery are unavailable. For second-trimester abortion, distinguish inpatient prostaglandin protocols from D&E, identify the relevant instruments, and recognize why continued pregnancy after failed misoprostol is unsafe. Focus for this checkpoint: D&E, Failed medical abortion.",
+      "qs": [
+        "OBG-C10-085",
+        "OBG-C10-086",
+        "OBG-C10-087",
+        "OBG-C10-088",
+        "OBG-C10-089",
+        "OBG-C10-090"
+      ]
+    },
+    {
+      "id": "OBG-U10-12",
+      "ch": 10,
+      "n": 12,
+      "title": "Ectopic progesterone → Fallopian-tube anatomy",
+      "sec": "Ectopic foundations · p433-434",
+      "guide": "Ectopic pregnancy is usually tubal but has predictable site-specific timing and risk. Use progesterone/decidual findings, tubal anatomy, abortion-versus-rupture outcomes, non-tubal criteria, and the effect of failed contraceptive methods to reason through presentations. Focus for this checkpoint: Ectopic progesterone, Ectopic ultrasound, Ectopic decidua, Fallopian-tube anatomy.",
+      "qs": [
+        "OBG-C10-091",
+        "OBG-C10-092",
+        "OBG-C10-093",
+        "OBG-C10-094",
+        "OBG-C10-095",
+        "OBG-C10-096",
+        "OBG-C10-097",
+        "OBG-C10-098",
+        "OBG-C10-099"
+      ]
+    },
+    {
+      "id": "OBG-U10-13",
+      "ch": 10,
+      "n": 13,
+      "title": "Ectopic site duration & Ectopic sites",
+      "sec": "Ectopic foundations · p433-434",
+      "guide": "Ectopic pregnancy is usually tubal but has predictable site-specific timing and risk. Use progesterone/decidual findings, tubal anatomy, abortion-versus-rupture outcomes, non-tubal criteria, and the effect of failed contraceptive methods to reason through presentations. Focus for this checkpoint: Ectopic site duration, Ectopic sites.",
+      "qs": [
+        "OBG-C10-100",
+        "OBG-C10-101",
+        "OBG-C10-102",
+        "OBG-C10-103",
+        "OBG-C10-104",
+        "OBG-C10-105",
+        "OBG-C10-106",
+        "OBG-C10-107"
+      ]
+    },
+    {
+      "id": "OBG-U10-14",
+      "ch": 10,
+      "n": 14,
+      "title": "Abdominal ectopic → Non-tubal ectopic criteria",
+      "sec": "Ectopic foundations · p433-434",
+      "guide": "Ectopic pregnancy is usually tubal but has predictable site-specific timing and risk. Use progesterone/decidual findings, tubal anatomy, abortion-versus-rupture outcomes, non-tubal criteria, and the effect of failed contraceptive methods to reason through presentations. Focus for this checkpoint: Abdominal ectopic, Ectopic outcomes, Non-tubal ectopic criteria.",
+      "qs": [
+        "OBG-C10-108",
+        "OBG-C10-109",
+        "OBG-C10-110",
+        "OBG-C10-111",
+        "OBG-C10-112",
+        "OBG-C10-113",
+        "OBG-C10-114",
+        "OBG-C10-115",
+        "OBG-C10-116"
+      ]
+    },
+    {
+      "id": "OBG-U10-15",
+      "ch": 10,
+      "n": 15,
+      "title": "Ectopic risk factors & Contraception and ectopic",
+      "sec": "Ectopic foundations · p433-434",
+      "guide": "Ectopic pregnancy is usually tubal but has predictable site-specific timing and risk. Use progesterone/decidual findings, tubal anatomy, abortion-versus-rupture outcomes, non-tubal criteria, and the effect of failed contraceptive methods to reason through presentations. Focus for this checkpoint: Ectopic risk factors, Contraception and ectopic. It also includes Contraception and ectopic.",
+      "qs": [
+        "OBG-C10-117",
+        "OBG-C10-118",
+        "OBG-C10-119",
+        "OBG-C10-120",
+        "OBG-C10-121",
+        "OBG-C10-122",
+        "OBG-C10-123",
+        "OBG-C10-124",
+        "OBG-C10-125",
+        "OBG-C10-126",
+        "OBG-C10-127"
+      ]
+    },
+    {
+      "id": "OBG-U10-16",
+      "ch": 10,
+      "n": 16,
+      "title": "Ectopic clinical features → Ruptured ectopic pain",
+      "sec": "Ruptured ectopic pregnancy · p435-436",
+      "guide": "The ectopic triad and site-specific timing orient diagnosis; hemoperitoneum explains shoulder-tip pain and rectal pressure. In an unstable suspected rupture, prioritize operative route and recognize why culdocentesis blood remains unclotted in the pouch of Douglas. Focus for this checkpoint: Ectopic clinical features, Ectopic pain, Ectopic timing, Ruptured ectopic pain.",
+      "qs": [
+        "OBG-C10-128",
+        "OBG-C10-129",
+        "OBG-C10-130",
+        "OBG-C10-131",
+        "OBG-C10-132",
+        "OBG-C10-133",
+        "OBG-C10-134"
+      ]
+    },
+    {
+      "id": "OBG-U10-17",
+      "ch": 10,
+      "n": 17,
+      "title": "Danforth sign → Ruptured ectopic exam",
+      "sec": "Ruptured ectopic pregnancy · p435-436",
+      "guide": "The ectopic triad and site-specific timing orient diagnosis; hemoperitoneum explains shoulder-tip pain and rectal pressure. In an unstable suspected rupture, prioritize operative route and recognize why culdocentesis blood remains unclotted in the pouch of Douglas. Focus for this checkpoint: Danforth sign, Ruptured ectopic, Ruptured ectopic diagnosis, Ruptured ectopic exam.",
+      "qs": [
+        "OBG-C10-135",
+        "OBG-C10-136",
+        "OBG-C10-137",
+        "OBG-C10-138",
+        "OBG-C10-139",
+        "OBG-C10-140",
+        "OBG-C10-141"
+      ]
+    },
+    {
+      "id": "OBG-U10-18",
+      "ch": 10,
+      "n": 18,
+      "title": "Ectopic pelvic examination → Ovarian ectopic",
+      "sec": "Ruptured ectopic pregnancy · p435-436",
+      "guide": "The ectopic triad and site-specific timing orient diagnosis; hemoperitoneum explains shoulder-tip pain and rectal pressure. In an unstable suspected rupture, prioritize operative route and recognize why culdocentesis blood remains unclotted in the pouch of Douglas. Focus for this checkpoint: Ectopic pelvic examination, Ectopic differential, Ruptured ectopic management, Ruptured ectopic surgery, Ovarian ectopic.",
+      "qs": [
+        "OBG-C10-142",
+        "OBG-C10-143",
+        "OBG-C10-144",
+        "OBG-C10-145",
+        "OBG-C10-146",
+        "OBG-C10-147",
+        "OBG-C10-148"
+      ]
+    },
+    {
+      "id": "OBG-U10-19",
+      "ch": 10,
+      "n": 19,
+      "title": "Ruptured ectopic & Culdocentesis",
+      "sec": "Ruptured ectopic pregnancy · p435-436",
+      "guide": "The ectopic triad and site-specific timing orient diagnosis; hemoperitoneum explains shoulder-tip pain and rectal pressure. In an unstable suspected rupture, prioritize operative route and recognize why culdocentesis blood remains unclotted in the pouch of Douglas. Focus for this checkpoint: Ruptured ectopic, Culdocentesis.",
+      "qs": [
+        "OBG-C10-149",
+        "OBG-C10-150",
+        "OBG-C10-151",
+        "OBG-C10-152"
+      ]
+    },
+    {
+      "id": "OBG-U10-20",
+      "ch": 10,
+      "n": 20,
+      "title": "Unruptured ectopic investigation & Unruptured ectopic ultrasound",
+      "sec": "Unruptured ectopic algorithm · p437-439",
+      "guide": "TVS and serial beta-hCG differentiate definite tubal ectopic from pregnancy of unknown location. Apply medical-management prerequisites, single-dose methotrexate monitoring, success/failure thresholds, surgical choices, expectant selection, and heterotopic-pregnancy exception. Focus for this checkpoint: Unruptured ectopic investigation, Unruptured ectopic ultrasound.",
+      "qs": [
+        "OBG-C10-153",
+        "OBG-C10-154",
+        "OBG-C10-155",
+        "OBG-C10-156",
+        "OBG-C10-157",
+        "OBG-C10-158",
+        "OBG-C10-159"
+      ]
+    },
+    {
+      "id": "OBG-U10-21",
+      "ch": 10,
+      "n": 21,
+      "title": "Beta-hCG → Other ectopic investigations",
+      "sec": "Unruptured ectopic algorithm · p437-439",
+      "guide": "TVS and serial beta-hCG differentiate definite tubal ectopic from pregnancy of unknown location. Apply medical-management prerequisites, single-dose methotrexate monitoring, success/failure thresholds, surgical choices, expectant selection, and heterotopic-pregnancy exception. Focus for this checkpoint: Beta-hCG, Serial beta-hCG, Other ectopic investigations.",
+      "qs": [
+        "OBG-C10-160",
+        "OBG-C10-161",
+        "OBG-C10-162",
+        "OBG-C10-163",
+        "OBG-C10-164",
+        "OBG-C10-165",
+        "OBG-C10-166"
+      ]
+    },
+    {
+      "id": "OBG-U10-22",
+      "ch": 10,
+      "n": 22,
+      "title": "Serum progesterone → Medical ectopic prerequisites",
+      "sec": "Unruptured ectopic algorithm · p437-439",
+      "guide": "TVS and serial beta-hCG differentiate definite tubal ectopic from pregnancy of unknown location. Apply medical-management prerequisites, single-dose methotrexate monitoring, success/failure thresholds, surgical choices, expectant selection, and heterotopic-pregnancy exception. Focus for this checkpoint: Serum progesterone, Ectopic contraindications, Ectopic management, Ectopic surgery indications, Medical ectopic prerequisites.",
+      "qs": [
+        "OBG-C10-167",
+        "OBG-C10-168",
+        "OBG-C10-169",
+        "OBG-C10-170",
+        "OBG-C10-171",
+        "OBG-C10-172",
+        "OBG-C10-173",
+        "OBG-C10-174",
+        "OBG-C10-175",
+        "OBG-C10-176"
+      ]
+    },
+    {
+      "id": "OBG-U10-23",
+      "ch": 10,
+      "n": 23,
+      "title": "Medical ectopic prerequisites → Methotrexate protocol",
+      "sec": "Unruptured ectopic algorithm · p437-439",
+      "guide": "TVS and serial beta-hCG differentiate definite tubal ectopic from pregnancy of unknown location. Apply medical-management prerequisites, single-dose methotrexate monitoring, success/failure thresholds, surgical choices, expectant selection, and heterotopic-pregnancy exception. Focus for this checkpoint: Medical ectopic prerequisites, Medical ectopic caveat, Methotrexate, Methotrexate protocol.",
+      "qs": [
+        "OBG-C10-177",
+        "OBG-C10-178",
+        "OBG-C10-179",
+        "OBG-C10-180",
+        "OBG-C10-181",
+        "OBG-C10-182",
+        "OBG-C10-183",
+        "OBG-C10-184"
+      ]
+    },
+    {
+      "id": "OBG-U10-24",
+      "ch": 10,
+      "n": 24,
+      "title": "Methotrexate response → Linear salpingostomy",
+      "sec": "Unruptured ectopic algorithm · p437-439",
+      "guide": "TVS and serial beta-hCG differentiate definite tubal ectopic from pregnancy of unknown location. Apply medical-management prerequisites, single-dose methotrexate monitoring, success/failure thresholds, surgical choices, expectant selection, and heterotopic-pregnancy exception. Focus for this checkpoint: Methotrexate response, Methotrexate failure, Methotrexate monitoring, Ectopic surgery, Linear salpingostomy.",
+      "qs": [
+        "OBG-C10-185",
+        "OBG-C10-186",
+        "OBG-C10-187",
+        "OBG-C10-188",
+        "OBG-C10-189",
+        "OBG-C10-190",
+        "OBG-C10-191"
+      ]
+    },
+    {
+      "id": "OBG-U10-25",
+      "ch": 10,
+      "n": 25,
+      "title": "Ectopic surgery → Heterotopic pregnancy",
+      "sec": "Unruptured ectopic algorithm · p437-439",
+      "guide": "TVS and serial beta-hCG differentiate definite tubal ectopic from pregnancy of unknown location. Apply medical-management prerequisites, single-dose methotrexate monitoring, success/failure thresholds, surgical choices, expectant selection, and heterotopic-pregnancy exception. Focus for this checkpoint: Ectopic surgery, Obsolete ectopic procedures, Expectant ectopic management, Heterotopic pregnancy.",
+      "qs": [
+        "OBG-C10-192",
+        "OBG-C10-193",
+        "OBG-C10-194",
+        "OBG-C10-195",
+        "OBG-C10-196",
+        "OBG-C10-197",
+        "OBG-C10-198",
+        "OBG-C10-199",
+        "OBG-C10-200"
+      ]
+    },
+    {
+      "id": "OBG-U10-26",
+      "ch": 10,
+      "n": 26,
+      "title": "Cornual vs angular → Cervical ectopic",
+      "sec": "Non-tubal ectopic and mole · p440-441",
+      "guide": "Avoid confusing a lateral interstitial/cornual ectopic with a medial angular intrauterine pregnancy. Apply named criteria to cervical, ovarian, and abdominal sites, then classify trophoblastic disease and identify the risk factors, pathogenesis, and clinical presentation of molar pregnancy. Focus for this checkpoint: Cornual vs angular, Cornual pregnancy, Angular pregnancy, Cervical ectopic.",
+      "qs": [
+        "OBG-C10-201",
+        "OBG-C10-202",
+        "OBG-C10-203",
+        "OBG-C10-204",
+        "OBG-C10-205",
+        "OBG-C10-206",
+        "OBG-C10-207",
+        "OBG-C10-208",
+        "OBG-C10-209"
+      ]
+    },
+    {
+      "id": "OBG-U10-27",
+      "ch": 10,
+      "n": 27,
+      "title": "Ovarian ectopic → Gestational trophoblastic neoplasia",
+      "sec": "Non-tubal ectopic and mole · p440-441",
+      "guide": "Avoid confusing a lateral interstitial/cornual ectopic with a medial angular intrauterine pregnancy. Apply named criteria to cervical, ovarian, and abdominal sites, then classify trophoblastic disease and identify the risk factors, pathogenesis, and clinical presentation of molar pregnancy. Focus for this checkpoint: Ovarian ectopic, Primary abdominal ectopic, Abdominal ectopic, Gestational trophoblastic disease, Gestational trophoblastic neoplasia.",
+      "qs": [
+        "OBG-C10-210",
+        "OBG-C10-211",
+        "OBG-C10-212",
+        "OBG-C10-213",
+        "OBG-C10-214",
+        "OBG-C10-215",
+        "OBG-C10-216",
+        "OBG-C10-217",
+        "OBG-C10-218"
+      ]
+    },
+    {
+      "id": "OBG-U10-28",
+      "ch": 10,
+      "n": 28,
+      "title": "Molar pregnancy risk → Molar pregnancy presentation → Molar pregnancy complications",
+      "sec": "Non-tubal ectopic and mole · p440-441",
+      "guide": "Avoid confusing a lateral interstitial/cornual ectopic with a medial angular intrauterine pregnancy. Apply named criteria to cervical, ovarian, and abdominal sites, then classify trophoblastic disease and identify the risk factors, pathogenesis, and clinical presentation of molar pregnancy. Focus for this checkpoint: Molar pregnancy risk, Molar pregnancy pathogenesis, Partial vs complete mole, Molar pregnancy, Molar pregnancy presentation. It also includes Molar pregnancy complications.",
+      "qs": [
+        "OBG-C10-219",
+        "OBG-C10-220",
+        "OBG-C10-221",
+        "OBG-C10-222",
+        "OBG-C10-223",
+        "OBG-C10-224",
+        "OBG-C10-225",
+        "OBG-C10-226",
+        "OBG-C10-227",
+        "OBG-C10-228"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "OBG-C10-001",
+      "sec": "Abortion methods",
+      "page": 428,
+      "q": "Which first-trimester medical-abortion combination is listed?",
+      "opts": [
+        "MgSO4 plus nifedipine",
+        "Mifepristone plus misoprostol",
+        "Methotrexate plus folinic acid",
+        "Insulin plus metformin"
+      ],
+      "ans": 1,
+      "exp": "First-trimester medical abortion uses mifepristone plus misoprostol. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-002",
+      "sec": "Abortion methods",
+      "page": 428,
+      "q": "What setting is stated for first-trimester medical abortion?",
+      "opts": [
+        "Operating theatre only",
+        "No clinical follow-up",
+        "OPD basis",
+        "Mandatory ICU admission"
+      ],
+      "ans": 2,
+      "exp": "First-trimester medical abortion is managed on an OPD basis. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-003",
+      "sec": "Abortion methods",
+      "page": 428,
+      "q": "Which surgical method is listed for first-trimester abortion?",
+      "opts": [
+        "Hysterotomy only",
+        "Dilatation and evacuation only",
+        "Laparotomy only",
+        "Suction evacuation"
+      ],
+      "ans": 3,
+      "exp": "Suction evacuation is a listed first-trimester method. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-004",
+      "sec": "Abortion methods",
+      "page": 428,
+      "q": "Which method is especially listed for rural areas in the first trimester?",
+      "opts": [
+        "Manual vacuum aspiration",
+        "Hysterotomy",
+        "Intra-amniotic saline",
+        "Dilatation and evacuation only"
+      ],
+      "ans": 0,
+      "exp": "MVA is listed for rural areas. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-005",
+      "sec": "Abortion methods",
+      "page": 428,
+      "q": "Which first-trimester method is described as outdated?",
+      "opts": [
+        "Medical abortion",
+        "Menstrual regulation",
+        "Suction evacuation",
+        "MVA"
+      ],
+      "ans": 1,
+      "exp": "Menstrual regulation is marked outdated. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-006",
+      "sec": "Abortion methods",
+      "page": 428,
+      "q": "What setting is stated for second-trimester medical abortion?",
+      "opts": [
+        "Home treatment only",
+        "No medical option exists",
+        "IPD procedure",
+        "OPD without observation"
+      ],
+      "ans": 2,
+      "exp": "Second-trimester medical abortion is an inpatient procedure. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-007",
+      "sec": "Second-trimester abortion",
+      "page": 428,
+      "q": "Which prostaglandin is listed as an option for second-trimester medical abortion?",
+      "opts": [
+        "Levothyroxine",
+        "Anti-D",
+        "Warfarin",
+        "Misoprostol"
+      ],
+      "ans": 3,
+      "exp": "Misoprostol is listed among second-trimester prostaglandin options. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-008",
+      "sec": "Second-trimester abortion",
+      "page": 428,
+      "q": "Which non-prostaglandin medication is listed for second-trimester medical abortion?",
+      "opts": [
+        "Oxytocin",
+        "Insulin",
+        "Aspirin",
+        "Propranolol"
+      ],
+      "ans": 0,
+      "exp": "Oxytocin is a listed second-trimester medical-abortion option. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-009",
+      "sec": "Second-trimester abortion",
+      "page": 428,
+      "q": "Which instillation method is listed for second-trimester abortion?",
+      "opts": [
+        "Cervical MgSO4 instillation",
+        "Extra-amniotic ethacridine instillation",
+        "Intravascular anti-D instillation",
+        "Intrauterine insulin instillation"
+      ],
+      "ans": 1,
+      "exp": "Extra-amniotic ethacridine instillation is listed. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-010",
+      "sec": "Second-trimester abortion",
+      "page": 428,
+      "q": "Which intra-amniotic procedure is listed for second-trimester abortion?",
+      "opts": [
+        "Intra-amniotic anti-D",
+        "Intra-amniotic heparin",
+        "Intra-amniotic saline",
+        "Intra-amniotic insulin"
+      ],
+      "ans": 2,
+      "exp": "Intra-amniotic saline is listed as a second-trimester option. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-011",
+      "sec": "Second-trimester abortion",
+      "page": 428,
+      "q": "Which surgical methods are listed for second-trimester abortion?",
+      "opts": [
+        "Only menstrual regulation",
+        "Only MVA",
+        "Only expectant management",
+        "Suction evacuation and dilatation & evacuation"
+      ],
+      "ans": 3,
+      "exp": "Suction evacuation and D&E are listed surgical options in the second trimester. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-012",
+      "sec": "Hysterotomy",
+      "page": 428,
+      "q": "What is a hysterotomy in the context of MTP?",
+      "opts": [
+        "Opening the uterus to remove products of conception",
+        "Closing the cervix with a cerclage",
+        "A test for fetal anemia",
+        "A type of ectopic pregnancy"
+      ],
+      "ans": 0,
+      "exp": "Hysterotomy means opening the uterus to take out products of conception. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-013",
+      "sec": "Medical abortion",
+      "page": 428,
+      "q": "Up to what gestation is first-trimester medical abortion stated to be used?",
+      "opts": [
+        "Up to 28 weeks",
+        "Up to 9 weeks (63 days)",
+        "Up to 16 weeks",
+        "Up to 24 weeks"
+      ],
+      "ans": 1,
+      "exp": "First-trimester medical abortion is used up to 9 weeks or 63 days. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-014",
+      "sec": "Medical abortion",
+      "page": 428,
+      "q": "What route is used for mifepristone in the source protocol?",
+      "opts": [
+        "Intravenous only",
+        "Intra-amniotic only",
+        "Oral",
+        "Intramuscular only"
+      ],
+      "ans": 2,
+      "exp": "Mifepristone is administered orally. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-015",
+      "sec": "Medical abortion",
+      "page": 428,
+      "q": "Which routes are listed for misoprostol?",
+      "opts": [
+        "Only intramuscular",
+        "Only intravenous",
+        "Only intra-amniotic",
+        "Oral, sublingual, vaginal, or rectal"
+      ],
+      "ans": 3,
+      "exp": "Misoprostol may be oral, sublingual, per-vaginal, or per-rectal. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-016",
+      "sec": "Mifepristone mechanism",
+      "page": 428,
+      "q": "What is the mechanism of mifepristone (RU-486) in medical abortion?",
+      "opts": [
+        "Progesterone antagonism causing detachment of implanted embryo",
+        "Oxytocin agonism causing uterine contractions only",
+        "Direct fetal hemolysis",
+        "Insulin antagonism"
+      ],
+      "ans": 0,
+      "exp": "Mifepristone is a progesterone antagonist that detaches the implanted embryo. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-017",
+      "sec": "Misoprostol mechanism",
+      "page": 428,
+      "q": "What is the mechanism of misoprostol in medical abortion?",
+      "opts": [
+        "It is an anti-D antibody",
+        "It promotes uterine contraction and cervical ripening/softening to expel the detached embryo",
+        "It blocks progesterone receptors only",
+        "It prevents all uterine contraction"
+      ],
+      "ans": 1,
+      "exp": "Misoprostol causes uterine contractions and cervical ripening to expel the detached embryo. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-018",
+      "sec": "Medical abortion",
+      "page": 428,
+      "q": "After which drug does bleeding occur in the first-trimester medical-abortion protocol?",
+      "opts": [
+        "Folic acid",
+        "Anti-D",
+        "Misoprostol",
+        "Mifepristone only"
+      ],
+      "ans": 2,
+      "exp": "Bleeding occurs after misoprostol. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-019",
+      "sec": "Medical abortion protocol",
+      "page": 428,
+      "q": "What is the day-1 drug and dose in the source medical-abortion protocol?",
+      "opts": [
+        "Misoprostol 800 micrograms vaginally",
+        "Methotrexate 50 mg/m² IM",
+        "Oxytocin 10 units IM",
+        "Mifepristone 200 mg as one oral tablet"
+      ],
+      "ans": 3,
+      "exp": "Day 1 is a single 200-mg oral mifepristone tablet. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-020",
+      "sec": "Medical abortion protocol",
+      "page": 428,
+      "q": "What is the day-3 drug and dose in the source protocol?",
+      "opts": [
+        "Misoprostol 800 micrograms",
+        "Mifepristone 200 mg",
+        "Methotrexate 1 mg/kg",
+        "Anti-D 300 micrograms"
+      ],
+      "ans": 0,
+      "exp": "Day 3 is misoprostol 800 micrograms. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-021",
+      "sec": "Medical abortion protocol",
+      "page": 428,
+      "q": "Which route order is preferred for 800-microgram misoprostol in the source protocol?",
+      "opts": [
+        "Only intravenous",
+        "Vaginal, then sublingual, then oral",
+        "Oral, then vaginal, then sublingual",
+        "Only intramuscular"
+      ],
+      "ans": 1,
+      "exp": "The source gives vaginal > sublingual > oral; oral has more side effects. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-022",
+      "sec": "Medical abortion protocol",
+      "page": 428,
+      "q": "When does bleeding usually occur after the day-3 misoprostol dose?",
+      "opts": [
+        "Only after 6 weeks",
+        "Before mifepristone",
+        "Within 4–6 hours",
+        "Within 4–6 days"
+      ],
+      "ans": 2,
+      "exp": "Bleeding generally occurs 4–6 hours after misoprostol. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-023",
+      "sec": "Medical abortion protocol",
+      "page": 428,
+      "q": "When is follow-up scheduled to ensure complete abortion in the source protocol?",
+      "opts": [
+        "Day 1",
+        "Day 3 only",
+        "At 6 months",
+        "Day 15"
+      ],
+      "ans": 3,
+      "exp": "Follow-up is on day 15 to ensure complete abortion. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-024",
+      "sec": "Medical abortion ultrasound",
+      "page": 428,
+      "q": "Is ultrasound routinely required in MTP?",
+      "opts": [
+        "No",
+        "Yes, in every case",
+        "Only after delivery",
+        "Only for anti-D dosing"
+      ],
+      "ans": 0,
+      "exp": "USG is not routinely required in MTP. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-025",
+      "sec": "Medical abortion ultrasound",
+      "page": 428,
+      "q": "When is ultrasound indicated before/around medical abortion?",
+      "opts": [
+        "No patient ever",
+        "Uncertain LMP or uterine size not matching period of gestation",
+        "Every patient with a known LMP and matching size",
+        "Normal planned follow-up only"
+      ],
+      "ans": 1,
+      "exp": "USG is indicated if LMP is uncertain or uterine size does not match gestational age. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-026",
+      "sec": "Medical abortion ultrasound",
+      "page": 428,
+      "q": "Which symptom is an ultrasound indication in medical abortion?",
+      "opts": [
+        "Mild appetite change",
+        "Routine fetal movement at term",
+        "Abdominal pain",
+        "Normal daily activity"
+      ],
+      "ans": 2,
+      "exp": "Abdominal pain is an indication for USG. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-027",
+      "sec": "Medical abortion ultrasound",
+      "page": 428,
+      "q": "Which day-15 finding is an ultrasound indication in medical abortion?",
+      "opts": [
+        "No symptoms with a closed internal os",
+        "Normal day-3 bleeding alone",
+        "Normal blood group",
+        "Continuous P/V spotting with an open internal os"
+      ],
+      "ans": 3,
+      "exp": "Continuous spotting P/V with an open os on day 15 prompts USG. (Book p428)"
+    },
+    {
+      "id": "OBG-C10-028",
+      "sec": "Medical abortion contraindications",
+      "page": 429,
+      "q": "Which hemoglobin level is a contraindication to medical abortion in the notes?",
+      "opts": [
+        "Above 12 g/dL",
+        "Exactly 10 g/dL",
+        "Above 15 g/dL",
+        "Below 8 g/dL"
+      ],
+      "ans": 3,
+      "exp": "Hb below 8 g/dL is listed as a contraindication. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-029",
+      "sec": "Medical abortion contraindications",
+      "page": 429,
+      "q": "Why is inability to comply with follow-up a contraindication to medical abortion?",
+      "opts": [
+        "The regimen requires assessment of completion and timely management of failure",
+        "It makes mifepristone act faster",
+        "It prevents all bleeding",
+        "It confirms a live pregnancy"
+      ],
+      "ans": 0,
+      "exp": "Patients must be able to comply with follow-up for medical abortion. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-030",
+      "sec": "Medical abortion contraindications",
+      "page": 429,
+      "q": "Which blood-pressure state is a listed contraindication to medical abortion?",
+      "opts": [
+        "Normal BP in every patient",
+        "Uncontrolled hypertension at or above 160/100 mmHg",
+        "Controlled BP 130/80 mmHg",
+        "Physiological midtrimester BP fall"
+      ],
+      "ans": 1,
+      "exp": "Uncontrolled HTN ≥160/100 mmHg is listed as a contraindication. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-031",
+      "sec": "Medical abortion contraindications",
+      "page": 429,
+      "q": "Which neurological condition is a listed contraindication to medical abortion?",
+      "opts": [
+        "Normal vision",
+        "Mild fatigue",
+        "Uncontrolled seizures",
+        "Controlled migraine only"
+      ],
+      "ans": 2,
+      "exp": "Uncontrolled seizures are a listed contraindication. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-032",
+      "sec": "Medical abortion contraindications",
+      "page": 429,
+      "q": "Which endocrine/metabolic disorder is a listed contraindication to medical abortion?",
+      "opts": [
+        "Well-controlled GDM",
+        "Normal thyroid physiology",
+        "Rh-negative status alone",
+        "Chronic adrenal failure"
+      ],
+      "ans": 3,
+      "exp": "Chronic adrenal failure is listed as a contraindication. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-033",
+      "sec": "Medical abortion contraindications",
+      "page": 429,
+      "q": "Which two conditions are listed as contraindications to medical abortion?",
+      "opts": [
+        "Porphyria and glaucoma",
+        "Anemia and hypothyroidism",
+        "Rh negativity and hypertension controlled on medication",
+        "Asymptomatic bacteriuria and obesity"
+      ],
+      "ans": 0,
+      "exp": "Porphyria and glaucoma are listed contraindications. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-034",
+      "sec": "Medical-abortion outcome",
+      "page": 429,
+      "q": "What complication may require surgical MTP after medical abortion?",
+      "opts": [
+        "A normal day-15 check",
+        "Excessive bleeding or incomplete abortion",
+        "A normal expected brief bleed only",
+        "A normal negative UPT only"
+      ],
+      "ans": 1,
+      "exp": "Excessive bleeding and incomplete abortion can require surgical MTP. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-035",
+      "sec": "Medical-abortion failure",
+      "page": 429,
+      "q": "If no bleeding occurs within 24 hours after misoprostol, what is the next assessment?",
+      "opts": [
+        "Start anti-D regardless of status",
+        "Give aspirin only",
+        "Ultrasound for cardiac activity",
+        "Ignore the result and discharge"
+      ],
+      "ans": 2,
+      "exp": "No bleeding after 24 hours prompts USG to assess cardiac activity. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-036",
+      "sec": "Medical-abortion failure",
+      "page": 429,
+      "q": "If cardiac activity is present after a nonbleeding medical-abortion course, what is the management?",
+      "opts": [
+        "Repeat misoprostol indefinitely",
+        "No intervention",
+        "Cerclage",
+        "Suction and evacuation"
+      ],
+      "ans": 3,
+      "exp": "If cardiac activity is present, it is a live pregnancy and S&E is performed. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-037",
+      "sec": "Medical-abortion failure",
+      "page": 429,
+      "q": "If cardiac activity is absent after a nonbleeding medical-abortion course, what is the next step?",
+      "opts": [
+        "Repeat 400–800 micrograms misoprostol and follow up after 7 days",
+        "Immediate anti-D only",
+        "Give warfarin",
+        "No follow-up is needed"
+      ],
+      "ans": 0,
+      "exp": "Absent cardiac activity leads to repeat 400–800 micrograms misoprostol and review after 7 days. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-038",
+      "sec": "Medical abortion assessment",
+      "page": 429,
+      "q": "Which pre-assessment test is included before medical abortion?",
+      "opts": [
+        "Swansea criteria",
+        "Hemoglobin",
+        "MCA peak systolic velocity",
+        "Fetal echocardiography in every case"
+      ],
+      "ans": 1,
+      "exp": "Pre-assessment includes hemoglobin, urine routine/microscopy, ABO/Rh group, and pregnancy test if not already done. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-039",
+      "sec": "Medical abortion assessment",
+      "page": 429,
+      "q": "Which blood test/grouping is included in pre-assessment for medical abortion?",
+      "opts": [
+        "TSH only",
+        "Serum bile acid only",
+        "ABO/Rh grouping",
+        "Lupus anticoagulant only"
+      ],
+      "ans": 2,
+      "exp": "ABO/Rh grouping is part of the pre-assessment. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-040",
+      "sec": "Suction evacuation",
+      "page": 429,
+      "q": "What is the best method of MTP between 9 and 12 weeks according to the notes?",
+      "opts": [
+        "Medical abortion only",
+        "Dilatation and evacuation",
+        "Hysterotomy",
+        "Suction evacuation"
+      ],
+      "ans": 3,
+      "exp": "Suction evacuation is described as the best MTP method at 9–12 weeks. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-041",
+      "sec": "Suction evacuation",
+      "page": 429,
+      "q": "Up to what gestation can suction evacuation be performed according to the notes?",
+      "opts": [
+        "16 weeks",
+        "9 weeks only",
+        "24 weeks",
+        "28 weeks"
+      ],
+      "ans": 0,
+      "exp": "Suction evacuation can be done up to 16 weeks. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-042",
+      "sec": "Suction evacuation",
+      "page": 429,
+      "q": "What instrument is used to dilate the internal os before suction evacuation?",
+      "opts": [
+        "Ovum forceps",
+        "Hegar's dilator",
+        "Sim's speculum",
+        "Vulsellum"
+      ],
+      "ans": 1,
+      "exp": "Hegar's dilators are used to dilate the internal os. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-043",
+      "sec": "Suction evacuation",
+      "page": 429,
+      "q": "What instrument evacuates products of conception during suction evacuation?",
+      "opts": [
+        "MVA syringe alone in all settings",
+        "Uterine sound",
+        "Karman's cannula attached to a suction machine",
+        "Ovum forceps only"
+      ],
+      "ans": 2,
+      "exp": "Karman's cannula is attached to the suction machine to evacuate products of conception. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-044",
+      "sec": "Suction evacuation procedure",
+      "page": 429,
+      "q": "What is the first procedural step in suction evacuation?",
+      "opts": [
+        "Insert Karman cannula before examination",
+        "Apply suction first",
+        "Perform curettage first",
+        "Empty the bladder"
+      ],
+      "ans": 3,
+      "exp": "The first procedural step is to empty the bladder. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-045",
+      "sec": "Suction evacuation procedure",
+      "page": 429,
+      "q": "Why is P/V examination performed in lithotomy before suction evacuation?",
+      "opts": [
+        "To confirm uterine size and position, anteverted or retroverted",
+        "To diagnose fetal anemia",
+        "To determine Rh antigen type",
+        "To measure serum bile acids"
+      ],
+      "ans": 0,
+      "exp": "P/V examination confirms uterine size and position. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-046",
+      "sec": "Suction evacuation procedure",
+      "page": 429,
+      "q": "Which instrument retracts the posterior vaginal wall during suction evacuation?",
+      "opts": [
+        "Hegar dilator",
+        "Sim's speculum",
+        "Anterior vaginal-wall retractor",
+        "Karman cannula"
+      ],
+      "ans": 1,
+      "exp": "Sim's speculum retracts the posterior vaginal wall. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-047",
+      "sec": "Suction evacuation procedure",
+      "page": 429,
+      "q": "Which instrument retracts the anterior vaginal wall during suction evacuation?",
+      "opts": [
+        "Uterine sound",
+        "Sponge holding forceps only",
+        "Anterior vaginal-wall retractor",
+        "Sim's speculum"
+      ],
+      "ans": 2,
+      "exp": "An anterior vaginal-wall retractor is used for the anterior wall. (Book p429)"
+    },
+    {
+      "id": "OBG-C10-048",
+      "sec": "Suction evacuation procedure",
+      "page": 430,
+      "q": "Which instrument can be used to hold the cervix during suction evacuation?",
+      "opts": [
+        "Uterine sound only",
+        "Ovum forceps only",
+        "Vulsellum or sponge-holding forceps",
+        "Karman cannula only"
+      ],
+      "ans": 2,
+      "exp": "The cervix is held with a vulsellum or sponge-holding forceps. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-049",
+      "sec": "Suction evacuation procedure",
+      "page": 430,
+      "q": "What anesthesia is used for suction evacuation in the notes?",
+      "opts": [
+        "General anesthesia in every case",
+        "Epidural only",
+        "No anesthesia",
+        "Paracervical block"
+      ],
+      "ans": 3,
+      "exp": "Suction evacuation uses a paracervical block. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-050",
+      "sec": "Uterine sound",
+      "page": 430,
+      "q": "What are the functions of a uterine sound before suction evacuation?",
+      "opts": [
+        "Measure uterocervical length, confirm uterine position, and act as first dilator",
+        "Evacuate POC by suction",
+        "Hold the cervix",
+        "Test Rh sensitization"
+      ],
+      "ans": 0,
+      "exp": "The uterine sound measures uterocervical length, confirms position, and acts as first dilator. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-051",
+      "sec": "Suction evacuation safety",
+      "page": 430,
+      "q": "When should the suction machine be switched off during use of Karman's cannula?",
+      "opts": [
+        "It should never be switched off",
+        "During insertion and removal of the cannula",
+        "Only while aspirating POC",
+        "Only after delivery"
+      ],
+      "ans": 1,
+      "exp": "The suction machine is switched off during Karman cannula insertion and removal. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-052",
+      "sec": "Karman cannula",
+      "page": 430,
+      "q": "What physical feature characterizes a Karman cannula?",
+      "opts": [
+        "Rubber tube with no openings",
+        "Sponge forceps with ratchet lock",
+        "Plastic cannula with two triangular openings",
+        "Metal cannula with one circular opening"
+      ],
+      "ans": 2,
+      "exp": "Karman cannula is plastic and has two triangular openings. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-053",
+      "sec": "Karman cannula",
+      "page": 430,
+      "q": "What does the number of a Karman cannula indicate?",
+      "opts": [
+        "Its length in centimeters",
+        "The maternal age",
+        "The suction pressure",
+        "Its diameter in millimeters"
+      ],
+      "ans": 3,
+      "exp": "Cannula number equals its diameter in millimeters. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-054",
+      "sec": "Karman cannula",
+      "page": 430,
+      "q": "How is Karman cannula size selected from gestational age?",
+      "opts": [
+        "Cannula size equals gestation in weeks or one less",
+        "Always use size 4",
+        "Always use gestation plus 5",
+        "Size is unrelated to gestation"
+      ],
+      "ans": 0,
+      "exp": "Cannula size is gestational weeks or one less. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-055",
+      "sec": "Karman cannula",
+      "page": 430,
+      "q": "Which are listed uses of Karman cannula besides S&E?",
+      "opts": [
+        "Only ovarian ectopic surgery",
+        "Incomplete/missed abortion and endometrial biopsy in India",
+        "Eclampsia treatment and anti-D administration",
+        "Cerclage and fetal echo"
+      ],
+      "ans": 1,
+      "exp": "Karman cannula can also treat incomplete/missed abortion and be used for endometrial biopsy in India. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-056",
+      "sec": "Karman cannula",
+      "page": 430,
+      "q": "What is the maximum Karman cannula number used for suction evacuation?",
+      "opts": [
+        "25",
+        "4",
+        "16",
+        "8"
+      ],
+      "ans": 2,
+      "exp": "The maximum KC number used for S&E is 16. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-057",
+      "sec": "Paracervical block",
+      "page": 430,
+      "q": "What local anesthetic concentration is stated for paracervical block in S&E?",
+      "opts": [
+        "10% calcium gluconate",
+        "20% magnesium sulfate",
+        "5% dextrose",
+        "1% lignocaine"
+      ],
+      "ans": 3,
+      "exp": "The paracervical block uses 1% lignocaine. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-058",
+      "sec": "Paracervical block",
+      "page": 430,
+      "q": "At what clock position is anesthetic given for tenaculum placement/holding the cervix?",
+      "opts": [
+        "12 o’clock",
+        "3 o’clock",
+        "6 o’clock",
+        "9 o’clock"
+      ],
+      "ans": 0,
+      "exp": "The 12 o’clock position is the site to hold the cervix. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-059",
+      "sec": "Paracervical block",
+      "page": 430,
+      "q": "At which clock positions is paracervical anesthetic injected in addition to 12 o’clock?",
+      "opts": [
+        "Only 6 o’clock",
+        "2, 4, 8, and 10 o’clock",
+        "3, 6, 9, and 12 o’clock",
+        "1, 5, 7, and 11 o’clock"
+      ],
+      "ans": 1,
+      "exp": "Injection sites are 2, 4, 8, and 10 o’clock in addition to 12. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-060",
+      "sec": "Paracervical block",
+      "page": 430,
+      "q": "Why are 3 and 9 o’clock avoided for paracervical block?",
+      "opts": [
+        "They prevent cervical dilatation",
+        "They are needed for vulsellum",
+        "They lie on the descending cervical-artery side",
+        "They cause fetal anemia"
+      ],
+      "ans": 2,
+      "exp": "The descending cervical artery lies at 3 and 9 o’clock, so those sites are avoided. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-061",
+      "sec": "Suction evacuation",
+      "page": 430,
+      "q": "What suction pressure is generated during S&E according to the notes?",
+      "opts": [
+        "At least 60 mmHg",
+        "At least 100 mmHg",
+        "At least 1,500 mmHg",
+        "At least 600 mmHg"
+      ],
+      "ans": 3,
+      "exp": "S&E generates a pressure of at least 600 mmHg. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-062",
+      "sec": "Suction evacuation endpoint",
+      "page": 430,
+      "q": "Which is an endpoint suggesting completion of suction evacuation?",
+      "opts": [
+        "Decreased blood loss with air bubbles entering the Karman cannula",
+        "Increasing fresh blood loss only",
+        "Uterus becoming softer and larger",
+        "Persistent open internal os only"
+      ],
+      "ans": 0,
+      "exp": "Endpoints include reduced blood loss and air bubbles in the Karman cannula. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-063",
+      "sec": "Suction evacuation endpoint",
+      "page": 430,
+      "q": "What tactile uterine/cannula findings suggest completion of suction evacuation?",
+      "opts": [
+        "A sinusoidal CTG",
+        "Grating over uterus and a closing internal os causing grip on the cannula",
+        "Loss of all resistance and deep cannula entry",
+        "An open os with POC coming out"
+      ],
+      "ans": 1,
+      "exp": "Completion brings grating sensation and closing internal os with grip on KC. (Book p430)"
+    },
+    {
+      "id": "OBG-C10-064",
+      "sec": "S&E perforation",
+      "page": 431,
+      "q": "What is the immediate action if perforation occurs while using a dilator in S&E?",
+      "opts": [
+        "Give anti-D only",
+        "Stop the procedure and wait/watch",
+        "Remove all instruments and discharge",
+        "Continue dilating forcefully"
+      ],
+      "ans": 1,
+      "exp": "With dilator perforation, stop the procedure and observe. (Book p431)"
+    },
+    {
+      "id": "OBG-C10-065",
+      "sec": "S&E perforation prevention",
+      "page": 431,
+      "q": "How can perforation with a dilator be prevented?",
+      "opts": [
+        "Use no uterine assessment",
+        "Always use a size 16 cannula",
+        "Hold the dilator in a pen-holding manner",
+        "Hold it with maximal force"
+      ],
+      "ans": 2,
+      "exp": "Holding the dilator in a pen-holding manner prevents perforation. (Book p431)"
+    },
+    {
+      "id": "OBG-C10-066",
+      "sec": "S&E perforation",
+      "page": 431,
+      "q": "Which finding suggests uterine perforation by Karman cannula?",
+      "opts": [
+        "Air bubbles near completion",
+        "Decreased blood loss with grating",
+        "Closing internal os gripping cannula",
+        "Sudden loss of resistance and the cannula going deep into the uterus"
+      ],
+      "ans": 3,
+      "exp": "Loss of resistance and deep KC entry identify possible perforation. (Book p431)"
+    },
+    {
+      "id": "OBG-C10-067",
+      "sec": "S&E perforation",
+      "page": 431,
+      "q": "Which clinical deterioration suggests Karman-cannula perforation?",
+      "opts": [
+        "Raised pulse with falling BP/shock and severe abdominal pain",
+        "Normal vitals with no pain",
+        "Only mild palmar itching",
+        "Fetal macrosomia"
+      ],
+      "ans": 0,
+      "exp": "Perforation can cause shock (raised pulse/falling BP) and severe abdominal pain. (Book p431)"
+    },
+    {
+      "id": "OBG-C10-068",
+      "sec": "S&E perforation management",
+      "page": 431,
+      "q": "What should be done immediately when Karman-cannula perforation is suspected?",
+      "opts": [
+        "Give oral misoprostol only",
+        "Stop procedure, do not remove the cannula, inform senior consultant, and check vitals",
+        "Remove cannula immediately and discharge",
+        "Continue suction to completion"
+      ],
+      "ans": 1,
+      "exp": "Stop, leave KC in place, call senior help, and assess vitals. (Book p431)"
+    },
+    {
+      "id": "OBG-C10-069",
+      "sec": "S&E perforation management",
+      "page": 431,
+      "q": "What diagnostic approach follows suspected Karman-cannula perforation in a stable patient?",
+      "opts": [
+        "No diagnostic assessment",
+        "Direct cordocentesis",
+        "Diagnostic laparoscopy",
+        "Immediate outpatient follow-up only"
+      ],
+      "ans": 2,
+      "exp": "A stable patient proceeds to diagnostic laparoscopy. (Book p431)"
+    },
+    {
+      "id": "OBG-C10-070",
+      "sec": "S&E perforation management",
+      "page": 431,
+      "q": "What diagnostic approach follows suspected Karman-cannula perforation in an unstable patient?",
+      "opts": [
+        "Diagnostic laparoscopy only without resuscitation",
+        "No surgery",
+        "Start anti-D",
+        "Resuscitation plus diagnostic laparotomy"
+      ],
+      "ans": 3,
+      "exp": "An unstable patient receives resuscitative measures plus diagnostic laparotomy. (Book p431)"
+    },
+    {
+      "id": "OBG-C10-071",
+      "sec": "MVA",
+      "page": 431,
+      "q": "What is the role of manual vacuum aspiration in the notes?",
+      "opts": [
+        "Alternative to S&E in rural areas",
+        "Replacement for all second-trimester care",
+        "A method of fetal anemia testing",
+        "An obsolete method"
+      ],
+      "ans": 0,
+      "exp": "MVA is an alternative to S&E in rural areas. (Book p431)"
+    },
+    {
+      "id": "OBG-C10-072",
+      "sec": "MVA",
+      "page": 431,
+      "q": "What equipment is required for MVA?",
+      "opts": [
+        "Only Hegar dilators",
+        "MVA syringe and Karman cannula; electricity is not required",
+        "Suction machine and general anesthesia only",
+        "Only an MR syringe"
+      ],
+      "ans": 1,
+      "exp": "MVA needs an MVA syringe and KC; electricity is not required. (Book p431)"
+    },
+    {
+      "id": "OBG-C10-073",
+      "sec": "MVA vs MR",
+      "page": 431,
+      "q": "How many pinch valves does the MVA syringe have in the source comparison?",
+      "opts": [
+        "No valves",
+        "Four pinch valves",
+        "Two pinch valves",
+        "One pinch valve"
+      ],
+      "ans": 2,
+      "exp": "The MVA syringe has two pinch valves. (Book p431)"
+    },
+    {
+      "id": "OBG-C10-074",
+      "sec": "MVA vs MR",
+      "page": 431,
+      "q": "What is the status of menstrual regulation in the source comparison?",
+      "opts": [
+        "First-line in rural areas",
+        "Preferred over MVA",
+        "Mandatory after failed medical abortion",
+        "Outdated"
+      ],
+      "ans": 3,
+      "exp": "Menstrual regulation is marked outdated. (Book p431)"
+    },
+    {
+      "id": "OBG-C10-075",
+      "sec": "MVA vs MR",
+      "page": 431,
+      "q": "How many pinch valves does the menstrual-regulation syringe have?",
+      "opts": [
+        "One pinch valve",
+        "Two pinch valves",
+        "No valve",
+        "Four valves"
+      ],
+      "ans": 0,
+      "exp": "The MR syringe has a single pinch valve. (Book p431)"
+    },
+    {
+      "id": "OBG-C10-076",
+      "sec": "Second-trimester abortion",
+      "page": 432,
+      "q": "Which broad options exist for second-trimester abortion?",
+      "opts": [
+        "Medical abortion and surgical methods",
+        "Only outpatient MVA",
+        "Only cerclage",
+        "Only expectant management"
+      ],
+      "ans": 0,
+      "exp": "Second-trimester abortion can be medical or surgical. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-077",
+      "sec": "Second-trimester abortion",
+      "page": 432,
+      "q": "Until what gestation is suction evacuation listed as a surgical option in second-trimester abortion?",
+      "opts": [
+        "Up to 28 weeks",
+        "Up to 16 weeks",
+        "Up to 9 weeks only",
+        "Up to 24 weeks"
+      ],
+      "ans": 1,
+      "exp": "Suction evacuation is listed up to 16 weeks. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-078",
+      "sec": "Second-trimester medical abortion",
+      "page": 432,
+      "q": "What class of drug is best for second-trimester medical abortion?",
+      "opts": [
+        "Antithyroid drugs",
+        "Insulin",
+        "Prostaglandins",
+        "Anticoagulants"
+      ],
+      "ans": 2,
+      "exp": "Prostaglandins are the best drugs for second-trimester medical abortion. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-079",
+      "sec": "Second-trimester medical abortion",
+      "page": 432,
+      "q": "Which prostaglandin is described as best for second-trimester medical abortion?",
+      "opts": [
+        "Dinoprostone (PGE2)",
+        "Carboprost (PGF2α)",
+        "Oxytocin",
+        "Misoprostol (PGE1)"
+      ],
+      "ans": 3,
+      "exp": "Misoprostol, a PGE1 analogue, is listed as best. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-080",
+      "sec": "Second-trimester medical abortion",
+      "page": 432,
+      "q": "What second-trimester misoprostol regimen is given?",
+      "opts": [
+        "400 micrograms every 3 hours, maximum 5 doses",
+        "800 micrograms daily for 15 days",
+        "200 mg once orally",
+        "50 mg/m² IM"
+      ],
+      "ans": 0,
+      "exp": "The regimen is misoprostol 400 micrograms every 3 hours, maximum five doses. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-081",
+      "sec": "Second-trimester medical abortion",
+      "page": 432,
+      "q": "What setting is required for second-trimester medical abortion?",
+      "opts": [
+        "No monitoring needed",
+        "Admit the patient",
+        "OPD only without observation",
+        "Home self-administration only"
+      ],
+      "ans": 1,
+      "exp": "The patient should be admitted for second-trimester medical abortion. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-082",
+      "sec": "Second-trimester medical abortion",
+      "page": 432,
+      "q": "How are products of conception expelled in second-trimester medical abortion?",
+      "opts": [
+        "Only by laparotomy",
+        "By fetal transfusion",
+        "The patient experiences mini labor",
+        "By painless spontaneous resorption"
+      ],
+      "ans": 2,
+      "exp": "The patient experiences mini labor and expels the products. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-083",
+      "sec": "Second-trimester medical abortion",
+      "page": 432,
+      "q": "Which drug is noted as not used in second-trimester medical abortion?",
+      "opts": [
+        "Misoprostol",
+        "Dinoprostone",
+        "Carboprost",
+        "Mifepristone"
+      ],
+      "ans": 3,
+      "exp": "The source notes mifepristone is not used in the second trimester. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-084",
+      "sec": "Second-trimester surgical abortion",
+      "page": 432,
+      "q": "What is the most common surgical method of second-trimester abortion?",
+      "opts": [
+        "Dilatation and evacuation",
+        "Suction evacuation",
+        "Menstrual regulation",
+        "Hysterotomy in every case"
+      ],
+      "ans": 0,
+      "exp": "D&E is the most common surgical method. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-085",
+      "sec": "D&E",
+      "page": 432,
+      "q": "Which instruments are used for dilatation and evacuation?",
+      "opts": [
+        "MVA syringe only",
+        "Ovum forceps or sponge-holding forceps",
+        "Karman cannula only",
+        "Hegar dilator only"
+      ],
+      "ans": 1,
+      "exp": "D&E uses ovum forceps or sponge-holding forceps. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-086",
+      "sec": "D&E",
+      "page": 432,
+      "q": "What is done after the D&E procedure in the notes?",
+      "opts": [
+        "No uterine assessment",
+        "Cerclage",
+        "Blunt curettage",
+        "Sharp curettage only"
+      ],
+      "ans": 2,
+      "exp": "Blunt curettage is done after D&E. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-087",
+      "sec": "D&E",
+      "page": 432,
+      "q": "Which forceps have no ratchet lock?",
+      "opts": [
+        "Sponge-holding forceps",
+        "Vulsellum",
+        "All forceps have ratchets",
+        "Ovum forceps"
+      ],
+      "ans": 3,
+      "exp": "Ovum forceps have no ratchet lock; sponge-holding forceps have ratchet locks. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-088",
+      "sec": "D&E",
+      "page": 432,
+      "q": "What curettage rule is stated for a pregnant uterus?",
+      "opts": [
+        "Always do blunt curettage",
+        "Always do sharp curettage",
+        "Never perform curettage",
+        "Only do curettage in the first trimester"
+      ],
+      "ans": 0,
+      "exp": "In a pregnant uterus, blunt curettage is always done. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-089",
+      "sec": "D&E",
+      "page": 432,
+      "q": "What is the exception to the blunt-curettage rule in a pregnant uterus?",
+      "opts": [
+        "After ectopic pregnancy",
+        "After suction evacuation of molar pregnancy",
+        "After every missed abortion",
+        "After normal vaginal delivery"
+      ],
+      "ans": 1,
+      "exp": "The exception is after S&E of molar pregnancy. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-090",
+      "sec": "Failed medical abortion",
+      "page": 432,
+      "q": "Why should pregnancy not be continued after failed second-trimester medical abortion with misoprostol?",
+      "opts": [
+        "It causes Rh sensitization only",
+        "It has no fetal effect",
+        "Misoprostol is teratogenic and can cause Möbius syndrome",
+        "Misoprostol guarantees normal development"
+      ],
+      "ans": 2,
+      "exp": "Misoprostol is teratogenic and is linked to Möbius syndrome, so pregnancy should not continue. (Book p432)"
+    },
+    {
+      "id": "OBG-C10-091",
+      "sec": "Ectopic progesterone",
+      "page": 433,
+      "q": "In ectopic pregnancy, what structure secretes progesterone?",
+      "opts": [
+        "Fetal thyroid",
+        "Maternal pituitary only",
+        "Corpus luteum",
+        "Placenta"
+      ],
+      "ans": 2,
+      "exp": "In ectopic pregnancy, the corpus luteum secretes progesterone while placenta is absent. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-092",
+      "sec": "Ectopic progesterone",
+      "page": 433,
+      "q": "How do progesterone levels in ectopic pregnancy compare with nonpregnant and intrauterine states?",
+      "opts": [
+        "Lower than nonpregnant and higher than intrauterine pregnancy",
+        "Equal to both states",
+        "Always zero",
+        "Higher than nonpregnant but lower than intrauterine pregnancy"
+      ],
+      "ans": 3,
+      "exp": "Ectopic progesterone is above nonpregnant level but below intrauterine-pregnancy level. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-093",
+      "sec": "Ectopic ultrasound",
+      "page": 433,
+      "q": "What endometrial ultrasound appearance may result from decidualization in ectopic pregnancy?",
+      "opts": [
+        "Pseudogestational sac",
+        "True intrauterine yolk sac",
+        "Molar snowstorm",
+        "Empty uterus in every case"
+      ],
+      "ans": 0,
+      "exp": "Decidualization can create a pseudogestational sac on USG. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-094",
+      "sec": "Ectopic decidua",
+      "page": 433,
+      "q": "What is abnormal about decidua vera in ectopic pregnancy?",
+      "opts": [
+        "It differentiates normally into all three layers",
+        "It is not differentiated into basalis, capsularis, and parietalis",
+        "It is always completely absent",
+        "It becomes placenta accreta"
+      ],
+      "ans": 1,
+      "exp": "Decidua vera is present but not differentiated into the normal basalis/capsularis/parietalis layers. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-095",
+      "sec": "Ectopic decidua",
+      "page": 433,
+      "q": "What is a decidual cast in ectopic pregnancy?",
+      "opts": [
+        "A type of molar vesicle",
+        "A retained Karman cannula",
+        "Shedding of decidua",
+        "A calcified fetus"
+      ],
+      "ans": 2,
+      "exp": "Decidual cast is shedding of the decidua. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-096",
+      "sec": "Fallopian-tube anatomy",
+      "page": 433,
+      "q": "What is the correct medial-to-lateral order of fallopian-tube parts?",
+      "opts": [
+        "Ampulla, isthmus, interstitium, infundibulum",
+        "Infundibulum, ampulla, isthmus, interstitium",
+        "Isthmus, interstitium, ampulla, infundibulum",
+        "Interstitium, isthmus, ampulla, infundibulum"
+      ],
+      "ans": 3,
+      "exp": "The order from medial to lateral is interstitium (intramural), isthmus, ampulla, then infundibulum. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-097",
+      "sec": "Fallopian-tube anatomy",
+      "page": 433,
+      "q": "What is the narrowest part of the fallopian tube according to the notes?",
+      "opts": [
+        "Interstitium, then isthmus",
+        "Ampulla, then infundibulum",
+        "Infundibulum only",
+        "All parts are equal"
+      ],
+      "ans": 0,
+      "exp": "The narrowest site is interstitium, followed by isthmus. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-098",
+      "sec": "Fallopian-tube anatomy",
+      "page": 433,
+      "q": "Which fallopian-tube region is the anatomic sphincter?",
+      "opts": [
+        "Infundibulum",
+        "Interstitium",
+        "Isthmus",
+        "Ampulla"
+      ],
+      "ans": 1,
+      "exp": "The anatomic sphincter is the interstitium. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-099",
+      "sec": "Fallopian-tube anatomy",
+      "page": 433,
+      "q": "Which fallopian-tube region is the physiologic sphincter?",
+      "opts": [
+        "Ampulla",
+        "Infundibulum",
+        "Isthmus",
+        "Interstitium"
+      ],
+      "ans": 2,
+      "exp": "The physiologic sphincter is the isthmus. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-100",
+      "sec": "Ectopic site duration",
+      "page": 433,
+      "q": "Which tubal ectopic site lasts longest and why?",
+      "opts": [
+        "Isthmus because it is narrowest",
+        "Ampulla because it has no plicae",
+        "Infundibulum because it has no blood supply",
+        "Interstitium because of myometrial support"
+      ],
+      "ans": 3,
+      "exp": "Interstitial ectopic lasts longest due to myometrial support and is most dangerous because of bleeding. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-101",
+      "sec": "Ectopic site duration",
+      "page": 433,
+      "q": "Which tubal ectopic site ends earliest?",
+      "opts": [
+        "Isthmus",
+        "Interstitium",
+        "Ampulla",
+        "Infundibulum"
+      ],
+      "ans": 0,
+      "exp": "An isthmic ectopic ends earliest. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-102",
+      "sec": "Ectopic sites",
+      "page": 433,
+      "q": "What is the most common site of ectopic pregnancy?",
+      "opts": [
+        "Abdomen",
+        "Fallopian tube",
+        "Ovary",
+        "Cervix"
+      ],
+      "ans": 1,
+      "exp": "The fallopian tube is the most common site of ectopic pregnancy. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-103",
+      "sec": "Ectopic sites",
+      "page": 433,
+      "q": "What is the most common tubal site of ectopic pregnancy?",
+      "opts": [
+        "Isthmus",
+        "Infundibulum",
+        "Ampulla",
+        "Interstitium"
+      ],
+      "ans": 2,
+      "exp": "Ampulla is the most common tubal site. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-104",
+      "sec": "Ectopic sites",
+      "page": 433,
+      "q": "Why is ampulla the most common tubal ectopic site according to the notes?",
+      "opts": [
+        "It is the narrowest portion",
+        "It has no blood supply",
+        "It is an anatomic sphincter",
+        "It is the site of fertilization and has the maximum mucosal plicae"
+      ],
+      "ans": 3,
+      "exp": "Ampulla is the fertilization site and has the most plicae, making it the most common site. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-105",
+      "sec": "Ectopic sites",
+      "page": 433,
+      "q": "What is the least common part of the tube for ectopic pregnancy?",
+      "opts": [
+        "Interstitium",
+        "Ampulla",
+        "Isthmus",
+        "Infundibulum"
+      ],
+      "ans": 0,
+      "exp": "Interstitium is the least common tubal ectopic site. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-106",
+      "sec": "Ectopic sites",
+      "page": 433,
+      "q": "What is the most common non-tubal site of ectopic pregnancy?",
+      "opts": [
+        "Cesarean-scar site",
+        "Ovary",
+        "Cervix",
+        "Abdomen"
+      ],
+      "ans": 1,
+      "exp": "Ovary is the most common non-tubal ectopic site. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-107",
+      "sec": "Ectopic sites",
+      "page": 433,
+      "q": "What is the least common ectopic-site order in the source?",
+      "opts": [
+        "Abdominal, then cervical, then scar",
+        "Interstitial, then ampullary, then ovarian",
+        "Cesarean-scar ectopic, then cervical ectopic, then abdominal ectopic",
+        "Ovarian, then ampullary, then isthmic"
+      ],
+      "ans": 2,
+      "exp": "The source ranks cesarean-scar ectopic > cervical ectopic > abdominal ectopic as least common sites. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-108",
+      "sec": "Abdominal ectopic",
+      "page": 433,
+      "q": "Why can an abdominal ectopic pregnancy last longest overall?",
+      "opts": [
+        "It has no vascular supply",
+        "It is always interstitial",
+        "It is always immediately expelled",
+        "It derives blood supply from adjacent organs"
+      ],
+      "ans": 3,
+      "exp": "Abdominal ectopic lasts longest because it derives blood supply from adjacent organs. (Book p433)"
+    },
+    {
+      "id": "OBG-C10-109",
+      "sec": "Ectopic outcomes",
+      "page": 434,
+      "q": "What is tubal abortion?",
+      "opts": [
+        "Rupture through the uterine cornu only",
+        "Implantation in the ovary",
+        "An intrauterine miscarriage",
+        "Expulsion occurring through the fimbrial end of the tube"
+      ],
+      "ans": 3,
+      "exp": "Tubal abortion occurs in the fimbrial end of the tube. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-110",
+      "sec": "Ectopic outcomes",
+      "page": 434,
+      "q": "What is the most common site of tubal abortion?",
+      "opts": [
+        "Ampulla",
+        "Isthmus",
+        "Interstitium",
+        "Cervix"
+      ],
+      "ans": 0,
+      "exp": "Ampulla is the most common site of tubal abortion. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-111",
+      "sec": "Ectopic outcomes",
+      "page": 434,
+      "q": "What is tubal rupture due to in ectopic pregnancy?",
+      "opts": [
+        "Anti-D administration",
+        "Continuous growth of the ectopic gestation",
+        "Immediate loss of the corpus luteum",
+        "Fetal anemia only"
+      ],
+      "ans": 1,
+      "exp": "Tubal rupture results from continuing ectopic growth. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-112",
+      "sec": "Ectopic outcomes",
+      "page": 434,
+      "q": "What is the most common site of tubal rupture?",
+      "opts": [
+        "Interstitium",
+        "Infundibulum",
+        "Isthmus",
+        "Ampulla"
+      ],
+      "ans": 2,
+      "exp": "Isthmus is the most common site of tubal rupture. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-113",
+      "sec": "Non-tubal ectopic criteria",
+      "page": 434,
+      "q": "Which criteria are used for cervical ectopic pregnancy?",
+      "opts": [
+        "Spiegelberg criteria",
+        "Studdiford criteria",
+        "Swansea criteria",
+        "Paalman criteria; Rubin criteria are obsolete"
+      ],
+      "ans": 3,
+      "exp": "Paalman is the newer cervical-ectopic criteria; Rubin is obsolete. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-114",
+      "sec": "Non-tubal ectopic criteria",
+      "page": 434,
+      "q": "Which criteria are used for primary abdominal ectopic pregnancy?",
+      "opts": [
+        "Studdiford criteria",
+        "Paalman criteria",
+        "Spiegelberg criteria",
+        "Tennessee criteria"
+      ],
+      "ans": 0,
+      "exp": "Primary abdominal ectopic pregnancy uses Studdiford criteria. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-115",
+      "sec": "Non-tubal ectopic criteria",
+      "page": 434,
+      "q": "What does secondary abdominal ectopic pregnancy arise from according to the notes?",
+      "opts": [
+        "Cervical canal",
+        "Fimbrial end of the tube",
+        "Uterine fundus",
+        "Ovarian ligament only"
+      ],
+      "ans": 1,
+      "exp": "Secondary abdominal ectopic arises from the fimbrial end. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-116",
+      "sec": "Non-tubal ectopic criteria",
+      "page": 434,
+      "q": "Which criteria are used for ovarian ectopic pregnancy?",
+      "opts": [
+        "Studdiford criteria",
+        "Mississippi criteria",
+        "Spiegelberg criteria",
+        "Paalman criteria"
+      ],
+      "ans": 2,
+      "exp": "Ovarian ectopic pregnancy uses Spiegelberg criteria. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-117",
+      "sec": "Ectopic risk factors",
+      "page": 434,
+      "q": "What is the most common risk factor for ectopic pregnancy?",
+      "opts": [
+        "Normal intrauterine implantation",
+        "Rh negativity only",
+        "Mild hypothyroidism",
+        "PID/salpingitis"
+      ],
+      "ans": 3,
+      "exp": "PID/salpingitis is the most common ectopic risk factor. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-118",
+      "sec": "Ectopic risk factors",
+      "page": 434,
+      "q": "What risk history carries the highest risk for ectopic pregnancy?",
+      "opts": [
+        "Previous ectopic pregnancy or tubal surgery",
+        "Previous vaginal delivery",
+        "Normal OGTT",
+        "Normal thyroid function"
+      ],
+      "ans": 0,
+      "exp": "Previous ectopic pregnancy or tubal surgery has the highest listed risk. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-119",
+      "sec": "Ectopic risk factors",
+      "page": 434,
+      "q": "How do PID-related risk factors promote ectopic pregnancy?",
+      "opts": [
+        "They prevent fertilization",
+        "They cause adhesions that prevent implantation in the uterus",
+        "They increase normal uterine implantation",
+        "They eliminate tubal transport"
+      ],
+      "ans": 1,
+      "exp": "PID/tubal surgery causes adhesions that prevent normal uterine implantation. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-120",
+      "sec": "Ectopic risk factors",
+      "page": 434,
+      "q": "Which sexual/infective histories are listed as ectopic risk factors?",
+      "opts": [
+        "Only diabetes",
+        "Only anemia",
+        "Cervicitis and multiple partners",
+        "Normal monogamy and no infection"
+      ],
+      "ans": 2,
+      "exp": "Cervicitis and multiple partners are risk factors for PID and ectopic pregnancy. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-121",
+      "sec": "Ectopic risk factors",
+      "page": 434,
+      "q": "Which lifestyle/obstetric histories are listed ectopic risk factors?",
+      "opts": [
+        "Exercise and previous vaginal delivery",
+        "Folic acid use and normal BP",
+        "Dietary calcium",
+        "Smoking and previous cesarean section"
+      ],
+      "ans": 3,
+      "exp": "Smoking and prior cesarean section are listed risk factors. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-122",
+      "sec": "Ectopic risk factors",
+      "page": 434,
+      "q": "Which fertility-related factor increases ectopic pregnancy risk?",
+      "opts": [
+        "Infertility and assisted reproductive techniques",
+        "Natural conception only",
+        "Folic acid supplementation",
+        "Normal sperm parameters only"
+      ],
+      "ans": 0,
+      "exp": "Infertility and ART are listed risk factors. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-123",
+      "sec": "Contraception and ectopic",
+      "page": 434,
+      "q": "What happens to the absolute risk of ectopic pregnancy with contraception overall?",
+      "opts": [
+        "It becomes 100%",
+        "It decreases because the chance of pregnancy decreases",
+        "It increases in every user",
+        "It is unaffected"
+      ],
+      "ans": 1,
+      "exp": "Contraception lowers absolute ectopic risk by lowering overall chance of pregnancy. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-124",
+      "sec": "Contraception and ectopic",
+      "page": 434,
+      "q": "What happens to relative ectopic risk if a contraceptive method fails?",
+      "opts": [
+        "It is unchanged by failure",
+        "It guarantees intrauterine pregnancy",
+        "It increases",
+        "It becomes zero"
+      ],
+      "ans": 2,
+      "exp": "A contraceptive failure has higher relative likelihood of ectopic pregnancy. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-125",
+      "sec": "Contraception and ectopic",
+      "page": 434,
+      "q": "Which failed contraceptive method has the highest relative ectopic risk in the source ranking?",
+      "opts": [
+        "Copper IUD",
+        "Combined oral contraceptive",
+        "No method",
+        "Tubal ligation"
+      ],
+      "ans": 3,
+      "exp": "Among failed methods, tubal ligation has highest relative ectopic risk. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-126",
+      "sec": "Contraception and ectopic",
+      "page": 434,
+      "q": "What is the correct relative ectopic-risk order among failed methods in the notes?",
+      "opts": [
+        "Tubal ligation > progesterone IUD > copper IUD",
+        "Copper IUD > progesterone IUD > tubal ligation",
+        "OCP > POP > tubal ligation",
+        "All are equal"
+      ],
+      "ans": 0,
+      "exp": "The source ranks tubal ligation above progesterone IUD (Mirena/Progestasert), above copper IUD. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-127",
+      "sec": "Contraception and ectopic",
+      "page": 434,
+      "q": "Why do progesterone-only pills carry higher relative ectopic risk than combined OCPs if they fail?",
+      "opts": [
+        "They cause immediate tubal rupture",
+        "Progesterone relaxes smooth muscle and reduces tubal peristalsis",
+        "Estrogen causes tubal obstruction",
+        "They increase fetal Rh antigen"
+      ],
+      "ans": 1,
+      "exp": "Progesterone relaxes smooth muscle and reduces peristalsis, giving POP > OCP relative ectopic risk. (Book p434)"
+    },
+    {
+      "id": "OBG-C10-128",
+      "sec": "Ectopic clinical features",
+      "page": 435,
+      "q": "What is the classic clinical triad of ectopic pregnancy?",
+      "opts": [
+        "Pruritus, jaundice, and ascites",
+        "Amenorrhea, abdominal pain, and bleeding per vaginum",
+        "Fever, cough, and edema",
+        "Hypertension, proteinuria, and seizures"
+      ],
+      "ans": 1,
+      "exp": "The classic ectopic triad is amenorrhea, abdominal pain, and P/V bleeding. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-129",
+      "sec": "Ectopic pain",
+      "page": 435,
+      "q": "What is the most specific and consistent symptom of ectopic pregnancy according to the notes?",
+      "opts": [
+        "Vaginal bleeding",
+        "Fever",
+        "Abdominal pain",
+        "Amenorrhea"
+      ],
+      "ans": 2,
+      "exp": "Pain is the most specific and consistent ectopic symptom. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-130",
+      "sec": "Ectopic pain",
+      "page": 435,
+      "q": "How is ectopic abdominal pain typically described?",
+      "opts": [
+        "Generalized painless swelling only",
+        "Upper abdominal itching only",
+        "Bilateral chest pain only",
+        "Localized lower abdominal, sharp or dull, and unilateral"
+      ],
+      "ans": 3,
+      "exp": "Ectopic pain is localized lower abdominal pain that may be sharp/dull and unilateral. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-131",
+      "sec": "Ectopic timing",
+      "page": 435,
+      "q": "At what gestation does an isthmic ectopic commonly terminate?",
+      "opts": [
+        "6–8 weeks",
+        "8–10 weeks",
+        "12 weeks",
+        "20 weeks"
+      ],
+      "ans": 0,
+      "exp": "The timing table lists 6–8 weeks for isthmic ectopic. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-132",
+      "sec": "Ectopic timing",
+      "page": 435,
+      "q": "At what gestation does an ampullary ectopic commonly terminate?",
+      "opts": [
+        "20 weeks",
+        "8–10 weeks",
+        "6–8 weeks",
+        "12 weeks"
+      ],
+      "ans": 1,
+      "exp": "Ampullary ectopic commonly terminates at 8–10 weeks. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-133",
+      "sec": "Ectopic timing",
+      "page": 435,
+      "q": "At what gestation does an interstitial ectopic commonly terminate?",
+      "opts": [
+        "8–10 weeks",
+        "4 weeks",
+        "12 weeks",
+        "6–8 weeks"
+      ],
+      "ans": 2,
+      "exp": "Interstitial ectopic commonly terminates around 12 weeks. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-134",
+      "sec": "Ruptured ectopic pain",
+      "page": 435,
+      "q": "What causes mid/upper abdominal pain in a ruptured ectopic?",
+      "opts": [
+        "Fetal hyperglycemia",
+        "Cervical dilation only",
+        "Bile-acid accumulation",
+        "Hemoperitoneum"
+      ],
+      "ans": 3,
+      "exp": "Hemoperitoneum causes mid/upper abdominal pain in a ruptured ectopic. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-135",
+      "sec": "Danforth sign",
+      "page": 435,
+      "q": "What is Danforth sign?",
+      "opts": [
+        "Shoulder-tip pain from diaphragmatic irritation by blood",
+        "Palmar pruritus from cholestasis",
+        "Turtle sign in shoulder dystocia",
+        "Scotoma in PE"
+      ],
+      "ans": 0,
+      "exp": "Danforth sign is shoulder-tip pain due to diaphragmatic irritation. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-136",
+      "sec": "Ruptured ectopic",
+      "page": 435,
+      "q": "Why may a ruptured ectopic cause urge to defecate?",
+      "opts": [
+        "Cervical cerclage prevents stool passage",
+        "Blood in the cul-de-sac presses on the rectum",
+        "Increased fetal insulin stimulates bowel",
+        "Bile salts enter the rectum"
+      ],
+      "ans": 1,
+      "exp": "Blood in the pouch of Douglas exerts pressure on the rectum, causing urge to defecate. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-137",
+      "sec": "Ruptured ectopic diagnosis",
+      "page": 435,
+      "q": "What test result supports the diagnosis of ruptured ectopic pregnancy in the notes?",
+      "opts": [
+        "Negative beta-hCG",
+        "Positive urine protein only",
+        "Positive urine pregnancy test",
+        "Negative UPT"
+      ],
+      "ans": 2,
+      "exp": "Ruptured ectopic has a positive UPT. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-138",
+      "sec": "Ruptured ectopic diagnosis",
+      "page": 435,
+      "q": "Which finding added to the ectopic triad is suggestive of ruptured ectopic?",
+      "opts": [
+        "No pain",
+        "Normal vital signs only",
+        "Palmar itching",
+        "Orthostatic hypotension"
+      ],
+      "ans": 3,
+      "exp": "Triad plus shoulder-tip pain, urge to defecate, or orthostatic hypotension suggests rupture. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-139",
+      "sec": "Ruptured ectopic exam",
+      "page": 435,
+      "q": "What systemic examination finding may be present in ruptured ectopic?",
+      "opts": [
+        "Shock",
+        "Hyperreflexia only",
+        "Normal pulse in every case",
+        "No hemodynamic change"
+      ],
+      "ans": 0,
+      "exp": "Shock may be present in ruptured ectopic. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-140",
+      "sec": "Ruptured ectopic exam",
+      "page": 435,
+      "q": "Which abdominal localizing signs may occur in ruptured ectopic?",
+      "opts": [
+        "No abdominal examination findings",
+        "Distension, rigidity, guarding, and rebound tenderness",
+        "Only painless soft abdomen",
+        "Scalp edema only"
+      ],
+      "ans": 1,
+      "exp": "Distension, rigidity, guarding, and rebound tenderness are listed localizing signs. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-141",
+      "sec": "Ruptured ectopic exam",
+      "page": 435,
+      "q": "How does uterine size relate to period of gestation in ruptured ectopic?",
+      "opts": [
+        "Always absent",
+        "Exactly equals POG in every case",
+        "Enlarged but smaller than period of gestation",
+        "Always larger than period of gestation"
+      ],
+      "ans": 2,
+      "exp": "The uterus is enlarged but smaller than expected for POG. (Book p435)"
+    },
+    {
+      "id": "OBG-C10-142",
+      "sec": "Ectopic pelvic examination",
+      "page": 436,
+      "q": "What is the most significant P/V finding in ectopic pregnancy?",
+      "opts": [
+        "Cervical length 4–5 cm",
+        "Painless cervix only",
+        "Cervical motion tenderness due to peritonitis",
+        "Closed external os only"
+      ],
+      "ans": 2,
+      "exp": "Cervical motion tenderness due to peritonitis is the most significant P/V finding. (Book p436)"
+    },
+    {
+      "id": "OBG-C10-143",
+      "sec": "Ectopic differential",
+      "page": 436,
+      "q": "How does UPT help distinguish PID from ectopic pregnancy in a patient with cervical motion tenderness?",
+      "opts": [
+        "Both are always UPT positive",
+        "PID is always UPT positive and ectopic negative",
+        "Neither has any UPT relation",
+        "PID is UPT negative; ectopic is UPT positive with raised beta-hCG"
+      ],
+      "ans": 3,
+      "exp": "PID is UPT negative, while ectopic is UPT positive/has raised beta-hCG. (Book p436)"
+    },
+    {
+      "id": "OBG-C10-144",
+      "sec": "Ruptured ectopic management",
+      "page": 436,
+      "q": "What initial combination points directly to surgical management of ectopic pregnancy?",
+      "opts": [
+        "Triad plus positive UPT plus localizing signs",
+        "Pruritus plus jaundice",
+        "Positive ICT alone",
+        "A normal glucose test"
+      ],
+      "ans": 0,
+      "exp": "The triad with positive UPT and localizing signs proceeds to surgical management. (Book p436)"
+    },
+    {
+      "id": "OBG-C10-145",
+      "sec": "Ruptured ectopic surgery",
+      "page": 436,
+      "q": "What operative route is preferred for a ruptured ectopic with stable vitals?",
+      "opts": [
+        "Medical management only",
+        "Laparoscopy",
+        "Laparotomy only",
+        "Expectant management"
+      ],
+      "ans": 1,
+      "exp": "Stable vitals permit laparoscopy. (Book p436)"
+    },
+    {
+      "id": "OBG-C10-146",
+      "sec": "Ruptured ectopic surgery",
+      "page": 436,
+      "q": "What operative route is preferred for a ruptured ectopic with unstable vitals?",
+      "opts": [
+        "Expectant management",
+        "Methotrexate first",
+        "Laparotomy",
+        "Laparoscopy only"
+      ],
+      "ans": 2,
+      "exp": "Unstable vitals require laparotomy. (Book p436)"
+    },
+    {
+      "id": "OBG-C10-147",
+      "sec": "Ruptured ectopic surgery",
+      "page": 436,
+      "q": "What is the procedure of choice in ruptured ectopic regardless of family completion?",
+      "opts": [
+        "Expectant management",
+        "Medical methotrexate",
+        "Linear salpingostomy",
+        "Salpingectomy"
+      ],
+      "ans": 3,
+      "exp": "Salpingectomy is the procedure of choice in ruptured ectopic irrespective of family completion. (Book p436)"
+    },
+    {
+      "id": "OBG-C10-148",
+      "sec": "Ovarian ectopic",
+      "page": 436,
+      "q": "In which ectopic location is oophorectomy used according to the notes?",
+      "opts": [
+        "Ovarian ectopic only",
+        "All tubal ectopics",
+        "Cervical ectopic only",
+        "Abdominal ectopic only"
+      ],
+      "ans": 0,
+      "exp": "Oophorectomy is used only for ovarian ectopic. (Book p436)"
+    },
+    {
+      "id": "OBG-C10-149",
+      "sec": "Ruptured ectopic",
+      "page": 436,
+      "q": "Which options are contraindicated in ruptured ectopic pregnancy?",
+      "opts": [
+        "Resuscitation only",
+        "Expectant and medical management, and surgery other than salpingectomy",
+        "Laparotomy only",
+        "Salpingectomy only"
+      ],
+      "ans": 1,
+      "exp": "Ruptured ectopic contraindicates expectant/medical care and surgery other than salpingectomy. (Book p436)"
+    },
+    {
+      "id": "OBG-C10-150",
+      "sec": "Culdocentesis",
+      "page": 436,
+      "q": "What is the indication for culdocentesis in the source notes?",
+      "opts": [
+        "Mild PE follow-up",
+        "Cervical incompetence",
+        "Ruptured ectopic pregnancy",
+        "GDM screening"
+      ],
+      "ans": 2,
+      "exp": "Culdocentesis is indicated in ruptured ectopic pregnancy. (Book p436)"
+    },
+    {
+      "id": "OBG-C10-151",
+      "sec": "Culdocentesis",
+      "page": 436,
+      "q": "How is culdocentesis performed?",
+      "opts": [
+        "A needle enters the uterine fundus through abdomen",
+        "A cannula enters the cervix only",
+        "An arterial line enters the radial artery",
+        "A syringe enters the pouch of Douglas through the posterior fornix"
+      ],
+      "ans": 3,
+      "exp": "A syringe is introduced into the cul-de-sac/pouch of Douglas through the posterior fornix. (Book p436)"
+    },
+    {
+      "id": "OBG-C10-152",
+      "sec": "Culdocentesis",
+      "page": 436,
+      "q": "How does blood aspirated from a blood vessel differ from hemoperitoneum on culdocentesis?",
+      "opts": [
+        "Blood-vessel sample clots, whereas pouch-of-Douglas blood does not clot",
+        "Both never clot",
+        "Both always clot identically",
+        "Only amniotic fluid clots"
+      ],
+      "ans": 0,
+      "exp": "Blood in a vessel clots; hemoperitoneum blood in pouch of Douglas lacks clotting factors and does not clot. (Book p436)"
+    },
+    {
+      "id": "OBG-C10-153",
+      "sec": "Unruptured ectopic investigation",
+      "page": 437,
+      "q": "In amenorrhea with P/V bleeding and abdominal pain, what is the first investigation for ectopic pregnancy?",
+      "opts": [
+        "UPT, positive in about 99% because of beta-hCG",
+        "MCA Doppler",
+        "Indirect Coombs test",
+        "HSG"
+      ],
+      "ans": 0,
+      "exp": "The first step is UPT, positive in about 99% due to beta-hCG. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-154",
+      "sec": "Unruptured ectopic investigation",
+      "page": 437,
+      "q": "What is the investigation of choice after a positive UPT in suspected unruptured ectopic?",
+      "opts": [
+        "Culdocentesis in every stable patient",
+        "Transvaginal ultrasound",
+        "Hysteroscopy",
+        "HSG"
+      ],
+      "ans": 1,
+      "exp": "TVS is the investigation of choice after positive UPT. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-155",
+      "sec": "Unruptured ectopic ultrasound",
+      "page": 437,
+      "q": "What TVS finding is diagnostic of tubal ectopic pregnancy?",
+      "opts": [
+        "Ring of fire alone",
+        "Complex adnexal mass alone",
+        "Gestational sac with yolk sac in the fallopian tube",
+        "Empty uterus alone"
+      ],
+      "ans": 2,
+      "exp": "A gestational sac plus yolk sac in the tube is diagnostic. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-156",
+      "sec": "Unruptured ectopic ultrasound",
+      "page": 437,
+      "q": "What is the tubal/bagel sign?",
+      "opts": [
+        "A yolk sac in the uterine cavity",
+        "An empty cervix only",
+        "A fetal scalp edema",
+        "A fallopian-tube gestational sac without a yolk sac"
+      ],
+      "ans": 3,
+      "exp": "Tubal/bagel sign is a gestational sac in the fallopian tube with no yolk sac. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-157",
+      "sec": "Unruptured ectopic ultrasound",
+      "page": 437,
+      "q": "What is the ring-of-fire sign in ectopic pregnancy?",
+      "opts": [
+        "Increased vascularity around the ectopic",
+        "Absent all vascularity around the ectopic",
+        "A circular fetal skull sign",
+        "A cervical funnel sign"
+      ],
+      "ans": 0,
+      "exp": "Ring of fire is increased vascularity around an ectopic. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-158",
+      "sec": "Unruptured ectopic ultrasound",
+      "page": 437,
+      "q": "What is the most common inconclusive TVS finding of ectopic pregnancy?",
+      "opts": [
+        "Cervical T shape",
+        "Complex adnexal mass due to areas of hemorrhage",
+        "Intrauterine yolk sac",
+        "Buddha sign"
+      ],
+      "ans": 1,
+      "exp": "Complex adnexal mass from hemorrhage is the most common inconclusive finding. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-159",
+      "sec": "Unruptured ectopic ultrasound",
+      "page": 437,
+      "q": "What is the next step after inconclusive ectopic findings on TVS?",
+      "opts": [
+        "No further testing",
+        "Cordocentesis",
+        "Beta-hCG measurement",
+        "Immediate methotrexate in all cases"
+      ],
+      "ans": 2,
+      "exp": "Inconclusive TVS leads to beta-hCG measurement. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-160",
+      "sec": "Beta-hCG",
+      "page": 437,
+      "q": "What is the critical beta-hCG titre in suspected ectopic pregnancy?",
+      "opts": [
+        "The value at which fetal anemia is detected",
+        "A maternal antibody titre of 1:16",
+        "A urine protein threshold",
+        "The value at which an intrauterine gestational sac should be visible"
+      ],
+      "ans": 3,
+      "exp": "Critical beta-hCG titre is the level at which an intrauterine sac is visible. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-161",
+      "sec": "Beta-hCG",
+      "page": 437,
+      "q": "What is the source-algorithm interpretation of beta-hCG at least 2,000 IU with no intrauterine gestational sac?",
+      "opts": [
+        "Unruptured ectopic pregnancy; use medical management if eligible",
+        "Confirmed viable intrauterine pregnancy",
+        "Complete abortion",
+        "Gestational hypertension"
+      ],
+      "ans": 0,
+      "exp": "Beta-hCG ≥2,000 IU with no sac indicates unruptured ectopic in the algorithm. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-162",
+      "sec": "Beta-hCG",
+      "page": 437,
+      "q": "With beta-hCG below 2,000 IU and an empty uterus, what is the appropriate next step?",
+      "opts": [
+        "Perform hysterectomy",
+        "Repeat beta-hCG after 48 hours",
+        "Immediately diagnose ectopic in every case",
+        "Give anti-D only"
+      ],
+      "ans": 1,
+      "exp": "Below the discriminatory level with an empty uterus, repeat beta-hCG after 48 hours. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-163",
+      "sec": "Serial beta-hCG",
+      "page": 437,
+      "q": "What beta-hCG change after 48 hours is consistent with a live intrauterine pregnancy in the source flowchart?",
+      "opts": [
+        "Rises less than 33%",
+        "No change",
+        "Nearly doubles/rises about 33–60%",
+        "Decreases"
+      ],
+      "ans": 2,
+      "exp": "A near doubling, shown as a 33–60% rise in the source flowchart, supports live IUP. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-164",
+      "sec": "Serial beta-hCG",
+      "page": 437,
+      "q": "What beta-hCG pattern after 48 hours supports ectopic pregnancy in the source flowchart?",
+      "opts": [
+        "Nearly doubling rise",
+        "A decrease only",
+        "A normal first-trimester fall",
+        "Slow rise of less than 33%"
+      ],
+      "ans": 3,
+      "exp": "A slow rise below 33% supports ectopic pregnancy. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-165",
+      "sec": "Serial beta-hCG",
+      "page": 437,
+      "q": "What beta-hCG pattern after 48 hours supports abortion/nonviable intrauterine pregnancy?",
+      "opts": [
+        "Decreases",
+        "Nearly doubles",
+        "Rises more than 60%",
+        "Stays normal only"
+      ],
+      "ans": 0,
+      "exp": "Falling beta-hCG supports abortion/nonviable IUP. (Book p437)"
+    },
+    {
+      "id": "OBG-C10-166",
+      "sec": "Other ectopic investigations",
+      "page": 438,
+      "q": "What is the gold-standard investigation for ectopic pregnancy in the notes?",
+      "opts": [
+        "Laparoscopy",
+        "TVS",
+        "Serum progesterone",
+        "Culdocentesis"
+      ],
+      "ans": 0,
+      "exp": "Laparoscopy is listed as the gold standard. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-167",
+      "sec": "Serum progesterone",
+      "page": 438,
+      "q": "What serum progesterone level supports live intrauterine pregnancy in the source notes?",
+      "opts": [
+        "At least 100 ng/mL",
+        "At least 25 ng/mL",
+        "At most 5 ng/mL",
+        "Exactly 10 ng/mL"
+      ],
+      "ans": 1,
+      "exp": "Serum progesterone ≥25 ng/mL suggests live intrauterine pregnancy. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-168",
+      "sec": "Serum progesterone",
+      "page": 438,
+      "q": "What serum progesterone level supports ectopic pregnancy in the source notes?",
+      "opts": [
+        "At least 50 ng/mL",
+        "Exactly 15 ng/mL",
+        "At most 5 ng/mL",
+        "At least 25 ng/mL"
+      ],
+      "ans": 2,
+      "exp": "Serum progesterone ≤5 ng/mL supports ectopic pregnancy. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-169",
+      "sec": "Ectopic contraindications",
+      "page": 438,
+      "q": "Which procedure is contraindicated in ectopic pregnancy because it can disrupt the tube?",
+      "opts": [
+        "TVS",
+        "Laparoscopy",
+        "Serum progesterone assay",
+        "Hysterosalpingography"
+      ],
+      "ans": 3,
+      "exp": "HSG is listed as contraindicated in ectopic pregnancy. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-170",
+      "sec": "Ectopic contraindications",
+      "page": 438,
+      "q": "Which other gynecologic procedures are contraindicated in ectopic pregnancy according to the notes?",
+      "opts": [
+        "Hysteroscopy and colpotomy",
+        "TVS and UPT",
+        "MCA Doppler and CTG",
+        "Fundus examination and NST"
+      ],
+      "ans": 0,
+      "exp": "Hysteroscopy and colpotomy are contraindicated; colpotomy is for pelvic-abscess drainage. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-171",
+      "sec": "Ectopic management",
+      "page": 438,
+      "q": "What is the preferred/best management branch for an eligible unruptured ectopic pregnancy?",
+      "opts": [
+        "No treatment",
+        "Medical management",
+        "Expectant management in every patient",
+        "Immediate salpingectomy in every patient"
+      ],
+      "ans": 1,
+      "exp": "The management diagram marks medical management as best when eligible. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-172",
+      "sec": "Ectopic surgery indications",
+      "page": 438,
+      "q": "What are indications for surgical management of ectopic pregnancy?",
+      "opts": [
+        "Only serum progesterone below 25",
+        "Any positive UPT without imaging",
+        "Ruptured ectopic or unruptured ectopic that does not meet medical-management prerequisites",
+        "All stable unruptured ectopics"
+      ],
+      "ans": 2,
+      "exp": "Surgery is indicated for rupture or if an unruptured ectopic fails medical-treatment prerequisites. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-173",
+      "sec": "Medical ectopic prerequisites",
+      "page": 438,
+      "q": "Which clinical state is required for medical management of ectopic pregnancy?",
+      "opts": [
+        "Ruptured ectopic with shock",
+        "Unknown pregnancy location only",
+        "Any ectopic without assessment",
+        "Unruptured ectopic with stable vitals"
+      ],
+      "ans": 3,
+      "exp": "Medical management requires an unruptured ectopic and stable vitals. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-174",
+      "sec": "Medical ectopic prerequisites",
+      "page": 438,
+      "q": "What beta-hCG level is a prerequisite for medical management of ectopic pregnancy?",
+      "opts": [
+        "Below 5,000 IU",
+        "Above 10,000 IU",
+        "Any level irrespective of follow-up",
+        "Below 200 IU only"
+      ],
+      "ans": 0,
+      "exp": "Medical therapy prerequisite includes beta-hCG below 5,000 IU. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-175",
+      "sec": "Medical ectopic prerequisites",
+      "page": 438,
+      "q": "What ectopic size is a prerequisite for medical management?",
+      "opts": [
+        "Less than 10 cm only",
+        "Less than 4 cm",
+        "At least 5 cm",
+        "Any size"
+      ],
+      "ans": 1,
+      "exp": "The ectopic site/size must be less than 4 cm. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-176",
+      "sec": "Medical ectopic prerequisites",
+      "page": 438,
+      "q": "What cardiac-activity finding is a standard prerequisite for medical management?",
+      "opts": [
+        "It has no impact on failure risk",
+        "Fetal activity is never assessed",
+        "Cardiac activity absent",
+        "Cardiac activity must be present"
+      ],
+      "ans": 2,
+      "exp": "Absence of cardiac activity is a prerequisite. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-177",
+      "sec": "Medical ectopic prerequisites",
+      "page": 438,
+      "q": "What reproductive preference is included among medical-management prerequisites?",
+      "opts": [
+        "Family definitely completed",
+        "No fertility preference matters",
+        "Only menopause",
+        "Family not completed"
+      ],
+      "ans": 3,
+      "exp": "The notes include family not completed among prerequisites. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-178",
+      "sec": "Medical ectopic caveat",
+      "page": 438,
+      "q": "How does fetal cardiac activity affect medical ectopic treatment if ectopic size is below 3.5 cm?",
+      "opts": [
+        "It is not an absolute contraindication, but failure risk is higher",
+        "It guarantees treatment success",
+        "It makes surgery impossible",
+        "It removes need for follow-up"
+      ],
+      "ans": 0,
+      "exp": "Cardiac activity is not an absolute contraindication if size <3.5 cm, but it raises failure rate. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-179",
+      "sec": "Methotrexate",
+      "page": 438,
+      "q": "What is the drug of choice for medical management of ectopic pregnancy?",
+      "opts": [
+        "Magnesium sulfate",
+        "Methotrexate",
+        "Mifepristone",
+        "Anti-D"
+      ],
+      "ans": 1,
+      "exp": "Methotrexate is the drug of choice. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-180",
+      "sec": "Methotrexate",
+      "page": 438,
+      "q": "What route is used for methotrexate in ectopic pregnancy?",
+      "opts": [
+        "Sublingual",
+        "Intra-amniotic",
+        "Intramuscular",
+        "Oral only"
+      ],
+      "ans": 2,
+      "exp": "Methotrexate is administered intramuscularly. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-181",
+      "sec": "Methotrexate",
+      "page": 438,
+      "q": "What methotrexate dose is listed for ectopic pregnancy?",
+      "opts": [
+        "200 mg orally",
+        "800 micrograms vaginally",
+        "10 g IM",
+        "50 mg/m² or 1 mg/kg"
+      ],
+      "ans": 3,
+      "exp": "The stated dose is 50 mg/m² or 1 mg/kg. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-182",
+      "sec": "Methotrexate protocol",
+      "page": 438,
+      "q": "How does ectopic-pregnancy methotrexate differ from GTN methotrexate therapy in the source note?",
+      "opts": [
+        "Ectopic uses a full single dose in one day; GTN uses multidose therapy alternating with folinic acid",
+        "Both always use the same regimen",
+        "Ectopic uses only folinic acid",
+        "GTN uses no methotrexate"
+      ],
+      "ans": 0,
+      "exp": "Ectopic therapy is single dose; GTN multidose therapy alternates doses on D1/D3/D5/D7 with folinic acid. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-183",
+      "sec": "Methotrexate protocol",
+      "page": 438,
+      "q": "What is done on day 1 of single-dose methotrexate therapy for ectopic pregnancy?",
+      "opts": [
+        "Perform surgery automatically",
+        "Measure beta-hCG and administer the entire methotrexate dose",
+        "Measure only beta-hCG with no drug",
+        "Give anti-D"
+      ],
+      "ans": 1,
+      "exp": "Day 1 includes beta-hCG measurement and the full methotrexate injection. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-184",
+      "sec": "Methotrexate protocol",
+      "page": 438,
+      "q": "On which days is beta-hCG measured after single-dose methotrexate to estimate response?",
+      "opts": [
+        "Days 14 and 28 only",
+        "Only at delivery",
+        "Days 4 and 7",
+        "Days 1 and 2"
+      ],
+      "ans": 2,
+      "exp": "Beta-hCG is measured on days 4 and 7. (Book p438)"
+    },
+    {
+      "id": "OBG-C10-185",
+      "sec": "Methotrexate response",
+      "page": 439,
+      "q": "What fall in beta-hCG between day 4 and day 7 indicates successful medical treatment?",
+      "opts": [
+        "Any rise",
+        "No fall is needed",
+        "At least 15%",
+        "Less than 5%"
+      ],
+      "ans": 2,
+      "exp": "A decline of at least 15% from D4 to D7 indicates successful medical therapy. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-186",
+      "sec": "Methotrexate response",
+      "page": 439,
+      "q": "What is done if beta-hCG falls by less than 15% between day 4 and 7 after methotrexate?",
+      "opts": [
+        "Declare success and stop follow-up",
+        "Give only aspirin",
+        "Perform immediate hysterectomy",
+        "Repeat the entire methotrexate dose as a new day 1, up to 3 doses"
+      ],
+      "ans": 3,
+      "exp": "A <15% fall is inadequate; repeat full MTX as new D1, maximum three doses. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-187",
+      "sec": "Methotrexate failure",
+      "page": 439,
+      "q": "What defines failed medical therapy after up to three methotrexate injections?",
+      "opts": [
+        "Day-7 fall less than 15% after three injections or rising hCG from D4 to D7",
+        "Any day-1 hCG increase",
+        "A 15% fall from D4 to D7",
+        "No bleeding on day 1 only"
+      ],
+      "ans": 0,
+      "exp": "Failure is <15% D7 fall after three injections or rising D4–D7 hCG, requiring surgery. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-188",
+      "sec": "Methotrexate monitoring",
+      "page": 439,
+      "q": "What does a rise in beta-hCG between day 1 and day 3 after methotrexate usually represent?",
+      "opts": [
+        "Rupture in every case",
+        "A normal release from the dying ectopic sac",
+        "Medical treatment failure by itself",
+        "Live intrauterine pregnancy"
+      ],
+      "ans": 1,
+      "exp": "A D1–D3 hCG rise can be normal due to release from the dying ectopic sac. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-189",
+      "sec": "Ectopic surgery",
+      "page": 439,
+      "q": "What is the preferred operative route for surgical management of unruptured ectopic pregnancy?",
+      "opts": [
+        "Hysteroscopy",
+        "Colpotomy",
+        "Laparoscopy",
+        "Laparotomy in every stable patient"
+      ],
+      "ans": 2,
+      "exp": "The surgical-management route listed is laparoscopy. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-190",
+      "sec": "Ectopic surgery",
+      "page": 439,
+      "q": "When is linear salpingostomy the surgery of choice for unruptured ectopic pregnancy?",
+      "opts": [
+        "Family complete and ectopic size at least 5 cm",
+        "Any ruptured ectopic",
+        "Ovarian ectopic only",
+        "Family not complete and ectopic size under 4 cm"
+      ],
+      "ans": 3,
+      "exp": "Linear salpingostomy is chosen if family is incomplete and ectopic is <4 cm. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-191",
+      "sec": "Linear salpingostomy",
+      "page": 439,
+      "q": "What is done in linear salpingostomy?",
+      "opts": [
+        "Incision with hydrodissection; tube left intact and incision left open",
+        "Remove whole tube",
+        "Close incision tightly after milking",
+        "Remove ovary"
+      ],
+      "ans": 0,
+      "exp": "Linear salpingostomy uses incision/hydrodissection, preserves tube, and leaves incision open. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-192",
+      "sec": "Ectopic surgery",
+      "page": 439,
+      "q": "When is unilateral salpingectomy the surgery of choice for unruptured ectopic pregnancy?",
+      "opts": [
+        "Only in heterotopic pregnancy",
+        "Family complete or ectopic size at least 5 cm",
+        "Family incomplete and ectopic below 4 cm",
+        "Only with beta-hCG below 200"
+      ],
+      "ans": 1,
+      "exp": "Unilateral salpingectomy is selected if family is complete or ectopic is ≥5 cm. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-193",
+      "sec": "Obsolete ectopic procedures",
+      "page": 439,
+      "q": "Which tubal procedures are labeled obsolete in the ectopic-surgery notes?",
+      "opts": [
+        "Laparoscopy and laparotomy",
+        "MVA and S&E",
+        "Milking of tubes and salpingotomy with closed incision",
+        "Linear salpingostomy and salpingectomy"
+      ],
+      "ans": 2,
+      "exp": "Milking tubes and salpingotomy with closed incision are obsolete. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-194",
+      "sec": "Expectant ectopic management",
+      "page": 439,
+      "q": "What is the indication for expectant management of ectopic pregnancy?",
+      "opts": [
+        "Ruptured ectopic with shock",
+        "Heterotopic pregnancy with a live IUP",
+        "Any ectopic with cardiac activity",
+        "Spontaneously resolving ectopic pregnancy"
+      ],
+      "ans": 3,
+      "exp": "Expectant management is wait and watch for spontaneously resolving ectopic pregnancy. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-195",
+      "sec": "Expectant ectopic management",
+      "page": 439,
+      "q": "What beta-hCG value is a prerequisite for expectant ectopic management?",
+      "opts": [
+        "Below 200 IU",
+        "Below 5,000 IU only",
+        "Above 10,000 IU",
+        "Any value"
+      ],
+      "ans": 0,
+      "exp": "Expectant management requires beta-hCG <200 IU. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-196",
+      "sec": "Expectant ectopic management",
+      "page": 439,
+      "q": "What beta-hCG trend is required for expectant ectopic management?",
+      "opts": [
+        "Any increase after methotrexate",
+        "Spontaneous decrease",
+        "Rapid increase",
+        "No measurement needed"
+      ],
+      "ans": 1,
+      "exp": "A spontaneous fall in beta-hCG is required. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-197",
+      "sec": "Expectant ectopic management",
+      "page": 439,
+      "q": "What ultrasound prerequisite is listed for expectant ectopic management?",
+      "opts": [
+        "Live embryo with cardiac activity",
+        "Hydrops fetalis",
+        "No gestational sac in the fallopian tube",
+        "Definite yolk sac in the tube"
+      ],
+      "ans": 2,
+      "exp": "Expectant management requires no gestational sac in the tube. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-198",
+      "sec": "Heterotopic pregnancy",
+      "page": 439,
+      "q": "What is heterotopic pregnancy?",
+      "opts": [
+        "Two ectopic pregnancies only",
+        "Two intrauterine pregnancies only",
+        "A molar pregnancy with a fetus",
+        "Twin pregnancy with one intrauterine and one ectopic pregnancy"
+      ],
+      "ans": 3,
+      "exp": "Heterotopic pregnancy has one IUP and one ectopic pregnancy. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-199",
+      "sec": "Heterotopic pregnancy",
+      "page": 439,
+      "q": "Why is methotrexate contraindicated in heterotopic pregnancy?",
+      "opts": [
+        "It would harm the coexisting intrauterine pregnancy",
+        "It cannot affect trophoblast",
+        "It prevents laparoscopy",
+        "It only treats Rh sensitization"
+      ],
+      "ans": 0,
+      "exp": "Methotrexate is contraindicated because a desired intrauterine pregnancy coexists. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-200",
+      "sec": "Heterotopic pregnancy",
+      "page": 439,
+      "q": "What is the management of heterotopic pregnancy in the source notes?",
+      "opts": [
+        "Anti-D alone",
+        "Surgical",
+        "Methotrexate first",
+        "Expectant only in every case"
+      ],
+      "ans": 1,
+      "exp": "Heterotopic pregnancy is managed surgically. (Book p439)"
+    },
+    {
+      "id": "OBG-C10-201",
+      "sec": "Cornual vs angular",
+      "page": 440,
+      "q": "What type of pregnancy is cornual pregnancy in the source comparison?",
+      "opts": [
+        "A molar pregnancy",
+        "Ectopic pregnancy",
+        "Intrauterine pregnancy",
+        "A normal implantation variant only"
+      ],
+      "ans": 1,
+      "exp": "Cornual pregnancy is an ectopic pregnancy. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-202",
+      "sec": "Cornual vs angular",
+      "page": 440,
+      "q": "What type of pregnancy is angular pregnancy in the source comparison?",
+      "opts": [
+        "Gestational trophoblastic neoplasia",
+        "Abdominal pregnancy",
+        "Intrauterine pregnancy",
+        "Ectopic pregnancy"
+      ],
+      "ans": 2,
+      "exp": "Angular pregnancy is intrauterine. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-203",
+      "sec": "Cornual pregnancy",
+      "page": 440,
+      "q": "Where can a cornual pregnancy implant according to the notes?",
+      "opts": [
+        "Near the uterine angle only inside cavity",
+        "Endocervix only",
+        "Ovary only",
+        "Interstitial fallopian tube or rudimentary uterine horn"
+      ],
+      "ans": 3,
+      "exp": "Cornual ectopic is in the tubal interstitium or rudimentary horn. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-204",
+      "sec": "Angular pregnancy",
+      "page": 440,
+      "q": "Where is angular pregnancy located?",
+      "opts": [
+        "Near the angle/cornua of the uterus",
+        "In the tubal interstitium lateral to round ligament",
+        "In the ovary",
+        "In the pouch of Douglas"
+      ],
+      "ans": 0,
+      "exp": "Angular pregnancy is intrauterine near the uterine angle/cornua. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-205",
+      "sec": "Cornual vs angular",
+      "page": 440,
+      "q": "How does cornual pregnancy relate to the round ligament?",
+      "opts": [
+        "It has no relation",
+        "Lateral to it",
+        "Medial to it",
+        "Within it"
+      ],
+      "ans": 1,
+      "exp": "Cornual pregnancy is lateral to the round ligament. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-206",
+      "sec": "Cornual vs angular",
+      "page": 440,
+      "q": "How does angular pregnancy relate to the round ligament?",
+      "opts": [
+        "Within it",
+        "It has no relation",
+        "Medial to it",
+        "Lateral to it"
+      ],
+      "ans": 2,
+      "exp": "Angular pregnancy is medial to the round ligament. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-207",
+      "sec": "Cervical ectopic",
+      "page": 440,
+      "q": "Which cervical finding is part of Paalman criteria?",
+      "opts": [
+        "Internal os open and external os closed",
+        "Both os completely closed",
+        "Both os absent",
+        "Internal os closed and external os partially open"
+      ],
+      "ans": 3,
+      "exp": "Paalman criteria include a closed internal os and partially open external os. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-208",
+      "sec": "Cervical ectopic",
+      "page": 440,
+      "q": "Where is the gestational sac attached in Paalman criteria for cervical ectopic?",
+      "opts": [
+        "Endocervix",
+        "Ovarian ligament",
+        "Peritoneum",
+        "Tubal ampulla"
+      ],
+      "ans": 0,
+      "exp": "In cervical ectopic, the sac is attached to the endocervix. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-209",
+      "sec": "Cervical ectopic",
+      "page": 440,
+      "q": "What symptom is part of Paalman criteria for cervical ectopic?",
+      "opts": [
+        "Shoulder-tip pain only",
+        "Bleeding without uterine cramps",
+        "Severe uterine cramps without bleeding",
+        "Palmar itching"
+      ],
+      "ans": 1,
+      "exp": "Cervical ectopic presents with bleeding without uterine cramps. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-210",
+      "sec": "Ovarian ectopic",
+      "page": 440,
+      "q": "Which finding is part of Spiegelberg criteria for ovarian ectopic?",
+      "opts": [
+        "Normal ovaries with sac in ampulla",
+        "Sac attached only to peritoneum",
+        "Sac present in the ovary with normal tubes",
+        "Sac in endocervix with open internal os"
+      ],
+      "ans": 2,
+      "exp": "Spiegelberg requires sac in ovary and normal tubes. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-211",
+      "sec": "Ovarian ectopic",
+      "page": 440,
+      "q": "How is the gestational sac related to the uterus in Spiegelberg criteria?",
+      "opts": [
+        "Attached to endocervix",
+        "Attached to round ligament",
+        "Not attached to anything",
+        "Attached by the ovarian ligament"
+      ],
+      "ans": 3,
+      "exp": "Spiegelberg criteria include sac attached to uterus by ovarian ligament. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-212",
+      "sec": "Ovarian ectopic",
+      "page": 440,
+      "q": "What histologic finding confirms ovarian ectopic under Spiegelberg criteria?",
+      "opts": [
+        "Ovarian tissue in the gestational sac",
+        "Fetal thyroid in the sac",
+        "Decidua only with no ovarian tissue",
+        "Cervical epithelium in the sac"
+      ],
+      "ans": 0,
+      "exp": "Ovarian tissue must be identified in the gestational sac. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-213",
+      "sec": "Primary abdominal ectopic",
+      "page": 440,
+      "q": "Which are Studdiford criteria for primary abdominal ectopic pregnancy?",
+      "opts": [
+        "Sac in ampulla with yolk sac",
+        "No uteroperitoneal fistula, normal tubes/ovaries, and pregnancy attached to peritoneum",
+        "Open internal os and sac in endocervix",
+        "Sac in ovary with ovarian tissue"
+      ],
+      "ans": 1,
+      "exp": "Studdiford requires no uteroperitoneal fistula, normal tubes/ovaries, and peritoneal attachment. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-214",
+      "sec": "Abdominal ectopic",
+      "page": 440,
+      "q": "Which abdominal ectopic is more common according to the note?",
+      "opts": [
+        "Both equally common",
+        "Neither exists",
+        "Secondary abdominal ectopic",
+        "Primary abdominal ectopic"
+      ],
+      "ans": 2,
+      "exp": "Secondary abdominal ectopic is more common. (Book p440)"
+    },
+    {
+      "id": "OBG-C10-215",
+      "sec": "Gestational trophoblastic disease",
+      "page": 441,
+      "q": "Which two entities are grouped as molar pregnancy/hydatidiform mole?",
+      "opts": [
+        "PSTT and ETT only",
+        "Ectopic and angular pregnancy",
+        "Partial mole and complete mole",
+        "Invasive mole and choriocarcinoma only"
+      ],
+      "ans": 2,
+      "exp": "Molar pregnancy/hydatidiform mole is partial or complete mole. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-216",
+      "sec": "Gestational trophoblastic neoplasia",
+      "page": 441,
+      "q": "Which is a form of gestational trophoblastic neoplasia?",
+      "opts": [
+        "Partial mole only",
+        "Complete mole only",
+        "Angular pregnancy",
+        "Invasive mole"
+      ],
+      "ans": 3,
+      "exp": "Invasive mole is a gestational trophoblastic neoplasia. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-217",
+      "sec": "Gestational trophoblastic neoplasia",
+      "page": 441,
+      "q": "Which malignant trophoblastic condition is listed under GTN?",
+      "opts": [
+        "Choriocarcinoma",
+        "Cervical incompetence",
+        "Ectopic pregnancy",
+        "AFLP"
+      ],
+      "ans": 0,
+      "exp": "Choriocarcinoma is listed under gestational trophoblastic neoplasia. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-218",
+      "sec": "Gestational trophoblastic neoplasia",
+      "page": 441,
+      "q": "Which tumors are listed under GTN besides invasive mole and choriocarcinoma?",
+      "opts": [
+        "MVA and MR",
+        "Placental-site trophoblastic tumor and epithelioid trophoblastic tumor",
+        "VSD and TGA",
+        "HELLP and AFLP"
+      ],
+      "ans": 1,
+      "exp": "PSTT and ETT are listed GTN tumors. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-219",
+      "sec": "Molar pregnancy risk",
+      "page": 441,
+      "q": "What is the most important risk factor for molar pregnancy?",
+      "opts": [
+        "Rh-negative status",
+        "GDM",
+        "Previous molar pregnancy",
+        "Previous normal vaginal delivery"
+      ],
+      "ans": 2,
+      "exp": "Previous molar pregnancy is the most important risk factor. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-220",
+      "sec": "Molar pregnancy risk",
+      "page": 441,
+      "q": "Which demographic factors are listed for molar pregnancy?",
+      "opts": [
+        "Only age 20–25 years",
+        "Only European origin and middle age",
+        "Only male fetus",
+        "Southeast Asian origin and extremes of age"
+      ],
+      "ans": 3,
+      "exp": "Southeast Asian countries and extremes of age are listed risk factors. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-221",
+      "sec": "Molar pregnancy pathogenesis",
+      "page": 441,
+      "q": "What pathologic processes are listed in molar pregnancy?",
+      "opts": [
+        "Undue trophoblastic proliferation and hydropic degeneration",
+        "Fetal hyperinsulinemia and glomeruloendotheliosis",
+        "Tubal rupture and hemoperitoneum",
+        "Placental insufficiency only"
+      ],
+      "ans": 0,
+      "exp": "Molar pregnancy involves undue trophoblast proliferation and hydropic degeneration. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-222",
+      "sec": "Partial vs complete mole",
+      "page": 441,
+      "q": "What distinguishes partial from complete mole by fetal tissue?",
+      "opts": [
+        "Neither contains trophoblast",
+        "Partial mole has some fetal tissue; complete mole has no fetal tissue",
+        "Complete mole has fetal tissue; partial has none",
+        "Both always have a normal fetus"
+      ],
+      "ans": 1,
+      "exp": "Some fetal tissue is present in partial mole; no fetal tissue in complete mole. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-223",
+      "sec": "Molar pregnancy",
+      "page": 441,
+      "q": "How is molar pregnancy characterized biologically?",
+      "opts": [
+        "An ectopic pregnancy only",
+        "A bacterial infection",
+        "A benign disease with malignant potential",
+        "A strictly nonneoplastic condition with no follow-up relevance"
+      ],
+      "ans": 2,
+      "exp": "Molar pregnancy is benign but has malignant potential. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-224",
+      "sec": "Molar pregnancy presentation",
+      "page": 441,
+      "q": "What is the most common presentation of molar pregnancy?",
+      "opts": [
+        "Palmar itching in the third trimester",
+        "Shoulder-tip pain only",
+        "Painless cervical dilatation",
+        "P/V bleeding in the first or early second trimester"
+      ],
+      "ans": 3,
+      "exp": "P/V bleeding in first/early second trimester is the most common presentation. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-225",
+      "sec": "Molar pregnancy presentation",
+      "page": 441,
+      "q": "What vaginal finding is classically associated with molar pregnancy?",
+      "opts": [
+        "Grape-like vesicles per vaginum",
+        "Purulent discharge only",
+        "A decidual cast only",
+        "Turtle sign"
+      ],
+      "ans": 0,
+      "exp": "Grape-like vesicles P/V are characteristic. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-226",
+      "sec": "Molar pregnancy presentation",
+      "page": 441,
+      "q": "Why can PIH develop before 20 weeks in molar pregnancy?",
+      "opts": [
+        "Tubal ischemia",
+        "Increased placental tissue",
+        "Fetal anemia only",
+        "Reduced hCG"
+      ],
+      "ans": 1,
+      "exp": "Early-onset PIH before 20 weeks is due to increased placental tissue. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-227",
+      "sec": "Molar pregnancy presentation",
+      "page": 441,
+      "q": "Which symptoms/findings are driven by elevated hCG in molar pregnancy?",
+      "opts": [
+        "Cervical shortening only",
+        "No endocrine symptoms",
+        "Hyperemesis, thyrotoxicosis, and bilateral theca-lutein cysts",
+        "Hypoglycemia, low TSH, and renal failure only"
+      ],
+      "ans": 2,
+      "exp": "Raised hCG is associated with hyperemesis, thyrotoxicosis, and bilateral theca-lutein cysts. (Book p441)"
+    },
+    {
+      "id": "OBG-C10-228",
+      "sec": "Molar pregnancy complications",
+      "page": 441,
+      "q": "What can cause pulmonary embolism and breathlessness in molar pregnancy according to the notes?",
+      "opts": [
+        "Cervical shortening",
+        "Maternal insulin",
+        "An anti-D reaction",
+        "Molar vesicles"
+      ],
+      "ans": 3,
+      "exp": "Pulmonary embolism and breathlessness are attributed to vesicles in the source notes. (Book p441)"
+    }
+  ]
+}
