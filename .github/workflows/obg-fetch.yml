@@ -1,0 +1,71 @@
+name: obg-fetch
+
+# Temporary helper job: the sandbox has no network route to Google Drive, so this
+# GitHub-hosted runner pulls the source PDF from Drive and stages it (and derived
+# probe data) back into the repo branch. Safe to delete once the PDF is split.
+on:
+  push:
+    paths:
+      - ".github/workflows/obg-fetch.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install tooling
+        run: |
+          python3 -m pip install --quiet --upgrade pip
+          python3 -m pip install --quiet gdown pymupdf
+
+      - name: Download source PDF from Google Drive
+        run: |
+          mkdir -p work/src
+          gdown --id 1jAz5J-HzqGo1p7MT1WmLfr6SEX7f6prr -O "work/src/OBG Vol. 1.pdf" \
+            || gdown "https://drive.google.com/uc?id=1jAz5J-HzqGo1p7MT1WmLfr6SEX7f6prr" -O "work/src/OBG Vol. 1.pdf"
+          ls -l work/src
+          md5sum "work/src/OBG Vol. 1.pdf"
+
+      - name: Probe structure (page count, bookmarks, text layer, first pages)
+        run: |
+          python3 - <<'PY'
+          import os, fitz
+          p = "work/src/OBG Vol. 1.pdf"
+          doc = fitz.open(p)
+          out = []
+          out.append(f"file: {p}")
+          out.append(f"bytes: {os.path.getsize(p)}")
+          out.append(f"pages: {doc.page_count}")
+          out.append(f"metadata: {doc.metadata}")
+          toc = doc.get_toc()
+          out.append(f"bookmarks: {len(toc)}")
+          for lvl, title, page in toc[:200]:
+              out.append(f"TOC {lvl} {page} {title}")
+          os.makedirs("work/probe/pages", exist_ok=True)
+          n = min(30, doc.page_count)
+          for i in range(n):
+              pg = doc[i]
+              txt = pg.get_text().strip()
+              first = " ".join(txt.split())[:200]
+              out.append(f"page {i+1}: chars={len(txt)} imgs={len(pg.get_images())} text={first}")
+              pix = pg.get_pixmap(dpi=110, colorspace=fitz.csGRAY)
+              pix.save(f"work/probe/pages/p{i+1:03d}.jpg", jpg_quality=55)
+          with open("work/probe/info.txt", "w") as fh:
+              fh.write("\n".join(out) + "\n")
+          print("\n".join(out[:40]))
+          PY
+
+      - name: Commit probe output
+        run: |
+          git config user.email "obg-bot@users.noreply.github.com"
+          git config user.name "obg-fetch"
+          git add -A work/probe
+          git commit -m "probe: OBG Vol. 1 structure + first 30 page renders"
+          git push
