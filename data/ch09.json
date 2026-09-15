@@ -1,0 +1,689 @@
+{
+  "chapter": 9,
+  "title": "Recurrent Pregnancy Loss, Cervical Incompetence and MTP",
+  "pageRange": "418-432",
+  "units": [
+    {
+      "id": "OBG-U9-1",
+      "ch": 9,
+      "n": 1,
+      "title": "Abortion Epidemiology & Chromosomal Etiology",
+      "sec": "Abortion etiology \u00b7 p418-419",
+      "guide": "Spontaneous abortion is defined as the loss of pregnancy prior to viability (<20 weeks or <500 g; legal viability in India is historically 28 weeks). Approximately 50-60% of first-trimester miscarriages result from chromosomal anomalies: autosomal trisomies are the most common category (Trisomy 16 is the most common and universally lethal; Trisomy 21 is the most viable), while Monosomy X (45,X0 / Turner syndrome) is the single most common individual chromosomal defect.",
+      "qs": [
+        "OBG-C9-001",
+        "OBG-C9-002",
+        "OBG-C9-003",
+        "OBG-C9-004",
+        "OBG-C9-005"
+      ]
+    },
+    {
+      "id": "OBG-U9-2",
+      "ch": 9,
+      "n": 2,
+      "title": "Recurrent Pregnancy Loss: Etiology & Diagnostic Workup",
+      "sec": "RPL workup \u00b7 p419-420",
+      "guide": "Recurrent Pregnancy Loss (RPL) is defined as two or more consecutive clinical pregnancy losses. Antiphospholipid syndrome is the leading treatable autoimmune etiology, while endocrine causes include uncontrolled hypothyroidism and PCOS; congenital uterine anomalies (septate uterus having the highest miscarriage rate) and parental balanced reciprocal or Robertsonian translocations (requiring parental karyotyping) represent structural causes.",
+      "qs": [
+        "OBG-C9-006",
+        "OBG-C9-007",
+        "OBG-C9-008",
+        "OBG-C9-009",
+        "OBG-C9-010"
+      ]
+    },
+    {
+      "id": "OBG-U9-3",
+      "ch": 9,
+      "n": 3,
+      "title": "Cervical Incompetence: Sonography & Management Indications",
+      "sec": "Cervical insufficiency \u00b7 p420-421",
+      "guide": "Cervical incompetence is characterized by painless cervical dilation during the second trimester leading to prolapse and rupture of membranes. Transvaginal ultrasound confirms the diagnosis when cervical length is <=25 mm or internal os funneling progresses through T, Y, V, and U shapes; management includes prophylactic vaginal progesterone (from 16 to 36 weeks) and cervical cerclage placed between 12 and 14 weeks.",
+      "qs": [
+        "OBG-C9-011",
+        "OBG-C9-012",
+        "OBG-C9-013",
+        "OBG-C9-014",
+        "OBG-C9-015"
+      ]
+    },
+    {
+      "id": "OBG-U9-4",
+      "ch": 9,
+      "n": 4,
+      "title": "Cervical Cerclage: Shirodkar, McDonald & Rescue Techniques",
+      "sec": "Cerclage techniques \u00b7 p421-423",
+      "guide": "The two primary transvaginal cerclage procedures are Shirodkar (submucosal tape placed at internal os following bladder reflection) and McDonald (purse-string non-absorbable suture placed in the portio vaginalis without bladder dissection); emergency/rescue cerclage (or Wurm cross-mattress suture) is attempted when the cervix is dilated <4 cm with unruptured membranes. Sutures are removed electively at 37 weeks.",
+      "qs": [
+        "OBG-C9-016",
+        "OBG-C9-017",
+        "OBG-C9-018",
+        "OBG-C9-019",
+        "OBG-C9-020"
+      ]
+    },
+    {
+      "id": "OBG-U9-5",
+      "ch": 9,
+      "n": 5,
+      "title": "Antiphospholipid Syndrome: Sapporo Criteria & Anticoagulation",
+      "sec": "APLA syndrome \u00b7 p424-425",
+      "guide": "Antiphospholipid antibody syndrome (APS) is diagnosed by modified Sapporo/Sydney criteria requiring at least one clinical criterion (vascular thrombosis or adverse pregnancy loss) and one persistent laboratory criterion (Lupus Anticoagulant, Anticardiolipin IgG/IgM, or Anti-beta2-glycoprotein I IgG/IgM verified 12 weeks apart). Management in pregnancy consists of low-dose aspirin (75-150 mg) plus prophylactic LMWH (heparin) initiated upon positive urine pregnancy test.",
+      "qs": [
+        "OBG-C9-021",
+        "OBG-C9-022",
+        "OBG-C9-023",
+        "OBG-C9-024",
+        "OBG-C9-025"
+      ]
+    },
+    {
+      "id": "OBG-U9-6",
+      "ch": 9,
+      "n": 6,
+      "title": "Clinical Varieties: Threatened, Inevitable, Incomplete & Missed",
+      "sec": "Types of abortion \u00b7 p425-426",
+      "guide": "Spontaneous abortions are classified by clinical presentation: Threatened (cervix closed, viable fetus, brown spotting/mild cramping; managed conservatively), Inevitable (cervix open, active bleeding, cramps; irreversible), Incomplete (cervix open with partial expulsion of products of conception, causing hemorrhage), Complete (cervix closed, all products expelled), and Missed (cervix closed, empty sac >=25 mm MSD or embryo CRL >=7 mm without cardiac activity).",
+      "qs": [
+        "OBG-C9-026",
+        "OBG-C9-027",
+        "OBG-C9-028",
+        "OBG-C9-029",
+        "OBG-C9-030"
+      ]
+    },
+    {
+      "id": "OBG-U9-7",
+      "ch": 9,
+      "n": 7,
+      "title": "Septic Abortion & MTP Act (2021 Amendments)",
+      "sec": "Septic abortion & MTP Act \u00b7 p426-427",
+      "guide": "Septic abortion is an abortion complicated by intrauterine infection presenting with purulent discharge, pelvic pain, high fever, and potentially toxic shock; managed with broad-spectrum parenteral antibiotics and early evacuation. Under India's MTP Amendment Act 2021, abortion is permitted up to 20 weeks with 1 RMP opinion, up to 24 weeks with 2 RMPs for vulnerable categories (rape, minors, disability), and without gestational age limit for severe fetal anomalies approved by a State Medical Board.",
+      "qs": [
+        "OBG-C9-031",
+        "OBG-C9-032",
+        "OBG-C9-033",
+        "OBG-C9-034",
+        "OBG-C9-035"
+      ]
+    },
+    {
+      "id": "OBG-U9-8",
+      "ch": 9,
+      "n": 8,
+      "title": "Medical & Surgical Abortion Techniques: Protocols & Complications",
+      "sec": "Abortion methods & safety \u00b7 p428-432",
+      "guide": "First-trimester medical abortion up to 9 weeks (63 days) uses oral Mifepristone 200 mg followed 24-48 hours later by Misoprostol 800 mcg. Surgical termination uses Manual Vacuum Aspiration (MVA syringe, 600 mmHg negative pressure) or Suction & Evacuation (Karman cannula size equal to gestational weeks) under paracervical block; if uterine perforation occurs with a suction cannula, the cannula is held in place without withdrawal while stabilizing the patient and evaluating by laparoscopy/laparotomy.",
+      "qs": [
+        "OBG-C9-036",
+        "OBG-C9-037",
+        "OBG-C9-038",
+        "OBG-C9-039",
+        "OBG-C9-040"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "sec": "Abortion etiology",
+      "page": 418,
+      "q": "What is the global definition of spontaneous abortion according to the WHO and CDC?",
+      "opts": [
+        "Involuntary termination of pregnancy before 20 completed weeks of gestation or expulsion of an embryo/fetus weighing less than 500 grams",
+        "Expulsion of pregnancy before 28 weeks only",
+        "Termination of pregnancy before 32 weeks of gestation",
+        "Fetal demise occurring exclusively during the first 6 weeks of gestation"
+      ],
+      "ans": 0,
+      "exp": "Spontaneous abortion is defined as pregnancy loss occurring before 20 weeks of gestation or fetal weight < 500 g. (Book p418)",
+      "id": "OBG-C9-001"
+    },
+    {
+      "sec": "Abortion etiology",
+      "page": 418,
+      "q": "What is the single most common cause of first-trimester spontaneous pregnancy loss?",
+      "opts": [
+        "Fetal chromosomal abnormalities / genetic aneuploidies (accounting for 50% to 60% of cases)",
+        "Maternal blunt abdominal trauma",
+        "Uterine cervical incompetence",
+        "Bacterial vaginosis"
+      ],
+      "ans": 0,
+      "exp": "Chromosomal anomalies (predominantly numerical aneuploidies) account for over 50-60% of all spontaneous first-trimester abortions. (Book p418)",
+      "id": "OBG-C9-002"
+    },
+    {
+      "sec": "Abortion etiology",
+      "page": 419,
+      "q": "Among chromosomal aneuploidies causing spontaneous first-trimester abortion, what is the single MOST FREQUENT and most lethal autosomal trisomy?",
+      "opts": [
+        "Trisomy 16 (never survives to term; accounts for ~30% of all trisomic abortions)",
+        "Trisomy 21",
+        "Trisomy 18",
+        "Trisomy 13"
+      ],
+      "ans": 0,
+      "exp": "Trisomy 16 is the most common and universally lethal trisomy found in abortuses; it never results in a live birth. (Book p419)",
+      "id": "OBG-C9-003"
+    },
+    {
+      "sec": "Abortion etiology",
+      "page": 419,
+      "q": "What is the single MOST COMMON individual chromosomal abnormality identified in early spontaneous abortuses overall?",
+      "opts": [
+        "Monosomy X (45,X0 / Turner syndrome karyotype)",
+        "Triploidy (69,XXY)",
+        "Trisomy 21 (47,XX,+21)",
+        "Tetraploidy (92,XXXX)"
+      ],
+      "ans": 0,
+      "exp": "Monosomy X (45,X0) is the most common single specific chromosomal karyotype error seen in spontaneous abortions (~20% of aneuploid losses). (Book p419)",
+      "id": "OBG-C9-004"
+    },
+    {
+      "sec": "Abortion etiology",
+      "page": 419,
+      "q": "Which autosomal trisomy is the MOST VIABLE, yet most frequently terminates in spontaneous abortion during pregnancy?",
+      "opts": [
+        "Trisomy 21 (Down syndrome)",
+        "Trisomy 16",
+        "Trisomy 1",
+        "Trisomy 22"
+      ],
+      "ans": 0,
+      "exp": "Trisomy 21 is the most viable autosomal trisomy at birth, but the majority (~75-80%) of Trisomy 21 conceptuses abort spontaneously in utero. (Book p419)",
+      "id": "OBG-C9-005"
+    },
+    {
+      "sec": "RPL workup",
+      "page": 419,
+      "q": "How is Recurrent Pregnancy Loss (RPL) defined clinically by the European Society of Human Reproduction and Embryology (ESHRE) and ASRM?",
+      "opts": [
+        "The consecutive loss of two or more clinical pregnancies",
+        "Five or more first-trimester miscarriages",
+        "A single second-trimester pregnancy loss",
+        "Three losses in different partners"
+      ],
+      "ans": 0,
+      "exp": "RPL is defined as two or more consecutive pregnancy losses, justifying initiation of a diagnostic evaluation. (Book p419)",
+      "id": "OBG-C9-006"
+    },
+    {
+      "sec": "RPL workup",
+      "page": 419,
+      "q": "What is the most common treatable autoimmune cause of recurrent pregnancy loss?",
+      "opts": [
+        "Antiphospholipid Antibody Syndrome (APLA)",
+        "Systemic Lupus Erythematosus without APLA",
+        "Rheumatoid arthritis",
+        "Hashimoto thyroiditis"
+      ],
+      "ans": 0,
+      "exp": "APLA is the single most common and treatable acquired thrombophilic/autoimmune cause of recurrent pregnancy loss. (Book p419)",
+      "id": "OBG-C9-007"
+    },
+    {
+      "sec": "RPL workup",
+      "page": 419,
+      "q": "Which congenital uterine structural malformation carries the HIGHEST incidence of spontaneous pregnancy loss?",
+      "opts": [
+        "Septate uterus (due to poor avascular fibroelastic septum implantation)",
+        "Bicornuate uterus",
+        "Arcuate uterus",
+        "Didelphic uterus"
+      ],
+      "ans": 0,
+      "exp": "A uterine septum has deficient vascularity and endometrial development; implantation onto the septum carries a >65% miscarriage rate. (Book p419)",
+      "id": "OBG-C9-008"
+    },
+    {
+      "sec": "RPL workup",
+      "page": 420,
+      "q": "What is the most common parental chromosomal abnormality discovered upon karyotyping couples with recurrent pregnancy loss?",
+      "opts": [
+        "Balanced reciprocal translocation (or Robertsonian translocation)",
+        "Maternal Turner mosaicism",
+        "Paternal Klinefelter syndrome",
+        "Trisomy 16 carrier state"
+      ],
+      "ans": 0,
+      "exp": "Parental balanced reciprocal translocations occur in 2-5% of RPL couples, producing unbalanced gametes upon meiotic segregation. (Book p420)",
+      "id": "OBG-C9-009"
+    },
+    {
+      "sec": "RPL workup",
+      "page": 420,
+      "q": "Which routine test is explicitly NOT RECOMMENDED in the diagnostic evaluation of recurrent pregnancy loss?",
+      "opts": [
+        "Routine TORCH serology screening (because acute TORCH infections cause sporadic, not recurrent miscarriages)",
+        "Maternal serum TSH",
+        "Parental peripheral blood karyotyping",
+        "Pelvic transvaginal ultrasound for Mullerian anomalies"
+      ],
+      "ans": 0,
+      "exp": "TORCH infections do not cause recurrent pregnancy loss; screening for TORCH in recurrent abortion is obsolete and unjustified. (Book p420)",
+      "id": "OBG-C9-010"
+    },
+    {
+      "sec": "Cervical insufficiency",
+      "page": 420,
+      "q": "What classic obstetric history strongly points toward the diagnosis of cervical incompetence (cervical insufficiency)?",
+      "opts": [
+        "Recurrent, painless second-trimester miscarriages characterized by rapid expulsion of a live, morphologically normal fetus without prior uterine contractions",
+        "Severe painful first-trimester cramps with passage of heavy clots",
+        "Painless third-trimester bright red vaginal bleeding",
+        "Recurrent ectopic pregnancies"
+      ],
+      "ans": 0,
+      "exp": "Cervical incompetence typically presents as painless cervical dilation in the 2nd trimester, leading to membrane prolapse and rapid fetal expulsion. (Book p420)",
+      "id": "OBG-C9-011"
+    },
+    {
+      "sec": "Cervical insufficiency",
+      "page": 420,
+      "q": "What cervical length on transvaginal ultrasound (TVS) during the second trimester (16-24 weeks) establishes the diagnosis of a short cervix?",
+      "opts": [
+        "Cervical length <= 25 mm (2.5 cm)",
+        "Cervical length <= 40 mm",
+        "Cervical length <= 50 mm",
+        "Cervical length <= 10 mm only"
+      ],
+      "ans": 0,
+      "exp": "A TVS cervical length <= 25 mm before 24 weeks represents the 10th percentile and defines a short cervix at high risk for preterm loss. (Book p420)",
+      "id": "OBG-C9-012"
+    },
+    {
+      "sec": "Cervical insufficiency",
+      "page": 420,
+      "q": "What is the correct sequential mnemonic for the progressive stages of internal cervical os funneling seen on ultrasound in cervical insufficiency?",
+      "opts": [
+        "T -> Y -> V -> U ('Trust Your Vaginal Ultrasound')",
+        "U -> V -> Y -> T",
+        "T -> V -> Y -> U",
+        "Y -> T -> U -> V"
+      ],
+      "ans": 0,
+      "exp": "Mnemonic 'TYVU' represents progressive endocervical effacement: T (normal closed T-shape), Y (early funneling), V (advanced), U (hourglass prolapse). (Book p420)",
+      "id": "OBG-C9-013"
+    },
+    {
+      "sec": "Cervical insufficiency",
+      "page": 420,
+      "q": "When is a history-indicated cervical cerclage recommended?",
+      "opts": [
+        "In a woman with a history of >= 2 to 3 second-trimester painless losses or preterm deliveries, placed electively at 12 to 14 weeks regardless of cervical length",
+        "Only when cervix is 5 cm dilated in labor",
+        "In all primigravid women with twins",
+        "At 36 weeks of gestation"
+      ],
+      "ans": 0,
+      "exp": "History-indicated cerclage is placed electively at 12-14 weeks for women with classical history of >= 2-3 painless 2nd-trimester deliveries. (Book p420)",
+      "id": "OBG-C9-014"
+    },
+    {
+      "sec": "Cervical insufficiency",
+      "page": 421,
+      "q": "What medical therapy is proven to prevent preterm birth in an asymptomatic singleton pregnancy found to have a short cervical length (<=25 mm) on TVS at 18-24 weeks?",
+      "opts": [
+        "Daily vaginal natural micronized progesterone (200 mg nightly) until 36 completed weeks",
+        "Oral tocolytics (Isoxsuprine) continuously",
+        "High-dose magnesium sulfate infusions",
+        "Complete strict supine bed rest for 5 months"
+      ],
+      "ans": 0,
+      "exp": "Vaginal progesterone reduces preterm delivery by ~40-50% in asymptomatic women with a TVS-detected short cervix <= 25 mm. (Book p421)",
+      "id": "OBG-C9-015"
+    },
+    {
+      "sec": "Cerclage techniques",
+      "page": 421,
+      "q": "What is the key surgical difference between the McDonald cerclage and the Shirodkar cerclage?",
+      "opts": [
+        "McDonald is a simple purse-string suture placed in the portio vaginalis without bladder dissection, whereas Shirodkar requires anterior bladder reflection to place tape at the level of the internal os",
+        "McDonald requires a laparotomy, while Shirodkar is vaginal",
+        "McDonald uses metal clips, while Shirodkar uses silk",
+        "McDonald is performed postpartum only"
+      ],
+      "ans": 0,
+      "exp": "McDonald is simpler without mucosal dissection; Shirodkar reflects the bladder anteriorly to place Mersilene tape right at the internal os. (Book p421)",
+      "id": "OBG-C9-016"
+    },
+    {
+      "sec": "Cerclage techniques",
+      "page": 422,
+      "q": "What is the primary suture material commonly used for Shirodkar cervical cerclage?",
+      "opts": [
+        "Mersilene tape (5 mm braided polyester non-absorbable tape)",
+        "Catgut chromic suture",
+        "Fast-absorbing polyglactin",
+        "Stainless steel wire"
+      ],
+      "ans": 0,
+      "exp": "Mersilene tape (5 mm broad polyester tape) provides robust mechanical strength and prevents tissue cutting around the internal cervical os. (Book p422)",
+      "id": "OBG-C9-017"
+    },
+    {
+      "sec": "Cerclage techniques",
+      "page": 422,
+      "q": "At what gestational age is an elective transvaginal cervical cerclage suture typically REMOVED?",
+      "opts": [
+        "At 36 to 37 completed weeks of gestation (or earlier if spontaneous active labor or rupture of membranes supervenes)",
+        "At 28 weeks of gestation",
+        "During the postpartum period after delivery",
+        "At 42 weeks of gestation"
+      ],
+      "ans": 0,
+      "exp": "Vaginal cerclage is removed at 36-37 weeks to prevent cervical dystocia and severe laceration when spontaneous labor begins. (Book p422)",
+      "id": "OBG-C9-018"
+    },
+    {
+      "sec": "Cerclage techniques",
+      "page": 422,
+      "q": "What is the Wurm cerclage technique, used primarily in emergency or rescue cerclage settings?",
+      "opts": [
+        "Placement of two criss-crossing mattress sutures through the cervix in anteroposterior and transverse directions forming a '+' or 'X' shape",
+        "A single absorbable suture at the external os",
+        "An intra-amniotic balloon catheter",
+        "A permanent metal band around the uterine fundus"
+      ],
+      "ans": 0,
+      "exp": "Wurm cerclage uses two mattress sutures (one AP, one transverse) to close a dilated cervix when purse-string placement is technically difficult. (Book p422)",
+      "id": "OBG-C9-019"
+    },
+    {
+      "sec": "Cerclage techniques",
+      "page": 423,
+      "q": "Which of the following is an ABSOLUTE CONTRAINDICATION to performing a cervical cerclage?",
+      "opts": [
+        "Active intrauterine infection / chorioamnionitis, or ruptured fetal membranes (PPROM)",
+        "Gestational age of 13 weeks",
+        "History of one prior spontaneous abortion",
+        "Posterior low-lying placenta"
+      ],
+      "ans": 0,
+      "exp": "Chorioamnionitis, active uterine bleeding, ruptured membranes, active preterm labor, and lethal fetal anomalies are absolute contraindications. (Book p423)",
+      "id": "OBG-C9-020"
+    },
+    {
+      "sec": "APLA syndrome",
+      "page": 424,
+      "q": "Which three antiphospholipid antibodies are included in the laboratory criteria for diagnosing Antiphospholipid Antibody Syndrome (APLA)?",
+      "opts": [
+        "Lupus Anticoagulant (LA), Anti-cardiolipin antibodies (IgG/IgM), and Anti-beta2-glycoprotein I antibodies (IgG/IgM)",
+        "Anti-nuclear antibody, Anti-dsDNA, and Anti-Smith",
+        "Anti-Ro/SSA, Anti-La/SSB, and Anti-RNP",
+        "Anti-thyroperoxidase, Anti-CCP, and c-ANCA"
+      ],
+      "ans": 0,
+      "exp": "APLA laboratory criteria require Lupus Anticoagulant, Anticardiolipin (IgG/IgM), or Anti-beta2-glycoprotein I (IgG/IgM) verified on >= 2 occasions 12 weeks apart. (Book p424)",
+      "id": "OBG-C9-021"
+    },
+    {
+      "sec": "APLA syndrome",
+      "page": 424,
+      "q": "In the modified Sapporo / Sydney criteria for APLA, which obstetric history fulfills the clinical criteria?",
+      "opts": [
+        ">= 3 consecutive spontaneous abortions before 10 weeks, OR >= 1 unexplained fetal death at >= 10 weeks, OR >= 1 preterm delivery before 34 weeks due to severe pre-eclampsia/placental insufficiency",
+        "A single miscarriage at 6 weeks",
+        "Term delivery with postpartum hemorrhage",
+        "Gestational diabetes at 28 weeks"
+      ],
+      "ans": 0,
+      "exp": "Clinical criteria: >=3 consecutive losses <10w, >=1 loss >=10w with normal morphology, or >=1 preterm birth <34w d/t severe pre-eclampsia/UPI. (Book p424)",
+      "id": "OBG-C9-022"
+    },
+    {
+      "sec": "APLA syndrome",
+      "page": 424,
+      "q": "What paradoxical coagulation abnormality is seen in patients with Lupus Anticoagulant on routine coagulation screening in the laboratory?",
+      "opts": [
+        "Isolated prolongation of Activated Partial Thromboplastin Time (aPTT) in vitro, despite causing in vivo hypercoagulability and thrombosis",
+        "Profoundly shortened aPTT with prolonged PT",
+        "Isolated reduction in platelet count without coagulation changes",
+        "Fibrinogen levels falling to zero"
+      ],
+      "ans": 0,
+      "exp": "Lupus anticoagulant binds phospholipids in vitro, artificially delaying coagulation and prolonging aPTT, but promotes thrombosis in vivo. (Book p424)",
+      "id": "OBG-C9-023"
+    },
+    {
+      "sec": "APLA syndrome",
+      "page": 425,
+      "q": "What is the evidence-based medical treatment of choice for pregnant women with APLA and recurrent pregnancy loss?",
+      "opts": [
+        "Low-dose Aspirin (75-150 mg daily) PLUS prophylactic Low-Molecular-Weight Heparin (LMWH), initiated as soon as pregnancy is confirmed",
+        "High-dose Warfarin throughout pregnancy",
+        "Intravenous Immunoglobulin (IVIG) monotherapy",
+        "High-dose oral Prednisolone alone"
+      ],
+      "ans": 0,
+      "exp": "Combination of low-dose aspirin and prophylactic LMWH (started at positive pregnancy test) raises live birth rates to >70-80% in APLA. (Book p425)",
+      "id": "OBG-C9-024"
+    },
+    {
+      "sec": "APLA syndrome",
+      "page": 425,
+      "q": "In a non-pregnant patient with Antiphospholipid Syndrome and a history of deep vein thrombosis, what is the anticoagulant drug of choice for long-term secondary prevention?",
+      "opts": [
+        "Warfarin (target INR 2.0 to 3.0)",
+        "Low-dose aspirin alone",
+        "Clopidogrel monotherapy",
+        "Progesterone injections"
+      ],
+      "ans": 0,
+      "exp": "Warfarin (INR 2.0-3.0) is the definitive long-term oral anticoagulant for secondary thrombosis prevention in non-pregnant APS patients. (Book p425)",
+      "id": "OBG-C9-025"
+    },
+    {
+      "sec": "Types of abortion",
+      "page": 425,
+      "q": "A pregnant woman at 8 weeks presents with mild vaginal spotting and lower backache. Examination reveals a closed internal os, uterine size corresponding to gestational age, and ultrasound demonstrates a viable intrauterine fetus with cardiac activity. What is the diagnosis?",
+      "opts": [
+        "Threatened abortion",
+        "Inevitable abortion",
+        "Incomplete abortion",
+        "Missed abortion"
+      ],
+      "ans": 0,
+      "exp": "Threatened abortion features vaginal spotting/mild cramping with a closed internal cervical os and documented viable cardiac activity. (Book p425)",
+      "id": "OBG-C9-026"
+    },
+    {
+      "sec": "Types of abortion",
+      "page": 425,
+      "q": "What key clinical finding differentiates an INEVITABLE abortion from a THREATENED abortion?",
+      "opts": [
+        "Internal cervical os is dilated / open in inevitable abortion, whereas it remains tightly closed in threatened abortion",
+        "Cardiac activity is always present in inevitable abortion",
+        "Uterine size is twice the gestational age in inevitable abortion",
+        "Threatened abortion is accompanied by foul purulent discharge"
+      ],
+      "ans": 0,
+      "exp": "Dilation of the internal cervical os indicates irreversible progression to inevitable abortion, whereas the os is closed in threatened abortion. (Book p425)",
+      "id": "OBG-C9-027"
+    },
+    {
+      "sec": "Types of abortion",
+      "page": 425,
+      "q": "A woman presents with severe vaginal hemorrhage and lower abdominal cramps. On speculum examination, the internal cervical os is open with placental tissue protruding through the canal. Uterine size is smaller than the period of amenorrhea. What is the diagnosis?",
+      "opts": [
+        "Incomplete abortion",
+        "Complete abortion",
+        "Threatened abortion",
+        "Missed abortion"
+      ],
+      "ans": 0,
+      "exp": "Incomplete abortion features partial expulsion of products of conception with cervical os open, active bleeding, and smaller-than-dates uterus. (Book p425)",
+      "id": "OBG-C9-028"
+    },
+    {
+      "sec": "Types of abortion",
+      "page": 426,
+      "q": "What ultrasound criteria definitively establish the diagnosis of early pregnancy failure (missed abortion / non-viable embryo)?",
+      "opts": [
+        "Crown-Rump Length (CRL) >= 7 mm without cardiac activity, OR Mean Sac Diameter (MSD) >= 25 mm without an embryo",
+        "CRL >= 3 mm without cardiac activity",
+        "MSD >= 10 mm without yolk sac",
+        "Absence of fetal heart on transabdominal scan at 4 weeks"
+      ],
+      "ans": 0,
+      "exp": "Established criteria for non-viable pregnancy: CRL >= 7 mm with no heartbeat, or mean gestational sac diameter >= 25 mm with no embryo. (Book p426)",
+      "id": "OBG-C9-029"
+    },
+    {
+      "sec": "Types of abortion",
+      "page": 426,
+      "q": "In a patient presenting with spontaneous abortion who suddenly develops hypovolemic shock, what are the two most common underlying causes in order of frequency?",
+      "opts": [
+        "Septic abortion followed by Incomplete abortion (causing torrential hemorrhage or endotoxemia)",
+        "Missed abortion followed by threatened abortion",
+        "Complete abortion followed by blighted ovum",
+        "Implantation bleeding"
+      ],
+      "ans": 0,
+      "exp": "Shock complicating abortion is most commonly due to septic abortion (distributive/septic shock) followed closely by incomplete abortion (hemorrhagic shock). (Book p426)",
+      "id": "OBG-C9-030"
+    },
+    {
+      "sec": "Septic abortion & MTP Act",
+      "page": 426,
+      "q": "What is the clinical definition and staging of Grade 3 septic abortion?",
+      "opts": [
+        "Infection that has spread beyond the pelvis to produce generalized peritonitis, septic shock, or acute renal failure",
+        "Infection confined exclusively to the endometrial cavity (Grade 1)",
+        "Infection extending into parametrium and adnexa (Grade 2)",
+        "Fever < 38\u00b0C without pelvic tenderness"
+      ],
+      "ans": 0,
+      "exp": "Grade 1 is limited to the uterus, Grade 2 extends to adnexa/broad ligament, and Grade 3 involves peritonitis, pelvic abscess, septic shock, or renal failure. (Book p426)",
+      "id": "OBG-C9-031"
+    },
+    {
+      "sec": "Septic abortion & MTP Act",
+      "page": 427,
+      "q": "Under the Medical Termination of Pregnancy (Amendment) Act 2021 in India, what is the gestational limit up to which ONE Registered Medical Practitioner (RMP) can approve an MTP?",
+      "opts": [
+        "Up to 20 weeks of gestation",
+        "Up to 12 weeks only",
+        "Up to 24 weeks",
+        "Up to 28 weeks"
+      ],
+      "ans": 0,
+      "exp": "Under the 2021 amendments, termination up to 20 weeks requires the opinion of only one RMP (increased from the previous 12-week limit). (Book p427)",
+      "id": "OBG-C9-032"
+    },
+    {
+      "sec": "Septic abortion & MTP Act",
+      "page": 427,
+      "q": "Under the MTP Amendment Act 2021, for vulnerable categories of women (e.g., rape survivors, incest victims, minors, women with physical disability), up to what gestational age is pregnancy termination allowed with the opinion of TWO RMPs?",
+      "opts": [
+        "Up to 24 weeks of gestation",
+        "Up to 20 weeks only",
+        "Up to 28 weeks",
+        "Up to 32 weeks"
+      ],
+      "ans": 0,
+      "exp": "For special categories (rape survivors, minors, change of marital status during pregnancy), the upper limit is extended to 24 weeks with 2 RMPs. (Book p427)",
+      "id": "OBG-C9-033"
+    },
+    {
+      "sec": "Septic abortion & MTP Act",
+      "page": 427,
+      "q": "If a severe substantial congenital fetal abnormality is diagnosed, what is the gestational upper age limit for medical termination under the MTP Amendment Act 2021?",
+      "opts": [
+        "No upper gestational age limit applies, provided the termination is approved by a four-member State Medical Board",
+        "Strictly capped at 24 weeks",
+        "Strictly capped at 28 weeks",
+        "Permitted only up to 20 weeks"
+      ],
+      "ans": 0,
+      "exp": "The 24-week cap does not apply to cases of substantial fetal abnormalities diagnosed by the four-member State Medical Board. (Book p427)",
+      "id": "OBG-C9-034"
+    },
+    {
+      "sec": "Septic abortion & MTP Act",
+      "page": 427,
+      "q": "Whose legal consent is mandatory for performing a Medical Termination of Pregnancy on a woman who is 19 years old and mentally sound?",
+      "opts": [
+        "Consent of the woman herself alone; husband or parental consent is NOT legally required",
+        "Consent of her husband or partner",
+        "Consent of both her parents and in-laws",
+        "A court magistrate order"
+      ],
+      "ans": 0,
+      "exp": "Under the MTP Act, any adult woman (>= 18 years) can provide valid autonomous consent; spousal or family consent is not required by law. (Book p427)",
+      "id": "OBG-C9-035"
+    },
+    {
+      "sec": "Abortion methods & safety",
+      "page": 428,
+      "q": "What is the approved regimen for first-trimester Medical Abortion on an outpatient basis up to 9 weeks (63 days) of gestation?",
+      "opts": [
+        "Day 1: Tab Mifepristone 200 mg orally; Day 3: Tab Misoprostol 800 mcg (buccal, sublingual, or vaginal); Day 14-15: Clinical/USG follow-up",
+        "Mifepristone 600 mg daily for 5 days",
+        "Misoprostol 200 mcg single oral dose without mifepristone",
+        "Methotrexate injection plus oral oxytocin"
+      ],
+      "ans": 0,
+      "exp": "Mifepristone 200 mg PO followed 24-48h later by misoprostol 800 mcg produces >95% complete abortion rate up to 63 days of gestation. (Book p428)",
+      "id": "OBG-C9-036"
+    },
+    {
+      "sec": "Abortion methods & safety",
+      "page": 428,
+      "q": "What is the pharmacological mechanism of action of Mifepristone (RU-486)?",
+      "opts": [
+        "Potent synthetic competitive progesterone receptor antagonist, causing decidual necrosis, blastocyst detachment, and cervical softening",
+        "Synthetic prostaglandin E1 analog stimulating myometrial contractions",
+        "Direct alpha-adrenergic receptor agonist",
+        "Oxytocin receptor agonist"
+      ],
+      "ans": 0,
+      "exp": "Mifepristone competitively blocks intracellular progesterone receptors, triggering decidual breakdown, trophoblast detachment, and sensitization to prostaglandins. (Book p428)",
+      "id": "OBG-C9-037"
+    },
+    {
+      "sec": "Abortion methods & safety",
+      "page": 430,
+      "q": "During Suction & Evacuation using a Karman cannula, what negative suction pressure is generated, and what is the rule of thumb for selecting cannula size?",
+      "opts": [
+        "Negative pressure >= 600 mmHg; Cannula diameter in millimeters roughly equals the period of gestation in completed weeks",
+        "Negative pressure of 100 mmHg; cannula size 2 mm for all gestations",
+        "Positive pressure of 300 mmHg; cannula size 18 mm",
+        "Negative pressure of 2000 mmHg"
+      ],
+      "ans": 0,
+      "exp": "Suction pressure is maintained at >= 600 mmHg; Karman cannula number corresponds to its outer diameter in mm and approximates gestational weeks. (Book p430)",
+      "id": "OBG-C9-038"
+    },
+    {
+      "sec": "Abortion methods & safety",
+      "page": 430,
+      "q": "Where is local anesthetic injected during a paracervical block for first-trimester surgical abortion, and which locations are avoided to protect the uterine arteries?",
+      "opts": [
+        "Injected at 4 and 8 o'clock (or 2, 4, 8, 10 o'clock) positions; the 3 and 9 o'clock positions are avoided to prevent inadvertent intravascular uterine artery injection",
+        "Injected directly into the 3 and 9 o'clock vascular pedicles",
+        "Injected solely into the anterior cervical lip at 12 o'clock",
+        "Injected into the posterior vaginal fornix at 6 o'clock"
+      ],
+      "ans": 0,
+      "exp": "Injections are placed at 4 and 8 (or 2, 4, 8, 10) o'clock; the 3 and 9 o'clock lateral positions are avoided to prevent injecting into descending cervical vessels. (Book p430)",
+      "id": "OBG-C9-039"
+    },
+    {
+      "sec": "Abortion methods & safety",
+      "page": 431,
+      "q": "During Suction & Evacuation, the surgeon notes a sudden loss of resistance and the Karman cannula passes deeper than expected. What is the immediate correct management?",
+      "opts": [
+        "Stop the procedure immediately, leave the cannula in place without moving it, check vital signs, and call for senior surgical assistance",
+        "Vigorously rotate the cannula to complete suctioning",
+        "Administer high-dose oxytocin and withdraw the cannula quickly",
+        "Discharge the patient with oral antibiotics"
+      ],
+      "ans": 0,
+      "exp": "If perforation is suspected with a suction cannula, leaving it still prevents dragging bowel loops or mesentery through the uterine defect. (Book p431)",
+      "id": "OBG-C9-040"
+    }
+  ]
+}

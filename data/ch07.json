@@ -1,0 +1,659 @@
+{
+  "chapter": 7,
+  "title": "Hypertensive Disorders: Pre-eclampsia and Eclampsia",
+  "pageRange": "391-405",
+  "units": [
+    {
+      "id": "OBG-U7-1",
+      "ch": 7,
+      "n": 1,
+      "title": "Hypertensive Disorders: Classification & Definitions",
+      "sec": "Classification & definitions \u00b7 p391-392",
+      "guide": "Hypertensive disorders of pregnancy are classified into four main entities: Chronic Hypertension (predating conception or before 20 weeks), Gestational Hypertension (onset after 20 weeks without proteinuria), Pre-eclampsia (new-onset hypertension after 20 weeks with proteinuria or end-organ dysfunction), and Chronic Hypertension with Superimposed Pre-eclampsia.",
+      "qs": [
+        "OBG-C7-001",
+        "OBG-C7-002",
+        "OBG-C7-003",
+        "OBG-C7-004",
+        "OBG-C7-005"
+      ]
+    },
+    {
+      "id": "OBG-U7-2",
+      "ch": 7,
+      "n": 2,
+      "title": "Pathophysiology: Trophoblast Invasion & Angiogenic Imbalance",
+      "sec": "Pathophysiology \u00b7 p396-397",
+      "guide": "Failed second wave of endovascular trophoblast invasion at 16-18 weeks leaves high-resistance muscular spiral arteries. Placental ischemia triggers shedding of anti-angiogenic factors (soluble fms-like tyrosine kinase-1 [sFlt-1] and soluble endoglin [sEng]), which neutralize pro-angiogenic PlGF and VEGF, causing widespread maternal endothelial dysfunction.",
+      "qs": [
+        "OBG-C7-006",
+        "OBG-C7-007",
+        "OBG-C7-008",
+        "OBG-C7-009"
+      ]
+    },
+    {
+      "id": "OBG-U7-3",
+      "ch": 7,
+      "n": 3,
+      "title": "Predictive Screening: Uterine Doppler, Biomarkers & Aspirin Prophylaxis",
+      "sec": "Prediction & prophylaxis \u00b7 p397-399",
+      "guide": "Persistent bilateral early diastolic notch and elevated pulsatility index on uterine artery Doppler at 20-24 weeks indicate impaired trophoblast remodeling. Low-dose aspirin (150 mg nightly initiated before 16 weeks) significantly reduces preterm pre-eclampsia by restoring the prostacyclin-thromboxane balance in high-risk women.",
+      "qs": [
+        "OBG-C7-010",
+        "OBG-C7-011",
+        "OBG-C7-012",
+        "OBG-C7-013",
+        "OBG-C7-014"
+      ]
+    },
+    {
+      "id": "OBG-U7-4",
+      "ch": 7,
+      "n": 4,
+      "title": "Pre-eclampsia: Severe Features & Laboratory Criteria",
+      "sec": "Diagnosis & severity \u00b7 p392-395",
+      "guide": "Severe features include systolic BP >=160 mmHg or diastolic >=110 mmHg, platelets <100,000/microL, serum creatinine >1.1 mg/dL (or doubling), transaminases elevated 2x normal, pulmonary edema, or new-onset visual/cerebral disturbances. Note that massive proteinuria alone (>5 g/24h) is no longer classified as a severe feature under current ACOG criteria.",
+      "qs": [
+        "OBG-C7-015",
+        "OBG-C7-016",
+        "OBG-C7-017",
+        "OBG-C7-018"
+      ]
+    },
+    {
+      "id": "OBG-U7-5",
+      "ch": 7,
+      "n": 5,
+      "title": "Acute Antihypertensive Therapy & Hemodynamic Targets",
+      "sec": "Antihypertensive therapy \u00b7 p399-400",
+      "guide": "Severe acute hypertension (BP >=160/110 mmHg sustained for 15 minutes) requires immediate urgent lowering within 30-60 minutes using IV labetalol, oral immediate-release nifedipine, or IV hydralazine. Blood pressure should be titrated to 130-150 / 80-100 mmHg; ACE inhibitors and ARBs are strictly contraindicated due to fetal fetopathy.",
+      "qs": [
+        "OBG-C7-019",
+        "OBG-C7-020",
+        "OBG-C7-021",
+        "OBG-C7-022",
+        "OBG-C7-023"
+      ]
+    },
+    {
+      "id": "OBG-U7-6",
+      "ch": 7,
+      "n": 6,
+      "title": "Eclampsia: Stages, Convulsions & Resuscitation",
+      "sec": "Eclampsia \u00b7 p393-394",
+      "guide": "Eclampsia is the occurrence of generalized tonic-clonic convulsions or coma in a pre-eclamptic patient. Seizure evolves through four classic phases: premonitory stage, tonic stage, clonic stage, and comatose stage. Emergency management prioritizes airway, breathing, left lateral positioning, and seizure arrest with magnesium sulfate; delivery is delayed until the mother is stabilized.",
+      "qs": [
+        "OBG-C7-024",
+        "OBG-C7-025",
+        "OBG-C7-026",
+        "OBG-C7-027"
+      ]
+    },
+    {
+      "id": "OBG-U7-7",
+      "ch": 7,
+      "n": 7,
+      "title": "Magnesium Sulfate Protocols & Toxicity Monitoring",
+      "sec": "MgSO4 regimens & toxicity \u00b7 p401-402",
+      "guide": "Magnesium sulfate is the drug of choice for seizure prophylaxis and treatment (Pritchard IM or Zuspan IV regimen). Therapeutic serum magnesium range is 4 to 7 mEq/L (4.8 to 8.4 mg/dL). Clinical monitoring requires verifying present deep tendon (patellar) reflexes, respiratory rate >=12/min, and urine output >=30 mL/h (or 100 mL/4h); toxicity is reversed with 10% calcium gluconate IV.",
+      "qs": [
+        "OBG-C7-028",
+        "OBG-C7-029",
+        "OBG-C7-030",
+        "OBG-C7-031",
+        "OBG-C7-032",
+        "OBG-C7-033"
+      ]
+    },
+    {
+      "id": "OBG-U7-8",
+      "ch": 7,
+      "n": 8,
+      "title": "HELLP Syndrome & Delivery Timing Strategies",
+      "sec": "HELLP & delivery \u00b7 p403-405",
+      "guide": "HELLP syndrome consists of Hemolysis (microangiopathic hemolytic anemia with schistocytes), Elevated Liver enzymes, and Low Platelets (<100,000/microL). Definitive treatment is delivery: at 37 weeks for gestational hypertension or pre-eclampsia without severe features; at 34 weeks for pre-eclampsia with severe features; or immediate delivery regardless of gestational age upon eclampsia, pulmonary edema, or HELLP syndrome.",
+      "qs": [
+        "OBG-C7-034",
+        "OBG-C7-035",
+        "OBG-C7-036",
+        "OBG-C7-037",
+        "OBG-C7-038"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "sec": "Classification & definitions",
+      "page": 391,
+      "q": "What diagnostic criterion defines hypertension in pregnancy on clinical examination?",
+      "opts": [
+        "Systolic blood pressure >= 140 mmHg and/or diastolic blood pressure >= 90 mmHg on two occasions at least 4 hours apart",
+        "Systolic BP >= 130 mmHg on a single random reading",
+        "Diastolic BP >= 80 mmHg on continuous ambulatory monitoring",
+        "Mean arterial pressure >= 85 mmHg at 12 weeks"
+      ],
+      "ans": 0,
+      "exp": "Hypertension is defined as systolic BP >= 140 mmHg and/or diastolic BP >= 90 mmHg on two readings taken >= 4 hours apart. (Book p391)",
+      "id": "OBG-C7-001"
+    },
+    {
+      "sec": "Classification & definitions",
+      "page": 391,
+      "q": "Which Korotkoff sound phase is the gold standard for recording maternal diastolic blood pressure during pregnancy?",
+      "opts": [
+        "Korotkoff phase V (complete disappearance of sound)",
+        "Korotkoff phase IV (muffling of sound)",
+        "Korotkoff phase I (first tapping sound)",
+        "Korotkoff phase III (loud thumping sound)"
+      ],
+      "ans": 0,
+      "exp": "ACOG and international guidelines specify Korotkoff phase V (disappearance of sounds) as the definitive measure of diastolic blood pressure in pregnancy. (Book p391)",
+      "id": "OBG-C7-002"
+    },
+    {
+      "sec": "Classification & definitions",
+      "page": 391,
+      "q": "How is Gestational Hypertension defined according to international criteria?",
+      "opts": [
+        "New-onset hypertension developing after 20 weeks of gestation without significant proteinuria or end-organ dysfunction",
+        "Hypertension known prior to conception",
+        "Hypertension developing after 20 weeks accompanied by 3+ proteinuria",
+        "Transient blood pressure elevation during labor only"
+      ],
+      "ans": 0,
+      "exp": "Gestational hypertension is new-onset BP >= 140/90 mmHg appearing after 20 weeks of gestation in the absence of proteinuria or systemic end-organ signs. (Book p391)",
+      "id": "OBG-C7-003"
+    },
+    {
+      "sec": "Classification & definitions",
+      "page": 392,
+      "q": "What is the standard quantitative 24-hour urine collection cutoff for defining significant proteinuria in pre-eclampsia?",
+      "opts": [
+        ">= 300 mg of protein in a 24-hour urine collection (or spot urine protein:creatinine ratio >= 0.3 mg/mg)",
+        ">= 100 mg in 24 hours",
+        ">= 1000 mg in 24 hours",
+        ">= 30 mg in 24 hours"
+      ],
+      "ans": 0,
+      "exp": "Proteinuria is defined as >= 300 mg/24h urine protein, or a urinary protein-to-creatinine ratio (UPCR) >= 0.3 mg/mg. (Book p392)",
+      "id": "OBG-C7-004"
+    },
+    {
+      "sec": "Classification & definitions",
+      "page": 392,
+      "q": "Can a diagnosis of pre-eclampsia be established in the ABSENCE of proteinuria?",
+      "opts": [
+        "Yes, if new-onset hypertension after 20 weeks is accompanied by any severe feature (e.g., thrombocytopenia, renal insufficiency, impaired liver function, pulmonary edema)",
+        "No, proteinuria is mandatory under all definitions",
+        "Only if twin pregnancy is confirmed",
+        "Only if serum albumin is <1.0 g/dL"
+      ],
+      "ans": 0,
+      "exp": "Under revised criteria, pre-eclampsia can be diagnosed without proteinuria if new hypertension is accompanied by thrombocytopenia, elevated transaminases, renal failure, or pulmonary edema. (Book p392)",
+      "id": "OBG-C7-005"
+    },
+    {
+      "sec": "Pathophysiology",
+      "page": 396,
+      "q": "What abnormal physiological event in early placentation initiates the pathogenesis of pre-eclampsia?",
+      "opts": [
+        "Failure of the second wave of endovascular trophoblast invasion of the spiral arteries into the myometrium at 16 to 18 weeks",
+        "Excessive deep penetration of syncytiotrophoblasts into maternal pelvic veins",
+        "Total destruction of the deciduoma",
+        "Early physiological calcification of the placenta"
+      ],
+      "ans": 0,
+      "exp": "Defective secondary trophoblast invasion (16-18w) leaves spiral arteries narrow, muscular, and high-resistance, causing chronic placental hypoperfusion. (Book p396)",
+      "id": "OBG-C7-006"
+    },
+    {
+      "sec": "Pathophysiology",
+      "page": 396,
+      "q": "Which circulating anti-angiogenic factor secreted by the ischemic placenta plays a central role in widespread maternal endothelial cell injury?",
+      "opts": [
+        "Soluble fms-like tyrosine kinase-1 (sFlt-1)",
+        "Placental Growth Factor (PlGF)",
+        "Vascular Endothelial Growth Factor (VEGF)",
+        "Nitric oxide synthase"
+      ],
+      "ans": 0,
+      "exp": "sFlt-1 acts as a circulating decoy receptor that binds and neutralizes pro-angiogenic VEGF and PlGF, precipitating maternal systemic endothelial dysfunction. (Book p396)",
+      "id": "OBG-C7-007"
+    },
+    {
+      "sec": "Pathophysiology",
+      "page": 396,
+      "q": "What characteristic renal histological lesion is pathognomonic for pre-eclampsia on renal biopsy?",
+      "opts": [
+        "Glomerular capillary endotheliosis (swollen endothelial cells encroaching on the capillary lumina)",
+        "Crescentic glomerulonephritis",
+        "Kimmelstiel-Wilson nodular sclerosis",
+        "Tubulointerstitial nephritis"
+      ],
+      "ans": 0,
+      "exp": "Glomerular capillary endotheliosis, marked by endothelial swelling and subendothelial fibrinoid deposition, is the classic histological hallmark of pre-eclampsia. (Book p396)",
+      "id": "OBG-C7-008"
+    },
+    {
+      "sec": "Pathophysiology",
+      "page": 397,
+      "q": "Why does maternal blood volume exhibit a paradoxical state in severe pre-eclampsia?",
+      "opts": [
+        "Intravascular volume is contracted due to diffuse capillary leakage into the interstitial space despite total body edema",
+        "Intravascular blood volume is massively expanded by 100%",
+        "The patient experiences profound polycythemia and hypervolemia",
+        "Plasma oncotic pressure is markedly elevated"
+      ],
+      "ans": 0,
+      "exp": "Endothelial breakdown allows albumin and fluid to leak into the interstitium, causing generalized edema alongside significant intravascular hypovolemia. (Book p397)",
+      "id": "OBG-C7-009"
+    },
+    {
+      "sec": "Prediction & prophylaxis",
+      "page": 397,
+      "q": "What abnormal uterine artery Doppler finding at 20 to 24 weeks of gestation predicts an increased risk for early-onset pre-eclampsia?",
+      "opts": [
+        "Persistence of bilateral early diastolic notching and an elevated pulsatility index (PI)",
+        "Reversal of end-diastolic flow in the ductus venosus",
+        "Increased systolic flow velocity without notching",
+        "Bilateral uterine artery aneurysms"
+      ],
+      "ans": 0,
+      "exp": "Persistence of the early diastolic notch beyond 20-24 weeks indicates high resistance in the uteroplacental bed due to failure of spiral artery remodeling. (Book p397)",
+      "id": "OBG-C7-010"
+    },
+    {
+      "sec": "Prediction & prophylaxis",
+      "page": 398,
+      "q": "What clinical value does an sFlt-1 to PlGF ratio < 38 have in women presenting with suspected pre-eclampsia between 24 and 37 weeks?",
+      "opts": [
+        "A high negative predictive value (>99%) to reliably rule out the development of pre-eclampsia for up to 1 to 4 weeks",
+        "Confirms an immediate requirement for Caesarean delivery within 2 hours",
+        "Diagnoses acute fatty liver of pregnancy",
+        "Indicates fetal neural tube defect"
+      ],
+      "ans": 0,
+      "exp": "According to the PROGNOSIS trial, an sFlt-1:PlGF ratio < 38 safely rules out pre-eclampsia for up to 4 weeks, avoiding unnecessary hospital admissions. (Book p398)",
+      "id": "OBG-C7-011"
+    },
+    {
+      "sec": "Prediction & prophylaxis",
+      "page": 398,
+      "q": "When should low-dose aspirin prophylaxis (150 mg nightly) be initiated in women identified as high risk for pre-eclampsia?",
+      "opts": [
+        "Before 16 weeks of gestation (ideally between 11 and 14 weeks)",
+        "At 28 weeks of gestation",
+        "During the 36th week of gestation",
+        "Only after severe hypertension develops"
+      ],
+      "ans": 0,
+      "exp": "Initiating low-dose aspirin before 16 weeks (prior to completion of secondary trophoblast invasion) dramatically lowers the risk of preterm pre-eclampsia. (Book p398)",
+      "id": "OBG-C7-012"
+    },
+    {
+      "sec": "Prediction & prophylaxis",
+      "page": 399,
+      "q": "What is the biochemical mechanism by which low-dose aspirin prevents pre-eclampsia?",
+      "opts": [
+        "Selectively inhibits platelet cyclooxygenase (COX-1), restoring the balance between prostacyclin (vasodilator) and thromboxane A2 (vasoconstrictor)",
+        "Blocks renal sodium reabsorption like a loop diuretic",
+        "Directly binds and neutralizes placental sFlt-1",
+        "Stimulates maternal pituitary LH secretion"
+      ],
+      "ans": 0,
+      "exp": "Low-dose aspirin preferentially inhibits thromboxane A2 (platelet aggregator/vasoconstrictor) while sparing endothelial prostacyclin (vasodilator). (Book p399)",
+      "id": "OBG-C7-013"
+    },
+    {
+      "sec": "Prediction & prophylaxis",
+      "page": 399,
+      "q": "What dietary supplement is recommended by the WHO to prevent pre-eclampsia in populations with low dietary calcium intake?",
+      "opts": [
+        "Elemental Calcium 1.5 to 2.0 g/day administered orally",
+        "High-dose Vitamin E (1000 IU/day)",
+        "High-dose Vitamin C (1000 mg/day)",
+        "Fish oil omega-3 fatty acids"
+      ],
+      "ans": 0,
+      "exp": "Calcium supplementation (1.5-2.0 g/day) in calcium-deficient populations reduces the incidence of pre-eclampsia by modulating vascular smooth muscle reactivity. (Book p399)",
+      "id": "OBG-C7-014"
+    },
+    {
+      "sec": "Diagnosis & severity",
+      "page": 392,
+      "q": "Which of the following blood pressure readings meets the criteria for pre-eclampsia with SEVERE features?",
+      "opts": [
+        "Systolic BP >= 160 mmHg and/or Diastolic BP >= 110 mmHg on two occasions at least 4 hours apart while on bed rest",
+        "Systolic BP 140-150 mmHg on two occasions",
+        "Diastolic BP 90-100 mmHg on two occasions",
+        "Systolic BP 135 mmHg and diastolic BP 85 mmHg"
+      ],
+      "ans": 0,
+      "exp": "Blood pressure >= 160 mmHg systolic or >= 110 mmHg diastolic is an unequivocal severe feature of pre-eclampsia. (Book p392)",
+      "id": "OBG-C7-015"
+    },
+    {
+      "sec": "Diagnosis & severity",
+      "page": 393,
+      "q": "What platelet count threshold defines thrombocytopenia as a severe feature of pre-eclampsia?",
+      "opts": [
+        "Platelet count < 100,000 / microL",
+        "Platelet count < 150,000 / microL",
+        "Platelet count < 250,000 / microL",
+        "Platelet count < 50,000 / microL exclusively"
+      ],
+      "ans": 0,
+      "exp": "Platelets < 100,000 / microL represents a severe feature indicating progressive consumption coagulopathy and microvascular damage. (Book p393)",
+      "id": "OBG-C7-016"
+    },
+    {
+      "sec": "Diagnosis & severity",
+      "page": 393,
+      "q": "Which hepatic manifestation in pre-eclampsia is an ominous warning sign of imminent subcapsular liver hematoma rupture?",
+      "opts": [
+        "Severe, persistent epigastric or right upper quadrant pain unresponsive to analgesics",
+        "Mild painless nausea",
+        "Transient elevation of alkaline phosphatase",
+        "Pruritus without rash"
+      ],
+      "ans": 0,
+      "exp": "Severe epigastric or right upper quadrant pain results from hepatic ischemia and stretching of Glisson's capsule, heralding hepatic hematoma rupture. (Book p393)",
+      "id": "OBG-C7-017"
+    },
+    {
+      "sec": "Diagnosis & severity",
+      "page": 394,
+      "q": "Why was massive proteinuria (>5 g/24h) REMOVED from the diagnostic criteria for pre-eclampsia with severe features in modern guidelines?",
+      "opts": [
+        "Proteinuria quantity does not correlate linearly with maternal or adverse perinatal outcomes",
+        "Proteinuria cannot be measured in pregnant women",
+        "Proteinuria occurs in 100% of healthy pregnancies",
+        "Dipstick reagents are no longer manufactured"
+      ],
+      "ans": 0,
+      "exp": "ACOG and ISSHP eliminated the 5 g/24h threshold because clinical severity and adverse outcomes depend on organ perfusion, not isolated urinary protein levels. (Book p394)",
+      "id": "OBG-C7-018"
+    },
+    {
+      "sec": "Antihypertensive therapy",
+      "page": 399,
+      "q": "Within what timeframe must severe acute maternal hypertension (BP >= 160/110 mmHg) be treated in an emergency setting?",
+      "opts": [
+        "Within 30 to 60 minutes of confirmation, to prevent maternal intracerebral hemorrhage",
+        "Within 24 to 48 hours",
+        "Only after delivery of the infant",
+        "Within 1 week"
+      ],
+      "ans": 0,
+      "exp": "Severe acute hypertension is an obstetric emergency requiring pharmacological intervention within 30-60 minutes to avert hemorrhagic stroke. (Book p399)",
+      "id": "OBG-C7-019"
+    },
+    {
+      "sec": "Antihypertensive therapy",
+      "page": 400,
+      "q": "What are the three first-line pharmacological agents recommended for acute emergency control of severe gestational hypertension?",
+      "opts": [
+        "Intravenous Labetalol, Oral Immediate-Release Nifedipine, and Intravenous Hydralazine",
+        "Enalapril, Losartan, and Spironolactone",
+        "Atenolol, Prazosin, and Reserpine",
+        "Sodium nitroprusside and Furosemide"
+      ],
+      "ans": 0,
+      "exp": "IV labetalol, oral rapid-acting nifedipine capsules, and IV hydralazine are the primary first-line agents for acute severe hypertension. (Book p400)",
+      "id": "OBG-C7-020"
+    },
+    {
+      "sec": "Antihypertensive therapy",
+      "page": 400,
+      "q": "What is the recommended target blood pressure range when treating acute severe pre-eclampsia?",
+      "opts": [
+        "Systolic 130 to 150 mmHg and Diastolic 80 to 100 mmHg",
+        "Systolic < 90 mmHg and Diastolic < 60 mmHg",
+        "Systolic exactly 120/80 mmHg within 5 minutes",
+        "Systolic > 160 mmHg to maintain perfusion"
+      ],
+      "ans": 0,
+      "exp": "The goal is to lower BP to 130-150 / 80-100 mmHg; overzealous reduction (<110/70) precipitates acute placental hypoperfusion and fetal distress. (Book p400)",
+      "id": "OBG-C7-021"
+    },
+    {
+      "sec": "Antihypertensive therapy",
+      "page": 400,
+      "q": "Why are Angiotensin-Converting Enzyme (ACE) Inhibitors and Angiotensin Receptor Blockers (ARBs) ABSOLUTELY CONTRAINDICATED in pregnancy?",
+      "opts": [
+        "They induce fetal renal dysgenesis, oligohydramnios, pulmonary hypoplasia, and neonatal anuric renal failure",
+        "They cause maternal gestational diabetes",
+        "They provoke severe fetal hyperthyroidism",
+        "They trigger maternal liver cirrhosis"
+      ],
+      "ans": 0,
+      "exp": "ACE inhibitors cause severe fetopathy: renal tubular dysgenesis, oligohydramnios (Potter sequence), pulmonary hypoplasia, and cranial bone hypoplasia. (Book p400)",
+      "id": "OBG-C7-022"
+    },
+    {
+      "sec": "Antihypertensive therapy",
+      "page": 400,
+      "q": "In an asthmatic pregnant patient with acute severe hypertension, which first-line antihypertensive should be avoided in favor of oral nifedipine or hydralazine?",
+      "opts": [
+        "Intravenous Labetalol (due to potential non-selective beta-blocker induced bronchospasm)",
+        "Methyldopa",
+        "Nifedipine",
+        "Hydralazine"
+      ],
+      "ans": 0,
+      "exp": "Labetalol has non-selective beta-blocking activity that can trigger life-threatening bronchospasm in active asthma or congestive heart failure. (Book p400)",
+      "id": "OBG-C7-023"
+    },
+    {
+      "sec": "Eclampsia",
+      "page": 393,
+      "q": "What defines eclampsia in a pregnant or postpartum woman?",
+      "opts": [
+        "Occurrence of new-onset generalized tonic-clonic convulsions or unexplained coma in a woman with pre-eclampsia",
+        "A transient focal motor tic without loss of consciousness",
+        "Severe hypertension with normal reflexes",
+        "A systolic blood pressure > 180 mmHg alone"
+      ],
+      "ans": 0,
+      "exp": "Eclampsia is defined as the development of grand mal convulsions or unexplained coma in a patient with pre-eclampsia, excluding other neurological causes. (Book p393)",
+      "id": "OBG-C7-024"
+    },
+    {
+      "sec": "Eclampsia",
+      "page": 393,
+      "q": "What is the correct sequential order of the four clinical stages of an eclamptic seizure?",
+      "opts": [
+        "Premonitory stage -> Tonic stage -> Clonic stage -> Stage of coma",
+        "Clonic stage -> Tonic stage -> Aura -> Recovery",
+        "Stage of coma -> Tonic stage -> Clonic stage -> Recovery",
+        "Aura -> Clonic stage -> Postictal hyperreflexia -> Coma"
+      ],
+      "ans": 0,
+      "exp": "Eclamptic convulsion progresses through: (1) Premonitory stage (20-30s), (2) Tonic stage (30s), (3) Clonic stage (1-4 min), and (4) Stage of coma. (Book p393)",
+      "id": "OBG-C7-025"
+    },
+    {
+      "sec": "Eclampsia",
+      "page": 394,
+      "q": "During an active eclamptic seizure, what is the immediate priority for the attending obstetric team?",
+      "opts": [
+        "Protect airway, place patient in left lateral position, administer oxygen, and prevent physical trauma while preparing IV magnesium sulfate",
+        "Perform an immediate bedside emergency Caesarean section on the bed",
+        "Administer high-dose intravenous diuretics",
+        "Restrain the extremities forcefully with leather straps"
+      ],
+      "ans": 0,
+      "exp": "Airway maintenance, lateral tilt to prevent aspiration, supplemental oxygen, and seizure arrest with MgSO4 are paramount; delivery during seizure is contraindicated. (Book p394)",
+      "id": "OBG-C7-026"
+    },
+    {
+      "sec": "Eclampsia",
+      "page": 394,
+      "q": "At what time period do the majority of eclamptic seizures occur relative to delivery?",
+      "opts": [
+        "Antepartum (approx. 50%), followed by intrapartum (approx. 25-30%) and early postpartum (approx. 20-25%)",
+        "Exclusively during the postpartum period",
+        "Exclusively before 20 weeks of gestation",
+        "During second stage of labor only"
+      ],
+      "ans": 0,
+      "exp": "Most eclamptic convulsions occur antepartum (~50%), though up to a third occur intrapartum and 20-25% occur postpartum (mostly within 48 hours). (Book p394)",
+      "id": "OBG-C7-027"
+    },
+    {
+      "sec": "MgSO4 regimens & toxicity",
+      "page": 401,
+      "q": "What is the primary drug of choice for the prevention and treatment of eclamptic convulsions?",
+      "opts": [
+        "Magnesium Sulfate (MgSO4)",
+        "Diazepam",
+        "Phenytoin",
+        "Phenobarbital"
+      ],
+      "ans": 0,
+      "exp": "The landmark Collaborative Eclampsia Trial established that magnesium sulfate is vastly superior to phenytoin and diazepam for preventing recurrent seizures. (Book p401)",
+      "id": "OBG-C7-028"
+    },
+    {
+      "sec": "MgSO4 regimens & toxicity",
+      "page": 401,
+      "q": "In the Pritchard intramuscular regimen for eclampsia, what is the loading dose administered?",
+      "opts": [
+        "4 g IV (20% solution over 5-10 min) PLUS 10 g IM (5 g in each buttock as 50% solution)",
+        "2 g IV alone",
+        "20 g IV bolus immediately",
+        "10 g IV over 1 minute"
+      ],
+      "ans": 0,
+      "exp": "Pritchard loading dose: 4 g IV (20% solution) slowly plus 10 g IM (5 g of 50% solution deeply in each upper outer quadrant of the buttock). (Book p401)",
+      "id": "OBG-C7-029"
+    },
+    {
+      "sec": "MgSO4 regimens & toxicity",
+      "page": 401,
+      "q": "In the Zuspan intravenous regimen, what is the standard maintenance dose of magnesium sulfate?",
+      "opts": [
+        "1 to 2 g/hour by continuous intravenous infusion pump",
+        "5 g/hour IV infusion",
+        "10 g IM every 2 hours",
+        "0.1 g/hour IV infusion"
+      ],
+      "ans": 0,
+      "exp": "Zuspan regimen: 4 g IV loading dose over 15-20 min followed by continuous IV maintenance infusion of 1 to 2 g/hour for 24 hours. (Book p401)",
+      "id": "OBG-C7-030"
+    },
+    {
+      "sec": "MgSO4 regimens & toxicity",
+      "page": 402,
+      "q": "What is the therapeutic target serum level of magnesium for preventing eclamptic seizures?",
+      "opts": [
+        "4 to 7 mEq/L (4.8 to 8.4 mg/dL)",
+        "1 to 2 mEq/L (1.2 to 2.4 mg/dL)",
+        "10 to 12 mEq/L (12 to 14.4 mg/dL)",
+        "15 to 20 mEq/L"
+      ],
+      "ans": 0,
+      "exp": "Therapeutic anti-convulsant serum range is 4 to 7 mEq/L (4.8 - 8.4 mg/dL or 2.0 - 3.5 mmol/L). (Book p402)",
+      "id": "OBG-C7-031"
+    },
+    {
+      "sec": "MgSO4 regimens & toxicity",
+      "page": 402,
+      "q": "What is the EARLIEST clinical sign of magnesium sulfate toxicity?",
+      "opts": [
+        "Loss of deep tendon reflexes (patellar knee-jerk reflex disappears at 8-10 mEq/L)",
+        "Respiratory depression (<12 breaths/minute)",
+        "Cardiac arrest",
+        "Oliguria"
+      ],
+      "ans": 0,
+      "exp": "Loss of the patellar knee-jerk reflex occurs at serum levels of 8-10 mEq/L and precedes life-threatening respiratory depression (>12 mEq/L). (Book p402)",
+      "id": "OBG-C7-032"
+    },
+    {
+      "sec": "MgSO4 regimens & toxicity",
+      "page": 402,
+      "q": "If a patient on magnesium sulfate exhibits loss of patellar reflexes and a respiratory rate of 8 breaths/min, what is the immediate antidote?",
+      "opts": [
+        "10 mL of 10% Calcium Gluconate IV administered slowly over 10 minutes",
+        "Intravenous Naloxone 0.4 mg",
+        "Intravenous Potassium chloride 20 mEq",
+        "Intravenous Flumazenil 0.5 mg"
+      ],
+      "ans": 0,
+      "exp": "10 mL of 10% calcium gluconate (1 g) given IV over 10 minutes is the specific antidote that directly antagonizes magnesium toxicity. (Book p402)",
+      "id": "OBG-C7-033"
+    },
+    {
+      "sec": "HELLP & delivery",
+      "page": 403,
+      "q": "What does the clinical acronym HELLP syndrome stand for?",
+      "opts": [
+        "Hemolysis, Elevated Liver enzymes, Low Platelet count",
+        "Hepatic Encephalopathy, Leukopenia, Low Pulse",
+        "Hypertensive Emergency, Lung Lesion, Proteinuria",
+        "Hyperemesis, Elevated Lipids, Lactate Production"
+      ],
+      "ans": 0,
+      "exp": "HELLP denotes microangiopathic Hemolysis (MAHA), Elevated Liver enzymes (transaminases), and Low Platelets (<100,000/microL). (Book p403)",
+      "id": "OBG-C7-034"
+    },
+    {
+      "sec": "HELLP & delivery",
+      "page": 403,
+      "q": "What peripheral blood smear finding confirms microangiopathic hemolysis in HELLP syndrome?",
+      "opts": [
+        "Schistocytes (fragmented red blood cells / helmet cells) and burr cells",
+        "Hypersegmented neutrophils",
+        "Target cells exclusively",
+        "Basophilic stippling"
+      ],
+      "ans": 0,
+      "exp": "RBC fragmentation through damaged, fibrin-deposited microvasculature creates classic schistocytes, helmet cells, and elevated serum LDH. (Book p403)",
+      "id": "OBG-C7-035"
+    },
+    {
+      "sec": "HELLP & delivery",
+      "page": 404,
+      "q": "What is the definitive cure for pre-eclampsia, eclampsia, and HELLP syndrome?",
+      "opts": [
+        "Delivery of the fetus and complete removal of the placenta",
+        "Lifelong antihypertensive polypharmacy",
+        "Plasmapheresis and renal dialysis",
+        "Total bed rest until 42 weeks"
+      ],
+      "ans": 0,
+      "exp": "Placenta is the pathogenic driver; delivery of the placenta halts release of anti-angiogenic factors and resolves the endothelial cascade. (Book p404)",
+      "id": "OBG-C7-036"
+    },
+    {
+      "sec": "HELLP & delivery",
+      "page": 404,
+      "q": "In a pregnant woman with Pre-eclampsia WITHOUT severe features at 37 weeks of gestation, what is the recommended management?",
+      "opts": [
+        "Delivery (induction of labor or Caesarean as indicated)",
+        "Expectant management until 41 weeks",
+        "Immediate discharge without follow-up",
+        "Diagnostic amniocentesis"
+      ],
+      "ans": 0,
+      "exp": "At >=37 weeks (term), pre-eclampsia without severe features should be delivered because maternal/fetal risks outweigh benefits of continuation. (Book p404)",
+      "id": "OBG-C7-037"
+    },
+    {
+      "sec": "HELLP & delivery",
+      "page": 405,
+      "q": "A pregnant woman at 30 weeks of gestation is diagnosed with pre-eclampsia with severe features complicated by acute pulmonary edema and platelet count of 35,000/microL. What is the appropriate delivery timing?",
+      "opts": [
+        "Immediate stabilization and delivery regardless of gestational age",
+        "Expectant management for at least 4 more weeks",
+        "Wait until 37 weeks to ensure mature fetal size",
+        "Discharge on oral nifedipine"
+      ],
+      "ans": 0,
+      "exp": "Life-threatening maternal complications (pulmonary edema, HELLP, eclampsia, renal failure) require immediate delivery once stabilized, regardless of GA. (Book p405)",
+      "id": "OBG-C7-038"
+    }
+  ]
+}

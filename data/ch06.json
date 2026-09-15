@@ -1,0 +1,659 @@
+{
+  "chapter": 6,
+  "title": "Endocrine Disorders: Thyroid and Diabetes in Pregnancy",
+  "pageRange": "375-390",
+  "units": [
+    {
+      "id": "OBG-U6-1",
+      "ch": 6,
+      "n": 1,
+      "title": "Maternal Thyroid Physiology & Hypothyroidism",
+      "sec": "Thyroid disorders \u00b7 p375",
+      "guide": "Gestational hCG cross-reacts with TSH receptors during the first trimester, causing a physiological dip in TSH and transient thyrotoxicosis. Maternal overt hypothyroidism (TSH >=2.5 in T1, >=3.0 in T2/T3) is managed with levothyroxine, requiring a 30-50% dose escalation during pregnancy to support fetal neurocognitive development.",
+      "qs": [
+        "OBG-C6-001",
+        "OBG-C6-002",
+        "OBG-C6-003",
+        "OBG-C6-004",
+        "OBG-C6-005"
+      ]
+    },
+    {
+      "id": "OBG-U6-2",
+      "ch": 6,
+      "n": 2,
+      "title": "Gestational Hyperthyroidism & Antithyroid Protocols",
+      "sec": "Thyroid disorders \u00b7 p375",
+      "guide": "Graves' disease is the leading cause of hyperthyroidism in pregnancy. Propylthiouracil (PTU) is preferred during first-trimester organogenesis to avoid methimazole-induced embryopathy (aplasia cutis, choanal atresia), with a planned transition to methimazole in the second trimester to avoid maternal PTU hepatotoxicity.",
+      "qs": [
+        "OBG-C6-006",
+        "OBG-C6-007",
+        "OBG-C6-008",
+        "OBG-C6-009"
+      ]
+    },
+    {
+      "id": "OBG-U6-3",
+      "ch": 6,
+      "n": 3,
+      "title": "Gestational Diabetes Mellitus: Etiology & Screening",
+      "sec": "Diabetes pathophysiology \u00b7 p376-378",
+      "guide": "Placental diabetogenic hormones\u2014predominantly Human Placental Lactogen (hPL), cortisol, and progesterone\u2014peak in the late second trimester, inducing physiological peripheral insulin resistance. Under DIPSI guidelines, a non-fasting single-step 75g oral glucose challenge with a 2-hour plasma glucose >=140 mg/dL establishes the diagnosis of GDM.",
+      "qs": [
+        "OBG-C6-010",
+        "OBG-C6-011",
+        "OBG-C6-012",
+        "OBG-C6-013",
+        "OBG-C6-014"
+      ]
+    },
+    {
+      "id": "OBG-U6-4",
+      "ch": 6,
+      "n": 4,
+      "title": "White's Classification, Risk Factors & Glycemic Targets",
+      "sec": "Classification and targets \u00b7 p378-382",
+      "guide": "Priscilla White's classification stratifies pregnancy diabetes: Class A1 (diet-controlled GDM), Class A2 (medication-requiring GDM), and Classes B through H denoting vascular complications. Recommended glycemic targets are fasting glucose <95 mg/dL, 1-hour postprandial <140 mg/dL, 2-hour postprandial <120 mg/dL, and HbA1c <6.0-6.5%.",
+      "qs": [
+        "OBG-C6-015",
+        "OBG-C6-016",
+        "OBG-C6-017",
+        "OBG-C6-018",
+        "OBG-C6-019"
+      ]
+    },
+    {
+      "id": "OBG-U6-5",
+      "ch": 6,
+      "n": 5,
+      "title": "Medical Nutrition Therapy & Insulin Pharmacotherapy",
+      "sec": "Diabetes management \u00b7 p381-385",
+      "guide": "Initial management of GDM begins with medical nutrition therapy for up to 2 weeks. If glycemic goals are unmet, subcutaneous insulin represents the gold standard pharmacotherapy because it does not cross the placenta; rapid-acting analogs (lispro, aspart) and basal detemir or NPH provide safe and predictable control.",
+      "qs": [
+        "OBG-C6-020",
+        "OBG-C6-021",
+        "OBG-C6-022",
+        "OBG-C6-023",
+        "OBG-C6-024"
+      ]
+    },
+    {
+      "id": "OBG-U6-6",
+      "ch": 6,
+      "n": 6,
+      "title": "Diabetic Embryopathy & Structural Malformations",
+      "sec": "Congenital anomalies \u00b7 p386-388",
+      "guide": "First-trimester maternal hyperglycemia induces oxidative stress leading to diabetic embryopathy. Sacral agenesis (caudal regression syndrome) is the most specific anomaly associated with pregestational diabetes (200-400x increased risk), while ventricular septal defect (VSD) is the most common congenital heart anomaly.",
+      "qs": [
+        "OBG-C6-025",
+        "OBG-C6-026",
+        "OBG-C6-027",
+        "OBG-C6-028",
+        "OBG-C6-029"
+      ]
+    },
+    {
+      "id": "OBG-U6-7",
+      "ch": 6,
+      "n": 7,
+      "title": "Fetal Macrosomia, Polyhydramnios & Neonatal Metabolism",
+      "sec": "Fetal and neonatal complications \u00b7 p387-390",
+      "guide": "According to the Pedersen hypothesis, maternal hyperglycemia produces fetal hyperinsulinism, driving accelerated somatic growth (macrosomia with shoulder-head disproportion), asymmetric septal cardiac hypertrophy, and polyhydramnios. Postnatal cord clamping abruptly cuts off maternal glucose, precipitating acute neonatal hypoglycemia within the first 1-2 hours of life.",
+      "qs": [
+        "OBG-C6-030",
+        "OBG-C6-031",
+        "OBG-C6-032",
+        "OBG-C6-033",
+        "OBG-C6-034"
+      ]
+    },
+    {
+      "id": "OBG-U6-8",
+      "ch": 6,
+      "n": 8,
+      "title": "Intrapartum Glycemic Control, Delivery Timing & Postpartum Follow-Up",
+      "sec": "Labor and postpartum care \u00b7 p385, 389-390",
+      "guide": "Intrapartum glucose is maintained between 80 and 110 mg/dL via insulin-dextrose infusions to prevent rebound neonatal hypoglycemia. Elective Caesarean delivery is advised if estimated fetal weight exceeds 4.5 kg to avoid shoulder dystocia. Maternal insulin requirements plummet immediately post-placental delivery, and a 75g OGTT is scheduled at 6-12 weeks postpartum.",
+      "qs": [
+        "OBG-C6-035",
+        "OBG-C6-036",
+        "OBG-C6-037",
+        "OBG-C6-038"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "sec": "Thyroid disorders",
+      "page": 375,
+      "q": "Why does maternal serum Thyroid-Stimulating Hormone (TSH) exhibit a physiological decline during the late first trimester of normal pregnancy?",
+      "opts": [
+        "Peak levels of hCG share an identical alpha-subunit with TSH and cross-stimulate thyroid TSH receptors, transiently suppressing pituitary TSH",
+        "Maternal thyroid gland undergoes extensive physiological atrophy",
+        "Placental lactogen destroys maternal pituitary thyrotrophs",
+        "Renal excretion of TSH increases ten-fold"
+      ],
+      "ans": 0,
+      "exp": "The alpha subunit of hCG is structurally homologous to TSH; high T1 hCG stimulates the thyroid, mildly suppressing pituitary TSH. (Book p375)",
+      "id": "OBG-C6-001"
+    },
+    {
+      "sec": "Thyroid disorders",
+      "page": 375,
+      "q": "What is the recommended upper normal cutoff for maternal serum TSH in the first trimester versus the second and third trimesters of pregnancy?",
+      "opts": [
+        "< 2.5 mIU/L in the first trimester; < 3.0 mIU/L in the second and third trimesters",
+        "< 5.5 mIU/L in all trimesters",
+        "< 1.0 mIU/L in all trimesters",
+        "< 10.0 mIU/L in pregnancy"
+      ],
+      "ans": 0,
+      "exp": "Gestational TSH target thresholds: < 2.5 mIU/L in T1 and < 3.0 mIU/L in T2 and T3. (Book p375)",
+      "id": "OBG-C6-002"
+    },
+    {
+      "sec": "Thyroid disorders",
+      "page": 375,
+      "q": "A pregnant woman with pre-existing hypothyroidism on levothyroxine confirms conception. How should her levothyroxine replacement dosage be adjusted?",
+      "opts": [
+        "Increase the pre-pregnancy levothyroxine dose by approximately 30% to 50% immediately upon pregnancy confirmation",
+        "Decrease the levothyroxine dose by 50% to prevent fetal thyrotoxicosis",
+        "Discontinue levothyroxine until after the first trimester",
+        "Maintain the exact same dose without repeat testing"
+      ],
+      "ans": 0,
+      "exp": "Estrogen increases thyroid-binding globulin and placental deiodinase-3 degrades T4, necessitating a 30-50% dose increase upon conception. (Book p375)",
+      "id": "OBG-C6-003"
+    },
+    {
+      "sec": "Thyroid disorders",
+      "page": 375,
+      "q": "Untreated maternal overt hypothyroidism during the first half of pregnancy is strongly associated with which serious fetal complication?",
+      "opts": [
+        "Permanent neurocognitive impairment, low IQ, and congenital cretinism",
+        "Fetal macrosomia and polycythemia",
+        "Trisomy 21 non-disjunction",
+        "Sacral agenesis"
+      ],
+      "ans": 0,
+      "exp": "The fetal thyroid only functions after 12-14 weeks; maternal T4 is vital for early fetal cerebral development, and deficiency causes neurocognitive deficits. (Book p375)",
+      "id": "OBG-C6-004"
+    },
+    {
+      "sec": "Thyroid disorders",
+      "page": 375,
+      "q": "What is the most frequent autoimmune etiology of overt hypothyroidism in pregnant women living in non-iodine-deficient geographic areas?",
+      "opts": [
+        "Hashimoto thyroiditis (chronic autoimmune thyroiditis with anti-TPO antibodies)",
+        "Subacute granulomatous thyroiditis (de Quervain)",
+        "Riedel fibrous thyroiditis",
+        "Toxic multinodular goiter"
+      ],
+      "ans": 0,
+      "exp": "Hashimoto's thyroiditis (marked by anti-thyroid peroxidase and anti-thyroglobulin antibodies) is the leading cause of gestational hypothyroidism. (Book p375)",
+      "id": "OBG-C6-005"
+    },
+    {
+      "sec": "Thyroid disorders",
+      "page": 375,
+      "q": "What is the antithyroid drug of choice during the FIRST TRIMESTER of pregnancy for managing Graves' disease?",
+      "opts": [
+        "Propylthiouracil (PTU), to minimize the risk of methimazole-associated embryopathy",
+        "Methimazole, because it never crosses the placenta",
+        "Radioactive Iodine (I-131)",
+        "Subtotal thyroidectomy"
+      ],
+      "ans": 0,
+      "exp": "PTU is preferred in the 1st trimester because methimazole causes congenital malformations like aplasia cutis and choanal atresia. (Book p375)",
+      "id": "OBG-C6-006"
+    },
+    {
+      "sec": "Thyroid disorders",
+      "page": 375,
+      "q": "Why is the patient transitioned from Propylthiouracil (PTU) to Methimazole starting in the SECOND TRIMESTER?",
+      "opts": [
+        "To protect the mother against severe PTU-induced fulminant hepatic necrosis, while organogenesis is complete",
+        "Because PTU stops functioning after 14 weeks",
+        "Because methimazole is cheaper in late pregnancy",
+        "To induce fetal lung maturity"
+      ],
+      "ans": 0,
+      "exp": "PTU carries an FDA black-box warning for lethal maternal hepatotoxicity; once organogenesis concludes, switching to methimazole is safer. (Book p375)",
+      "id": "OBG-C6-007"
+    },
+    {
+      "sec": "Thyroid disorders",
+      "page": 375,
+      "q": "Why is Radioactive Iodine (I-131) therapy ABSOLUTELY CONTRAINDICATED throughout pregnancy?",
+      "opts": [
+        "It readily crosses the placenta and permanently ablates the fetal thyroid gland, causing severe congenital hypothyroidism",
+        "It triggers immediate uterine hyperstimulation and rupture",
+        "It causes maternal acute pancreatitis",
+        "It blocks placental glucose transfer"
+      ],
+      "ans": 0,
+      "exp": "I-131 crosses the placenta, is avidly taken up by the fetal thyroid after 10-12 weeks, and destroys it, causing severe cretinism. (Book p375)",
+      "id": "OBG-C6-008"
+    },
+    {
+      "sec": "Thyroid disorders",
+      "page": 375,
+      "q": "A pregnant woman with Graves' disease presents with high fever, delirium, tachycardia (>140 bpm), and jaundice. What acute life-threatening endocrine emergency is this, and what is the initial drug of choice?",
+      "opts": [
+        "Thyroid storm; managed with intravenous PTU, Lugol's iodine, beta-blockers, and hydrocortisone",
+        "Diabetic ketoacidosis; managed with insulin",
+        "Eclampsia; managed with magnesium sulfate",
+        "AFLP; managed with immediate delivery"
+      ],
+      "ans": 0,
+      "exp": "Thyroid storm carries high maternal/fetal mortality; therapy combines high-dose PTU (blocks T4 synthesis/peripheral T3 conversion), iodine, steroids, and propranolol. (Book p375)",
+      "id": "OBG-C6-009"
+    },
+    {
+      "sec": "Diabetes pathophysiology",
+      "page": 376,
+      "q": "Which placental hormone is primarily responsible for the progressive peripheral maternal insulin resistance that develops during the second half of pregnancy?",
+      "opts": [
+        "Human Placental Lactogen (hPL / Human Chorionic Somatomammotropin)",
+        "Human Chorionic Gonadotropin (hCG)",
+        "Alpha-fetoprotein (AFP)",
+        "Inhibin-A"
+      ],
+      "ans": 0,
+      "exp": "Human placental lactogen (hPL), along with cortisol, progesterone, and TNF-alpha, acts as a potent anti-insulin hormone peaking at 24-28 weeks. (Book p376)",
+      "id": "OBG-C6-010"
+    },
+    {
+      "sec": "Diabetes pathophysiology",
+      "page": 377,
+      "q": "According to the Diabetes in Pregnancy Study Group India (DIPSI) guidelines, how is screening and diagnosis for Gestational Diabetes Mellitus (GDM) performed?",
+      "opts": [
+        "Single-step non-fasting oral administration of 75 g of glucose; plasma glucose >= 140 mg/dL at 2 hours is diagnostic of GDM",
+        "Two-step 100 g fasting test requiring 4 blood samples",
+        "Random fasting capillary blood glucose alone",
+        "Urine dipstick testing for glycosuria"
+      ],
+      "ans": 0,
+      "exp": "DIPSI criteria: single-step non-fasting 75g glucose challenge given irrespective of last meal; 2-hour venous plasma glucose >= 140 mg/dL diagnoses GDM. (Book p377)",
+      "id": "OBG-C6-011"
+    },
+    {
+      "sec": "Diabetes pathophysiology",
+      "page": 377,
+      "q": "Under IADPSG (International Association of Diabetes and Pregnancy Study Groups) criteria, GDM is diagnosed if any ONE value meets or exceeds which 75g OGTT cutoffs?",
+      "opts": [
+        "Fasting >= 92 mg/dL, 1-hour >= 180 mg/dL, or 2-hour >= 153 mg/dL",
+        "Fasting >= 126 mg/dL, 1-hour >= 200 mg/dL",
+        "Fasting >= 100 mg/dL, 2-hour >= 200 mg/dL",
+        "Fasting >= 110 mg/dL, 2-hour >= 140 mg/dL"
+      ],
+      "ans": 0,
+      "exp": "IADPSG fasting >=92 mg/dL, 1-hour >=180 mg/dL, or 2-hour >=153 mg/dL after 75g glucose load; meeting any single threshold confirms GDM. (Book p377)",
+      "id": "OBG-C6-012"
+    },
+    {
+      "sec": "Diabetes pathophysiology",
+      "page": 378,
+      "q": "At what gestational age is universal screening for Gestational Diabetes Mellitus (GDM) routinely recommended for pregnant women without prior risk factors?",
+      "opts": [
+        "Between 24 and 28 weeks of gestation",
+        "At 6 to 8 weeks of gestation",
+        "At 36 weeks of gestation",
+        "During active labor only"
+      ],
+      "ans": 0,
+      "exp": "Universal GDM testing is scheduled between 24 and 28 weeks, when placental anti-insulin hormone secretion surges. (Book p378)",
+      "id": "OBG-C6-013"
+    },
+    {
+      "sec": "Diabetes pathophysiology",
+      "page": 378,
+      "q": "If a pregnant woman possesses high-risk features for diabetes (e.g., prior GDM, BMI >30, polycystic ovarian syndrome, family history), when should she be screened?",
+      "opts": [
+        "At the very first antenatal booking visit, repeating at 24-28 weeks if initially negative",
+        "Only after 32 weeks",
+        "Only if polyhydramnios develops",
+        "Never before labor"
+      ],
+      "ans": 0,
+      "exp": "High-risk women should undergo early testing at the initial booking visit to detect undiagnosed pre-existing diabetes; if negative, retest at 24-28w. (Book p378)",
+      "id": "OBG-C6-014"
+    },
+    {
+      "sec": "Classification and targets",
+      "page": 378,
+      "q": "In Priscilla White's classification of diabetes in pregnancy, what distinguishes Class A1 from Class A2 gestational diabetes?",
+      "opts": [
+        "Class A1 is diet-controlled GDM; Class A2 requires pharmacological therapy (insulin or oral hypoglycemics)",
+        "Class A1 develops before pregnancy; Class A2 develops during pregnancy",
+        "Class A1 has diabetic nephropathy; Class A2 has retinopathy",
+        "Class A1 is treated with dialysis"
+      ],
+      "ans": 0,
+      "exp": "Class A1 represents GDM well-controlled with medical nutrition therapy alone; Class A2 represents GDM requiring medications. (Book p378)",
+      "id": "OBG-C6-015"
+    },
+    {
+      "sec": "Classification and targets",
+      "page": 378,
+      "q": "In White's classification, which subclass indicates diabetes complicated by proliferative diabetic retinopathy?",
+      "opts": [
+        "Class R",
+        "Class F (Nephropathy)",
+        "Class H (Cardiopathy)",
+        "Class T (Renal transplant)"
+      ],
+      "ans": 0,
+      "exp": "Class R denotes diabetic retinopathy, Class F denotes nephropathy (proteinuria >500 mg/d), and Class H denotes coronary artery disease. (Book p378)",
+      "id": "OBG-C6-016"
+    },
+    {
+      "sec": "Classification and targets",
+      "page": 379,
+      "q": "Diabetic Ketoacidosis (DKA) in pregnant women is a medical emergency that differs from the non-pregnant state because it:",
+      "opts": [
+        "Can develop rapidly at significantly lower, near-normal blood glucose levels (euglycemic DKA with glucose < 200 mg/dL)",
+        "Never occurs during pregnancy",
+        "Carries a 0% fetal mortality rate",
+        "Is caused by excess insulin administration"
+      ],
+      "ans": 0,
+      "exp": "Gestational DKA occurs at lower glucose levels (<200 mg/dL) due to respiratory alkalosis and rapid ketogenesis, carrying a 20-30% fetal mortality. (Book p379)",
+      "id": "OBG-C6-017"
+    },
+    {
+      "sec": "Classification and targets",
+      "page": 381,
+      "q": "What are the recommended maternal home blood glucose monitoring targets for a woman with gestational diabetes?",
+      "opts": [
+        "Fasting < 95 mg/dL; 1-hour postprandial < 140 mg/dL; 2-hour postprandial < 120 mg/dL",
+        "Fasting < 126 mg/dL; postprandial < 200 mg/dL",
+        "Fasting < 70 mg/dL; postprandial < 90 mg/dL",
+        "Fasting < 110 mg/dL; postprandial < 160 mg/dL"
+      ],
+      "ans": 0,
+      "exp": "ACOG/ADA gestational targets: fasting < 95 mg/dL, 1-hour postprandial < 140 mg/dL, and 2-hour postprandial < 120 mg/dL. (Book p381)",
+      "id": "OBG-C6-018"
+    },
+    {
+      "sec": "Classification and targets",
+      "page": 382,
+      "q": "What target Glycated Hemoglobin (HbA1c) level is recommended during pregnancy to minimize risks of congenital malformations and fetal macrosomia?",
+      "opts": [
+        "HbA1c < 6.0% to 6.5%",
+        "HbA1c < 8.5%",
+        "HbA1c < 10.0%",
+        "HbA1c between 7.5% and 8.0%"
+      ],
+      "ans": 0,
+      "exp": "An HbA1c < 6.0-6.5% achieves optimal perinatal outcomes without inducing maternal hypoglycemic episodes. (Book p382)",
+      "id": "OBG-C6-019"
+    },
+    {
+      "sec": "Diabetes management",
+      "page": 381,
+      "q": "When Gestational Diabetes Mellitus is newly diagnosed, what is the initial management step before starting pharmacological therapy?",
+      "opts": [
+        "Medical Nutrition Therapy (MNT) and moderate exercise for 1 to 2 weeks",
+        "Immediate initiation of high-dose intravenous insulin",
+        "Emergency elective Caesarean section",
+        "Total caloric starvation (<800 kcal/day)"
+      ],
+      "ans": 0,
+      "exp": "First-line management is MNT (30 kcal/kg/day, balanced complex carbohydrates) with lifestyle modification for up to 2 weeks. (Book p381)",
+      "id": "OBG-C6-020"
+    },
+    {
+      "sec": "Diabetes management",
+      "page": 383,
+      "q": "Why is a complex carbohydrate bedtime snack recommended for pregnant women with diabetes managed on insulin?",
+      "opts": [
+        "To prevent nocturnal hypoglycemia and subsequent rebound morning ketosis / Somogyi effect",
+        "To induce daytime fetal sleep",
+        "To stimulate placental lactogen production",
+        "To accelerate gastric emptying"
+      ],
+      "ans": 0,
+      "exp": "A bedtime protein-carbohydrate snack prevents overnight fasting hypoglycemia and starvation ketonuria during the long sleeping interval. (Book p383)",
+      "id": "OBG-C6-021"
+    },
+    {
+      "sec": "Diabetes management",
+      "page": 384,
+      "q": "What is the pharmacological DRUG OF CHOICE for managing gestational diabetes when medical nutrition therapy fails to meet glycemic targets?",
+      "opts": [
+        "Subcutaneous Insulin (does not cross the placenta)",
+        "Oral Glimepiride",
+        "SGLT-2 inhibitors (Empagliflozin)",
+        "Intravenous Glucagon"
+      ],
+      "ans": 0,
+      "exp": "Insulin is the gold standard because it effectively normalizes maternal blood glucose without crossing the placental syncytiotrophoblast. (Book p384)",
+      "id": "OBG-C6-022"
+    },
+    {
+      "sec": "Diabetes management",
+      "page": 384,
+      "q": "Which rapid-acting insulin analogs are safe and approved for mealtime glucose control during pregnancy?",
+      "opts": [
+        "Insulin Lispro and Insulin Aspart",
+        "Insulin Glulisine",
+        "Inhaled dry insulin powder",
+        "Long-acting degludec exclusively"
+      ],
+      "ans": 0,
+      "exp": "Insulin lispro and aspart are Category B rapid-acting analogs that control postprandial spikes safely in pregnancy. (Book p384)",
+      "id": "OBG-C6-023"
+    },
+    {
+      "sec": "Diabetes management",
+      "page": 385,
+      "q": "If an oral hypoglycemic agent is chosen for a patient with GDM who refuses insulin injections, which medication is most commonly prescribed?",
+      "opts": [
+        "Metformin (biguanide that crosses the placenta without adverse teratogenicity)",
+        "Chlorpropamide",
+        "Pioglitazone",
+        "Sitagliptin"
+      ],
+      "ans": 0,
+      "exp": "Metformin crosses the placenta but has an established safety profile, making it the most accepted oral alternative to insulin. (Book p385)",
+      "id": "OBG-C6-024"
+    },
+    {
+      "sec": "Congenital anomalies",
+      "page": 386,
+      "q": "What is the single MOST SPECIFIC congenital malformation associated with pre-existing maternal pregestational diabetes mellitus?",
+      "opts": [
+        "Sacral agenesis / Caudal regression syndrome (200- to 400-fold increased risk)",
+        "Anencephaly",
+        "Ventricular septal defect",
+        "Trisomy 21"
+      ],
+      "ans": 0,
+      "exp": "Sacral agenesis (caudal regression syndrome) is rare in the general population but exhibits a 200-400x increased incidence in maternal diabetes. (Book p386)",
+      "id": "OBG-C6-025"
+    },
+    {
+      "sec": "Congenital anomalies",
+      "page": 386,
+      "q": "What is the most COMMON congenital cardiovascular malformation identified in infants of diabetic mothers?",
+      "opts": [
+        "Ventricular Septal Defect (VSD)",
+        "Coarctation of the aorta",
+        "Ebstein anomaly",
+        "Tricuspid atresia"
+      ],
+      "ans": 0,
+      "exp": "VSD and transposition of the great arteries (TGA) are the most common cardiac structural malformations in maternal diabetes. (Book p386)",
+      "id": "OBG-C6-026"
+    },
+    {
+      "sec": "Congenital anomalies",
+      "page": 387,
+      "q": "Why does maternal gestational diabetes mellitus diagnosed in the late second trimester (at 26 weeks) NOT cause major structural organ malformations like neural tube or cardiac defects?",
+      "opts": [
+        "Because fetal organogenesis is completed by the end of the 8th to 10th week after fertilization",
+        "Because fetal kidneys destroy maternal glucose",
+        "Because GDM prevents all placental transfer",
+        "Because high estrogen protects embryonic organs"
+      ],
+      "ans": 0,
+      "exp": "Organogenesis occurs in the first trimester (weeks 3-8 post-fertilization); GDM develops late and causes fetal overgrowth, not organ dysgenesis. (Book p387)",
+      "id": "OBG-C6-027"
+    },
+    {
+      "sec": "Congenital anomalies",
+      "page": 387,
+      "q": "What transient cardiac structural abnormality occurs in up to 30% of infants of diabetic mothers due to fetal hyperinsulinism?",
+      "opts": [
+        "Asymmetric septal hypertrophy (hypertrophic cardiomyopathy that regresses postpartum)",
+        "Aortic valve stenosis",
+        "Truncus arteriosus",
+        "Hypoplastic left heart syndrome"
+      ],
+      "ans": 0,
+      "exp": "Fetal hyperinsulinism stimulates glycogen and fat deposition in the interventricular septum, producing transient asymmetric septal hypertrophy. (Book p387)",
+      "id": "OBG-C6-028"
+    },
+    {
+      "sec": "Congenital anomalies",
+      "page": 388,
+      "q": "What is the lifetime risk of developing Type 2 diabetes mellitus in offspring born to mothers with gestational diabetes?",
+      "opts": [
+        "Significantly elevated (approximately 1% to 3% in childhood/adolescence, rising to up to 20-40% in adult life)",
+        "Identical to 0%",
+        "100% in infancy",
+        "Reduced due to acquired immune tolerance"
+      ],
+      "ans": 0,
+      "exp": "Intrauterine exposure to hyperglycemia programmes fetal adiposity and beta-cell dysfunction, raising long-term risk of obesity and Type 2 diabetes. (Book p388)",
+      "id": "OBG-C6-029"
+    },
+    {
+      "sec": "Fetal and neonatal complications",
+      "page": 387,
+      "q": "According to the Pedersen hypothesis, what sequence of pathophysiological events explains fetal macrosomia in diabetic pregnancies?",
+      "opts": [
+        "Maternal hyperglycemia leads to fetal hyperglycemia, which triggers fetal pancreatic beta-cell hyperplasia and hyperinsulinism",
+        "Excess maternal insulin crosses the placenta and stimulates fetal bone elongation",
+        "Placental glucagon accelerates fetal lipolysis",
+        "Fetal somatostatin increases fetal growth hormone"
+      ],
+      "ans": 0,
+      "exp": "Glucose freely crosses the placenta while maternal insulin does not; fetal hyperglycemia stimulates fetal insulin, which acts as a growth hormone. (Book p387)",
+      "id": "OBG-C6-030"
+    },
+    {
+      "sec": "Fetal and neonatal complications",
+      "page": 387,
+      "q": "Fetal macrosomia in diabetic mothers is asymmetrical, featuring excessive deposition of fat over the shoulders and trunk. This disproportion significantly predisposes to:",
+      "opts": [
+        "Shoulder dystocia during vaginal delivery",
+        "Face presentation",
+        "Cranial vault fracture",
+        "Preterm premature rupture of membranes"
+      ],
+      "ans": 0,
+      "exp": "Hyperinsulinism produces disproportionate shoulder and trunk fat deposition (increased shoulder-to-head ratio), predisposing to shoulder dystocia. (Book p387)",
+      "id": "OBG-C6-031"
+    },
+    {
+      "sec": "Fetal and neonatal complications",
+      "page": 387,
+      "q": "Why is polyhydramnios frequently observed in pregnant women with poorly controlled gestational diabetes?",
+      "opts": [
+        "Fetal hyperglycemia induces osmotic diuresis, causing marked fetal polyuria into the amniotic cavity",
+        "Fetal esophageal atresia prevents fluid swallowing",
+        "Maternal amniotic fluid transudation from high blood pressure",
+        "Placental membrane tears leaking maternal serum"
+      ],
+      "ans": 0,
+      "exp": "Fetal hyperglycemia causes osmotic diuresis; increased fetal micturition elevates amniotic fluid volume, producing polyhydramnios. (Book p387)",
+      "id": "OBG-C6-032"
+    },
+    {
+      "sec": "Fetal and neonatal complications",
+      "page": 388,
+      "q": "Why do neonates of diabetic mothers rapidly develop severe hypoglycemia within the first 1 to 2 hours following birth?",
+      "opts": [
+        "Umbilical cord clamping abruptly cuts off high maternal glucose supply, while autonomous fetal hyperinsulinism persists",
+        "The neonate fails to produce glucagon permanently",
+        "The neonate's liver cannot store glycogen",
+        "Insulin is degraded in the neonatal circulation"
+      ],
+      "ans": 0,
+      "exp": "Cord severance halts maternal glucose delivery, but the infant's hypertrophied beta cells continue hypersecreting insulin, dropping blood sugar. (Book p388)",
+      "id": "OBG-C6-033"
+    },
+    {
+      "sec": "Fetal and neonatal complications",
+      "page": 388,
+      "q": "Why are neonates of diabetic mothers at increased risk of Respiratory Distress Syndrome (RDS) even when delivered near term?",
+      "opts": [
+        "High fetal insulin levels antagonize cortisol, inhibiting the synthesis of pulmonary surfactant (specifically phosphatidylglycerol)",
+        "Fetal lungs fill with amniotic glucose",
+        "Diabetic neonates lack type I pneumocytes",
+        "Fetal insulin destroys the thoracic cage"
+      ],
+      "ans": 0,
+      "exp": "Hyperinsulinism inhibits surfactant synthesis in alveolar type II pneumocytes, delaying biochemical lung maturation and predisposing to RDS. (Book p388)",
+      "id": "OBG-C6-034"
+    },
+    {
+      "sec": "Labor and postpartum care",
+      "page": 385,
+      "q": "What is the target maternal blood glucose range maintained during active labor in a diabetic patient using intravenous insulin-dextrose infusion?",
+      "opts": [
+        "80 to 110 mg/dL (or 70 to 120 mg/dL)",
+        "140 to 180 mg/dL",
+        "40 to 60 mg/dL",
+        "Above 200 mg/dL"
+      ],
+      "ans": 0,
+      "exp": "Strict intrapartum control between 80 and 110 mg/dL prevents acute intrapartum fetal acidemia and immediate post-delivery neonatal hypoglycemia. (Book p385)",
+      "id": "OBG-C6-035"
+    },
+    {
+      "sec": "Labor and postpartum care",
+      "page": 385,
+      "q": "Immediately following delivery of the placenta, how does maternal insulin requirement change in a woman with pregestational Type 1 diabetes?",
+      "opts": [
+        "Insulin requirements plummet precipitously (often decreasing by >= 50% compared to third-trimester doses)",
+        "Insulin requirements double immediately",
+        "Insulin requirements remain permanently fixed",
+        "Insulin sensitivity completely disappears"
+      ],
+      "ans": 0,
+      "exp": "Placental expulsion removes all circulating anti-insulin hormones (hPL, progesterone, cortisol), rapidly restoring maternal insulin sensitivity. (Book p385)",
+      "id": "OBG-C6-036"
+    },
+    {
+      "sec": "Labor and postpartum care",
+      "page": 389,
+      "q": "What estimated fetal weight cutoff on prenatal ultrasound justifies elective Caesarean section in a diabetic mother to prevent catastrophic brachial plexus injury?",
+      "opts": [
+        "Estimated fetal weight >= 4.5 kg (or >= 4000 g with clinical disproportion)",
+        "Estimated fetal weight >= 3.0 kg",
+        "Estimated fetal weight >= 2.5 kg",
+        "Estimated fetal weight >= 5.5 kg exclusively"
+      ],
+      "ans": 0,
+      "exp": "ACOG recommends offering elective CS when estimated fetal weight is >= 4.5 kg in diabetic mothers to avert shoulder dystocia and Erb's palsy. (Book p389)",
+      "id": "OBG-C6-037"
+    },
+    {
+      "sec": "Labor and postpartum care",
+      "page": 390,
+      "q": "For a woman diagnosed with Gestational Diabetes Mellitus during pregnancy, when and how should postpartum glycemic re-evaluation be performed?",
+      "opts": [
+        "At 6 to 12 weeks postpartum, using a standard 2-hour 75 g oral glucose tolerance test (OGTT)",
+        "At 1 week postpartum using a fasting urine dipstick",
+        "At 1 year using random blood glucose",
+        "No postpartum testing is necessary once baby is delivered"
+      ],
+      "ans": 0,
+      "exp": "A 75g 2-hour OGTT at 6-12 weeks postpartum is mandatory to identify mothers who have transitioned to impaired glucose tolerance or overt diabetes. (Book p390)",
+      "id": "OBG-C6-038"
+    }
+  ]
+}
