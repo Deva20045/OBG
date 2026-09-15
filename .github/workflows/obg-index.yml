@@ -1,0 +1,128 @@
+name: obg-index
+
+# Stage 2: build the PDF -> book-page map. The sandbox has no route to Google Drive,
+# so this GitHub-hosted runner downloads the source PDF, OCRs the running header and
+# footer of every page, and commits a machine-readable index plus strip contact sheets
+# (for visual verification by the agent in the Arena sandbox).
+on:
+  push:
+    paths:
+      - ".github/workflows/obg-index.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install tooling
+        run: |
+          python3 -m pip install --quiet --upgrade pip
+          python3 -m pip install --quiet gdown pymupdf rapidocr-onnxruntime pillow
+
+      - name: Cache source PDF
+        uses: actions/cache@v4
+        with:
+          path: work/src
+          key: obg-vol1-${{ github.run_id }}
+          restore-keys: |
+            obg-vol1-
+
+      - name: Download source PDF from Google Drive
+        run: |
+          mkdir -p work/src work/ocr work/map/sheets
+          if [ ! -s "work/src/OBG Vol. 1.pdf" ]; then
+            gdown --id 1jAz5J-HzqGo1p7MT1WmLfr6SEX7f6prr -O "work/src/OBG Vol. 1.pdf"
+          fi
+          ls -l work/src; md5sum "work/src/OBG Vol. 1.pdf"
+
+      - name: OCR running header + footer of every page
+        run: |
+          python3 - <<'PY'
+          import io, json, os, re, time
+          import fitz
+          from PIL import Image
+          import numpy as np
+          from rapidocr_onnxruntime import RapidOCR
+
+          PDF = "work/src/OBG Vol. 1.pdf"
+          DPI = 150
+          ocr = RapidOCR()
+          doc = fitz.open(PDF)
+          n = doc.page_count
+          rows = []
+          sheets = []
+          strip_rows = []
+          t0 = time.time()
+          for i in range(n):
+              page = doc[i]
+              pix = page.get_pixmap(dpi=DPI, colorspace=fitz.csGRAY)
+              img = Image.open(io.BytesIO(pix.tobytes("png"))).convert("RGB")
+              W, H = img.size
+              top = img.crop((0, 0, W, int(H * 0.16)))
+              bot = img.crop((0, int(H * 0.86), W, H))
+              res_t = ocr(np.array(top))
+              res_b = ocr(np.array(bot))
+              def lines(res):
+                  out = []
+                  if res and res[0]:
+                      for box, txt, score in res[0]:
+                          y = sum(p[1] for p in box) / 4.0
+                          x = sum(p[0] for p in box) / 4.0
+                          out.append((y, x, txt.strip()))
+                  out.sort()
+                  return [f"{t}" for _, _, t in out if t]
+              lt, lb = lines(res_t), lines(res_b)
+              txt_t = " | ".join(lt)
+              txt_b = " | ".join(lb)
+              nums = re.findall(r"\b(\d{1,3})\b", txt_t)
+              rows.append((i + 1, txt_t, txt_b, ",".join(nums[:3])))
+              os.makedirs("work/ocr", exist_ok=True)
+              with open(f"work/ocr/hdr{i+1:03d}.txt", "w") as fh:
+                  fh.write(f"top: {txt_t}\nbottom: {txt_b}\n")
+              strip_rows.append((top, bot))
+              if len(strip_rows) == 28:
+                  sheets.append((i + 1 - 27, i + 1, strip_rows))
+                  strip_rows = []
+              if (i + 1) % 20 == 0:
+                  print(f"{i+1}/{n} pages, {time.time()-t0:.0f}s", flush=True)
+          if strip_rows:
+              sheets.append((n - len(strip_rows) + 1, n, strip_rows))
+          # contact sheets: pairs of (top strip, footer strip) stacked vertically
+          for k, (a, b, rs) in enumerate(sheets, 1):
+              wmax = max(r[0].size[0] for r in rs)
+              rows_img = []
+              for top, bot in rs:
+                  if top.size[0] != wmax:
+                      top = top.resize((wmax, int(top.size[1] * wmax / top.size[0])))
+                  if bot.size[0] != wmax:
+                      bot = bot.resize((wmax, int(bot.size[1] * wmax / bot.size[0])))
+                  rows_img.append(top); rows_img.append(bot)
+              hgt = sum(r.size[1] for r in rows_img)
+              sheet = Image.new("RGB", (wmax, hgt), "white")
+              y = 0
+              for r in rows_img:
+                  sheet.paste(r, (0, y)); y += r.size[1]
+              name = f"work/map/sheets/s{k:02d}_pdf{a}-{b}.jpg"
+              sheet.save(name, quality=72)
+              print("sheet", name, sheet.size, flush=True)
+          with open("work/map/index.tsv", "w") as fh:
+              fh.write("pdf\tnum_guess\ttop_text\tbottom_text\n")
+              for p, t, b, nums in rows:
+                  fh.write(f"{p}\t{nums}\t{t}\t{b}\n")
+          print("done", time.time() - t0)
+          PY
+
+      - name: Commit index
+        run: |
+          git config user.email "obg-bot@users.noreply.github.com"
+          git config user.name "obg-index"
+          git add -A work/map work/ocr
+          git commit -m "map: OCR index of every page header/footer + verification sheets" || echo "nothing to commit"
+          git push
