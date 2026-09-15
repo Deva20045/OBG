@@ -1,0 +1,2959 @@
+{
+  "chapter": 6,
+  "title": "Thyroid, Diabetes & Shoulder Dystocia",
+  "pageRange": "375-389",
+  "units": [
+    {
+      "id": "OBG-U6-1",
+      "ch": 6,
+      "n": 1,
+      "title": "Thyroid physiology → Hypothyroidism",
+      "sec": "Thyroid changes · p375",
+      "guide": "Pregnancy alters thyroid binding and total hormone measurements while preserving a euthyroid free-hormone state. Learn fetal dependence on maternal thyroxine early in gestation, then distinguish hypothyroid replacement from trimester-specific antithyroid therapy. Focus for this checkpoint: Thyroid physiology, Fetal thyroid, Hypothyroidism.",
+      "qs": [
+        "OBG-C6-001",
+        "OBG-C6-002",
+        "OBG-C6-003",
+        "OBG-C6-004",
+        "OBG-C6-005",
+        "OBG-C6-006",
+        "OBG-C6-007",
+        "OBG-C6-008",
+        "OBG-C6-009"
+      ]
+    },
+    {
+      "id": "OBG-U6-2",
+      "ch": 6,
+      "n": 2,
+      "title": "Hyperthyroidism & Thyroid storm",
+      "sec": "Thyroid changes · p375",
+      "guide": "Pregnancy alters thyroid binding and total hormone measurements while preserving a euthyroid free-hormone state. Learn fetal dependence on maternal thyroxine early in gestation, then distinguish hypothyroid replacement from trimester-specific antithyroid therapy. Focus for this checkpoint: Hyperthyroidism, Thyroid storm.",
+      "qs": [
+        "OBG-C6-010",
+        "OBG-C6-011",
+        "OBG-C6-012",
+        "OBG-C6-013",
+        "OBG-C6-014"
+      ]
+    },
+    {
+      "id": "OBG-U6-3",
+      "ch": 6,
+      "n": 3,
+      "title": "Diabetes physiology & Placental transfer",
+      "sec": "Diabetes physiology · p376-377",
+      "guide": "As placental hormones rise, pregnancy becomes progressively insulin resistant. Separate pregestational diabetes from gestational diabetes by timing, congenital-malformation risk, resolution after birth, and treatment class. Focus for this checkpoint: Diabetes physiology, Placental transfer.",
+      "qs": [
+        "OBG-C6-015",
+        "OBG-C6-016",
+        "OBG-C6-017",
+        "OBG-C6-018",
+        "OBG-C6-019",
+        "OBG-C6-020",
+        "OBG-C6-021",
+        "OBG-C6-022",
+        "OBG-C6-023"
+      ]
+    },
+    {
+      "id": "OBG-U6-4",
+      "ch": 6,
+      "n": 4,
+      "title": "Diabetes classification → GDM timing",
+      "sec": "Diabetes physiology · p376-377",
+      "guide": "As placental hormones rise, pregnancy becomes progressively insulin resistant. Separate pregestational diabetes from gestational diabetes by timing, congenital-malformation risk, resolution after birth, and treatment class. Focus for this checkpoint: Diabetes classification, White classification, GDM timing.",
+      "qs": [
+        "OBG-C6-024",
+        "OBG-C6-025",
+        "OBG-C6-026",
+        "OBG-C6-027",
+        "OBG-C6-028",
+        "OBG-C6-029",
+        "OBG-C6-030"
+      ]
+    },
+    {
+      "id": "OBG-U6-5",
+      "ch": 6,
+      "n": 5,
+      "title": "GDM follow-up → Diabetes management",
+      "sec": "Diabetes physiology · p376-377",
+      "guide": "As placental hormones rise, pregnancy becomes progressively insulin resistant. Separate pregestational diabetes from gestational diabetes by timing, congenital-malformation risk, resolution after birth, and treatment class. Focus for this checkpoint: GDM follow-up, Diabetes imaging, Diabetes management.",
+      "qs": [
+        "OBG-C6-031",
+        "OBG-C6-032",
+        "OBG-C6-033"
+      ]
+    },
+    {
+      "id": "OBG-U6-6",
+      "ch": 6,
+      "n": 6,
+      "title": "Pregestational diabetes & HbA1c and anomalies",
+      "sec": "Pregestational diabetes · p378",
+      "guide": "Pregestational diabetes is identified by overt glycemic thresholds and requires early anomaly-focused assessment. Master the HbA1c risk bands, key cardiac associations, and prevention before conception. Focus for this checkpoint: Pregestational diabetes, HbA1c and anomalies.",
+      "qs": [
+        "OBG-C6-034",
+        "OBG-C6-035",
+        "OBG-C6-036",
+        "OBG-C6-037",
+        "OBG-C6-038",
+        "OBG-C6-039",
+        "OBG-C6-040"
+      ]
+    },
+    {
+      "id": "OBG-U6-7",
+      "ch": 6,
+      "n": 7,
+      "title": "Diabetes imaging → Preconception prevention",
+      "sec": "Pregestational diabetes · p378",
+      "guide": "Pregestational diabetes is identified by overt glycemic thresholds and requires early anomaly-focused assessment. Master the HbA1c risk bands, key cardiac associations, and prevention before conception. Focus for this checkpoint: Diabetes imaging, Congenital anomalies, Preconception prevention.",
+      "qs": [
+        "OBG-C6-041",
+        "OBG-C6-042",
+        "OBG-C6-043",
+        "OBG-C6-044",
+        "OBG-C6-045",
+        "OBG-C6-046",
+        "OBG-C6-047",
+        "OBG-C6-048"
+      ]
+    },
+    {
+      "id": "OBG-U6-8",
+      "ch": 6,
+      "n": 8,
+      "title": "Pre-GDM complications & Antenatal surveillance",
+      "sec": "Pre-GDM follow-up · p379-380",
+      "guide": "A pregestational-diabetes pregnancy needs structured antenatal, eye, urinary, fetal, and Doppler surveillance. Link each test to its purpose, then apply the delivery plan and preventive measures. Focus for this checkpoint: Pre-GDM complications, Antenatal surveillance.",
+      "qs": [
+        "OBG-C6-049",
+        "OBG-C6-050",
+        "OBG-C6-051",
+        "OBG-C6-052",
+        "OBG-C6-053",
+        "OBG-C6-054",
+        "OBG-C6-055"
+      ]
+    },
+    {
+      "id": "OBG-U6-9",
+      "ch": 6,
+      "n": 9,
+      "title": "Diabetes imaging → Pre-GDM treatment",
+      "sec": "Pre-GDM follow-up · p379-380",
+      "guide": "A pregestational-diabetes pregnancy needs structured antenatal, eye, urinary, fetal, and Doppler surveillance. Link each test to its purpose, then apply the delivery plan and preventive measures. Focus for this checkpoint: Diabetes imaging, Antenatal surveillance, Fetal surveillance, Doppler, Pre-GDM treatment.",
+      "qs": [
+        "OBG-C6-056",
+        "OBG-C6-057",
+        "OBG-C6-058",
+        "OBG-C6-059",
+        "OBG-C6-060",
+        "OBG-C6-061",
+        "OBG-C6-062",
+        "OBG-C6-063"
+      ]
+    },
+    {
+      "id": "OBG-U6-10",
+      "ch": 6,
+      "n": 10,
+      "title": "Delivery timing & Delivery planning",
+      "sec": "Pre-GDM follow-up · p379-380",
+      "guide": "A pregestational-diabetes pregnancy needs structured antenatal, eye, urinary, fetal, and Doppler surveillance. Link each test to its purpose, then apply the delivery plan and preventive measures. Focus for this checkpoint: Delivery timing, Delivery planning.",
+      "qs": [
+        "OBG-C6-064",
+        "OBG-C6-065",
+        "OBG-C6-066"
+      ]
+    },
+    {
+      "id": "OBG-U6-11",
+      "ch": 6,
+      "n": 11,
+      "title": "GDM features → DIPSI procedure",
+      "sec": "GDM testing & goals · p381-382",
+      "guide": "Use the nonfasting DIPSI screening pathway at the right visit and interpret 2-hour values correctly. Then connect glucose strata to nutrition, insulin, follow-up frequency, and Government of India treatment guidance. Focus for this checkpoint: GDM features, GDM investigations, DIPSI screening, DIPSI procedure.",
+      "qs": [
+        "OBG-C6-067",
+        "OBG-C6-068",
+        "OBG-C6-069",
+        "OBG-C6-070",
+        "OBG-C6-071",
+        "OBG-C6-072",
+        "OBG-C6-073",
+        "OBG-C6-074",
+        "OBG-C6-075",
+        "OBG-C6-076"
+      ]
+    },
+    {
+      "id": "OBG-U6-12",
+      "ch": 6,
+      "n": 12,
+      "title": "DIPSI procedure → GDM management",
+      "sec": "GDM testing & goals · p381-382",
+      "guide": "Use the nonfasting DIPSI screening pathway at the right visit and interpret 2-hour values correctly. Then connect glucose strata to nutrition, insulin, follow-up frequency, and Government of India treatment guidance. Focus for this checkpoint: DIPSI procedure, DIPSI interpretation, GDM management.",
+      "qs": [
+        "OBG-C6-077",
+        "OBG-C6-078",
+        "OBG-C6-079",
+        "OBG-C6-080",
+        "OBG-C6-081",
+        "OBG-C6-082",
+        "OBG-C6-083"
+      ]
+    },
+    {
+      "id": "OBG-U6-13",
+      "ch": 6,
+      "n": 13,
+      "title": "GDM targets → GDM follow-up → GOI GDM guidance",
+      "sec": "GDM testing & goals · p381-382",
+      "guide": "Use the nonfasting DIPSI screening pathway at the right visit and interpret 2-hour values correctly. Then connect glucose strata to nutrition, insulin, follow-up frequency, and Government of India treatment guidance. Focus for this checkpoint: GDM targets, GDM management, GDM follow-up. It also includes GOI GDM guidance.",
+      "qs": [
+        "OBG-C6-084",
+        "OBG-C6-085",
+        "OBG-C6-086",
+        "OBG-C6-087",
+        "OBG-C6-088",
+        "OBG-C6-089",
+        "OBG-C6-090",
+        "OBG-C6-091"
+      ]
+    },
+    {
+      "id": "OBG-U6-14",
+      "ch": 6,
+      "n": 14,
+      "title": "Medical nutrition therapy & Metformin",
+      "sec": "GDM nutrition and OHAs · p383",
+      "guide": "Diet is structured, not restrictive: balance macronutrients, spread intake through the day, and adjust calories to BMI. Know where metformin and glyburide fit, including practical dose ceilings and adverse effects. Focus for this checkpoint: Medical nutrition therapy, Metformin.",
+      "qs": [
+        "OBG-C6-092",
+        "OBG-C6-093",
+        "OBG-C6-094",
+        "OBG-C6-095",
+        "OBG-C6-096",
+        "OBG-C6-097",
+        "OBG-C6-098",
+        "OBG-C6-099",
+        "OBG-C6-100",
+        "OBG-C6-101"
+      ]
+    },
+    {
+      "id": "OBG-U6-15",
+      "ch": 6,
+      "n": 15,
+      "title": "Metformin & Glyburide",
+      "sec": "GDM nutrition and OHAs · p383",
+      "guide": "Diet is structured, not restrictive: balance macronutrients, spread intake through the day, and adjust calories to BMI. Know where metformin and glyburide fit, including practical dose ceilings and adverse effects. Focus for this checkpoint: Metformin, Glyburide.",
+      "qs": [
+        "OBG-C6-102",
+        "OBG-C6-103",
+        "OBG-C6-104"
+      ]
+    },
+    {
+      "id": "OBG-U6-16",
+      "ch": 6,
+      "n": 16,
+      "title": "Insulin basics → Insulin dosing",
+      "sec": "Diabetes treatment algorithm · p384-385",
+      "guide": "Insulin is the core therapy when glucose targets require it. Learn the premix formulation, dose-adjustment algorithm, delivery thresholds, labor fluid-insulin table, and the different postnatal plans for GDM versus pre-GDM. Focus for this checkpoint: Insulin basics, Insulin requirements, Insulin administration, Insulin dosing.",
+      "qs": [
+        "OBG-C6-105",
+        "OBG-C6-106",
+        "OBG-C6-107",
+        "OBG-C6-108",
+        "OBG-C6-109",
+        "OBG-C6-110",
+        "OBG-C6-111",
+        "OBG-C6-112",
+        "OBG-C6-113"
+      ]
+    },
+    {
+      "id": "OBG-U6-17",
+      "ch": 6,
+      "n": 17,
+      "title": "Insulin titration → Intrapartum diabetes",
+      "sec": "Diabetes treatment algorithm · p384-385",
+      "guide": "Insulin is the core therapy when glucose targets require it. Learn the premix formulation, dose-adjustment algorithm, delivery thresholds, labor fluid-insulin table, and the different postnatal plans for GDM versus pre-GDM. Focus for this checkpoint: Insulin titration, Delivery timing, Intrapartum diabetes.",
+      "qs": [
+        "OBG-C6-114",
+        "OBG-C6-115",
+        "OBG-C6-116",
+        "OBG-C6-117",
+        "OBG-C6-118",
+        "OBG-C6-119",
+        "OBG-C6-120",
+        "OBG-C6-121",
+        "OBG-C6-122",
+        "OBG-C6-123"
+      ]
+    },
+    {
+      "id": "OBG-U6-18",
+      "ch": 6,
+      "n": 18,
+      "title": "Intrapartum diabetes → Postpartum pre-GDM",
+      "sec": "Diabetes treatment algorithm · p384-385",
+      "guide": "Insulin is the core therapy when glucose targets require it. Learn the premix formulation, dose-adjustment algorithm, delivery thresholds, labor fluid-insulin table, and the different postnatal plans for GDM versus pre-GDM. Focus for this checkpoint: Intrapartum diabetes, Postpartum GDM, Postpartum pre-GDM.",
+      "qs": [
+        "OBG-C6-124",
+        "OBG-C6-125",
+        "OBG-C6-126",
+        "OBG-C6-127",
+        "OBG-C6-128",
+        "OBG-C6-129",
+        "OBG-C6-130"
+      ]
+    },
+    {
+      "id": "OBG-U6-19",
+      "ch": 6,
+      "n": 19,
+      "title": "Maternal diabetes complications & Hypoglycemia",
+      "sec": "Diabetes complications · p386-388",
+      "guide": "Trace maternal hyperglycemia through infection, fluid, placental, and eye complications, then map the fetal and neonatal effects of fetal hyperinsulinemia. Finish with the practical lung-maturity tests and their thresholds. Focus for this checkpoint: Maternal diabetes complications, Hypoglycemia.",
+      "qs": [
+        "OBG-C6-131",
+        "OBG-C6-132",
+        "OBG-C6-133",
+        "OBG-C6-134",
+        "OBG-C6-135",
+        "OBG-C6-136",
+        "OBG-C6-137",
+        "OBG-C6-138"
+      ]
+    },
+    {
+      "id": "OBG-U6-20",
+      "ch": 6,
+      "n": 20,
+      "title": "Pedersen hypothesis & Fetal diabetes complications",
+      "sec": "Diabetes complications · p386-388",
+      "guide": "Trace maternal hyperglycemia through infection, fluid, placental, and eye complications, then map the fetal and neonatal effects of fetal hyperinsulinemia. Finish with the practical lung-maturity tests and their thresholds. Focus for this checkpoint: Pedersen hypothesis, Fetal diabetes complications.",
+      "qs": [
+        "OBG-C6-139",
+        "OBG-C6-140",
+        "OBG-C6-141",
+        "OBG-C6-142",
+        "OBG-C6-143",
+        "OBG-C6-144",
+        "OBG-C6-145",
+        "OBG-C6-146"
+      ]
+    },
+    {
+      "id": "OBG-U6-21",
+      "ch": 6,
+      "n": 21,
+      "title": "Neonatal diabetes complications → Lung maturity testing",
+      "sec": "Diabetes complications · p386-388",
+      "guide": "Trace maternal hyperglycemia through infection, fluid, placental, and eye complications, then map the fetal and neonatal effects of fetal hyperinsulinemia. Finish with the practical lung-maturity tests and their thresholds. Focus for this checkpoint: Neonatal diabetes complications, Late child outcomes, Lung maturity testing.",
+      "qs": [
+        "OBG-C6-147",
+        "OBG-C6-148",
+        "OBG-C6-149",
+        "OBG-C6-150",
+        "OBG-C6-151",
+        "OBG-C6-152",
+        "OBG-C6-153",
+        "OBG-C6-154",
+        "OBG-C6-155",
+        "OBG-C6-156"
+      ]
+    },
+    {
+      "id": "OBG-U6-22",
+      "ch": 6,
+      "n": 22,
+      "title": "Lung maturity testing",
+      "sec": "Diabetes complications · p386-388",
+      "guide": "Trace maternal hyperglycemia through infection, fluid, placental, and eye complications, then map the fetal and neonatal effects of fetal hyperinsulinemia. Finish with the practical lung-maturity tests and their thresholds. Focus for this checkpoint: Lung maturity testing.",
+      "qs": [
+        "OBG-C6-157",
+        "OBG-C6-158",
+        "OBG-C6-159",
+        "OBG-C6-160"
+      ]
+    },
+    {
+      "id": "OBG-U6-23",
+      "ch": 6,
+      "n": 23,
+      "title": "Shoulder dystocia → McRoberts maneuver",
+      "sec": "Shoulder dystocia · p388-389",
+      "guide": "Shoulder dystocia is an obstetric emergency with a recognizable turtle sign. Memorize the HELPERR-style escalation, the mechanics of McRoberts and internal rotations, prohibited fundal pressure, and maternal-fetal complications. Focus for this checkpoint: Shoulder dystocia, Shoulder dystocia management, McRoberts maneuver.",
+      "qs": [
+        "OBG-C6-161",
+        "OBG-C6-162",
+        "OBG-C6-163",
+        "OBG-C6-164",
+        "OBG-C6-165",
+        "OBG-C6-166",
+        "OBG-C6-167"
+      ]
+    },
+    {
+      "id": "OBG-U6-24",
+      "ch": 6,
+      "n": 24,
+      "title": "Shoulder dystocia management & Internal rotation",
+      "sec": "Shoulder dystocia · p388-389",
+      "guide": "Shoulder dystocia is an obstetric emergency with a recognizable turtle sign. Memorize the HELPERR-style escalation, the mechanics of McRoberts and internal rotations, prohibited fundal pressure, and maternal-fetal complications. Focus for this checkpoint: Shoulder dystocia management, Internal rotation.",
+      "qs": [
+        "OBG-C6-168",
+        "OBG-C6-169",
+        "OBG-C6-170",
+        "OBG-C6-171",
+        "OBG-C6-172",
+        "OBG-C6-173",
+        "OBG-C6-174",
+        "OBG-C6-175",
+        "OBG-C6-176"
+      ]
+    },
+    {
+      "id": "OBG-U6-25",
+      "ch": 6,
+      "n": 25,
+      "title": "Shoulder dystocia complications",
+      "sec": "Shoulder dystocia · p388-389",
+      "guide": "Shoulder dystocia is an obstetric emergency with a recognizable turtle sign. Memorize the HELPERR-style escalation, the mechanics of McRoberts and internal rotations, prohibited fundal pressure, and maternal-fetal complications. Focus for this checkpoint: Shoulder dystocia complications.",
+      "qs": [
+        "OBG-C6-177",
+        "OBG-C6-178",
+        "OBG-C6-179",
+        "OBG-C6-180"
+      ]
+    }
+  ],
+  "questions": [
+    {
+      "id": "OBG-C6-001",
+      "sec": "Thyroid physiology",
+      "page": 375,
+      "q": "How does the size of the thyroid gland normally change during pregnancy according to the notes?",
+      "opts": [
+        "It remains unchanged and goitre is expected",
+        "It doubles only in the third trimester",
+        "It increases; a goitre remains pathological",
+        "It decreases and goitre is physiological"
+      ],
+      "ans": 2,
+      "exp": "The thyroid gland increases in size in pregnancy, but goitre is still pathological. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-002",
+      "sec": "Thyroid physiology",
+      "page": 375,
+      "q": "Which thyroid profile is described as normal in pregnancy?",
+      "opts": [
+        "Overt hyperthyroid state with high free T4",
+        "Hypothyroid state with low total T4",
+        "Absent TSH secretion with low free hormones",
+        "Euthyroid state with normal free T3 and free T4"
+      ],
+      "ans": 3,
+      "exp": "Pregnancy is a euthyroid state; free T3 and free T4 remain normal. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-003",
+      "sec": "Thyroid physiology",
+      "page": 375,
+      "q": "Why do total T3 and total T4 rise in pregnancy?",
+      "opts": [
+        "Estrogen increases thyroid-binding globulin",
+        "Progesterone destroys free thyroxine",
+        "Maternal TSH crosses the placenta",
+        "The fetal thyroid produces maternal T4"
+      ],
+      "ans": 0,
+      "exp": "Estrogen raises TBG, increasing the protein-bound and therefore total T3/T4 values. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-004",
+      "sec": "Thyroid physiology",
+      "page": 375,
+      "q": "What is the recommended daily iodine intake stated for pregnancy?",
+      "opts": [
+        "500 micrograms per day",
+        "250 micrograms per day",
+        "50 micrograms per day",
+        "100 micrograms per day"
+      ],
+      "ans": 1,
+      "exp": "The stated RDA of iodine in pregnancy is 250 micrograms daily. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-005",
+      "sec": "Fetal thyroid",
+      "page": 375,
+      "q": "Before 12 weeks of gestation, fetal development depends chiefly on:",
+      "opts": [
+        "Maternal insulin crossing the placenta",
+        "Placental production of triiodothyronine",
+        "Maternal thyroxine because the fetal thyroid is not producing thyroxine",
+        "Fetal TSH crossing to the mother"
+      ],
+      "ans": 2,
+      "exp": "Before 12 weeks, fetal thyroid thyroxine production is absent, so development depends on maternal thyroxine. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-006",
+      "sec": "Fetal thyroid",
+      "page": 375,
+      "q": "At what point does fetal thyroid thyroxine production become present in the source notes?",
+      "opts": [
+        "At fertilization",
+        "At 6 weeks of gestation",
+        "Only after birth",
+        "At or after 12 weeks of gestation"
+      ],
+      "ans": 3,
+      "exp": "The fetal thyroid begins thyroxine production at or after 12 weeks. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-007",
+      "sec": "Hypothyroidism",
+      "page": 375,
+      "q": "What is the most common cause of hypothyroidism in pregnancy in these notes?",
+      "opts": [
+        "Hashimoto's thyroiditis",
+        "Graves' disease",
+        "Postpartum pituitary necrosis",
+        "Iodine-induced thyrotoxicosis"
+      ],
+      "ans": 0,
+      "exp": "Hashimoto's thyroiditis is listed as the most common cause of hypothyroidism. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-008",
+      "sec": "Hypothyroidism",
+      "page": 375,
+      "q": "Which maternal thyroid-related substance cannot cross the placenta?",
+      "opts": [
+        "Thyroxine replacement",
+        "TSH",
+        "T3",
+        "T4"
+      ],
+      "ans": 1,
+      "exp": "Maternal T3/T4 can cross the placenta, whereas maternal TSH cannot. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-009",
+      "sec": "Hypothyroidism",
+      "page": 375,
+      "q": "When a woman treated for hypothyroidism conceives, by what range should her thyroxine dose be increased according to the notes?",
+      "opts": [
+        "10–15%",
+        "70–90%",
+        "30–50%",
+        "5–10%"
+      ],
+      "ans": 2,
+      "exp": "The notes advise increasing thyroxine by 30–50% after conception in hypothyroidism. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-010",
+      "sec": "Hyperthyroidism",
+      "page": 375,
+      "q": "What is the most common cause of hyperthyroidism in pregnancy?",
+      "opts": [
+        "Hashimoto's thyroiditis",
+        "Sheehan syndrome",
+        "Pituitary adenoma",
+        "Graves' disease"
+      ],
+      "ans": 3,
+      "exp": "Graves' disease is identified as the most common cause of hyperthyroidism. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-011",
+      "sec": "Hyperthyroidism",
+      "page": 375,
+      "q": "Which antithyroid drug is preferred in the first trimester?",
+      "opts": [
+        "Propylthiouracil (PTU)",
+        "Methimazole",
+        "Carbimazole",
+        "Radioactive iodine"
+      ],
+      "ans": 0,
+      "exp": "PTU is the drug of choice in the first trimester. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-012",
+      "sec": "Hyperthyroidism",
+      "page": 375,
+      "q": "Why are methimazole and carbimazole avoided in the first trimester?",
+      "opts": [
+        "They prevent fetal thyroid formation after 20 weeks",
+        "They are associated with aplasia cutis and choanal atresia",
+        "They cause fetal renal agenesis",
+        "They cause neonatal hypoglycemia"
+      ],
+      "ans": 1,
+      "exp": "Methimazole/carbimazole are avoided in T1 because of aplasia cutis and choanal atresia risk. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-013",
+      "sec": "Hyperthyroidism",
+      "page": 375,
+      "q": "Which option is contraindicated for hyperthyroidism during pregnancy?",
+      "opts": [
+        "Methimazole in the second trimester",
+        "Propranolol for thyroid-storm symptoms",
+        "Radioactive iodine",
+        "PTU in the first trimester"
+      ],
+      "ans": 2,
+      "exp": "Radioactive iodine is contraindicated in pregnancy. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-014",
+      "sec": "Thyroid storm",
+      "page": 375,
+      "q": "In thyroid storm during pregnancy, what is the drug of choice and what is used for symptomatic control?",
+      "opts": [
+        "Methimazole and aspirin, respectively",
+        "Radioactive iodine and furosemide, respectively",
+        "Levothyroxine and magnesium sulfate, respectively",
+        "PTU and propranolol, respectively"
+      ],
+      "ans": 3,
+      "exp": "The source lists PTU as the drug of choice for thyroid storm and propranolol for symptoms. (Book p375)"
+    },
+    {
+      "id": "OBG-C6-015",
+      "sec": "Diabetes physiology",
+      "page": 376,
+      "q": "Which placental hormone is prominently associated with insulin resistance in pregnancy?",
+      "opts": [
+        "hCG alone",
+        "Oxytocin",
+        "Prolactin-inhibiting factor",
+        "Human placental lactogen (hPL)"
+      ],
+      "ans": 3,
+      "exp": "hPL is listed among the hormones associated with insulin resistance in pregnancy. (Book p376)"
+    },
+    {
+      "id": "OBG-C6-016",
+      "sec": "Diabetes physiology",
+      "page": 376,
+      "q": "Which hormone is specifically noted as NOT producing insulin resistance in pregnancy?",
+      "opts": [
+        "hCG",
+        "hPL",
+        "Estrogen",
+        "Cortisol"
+      ],
+      "ans": 0,
+      "exp": "The source distinguishes hCG as not causing insulin resistance. (Book p376)"
+    },
+    {
+      "id": "OBG-C6-017",
+      "sec": "Diabetes physiology",
+      "page": 376,
+      "q": "Significant insulin resistance in pregnancy typically develops around which gestational interval?",
+      "opts": [
+        "36–40 weeks only",
+        "24–28 weeks",
+        "4–8 weeks",
+        "10–12 weeks"
+      ],
+      "ans": 1,
+      "exp": "Significant insulin resistance develops around 24–28 weeks. (Book p376)"
+    },
+    {
+      "id": "OBG-C6-018",
+      "sec": "Diabetes physiology",
+      "page": 376,
+      "q": "Why is pregnancy described as a diabetogenic state?",
+      "opts": [
+        "Glycosuria never occurs in pregnancy",
+        "Estrogen eliminates glucose production",
+        "Progressing gestation increases hPL secretion and insulin resistance",
+        "Maternal insulin freely crosses to the fetus"
+      ],
+      "ans": 2,
+      "exp": "Increasing hPL with gestation increases insulin resistance, making pregnancy diabetogenic. (Book p376)"
+    },
+    {
+      "id": "OBG-C6-019",
+      "sec": "Placental transfer",
+      "page": 376,
+      "q": "Which pairing of placental transfer is correct?",
+      "opts": [
+        "Maternal insulin crosses; maternal glucose does not",
+        "Neither maternal glucose nor insulin crosses",
+        "Both cross equally by active transport",
+        "Maternal glucose crosses; maternal insulin does not"
+      ],
+      "ans": 3,
+      "exp": "Maternal glucose crosses the placenta, whereas maternal insulin does not. (Book p376)"
+    },
+    {
+      "id": "OBG-C6-020",
+      "sec": "Diabetes physiology",
+      "page": 376,
+      "q": "A fetus is dependent on the mother primarily for which metabolic requirement?",
+      "opts": [
+        "Glucose",
+        "Maternal insulin",
+        "Maternal ketone bodies only",
+        "Thyroid-stimulating hormone"
+      ],
+      "ans": 0,
+      "exp": "The fetus depends on maternal glucose for its glucose requirement. (Book p376)"
+    },
+    {
+      "id": "OBG-C6-021",
+      "sec": "Diabetes physiology",
+      "page": 376,
+      "q": "Which urinary finding is stated to be normal in pregnancy?",
+      "opts": [
+        "Proteinuria of any degree",
+        "Glycosuria",
+        "Persistent ketonuria",
+        "Gross hematuria"
+      ],
+      "ans": 1,
+      "exp": "Glycosuria is described as normal in pregnancy. (Book p376)"
+    },
+    {
+      "id": "OBG-C6-022",
+      "sec": "Diabetes physiology",
+      "page": 376,
+      "q": "Why should a pregnant woman with diabetes avoid fasting, vomiting, or diarrhea?",
+      "opts": [
+        "They prevent glucose transfer to the fetus",
+        "They make maternal insulin cross the placenta",
+        "They can cause hypoglycemia followed by ketone-body formation and ketosis",
+        "They always prevent insulin resistance"
+      ],
+      "ans": 2,
+      "exp": "Fasting, vomiting, or diarrhea can produce hypoglycemia, acetone bodies, and ketosis. (Book p376)"
+    },
+    {
+      "id": "OBG-C6-023",
+      "sec": "Diabetes physiology",
+      "page": 376,
+      "q": "Maternal hyperglycemia is considered fetotoxic chiefly because it promotes:",
+      "opts": [
+        "Maternal insulin transfer to the fetus",
+        "Physiological thyroid suppression",
+        "Maternal hypocalcemia alone",
+        "Free-radical formation that crosses the placenta"
+      ],
+      "ans": 3,
+      "exp": "Hyperglycemia increases free radicals that cross the placenta and contribute to congenital malformations. (Book p376)"
+    },
+    {
+      "id": "OBG-C6-024",
+      "sec": "Diabetes classification",
+      "page": 377,
+      "q": "Which description best fits pregestational diabetes?",
+      "opts": [
+        "A normoglycemic woman develops diabetes only after 24 weeks",
+        "It resolves within 6 weeks after delivery",
+        "It has no free-radical formation before organogenesis",
+        "A diabetic woman conceives and hyperglycemia is present from day 1"
+      ],
+      "ans": 3,
+      "exp": "In pregestational diabetes, the woman is diabetic at conception and blood sugar is high from day 1. (Book p377)"
+    },
+    {
+      "id": "OBG-C6-025",
+      "sec": "Diabetes classification",
+      "page": 377,
+      "q": "Why are congenital malformations characteristic of pregestational diabetes but not typical gestational diabetes?",
+      "opts": [
+        "In GDM, free radicals form after organogenesis",
+        "GDM insulin crosses the placenta",
+        "Pregestational diabetes never produces free radicals",
+        "GDM starts before implantation"
+      ],
+      "ans": 0,
+      "exp": "GDM usually develops later, with free radicals forming after organogenesis, so congenital malformations are not typical. (Book p377)"
+    },
+    {
+      "id": "OBG-C6-026",
+      "sec": "Diabetes classification",
+      "page": 377,
+      "q": "What is the usual postpartum course of gestational diabetes mellitus (GDM)?",
+      "opts": [
+        "It resolves only after insulin therapy",
+        "It resolves within 6 weeks after delivery",
+        "It invariably persists lifelong",
+        "It progresses immediately to type 1 diabetes"
+      ],
+      "ans": 1,
+      "exp": "The notes state that GDM resolves within 6 weeks postpartum. (Book p377)"
+    },
+    {
+      "id": "OBG-C6-027",
+      "sec": "White classification",
+      "page": 377,
+      "q": "In Priscilla White classification, type A diabetes in pregnancy refers to:",
+      "opts": [
+        "Type 1 diabetes with nephropathy",
+        "Thyroid disease in pregnancy",
+        "Gestational diabetes",
+        "Pregestational diabetes"
+      ],
+      "ans": 2,
+      "exp": "Type A in the Priscilla White classification denotes gestational diabetes. (Book p377)"
+    },
+    {
+      "id": "OBG-C6-028",
+      "sec": "White classification",
+      "page": 377,
+      "q": "What differentiates A1 from A2 gestational diabetes?",
+      "opts": [
+        "A1 is pregestational; A2 is gestational",
+        "A1 needs cesarean delivery; A2 never does",
+        "A1 has fetal echo; A2 has no ultrasound",
+        "A1 is diet controlled; A2 is controlled with insulin or metformin"
+      ],
+      "ans": 3,
+      "exp": "A1 GDM is diet controlled, while A2 is controlled with medication such as insulin or metformin. (Book p377)"
+    },
+    {
+      "id": "OBG-C6-029",
+      "sec": "GDM timing",
+      "page": 377,
+      "q": "GDM usually develops at what gestational age?",
+      "opts": [
+        "24–28 weeks",
+        "Before 6 weeks",
+        "At delivery",
+        "After 40 weeks"
+      ],
+      "ans": 0,
+      "exp": "GDM usually develops between 24 and 28 weeks. (Book p377)"
+    },
+    {
+      "id": "OBG-C6-030",
+      "sec": "GDM timing",
+      "page": 377,
+      "q": "GDM diagnosed before 20 weeks should generally raise suspicion for:",
+      "opts": [
+        "Rh sensitization",
+        "Pregestational diabetes",
+        "Physiological glycosuria only",
+        "Inevitable abortion"
+      ],
+      "ans": 1,
+      "exp": "Diabetes diagnosed before 20 weeks is usually pregestational diabetes. (Book p377)"
+    },
+    {
+      "id": "OBG-C6-031",
+      "sec": "GDM follow-up",
+      "page": 377,
+      "q": "Which test timing is used to confirm the status of diabetes after GDM?",
+      "opts": [
+        "Urine dipstick at 12 months",
+        "Fetal echocardiography at 6 weeks postpartum",
+        "A glucose test at 6 weeks postpartum",
+        "HbA1c on the day of delivery only"
+      ],
+      "ans": 2,
+      "exp": "The source directs confirmation with a sugar-level test 6 weeks postpartum. (Book p377)"
+    },
+    {
+      "id": "OBG-C6-032",
+      "sec": "Diabetes imaging",
+      "page": 377,
+      "q": "For whom and when is TIFFA recommended in diabetes in pregnancy?",
+      "opts": [
+        "Only diet-controlled GDM at 10 weeks",
+        "Only pregestational diabetes after 34 weeks",
+        "Only women with fetal macrosomia in labor",
+        "All GDM and pregestational diabetes pregnancies at 18–20 weeks"
+      ],
+      "ans": 3,
+      "exp": "TIFFA is done for both GDM and pregestational diabetes at 18–20 weeks. (Book p377)"
+    },
+    {
+      "id": "OBG-C6-033",
+      "sec": "Diabetes management",
+      "page": 377,
+      "q": "At a 2-hour postprandial glucose level of 200 mg/dL or more, what management is recommended irrespective of GDM versus pre-GDM?",
+      "opts": [
+        "Give 8 units of insulin",
+        "Start aspirin only",
+        "Repeat the test after six weeks",
+        "Give oral calcium only"
+      ],
+      "ans": 0,
+      "exp": "A 2-hour PP value of at least 200 mg/dL warrants 8 units of insulin regardless of diabetes category. (Book p377)"
+    },
+    {
+      "id": "OBG-C6-034",
+      "sec": "Pregestational diabetes",
+      "page": 378,
+      "q": "Which fasting blood sugar value meets the listed criterion for pregestational diabetes?",
+      "opts": [
+        "At least 126 mg/dL",
+        "At least 95 mg/dL",
+        "At least 110 mg/dL",
+        "At least 70 mg/dL"
+      ],
+      "ans": 0,
+      "exp": "A fasting blood sugar of 126 mg/dL or greater meets the listed criterion. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-035",
+      "sec": "Pregestational diabetes",
+      "page": 378,
+      "q": "Which 2-hour postprandial blood sugar level meets the listed criterion for pregestational diabetes?",
+      "opts": [
+        "At least 180 mg/dL",
+        "At least 200 mg/dL",
+        "At least 120 mg/dL",
+        "At least 140 mg/dL"
+      ],
+      "ans": 1,
+      "exp": "A 2-hour PPBS of 200 mg/dL or above meets the stated criterion. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-036",
+      "sec": "Pregestational diabetes",
+      "page": 378,
+      "q": "Which random blood sugar value is a clinical criterion for pregestational diabetes in the notes?",
+      "opts": [
+        "At least 140 mg/dL",
+        "At least 160 mg/dL",
+        "At least 200 mg/dL",
+        "At least 95 mg/dL"
+      ],
+      "ans": 2,
+      "exp": "A random blood sugar of 200 mg/dL or greater is one of the clinical criteria. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-037",
+      "sec": "Pregestational diabetes",
+      "page": 378,
+      "q": "Which HbA1c threshold is used as a criterion for pregestational diabetes?",
+      "opts": [
+        "At least 5.0%",
+        "At least 7.5% only",
+        "At least 10% only",
+        "At least 6.5%"
+      ],
+      "ans": 3,
+      "exp": "HbA1c of at least 6.5% is a listed criterion for pregestational diabetes. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-038",
+      "sec": "HbA1c and anomalies",
+      "page": 378,
+      "q": "An HbA1c below 6.5% is associated with what gross congenital anomaly (GCA) risk in the notes?",
+      "opts": [
+        "No risk",
+        "About 3% risk",
+        "About 15–20% risk",
+        "A certain 50% risk"
+      ],
+      "ans": 0,
+      "exp": "The stated HbA1c band below 6.5% carries no GCA risk. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-039",
+      "sec": "HbA1c and anomalies",
+      "page": 378,
+      "q": "What GCA risk is given for an HbA1c of 10% or higher?",
+      "opts": [
+        "Less than 0.5%",
+        "15–20%",
+        "No risk",
+        "1–3%"
+      ],
+      "ans": 1,
+      "exp": "The notes assign a 15–20% GCA risk to HbA1c of at least 10%. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-040",
+      "sec": "HbA1c and anomalies",
+      "page": 378,
+      "q": "What HbA1c goal is stated for therapy in pregestational diabetes?",
+      "opts": [
+        "Exactly 6.5%",
+        "Below 10%",
+        "Below 6%",
+        "Below 8%"
+      ],
+      "ans": 2,
+      "exp": "The stated therapeutic goal is HbA1c below 6%. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-041",
+      "sec": "Diabetes imaging",
+      "page": 378,
+      "q": "What is the diagnostic imaging tool for congenital anomalies in pregestational diabetes?",
+      "opts": [
+        "Level I ultrasound alone",
+        "Karyotyping",
+        "A nonstress test",
+        "TIFFA"
+      ],
+      "ans": 3,
+      "exp": "TIFFA is listed as the diagnostic tool for fetal congenital anomalies. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-042",
+      "sec": "Diabetes imaging",
+      "page": 378,
+      "q": "Why is routine karyotyping not used for diabetic congenital-anomaly assessment?",
+      "opts": [
+        "The concern is gross congenital anomalies, whereas karyotyping detects chromosomal abnormalities",
+        "Karyotyping detects only diabetes",
+        "Karyotyping cannot be done in pregnancy",
+        "Karyotyping is the diagnostic test for VSD"
+      ],
+      "ans": 0,
+      "exp": "Level I ultrasound detects chromosomal anomalies, but diabetes-related assessment is for GCA; routine karyotyping is not done. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-043",
+      "sec": "Congenital anomalies",
+      "page": 378,
+      "q": "Which system is most commonly involved in congenital malformations of pregestational diabetes?",
+      "opts": [
+        "Gastrointestinal system only",
+        "Cardiovascular system, more than CNS",
+        "Renal system, more than cardiovascular",
+        "Musculoskeletal system only"
+      ],
+      "ans": 1,
+      "exp": "The cardiovascular system is the most commonly involved system, ahead of the CNS. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-044",
+      "sec": "Congenital anomalies",
+      "page": 378,
+      "q": "What is the most common congenital malformation in pregestational diabetes?",
+      "opts": [
+        "Transposition of the great arteries",
+        "Coarctation of the aorta",
+        "Ventricular septal defect (VSD)",
+        "Neural tube defect"
+      ],
+      "ans": 2,
+      "exp": "VSD is listed as the most common congenital and cardiac malformation. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-045",
+      "sec": "Congenital anomalies",
+      "page": 378,
+      "q": "Which cardiac anomaly is described as the most specific for maternal pregestational diabetes?",
+      "opts": [
+        "Ventricular septal defect",
+        "Tetralogy of Fallot",
+        "Patent ductus arteriosus",
+        "Transposition of the great arteries"
+      ],
+      "ans": 3,
+      "exp": "Transposition of the great arteries is the most specific cardiac anomaly in the notes. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-046",
+      "sec": "Congenital anomalies",
+      "page": 378,
+      "q": "What is the most common cardiac finding in the fetus of a diabetic mother?",
+      "opts": [
+        "Hypertrophic obstructive cardiomyopathy",
+        "Complete heart block",
+        "Atrial myxoma",
+        "Mitral valve prolapse"
+      ],
+      "ans": 0,
+      "exp": "Hypertrophic obstructive cardiomyopathy is listed as the most common cardiac finding. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-047",
+      "sec": "Preconception prevention",
+      "page": 378,
+      "q": "Which preconception measure is advised to reduce gross congenital anomalies in pregestational diabetes?",
+      "opts": [
+        "Wait until fetal movement begins",
+        "Switch to insulin before conception or once pregnancy is confirmed",
+        "Stop all glucose monitoring",
+        "Start radioactive iodine"
+      ],
+      "ans": 1,
+      "exp": "The notes advise switching to insulin before conception or on confirmation of pregnancy. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-048",
+      "sec": "Preconception prevention",
+      "page": 378,
+      "q": "What folic-acid schedule is listed for prevention of diabetic congenital anomalies?",
+      "opts": [
+        "400 micrograms after 20 weeks only",
+        "No folic acid is advised",
+        "400 micrograms daily from 1 month before conception through 3 months after conception",
+        "5 mg daily only in labor"
+      ],
+      "ans": 2,
+      "exp": "The source specifies 400 micrograms daily beginning a month before conception and continuing for 3 months after conception. (Book p378)"
+    },
+    {
+      "id": "OBG-C6-049",
+      "sec": "Pre-GDM complications",
+      "page": 379,
+      "q": "Which is a listed increased-risk complication in pregestational diabetes?",
+      "opts": [
+        "Persistent maternal hypoglycemia only",
+        "Decreased insulin resistance throughout pregnancy",
+        "Pregnancy-induced hypertension",
+        "Complete protection from infection"
+      ],
+      "ans": 2,
+      "exp": "Pre-GDM is associated with increased risk of PIH. (Book p379)"
+    },
+    {
+      "id": "OBG-C6-050",
+      "sec": "Pre-GDM complications",
+      "page": 379,
+      "q": "Which infection is specifically highlighted as an increased risk in pregestational diabetes?",
+      "opts": [
+        "Rubella",
+        "Malaria only",
+        "Viral hepatitis only",
+        "Asymptomatic bacteriuria"
+      ],
+      "ans": 3,
+      "exp": "Asymptomatic bacteriuria is specifically listed among increased infection risks. (Book p379)"
+    },
+    {
+      "id": "OBG-C6-051",
+      "sec": "Pre-GDM complications",
+      "page": 379,
+      "q": "What happens to insulin resistance in pregestational diabetes across pregnancy?",
+      "opts": [
+        "It remains increased throughout pregnancy",
+        "It disappears after the first trimester",
+        "It falls below normal in the third trimester",
+        "It is unrelated to gestation"
+      ],
+      "ans": 0,
+      "exp": "The notes list increased insulin resistance throughout pregnancy. (Book p379)"
+    },
+    {
+      "id": "OBG-C6-052",
+      "sec": "Antenatal surveillance",
+      "page": 379,
+      "q": "At every antenatal visit in pregestational diabetes, which urinary screening is performed?",
+      "opts": [
+        "Urine culture is never considered",
+        "Urine dipstick for proteinuria",
+        "Urine ketones only once",
+        "Urine pregnancy test"
+      ],
+      "ans": 1,
+      "exp": "Each antenatal visit includes urine dipstick screening for proteinuria. (Book p379)"
+    },
+    {
+      "id": "OBG-C6-053",
+      "sec": "Antenatal surveillance",
+      "page": 379,
+      "q": "How often is blood glucose monitored in the second trimester for pregestational diabetes?",
+      "opts": [
+        "Every 6 weeks",
+        "Only at delivery",
+        "Every 2 weeks",
+        "Daily"
+      ],
+      "ans": 2,
+      "exp": "Second-trimester blood-glucose monitoring is every 2 weeks. (Book p379)"
+    },
+    {
+      "id": "OBG-C6-054",
+      "sec": "Antenatal surveillance",
+      "page": 379,
+      "q": "How often is blood glucose monitored in the third trimester for pregestational diabetes?",
+      "opts": [
+        "Every 2 weeks",
+        "Monthly only",
+        "Never after 32 weeks",
+        "Weekly"
+      ],
+      "ans": 3,
+      "exp": "Third-trimester glucose monitoring is weekly. (Book p379)"
+    },
+    {
+      "id": "OBG-C6-055",
+      "sec": "Antenatal surveillance",
+      "page": 379,
+      "q": "Why is fundal examination included in pregestational-diabetes follow-up?",
+      "opts": [
+        "To rule out diabetic retinopathy",
+        "To diagnose placenta previa",
+        "To measure cervical length",
+        "To diagnose fetal anemia"
+      ],
+      "ans": 0,
+      "exp": "Fundal examination is used to rule out diabetic retinopathy. (Book p379)"
+    },
+    {
+      "id": "OBG-C6-056",
+      "sec": "Diabetes imaging",
+      "page": 379,
+      "q": "At what gestational age is fetal echocardiography done in pregestational diabetes to rule out VSD?",
+      "opts": [
+        "36–38 weeks",
+        "22–24 weeks",
+        "8–10 weeks",
+        "14–16 weeks"
+      ],
+      "ans": 1,
+      "exp": "Fetal echocardiography is done at 22–24 weeks to rule out VSD. (Book p379)"
+    },
+    {
+      "id": "OBG-C6-057",
+      "sec": "Antenatal surveillance",
+      "page": 379,
+      "q": "How often are urine routine and microscopy performed in pregestational diabetes?",
+      "opts": [
+        "Only in the third trimester",
+        "Only postpartum",
+        "In every trimester",
+        "Only at the first visit"
+      ],
+      "ans": 2,
+      "exp": "Urine routine and microscopy are done in every trimester to assess asymptomatic bacteriuria. (Book p379)"
+    },
+    {
+      "id": "OBG-C6-058",
+      "sec": "Fetal surveillance",
+      "page": 379,
+      "q": "When should fetal surveillance begin in pregestational diabetes?",
+      "opts": [
+        "At 12 weeks",
+        "At 20 weeks",
+        "Only after 40 weeks",
+        "At 32 weeks"
+      ],
+      "ans": 3,
+      "exp": "Fetal monitoring begins from 32 weeks in the stated plan. (Book p379)"
+    },
+    {
+      "id": "OBG-C6-059",
+      "sec": "Fetal surveillance",
+      "page": 379,
+      "q": "What is the listed frequency of NST and biophysical score in pregestational diabetes after surveillance begins?",
+      "opts": [
+        "Weekly for both",
+        "Daily for both",
+        "Monthly for both",
+        "NST weekly and BPS only at delivery"
+      ],
+      "ans": 0,
+      "exp": "The source recommends weekly NST and weekly biophysical score. (Book p379)"
+    },
+    {
+      "id": "OBG-C6-060",
+      "sec": "Fetal surveillance",
+      "page": 379,
+      "q": "Which growth-scan schedule is listed for pregestational diabetes?",
+      "opts": [
+        "At 20 and 22 weeks only",
+        "At 28–30 and 34–36 weeks, with at least a 3-week gap",
+        "Only once at 12 weeks",
+        "Every day after 32 weeks"
+      ],
+      "ans": 1,
+      "exp": "At least two growth scans are listed: 28–30 and 34–36 weeks, separated by at least 3 weeks. (Book p379)"
+    },
+    {
+      "id": "OBG-C6-061",
+      "sec": "Doppler",
+      "page": 380,
+      "q": "When is umbilical-artery Doppler indicated in diabetes in pregnancy?",
+      "opts": [
+        "Only after delivery",
+        "With diabetic vasculopathy or development of PIH",
+        "In all diet-controlled GDM at 10 weeks",
+        "Only for maternal anemia"
+      ],
+      "ans": 1,
+      "exp": "Umbilical-artery Doppler is indicated for diabetic vasculopathy or PIH. (Book p380)"
+    },
+    {
+      "id": "OBG-C6-062",
+      "sec": "Pre-GDM treatment",
+      "page": 380,
+      "q": "Which medication is included to prevent PIH in pregestational diabetes management?",
+      "opts": [
+        "Methotrexate",
+        "High-dose warfarin",
+        "Low-dose aspirin",
+        "Radioactive iodine"
+      ],
+      "ans": 2,
+      "exp": "Low-dose aspirin is included for PIH prevention. (Book p380)"
+    },
+    {
+      "id": "OBG-C6-063",
+      "sec": "Pre-GDM treatment",
+      "page": 380,
+      "q": "What is described as the drug of choice for treatment of diabetes in pregnancy?",
+      "opts": [
+        "Glyburide in all patients",
+        "Metformin in pre-GDM before 20 weeks",
+        "Aspirin",
+        "Insulin"
+      ],
+      "ans": 3,
+      "exp": "Insulin is listed as the drug of choice for diabetes treatment in pregnancy. (Book p380)"
+    },
+    {
+      "id": "OBG-C6-064",
+      "sec": "Delivery timing",
+      "page": 380,
+      "q": "When is termination/induction planned for pregestational diabetes in the source plan?",
+      "opts": [
+        "At or after 39 weeks",
+        "At 28 weeks in all cases",
+        "At 34 weeks in all cases",
+        "Only after 42 weeks"
+      ],
+      "ans": 0,
+      "exp": "The planned termination/induction timing is 39 weeks or later. (Book p380)"
+    },
+    {
+      "id": "OBG-C6-065",
+      "sec": "Delivery planning",
+      "page": 380,
+      "q": "What is the default mode of delivery stated for diabetes in pregnancy?",
+      "opts": [
+        "Vaginal birth is contraindicated",
+        "Vaginal delivery",
+        "Elective cesarean for every patient",
+        "Forceps delivery only"
+      ],
+      "ans": 1,
+      "exp": "Vaginal delivery is the default mode in the notes. (Book p380)"
+    },
+    {
+      "id": "OBG-C6-066",
+      "sec": "Delivery planning",
+      "page": 380,
+      "q": "What estimated fetal weight is listed as an indication for cesarean delivery in diabetes?",
+      "opts": [
+        "At least 3 kg",
+        "At least 3.5 kg",
+        "At least 4.5 kg",
+        "At least 2.5 kg"
+      ],
+      "ans": 2,
+      "exp": "A fetal weight of 4.5 kg or more is a stated cesarean indication. (Book p380)"
+    },
+    {
+      "id": "OBG-C6-067",
+      "sec": "GDM features",
+      "page": 381,
+      "q": "What mechanism underlies gestational diabetes in a previously normoglycemic woman?",
+      "opts": [
+        "Fetal thyroid failure",
+        "An isolated fall in hPL",
+        "Increasing insulin resistance during pregnancy",
+        "Failure of maternal insulin to cross the placenta"
+      ],
+      "ans": 2,
+      "exp": "GDM occurs because increased insulin resistance develops in a previously normoglycemic woman. (Book p381)"
+    },
+    {
+      "id": "OBG-C6-068",
+      "sec": "GDM features",
+      "page": 381,
+      "q": "Which complication is specifically absent in GDM compared with pregestational diabetes?",
+      "opts": [
+        "Polyhydramnios",
+        "Macrosomia",
+        "Asymptomatic bacteriuria",
+        "Gross congenital anomalies"
+      ],
+      "ans": 3,
+      "exp": "The notes state that GDM has similar complications except gross congenital anomalies. (Book p381)"
+    },
+    {
+      "id": "OBG-C6-069",
+      "sec": "GDM investigations",
+      "page": 381,
+      "q": "Which investigation is NOT done in GDM because there is no suspected CVS anomaly?",
+      "opts": [
+        "Fetal echocardiography",
+        "Level I ultrasound",
+        "TIFFA",
+        "Urine microscopy"
+      ],
+      "ans": 0,
+      "exp": "Fetal echocardiography is omitted in GDM because congenital cardiac-anomaly suspicion is absent. (Book p381)"
+    },
+    {
+      "id": "OBG-C6-070",
+      "sec": "DIPSI screening",
+      "page": 381,
+      "q": "When is the first DIPSI test recommended?",
+      "opts": [
+        "At 12 months postpartum",
+        "At the first antenatal visit",
+        "Only after 28 weeks",
+        "Only after delivery"
+      ],
+      "ans": 1,
+      "exp": "DIPSI screening begins at the first antenatal visit. (Book p381)"
+    },
+    {
+      "id": "OBG-C6-071",
+      "sec": "DIPSI screening",
+      "page": 381,
+      "q": "If the first DIPSI screen is done early, when should it be repeated?",
+      "opts": [
+        "At 6 weeks postpartum only",
+        "At 36 weeks with no gap",
+        "At 24–28 weeks, after at least a 4-week gap",
+        "The next day"
+      ],
+      "ans": 2,
+      "exp": "The test is repeated at 24–28 weeks with a minimum 4-week interval. (Book p381)"
+    },
+    {
+      "id": "OBG-C6-072",
+      "sec": "DIPSI screening",
+      "page": 381,
+      "q": "How many DIPSI tests are needed if the first antenatal visit occurs after 28 weeks?",
+      "opts": [
+        "Two tests 24 hours apart",
+        "Three monthly tests",
+        "No test is needed",
+        "One test only"
+      ],
+      "ans": 3,
+      "exp": "Only one DIPSI test is needed if the first visit is after 28 weeks. (Book p381)"
+    },
+    {
+      "id": "OBG-C6-073",
+      "sec": "DIPSI procedure",
+      "page": 381,
+      "q": "Which statement correctly describes the DIPSI procedure?",
+      "opts": [
+        "It is universal, nonfasting screening irrespective of the previous meal",
+        "It requires an overnight fast in selected women only",
+        "It is performed only after a positive urine test",
+        "It is limited to women with obesity"
+      ],
+      "ans": 0,
+      "exp": "DIPSI is a universal screening test performed without fasting, irrespective of prior meals. (Book p381)"
+    },
+    {
+      "id": "OBG-C6-074",
+      "sec": "DIPSI procedure",
+      "page": 381,
+      "q": "What glucose load is used in the DIPSI test?",
+      "opts": [
+        "25 g glucose by IV infusion",
+        "75 g glucose in 300 mL water, consumed in 5–10 minutes",
+        "50 g glucose in 100 mL water over 1 hour",
+        "100 g glucose in 1 L water"
+      ],
+      "ans": 1,
+      "exp": "DIPSI uses 75 g glucose in 300 mL water, consumed in 5–10 minutes. (Book p381)"
+    },
+    {
+      "id": "OBG-C6-075",
+      "sec": "DIPSI procedure",
+      "page": 381,
+      "q": "How is the DIPSI result checked?",
+      "opts": [
+        "A random HbA1c immediately after the drink",
+        "An amniotic-fluid glucose value",
+        "A 2-hour postprandial value using a plasma-calibrated glucometer",
+        "A fasting urine glucose value"
+      ],
+      "ans": 2,
+      "exp": "The protocol checks 2-hour PP glucose using a plasma-calibrated glucometer. (Book p381)"
+    },
+    {
+      "id": "OBG-C6-076",
+      "sec": "DIPSI procedure",
+      "page": 381,
+      "q": "If vomiting occurs within 30 minutes of the glucose drink, what should be done?",
+      "opts": [
+        "Continue and interpret the 2-hour value",
+        "Give insulin immediately",
+        "Diagnose GDM automatically",
+        "Repeat the test on another day"
+      ],
+      "ans": 3,
+      "exp": "Vomiting within 30 minutes requires repeat testing on another day. (Book p381)"
+    },
+    {
+      "id": "OBG-C6-077",
+      "sec": "DIPSI procedure",
+      "page": 381,
+      "q": "If vomiting occurs after 30 minutes of the glucose drink, what should be done?",
+      "opts": [
+        "Continue the test",
+        "Repeat the test on another day",
+        "Stop all screening for pregnancy",
+        "Treat as pregestational diabetes"
+      ],
+      "ans": 0,
+      "exp": "If vomiting occurs after 30 minutes, the source directs that the test be continued. (Book p381)"
+    },
+    {
+      "id": "OBG-C6-078",
+      "sec": "DIPSI interpretation",
+      "page": 382,
+      "q": "At the first antenatal visit, a 2-hour PP value below 140 mg/dL requires what next step?",
+      "opts": [
+        "Repeat screening at 24–28 weeks",
+        "Diagnose GDM",
+        "Diagnose pregestational diabetes",
+        "Start 8 units of insulin"
+      ],
+      "ans": 0,
+      "exp": "A value below 140 at the first visit is repeated at 24–28 weeks. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-079",
+      "sec": "DIPSI interpretation",
+      "page": 382,
+      "q": "At the first antenatal visit, a 2-hour PP value of 140 mg/dL or more indicates:",
+      "opts": [
+        "Severe preeclampsia",
+        "GDM",
+        "Normal glucose tolerance",
+        "Only physiological glycosuria"
+      ],
+      "ans": 1,
+      "exp": "A 2-hour PP value of 140 mg/dL or above at the first visit indicates GDM. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-080",
+      "sec": "DIPSI interpretation",
+      "page": 382,
+      "q": "At the first antenatal visit, a 2-hour PP value of 200 mg/dL or more indicates:",
+      "opts": [
+        "Normal pregnancy",
+        "A false-positive DIPSI test",
+        "Pregestational diabetes",
+        "Diet-controlled GDM only"
+      ],
+      "ans": 2,
+      "exp": "A 2-hour PP value of 200 mg/dL or more at the first visit indicates pregestational diabetes. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-081",
+      "sec": "DIPSI interpretation",
+      "page": 382,
+      "q": "At 24–28 weeks, which 2-hour PP value defines GDM?",
+      "opts": [
+        "95 mg/dL or higher",
+        "200 mg/dL only",
+        "120 mg/dL or lower",
+        "140 mg/dL or higher"
+      ],
+      "ans": 3,
+      "exp": "At 24–28 weeks, a 2-hour PP value of 140 mg/dL or more defines GDM. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-082",
+      "sec": "GDM management",
+      "page": 382,
+      "q": "For a 2-hour PP level of 140–199 mg/dL in GDM, what is the initial step?",
+      "opts": [
+        "Medical nutrition therapy for 2 weeks",
+        "Immediate 8-unit insulin without nutrition therapy",
+        "Immediate cesarean delivery",
+        "Low-dose aspirin only"
+      ],
+      "ans": 0,
+      "exp": "The initial treatment for 140–199 mg/dL is medical nutrition therapy for 2 weeks. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-083",
+      "sec": "GDM management",
+      "page": 382,
+      "q": "For a 2-hour PP level of 200 mg/dL or more in GDM, what immediate treatment is given?",
+      "opts": [
+        "Aspirin and salt restriction",
+        "8 units insulin plus medical nutrition therapy and weight counseling",
+        "Only daily walking for two weeks",
+        "No treatment until 32 weeks"
+      ],
+      "ans": 1,
+      "exp": "At 200 mg/dL or more, the plan gives immediate 8-unit insulin alongside MNT and weight counseling. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-084",
+      "sec": "GDM targets",
+      "page": 382,
+      "q": "Which fasting plasma glucose target is stated for GDM?",
+      "opts": [
+        "Below 120 mg/dL",
+        "Below 140 mg/dL",
+        "Below 95 mg/dL",
+        "Below 70 mg/dL"
+      ],
+      "ans": 2,
+      "exp": "The fasting glucose target is below 95 mg/dL. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-085",
+      "sec": "GDM targets",
+      "page": 382,
+      "q": "Which pair correctly states postprandial targets in GDM?",
+      "opts": [
+        "1-hour PP below 120 mg/dL and 2-hour PP below 140 mg/dL",
+        "Both must be below 95 mg/dL",
+        "Both must be below 200 mg/dL",
+        "1-hour PP below 140 mg/dL and 2-hour PP below 120 mg/dL"
+      ],
+      "ans": 3,
+      "exp": "The stated targets are 1-hour PP <140 and 2-hour PP <120 mg/dL. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-086",
+      "sec": "GDM targets",
+      "page": 382,
+      "q": "Which HbA1c target is included in the GDM metabolic goals?",
+      "opts": [
+        "Below 6%",
+        "Below 8%",
+        "Below 10%",
+        "Exactly 6.5%"
+      ],
+      "ans": 0,
+      "exp": "The GDM metabolic target includes HbA1c below 6%. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-087",
+      "sec": "GDM targets",
+      "page": 382,
+      "q": "What average capillary glucose target is stated?",
+      "opts": [
+        "Below 200 mg/dL",
+        "Below 100 mg/dL",
+        "Below 70 mg/dL",
+        "Below 140 mg/dL"
+      ],
+      "ans": 1,
+      "exp": "The notes specify average capillary glucose below 100 mg/dL. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-088",
+      "sec": "GDM management",
+      "page": 382,
+      "q": "If GDM metabolic goals are met with MNT, what is advised?",
+      "opts": [
+        "Start methotrexate",
+        "Schedule immediate delivery",
+        "Continue MNT and walk 30 minutes daily",
+        "Stop all monitoring"
+      ],
+      "ans": 2,
+      "exp": "When targets are met, continue MNT and advise a 30-minute daily walk. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-089",
+      "sec": "GDM management",
+      "page": 382,
+      "q": "If metabolic goals are not met after initial MNT, what is the preferred escalation listed?",
+      "opts": [
+        "Start aspirin before insulin",
+        "Stop nutrition therapy and observe",
+        "Start warfarin",
+        "Start metformin before insulin"
+      ],
+      "ans": 3,
+      "exp": "The notes list metformin before insulin when MNT goals are not met. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-090",
+      "sec": "GDM follow-up",
+      "page": 382,
+      "q": "How frequently are 2-hour PP values checked once follow-up begins in GDM?",
+      "opts": [
+        "Every 2 weeks in T2 and weekly in T3, at least monthly",
+        "Only once in each trimester",
+        "Daily from the first visit",
+        "Every 6 weeks throughout pregnancy"
+      ],
+      "ans": 0,
+      "exp": "Follow-up is every 2 weeks in T2, weekly in T3, with a minimum monthly check. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-091",
+      "sec": "GOI GDM guidance",
+      "page": 382,
+      "q": "According to the listed GOI guideline, which treatment is chosen when GDM is diagnosed before 20 weeks?",
+      "opts": [
+        "No therapy until 28 weeks",
+        "Insulin",
+        "Metformin",
+        "Aspirin"
+      ],
+      "ans": 1,
+      "exp": "The stated GOI guidance uses insulin for diagnosis before 20 weeks. (Book p382)"
+    },
+    {
+      "id": "OBG-C6-092",
+      "sec": "Medical nutrition therapy",
+      "page": 383,
+      "q": "What macronutrient distribution is recommended in the balanced GDM meal plan?",
+      "opts": [
+        "50% carbohydrate, 10% fat, and 40% protein",
+        "40% carbohydrate, 40% fat, and 20% protein",
+        "60% carbohydrate, 20% fat, and 20% protein",
+        "20% carbohydrate, 60% fat, and 20% protein"
+      ],
+      "ans": 1,
+      "exp": "The balanced meal is 40% carbohydrate, 40% fat, and 20% protein. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-093",
+      "sec": "Medical nutrition therapy",
+      "page": 383,
+      "q": "How is the GDM diet distributed through the day?",
+      "opts": [
+        "Six meals with no snacks",
+        "Only liquids after noon",
+        "Three meals plus three snacks",
+        "One large meal and one snack"
+      ],
+      "ans": 2,
+      "exp": "The source distributes the diet over three meals and three snacks. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-094",
+      "sec": "Medical nutrition therapy",
+      "page": 383,
+      "q": "What baseline caloric addition is advised for pregnant women in the nutrition plan?",
+      "opts": [
+        "Add 50 kcal per day",
+        "Add 1,000 kcal per day",
+        "Subtract 350 kcal per day",
+        "Add 350 kcal per day"
+      ],
+      "ans": 3,
+      "exp": "The plan adds 350 kcal per day to all pregnant women. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-095",
+      "sec": "Medical nutrition therapy",
+      "page": 383,
+      "q": "How is caloric intake adjusted for a BMI below 18.5 in the source plan?",
+      "opts": [
+        "Add an extra 500 kcal/day",
+        "Subtract 500 kcal/day",
+        "Make no change",
+        "Add only 100 kcal/day"
+      ],
+      "ans": 0,
+      "exp": "BMI below 18.5 calls for an extra 500 kcal/day. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-096",
+      "sec": "Medical nutrition therapy",
+      "page": 383,
+      "q": "How is caloric intake adjusted for a BMI above 25 in the source plan?",
+      "opts": [
+        "Make no change",
+        "Subtract 500 kcal/day",
+        "Add 500 kcal/day",
+        "Double dietary carbohydrate"
+      ],
+      "ans": 1,
+      "exp": "BMI above 25 calls for subtracting 500 kcal/day in the stated plan. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-097",
+      "sec": "Metformin",
+      "page": 383,
+      "q": "In which diabetes category is metformin used according to these notes?",
+      "opts": [
+        "Both categories before 12 weeks",
+        "Neither category in pregnancy",
+        "GDM, not pregestational diabetes",
+        "Pregestational diabetes only"
+      ],
+      "ans": 2,
+      "exp": "Metformin is recommended only in GDM, not in pregestational diabetes. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-098",
+      "sec": "Metformin",
+      "page": 383,
+      "q": "After what gestational age is metformin used for GDM in the source notes?",
+      "opts": [
+        "Before 8 weeks only",
+        "After delivery only",
+        "Only at 36 weeks",
+        "After 20 weeks"
+      ],
+      "ans": 3,
+      "exp": "Metformin is used only after 20 weeks of pregnancy. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-099",
+      "sec": "Metformin",
+      "page": 383,
+      "q": "What is the stated first-line oral drug for GDM?",
+      "opts": [
+        "Metformin",
+        "Glyburide",
+        "Warfarin",
+        "Methyldopa"
+      ],
+      "ans": 0,
+      "exp": "Metformin is described as the first-line oral drug and is recommended by the Government of India. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-100",
+      "sec": "Metformin",
+      "page": 383,
+      "q": "For which patient phenotype is metformin specifically preferred?",
+      "opts": [
+        "A woman in labor",
+        "An obese woman",
+        "A woman with pregestational diabetes",
+        "A woman with severe renal failure"
+      ],
+      "ans": 1,
+      "exp": "The source states metformin is preferred in obese women. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-101",
+      "sec": "Metformin",
+      "page": 383,
+      "q": "What is the maximum daily metformin dose in the source plan before insulin is added?",
+      "opts": [
+        "1 g/day",
+        "4 g/day",
+        "2 g/day",
+        "500 mg/day"
+      ],
+      "ans": 2,
+      "exp": "Metformin can be increased from 500 mg/day up to 2 g/day; higher requirement calls for insulin. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-102",
+      "sec": "Metformin",
+      "page": 383,
+      "q": "What is the most dangerous adverse effect of metformin listed in the notes?",
+      "opts": [
+        "Aplasia cutis",
+        "Respiratory depression",
+        "Retinal detachment",
+        "Lactic acidosis"
+      ],
+      "ans": 3,
+      "exp": "Gastrointestinal effects are common, but lactic acidosis is the most dangerous listed adverse effect. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-103",
+      "sec": "Glyburide",
+      "page": 383,
+      "q": "What daily glyburide range is listed for GDM?",
+      "opts": [
+        "2.5 mg/day up to 20 mg/day",
+        "20 mg/day up to 80 mg/day",
+        "500 mg/day up to 2 g/day",
+        "1 mg/kg/day"
+      ],
+      "ans": 0,
+      "exp": "Glyburide is listed at 2.5 mg/day up to 20 mg/day. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-104",
+      "sec": "Glyburide",
+      "page": 383,
+      "q": "Which neonatal adverse effect is associated with glyburide in the source notes?",
+      "opts": [
+        "Neonatal hypertension",
+        "Increased risk of neonatal hypoglycemia",
+        "Decreased risk of neonatal hypoglycemia",
+        "Neonatal hyperthyroidism"
+      ],
+      "ans": 1,
+      "exp": "Glyburide is associated with increased neonatal hypoglycemia risk. (Book p383)"
+    },
+    {
+      "id": "OBG-C6-105",
+      "sec": "Insulin basics",
+      "page": 384,
+      "q": "What insulin preparation is recommended to start in the source algorithm?",
+      "opts": [
+        "Insulin glargine only",
+        "Human premix 30:70",
+        "Regular insulin only",
+        "NPH insulin only"
+      ],
+      "ans": 1,
+      "exp": "The algorithm starts human premix insulin 30:70. (Book p384)"
+    },
+    {
+      "id": "OBG-C6-106",
+      "sec": "Insulin basics",
+      "page": 384,
+      "q": "What does the 30:70 human premix represent in the notes?",
+      "opts": [
+        "30 rapid-acting and 70 long-acting analog",
+        "30% insulin and 70% glucose",
+        "30 short-acting and 70 intermediate insulin",
+        "30 intermediate and 70 short-acting insulin"
+      ],
+      "ans": 2,
+      "exp": "The stated premix contains 30 short-acting and 70 intermediate insulin. (Book p384)"
+    },
+    {
+      "id": "OBG-C6-107",
+      "sec": "Insulin basics",
+      "page": 384,
+      "q": "At what temperature should insulin be stored according to the notes?",
+      "opts": [
+        "Below −20°C",
+        "20–25°C only",
+        "Above 40°C",
+        "4–8°C"
+      ],
+      "ans": 3,
+      "exp": "Insulin storage is listed as 4–8°C. (Book p384)"
+    },
+    {
+      "id": "OBG-C6-108",
+      "sec": "Insulin basics",
+      "page": 384,
+      "q": "How many times may the insulin syringe be reused in the source notes?",
+      "opts": [
+        "14 times",
+        "Once only",
+        "3 times",
+        "30 times"
+      ],
+      "ans": 0,
+      "exp": "The notes state that the syringe is reused 14 times. (Book p384)"
+    },
+    {
+      "id": "OBG-C6-109",
+      "sec": "Insulin requirements",
+      "page": 384,
+      "q": "How does insulin requirement change as pregnancy advances and during labor?",
+      "opts": [
+        "It rises only after delivery",
+        "It rises with advancing pregnancy and falls in labor",
+        "It falls throughout pregnancy and rises in labor",
+        "It does not change at all"
+      ],
+      "ans": 1,
+      "exp": "Insulin requirement increases with advancing gestation and decreases in labor when the patient is NPO. (Book p384)"
+    },
+    {
+      "id": "OBG-C6-110",
+      "sec": "Insulin administration",
+      "page": 384,
+      "q": "How is the initial premix insulin administered?",
+      "opts": [
+        "Orally after dinner",
+        "Subcutaneously after delivery only",
+        "Subcutaneously 30 minutes before breakfast once daily",
+        "Intravenously at bedtime"
+      ],
+      "ans": 2,
+      "exp": "Start premix 30:70 as a subcutaneous injection 30 minutes before breakfast once daily. (Book p384)"
+    },
+    {
+      "id": "OBG-C6-111",
+      "sec": "Insulin dosing",
+      "page": 384,
+      "q": "What initial insulin dose corresponds to a 2-hour PP value of 120–160 mg/dL?",
+      "opts": [
+        "2 units",
+        "6 units",
+        "8 units",
+        "4 units"
+      ],
+      "ans": 3,
+      "exp": "A 2-hour PP level of 120–160 mg/dL receives 4 units. (Book p384)"
+    },
+    {
+      "id": "OBG-C6-112",
+      "sec": "Insulin dosing",
+      "page": 384,
+      "q": "What initial insulin dose corresponds to a 2-hour PP value of 160–200 mg/dL?",
+      "opts": [
+        "6 units",
+        "4 units",
+        "8 units",
+        "12 units"
+      ],
+      "ans": 0,
+      "exp": "A 2-hour PP level of 160–200 mg/dL receives 6 units. (Book p384)"
+    },
+    {
+      "id": "OBG-C6-113",
+      "sec": "Insulin dosing",
+      "page": 384,
+      "q": "What initial insulin dose corresponds to a 2-hour PP value above 200 mg/dL?",
+      "opts": [
+        "10 units",
+        "8 units",
+        "4 units",
+        "6 units"
+      ],
+      "ans": 1,
+      "exp": "A 2-hour PP value above 200 mg/dL receives 8 units. (Book p384)"
+    },
+    {
+      "id": "OBG-C6-114",
+      "sec": "Insulin titration",
+      "page": 384,
+      "q": "After initiating insulin, when are glucose levels first rechecked in this algorithm?",
+      "opts": [
+        "At 6 weeks postpartum",
+        "At 36 weeks only",
+        "On the third day",
+        "After 24 hours only"
+      ],
+      "ans": 2,
+      "exp": "The algorithm checks levels on the third day. (Book p384)"
+    },
+    {
+      "id": "OBG-C6-115",
+      "sec": "Insulin titration",
+      "page": 384,
+      "q": "If fasting blood sugar remains above 95 mg/dL after initial insulin, what adjustment is made?",
+      "opts": [
+        "Add 2 units before breakfast only",
+        "Stop insulin",
+        "Add aspirin",
+        "Add 2 units of insulin before dinner"
+      ],
+      "ans": 3,
+      "exp": "Fasting glucose above 95 mg/dL prompts 2 additional units before dinner. (Book p384)"
+    },
+    {
+      "id": "OBG-C6-116",
+      "sec": "Insulin titration",
+      "page": 384,
+      "q": "If 2-hour PP remains above 120 mg/dL after initial insulin, what adjustment is made?",
+      "opts": [
+        "Add 2 units before breakfast",
+        "Add 2 units before dinner",
+        "Stop insulin and use glyburide",
+        "Give IV dextrose"
+      ],
+      "ans": 0,
+      "exp": "A 2-hour PP above 120 mg/dL prompts 2 additional units before breakfast. (Book p384)"
+    },
+    {
+      "id": "OBG-C6-117",
+      "sec": "Delivery timing",
+      "page": 385,
+      "q": "When may well-controlled diet-treated GDM (A1) be delivered?",
+      "opts": [
+        "At or after 39 weeks",
+        "At 34 weeks in every case",
+        "Before 20 weeks",
+        "Only at 42 weeks"
+      ],
+      "ans": 0,
+      "exp": "Well-controlled A1 GDM is delivered at 39 weeks or later. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-118",
+      "sec": "Delivery timing",
+      "page": 385,
+      "q": "When may poorly controlled drug-treated GDM (A2) be delivered?",
+      "opts": [
+        "At 41 weeks only",
+        "At or after 37 weeks",
+        "Only at 39 weeks or later",
+        "At 32 weeks in every case"
+      ],
+      "ans": 1,
+      "exp": "Not-well-controlled A2 GDM is planned for delivery at 37 weeks or later. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-119",
+      "sec": "Intrapartum diabetes",
+      "page": 385,
+      "q": "What is done with the morning medication dose in mild GDM on medical management during labor?",
+      "opts": [
+        "Replace it with warfarin",
+        "Give it sublingually",
+        "Skip the morning dose",
+        "Double the morning dose"
+      ],
+      "ans": 2,
+      "exp": "In mild GDM on medication, the morning dose is skipped during labor. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-120",
+      "sec": "Intrapartum diabetes",
+      "page": 385,
+      "q": "How often is blood sugar monitored during labor in diabetes?",
+      "opts": [
+        "Once every 24 hours",
+        "Only at delivery",
+        "Every 12 hours",
+        "Every 2 hours with a glucometer"
+      ],
+      "ans": 3,
+      "exp": "The intrapartum plan uses 2-hourly glucose monitoring with a glucometer. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-121",
+      "sec": "Intrapartum diabetes",
+      "page": 385,
+      "q": "What IV fluid rate is used during labor in the stated diabetes protocol?",
+      "opts": [
+        "Normal saline at 100 mL/hour",
+        "Dextrose at 500 mL/hour for every patient",
+        "Normal saline at 20 mL/hour",
+        "No IV fluid is used"
+      ],
+      "ans": 0,
+      "exp": "The labor protocol gives IV normal saline at 100 mL/hour, with insulin according to glucose. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-122",
+      "sec": "Intrapartum diabetes",
+      "page": 385,
+      "q": "What insulin is added to 500 mL normal saline when intrapartum blood sugar is 120–140 mg/dL?",
+      "opts": [
+        "8 units",
+        "4 units",
+        "No insulin",
+        "6 units"
+      ],
+      "ans": 1,
+      "exp": "For 120–140 mg/dL, 4 units are added to 500 mL normal saline. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-123",
+      "sec": "Intrapartum diabetes",
+      "page": 385,
+      "q": "What insulin is added to 500 mL normal saline when intrapartum blood sugar is 140–180 mg/dL?",
+      "opts": [
+        "4 units",
+        "12 units",
+        "6 units",
+        "No insulin"
+      ],
+      "ans": 2,
+      "exp": "For 140–180 mg/dL, 6 units are added to 500 mL normal saline. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-124",
+      "sec": "Intrapartum diabetes",
+      "page": 385,
+      "q": "What insulin is added to 500 mL normal saline when intrapartum blood sugar is 180 mg/dL or more?",
+      "opts": [
+        "No insulin",
+        "4 units",
+        "6 units",
+        "8 units"
+      ],
+      "ans": 3,
+      "exp": "For blood sugar at or above 180 mg/dL, 8 units are added to 500 mL normal saline. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-125",
+      "sec": "Intrapartum diabetes",
+      "page": 385,
+      "q": "What is started if intrapartum blood glucose is below 70 mg/dL?",
+      "opts": [
+        "IV 5% dextrose",
+        "More insulin in normal saline",
+        "Low-dose aspirin",
+        "Methotrexate"
+      ],
+      "ans": 0,
+      "exp": "Hypoglycemia below 70 mg/dL is managed with IV 5% dextrose. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-126",
+      "sec": "Postpartum GDM",
+      "page": 385,
+      "q": "When is blood sugar checked after delivery in GDM?",
+      "opts": [
+        "Never after discharge",
+        "Day 3 postpartum",
+        "Immediately before placental delivery only",
+        "At 28 weeks postpartum"
+      ],
+      "ans": 1,
+      "exp": "For GDM, blood sugar is checked on day 3 postpartum. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-127",
+      "sec": "Postpartum GDM",
+      "page": 385,
+      "q": "What follow-up test is advised 6 weeks after discharge for GDM?",
+      "opts": [
+        "Kleihauer–Betke test",
+        "Urine dipstick",
+        "75-g 2-hour OGTT",
+        "Fetal echocardiography"
+      ],
+      "ans": 2,
+      "exp": "The source advises a 75-g 2-hour OGTT at 6 weeks after discharge. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-128",
+      "sec": "Postpartum GDM",
+      "page": 385,
+      "q": "What ongoing screening is advised if the 6-week postpartum OGTT is normal after GDM?",
+      "opts": [
+        "No further screening ever",
+        "Weekly HbA1c only",
+        "Monthly ultrasound",
+        "Annual 75-g OGTT"
+      ],
+      "ans": 3,
+      "exp": "A normal postpartum OGTT is followed by annual 75-g OGTT because of future type 2 diabetes risk. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-129",
+      "sec": "Postpartum pre-GDM",
+      "page": 385,
+      "q": "What happens to insulin requirement immediately after delivery in pregestational diabetes?",
+      "opts": [
+        "It decreases",
+        "It doubles",
+        "It remains fixed for six weeks",
+        "It is permanently stopped in all cases"
+      ],
+      "ans": 0,
+      "exp": "Insulin requirement decreases postpartum in pregestational diabetes. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-130",
+      "sec": "Postpartum pre-GDM",
+      "page": 385,
+      "q": "What medication transition is listed from day 2 after delivery in pregestational diabetes?",
+      "opts": [
+        "Start methotrexate",
+        "Shift back to oral hypoglycemic agents if needed",
+        "Start radioactive iodine",
+        "Stop all diabetic care"
+      ],
+      "ans": 1,
+      "exp": "From day 2 postpartum, the plan shifts pre-GDM patients back to oral hypoglycemic agents as appropriate. (Book p385)"
+    },
+    {
+      "id": "OBG-C6-131",
+      "sec": "Maternal diabetes complications",
+      "page": 386,
+      "q": "Which set of infections is listed as increased in diabetes in pregnancy?",
+      "opts": [
+        "Only neonatal sepsis",
+        "Asymptomatic bacteriuria, candidiasis, and puerperal sepsis",
+        "Rubella, measles, and mumps",
+        "Only urinary tuberculosis"
+      ],
+      "ans": 1,
+      "exp": "The notes list increased asymptomatic bacteriuria, candidiasis, and puerperal sepsis. (Book p386)"
+    },
+    {
+      "id": "OBG-C6-132",
+      "sec": "Maternal diabetes complications",
+      "page": 386,
+      "q": "Polyhydramnios in diabetes can predispose to which obstetric emergency?",
+      "opts": [
+        "Uterine inversion only",
+        "Cervical incompetence only",
+        "Cord prolapse",
+        "Placenta accreta only"
+      ],
+      "ans": 2,
+      "exp": "Polyhydramnios is linked to PTL, PROM, cord prolapse, PPH, and subinvolution. (Book p386)"
+    },
+    {
+      "id": "OBG-C6-133",
+      "sec": "Maternal diabetes complications",
+      "page": 386,
+      "q": "Oligohydramnios in a diabetic pregnancy suggests which associated pathology?",
+      "opts": [
+        "Well-controlled diet-treated GDM only",
+        "Thyrotoxicosis only",
+        "A normal fetal state",
+        "Diabetic vasculopathy or PIH"
+      ],
+      "ans": 3,
+      "exp": "Oligohydramnios is noted when diabetic vasculopathy or PIH is present. (Book p386)"
+    },
+    {
+      "id": "OBG-C6-134",
+      "sec": "Maternal diabetes complications",
+      "page": 386,
+      "q": "What is the stated mechanism for placentomegaly in diabetes?",
+      "opts": [
+        "Swelling of chorionic villi due to hyperglycemia",
+        "Loss of all placental villi",
+        "Maternal TSH crossing the placenta",
+        "Fetal anemia alone"
+      ],
+      "ans": 0,
+      "exp": "Hyperglycemia causes chorionic-villus swelling, producing a big placenta. (Book p386)"
+    },
+    {
+      "id": "OBG-C6-135",
+      "sec": "Maternal diabetes complications",
+      "page": 386,
+      "q": "What two placental complications are associated with diabetic placentomegaly?",
+      "opts": [
+        "Only uterine rupture",
+        "PIH and placenta previa",
+        "Placenta accreta and vasa previa only",
+        "Only retained placenta"
+      ],
+      "ans": 1,
+      "exp": "The notes associate placentomegaly with increased PIH and placenta previa risk. (Book p386)"
+    },
+    {
+      "id": "OBG-C6-136",
+      "sec": "Maternal diabetes complications",
+      "page": 386,
+      "q": "Which eye assessment is essential in all women with pregestational diabetes?",
+      "opts": [
+        "Color-vision test only",
+        "No eye examination is needed",
+        "Baseline fundus examination",
+        "Keratometry at delivery"
+      ],
+      "ans": 2,
+      "exp": "All women with pre-GDM should have a baseline fundus examination because retinopathy can worsen. (Book p386)"
+    },
+    {
+      "id": "OBG-C6-137",
+      "sec": "Hypoglycemia",
+      "page": 386,
+      "q": "What blood sugar threshold defines hypoglycemia in the diabetes notes?",
+      "opts": [
+        "Below 95 mg/dL",
+        "Below 120 mg/dL",
+        "Below 140 mg/dL",
+        "Below 70 mg/dL"
+      ],
+      "ans": 3,
+      "exp": "Hypoglycemia is defined as blood sugar below 70 mg/dL. (Book p386)"
+    },
+    {
+      "id": "OBG-C6-138",
+      "sec": "Hypoglycemia",
+      "page": 386,
+      "q": "What immediate oral option is listed for hypoglycemia?",
+      "opts": [
+        "Three teaspoons of glucose in 100 mL water",
+        "Three teaspoons of salt in 100 mL water",
+        "Six units of insulin",
+        "One aspirin tablet"
+      ],
+      "ans": 0,
+      "exp": "The listed treatment is 3 teaspoons glucose in 100 mL water, or 6 teaspoons sugar in 100 mL water. (Book p386)"
+    },
+    {
+      "id": "OBG-C6-139",
+      "sec": "Pedersen hypothesis",
+      "page": 387,
+      "q": "In Pedersen hypothesis, maternal hyperglycemia first produces which fetal change?",
+      "opts": [
+        "Fetal hyperglycemia",
+        "Fetal hypothyroidism",
+        "Fetal insulin deficiency",
+        "Fetal hypocalcemia"
+      ],
+      "ans": 0,
+      "exp": "Maternal hyperglycemia causes fetal hyperglycemia before stimulating the fetal pancreas. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-140",
+      "sec": "Pedersen hypothesis",
+      "page": 387,
+      "q": "What endocrine state results after fetal hyperglycemia stimulates the fetal pancreas?",
+      "opts": [
+        "Maternal insulin transfer",
+        "Fetal hyperinsulinemia",
+        "Fetal cortisol deficiency",
+        "Fetal TSH excess"
+      ],
+      "ans": 1,
+      "exp": "Fetal hyperglycemia stimulates the fetal pancreas, producing hyperinsulinemia. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-141",
+      "sec": "Pedersen hypothesis",
+      "page": 387,
+      "q": "How does fetal hyperinsulinemia contribute to shoulder dystocia?",
+      "opts": [
+        "It lowers fetal oxygen demand",
+        "It eliminates macrosomia",
+        "It increases growth and fat deposition around the fetal shoulder",
+        "It causes early cervical dilation"
+      ],
+      "ans": 2,
+      "exp": "Fetal hyperinsulinemia promotes macrosomia and shoulder fat deposition, leading to shoulder dystocia. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-142",
+      "sec": "Fetal diabetes complications",
+      "page": 387,
+      "q": "IUGR in a diabetic pregnancy is expected primarily when which condition coexists?",
+      "opts": [
+        "Diet-controlled GDM alone",
+        "Physiological glycosuria",
+        "Fetal macrosomia alone",
+        "Diabetic vasculopathy or PIH"
+      ],
+      "ans": 3,
+      "exp": "The notes restrict IUGR in diabetes to cases with vasculopathy or PIH. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-143",
+      "sec": "Fetal diabetes complications",
+      "page": 387,
+      "q": "Which hormones are identified as needed for fetal growth?",
+      "opts": [
+        "Insulin and insulin-like growth factors",
+        "TSH and prolactin",
+        "Oxytocin and relaxin",
+        "hCG and aldosterone"
+      ],
+      "ans": 0,
+      "exp": "Insulin and IGFs are named as hormones needed for fetal growth. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-144",
+      "sec": "Fetal diabetes complications",
+      "page": 387,
+      "q": "Uncontrolled diabetes raises the risk of which early pregnancy outcome?",
+      "opts": [
+        "Rh sensitization",
+        "Abortion",
+        "Only post-term pregnancy",
+        "Cervical cancer"
+      ],
+      "ans": 1,
+      "exp": "Uncontrolled diabetes increases the risk of abortion. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-145",
+      "sec": "Fetal diabetes complications",
+      "page": 387,
+      "q": "Why is stillbirth risk increased in diabetes according to the source?",
+      "opts": [
+        "All diabetic fetuses have structural renal anomalies",
+        "Thyroid antibodies cause hemolysis",
+        "Macrosomia raises oxygen demand and hyperglycemia causes oxidative stress and chorionic-villus edema",
+        "Maternal insulin crosses and causes fetal bradycardia"
+      ],
+      "ans": 2,
+      "exp": "Macrosomia increases oxygen demand, while hyperglycemia causes oxidative stress and villous edema that reduce oxygen transport. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-146",
+      "sec": "Fetal diabetes complications",
+      "page": 387,
+      "q": "When is diabetic stillbirth most common according to the notes?",
+      "opts": [
+        "Only in the first 6 weeks",
+        "At exactly 20 weeks",
+        "Only after birth",
+        "In the last 2 weeks of pregnancy"
+      ],
+      "ans": 3,
+      "exp": "The notes state that diabetic stillbirth is most common in the last 2 weeks of pregnancy. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-147",
+      "sec": "Neonatal diabetes complications",
+      "page": 387,
+      "q": "Why does neonatal hypoglycemia occur after a diabetic pregnancy?",
+      "opts": [
+        "Maternal glucose supply stops at birth while fetal insulin remains high",
+        "Maternal insulin starts crossing after birth",
+        "Fetal insulin production stops abruptly before birth",
+        "The placenta continues supplying glucose after birth"
+      ],
+      "ans": 0,
+      "exp": "At birth maternal glucose supply is lost but fetal insulin remains high, causing neonatal hypoglycemia. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-148",
+      "sec": "Neonatal diabetes complications",
+      "page": 387,
+      "q": "Which neonatal electrolyte abnormalities are listed as triggered by hypoglycemia?",
+      "opts": [
+        "Only hyperchloremia",
+        "Hypocalcemia, hypokalemia, and hypomagnesemia",
+        "Hypercalcemia, hyperkalemia, and hypermagnesemia",
+        "Only hyponatremia"
+      ],
+      "ans": 1,
+      "exp": "Hypocalcemia, hypokalemia, and hypomagnesemia are listed with neonatal hypoglycemia. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-149",
+      "sec": "Neonatal diabetes complications",
+      "page": 387,
+      "q": "Why is respiratory distress syndrome increased in the infant of a diabetic mother?",
+      "opts": [
+        "Maternal glucose cannot cross the placenta",
+        "It is caused only by fetal anemia",
+        "Insulin suppresses surfactant production",
+        "Insulin increases surfactant production"
+      ],
+      "ans": 2,
+      "exp": "High fetal insulin suppresses surfactant production, increasing RDS risk. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-150",
+      "sec": "Neonatal diabetes complications",
+      "page": 387,
+      "q": "Hypoxia in the infant of a diabetic mother leads to which sequence?",
+      "opts": [
+        "Decreased erythropoietin and thrombocytopenia",
+        "Hypothyroidism and choanal atresia",
+        "Only neonatal anemia",
+        "Increased erythropoietin, polycythemia, hyperviscosity, and hyperbilirubinemia"
+      ],
+      "ans": 3,
+      "exp": "Hypoxia raises erythropoietin, causing polycythemia, hyperviscosity, and hyperbilirubinemia. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-151",
+      "sec": "Neonatal diabetes complications",
+      "page": 387,
+      "q": "Which complication is specifically NOT seen in the neonatal complication list of diabetes?",
+      "opts": [
+        "Anemia",
+        "Necrotizing enterocolitis",
+        "Hypertrophic obstructive cardiomyopathy",
+        "Hyperbilirubinemia"
+      ],
+      "ans": 0,
+      "exp": "The source explicitly notes that anemia is not seen as a neonatal complication. (Book p387)"
+    },
+    {
+      "id": "OBG-C6-152",
+      "sec": "Late child outcomes",
+      "page": 388,
+      "q": "Which late outcome is listed for a child born after a diabetic pregnancy?",
+      "opts": [
+        "Obesity and metabolic syndrome",
+        "Persistent neonatal anemia only",
+        "Cervical incompetence",
+        "Aplasia cutis"
+      ],
+      "ans": 0,
+      "exp": "Late child outcomes include obesity, metabolic syndrome, and a 1–3% risk of type 2 diabetes. (Book p388)"
+    },
+    {
+      "id": "OBG-C6-153",
+      "sec": "Lung maturity testing",
+      "page": 388,
+      "q": "How is fetal lung maturity testing performed according to the notes?",
+      "opts": [
+        "By cord clamping at delivery",
+        "By amniocentesis in the third trimester",
+        "By fetal echocardiography in the first trimester",
+        "By maternal urine dipstick"
+      ],
+      "ans": 1,
+      "exp": "Lung maturity tests are done on amniotic fluid obtained by third-trimester amniocentesis. (Book p388)"
+    },
+    {
+      "id": "OBG-C6-154",
+      "sec": "Lung maturity testing",
+      "page": 388,
+      "q": "What is the most common fetal lung-maturity test listed?",
+      "opts": [
+        "Bubble test",
+        "Kleihauer–Betke test",
+        "Lecithin/sphingomyelin ratio",
+        "Nile blue sulfate test"
+      ],
+      "ans": 2,
+      "exp": "The lecithin/sphingomyelin ratio is listed as the most common lung-maturity test. (Book p388)"
+    },
+    {
+      "id": "OBG-C6-155",
+      "sec": "Lung maturity testing",
+      "page": 388,
+      "q": "What L/S ratio indicates mature fetal lungs in the notes?",
+      "opts": [
+        "Less than 1:2",
+        "Exactly 1:1",
+        "At least 10:1",
+        "At least 2:1"
+      ],
+      "ans": 3,
+      "exp": "An L/S ratio of 2:1 or greater indicates lung maturity. (Book p388)"
+    },
+    {
+      "id": "OBG-C6-156",
+      "sec": "Lung maturity testing",
+      "page": 388,
+      "q": "Which is identified as the best lung-maturity test when done at or after 35 weeks?",
+      "opts": [
+        "Phosphatidylglycerol",
+        "Bubble test",
+        "Nile blue sulfate test",
+        "L/S ratio only"
+      ],
+      "ans": 0,
+      "exp": "Phosphatidylglycerol is the best test, done at or after 35 weeks. (Book p388)"
+    },
+    {
+      "id": "OBG-C6-157",
+      "sec": "Lung maturity testing",
+      "page": 388,
+      "q": "What does the presence of phosphatidylglycerol indicate?",
+      "opts": [
+        "Maternal diabetes resolution",
+        "Mature fetal lungs",
+        "Immature fetal lungs",
+        "Fetal anemia"
+      ],
+      "ans": 1,
+      "exp": "Presence of phosphatidylglycerol indicates lung maturity. (Book p388)"
+    },
+    {
+      "id": "OBG-C6-158",
+      "sec": "Lung maturity testing",
+      "page": 388,
+      "q": "Which lamellar-body count guarantees 100% lung maturity in the notes?",
+      "opts": [
+        "Exactly 5,000/mL",
+        "Less than 30,000/mL",
+        "More than 50,000/mL",
+        "Less than 15,000/mL"
+      ],
+      "ans": 2,
+      "exp": "A lamellar-body count above 50,000/mL indicates 100% mature lungs. (Book p388)"
+    },
+    {
+      "id": "OBG-C6-159",
+      "sec": "Lung maturity testing",
+      "page": 388,
+      "q": "What lamellar-body count is considered a positive test in amniotic fluid?",
+      "opts": [
+        "Below 5,000/mL",
+        "More than 100,000/mL only",
+        "15,000–20,000/mL",
+        "30,000–40,000/mL"
+      ],
+      "ans": 3,
+      "exp": "A lamellar-body count of 30,000–40,000/mL AF is termed positive. (Book p388)"
+    },
+    {
+      "id": "OBG-C6-160",
+      "sec": "Lung maturity testing",
+      "page": 388,
+      "q": "In the obsolete Nile blue sulfate test, what result indicates mature lungs?",
+      "opts": [
+        "More than 50% orange cells",
+        "More than 50% blue cells",
+        "No cells in amniotic fluid",
+        "Only red cells"
+      ],
+      "ans": 0,
+      "exp": "Orange cells are mature skin cells; more than 50% orange cells indicates mature lungs. (Book p388)"
+    },
+    {
+      "id": "OBG-C6-161",
+      "sec": "Shoulder dystocia",
+      "page": 388,
+      "q": "How is shoulder dystocia defined in the source notes?",
+      "opts": [
+        "Birthweight above 4 kg alone",
+        "Inability to deliver the fetal shoulder within 1 minute of head delivery",
+        "Failure to deliver the head within 10 minutes of crowning",
+        "Any prolonged second stage over 2 hours"
+      ],
+      "ans": 1,
+      "exp": "Shoulder dystocia is inability to deliver the fetal shoulder within 1 minute after head delivery. (Book p388)"
+    },
+    {
+      "id": "OBG-C6-162",
+      "sec": "Shoulder dystocia",
+      "page": 388,
+      "q": "What is the turtle sign in shoulder dystocia?",
+      "opts": [
+        "A prolapsed umbilical cord",
+        "Maternal shoulder pain",
+        "Recession of the fetal head into the perineum",
+        "Fetal head extension after delivery"
+      ],
+      "ans": 2,
+      "exp": "The turtle sign is recession of the delivered fetal head back into the perineum. (Book p388)"
+    },
+    {
+      "id": "OBG-C6-163",
+      "sec": "Shoulder dystocia management",
+      "page": 389,
+      "q": "What is the first action in the listed shoulder-dystocia management sequence?",
+      "opts": [
+        "Perform Zavanelli maneuver",
+        "Proceed directly to cesarean before assessment",
+        "Call for help",
+        "Apply fundal pressure"
+      ],
+      "ans": 2,
+      "exp": "The sequence begins by calling for help. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-164",
+      "sec": "Shoulder dystocia management",
+      "page": 389,
+      "q": "Which early surgical adjunct is listed in shoulder-dystocia management?",
+      "opts": [
+        "Routine hysterectomy",
+        "Cervical cerclage",
+        "Manual vacuum aspiration",
+        "Liberal episiotomy"
+      ],
+      "ans": 3,
+      "exp": "The management sequence includes liberal episiotomy. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-165",
+      "sec": "McRoberts maneuver",
+      "page": 389,
+      "q": "What is the first and most effective maneuver for shoulder dystocia?",
+      "opts": [
+        "McRoberts maneuver",
+        "Zavanelli maneuver",
+        "Cleidotomy",
+        "Symphysiotomy"
+      ],
+      "ans": 0,
+      "exp": "McRoberts maneuver is described as the first and most effective maneuver. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-166",
+      "sec": "McRoberts maneuver",
+      "page": 389,
+      "q": "What does the McRoberts maneuver involve?",
+      "opts": [
+        "Delivery of the posterior arm first",
+        "Flexion and abduction of the legs against the abdomen",
+        "Extension of both legs below the table",
+        "Internal rotation of one shoulder only"
+      ],
+      "ans": 1,
+      "exp": "McRoberts uses flexion and abduction of the maternal legs against the abdomen. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-167",
+      "sec": "McRoberts maneuver",
+      "page": 389,
+      "q": "Why does the McRoberts maneuver help shoulder dystocia?",
+      "opts": [
+        "It rotates both shoulders internally",
+        "It decreases fetal shoulder width directly",
+        "It straightens the sacrum and increases available space without increasing pelvic diameter",
+        "It increases the bony pelvic diameter by 5 cm"
+      ],
+      "ans": 2,
+      "exp": "McRoberts straightens the sacrum and increases available space, not the pelvic diameter. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-168",
+      "sec": "Shoulder dystocia management",
+      "page": 389,
+      "q": "What is added if McRoberts maneuver alone fails?",
+      "opts": [
+        "Fundal pressure",
+        "Immediate forceps rotation",
+        "Magnesium sulfate infusion",
+        "Sustained suprapubic pressure in thrusts"
+      ],
+      "ans": 3,
+      "exp": "If McRoberts fails, sustained suprapubic pressure in thrusts is added. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-169",
+      "sec": "Internal rotation",
+      "page": 389,
+      "q": "Which maneuver performs manual rotation of the shoulders in shoulder dystocia?",
+      "opts": [
+        "Enter maneuver",
+        "McRoberts maneuver",
+        "Gaskin maneuver",
+        "Zavanelli maneuver"
+      ],
+      "ans": 0,
+      "exp": "The Enter maneuver is manual rotation of the shoulders. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-170",
+      "sec": "Internal rotation",
+      "page": 389,
+      "q": "Which statement correctly compares Wood's corkscrew and Rubin maneuvers?",
+      "opts": [
+        "Neither involves shoulder rotation",
+        "Wood's corkscrew rotates both shoulders; Rubin rotates one shoulder",
+        "Wood's rotates one shoulder; Rubin rotates both",
+        "Both are fundal-pressure maneuvers"
+      ],
+      "ans": 1,
+      "exp": "Wood's corkscrew acts on both shoulders, whereas Rubin's maneuver acts on one. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-171",
+      "sec": "Shoulder dystocia management",
+      "page": 389,
+      "q": "What is the maneuver called when the posterior fetal arm is delivered?",
+      "opts": [
+        "Paalman maneuver",
+        "Pritchard maneuver",
+        "Jacquemier maneuver",
+        "Zavanelli maneuver"
+      ],
+      "ans": 2,
+      "exp": "Delivery of the posterior arm is the Jacquemier maneuver. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-172",
+      "sec": "Shoulder dystocia management",
+      "page": 389,
+      "q": "Which maneuver places the mother on all fours?",
+      "opts": [
+        "Rubin maneuver",
+        "McRoberts maneuver",
+        "Cleidotomy",
+        "Gaskin (all-fours) maneuver"
+      ],
+      "ans": 3,
+      "exp": "The all-fours maneuver is Gaskin maneuver. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-173",
+      "sec": "Shoulder dystocia management",
+      "page": 389,
+      "q": "What is the last-step Zavanelli maneuver?",
+      "opts": [
+        "Push the fetal head back into the uterus and perform cesarean section",
+        "Deliver the posterior arm with traction",
+        "Apply fundal pressure",
+        "Fracture the maternal pubic symphysis"
+      ],
+      "ans": 0,
+      "exp": "Zavanelli replaces the fetal head into the uterus before cesarean delivery. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-174",
+      "sec": "Shoulder dystocia management",
+      "page": 389,
+      "q": "What can be done for shoulder dystocia in a dead baby according to the notes?",
+      "opts": [
+        "External cephalic version",
+        "Cleidotomy (fracture the clavicle)",
+        "McRoberts only",
+        "Immediate anti-D"
+      ],
+      "ans": 1,
+      "exp": "For a dead baby, clavicular fracture (cleidotomy) is listed. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-175",
+      "sec": "Shoulder dystocia management",
+      "page": 389,
+      "q": "Which intervention is contraindicated in shoulder dystocia management?",
+      "opts": [
+        "McRoberts maneuver",
+        "Delivery of the posterior arm",
+        "Fundal pressure",
+        "Suprapubic pressure"
+      ],
+      "ans": 2,
+      "exp": "Fundal pressure is specifically contraindicated. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-176",
+      "sec": "Shoulder dystocia management",
+      "page": 389,
+      "q": "What is the maximum time allowed for each shoulder-dystocia maneuver before moving to the next step?",
+      "opts": [
+        "5 seconds",
+        "2 minutes",
+        "10 minutes",
+        "30 seconds"
+      ],
+      "ans": 3,
+      "exp": "Each maneuver is performed for a maximum of 30 seconds before escalating. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-177",
+      "sec": "Shoulder dystocia complications",
+      "page": 389,
+      "q": "What is the most common fetal complication of shoulder dystocia?",
+      "opts": [
+        "Erb's palsy",
+        "Congenital cataract",
+        "Hydrops fetalis",
+        "Neonatal hypothyroidism"
+      ],
+      "ans": 0,
+      "exp": "Erb's palsy is listed as the most common fetal complication. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-178",
+      "sec": "Shoulder dystocia complications",
+      "page": 389,
+      "q": "What arm position is characteristic of Erb palsy (policeman/porter tip hand)?",
+      "opts": [
+        "Both arms held above the head",
+        "Internally rotated, adducted, and pronated",
+        "Externally rotated, abducted, and supinated",
+        "Flexed at elbow with hyperextended wrist only"
+      ],
+      "ans": 1,
+      "exp": "The source describes Erb palsy as an internally rotated, adducted, and pronated arm. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-179",
+      "sec": "Shoulder dystocia complications",
+      "page": 389,
+      "q": "What is the most common maternal complication of shoulder dystocia?",
+      "opts": [
+        "Choriocarcinoma",
+        "Diabetes insipidus",
+        "Postpartum hemorrhage",
+        "Placenta previa"
+      ],
+      "ans": 2,
+      "exp": "Postpartum hemorrhage is the most common maternal complication. (Book p389)"
+    },
+    {
+      "id": "OBG-C6-180",
+      "sec": "Shoulder dystocia complications",
+      "page": 389,
+      "q": "Which nerve is most commonly injured during McRoberts maneuver?",
+      "opts": [
+        "Facial nerve",
+        "Ulnar nerve",
+        "Phrenic nerve",
+        "Lateral cutaneous nerve of the thigh"
+      ],
+      "ans": 3,
+      "exp": "The lateral cutaneous nerve of the thigh is the most commonly injured nerve during McRoberts maneuver. (Book p389)"
+    }
+  ]
+}
