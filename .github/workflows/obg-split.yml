@@ -1,0 +1,73 @@
+name: obg-split
+
+# Stage 3: the 122 MB Drive PDF exceeds GitHub's 100 MB per-file push limit, and the
+# sandbox has no route to Google Drive. This runner downloads the source once, splits it
+# into page-range parts that fit comfortably (<40 MB each), and commits them to uploads/.
+# Parts follow the same naming convention as the SURGERY repo ("<Book> Vol. 1-<a>-<b>.pdf",
+# ranges are PDF page numbers; book page = pdf page - 7).
+on:
+  push:
+    paths:
+      - ".github/workflows/obg-split.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  split:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install tooling
+        run: |
+          python3 -m pip install --quiet --upgrade pip
+          python3 -m pip install --quiet gdown pymupdf
+
+      - name: Download source PDF from Google Drive
+        run: |
+          mkdir -p work/src uploads
+          if [ ! -s "work/src/OBG Vol. 1.pdf" ]; then
+            gdown --id 1jAz5J-HzqGo1p7MT1WmLfr6SEX7f6prr -O "work/src/OBG Vol. 1.pdf"
+          fi
+          ls -l "work/src/OBG Vol. 1.pdf"
+
+      - name: Split into page-range parts
+        run: |
+          python3 - <<'PY'
+          import fitz
+          src = "work/src/OBG Vol. 1.pdf"
+          doc = fitz.open(src)
+          n = doc.page_count
+          # 4 parts of ~68 pdf pages, ~30 MB each
+          bounds = [(1, 68), (69, 136), (137, 204), (205, n)]
+          for a, b in bounds:
+              out = f"uploads/OBG Vol. 1-{a}-{b}.pdf"
+              part = fitz.open()
+              part.insert_pdf(doc, from_page=a - 1, to_page=b - 1)
+              part.save(out, garbage=3, deflate=True)
+              part.close()
+              print(out)
+          PY
+          ls -l uploads
+
+      - name: Commit parts
+        run: |
+          git config user.email "obg-bot@users.noreply.github.com"
+          git config user.name "obg-split"
+          cat > .gitignore <<'EOF'
+          work/src/
+          work/pages/
+          work/ocr/
+          work/inspect/
+          work/probe/
+          __pycache__/
+          *.pyc
+          .DS_Store
+          EOF
+          git add -A uploads .gitignore
+          git commit -m "uploads: split OBG Vol. 1 (272 pdf pages) into 4 page-range parts" || echo "nothing to commit"
+          git push
