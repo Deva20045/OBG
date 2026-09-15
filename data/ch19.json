@@ -1,0 +1,1854 @@
+{
+ "chapter": 19,
+ "title": "Normal Labour & Induction of Labour",
+ "pageRange": "512-527",
+ "questions": [
+  {
+   "id": "OBG-C19-001",
+   "sec": "Definition, criteria & the four phases of labour",
+   "page": 512,
+   "q": "Labour is defined as the process by which a fetus, after attaining ______, is expelled from the ______.",
+   "opts": [
+    "Period of viability; genital tract",
+    "Term; uterus",
+    "28 weeks; birth canal",
+    "Lung maturity; pelvis"
+   ],
+   "ans": 0,
+   "exp": "Labour = process by which a fetus after attaining the period of viability is expelled from the genital tract. (Book p512)"
+  },
+  {
+   "id": "OBG-C19-002",
+   "sec": "Definition, criteria & the four phases of labour",
+   "page": 512,
+   "q": "Which set completes the five criteria for normal labour?",
+   "opts": [
+    "Spontaneous onset; term gestation (37–42 wks); vertex presentation; uncomplicated delivery; vaginal delivery",
+    "Induced onset; term; breech; forceps; vaginal",
+    "Spontaneous onset; any gestation; cephalic; C-section allowed; live birth",
+    "Spontaneous onset; term; vertex; epidural; instrumental allowed"
+   ],
+   "ans": 0,
+   "exp": "Criteria: spontaneous onset, term gestation (37 to 42 wks), vertex presentation, uncomplicated delivery, vaginal delivery. (Book p512)"
+  },
+  {
+   "id": "OBG-C19-003",
+   "sec": "Definition, criteria & the four phases of labour",
+   "page": 512,
+   "q": "Phase 1 of labour (uterine quiescence) is characterised by:",
+   "opts": [
+    "Unresponsive uterus, soft cervix, main hormone progesterone",
+    "Functional progesterone withdrawal and ↑ gap junctions",
+    "Active uterine contractions of all stages",
+    "Postpartum involution"
+   ],
+   "ans": 0,
+   "exp": "Phase 1: uterus unresponsive, cervix soft, main hormone progesterone. (Book p512)"
+  },
+  {
+   "id": "OBG-C19-004",
+   "sec": "Definition, criteria & the four phases of labour",
+   "page": 512,
+   "q": "Phase 2 (myometrial activation / preparatory phase) includes all EXCEPT:",
+   "opts": [
+    "Rise in progesterone action",
+    "Functional withdrawal of progesterone and ↑ estrogen",
+    "↑ oxytocin and prostaglandin receptors and ↑ gap junctions",
+    "Ripening of cervix"
+   ],
+   "ans": 0,
+   "exp": "Phase 2 = functional withdrawal of progesterone, ↑ estrogen, ↑ oxytocin/PG receptors, ↑ gap junctions, cervical ripening. (Book p512)"
+  },
+  {
+   "id": "OBG-C19-005",
+   "sec": "Definition, criteria & the four phases of labour",
+   "page": 512,
+   "q": "Match phase 3 and phase 4 of labour:",
+   "opts": [
+    "Phase 3 = uterine stimulation/contraction (all stages of labour); Phase 4 = postpartum phase",
+    "Phase 3 = quiescence; Phase 4 = activation",
+    "Phase 3 = postpartum; Phase 4 = involution",
+    "Phase 3 = cervical ripening; Phase 4 = delivery"
+   ],
+   "ans": 0,
+   "exp": "Phase 3: uterine stimulation – all stages of labour included; Phase 4: postpartum. (Book p512)"
+  },
+  {
+   "id": "OBG-C19-006",
+   "sec": "Definition, criteria & the four phases of labour",
+   "page": 512,
+   "q": "Arrange the fetal cascade for onset of labour:",
+   "opts": [
+    "Fetal hypothalamus (CRH) → fetal pituitary (ACTH) → fetal adrenal → DHEA-S → placental estrogen → uterine contractions",
+    "Fetal adrenal (cortisol) → placenta (progesterone) → uterus",
+    "Maternal pituitary (oxytocin) → fetal adrenal → estrogen",
+    "Fetal pituitary (CRH) → placenta (ACTH) → DHEA-S → progesterone"
+   ],
+   "ans": 0,
+   "exp": "Hypothalamus CRH → pituitary ACTH → adrenal DHEA-sulfate → converted to estrogen in placenta → uterine contractions. (Book p512)"
+  },
+  {
+   "id": "OBG-C19-007",
+   "sec": "Pre-labour state & true vs false labour pain",
+   "page": 513,
+   "q": "Lightening (welcome sign) is ______ leading to ______.",
+   "opts": [
+    "Descent of fetal head into pelvis; ↓ fundal height and relief of respiratory distress",
+    "Onset of true labour pain; cervical dilatation",
+    "Rupture of membranes; ↓ liquor",
+    "Passage of show; cervical effacement"
+   ],
+   "ans": 0,
+   "exp": "Lightening = descent of head into pelvis → ↓ fundal height, relieving respiratory distress. (Book p513)"
+  },
+  {
+   "id": "OBG-C19-008",
+   "sec": "Pre-labour state & true vs false labour pain",
+   "page": 513,
+   "q": "Cervical ripening in the pre-labour state occurs due to prostaglandins and connective tissue changes that include:",
+   "opts": [
+    "↓ cross-linking of fibres, ↑ water content, ↑ hyaluronic acid",
+    "↑ cross-linking, ↓ water, ↓ hyaluronic acid",
+    "↑ collagen deposition, ↓ water",
+    "↑ elastin, ↓ hyaluronic acid"
+   ],
+   "ans": 0,
+   "exp": "Ripening: ↓ cross-linking of fibres, ↑ water content, ↑ hyaluronic acid; Bishop score assesses cervix before induction. (Book p513)"
+  },
+  {
+   "id": "OBG-C19-009",
+   "sec": "Pre-labour state & true vs false labour pain",
+   "page": 513,
+   "q": "True labour pain contractions are ______ and ______, whereas false labour pain contractions are ______.",
+   "opts": [
+    "Regular & rhythmic; progressive in intensity, frequency and strength; irregular/continuous and non-progressive",
+    "Irregular; non-progressive; regular",
+    "Continuous; fixed intensity; rhythmic",
+    "Regular; decreasing; progressive"
+   ],
+   "ans": 0,
+   "exp": "True: regular, rhythmic, progressive (↑ intensity, frequency, strength) → cervical dilatation. False: irregular/continuous, non-progressive, no dilatation. (Book p513)"
+  },
+  {
+   "id": "OBG-C19-010",
+   "sec": "Pre-labour state & true vs false labour pain",
+   "page": 513,
+   "q": "Site of pain – true labour : false labour.",
+   "opts": [
+    "Lower abdomen radiating to back of thigh : does not radiate",
+    "Epigastric radiating to back : lower abdomen",
+    "Back only : thigh only",
+    "Suprapubic non-radiating : radiates to thigh"
+   ],
+   "ans": 0,
+   "exp": "True labour pain is in the lower abdomen radiating to the back of thigh; false pain does not radiate. (Book p513)"
+  },
+  {
+   "id": "OBG-C19-011",
+   "sec": "Pre-labour state & true vs false labour pain",
+   "page": 513,
+   "q": "Show (mucosal blood + plug) and bag of membranes – true labour : false labour.",
+   "opts": [
+    "Present, felt : absent, not felt",
+    "Absent, felt : present, not felt",
+    "Present, not felt : absent, felt",
+    "Both present in each"
+   ],
+   "ans": 0,
+   "exp": "True labour: show present, bag of membranes felt; false labour: show absent, membranes not felt. (Book p513)"
+  },
+  {
+   "id": "OBG-C19-012",
+   "sec": "Pre-labour state & true vs false labour pain",
+   "page": 513,
+   "q": "Response to sedation, enema and rest – true labour : false labour.",
+   "opts": [
+    "No relief (−) : relieved (+)",
+    "Relieved (+) : no relief (−)",
+    "Both relieved",
+    "Neither relieved"
+   ],
+   "ans": 0,
+   "exp": "False labour pains respond to sedation, enema and rest; true labour pains do not. (Book p513)"
+  },
+  {
+   "id": "OBG-C19-013",
+   "sec": "The 3 Ps & physiology of uterine contractions",
+   "page": 514,
+   "q": "The mnemonic '3 Ps' for requirements of labour stands for:",
+   "opts": [
+    "Push (uterine contractions), Passage (pelvis), Passenger (baby)",
+    "Pain, Pelvis, Placenta",
+    "Position, Presentation, Power",
+    "Progesterone, Prostaglandin, Pitocin"
+   ],
+   "ans": 0,
+   "exp": "3 Ps: Push = contractions, Passage = pelvis, Passenger = baby. (Book p514)"
+  },
+  {
+   "id": "OBG-C19-014",
+   "sec": "The 3 Ps & physiology of uterine contractions",
+   "page": 514,
+   "q": "Uterine contractions – origin : speed : time to depolarize entire uterus : predominant site.",
+   "opts": [
+    "Cornua : 2 cm/sec : 15 sec : fundus",
+    "Fundus : 1 cm/sec : 30 sec : cornua",
+    "Isthmus : 2 cm/sec : 15 sec : lower segment",
+    "Cervix : 5 cm/sec : 10 sec : fundus"
+   ],
+   "ans": 0,
+   "exp": "Origin cornua; speed 2 cm/sec; 15 sec to depolarize entire uterus; predominant contraction site fundus. (Book p514)"
+  },
+  {
+   "id": "OBG-C19-015",
+   "sec": "The 3 Ps & physiology of uterine contractions",
+   "page": 514,
+   "q": "Strength thresholds – contractions become palpable at ______, painful at ______ and cause cervical dilatation at ______.",
+   "opts": [
+    "10 mmHg; 15 mmHg; 20–25 mmHg",
+    "15 mmHg; 10 mmHg; 40 mmHg",
+    "20 mmHg; 25 mmHg; 50 mmHg",
+    "5 mmHg; 10 mmHg; 15 mmHg"
+   ],
+   "ans": 0,
+   "exp": "Palpable 10 mmHg, painful 15 mmHg, cervical dilatation 20–25 mmHg. (Book p514)"
+  },
+  {
+   "id": "OBG-C19-016",
+   "sec": "The 3 Ps & physiology of uterine contractions",
+   "page": 514,
+   "q": "Contraction strength during stages – 1st stage : 2nd & 3rd stage : basal (released) tone.",
+   "opts": [
+    "40–50 mmHg : 100–120 mmHg : 10–20 mmHg",
+    "100–120 : 40–50 : 5 mmHg",
+    "20–25 : 40–50 : 10 mmHg",
+    "60–75 : 120–150 : 20–30"
+   ],
+   "ans": 0,
+   "exp": "1st stage 40–50 mmHg; 2nd/3rd stage 100–120 mmHg; basal tone 10–20 mmHg; monitored every 30 min. (Book p514)"
+  },
+  {
+   "id": "OBG-C19-017",
+   "sec": "The 3 Ps & physiology of uterine contractions",
+   "page": 514,
+   "q": "One Montevideo unit (MVU) is calculated as:",
+   "opts": [
+    "Strength of contraction (mmHg) × number of contractions in 10 min",
+    "Duration (sec) × number in 10 min",
+    "Strength (mmHg) ÷ duration",
+    "Number of contractions per hour × 10"
+   ],
+   "ans": 0,
+   "exp": "1 MVU = strength (mmHg) × number of contractions in 10 min; adequate = 200–220 MVU. (Book p514)"
+  },
+  {
+   "id": "OBG-C19-018",
+   "sec": "The 3 Ps & physiology of uterine contractions",
+   "page": 514,
+   "q": "As pregnancy advances the upper uterine segment is formed by ______ and ______ during labour; the lower segment is formed by ______ and ______; in the 1st stage the effaced cervix becomes part of ______.",
+   "opts": [
+    "Entire uterus; contracts; isthmus; passively dilates; lower uterine segment",
+    "Isthmus; dilates; fundus; contracts; upper segment",
+    "Fundus; relaxes; cervix; contracts; vagina",
+    "Corpus; dilates; isthmus; contracts; fundus"
+   ],
+   "ans": 0,
+   "exp": "Upper segment = entire uterus (contracts); lower segment = isthmus (passively dilates); effaced cervix becomes part of LUS. Blood flow to uterus ↓ during contractions. (Book p514)"
+  },
+  {
+   "id": "OBG-C19-019",
+   "sec": "Tachysystole, precipitate labour & hypotonic contractions",
+   "page": 514,
+   "q": "Tachysystole is defined as ______ and its most common cause is ______.",
+   "opts": [
+    ">5 contractions in 10 min; misoprostol (> oxytocin)",
+    ">3 in 10 min; oxytocin",
+    "Contractions >60 sec; dinoprostone",
+    ">7 in 10 min; Foley catheter"
+   ],
+   "ans": 0,
+   "exp": "Tachysystole = >5 contractions/10 min; m/c cause misoprostol > oxytocin. (Book p514)"
+  },
+  {
+   "id": "OBG-C19-020",
+   "sec": "Tachysystole, precipitate labour & hypotonic contractions",
+   "page": 514,
+   "q": "The consequence of tachysystole and its CTG picture are:",
+   "opts": [
+    "Fetal distress due to ↓ blood supply; prolonged deceleration",
+    "Maternal hypotension; early decelerations",
+    "Uterine rupture; sinusoidal pattern",
+    "PPH; accelerations"
+   ],
+   "ans": 0,
+   "exp": "Consequence: fetal distress (↓ blood supply); CTG shows prolonged deceleration. (Book p514)"
+  },
+  {
+   "id": "OBG-C19-021",
+   "sec": "Tachysystole, precipitate labour & hypotonic contractions",
+   "page": 514,
+   "q": "Management sequence of tachysystole:",
+   "opts": [
+    "Stop oxytocin → left lateral position → O2 by mask → IV fluids if required → terbutaline",
+    "Increase IV fluids → C-section",
+    "Continue oxytocin → O2 → forceps",
+    "Give misoprostol → left lateral"
+   ],
+   "ans": 0,
+   "exp": "Stop oxytocin, turn mother to left lateral, O2 by mask, IV fluids if required, terbutaline (uterine relaxant). (Book p514)"
+  },
+  {
+   "id": "OBG-C19-022",
+   "sec": "Tachysystole, precipitate labour & hypotonic contractions",
+   "page": 514,
+   "q": "Precipitate labour is defined as completion of the entire labour in ______ and its consequences include ______.",
+   "opts": [
+    "<3 hours; perineal tear, hematoma, PPH",
+    "<1 hour; uterine inversion only",
+    "<6 hours; retained placenta",
+    "<12 hours; fetal distress"
+   ],
+   "ans": 0,
+   "exp": "Precipitate labour: entire process <3 h → perineal tear, hematoma, PPH. (Book p514)"
+  },
+  {
+   "id": "OBG-C19-023",
+   "sec": "Tachysystole, precipitate labour & hypotonic contractions",
+   "page": 514,
+   "q": "Hypotonic contractions lead to ______ and are managed by ______.",
+   "opts": [
+    "Prolonged/slow progress of labour; augmentation with ARM and oxytocin",
+    "Fetal distress; terbutaline",
+    "Precipitate labour; tocolysis",
+    "Uterine rupture; C-section"
+   ],
+   "ans": 0,
+   "exp": "Hypotonic contractions → slow progress; augment with artificial rupture of membranes and oxytocin. (Book p514)"
+  },
+  {
+   "id": "OBG-C19-024",
+   "sec": "Augmentation of labour: ARM & sequence",
+   "page": 515,
+   "q": "The instrument for artificial rupture of membranes is ______, identified by ______.",
+   "opts": [
+    "Kocher's forceps; single tooth, multiple rat-like teeth, ratchet lock and transverse serrations",
+    "Allis forceps; multiple fine teeth",
+    "Sponge holder; smooth jaws",
+    "Amnihook; plastic hook"
+   ],
+   "ans": 0,
+   "exp": "ARM instrument = Kocher's forceps: single tooth, multiple rat-like teeth, ratchet lock, transverse serrations. (Book p515)"
+  },
+  {
+   "id": "OBG-C19-025",
+   "sec": "Augmentation of labour: ARM & sequence",
+   "page": 515,
+   "q": "Principle of ARM: rupture of membranes → release of ______ → augmentation of labour.",
+   "opts": [
+    "PGE2",
+    "Oxytocin",
+    "PGF2α",
+    "Estrogen"
+   ],
+   "ans": 0,
+   "exp": "Rupture of membranes releases PGE2 which augments labour. (Book p515)"
+  },
+  {
+   "id": "OBG-C19-026",
+   "sec": "Augmentation of labour: ARM & sequence",
+   "page": 515,
+   "q": "Absolute contraindications to ARM are:",
+   "opts": [
+    "Maternal HIV, genital herpes infection, IUD of fetus",
+    "Polyhydramnios, breech, twins",
+    "Previous C-section, GDM, PIH",
+    "Preterm, post-term, IUGR"
+   ],
+   "ans": 0,
+   "exp": "Absolute C/I: maternal HIV, genital herpes, IUD of fetus. Relative: polyhydramnios (↑ abruption risk) – controlled rupture with slow release. (Book p515)"
+  },
+  {
+   "id": "OBG-C19-027",
+   "sec": "Augmentation of labour: ARM & sequence",
+   "page": 515,
+   "q": "In abruptio placentae, ARM is beneficial because it:",
+   "opts": [
+    "Confirms the diagnosis and accelerates the process of labour",
+    "Stops the bleeding by tamponade",
+    "Reduces risk of DIC directly",
+    "Allows external cephalic version"
+   ],
+   "ans": 0,
+   "exp": "ARM in abruptio placenta confirms diagnosis and accelerates labour. (Book p515)"
+  },
+  {
+   "id": "OBG-C19-028",
+   "sec": "Augmentation of labour: ARM & sequence",
+   "page": 515,
+   "q": "Indication for augmentation is slow progress (dilatation <1 cm/hr in active phase). Sequence when head engaged vs not engaged:",
+   "opts": [
+    "Engaged: ARM → 30 min → oxytocin; not engaged: oxytocin followed by ARM (↑ cord prolapse risk)",
+    "Engaged: oxytocin → ARM; not engaged: ARM → oxytocin",
+    "Both: ARM immediately followed by oxytocin",
+    "Both: oxytocin only"
+   ],
+   "ans": 0,
+   "exp": "Head engaged: ARM then oxytocin after 30 min; head not engaged: oxytocin first, then ARM to avoid cord prolapse. (Book p515)"
+  },
+  {
+   "id": "OBG-C19-029",
+   "sec": "Cardinal movements & the process of labour",
+   "page": 515,
+   "q": "Arrange the cardinal movements of labour in order:",
+   "opts": [
+    "Engagement → descent → flexion → internal rotation & crowning → extension → external rotation (restitution) → expulsion",
+    "Descent → engagement → extension → flexion → internal rotation → expulsion → restitution",
+    "Engagement → flexion → descent → extension → internal rotation → restitution → expulsion",
+    "Flexion → engagement → descent → crowning → internal rotation → expulsion → extension"
+   ],
+   "ans": 0,
+   "exp": "Engagement, descent, flexion, internal rotation & crowning, extension, external rotation (restitution), expulsion. (Book p515)"
+  },
+  {
+   "id": "OBG-C19-030",
+   "sec": "Cardinal movements & the process of labour",
+   "page": 516,
+   "q": "The prerequisites for a normal delivery are ______ lie, ______ presentation and ______ presenting part.",
+   "opts": [
+    "Longitudinal; cephalic; vertex",
+    "Longitudinal; breech; sacrum",
+    "Oblique; cephalic; brow",
+    "Transverse; shoulder; acromion"
+   ],
+   "ans": 0,
+   "exp": "Normal delivery: longitudinal lie, cephalic presentation, vertex presenting part; head usually in LOT (LOT > LOA). (Book p516)"
+  },
+  {
+   "id": "OBG-C19-031",
+   "sec": "Cardinal movements & the process of labour",
+   "page": 516,
+   "q": "Internal rotation: the occiput rotates by ______ of a circle at the level of ______, contributed as ______ by neck and ______ by shoulders.",
+   "opts": [
+    "2/8th; ischial spine; 45°; 45°",
+    "1/8th; ischial tuberosity; 45°; 0°",
+    "3/8th; pelvic brim; 90°; 45°",
+    "2/8th; pelvic outlet; 60°; 30°"
+   ],
+   "ans": 0,
+   "exp": "Occiput rotates 2/8th of a circle (90°) at the ischial spine level: 45° by neck + 45° by shoulders. (Book p516)"
+  },
+  {
+   "id": "OBG-C19-032",
+   "sec": "Cardinal movements & the process of labour",
+   "page": 516,
+   "q": "Crowning is defined as:",
+   "opts": [
+    "Head seen at the labia irrespective of contractions (episiotomy only if required)",
+    "Head visible only during contractions",
+    "Descent of head onto levator ani",
+    "Delivery of the head by extension"
+   ],
+   "ans": 0,
+   "exp": "Crowning = head seen at the labia irrespective of contractions; episiotomy given only if required. (Book p516)"
+  },
+  {
+   "id": "OBG-C19-033",
+   "sec": "Cardinal movements & the process of labour",
+   "page": 516,
+   "q": "Match – Restitution : External rotation.",
+   "opts": [
+    "Untwisting of neck : shoulder rotates by 1/8th of a circle, visible as head rotates (occiput back to LOT)",
+    "Shoulder rotation : untwisting of neck",
+    "Extension of head : flexion of head",
+    "Descent : expulsion"
+   ],
+   "ans": 0,
+   "exp": "Restitution = untwisting of neck; external rotation = shoulders rotate 1/8th of a circle, seen as head rotation (occiput in LOT). (Book p516)"
+  },
+  {
+   "id": "OBG-C19-034",
+   "sec": "Cardinal movements & the process of labour",
+   "page": 516,
+   "q": "WHO recommended methods to prevent perineal tear:",
+   "opts": [
+    "Perineal massage, warm towel at perineum, support perineum with hand, flex head initially then extend for delivery",
+    "Routine episiotomy, fundal pressure, early pushing",
+    "Lithotomy position, Kristeller manoeuvre",
+    "Vacuum extraction, perineal shaving"
+   ],
+   "ans": 0,
+   "exp": "Perineal massage, warm towel, hand support of perineum, initial flexion then extension of head. (Book p516)"
+  },
+  {
+   "id": "OBG-C19-035",
+   "sec": "Engagement: definition, signs, causes of non-engagement & engaging diameters",
+   "page": 517,
+   "q": "Engagement is defined as the ______ crossing the ______; it occurs at ______ in primigravida and ______ in multigravida.",
+   "opts": [
+    "Largest transverse diameter (biparietal) of head; pelvic inlet; 38 wks; time of labour",
+    "Sub-occipito-bregmatic; pelvic outlet; 36 wks; 38 wks",
+    "Occipito-frontal; mid-pelvis; 40 wks; 40 wks",
+    "Bitemporal; brim; labour; 38 wks"
+   ],
+   "ans": 0,
+   "exp": "Engagement = biparietal diameter crosses pelvic inlet; primi 38 wks, multi at labour. (Book p517)"
+  },
+  {
+   "id": "OBG-C19-036",
+   "sec": "Engagement: definition, signs, causes of non-engagement & engaging diameters",
+   "page": 517,
+   "q": "Signs of engagement – on P/A : on P/V.",
+   "opts": [
+    "≤2/5th of head palpable : 0 station",
+    "5/5th palpable : −2 station",
+    "3/5th palpable : +2 station",
+    "Non-ballotable : −3 station"
+   ],
+   "ans": 0,
+   "exp": "P/A ≤2/5 palpable; P/V station 0. (Book p517)"
+  },
+  {
+   "id": "OBG-C19-037",
+   "sec": "Engagement: definition, signs, causes of non-engagement & engaging diameters",
+   "page": 517,
+   "q": "Causes of non-engagement in a primigravida at term, in order of frequency:",
+   "opts": [
+    "Deflexed head (m/c) > CPD > placenta previa; others – polyhydramnios, wrong dates",
+    "CPD > placenta previa > deflexed head",
+    "Placenta previa > polyhydramnios > CPD",
+    "Wrong dates > deflexed head > CPD"
+   ],
+   "ans": 0,
+   "exp": "Deflexed head (m/c) > cephalopelvic disproportion > placenta previa; also polyhydramnios and wrong dates. (Book p517)"
+  },
+  {
+   "id": "OBG-C19-038",
+   "sec": "Engagement: definition, signs, causes of non-engagement & engaging diameters",
+   "page": 517,
+   "q": "Before P/V examination in a primigravida with a free-floating head, ______ must be ruled out; engagement rules out ______.",
+   "opts": [
+    "Placenta previa; CPD at the level of inlet",
+    "Cord prolapse; malposition",
+    "Abruption; contracted outlet",
+    "Vasa previa; deflexion"
+   ],
+   "ans": 0,
+   "exp": "Rule out placenta previa before P/V in primigravida with free floating head; engagement rules out CPD at the inlet. (Book p517)"
+  },
+  {
+   "id": "OBG-C19-039",
+   "sec": "Engagement: definition, signs, causes of non-engagement & engaging diameters",
+   "page": 517,
+   "q": "Match degree of flexion → presenting part → engaging AP diameter: Fully flexed : Deflexed : Partially extended : Fully extended.",
+   "opts": [
+    "Vertex/sub-occipitobregmatic : vertex/occipito-frontal 11.5 cm : brow/mento-vertical → C-section : face/submento-vertical & submento-bregmatic",
+    "Vertex/occipito-frontal : brow/mento-vertical : face/submento-bregmatic : vertex/sub-occipitobregmatic",
+    "Face/submento-bregmatic : vertex/sub-occipitobregmatic : brow/mento-vertical : vertex/occipito-frontal",
+    "Brow/mento-vertical : vertex/sub-occipitobregmatic : face/submento-vertical : vertex/occipito-frontal"
+   ],
+   "ans": 0,
+   "exp": "Fully flexed vertex – sub-occipitobregmatic; deflexed vertex – occipito-frontal 11.5 cm; brow – mento-vertical (C-section); face – submento-vertical/submento-bregmatic. (Book p517)"
+  },
+  {
+   "id": "OBG-C19-040",
+   "sec": "Synclitic & asynclitic engagement",
+   "page": 517,
+   "q": "Synclitic engagement means the sagittal suture lies in the transverse diameter of the pelvis:",
+   "opts": [
+    "Midway between pubic symphysis and sacral promontory (LOT position)",
+    "Closer to the pubic symphysis",
+    "Closer to the sacral promontory",
+    "In the AP diameter of the pelvis"
+   ],
+   "ans": 0,
+   "exp": "Synclitic: sagittal suture midway between pubic symphysis and sacral promontory. (Book p517)"
+  },
+  {
+   "id": "OBG-C19-041",
+   "sec": "Synclitic & asynclitic engagement",
+   "page": 518,
+   "q": "In ANTERIOR asynclitism the sagittal suture is deflected towards the ______, giving a ______ presentation, with ______ prognosis.",
+   "opts": [
+    "Sacrum; anterior parietal; better",
+    "Pubic symphysis; posterior parietal; worse",
+    "Sacrum; posterior parietal; worse",
+    "Pubic symphysis; anterior parietal; better"
+   ],
+   "ans": 0,
+   "exp": "Anterior asynclitism: sagittal suture towards sacrum, anterior parietal presentation, better prognosis. (Book p518)"
+  },
+  {
+   "id": "OBG-C19-042",
+   "sec": "Synclitic & asynclitic engagement",
+   "page": 518,
+   "q": "In POSTERIOR asynclitism the sagittal suture is deflected towards ______ and the presentation is ______.",
+   "opts": [
+    "Pubic symphysis; posterior parietal",
+    "Sacrum; anterior parietal",
+    "Pubic symphysis; anterior parietal",
+    "Ischial spine; occipital"
+   ],
+   "ans": 0,
+   "exp": "Posterior asynclitism: suture deflected towards pubic symphysis, posterior parietal presentation. (Book p518)"
+  },
+  {
+   "id": "OBG-C19-043",
+   "sec": "Synclitic & asynclitic engagement",
+   "page": 518,
+   "q": "The head of the baby is delivered by ______ in vertex and by ______ in breech/face.",
+   "opts": [
+    "Extension; flexion",
+    "Flexion; extension",
+    "Rotation; extension",
+    "Extension; extension"
+   ],
+   "ans": 0,
+   "exp": "Vertex – head delivered by extension; breech/face – by flexion. (Book p518)"
+  },
+  {
+   "id": "OBG-C19-044",
+   "sec": "Pain pathways of labour & epidural analgesia",
+   "page": 518,
+   "q": "Pain during the 1st stage arises from ______ (T10–L1) plus ______ (S2–S4).",
+   "opts": [
+    "Uterine contractions; dilatation of cervix",
+    "Perineal stretching; cervical dilatation",
+    "Uterine contractions; perineal stretching",
+    "Round ligament; bladder"
+   ],
+   "ans": 0,
+   "exp": "1st stage: uterine contractions (T10–L1) + cervical dilatation (S2–S4). (Book p518)"
+  },
+  {
+   "id": "OBG-C19-045",
+   "sec": "Pain pathways of labour & epidural analgesia",
+   "page": 518,
+   "q": "Pain during the 2nd stage is from cervical dilatation (S2–S4) plus stretching of the perineum via the ______ nerve (______).",
+   "opts": [
+    "Pudendal; S2–S4",
+    "Ilioinguinal; L1",
+    "Genitofemoral; L1–L2",
+    "Obturator; L2–L4"
+   ],
+   "ans": 0,
+   "exp": "2nd stage: cervical dilatation S2–S4 + perineal stretch via pudendal nerve (S2–S4). (Book p518)"
+  },
+  {
+   "id": "OBG-C19-046",
+   "sec": "Pain pathways of labour & epidural analgesia",
+   "page": 518,
+   "q": "Epidural analgesia in labour – level of block : type of block.",
+   "opts": [
+    "T10 segment : sensory + sympathetic (no motor block)",
+    "T4 : motor + sensory",
+    "L1 : sympathetic only",
+    "S2 : motor only"
+   ],
+   "ans": 0,
+   "exp": "Level T10; sensory + sympathetic block without motor block. (Book p518)"
+  },
+  {
+   "id": "OBG-C19-047",
+   "sec": "Pain pathways of labour & epidural analgesia",
+   "page": 518,
+   "q": "Drugs of choice for labour epidural and its effect on stages of labour:",
+   "opts": [
+    "Bupivacaine 0.625% or ropivacaine; shortens 1st stage, prolongs 2nd stage by 1 hr",
+    "Lignocaine 2%; prolongs both stages",
+    "Bupivacaine 0.5%; shortens both stages",
+    "Ropivacaine; no effect on stages"
+   ],
+   "ans": 0,
+   "exp": "DOC: bupivacaine (0.625%) / ropivacaine; shortens 1st stage, prolongs 2nd stage by 1 h. Monitor BP and FHR. (Book p518)"
+  },
+  {
+   "id": "OBG-C19-048",
+   "sec": "Pain pathways of labour & epidural analgesia",
+   "page": 518,
+   "q": "Contraindication to epidural and the fact about C-section rate:",
+   "opts": [
+    "Anticoagulant use 12–24 hrs prior to onset of labour; epidural does not increase C-section rate",
+    "Hypertension; epidural doubles C-section rate",
+    "Multiparity; epidural increases forceps only",
+    "Diabetes; epidural reduces C-section rate"
+   ],
+   "ans": 0,
+   "exp": "C/I: anticoagulants within 12–24 h; epidural does not ↑ C-section rate. For C-section, anaesthesia is given at T4 (blocks peritoneal pain). (Book p518)"
+  },
+  {
+   "id": "OBG-C19-049",
+   "sec": "Pudendal & paracervical blocks and prostaglandins",
+   "page": 519,
+   "q": "Pudendal nerve block – site : ligament pierced : stage of pain relieved.",
+   "opts": [
+    "Ischial spine : sacrospinous ligament : 2nd stage",
+    "Ischial tuberosity : sacrotuberous ligament : 1st stage",
+    "Ischial spine : sacrotuberous : 1st stage",
+    "Pubic tubercle : inguinal ligament : 3rd stage"
+   ],
+   "ans": 0,
+   "exp": "Pudendal block at ischial spine, piercing sacrospinous ligament, relieves 2nd stage pain. (Book p519)"
+  },
+  {
+   "id": "OBG-C19-050",
+   "sec": "Pudendal & paracervical blocks and prostaglandins",
+   "page": 519,
+   "q": "Uses of pudendal block are ______; it does NOT block pain during ______.",
+   "opts": [
+    "Instrumental delivery and repair of perineal/vaginal tear; repair of cervical tears",
+    "C-section and MRP; episiotomy",
+    "Cervical repair; perineal repair",
+    "Suction evacuation; instrumental delivery"
+   ],
+   "ans": 0,
+   "exp": "Uses: instrumental delivery, perineal/vaginal tear repair; does not cover cervical tear repair. (Book p519)"
+  },
+  {
+   "id": "OBG-C19-051",
+   "sec": "Pudendal & paracervical blocks and prostaglandins",
+   "page": 519,
+   "q": "Paracervical block – sites : sites avoided (and why) : duration.",
+   "opts": [
+    "2 or 4 o'clock and 8 or 10 o'clock : 3 and 9 o'clock (descending cervical artery) : 1–2 hrs",
+    "3 and 9 o'clock : 12 and 6 o'clock (urethra/rectum) : 4 hrs",
+    "12 and 6 o'clock : 3 and 9 (uterine artery) : 30 min",
+    "5 and 7 o'clock : 2 and 10 : 6 hrs"
+   ],
+   "ans": 0,
+   "exp": "Sites 2/4 and 8/10 o'clock; avoid 3 and 9 o'clock because of the descending cervical artery; lasts 1–2 h. (Book p519)"
+  },
+  {
+   "id": "OBG-C19-052",
+   "sec": "Pudendal & paracervical blocks and prostaglandins",
+   "page": 519,
+   "q": "Uses and contraindication of paracervical block:",
+   "opts": [
+    "Repair of cervix and suction & evacuation; contraindicated in labour as it causes fetal bradycardia",
+    "Instrumental delivery; C/I in hypertension",
+    "Perineal repair; C/I in diabetes",
+    "C-section; C/I in twins"
+   ],
+   "ans": 0,
+   "exp": "Uses: cervical repair, suction evacuation; not used in labour (fetal bradycardia). (Book p519)"
+  },
+  {
+   "id": "OBG-C19-053",
+   "sec": "Pudendal & paracervical blocks and prostaglandins",
+   "page": 519,
+   "q": "Prostaglandins act on ______ receptors present on ______ and are released ______.",
+   "opts": [
+    "G-protein cell membrane; myometrium and cervix; locally (paracrine)",
+    "Nuclear; endometrium; systemically (endocrine)",
+    "Tyrosine kinase; cervix only; locally",
+    "Ion channel; decidua; endocrine"
+   ],
+   "ans": 0,
+   "exp": "G-protein coupled membrane receptors on myometrium and cervix; local paracrine release. (Book p519)"
+  },
+  {
+   "id": "OBG-C19-054",
+   "sec": "Pudendal & paracervical blocks and prostaglandins",
+   "page": 519,
+   "q": "Match prostaglandin synthesis site to product and action – Decidua & myometrium : Amnion.",
+   "opts": [
+    "PGF2α (uterine action) : PGE2 (acts on cervix)",
+    "PGE2 (cervix) : PGF2α (uterus)",
+    "PGI2 : thromboxane",
+    "PGE1 : PGF2α"
+   ],
+   "ans": 0,
+   "exp": "Decidua/myometrium → PGF2α (uterine action); amnion → PGE2 (cervical action). (Book p519)"
+  },
+  {
+   "id": "OBG-C19-055",
+   "sec": "Pudendal & paracervical blocks and prostaglandins",
+   "page": 519,
+   "q": "Uses of prostaglandins in obstetrics include induction (sweeping fingers in internal os releases PGE2 → cervical ripening), and:",
+   "opts": [
+    "Augmentation of labour and management of PPH",
+    "Tocolysis and cervical cerclage",
+    "Treatment of pre-eclampsia",
+    "Prevention of preterm labour"
+   ],
+   "ans": 0,
+   "exp": "Uses: induction, augmentation of labour, management of PPH. (Book p519)"
+  },
+  {
+   "id": "OBG-C19-056",
+   "sec": "Induction of labour: Bishop score",
+   "page": 520,
+   "q": "Induction of labour (IOL) is defined as ______; Bishop score checks ______ with a maximum of ______.",
+   "opts": [
+    "Initiation of uterine contractions in a patient not in labour; readiness of cervix and uterus before IOL; 13",
+    "Acceleration of established labour; fetal wellbeing; 10",
+    "Artificial rupture of membranes; pelvic adequacy; 9",
+    "Cervical ripening only; cervical length; 12"
+   ],
+   "ans": 0,
+   "exp": "IOL = initiation of contractions in a patient not in labour; Bishop score assesses cervix/uterus readiness; maximum 13. (Book p520)"
+  },
+  {
+   "id": "OBG-C19-057",
+   "sec": "Induction of labour: Bishop score",
+   "page": 520,
+   "q": "Match the mnemonic 'Delhi Police Employed Special Commanders' to Bishop parameters:",
+   "opts": [
+    "Dilation, Position, Effacement, Station, Consistency",
+    "Descent, Presentation, Engagement, Show, Contractions",
+    "Dilation, Presentation, Effacement, Softness, Cervix length",
+    "Duration, Position, Effacement, Station, Colour"
+   ],
+   "ans": 0,
+   "exp": "Delhi = dilation, Police = position, Employed = effacement, Special = station, Commanders = consistency. (Book p520)"
+  },
+  {
+   "id": "OBG-C19-058",
+   "sec": "Induction of labour: Bishop score",
+   "page": 520,
+   "q": "Scoring for DILATION of cervix (0 : 1 : 2 : 3):",
+   "opts": [
+    "Closed : 1–2 cm : 3–4 cm : >5 cm",
+    "Closed : 1 cm : 2 cm : 3 cm",
+    "<1 cm : 2–3 cm : 4–5 cm : >6 cm",
+    "Closed : 2–3 : 4–5 : >6"
+   ],
+   "ans": 0,
+   "exp": "Dilation: closed 0; 1–2 cm 1; 3–4 cm 2; >5 cm 3 – the most important parameter. (Book p520)"
+  },
+  {
+   "id": "OBG-C19-059",
+   "sec": "Induction of labour: Bishop score",
+   "page": 520,
+   "q": "Scoring for POSITION of cervix (0 : 1 : 2) and its importance:",
+   "opts": [
+    "Posterior : middle : anterior; least important parameter",
+    "Anterior : middle : posterior; most important",
+    "Posterior : anterior : middle; moderate",
+    "Middle : posterior : anterior; least"
+   ],
+   "ans": 0,
+   "exp": "Position: posterior 0, middle 1, anterior 2; least important parameter. (Book p520)"
+  },
+  {
+   "id": "OBG-C19-060",
+   "sec": "Induction of labour: Bishop score",
+   "page": 520,
+   "q": "Scoring for EFFACEMENT (0 : 1 : 2 : 3):",
+   "opts": [
+    "30% : 40–50% : 60–70% : 80%",
+    "0% : 25% : 50% : 100%",
+    "10% : 30% : 50% : 70%",
+    "20% : 40% : 60% : 90%"
+   ],
+   "ans": 0,
+   "exp": "Effacement: 30% 0; 40–50% 1; 60–70% 2; 80% 3. (Book p520)"
+  },
+  {
+   "id": "OBG-C19-061",
+   "sec": "Induction of labour: Bishop score",
+   "page": 520,
+   "q": "Scoring for STATION of fetal head (0 : 1 : 2 : 3):",
+   "opts": [
+    "Above −2 : −2 : −1, 0 : below ischial spine",
+    "−3 : −2 : −1 : 0",
+    "Above −3 : −3 : −2 : −1",
+    "Floating : fixed : engaged : crowning"
+   ],
+   "ans": 0,
+   "exp": "Station: above −2 = 0; −2 = 1; −1/0 = 2; below ischial spine = 3. (Book p520)"
+  },
+  {
+   "id": "OBG-C19-062",
+   "sec": "Induction of labour: Bishop score",
+   "page": 520,
+   "q": "Scoring for CONSISTENCY (0 : 1 : 2):",
+   "opts": [
+    "Firm : mid : soft",
+    "Soft : mid : firm",
+    "Hard : soft : mid",
+    "Firm : soft : mid"
+   ],
+   "ans": 0,
+   "exp": "Consistency: firm 0, mid 1, soft 2. (Book p520)"
+  },
+  {
+   "id": "OBG-C19-063",
+   "sec": "Induction of labour: Bishop score",
+   "page": 520,
+   "q": "The simplified Bishop score uses ______ with a maximum of ______; the modified Bishop score replaces ______ with ______.",
+   "opts": [
+    "Dilation, effacement, station; 9; placement (position) of cervix; length of cervix by USG",
+    "Dilation, position, consistency; 7; station; fetal weight",
+    "Effacement, station; 6; consistency; cervical length",
+    "Dilation, consistency; 5; position; funnelling"
+   ],
+   "ans": 0,
+   "exp": "Simplified: dilation + effacement + station (max 9). Modified: position replaced by USG cervical length. (Book p520)"
+  },
+  {
+   "id": "OBG-C19-064",
+   "sec": "Induction of labour: Bishop score",
+   "page": 520,
+   "q": "Interpretation of Bishop score – ≤5 : ≥6 : ≥9.",
+   "opts": [
+    "Cervix not ripe, IOL unlikely to succeed : favourable for IOL : chances of vaginal delivery similar to spontaneous labour",
+    "Favourable : unripe : failed",
+    "Unripe : unripe : favourable",
+    "Vaginal delivery certain : favourable : unripe"
+   ],
+   "ans": 0,
+   "exp": "≤5 unripe (IOL will not succeed); ≥6 favourable; ≥9 vaginal delivery chances similar to spontaneous labour. (Book p520)"
+  },
+  {
+   "id": "OBG-C19-065",
+   "sec": "Methods of induction: sweeping & mechanical methods",
+   "page": 520,
+   "q": "Match the methods – Cervical ripening : IOL : Augmentation.",
+   "opts": [
+    "Sweeping of membranes, mechanical, prostaglandins : mechanical, prostaglandins, oxytocin : oxytocin, ARM",
+    "Oxytocin, ARM : sweeping : prostaglandins",
+    "Prostaglandins only : ARM only : oxytocin only",
+    "Mechanical : sweeping : prostaglandins"
+   ],
+   "ans": 0,
+   "exp": "Ripening: sweeping, mechanical, PGs. IOL: mechanical, PGs, oxytocin. Augmentation: oxytocin, ARM. (Book p520)"
+  },
+  {
+   "id": "OBG-C19-066",
+   "sec": "Methods of induction: sweeping & mechanical methods",
+   "page": 520,
+   "q": "Sweeping (stripping) of membranes – indication and principle:",
+   "opts": [
+    "Cervix slightly dilated; sweeping detaches membranes from cervix → release of prostaglandins → ripening",
+    "Closed cervix; stretching releases oxytocin",
+    "Fully effaced cervix; ruptures membranes",
+    "Any cervix; mechanical dilatation"
+   ],
+   "ans": 0,
+   "exp": "Indication: slightly dilated cervix; membranes detached from cervix → PG release → cervical ripening. (Book p520)"
+  },
+  {
+   "id": "OBG-C19-067",
+   "sec": "Methods of induction: sweeping & mechanical methods",
+   "page": 521,
+   "q": "Mechanical methods of IOL both ripen the cervix and induce labour; they are preferred in:",
+   "opts": [
+    "Scarred uterus",
+    "Placenta previa",
+    "Active genital herpes",
+    "Fetal distress"
+   ],
+   "ans": 0,
+   "exp": "Mechanical methods ripen + induce and are preferred in a scarred uterus. (Book p521)"
+  },
+  {
+   "id": "OBG-C19-068",
+   "sec": "Methods of induction: sweeping & mechanical methods",
+   "page": 521,
+   "q": "Transcervical Foley catheter for IOL – size, placement and volume:",
+   "opts": [
+    "No. 16 in endocervical canal, bulb seated at internal os, inflated with 30 ml NS → cervical stretching → PG release",
+    "No. 12 in vagina, bulb at external os, 10 ml",
+    "No. 20 in uterine cavity, 60 ml",
+    "No. 16 in posterior fornix, 50 ml"
+   ],
+   "ans": 0,
+   "exp": "No. 16 Foley inserted into endocervical canal; bulb at level of internal os; 30 ml NS → stretching of cervix → prostaglandins. (Book p521)"
+  },
+  {
+   "id": "OBG-C19-069",
+   "sec": "Methods of induction: sweeping & mechanical methods",
+   "page": 521,
+   "q": "Extra-amniotic saline infusion (EASI) involves:",
+   "opts": [
+    "Foley in endocervical canal with bulb inflated and NS infused at 30–40 ml/hr; saline collects in extra-amniotic space → separation of membranes → PG release",
+    "Infusion of saline into the amniotic cavity via amniocentesis",
+    "Vaginal saline douching",
+    "Intravenous saline with oxytocin"
+   ],
+   "ans": 0,
+   "exp": "EASI: NS 30–40 ml/hr via Foley → collects between amnion/chorion and uterus → membrane separation → prostaglandins. (Book p521)"
+  },
+  {
+   "id": "OBG-C19-070",
+   "sec": "Methods of induction: sweeping & mechanical methods",
+   "page": 521,
+   "q": "Hygroscopic dilators used for IOL are exemplified by:",
+   "opts": [
+    "Laminaria tent",
+    "Hegar dilator",
+    "Karman cannula",
+    "Cervidil insert"
+   ],
+   "ans": 0,
+   "exp": "Hygroscopic dilator = laminaria tent. (Book p521)"
+  },
+  {
+   "id": "OBG-C19-071",
+   "sec": "Prostaglandins & oxytocin for induction",
+   "page": 521,
+   "q": "Prostaglandins for IOL are contraindicated in ______; risk of tachysystole ranks ______.",
+   "opts": [
+    "Scarred uterus; Cervidil > Cerviprime > misoprostol",
+    "Primigravida; misoprostol > Cervidil > Cerviprime",
+    "Polyhydramnios; Cerviprime > misoprostol > Cervidil",
+    "Twins; equal"
+   ],
+   "ans": 0,
+   "exp": "PG C/I: scarred uterus. Tachysystole: Cervidil > Cerviprime > misoprostol. (Book p521)"
+  },
+  {
+   "id": "OBG-C19-072",
+   "sec": "Prostaglandins & oxytocin for induction",
+   "page": 521,
+   "q": "Misoprostol (PGE1) for IOL – dose, repetition, maximum and next step:",
+   "opts": [
+    "25 mcg oral/vaginal repeated 3–6 hourly (4 h), max 6 doses; if no IOL after a 4 h gap → oxytocin",
+    "50 mcg vaginal 2 hourly, max 4 doses → C-section",
+    "100 mcg oral once → oxytocin",
+    "200 mcg vaginal 12 hourly, max 2 → ARM"
+   ],
+   "ans": 0,
+   "exp": "25 mcg orally/vaginally every 3–6 h (4 h), maximum 6 doses; no labour → 4 h gap → oxytocin. S/E: FHR abnormalities, meconium staining. (Book p521)"
+  },
+  {
+   "id": "OBG-C19-073",
+   "sec": "Prostaglandins & oxytocin for induction",
+   "page": 522,
+   "q": "Cerviprime gel (dinoprostone PGE2) – dose : site : repeat : maximum : storage.",
+   "opts": [
+    "0.5 mg : into cervix : 6 hourly : 3 doses, then oxytocin after 6 h : refrigerated",
+    "10 mg : posterior fornix : once : 1 : room temperature",
+    "0.5 mg : posterior fornix : 12 hourly : 2 : frozen",
+    "1 mg : into cervix : 4 hourly : 6 : refrigerated"
+   ],
+   "ans": 0,
+   "exp": "Cerviprime 0.5 mg intracervical, 6-hourly, max 3 doses (oxytocin 6 h after last), refrigerated. (Book p522)"
+  },
+  {
+   "id": "OBG-C19-074",
+   "sec": "Prostaglandins & oxytocin for induction",
+   "page": 522,
+   "q": "Cervidil (dinoprostone insert) – dose : release rate : site : duration.",
+   "opts": [
+    "10 mg : 0.3 mg/hr : posterior fornix : kept 12 h until labour",
+    "0.5 mg : 0.1 mg/hr : intracervical : 6 h",
+    "25 mcg : 1 mg/hr : vagina : 4 h",
+    "5 mg : 0.5 mg/hr : anterior fornix : 24 h"
+   ],
+   "ans": 0,
+   "exp": "Cervidil 10 mg releasing 0.3 mg/hr, placed in posterior fornix, kept up to 12 h. (Book p522)"
+  },
+  {
+   "id": "OBG-C19-075",
+   "sec": "Prostaglandins & oxytocin for induction",
+   "page": 522,
+   "q": "Oxytocin for IOL – if cervix is ripe ______; if not ripe ______.",
+   "opts": [
+    "Use oxytocin directly; ripen cervix then oxytocin",
+    "Ripen first; oxytocin directly",
+    "ARM first; C-section",
+    "Misoprostol; Foley"
+   ],
+   "ans": 0,
+   "exp": "Ripe cervix → oxytocin directly; unripe → ripen then oxytocin. (Book p522)"
+  },
+  {
+   "id": "OBG-C19-076",
+   "sec": "Prostaglandins & oxytocin for induction",
+   "page": 522,
+   "q": "Standard oxytocin infusion for IOL:",
+   "opts": [
+    "5 U in 500 ml NS = 10 mIU/ml = 0.5 mIU/drop; max 52 drops/min (26 mIU/min)",
+    "10 U in 500 ml = 20 mIU/ml; max 20 drops/min",
+    "5 U in 100 ml = 50 mIU/ml; max 10 drops",
+    "2 U in 1 L = 2 mIU/ml; max 100 drops"
+   ],
+   "ans": 0,
+   "exp": "5 U oxytocin + 500 ml NS → 10 mIU/ml → 0.5 mIU/drop; maximum 52 drops/min = 26 mIU/min. (Book p522)"
+  },
+  {
+   "id": "OBG-C19-077",
+   "sec": "Prostaglandins & oxytocin for induction",
+   "page": 522,
+   "q": "Side effects of oxytocin infusion:",
+   "opts": [
+    "Water intoxication/hyponatremia if dissolved in 5% dextrose; hypotension if drop rate ↑",
+    "Hypertension; hyperkalemia",
+    "Bradycardia; hyperglycemia",
+    "Fever; hypernatremia"
+   ],
+   "ans": 0,
+   "exp": "Water intoxication (hyponatremia) with 5% dextrose; hypotension with rapid rate. (Book p522)"
+  },
+  {
+   "id": "OBG-C19-078",
+   "sec": "Contraindications to IOL & IOL in special cases",
+   "page": 522,
+   "q": "IOL is contraindicated wherever vaginal delivery is contraindicated. Which is NOT on the list?",
+   "opts": [
+    "Previous lower segment C-section",
+    "Placenta previa / vasa previa",
+    "Malpresentation – transverse lie, brow, mentoposterior face",
+    "Active genital herpes / contracted pelvis / CPD / cancer cervix"
+   ],
+   "ans": 0,
+   "exp": "Listed: placenta previa, vasa previa, malpresentation, active herpes, contracted pelvis, CPD, cancer cervix, previous classical C-section/myomectomy, fetal distress, mono-mono/conjoined twins. (Book p522)"
+  },
+  {
+   "id": "OBG-C19-079",
+   "sec": "Contraindications to IOL & IOL in special cases",
+   "page": 522,
+   "q": "Which prior surgical histories contraindicate IOL?",
+   "opts": [
+    "Classical C-section and myomectomy",
+    "Lower segment C-section and appendicectomy",
+    "Cerclage and D&C",
+    "Tubal ligation and ovarian cystectomy"
+   ],
+   "ans": 0,
+   "exp": "Previous classical C-section or myomectomy contraindicate IOL. (Book p522)"
+  },
+  {
+   "id": "OBG-C19-080",
+   "sec": "Contraindications to IOL & IOL in special cases",
+   "page": 522,
+   "q": "Which twin situations contraindicate IOL?",
+   "opts": [
+    "Monochorionic monoamniotic twins / conjoined twins",
+    "Dichorionic diamniotic twins",
+    "Both twins cephalic",
+    "Twins at 38 weeks"
+   ],
+   "ans": 0,
+   "exp": "MCMA twins and conjoined twins are C/I to IOL, as is fetal distress. (Book p522)"
+  },
+  {
+   "id": "OBG-C19-081",
+   "sec": "Contraindications to IOL & IOL in special cases",
+   "page": 522,
+   "q": "IOL in a scarred uterus:",
+   "opts": [
+    "Mechanical method for ripening → oxytocin",
+    "Misoprostol 25 mcg → oxytocin",
+    "Cervidil insert → ARM",
+    "Dinoprostone gel 3 doses"
+   ],
+   "ans": 0,
+   "exp": "Scarred uterus: mechanical ripening followed by oxytocin (PGs contraindicated). (Book p522)"
+  },
+  {
+   "id": "OBG-C19-082",
+   "sec": "Contraindications to IOL & IOL in special cases",
+   "page": 522,
+   "q": "IOL for IUD of fetus – 20–28 weeks : >28 weeks.",
+   "opts": [
+    "Misoprostol 600–800 mcg PV, repeat 400 mcg 3-hourly : 25 mg misoprostol to ripen cervix → oxytocin",
+    "Oxytocin : Foley",
+    "25 mcg misoprostol : 800 mcg misoprostol",
+    "Mifepristone alone : C-section"
+   ],
+   "ans": 0,
+   "exp": "20–28 wks: misoprostol 600–800 mcg PV then 400 mcg 3-hourly; >28 wks: 25 mg misoprostol (ripen) → oxytocin. (Book p522)"
+  },
+  {
+   "id": "OBG-C19-083",
+   "sec": "Third stage of labour & AMTSL overview",
+   "page": 523,
+   "q": "Third stage of labour – main factor affecting placental separation : plane of separation : m/c method of separation.",
+   "opts": [
+    "Uterine contractions : zona spongiosa : Schultz method",
+    "Cord traction : zona basalis : Duncan method",
+    "Gravity : zona compacta : Schultz",
+    "Maternal pushing : decidua vera : Duncan"
+   ],
+   "ans": 0,
+   "exp": "Separation depends on uterine contractions, occurs through zona spongiosa, m/c Schultz method. (Book p523)"
+  },
+  {
+   "id": "OBG-C19-084",
+   "sec": "Third stage of labour & AMTSL overview",
+   "page": 523,
+   "q": "The surest sign of placental separation is:",
+   "opts": [
+    "Placenta felt in vagina (> apparent and permanent lengthening of cord)",
+    "Gush of blood",
+    "Fundus becoming globular",
+    "Uterus rising in abdomen"
+   ],
+   "ans": 0,
+   "exp": "Surest sign = placenta felt in vagina > permanent lengthening of cord. (Book p523)"
+  },
+  {
+   "id": "OBG-C19-085",
+   "sec": "Third stage of labour & AMTSL overview",
+   "page": 523,
+   "q": "Passive management of the third stage (not preferred) involves:",
+   "opts": [
+    "Waiting for spontaneous expulsion (about 15 min) → ↑ blood loss → ↑ PPH and maternal mortality",
+    "Uterotonic within 1 min",
+    "Controlled cord traction",
+    "Early cord clamping"
+   ],
+   "ans": 0,
+   "exp": "Passive: wait for spontaneous expulsion (~15 min) → ↑ blood loss, PPH and mortality. (Book p523)"
+  },
+  {
+   "id": "OBG-C19-086",
+   "sec": "Third stage of labour & AMTSL overview",
+   "page": 523,
+   "q": "Advantages and drawback of AMTSL:",
+   "opts": [
+    "↓ duration (5–10 min), ↓ blood loss, best method to prevent PPH, ↓ maternal mortality; drawback ↑ chance of retained placenta (use of uterotonics)",
+    "↑ duration; ↓ PPH; drawback uterine inversion",
+    "↓ blood loss; drawback neonatal anemia",
+    "Prevents retained placenta; drawback PPH"
+   ],
+   "ans": 0,
+   "exp": "AMTSL: 3rd stage 5–10 min, ↓ blood loss, best PPH prevention, ↓ mortality; drawback ↑ retained placenta. (Book p523)"
+  },
+  {
+   "id": "OBG-C19-087",
+   "sec": "Third stage of labour & AMTSL overview",
+   "page": 523,
+   "q": "Arrange the four steps of AMTSL:",
+   "opts": [
+    "Uterotonic within 1 min of delivery (or at delivery of anterior shoulder) → delayed cord clamping → controlled cord traction → intermittent assessment of uterine tone",
+    "Cord traction → uterotonic → clamping → massage",
+    "Early cord clamping → uterotonic → traction → tone",
+    "Uterine massage → uterotonic → traction → clamping"
+   ],
+   "ans": 0,
+   "exp": "1 uterotonic <1 min; 2 delayed cord clamping; 3 controlled cord traction; 4 intermittent uterine tone assessment. Uterine massage (former 4th step) is now PPH treatment; early clamping not done. (Book p523)"
+  },
+  {
+   "id": "OBG-C19-088",
+   "sec": "Step 1: uterotonics – oxytocin & alternatives",
+   "page": 524,
+   "q": "WHO-recommended uterotonic for AMTSL – dose, route, storage:",
+   "opts": [
+    "Oxytocin 10 IU IM or IV infusion (in RL/NS); stored at 2–8 °C",
+    "Oxytocin 5 IU IV bolus; room temperature",
+    "Methylergometrine 0.2 mg IV; refrigerated",
+    "Carboprost 250 mcg IM; room temperature"
+   ],
+   "ans": 0,
+   "exp": "Oxytocin 10 IU IM or IV infusion; stored 2–8 °C. (Book p524)"
+  },
+  {
+   "id": "OBG-C19-089",
+   "sec": "Step 1: uterotonics – oxytocin & alternatives",
+   "page": 524,
+   "q": "Oxytocin IV bolus is contraindicated because it causes ______; 5% dextrose preparation causes ______.",
+   "opts": [
+    "Hypotension, tachycardia, arrhythmias, cardiac arrest; water intoxication (anti-diuretic effect)",
+    "Hypertension; hyperglycemia",
+    "Bradycardia; hypernatremia",
+    "Fever; hypokalemia"
+   ],
+   "ans": 0,
+   "exp": "IV bolus → hypotension, tachycardia, arrhythmia, arrest; dextrose 5% → water intoxication. (Book p524)"
+  },
+  {
+   "id": "OBG-C19-090",
+   "sec": "Step 1: uterotonics – oxytocin & alternatives",
+   "page": 524,
+   "q": "If oxytocin is unavailable, methylergometrine is given as:",
+   "opts": [
+    "0.2 mg IM (IV avoided due to severe hypertension); stored at room temperature",
+    "0.5 mg IV; refrigerated",
+    "0.2 mg IV; frozen",
+    "1 mg oral; room temperature"
+   ],
+   "ans": 0,
+   "exp": "Methylergometrine 0.2 mg IM (IV causes severe hypertension), stored at room temperature. (Book p524)"
+  },
+  {
+   "id": "OBG-C19-091",
+   "sec": "Step 1: uterotonics – oxytocin & alternatives",
+   "page": 524,
+   "q": "Syntometrine is a fixed combination of ______ with the advantage of ______ but disadvantage of ______.",
+   "opts": [
+    "5 U oxytocin + 0.5 mg methylergometrine; ↑ efficacy; expensive and ↓ availability",
+    "10 U oxytocin + 0.2 mg ME; cheap; hypertension",
+    "5 U oxytocin + 250 mcg carboprost; long action; bronchospasm",
+    "0.5 mg ME + 600 mcg misoprostol; oral; fever"
+   ],
+   "ans": 0,
+   "exp": "Syntometrine = 5 U oxytocin + 0.5 mg ME; more efficacious but expensive/less available. (Book p524)"
+  },
+  {
+   "id": "OBG-C19-092",
+   "sec": "Step 1: uterotonics – oxytocin & alternatives",
+   "page": 524,
+   "q": "Carbetocin (synthetic oxytocin octapeptide) – dose, half-life and restriction:",
+   "opts": [
+    "100 mcg slow IV over 1 min; t½ 40 min (oxytocin 3–5 min); action 3 h; not used for induction/augmentation or PPH management",
+    "250 mcg IM; t½ 5 min; used for PPH",
+    "10 IU IM; t½ 20 min; used for induction",
+    "1 mg IV; t½ 60 min; PPH treatment"
+   ],
+   "ans": 0,
+   "exp": "Carbetocin 100 mcg slow IV; t½ 40 min vs 3–5 min for oxytocin; lasts 3 h; not for IOL/augmentation or PPH treatment. (Book p524)"
+  },
+  {
+   "id": "OBG-C19-093",
+   "sec": "Step 1: uterotonics – oxytocin & alternatives",
+   "page": 524,
+   "q": "Misoprostol (PGE1) as a uterotonic in AMTSL is dosed:",
+   "opts": [
+    "600 mcg oral/sublingual (range 400–600 mcg)",
+    "25 mcg vaginal",
+    "800 mcg rectal",
+    "200 mcg oral"
+   ],
+   "ans": 0,
+   "exp": "Misoprost 600 mcg orally/sublingually (400–600 mcg). (Book p524)"
+  },
+  {
+   "id": "OBG-C19-094",
+   "sec": "Step 1: uterotonics – oxytocin & alternatives",
+   "page": 524,
+   "q": "Type of contraction – oxytocin : methylergometrine.",
+   "opts": [
+    "Physiological, regular intervals with relaxation (allows fetal blood flow) : tetanic, no relaxation (may cause fetal distress)",
+    "Tetanic : physiological",
+    "Both tetanic",
+    "Both physiological"
+   ],
+   "ans": 0,
+   "exp": "Oxytocin: physiological contractions with relaxation; ME: tetanic without relaxation. (Book p524)"
+  },
+  {
+   "id": "OBG-C19-095",
+   "sec": "Step 1: uterotonics – oxytocin & alternatives",
+   "page": 524,
+   "q": "Site of action and use – oxytocin : methylergometrine.",
+   "opts": [
+    "Lower and upper segments; IOL, augmentation, preferred for AMTSL : mainly lower segment; only after delivery of baby, not first line in AMTSL (↑ retained placenta)",
+    "Lower segment; PPH only : both segments; IOL",
+    "Upper only; IOL : upper only; AMTSL first line",
+    "Cervix; ripening : fundus; IOL"
+   ],
+   "ans": 0,
+   "exp": "Oxytocin acts on both segments and is preferred for AMTSL; ME acts mainly on LUS, given only after delivery and not first line (retained placenta). (Book p524)"
+  },
+  {
+   "id": "OBG-C19-096",
+   "sec": "Step 1: uterotonics – oxytocin & alternatives",
+   "page": 524,
+   "q": "Complication – oxytocin : methylergometrine.",
+   "opts": [
+    "Hypotension (with IV bolus) : hypertension",
+    "Hypertension : hypotension",
+    "Bradycardia : fever",
+    "Fever : bronchospasm"
+   ],
+   "ans": 0,
+   "exp": "Oxytocin bolus → hypotension; ME → hypertension. (Book p524)"
+  },
+  {
+   "id": "OBG-C19-097",
+   "sec": "Step 1: uterotonics – oxytocin & alternatives",
+   "page": 525,
+   "q": "Carboprost/dinoprostone (PGF2α) and tranexamic acid in the third stage are:",
+   "opts": [
+    "Not used in AMTSL – reserved for PPH management; if ↑ PPH risk, 1 g tranexamic acid IV in 100 ml NS over 20 min + oxytocin",
+    "First-line AMTSL drugs",
+    "Used for induction only",
+    "Contraindicated in PPH"
+   ],
+   "ans": 0,
+   "exp": "Carboprost/PGF2α and tranexamic acid are reserved for PPH; high-risk women get 1 g TXA IV over 20 min + oxytocin. (Book p525)"
+  },
+  {
+   "id": "OBG-C19-098",
+   "sec": "Step 1: uterotonics – oxytocin & alternatives",
+   "page": 525,
+   "q": "Dinoprostone (PGE2) is used for ______ but is NOT recommended by WHO for ______.",
+   "opts": [
+    "Induction and augmentation of labour; AMTSL and PPH management",
+    "PPH; induction",
+    "AMTSL; induction",
+    "Cervical ripening; augmentation"
+   ],
+   "ans": 0,
+   "exp": "PGE2: IOL/augmentation; not recommended for AMTSL or PPH. (Book p525)"
+  },
+  {
+   "id": "OBG-C19-099",
+   "sec": "Step 2: delayed cord clamping",
+   "page": 525,
+   "q": "Delayed cord clamping (DCC) means clamping at ______ and is included in ______.",
+   "opts": [
+    "≥1 min (1–3 min); Anemia Mukt Bharat programme",
+    "≥30 sec; JSSK",
+    "≥5 min; RMNCH+A",
+    "After placental delivery; PMSMA"
+   ],
+   "ans": 0,
+   "exp": "DCC ≥1 min (1–3 min), part of Anemia Mukt Bharat. (Book p525)"
+  },
+  {
+   "id": "OBG-C19-100",
+   "sec": "Step 2: delayed cord clamping",
+   "page": 525,
+   "q": "Advantage of DCC:",
+   "opts": [
+    "≈80 ml extra cord blood (~50 mg elemental iron) to baby → prevents neonatal anemia",
+    "Prevents PPH",
+    "Reduces neonatal jaundice",
+    "Prevents retained placenta"
+   ],
+   "ans": 0,
+   "exp": "80 ml extra blood ≈ 50 mg elemental iron → prevents neonatal anemia. Indicated in all deliveries including preterm, post-term, maternal COVID-19. (Book p525)"
+  },
+  {
+   "id": "OBG-C19-101",
+   "sec": "Step 2: delayed cord clamping",
+   "page": 525,
+   "q": "Absolute indication for early cord clamping (ECC):",
+   "opts": [
+    "Need for neonatal resuscitation (e.g., birth asphyxia)",
+    "Rh-negative mother",
+    "Maternal HIV",
+    "Preterm delivery"
+   ],
+   "ans": 0,
+   "exp": "Absolute: need for neonatal resuscitation. (Book p525)"
+  },
+  {
+   "id": "OBG-C19-102",
+   "sec": "Step 2: delayed cord clamping",
+   "page": 525,
+   "q": "Relative indications for ECC include all EXCEPT:",
+   "opts": [
+    "Maternal COVID-19 infection",
+    "Rh-negative mother with negative ICT (if ICT positive → DCC)",
+    "Known heart disease in baby (overload)",
+    "Excessive maternal bleeding"
+   ],
+   "ans": 0,
+   "exp": "Relative ECC: Rh-negative mother ± ICT negative, fetal heart disease, excessive maternal bleeding. COVID-19 is an indication FOR DCC. (Book p525)"
+  },
+  {
+   "id": "OBG-C19-103",
+   "sec": "Step 2: delayed cord clamping",
+   "page": 525,
+   "q": "HIV-positive mothers – WHO/ACOG : national guidelines; and what reduces vertical transmission more?",
+   "opts": [
+    "DCC : ECC after cessation of cord pulsations; ART > ECC",
+    "ECC : DCC; ECC > ART",
+    "DCC : DCC; ART",
+    "ECC : ECC; ECC"
+   ],
+   "ans": 0,
+   "exp": "WHO/ACOG recommend DCC; Indian guidelines ECC after pulsations cease; ART reduces transmission more than ECC. (Book p525)"
+  },
+  {
+   "id": "OBG-C19-104",
+   "sec": "Steps 3 & 4: controlled cord traction, special cases & fourth stage",
+   "page": 526,
+   "q": "Step 3 of AMTSL uses the technique of ______ (a.k.a. ______) performed by ______.",
+   "opts": [
+    "Controlled cord traction; modified Brandt-Andrews technique; skilled birth attendant",
+    "Credé's method; fundal expression; any attendant",
+    "Manual removal; Johnson's method; obstetrician",
+    "Fundal pressure; Kristeller; nurse"
+   ],
+   "ans": 0,
+   "exp": "CCT = modified Brandt-Andrews technique, by a skilled birth attendant; Credé's method is outdated. (Book p526)"
+  },
+  {
+   "id": "OBG-C19-105",
+   "sec": "Steps 3 & 4: controlled cord traction, special cases & fourth stage",
+   "page": 526,
+   "q": "Correct procedure of controlled cord traction:",
+   "opts": [
+    "Look for signs of separation → push uterus upwards with one hand → gentle downward-forward traction on cord during contraction",
+    "Pull cord continuously regardless of separation",
+    "Squeeze fundus while pulling cord (Credé)",
+    "Traction between contractions with fundal pressure"
+   ],
+   "ans": 0,
+   "exp": "Signs of separation → counter-pressure pushing uterus up → gentle traction downwards and forwards during contraction. (Book p526)"
+  },
+  {
+   "id": "OBG-C19-106",
+   "sec": "Steps 3 & 4: controlled cord traction, special cases & fourth stage",
+   "page": 526,
+   "q": "If the cord breaks during CCT, management is:",
+   "opts": [
+    "Manual removal of placenta under general anaesthesia using a sweeping hand in the plane between uterus and placenta",
+    "Wait 1 hour for spontaneous expulsion",
+    "Oxytocin bolus and fundal pressure",
+    "Hysterectomy"
+   ],
+   "ans": 0,
+   "exp": "Cord snap → manual removal under GA with sweeping action between uterus and placenta. (Book p526)"
+  },
+  {
+   "id": "OBG-C19-107",
+   "sec": "Steps 3 & 4: controlled cord traction, special cases & fourth stage",
+   "page": 526,
+   "q": "Pulling the cord before the placenta has separated risks ______; failure to find a plane between placenta and uterus suggests ______.",
+   "opts": [
+    "Uterine inversion; morbidly adherent placenta (placenta accreta spectrum)",
+    "PPH; succenturiate lobe",
+    "Cord avulsion; retained membranes",
+    "Amniotic fluid embolism; bilobate placenta"
+   ],
+   "ans": 0,
+   "exp": "Premature traction → uterine inversion; no cleavage plane → placenta accreta spectrum. (Book p526)"
+  },
+  {
+   "id": "OBG-C19-108",
+   "sec": "Steps 3 & 4: controlled cord traction, special cases & fourth stage",
+   "page": 526,
+   "q": "Persistent bleeding after placental delivery with a retained part of placenta on USG suggests:",
+   "opts": [
+    "Placenta succenturiata / placenta bilobata",
+    "Placenta previa",
+    "Vasa previa",
+    "Circumvallate placenta"
+   ],
+   "ans": 0,
+   "exp": "Retained lobe → placenta succenturiata or bilobata. (Book p526)"
+  },
+  {
+   "id": "OBG-C19-109",
+   "sec": "Steps 3 & 4: controlled cord traction, special cases & fourth stage",
+   "page": 526,
+   "q": "Step 4 – intermittent assessment of uterine tone is done every ______ for ______; retained placenta/prolonged third stage is defined as placenta undelivered ______ after birth.",
+   "opts": [
+    "15 min; 1–2 hrs; ≥30 min",
+    "5 min; 30 min; ≥15 min",
+    "30 min; 4 hrs; ≥60 min",
+    "10 min; 1 hr; ≥45 min"
+   ],
+   "ans": 0,
+   "exp": "Tone every 15 min for 1–2 h; retained placenta = not delivered ≥30 min after baby. (Book p526)"
+  },
+  {
+   "id": "OBG-C19-110",
+   "sec": "Steps 3 & 4: controlled cord traction, special cases & fourth stage",
+   "page": 527,
+   "q": "Fourth stage of labour – duration, a normal maternal experience and monitoring intervals:",
+   "opts": [
+    "1–2 hrs after placenta; physiological chills; uterine tone, pulse, BP every 15 min, temperature every 4 hrs",
+    "24 hrs; fever; vitals hourly",
+    "30 min; rigors; vitals every 5 min",
+    "6 hrs; sweating; vitals every 30 min"
+   ],
+   "ans": 0,
+   "exp": "4th stage 1–2 h; physiological chills; tone/pulse/BP every 15 min, temp every 4 h. (Book p527)"
+  },
+  {
+   "id": "OBG-C19-111",
+   "sec": "Steps 3 & 4: controlled cord traction, special cases & fourth stage",
+   "page": 527,
+   "q": "Advice given in the fourth stage and its possible complications:",
+   "opts": [
+    "Pass urine and take oral intake within 2 h of delivery; PPH, perineal tears, vulval hematomas",
+    "Nil by mouth for 6 h; uterine rupture",
+    "Bed rest 24 h; DVT",
+    "Catheterise for 12 h; infection"
+   ],
+   "ans": 0,
+   "exp": "Advice: pass urine and oral intake within 2 h; complications PPH, perineal tears, vulval hematoma. (Book p527)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OBG-U19-1",
+   "ch": 19,
+   "n": 1,
+   "title": "Definition, criteria & the four phases of labour",
+   "sec": "Normal labour & phases · p512",
+   "guide": "Define normal labour by its five criteria and walk through the four uterine phases from quiescence to postpartum with their hormonal drivers. Focus for this checkpoint: Definition, criteria & the four phases of labour.",
+   "qs": [
+    "OBG-C19-001",
+    "OBG-C19-002",
+    "OBG-C19-003",
+    "OBG-C19-004",
+    "OBG-C19-005",
+    "OBG-C19-006"
+   ]
+  },
+  {
+   "id": "OBG-U19-2",
+   "ch": 19,
+   "n": 2,
+   "title": "Pre-labour state & true vs false labour pain",
+   "sec": "Pre-labour & labour pain · p513",
+   "guide": "Recognise lightening, false pains and the biochemistry of cervical ripening, then separate true from false labour pain across six features. Focus for this checkpoint: Pre-labour state & true vs false labour pain.",
+   "qs": [
+    "OBG-C19-007",
+    "OBG-C19-008",
+    "OBG-C19-009",
+    "OBG-C19-010",
+    "OBG-C19-011",
+    "OBG-C19-012"
+   ]
+  },
+  {
+   "id": "OBG-U19-3",
+   "ch": 19,
+   "n": 3,
+   "title": "The 3 Ps & physiology of uterine contractions",
+   "sec": "Uterine contractions · p514",
+   "guide": "Quantify the origin, speed, pressure thresholds and stage-wise strengths of contractions, and understand Montevideo units and segment formation. Focus for this checkpoint: The 3 Ps & physiology of uterine contractions.",
+   "qs": [
+    "OBG-C19-013",
+    "OBG-C19-014",
+    "OBG-C19-015",
+    "OBG-C19-016",
+    "OBG-C19-017",
+    "OBG-C19-018"
+   ]
+  },
+  {
+   "id": "OBG-U19-4",
+   "ch": 19,
+   "n": 4,
+   "title": "Tachysystole, precipitate labour & hypotonic contractions",
+   "sec": "Abnormal contractions · p514",
+   "guide": "Define tachysystole and precipitate labour with their causes and consequences, and manage hypertonic and hypotonic uterine activity. Focus for this checkpoint: Tachysystole, precipitate labour & hypotonic contractions.",
+   "qs": [
+    "OBG-C19-019",
+    "OBG-C19-020",
+    "OBG-C19-021",
+    "OBG-C19-022",
+    "OBG-C19-023"
+   ]
+  },
+  {
+   "id": "OBG-U19-5",
+   "ch": 19,
+   "n": 5,
+   "title": "Augmentation of labour: ARM & sequence",
+   "sec": "ARM & augmentation · p515",
+   "guide": "Identify Kocher's forceps, the prostaglandin logic of ARM, its absolute and relative contraindications, and the engaged/unengaged sequencing rule. Focus for this checkpoint: Augmentation of labour: ARM & sequence.",
+   "qs": [
+    "OBG-C19-024",
+    "OBG-C19-025",
+    "OBG-C19-026",
+    "OBG-C19-027",
+    "OBG-C19-028"
+   ]
+  },
+  {
+   "id": "OBG-U19-6",
+   "ch": 19,
+   "n": 6,
+   "title": "Cardinal movements & the process of labour",
+   "sec": "Cardinal movements · p515-516",
+   "guide": "Order the seven cardinal movements and know the degree of rotation, the definition of crowning, restitution and WHO perineal protection steps. Focus for this checkpoint: Cardinal movements & the process of labour.",
+   "qs": [
+    "OBG-C19-029",
+    "OBG-C19-030",
+    "OBG-C19-031",
+    "OBG-C19-032",
+    "OBG-C19-033",
+    "OBG-C19-034"
+   ]
+  },
+  {
+   "id": "OBG-U19-7",
+   "ch": 19,
+   "n": 7,
+   "title": "Engagement: definition, signs, causes of non-engagement & engaging diameters",
+   "sec": "Engagement · p517",
+   "guide": "Define engagement by the biparietal diameter, its clinical signs, why a primigravida's head may float at term and which AP diameter engages in each attitude. Focus for this checkpoint: Engagement: definition, signs, causes of non-engagement & engaging diameters.",
+   "qs": [
+    "OBG-C19-035",
+    "OBG-C19-036",
+    "OBG-C19-037",
+    "OBG-C19-038",
+    "OBG-C19-039"
+   ]
+  },
+  {
+   "id": "OBG-U19-8",
+   "ch": 19,
+   "n": 8,
+   "title": "Synclitic & asynclitic engagement",
+   "sec": "Synclitism · p517-518",
+   "guide": "Distinguish synclitic from anterior and posterior asynclitic engagement by where the sagittal suture points, and recall how the head is delivered in vertex vs breech/face. Focus for this checkpoint: Synclitic & asynclitic engagement.",
+   "qs": [
+    "OBG-C19-040",
+    "OBG-C19-041",
+    "OBG-C19-042",
+    "OBG-C19-043"
+   ]
+  },
+  {
+   "id": "OBG-U19-9",
+   "ch": 19,
+   "n": 9,
+   "title": "Pain pathways of labour & epidural analgesia",
+   "sec": "Labour analgesia · p518",
+   "guide": "Trace the spinal segments carrying 1st and 2nd stage pain, and set the level, drugs, effects, monitoring and contraindication of epidural analgesia. Focus for this checkpoint: Pain pathways of labour & epidural analgesia.",
+   "qs": [
+    "OBG-C19-044",
+    "OBG-C19-045",
+    "OBG-C19-046",
+    "OBG-C19-047",
+    "OBG-C19-048"
+   ]
+  },
+  {
+   "id": "OBG-U19-10",
+   "ch": 19,
+   "n": 10,
+   "title": "Pudendal & paracervical blocks and prostaglandins",
+   "sec": "Regional blocks & PGs · p519",
+   "guide": "Locate the pudendal and paracervical block sites, their uses and hazards, then cover prostaglandin receptors, synthesis sites and obstetric uses. Focus for this checkpoint: Pudendal & paracervical blocks and prostaglandins.",
+   "qs": [
+    "OBG-C19-049",
+    "OBG-C19-050",
+    "OBG-C19-051",
+    "OBG-C19-052",
+    "OBG-C19-053",
+    "OBG-C19-054",
+    "OBG-C19-055"
+   ]
+  },
+  {
+   "id": "OBG-U19-11",
+   "ch": 19,
+   "n": 11,
+   "title": "Induction of labour: Bishop score",
+   "sec": "Bishop score · p520",
+   "guide": "Score every Bishop parameter with the DELHI POLICE mnemonic, know the most and least important items, the simplified and modified versions, and interpret the totals. Focus for this checkpoint: Induction of labour: Bishop score.",
+   "qs": [
+    "OBG-C19-056",
+    "OBG-C19-057",
+    "OBG-C19-058",
+    "OBG-C19-059",
+    "OBG-C19-060",
+    "OBG-C19-061",
+    "OBG-C19-062",
+    "OBG-C19-063",
+    "OBG-C19-064"
+   ]
+  },
+  {
+   "id": "OBG-U19-12",
+   "ch": 19,
+   "n": 12,
+   "title": "Methods of induction: sweeping & mechanical methods",
+   "sec": "Ripening & mechanical IOL · p520-521",
+   "guide": "Group the ripening, induction and augmentation methods, then detail membrane sweeping, Foley, EASI and laminaria – the options preferred in a scarred uterus. Focus for this checkpoint: Methods of induction: sweeping & mechanical methods.",
+   "qs": [
+    "OBG-C19-065",
+    "OBG-C19-066",
+    "OBG-C19-067",
+    "OBG-C19-068",
+    "OBG-C19-069",
+    "OBG-C19-070"
+   ]
+  },
+  {
+   "id": "OBG-U19-13",
+   "ch": 19,
+   "n": 13,
+   "title": "Prostaglandins & oxytocin for induction",
+   "sec": "Pharmacological IOL · p521-522",
+   "guide": "Dose misoprostol, cerviprime gel and Cervidil correctly, rank their tachysystole risk, and prepare and titrate oxytocin safely. Focus for this checkpoint: Prostaglandins & oxytocin for induction.",
+   "qs": [
+    "OBG-C19-071",
+    "OBG-C19-072",
+    "OBG-C19-073",
+    "OBG-C19-074",
+    "OBG-C19-075",
+    "OBG-C19-076",
+    "OBG-C19-077"
+   ]
+  },
+  {
+   "id": "OBG-U19-14",
+   "ch": 19,
+   "n": 14,
+   "title": "Contraindications to IOL & IOL in special cases",
+   "sec": "IOL C/I & special cases · p522",
+   "guide": "Recall the ten conditions where vaginal delivery – and hence induction – is contraindicated, and the protocols for scarred uterus and intrauterine death. Focus for this checkpoint: Contraindications to IOL & IOL in special cases.",
+   "qs": [
+    "OBG-C19-078",
+    "OBG-C19-079",
+    "OBG-C19-080",
+    "OBG-C19-081",
+    "OBG-C19-082"
+   ]
+  },
+  {
+   "id": "OBG-U19-15",
+   "ch": 19,
+   "n": 15,
+   "title": "Third stage of labour & AMTSL overview",
+   "sec": "Third stage & AMTSL · p523",
+   "guide": "Master placental separation physiology, the signs, passive vs active management and the four steps of AMTSL. Focus for this checkpoint: Third stage of labour & AMTSL overview.",
+   "qs": [
+    "OBG-C19-083",
+    "OBG-C19-084",
+    "OBG-C19-085",
+    "OBG-C19-086",
+    "OBG-C19-087"
+   ]
+  },
+  {
+   "id": "OBG-U19-16",
+   "ch": 19,
+   "n": 16,
+   "title": "Step 1: uterotonics – oxytocin & alternatives",
+   "sec": "Uterotonics · p524-525",
+   "guide": "Dose and store oxytocin, methylergometrine, syntometrine, carboprost and misoprostol, and contrast oxytocin with methylergometrine. Focus for this checkpoint: Step 1: uterotonics – oxytocin & alternatives.",
+   "qs": [
+    "OBG-C19-088",
+    "OBG-C19-089",
+    "OBG-C19-090",
+    "OBG-C19-091",
+    "OBG-C19-092",
+    "OBG-C19-093",
+    "OBG-C19-094",
+    "OBG-C19-095",
+    "OBG-C19-096",
+    "OBG-C19-097",
+    "OBG-C19-098"
+   ]
+  },
+  {
+   "id": "OBG-U19-17",
+   "ch": 19,
+   "n": 17,
+   "title": "Step 2: delayed cord clamping",
+   "sec": "Delayed cord clamping · p525",
+   "guide": "Time delayed clamping, its iron benefit and programme link, and list every absolute and relative indication for early clamping including the HIV nuance. Focus for this checkpoint: Step 2: delayed cord clamping.",
+   "qs": [
+    "OBG-C19-099",
+    "OBG-C19-100",
+    "OBG-C19-101",
+    "OBG-C19-102",
+    "OBG-C19-103"
+   ]
+  },
+  {
+   "id": "OBG-U19-18",
+   "ch": 19,
+   "n": 18,
+   "title": "Steps 3 & 4: controlled cord traction, special cases & fourth stage",
+   "sec": "CCT & fourth stage · p526-527",
+   "guide": "Perform controlled cord traction correctly, handle the special cases (cord snap, inversion, PAS, succenturiate lobe), then run fourth-stage monitoring. Focus for this checkpoint: Steps 3 & 4: controlled cord traction, special cases & fourth stage.",
+   "qs": [
+    "OBG-C19-104",
+    "OBG-C19-105",
+    "OBG-C19-106",
+    "OBG-C19-107",
+    "OBG-C19-108",
+    "OBG-C19-109",
+    "OBG-C19-110",
+    "OBG-C19-111"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,864 @@
+{
+ "chapter": 17,
+ "title": "Stages of Labour: Normal & Abnormal",
+ "pageRange": "499-505",
+ "questions": [
+  {
+   "id": "OBG-C17-001",
+   "sec": "The four stages & the first stage: latent vs active phase",
+   "page": 499,
+   "q": "Match each stage of labour to its boundaries – 1st : 2nd : 3rd : 4th.",
+   "opts": [
+    "True labour pain to full dilatation (10 cm) : full dilatation to delivery of baby : delivery of baby to delivery of placenta : 1–2 hrs observation after placenta",
+    "Onset of pain to engagement : engagement to crowning : crowning to birth : birth to placenta",
+    "True pain to 6 cm : 6 cm to full dilatation : full dilatation to birth : birth to placenta",
+    "Rupture of membranes to full dilatation : birth of baby : placenta : 24 hrs after placenta"
+   ],
+   "ans": 0,
+   "exp": "1st: true labour pain → full dilatation; 2nd: → delivery of baby; 3rd: → delivery of placenta; 4th: 1–2 hrs observation after placenta. (Book p499)"
+  },
+  {
+   "id": "OBG-C17-002",
+   "sec": "The four stages & the first stage: latent vs active phase",
+   "page": 499,
+   "q": "Match the guideline to the latent-phase end / active-phase start dilatation – ACOG : New WHO : Old WHO.",
+   "opts": [
+    "5 → 6 cm : 4 → 5 cm : 3 → 4 cm",
+    "3 → 4 cm : 4 → 5 cm : 5 → 6 cm",
+    "4 → 5 cm : 5 → 6 cm : 3 → 4 cm",
+    "6 → 7 cm : 5 → 6 cm : 4 → 5 cm"
+   ],
+   "ans": 0,
+   "exp": "ACOG: latent ends 5 cm, active begins 6 cm; New WHO: 4 cm / 5 cm; Old WHO: 3 cm / 4 cm. (Book p499)"
+  },
+  {
+   "id": "OBG-C17-003",
+   "sec": "The four stages & the first stage: latent vs active phase",
+   "page": 499,
+   "q": "The characteristic EVENT of the latent phase is ______ while the active phase involves ______.",
+   "opts": [
+    "Effacement + dilatation of cervix; dilatation of cervix + partial descent of fetal head",
+    "Descent of head; effacement only",
+    "Rupture of membranes; full descent",
+    "Show; crowning"
+   ],
+   "ans": 0,
+   "exp": "Latent phase = effacement + dilatation; active phase = dilatation + partial descent of fetal head. (Book p499)"
+  },
+  {
+   "id": "OBG-C17-004",
+   "sec": "The four stages & the first stage: latent vs active phase",
+   "page": 499,
+   "q": "Duration of latent and active phases – Primigravida : Multigravida.",
+   "opts": [
+    "Latent 12 hrs, active 4 hrs : latent 8 hrs, active 3 hrs",
+    "Latent 8 hrs, active 3 hrs : latent 12 hrs, active 4 hrs",
+    "Latent 20 hrs, active 6 hrs : latent 14 hrs, active 4 hrs",
+    "Latent 6 hrs, active 2 hrs : latent 4 hrs, active 1 hr"
+   ],
+   "ans": 0,
+   "exp": "Primi: latent 12 h, active 4 h; multi: latent 8 h, active 3 h. (Book p499)"
+  },
+  {
+   "id": "OBG-C17-005",
+   "sec": "The four stages & the first stage: latent vs active phase",
+   "page": 499,
+   "q": "Plotting of the active phase begins at ______ on the modified WHO partogram and at ______ on the WHO Labour Care Guide 2020; the latent phase is ______.",
+   "opts": [
+    "4 cm; 5 cm; not plotted",
+    "3 cm; 4 cm; plotted separately",
+    "5 cm; 6 cm; plotted",
+    "4 cm; 6 cm; plotted in the first column"
+   ],
+   "ans": 0,
+   "exp": "Modified WHO partogram begins at 4 cm (old WHO); Labour Care Guide begins at 5 cm; latent phase is not plotted. (Book p499)"
+  },
+  {
+   "id": "OBG-C17-006",
+   "sec": "Prolonged latent phase",
+   "page": 499,
+   "q": "Prolonged latent phase is a latent phase lasting:",
+   "opts": [
+    "≥20 hrs in primigravida or ≥14 hrs in multigravida",
+    "≥14 hrs in primigravida or ≥20 hrs in multigravida",
+    "≥12 hrs in primigravida or ≥8 hrs in multigravida",
+    ">24 hrs in either"
+   ],
+   "ans": 0,
+   "exp": "≥20 h in primigravida or ≥14 h in multigravida. (Book p499)"
+  },
+  {
+   "id": "OBG-C17-007",
+   "sec": "Prolonged latent phase",
+   "page": 499,
+   "q": "Match the cause of prolonged latent phase with management – Unripe cervix : Occipito-posterior position : False labour pains.",
+   "opts": [
+    "Prostaglandins (PGE1 & PGE2) : wait for spontaneous delivery : therapeutic rest (best)",
+    "Therapeutic rest : prostaglandins : oxytocin",
+    "Oxytocin : C-section : prostaglandins",
+    "ARM : manual rotation : oxytocin"
+   ],
+   "ans": 0,
+   "exp": "Unripe cervix → PGE1/PGE2; OP position → await spontaneous delivery; false labour pains → therapeutic rest (best management). (Book p499)"
+  },
+  {
+   "id": "OBG-C17-008",
+   "sec": "Prolonged latent phase",
+   "page": 499,
+   "q": "Prolonged latent stage as an indication for caesarean section – true or false?",
+   "opts": [
+    "False – prolonged latent stage is NOT an indication for C-section",
+    "True – always requires C-section",
+    "True – only in primigravida",
+    "True – only if membranes ruptured"
+   ],
+   "ans": 0,
+   "exp": "Note: prolonged latent stage is not an indication for C-section. (Book p499)"
+  },
+  {
+   "id": "OBG-C17-009",
+   "sec": "Active phase: normal rates & protracted active phase",
+   "page": 500,
+   "q": "Normal active-phase rate of cervical dilatation – Primigravida : Multigravida.",
+   "opts": [
+    "1.2 cm/hr : 1.5 cm/hr",
+    "1 cm/hr : 2 cm/hr",
+    "1.5 cm/hr : 1.2 cm/hr",
+    "2 cm/hr : 1 cm/hr"
+   ],
+   "ans": 0,
+   "exp": "Dilatation: primi 1.2 cm/hr, multi 1.5 cm/hr. (Book p500)"
+  },
+  {
+   "id": "OBG-C17-010",
+   "sec": "Active phase: normal rates & protracted active phase",
+   "page": 500,
+   "q": "Normal active-phase rate of descent of fetal head – Primigravida : Multigravida.",
+   "opts": [
+    "1 cm/hr : 2 cm/hr",
+    "1.2 cm/hr : 1.5 cm/hr",
+    "2 cm/hr : 1 cm/hr",
+    "0.5 cm/hr : 1 cm/hr"
+   ],
+   "ans": 0,
+   "exp": "Descent: primi 1 cm/hr, multi 2 cm/hr. (Book p500)"
+  },
+  {
+   "id": "OBG-C17-011",
+   "sec": "Active phase: normal rates & protracted active phase",
+   "page": 500,
+   "q": "Old vs new WHO recommendation on cervical dilatation:",
+   "opts": [
+    "Old: minimum 1 cm/hr (basis of action line); New: <1 cm/hr can be normal and alert/action lines removed in Labour Care Guide",
+    "Old: 2 cm/hr; New: 1 cm/hr with alert line retained",
+    "Old: <1 cm/hr normal; New: 1 cm/hr minimum",
+    "Both: 1.5 cm/hr minimum"
+   ],
+   "ans": 0,
+   "exp": "Old WHO: minimum 1 cm/hr (basis of action line). New WHO: dilatation <1 cm/hr → normal; alert and action lines removed in Labour Care Guide. (Book p500)"
+  },
+  {
+   "id": "OBG-C17-012",
+   "sec": "Active phase: normal rates & protracted active phase",
+   "page": 500,
+   "q": "Protracted active phase is defined as cervical dilatation ______ OR descent of head ______.",
+   "opts": [
+    "<1 cm/hr; <1 cm/hr in primigravida or <2 cm/hr in multigravida",
+    "<2 cm/hr; <1 cm/hr in both",
+    "<1.2 cm/hr; <0.5 cm/hr",
+    "Nil for 2 hrs; nil for 1 hr"
+   ],
+   "ans": 0,
+   "exp": "Protracted active phase: dilatation <1 cm/hr (slow progress) OR descent <1 cm/hr (primi) / <2 cm/hr (multi). (Book p500)"
+  },
+  {
+   "id": "OBG-C17-013",
+   "sec": "Active phase: normal rates & protracted active phase",
+   "page": 500,
+   "q": "Management protocol for protracted active phase begins with P/V examination – match the finding to the action: CPD : Occipito-posterior position : No CPD or OP.",
+   "opts": [
+    "C-section : wait for spontaneous delivery : P/A examination for uterine contractions",
+    "Wait : C-section : oxytocin",
+    "Oxytocin : C-section : wait",
+    "ARM : forceps : C-section"
+   ],
+   "ans": 0,
+   "exp": "CPD → C-section; OP → await spontaneous delivery; neither → P/A examination for contractions. (Book p500)"
+  },
+  {
+   "id": "OBG-C17-014",
+   "sec": "Active phase: normal rates & protracted active phase",
+   "page": 500,
+   "q": "If contractions are hypotonic/inadequate, augmentation of labour consists of:",
+   "opts": [
+    "Artificial rupture of membranes and oxytocin",
+    "Misoprostol and Foley catheter",
+    "Dinoprostone gel and ARM",
+    "Oxytocin and tocolytics"
+   ],
+   "ans": 0,
+   "exp": "Augmentation = ARM + oxytocin. (Book p500)"
+  },
+  {
+   "id": "OBG-C17-015",
+   "sec": "Active phase: normal rates & protracted active phase",
+   "page": 500,
+   "q": "Sequence of augmentation – head engaged : head not engaged.",
+   "opts": [
+    "ARM → 30 mins → oxytocin : oxytocin followed by ARM (↑ risk of cord prolapse)",
+    "Oxytocin → ARM : ARM → oxytocin",
+    "ARM only : oxytocin only",
+    "Both: simultaneous ARM + oxytocin"
+   ],
+   "ans": 0,
+   "exp": "Head engaged: ARM, then oxytocin after 30 min. Head not engaged: oxytocin first then ARM, because early ARM risks cord prolapse. (Book p500)"
+  },
+  {
+   "id": "OBG-C17-016",
+   "sec": "Arrest of active phase, arrest of descent & partogram of arrest",
+   "page": 500,
+   "q": "Arrest of active phase is diagnosed when there is no dilatation of cervix for:",
+   "opts": [
+    "≥4 hrs despite good contractions (≥200 Montevideo units) OR ≥6 hrs of inadequate contractions despite oxytocin",
+    "≥2 hrs regardless of contractions",
+    "≥6 hrs with good contractions OR ≥4 hrs with inadequate contractions",
+    "≥1 hr with ≥300 Montevideo units"
+   ],
+   "ans": 0,
+   "exp": "No dilatation ≥4 h despite good contractions (≥200 MVU) or ≥6 h of inadequate contractions despite oxytocin. (Book p500)"
+  },
+  {
+   "id": "OBG-C17-017",
+   "sec": "Arrest of active phase, arrest of descent & partogram of arrest",
+   "page": 501,
+   "q": "Arrest of descent (a second criterion of arrest) = no descent of fetal head for:",
+   "opts": [
+    "≥2 hrs in primigravida, ≥1 hr in multigravida",
+    "≥1 hr in primigravida, ≥2 hrs in multigravida",
+    "≥4 hrs in primigravida, ≥2 hrs in multigravida",
+    "≥3 hrs in either"
+   ],
+   "ans": 0,
+   "exp": "No descent for ≥2 h (primi) / ≥1 h (multi). (Book p501)"
+  },
+  {
+   "id": "OBG-C17-018",
+   "sec": "Arrest of active phase, arrest of descent & partogram of arrest",
+   "page": 501,
+   "q": "Prerequisites for diagnosing arrest of active phase are ______ and ______; management is ______.",
+   "opts": [
+    "Cervix ≥6 cm dilated; membranes ruptured; C-section",
+    "Cervix ≥4 cm; membranes intact; oxytocin",
+    "Cervix ≥8 cm; head engaged; forceps",
+    "Cervix fully dilated; membranes ruptured; vacuum"
+   ],
+   "ans": 0,
+   "exp": "Prerequisites: cervix ≥6 cm and membranes ruptured; management is C-section. (Book p501)"
+  },
+  {
+   "id": "OBG-C17-019",
+   "sec": "Arrest of active phase, arrest of descent & partogram of arrest",
+   "page": 501,
+   "q": "On the illustrated arrest partogram, arrest of cervical dilatation appears as ______ and falling FHR indicates ______.",
+   "opts": [
+    "A straight (flat) line for 3 hrs; fetal distress → immediate C-section",
+    "A steep rise; normal progress",
+    "A line crossing the alert line only; wait",
+    "A sigmoid curve; reassurance"
+   ],
+   "ans": 0,
+   "exp": "No dilatation for 3 h appears as a straight line; ↓FHR = fetal distress, an indication for immediate C-section. (Book p501)"
+  },
+  {
+   "id": "OBG-C17-020",
+   "sec": "Arrest of active phase, arrest of descent & partogram of arrest",
+   "page": 501,
+   "q": "Other features on the same arrest partogram were meconium in amniotic fluid, 3+ moulding and good uterine contractions. In the FIRST stage, fetal distress is managed by:",
+   "opts": [
+    "C-section only",
+    "Forceps",
+    "Vacuum",
+    "Oxytocin augmentation"
+   ],
+   "ans": 0,
+   "exp": "In the 1st stage of labour, management of fetal distress is C-section only. (Book p501)"
+  },
+  {
+   "id": "OBG-C17-021",
+   "sec": "Second stage of labour: durations & arrest of descent management",
+   "page": 502,
+   "q": "The second stage of labour (from full dilatation of cervix, 10 cm) – main event, effect of epidural, and descent:",
+   "opts": [
+    "Delivery of baby; epidural prolongs it by 1 hr; maximum fetal head descent occurs here",
+    "Delivery of placenta; epidural shortens it; no descent",
+    "Delivery of baby; epidural has no effect; descent minimal",
+    "Effacement; epidural prolongs by 2 hrs; descent begins"
+   ],
+   "ans": 0,
+   "exp": "Main event = delivery of baby; epidural prolongs 2nd stage by 1 hour; maximum head descent occurs in this stage. (Book p502)"
+  },
+  {
+   "id": "OBG-C17-022",
+   "sec": "Second stage of labour: durations & arrest of descent management",
+   "page": 502,
+   "q": "Fill the second-stage duration table for PRIMIGRAVIDA – average : maximum without epidural : maximum with epidural.",
+   "opts": [
+    "50 min : 3 hrs : 4 hrs",
+    "30 min : 2 hrs : 3 hrs",
+    "50 min : 2 hrs : 3 hrs",
+    "60 min : 4 hrs : 5 hrs"
+   ],
+   "ans": 0,
+   "exp": "Primi: average 50 min, max 3 h without epidural, 4 h with epidural. (Book p502)"
+  },
+  {
+   "id": "OBG-C17-023",
+   "sec": "Second stage of labour: durations & arrest of descent management",
+   "page": 502,
+   "q": "Fill the second-stage duration table for MULTIGRAVIDA – average : maximum without epidural : maximum with epidural.",
+   "opts": [
+    "30 min : 2 hrs : 3 hrs",
+    "50 min : 3 hrs : 4 hrs",
+    "20 min : 1 hr : 2 hrs",
+    "30 min : 3 hrs : 4 hrs"
+   ],
+   "ans": 0,
+   "exp": "Multi: average 30 min, max 2 h without epidural, 3 h with epidural. (Book p502)"
+  },
+  {
+   "id": "OBG-C17-024",
+   "sec": "Second stage of labour: durations & arrest of descent management",
+   "page": 502,
+   "q": "Prolonged second stage without epidural is defined as:",
+   "opts": [
+    ">3 hrs in primigravida; >2 hrs in multigravida",
+    ">2 hrs in primigravida; >1 hr in multigravida",
+    ">4 hrs in primigravida; >3 hrs in multigravida",
+    ">1 hr in either"
+   ],
+   "ans": 0,
+   "exp": "Prolonged 2nd stage: >3 h primi, >2 h multi (without epidural). (Book p502)"
+  },
+  {
+   "id": "OBG-C17-025",
+   "sec": "Second stage of labour: durations & arrest of descent management",
+   "page": 502,
+   "q": "Arrest of descent in the second stage requires a pre-requisite of ______ and management depends on ______.",
+   "opts": [
+    "Normal FHR; maternal and fetal condition",
+    "Ruptured membranes; parity",
+    "Epidural in situ; station",
+    "Cervix ≥6 cm; contractions"
+   ],
+   "ans": 0,
+   "exp": "Pre-requisite: normal FHR; management depends on maternal and fetal condition. (Book p502)"
+  },
+  {
+   "id": "OBG-C17-026",
+   "sec": "Second stage of labour: durations & arrest of descent management",
+   "page": 502,
+   "q": "Fetal distress in 2nd stage with fully dilated cervix – management by station:",
+   "opts": [
+    "Station above +2: C-section; station at +2 or below: forceps",
+    "Station above +2: vacuum; at +2 or below: C-section",
+    "Any station: C-section",
+    "Any station: forceps"
+   ],
+   "ans": 0,
+   "exp": "Above +2 → C-section; at or below +2 → forceps (forceps preferred in fetal distress). (Book p502)"
+  },
+  {
+   "id": "OBG-C17-027",
+   "sec": "Second stage of labour: durations & arrest of descent management",
+   "page": 502,
+   "q": "Which second-stage scenarios mandate C-section with NO instrumental delivery?",
+   "opts": [
+    "Bandl's ring + prolonged 2nd stage; CPD + prolonged 2nd stage with moulding/caput",
+    "Fetal distress at station +3",
+    "Prolonged 2nd stage with normal FHR at station +2",
+    "Occipito-posterior position at station +2"
+   ],
+   "ans": 0,
+   "exp": "Bandl's ring or CPD (with moulding/caput) in a prolonged 2nd stage → C-section; instrumental delivery is contraindicated. (Book p502)"
+  },
+  {
+   "id": "OBG-C17-028",
+   "sec": "Second stage of labour: durations & arrest of descent management",
+   "page": 502,
+   "q": "Prolonged 2nd stage with normal FHR and no CPD/obstructed labour – management:",
+   "opts": [
+    "Station above +2: C-section; at +2 or below: forceps or vacuum",
+    "Always C-section",
+    "Station above +2: vacuum; below: forceps",
+    "Oxytocin only, never instrumental"
+   ],
+   "ans": 0,
+   "exp": "Above +2 → C-section; at/below +2 → forceps or vacuum. (Book p502)"
+  },
+  {
+   "id": "OBG-C17-029",
+   "sec": "Second stage of labour: durations & arrest of descent management",
+   "page": 502,
+   "q": "Requisites for instrumental delivery and the instrument of choice in fetal distress:",
+   "opts": [
+    "Full cervical dilatation and station ≥ +2; forceps > vacuum",
+    "Cervix ≥8 cm and engaged head; vacuum > forceps",
+    "Full dilatation and station 0; vacuum",
+    "Ruptured membranes only; either"
+   ],
+   "ans": 0,
+   "exp": "Requisites: full dilatation + station ≥ +2; in fetal distress forceps > vacuum. (Book p502)"
+  },
+  {
+   "id": "OBG-C17-030",
+   "sec": "Obstructed labour & Bandl's ring",
+   "page": 503,
+   "q": "Obstructed labour is defined as:",
+   "opts": [
+    "Baby unable to be delivered despite good uterine contractions and fully dilated cervix, due to obstruction in the passage",
+    "Failure of cervix to dilate despite oxytocin",
+    "Latent phase >20 hrs",
+    "Delivery delayed due to inadequate contractions"
+   ],
+   "ans": 0,
+   "exp": "Obstructed labour = baby cannot be delivered despite good contractions and full dilatation because of obstruction in the passage. (Book p503)"
+  },
+  {
+   "id": "OBG-C17-031",
+   "sec": "Obstructed labour & Bandl's ring",
+   "page": 503,
+   "q": "Obstructed labour is seen in all EXCEPT:",
+   "opts": [
+    "Occipito-anterior position",
+    "Transverse lie",
+    "Conjoint twins",
+    "Hydrocephalus / fibroid uterus"
+   ],
+   "ans": 0,
+   "exp": "Listed causes: transverse lie, conjoint twins, hydrocephalus, fibroid uterus. (Book p503)"
+  },
+  {
+   "id": "OBG-C17-032",
+   "sec": "Obstructed labour & Bandl's ring",
+   "page": 503,
+   "q": "On general examination in obstructed labour the mother appears:",
+   "opts": [
+    "Exhausted, dehydrated, tachypnoeic with acidotic breathing",
+    "Comfortable between contractions",
+    "Bradycardic and hypertensive",
+    "Euphoric and afebrile"
+   ],
+   "ans": 0,
+   "exp": "Exhausted, dehydrated, tachypnoeic, acidotic breathing. (Book p503)"
+  },
+  {
+   "id": "OBG-C17-033",
+   "sec": "Obstructed labour & Bandl's ring",
+   "page": 503,
+   "q": "Bandl's ring on P/A examination is the ______ between the ______ upper segment and the ______ lower segment.",
+   "opts": [
+    "Groove; retracted (tonically contracted); distended (passively dilated)",
+    "Bulge; relaxed; contracted",
+    "Groove; distended; retracted",
+    "Ridge; atonic; hypertonic"
+   ],
+   "ans": 0,
+   "exp": "Bandl's ring = groove between the tonically contracted (retracted) upper segment and the passively dilated (distended) lower segment. (Book p503)"
+  },
+  {
+   "id": "OBG-C17-034",
+   "sec": "Obstructed labour & Bandl's ring",
+   "page": 503,
+   "q": "Complications of obstructed labour include rupture of uterus and vesicovaginal fistula (VVF). The VVF appears:",
+   "opts": [
+    "After 7–10 days due to ischemic injury of the bladder, with constant dribbling of urine P/V; m/c cause of VVF in developing countries",
+    "Immediately after delivery due to direct laceration",
+    "After 6 weeks from infection",
+    "Within 24 hrs due to catheter trauma"
+   ],
+   "ans": 0,
+   "exp": "VVF develops after 7–10 days from ischaemic bladder injury – constant urinary dribbling; obstructed labour is the m/c cause of VVF in developing countries. (Book p503)"
+  },
+  {
+   "id": "OBG-C17-035",
+   "sec": "Obstructed labour & Bandl's ring",
+   "page": 503,
+   "q": "Management of obstructed labour and what must be AVOIDED:",
+   "opts": [
+    "Immediate C-section + maternal resuscitation; avoid waiting, oxytocin and instrumental delivery",
+    "Oxytocin augmentation; avoid C-section",
+    "Forceps delivery; avoid waiting",
+    "Wait for spontaneous delivery; avoid oxytocin"
+   ],
+   "ans": 0,
+   "exp": "Immediate C-section with resuscitation; avoid waiting (↑ rupture risk), oxytocin and instrumental delivery. (Book p503)"
+  },
+  {
+   "id": "OBG-C17-036",
+   "sec": "Bandl's ring vs Schroeder's ring",
+   "page": 504,
+   "q": "Match the alternate names – Bandl's ring : Schroeder's ring.",
+   "opts": [
+    "Retraction ring : constriction ring",
+    "Constriction ring : retraction ring",
+    "Pathological ring : physiological ring",
+    "Cervical ring : fundal ring"
+   ],
+   "ans": 0,
+   "exp": "Bandl's = retraction ring; Schroeder's = constriction ring. (Book p504)"
+  },
+  {
+   "id": "OBG-C17-037",
+   "sec": "Bandl's ring vs Schroeder's ring",
+   "page": 504,
+   "q": "Match the cause – Bandl's ring : Schroeder's ring.",
+   "opts": [
+    "Obstructed labour : spasm of a uterine segment due to inadvertent oxytocin use",
+    "Oxytocin overdose : obstructed labour",
+    "Prolonged latent phase : CPD",
+    "Uterine rupture : placenta accreta"
+   ],
+   "ans": 0,
+   "exp": "Bandl's ring results from obstructed labour; Schroeder's ring from spasm due to inadvertent oxytocin use. (Book p504)"
+  },
+  {
+   "id": "OBG-C17-038",
+   "sec": "Bandl's ring vs Schroeder's ring",
+   "page": 504,
+   "q": "Match the site and stage – Bandl's ring : Schroeder's ring.",
+   "opts": [
+    "Between upper and lower uterine segments, second stage : any site, first or second stage",
+    "Any site, first stage : between segments, second stage",
+    "Cervix, second stage : fundus, third stage",
+    "Lower segment, first stage : upper segment, second stage"
+   ],
+   "ans": 0,
+   "exp": "Bandl's: junction of upper and lower segments in 2nd stage; Schroeder's: any site, 1st or 2nd stage. (Book p504)"
+  },
+  {
+   "id": "OBG-C17-039",
+   "sec": "Bandl's ring vs Schroeder's ring",
+   "page": 504,
+   "q": "Palpability, visibility and maternal/fetal condition – Bandl's ring : Schroeder's ring.",
+   "opts": [
+    "Palpable and visible P/A, maternal and fetal distress : palpable P/V, not visible, condition normal",
+    "Palpable P/V, visible, distress : palpable P/A, visible, normal",
+    "Not palpable, not visible, normal : palpable P/A, visible, distress",
+    "Both palpable P/A and visible with distress"
+   ],
+   "ans": 0,
+   "exp": "Bandl's ring is palpable and visible per abdomen with maternal/fetal distress; Schroeder's ring is felt P/V, not visible and condition is normal. (Book p504)"
+  },
+  {
+   "id": "OBG-C17-040",
+   "sec": "Bandl's ring vs Schroeder's ring",
+   "page": 504,
+   "q": "Relief of Schroeder's ring is by ______, and if C-section is needed the incision is ______.",
+   "opts": [
+    "Stopping oxytocin and uterine relaxants (terbutaline), C-section if no relaxation; vertical (Kronig's) / lower vertical incision",
+    "Oxytocin increase; lower segment transverse incision",
+    "Manual dilatation; classical fundal incision",
+    "Amnioinfusion; Pfannenstiel"
+   ],
+   "ans": 0,
+   "exp": "Schroeder's: cease oxytocin, terbutaline; C-section if no relaxation via vertical Kronig's / lower vertical incision. Bandl's ring is relieved by C-section. (Book p504)"
+  },
+  {
+   "id": "OBG-C17-041",
+   "sec": "WHO recommendations: admission & first stage care",
+   "page": 504,
+   "q": "WHO recommended actions at admission in labour include all EXCEPT:",
+   "opts": [
+    "Routine enema",
+    "Note vitals",
+    "Perform Leopold's manoeuvres",
+    "Auscultate fetal heart sounds / P/V exam (contraindicated in active bleeding)"
+   ],
+   "ans": 0,
+   "exp": "Not recommended: routine enema, routine pelvic examination, routine CTG, routine pelvic shaving. (Book p504)"
+  },
+  {
+   "id": "OBG-C17-042",
+   "sec": "WHO recommendations: admission & first stage care",
+   "page": 504,
+   "q": "Which of the following are NOT recommended routinely at admission per WHO?",
+   "opts": [
+    "Routine CTG and routine pelvic shaving",
+    "Noting vitals",
+    "Auscultation of FHS",
+    "Leopold's manoeuvres"
+   ],
+   "ans": 0,
+   "exp": "Routine enema, pelvic examination, CTG and pelvic shaving are not recommended. (Book p504)"
+  },
+  {
+   "id": "OBG-C17-043",
+   "sec": "WHO recommendations: admission & first stage care",
+   "page": 504,
+   "q": "Ambulation in first stage – early labour : late labour/membranes ruptured.",
+   "opts": [
+    "Allowed : lie in left lateral position",
+    "Not allowed : ambulation encouraged",
+    "Allowed : supine position",
+    "Bed rest : lithotomy"
+   ],
+   "ans": 0,
+   "exp": "Ambulation allowed in early labour; left lateral position in late labour or after membrane rupture. (Book p504)"
+  },
+  {
+   "id": "OBG-C17-044",
+   "sec": "WHO recommendations: admission & first stage care",
+   "page": 504,
+   "q": "Oral intake in first stage and pre-C-section fasting rules:",
+   "opts": [
+    "Solids not allowed, liquids allowed; for C-section stop solids 6 hrs and liquids 2 hrs before surgery",
+    "Solids and liquids allowed; stop both 8 hrs before surgery",
+    "Nil by mouth throughout labour; 12 hrs fasting before surgery",
+    "Solids allowed, liquids restricted; stop liquids 6 hrs before"
+   ],
+   "ans": 0,
+   "exp": "Solids not allowed, liquids allowed; solids stopped 6 h and liquids 2 h before C-section. (Book p504)"
+  },
+  {
+   "id": "OBG-C17-045",
+   "sec": "WHO recommendations: admission & first stage care",
+   "page": 504,
+   "q": "Bladder function during first stage – the woman is encouraged to void every:",
+   "opts": [
+    "2 hrs",
+    "30 min",
+    "4 hrs",
+    "6 hrs"
+   ],
+   "ans": 0,
+   "exp": "Encouraged to relieve bladder every 2 hours. (Book p504)"
+  },
+  {
+   "id": "OBG-C17-046",
+   "sec": "WHO recommendations: admission & first stage care",
+   "page": 505,
+   "q": "Which first-stage items (pain relief, companion of choice, ambulation, oral intake) are grouped under 'supportive care' in the Labour Care Guide?",
+   "opts": [
+    "Steps 1, 2, 4 and 5 – ambulation, oral intake, pain relief and companion of choice",
+    "Only pain relief",
+    "Bladder care and monitoring",
+    "Enema and shaving"
+   ],
+   "ans": 0,
+   "exp": "Pain relief is recommended and companion of choice allowed; steps 1, 2, 4 and 5 fall under supportive care in the Labour Care Guide. (Book p505)"
+  },
+  {
+   "id": "OBG-C17-047",
+   "sec": "WHO recommendations: admission & first stage care",
+   "page": 505,
+   "q": "Monitoring frequency in the first stage – maternal pulse/BP : temperature (membranes intact / ruptured) : contractions : P/V.",
+   "opts": [
+    "Hourly : hourly / 4th hourly : every 30 min : 4th hourly",
+    "Every 30 min : hourly / hourly : hourly : 2nd hourly",
+    "4th hourly : hourly / hourly : every 15 min : hourly",
+    "Hourly : 4th hourly / hourly : every 30 min : 2nd hourly"
+   ],
+   "ans": 0,
+   "exp": "Pulse/BP hourly; temperature hourly (intact) or 4th hourly (ruptured); contractions every 30 min; P/V 4th hourly. (Book p505)"
+  },
+  {
+   "id": "OBG-C17-048",
+   "sec": "WHO recommendations: admission & first stage care",
+   "page": 505,
+   "q": "FHR auscultation frequency – 1st stage low risk : 1st stage high risk : 2nd stage low risk : 2nd stage high risk.",
+   "opts": [
+    "30 min : 15 min : 15 min : 5 min",
+    "15 min : 5 min : 30 min : 15 min",
+    "60 min : 30 min : 15 min : 5 min",
+    "30 min : 30 min : 15 min : 15 min"
+   ],
+   "ans": 0,
+   "exp": "1st stage: 30 min (low risk) / 15 min (high risk); 2nd stage: 15 min / 5 min. (Book p505)"
+  },
+  {
+   "id": "OBG-C17-049",
+   "sec": "Management of second stage & prevention of perineal tear",
+   "page": 505,
+   "q": "Recommended measures to prevent perineal tear include all EXCEPT:",
+   "opts": [
+    "Routine episiotomy",
+    "Warm compress to perineum",
+    "Perineal massage",
+    "Controlled delivery of fetal head / modified Ritgen manoeuvre"
+   ],
+   "ans": 0,
+   "exp": "Routine episiotomy and fundal pressure are NOT recommended. (Book p505)"
+  },
+  {
+   "id": "OBG-C17-050",
+   "sec": "Management of second stage & prevention of perineal tear",
+   "page": 505,
+   "q": "In the modified Ritgen manoeuvre, one hand ______ and the other hand ______.",
+   "opts": [
+    "Initially flexes then extends the fetal head; supports the perineum",
+    "Applies fundal pressure; pulls the head",
+    "Rotates the head; cuts episiotomy",
+    "Extends the head; presses the anus"
+   ],
+   "ans": 0,
+   "exp": "One hand initially flexes then extends the head; the other supports the perineum. (Book p505)"
+  },
+  {
+   "id": "OBG-C17-051",
+   "sec": "Management of second stage & prevention of perineal tear",
+   "page": 505,
+   "q": "Which statement about maternal position in the second stage is correct per the notes?",
+   "opts": [
+    "Delivery can be done in any position",
+    "Lithotomy is mandatory",
+    "Only left lateral is allowed",
+    "Only squatting is recommended"
+   ],
+   "ans": 0,
+   "exp": "Note: delivery can be done in any position. (Book p505)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OBG-U17-1",
+   "ch": 17,
+   "n": 1,
+   "title": "The four stages & the first stage: latent vs active phase",
+   "sec": "Stages of labour · p499",
+   "guide": "Fix the boundaries of the four stages, then compare the latent and active phases by guideline cut-off, event and duration in primi and multi. Focus for this checkpoint: The four stages & the first stage: latent vs active phase.",
+   "qs": [
+    "OBG-C17-001",
+    "OBG-C17-002",
+    "OBG-C17-003",
+    "OBG-C17-004",
+    "OBG-C17-005"
+   ]
+  },
+  {
+   "id": "OBG-U17-2",
+   "ch": 17,
+   "n": 2,
+   "title": "Prolonged latent phase",
+   "sec": "Prolonged latent phase · p499",
+   "guide": "Define prolonged latent phase numerically and match each of its three causes with the correct management, remembering it is never a C-section indication. Focus for this checkpoint: Prolonged latent phase.",
+   "qs": [
+    "OBG-C17-006",
+    "OBG-C17-007",
+    "OBG-C17-008"
+   ]
+  },
+  {
+   "id": "OBG-U17-3",
+   "ch": 17,
+   "n": 3,
+   "title": "Active phase: normal rates & protracted active phase",
+   "sec": "Protracted active phase · p500",
+   "guide": "Learn the cm/hr benchmarks for dilatation and descent, the old vs new WHO 1 cm/hr rule, and the P/V-based protocol for slow active-phase progress. Focus for this checkpoint: Active phase: normal rates & protracted active phase.",
+   "qs": [
+    "OBG-C17-009",
+    "OBG-C17-010",
+    "OBG-C17-011",
+    "OBG-C17-012",
+    "OBG-C17-013",
+    "OBG-C17-014",
+    "OBG-C17-015"
+   ]
+  },
+  {
+   "id": "OBG-U17-4",
+   "ch": 17,
+   "n": 4,
+   "title": "Arrest of active phase, arrest of descent & partogram of arrest",
+   "sec": "Arrest disorders · p500-501",
+   "guide": "State the arrest criteria in hours and Montevideo units, the prerequisites for arrest of descent, and read the classic arrest partogram. Focus for this checkpoint: Arrest of active phase, arrest of descent & partogram of arrest.",
+   "qs": [
+    "OBG-C17-016",
+    "OBG-C17-017",
+    "OBG-C17-018",
+    "OBG-C17-019",
+    "OBG-C17-020"
+   ]
+  },
+  {
+   "id": "OBG-U17-5",
+   "ch": 17,
+   "n": 5,
+   "title": "Second stage of labour: durations & arrest of descent management",
+   "sec": "Second stage · p502",
+   "guide": "Hold the average and maximum second-stage durations with and without epidural, then decide between C-section, forceps and vacuum by station and cause. Focus for this checkpoint: Second stage of labour: durations & arrest of descent management.",
+   "qs": [
+    "OBG-C17-021",
+    "OBG-C17-022",
+    "OBG-C17-023",
+    "OBG-C17-024",
+    "OBG-C17-025",
+    "OBG-C17-026",
+    "OBG-C17-027",
+    "OBG-C17-028",
+    "OBG-C17-029"
+   ]
+  },
+  {
+   "id": "OBG-U17-6",
+   "ch": 17,
+   "n": 6,
+   "title": "Obstructed labour & Bandl's ring",
+   "sec": "Obstructed labour · p503",
+   "guide": "Recognise obstructed labour clinically, from the exhausted mother to the Bandl's ring, and know what to do – and what to avoid. Focus for this checkpoint: Obstructed labour & Bandl's ring.",
+   "qs": [
+    "OBG-C17-030",
+    "OBG-C17-031",
+    "OBG-C17-032",
+    "OBG-C17-033",
+    "OBG-C17-034",
+    "OBG-C17-035"
+   ]
+  },
+  {
+   "id": "OBG-U17-7",
+   "ch": 17,
+   "n": 7,
+   "title": "Bandl's ring vs Schroeder's ring",
+   "sec": "Retraction vs constriction ring · p504",
+   "guide": "Contrast the retraction ring of obstructed labour with the oxytocin-induced constriction ring across cause, site, stage, palpability and relief. Focus for this checkpoint: Bandl's ring vs Schroeder's ring.",
+   "qs": [
+    "OBG-C17-036",
+    "OBG-C17-037",
+    "OBG-C17-038",
+    "OBG-C17-039",
+    "OBG-C17-040"
+   ]
+  },
+  {
+   "id": "OBG-U17-8",
+   "ch": 17,
+   "n": 8,
+   "title": "WHO recommendations: admission & first stage care",
+   "sec": "WHO intrapartum care · p504-505",
+   "guide": "Sort the recommended from the not-recommended at admission, then apply the rules for ambulation, oral intake, bladder care, pain relief and monitoring frequency. Focus for this checkpoint: WHO recommendations: admission & first stage care.",
+   "qs": [
+    "OBG-C17-041",
+    "OBG-C17-042",
+    "OBG-C17-043",
+    "OBG-C17-044",
+    "OBG-C17-045",
+    "OBG-C17-046",
+    "OBG-C17-047",
+    "OBG-C17-048"
+   ]
+  },
+  {
+   "id": "OBG-U17-9",
+   "ch": 17,
+   "n": 9,
+   "title": "Management of second stage & prevention of perineal tear",
+   "sec": "Second stage care · p505",
+   "guide": "List the four perineal protection measures, the two things not recommended, and the two-hand technique of the modified Ritgen manoeuvre. Focus for this checkpoint: Management of second stage & prevention of perineal tear.",
+   "qs": [
+    "OBG-C17-049",
+    "OBG-C17-050",
+    "OBG-C17-051"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,879 @@
+{
+ "chapter": 21,
+ "title": "Perineal Trauma, Episiotomy & Malpresentations",
+ "pageRange": "540-549",
+ "questions": [
+  {
+   "id": "OBG-C21-001",
+   "sec": "Vulval hematoma & broad ligament hematoma",
+   "page": 540,
+   "q": "Vulval hematoma is a laceration of an underlying vessel; m/c cause and arteries involved:",
+   "opts": [
+    "Instrumental delivery (m/c); vulval – internal pudendal artery, vaginal – vaginal artery",
+    "Spontaneous labour (m/c); uterine artery",
+    "Precipitate labour (m/c); ovarian artery",
+    "Episiotomy (m/c); inferior rectal artery"
+   ],
+   "ans": 0,
+   "exp": "M/c cause instrumental delivery (also precipitate labour, rarely spontaneous); vulval hematoma – internal pudendal artery; vaginal – vaginal artery. (Book p540)"
+  },
+  {
+   "id": "OBG-C21-002",
+   "sec": "Vulval hematoma & broad ligament hematoma",
+   "page": 540,
+   "q": "Presentation and examination of vulval hematoma:",
+   "opts": [
+    "Localized excruciating pain after delivery, inability to micturate, hypovolemia after vaginal delivery; tense, tender fluctuant swelling with bluish discoloration",
+    "Painless swelling with fever",
+    "Vaginal bleeding with open os",
+    "Pruritus and discharge"
+   ],
+   "ans": 0,
+   "exp": "Excruciating pain, urinary retention, hypovolemia; O/E tense tender fluctuant bluish swelling. (Book p540)"
+  },
+  {
+   "id": "OBG-C21-003",
+   "sec": "Vulval hematoma & broad ligament hematoma",
+   "page": 540,
+   "q": "Conservative management of vulval hematoma consists of:",
+   "opts": [
+    "Ice packs, analgesics, vitals monitoring",
+    "Antibiotics and warm compress",
+    "Uterotonics and TXA",
+    "Vaginal packing"
+   ],
+   "ans": 0,
+   "exp": "Conservative: ice packs, analgesics, monitoring of vitals. (Book p540)"
+  },
+  {
+   "id": "OBG-C21-004",
+   "sec": "Vulval hematoma & broad ligament hematoma",
+   "page": 540,
+   "q": "Indications for surgical management (incision & drainage with mattress-suture cavity closure):",
+   "opts": [
+    "Size >5 cm, increasing size, excruciating pain, shock",
+    "Any hematoma >1 cm",
+    "Only if infected",
+    "Only if bilateral"
+   ],
+   "ans": 0,
+   "exp": "Surgery if >5 cm, enlarging, excruciating pain or shock; I&D + mattress sutures. (Book p540)"
+  },
+  {
+   "id": "OBG-C21-005",
+   "sec": "Vulval hematoma & broad ligament hematoma",
+   "page": 540,
+   "q": "Broad ligament hematoma presents as ______ and is due to ______.",
+   "opts": [
+    "Hypovolemic shock without excess visible blood loss; cervical/vaginal tear extending upwards or colporrhexis (cervix separates from vagina)",
+    "Heavy vaginal bleeding; uterine atony",
+    "Fever and pain; endometritis",
+    "Visible vulval swelling; pudendal artery tear"
+   ],
+   "ans": 0,
+   "exp": "Broad ligament hematoma: hypovolemic shock without excess visible loss; from upward-extending tears or colporrhexis. (Book p540)"
+  },
+  {
+   "id": "OBG-C21-006",
+   "sec": "Perineal tear: classification & repair",
+   "page": 541,
+   "q": "Match the degree of perineal tear to structures – 1st : 2nd : 3rd : 4th.",
+   "opts": [
+    "Vaginal mucosa : 1 + muscles : 2 + anal sphincter : 3 + rectal mucosa",
+    "Skin : mucosa : muscles : sphincter",
+    "Mucosa : sphincter : rectum : bladder",
+    "Muscles : mucosa : rectal mucosa : sphincter"
+   ],
+   "ans": 0,
+   "exp": "1° vaginal mucosa; 2° + perineal muscles; 3° + anal sphincter; 4° + rectal mucosa. (Book p541)"
+  },
+  {
+   "id": "OBG-C21-007",
+   "sec": "Perineal tear: classification & repair",
+   "page": 541,
+   "q": "Sub-classification of third-degree tear – 3A : 3B : 3C.",
+   "opts": [
+    "<50% of external anal sphincter : ≥50% of EAS : internal and external anal sphincter",
+    "≥50% EAS : <50% EAS : IAS only",
+    "IAS : EAS : rectal mucosa",
+    "EAS partial : rectal mucosa : IAS"
+   ],
+   "ans": 0,
+   "exp": "3A <50% EAS; 3B ≥50% EAS; 3C both IAS and EAS (3rd & 4th = complete perineal tear). (Book p541)"
+  },
+  {
+   "id": "OBG-C21-008",
+   "sec": "Perineal tear: classification & repair",
+   "page": 541,
+   "q": "Repair setting – 1st & 2nd degree : 3rd & 4th degree; suture material:",
+   "opts": [
+    "Labour room under local anaesthesia, like episiotomy : OT under general/spinal anaesthesia; Vicryl for both",
+    "OT under GA : labour room under LA; catgut",
+    "Bedside without anaesthesia : OT under LA; silk",
+    "Both in OT; nylon"
+   ],
+   "ans": 0,
+   "exp": "1°/2°: labour room, LA, like episiotomy; 3°/4°: OT under GA/spinal; Vicryl. (Book p541)"
+  },
+  {
+   "id": "OBG-C21-009",
+   "sec": "Perineal tear: classification & repair",
+   "page": 541,
+   "q": "Sequence of repair for 1st/2nd degree tear:",
+   "opts": [
+    "Vaginal mucosa continuous sutures → muscles interrupted sutures → vaginal skin mattress sutures",
+    "Skin → muscles → mucosa",
+    "Muscles interrupted → mucosa mattress → skin continuous",
+    "Mucosa mattress → skin interrupted → muscles continuous"
+   ],
+   "ans": 0,
+   "exp": "Mucosa continuous, muscles interrupted, skin mattress. (Book p541)"
+  },
+  {
+   "id": "OBG-C21-010",
+   "sec": "Perineal tear: classification & repair",
+   "page": 541,
+   "q": "Sequence of repair for 3rd/4th degree tear:",
+   "opts": [
+    "Rectal mucosa → internal anal sphincter → external anal sphincter (end-to-end anastomosis) → rest like episiotomy",
+    "External sphincter → rectal mucosa → internal sphincter",
+    "Vaginal mucosa → EAS → rectal mucosa",
+    "Skin → IAS → EAS → mucosa"
+   ],
+   "ans": 0,
+   "exp": "Rectal mucosa, IAS, EAS end-to-end, then like episiotomy. (Book p541)"
+  },
+  {
+   "id": "OBG-C21-011",
+   "sec": "Perineal tear: classification & repair",
+   "page": 541,
+   "q": "Timing of perineal tear repair – <24 h of delivery : >24 h of delivery.",
+   "opts": [
+    "Immediate repair : repair after minimum 3 weeks",
+    "Repair after 3 weeks : immediate",
+    "Immediate : after 6 months",
+    "Both immediate"
+   ],
+   "ans": 0,
+   "exp": "<24 h immediate; >24 h wait minimum 3 weeks. (Book p541)"
+  },
+  {
+   "id": "OBG-C21-012",
+   "sec": "Perineal tear: classification & repair",
+   "page": 541,
+   "q": "WHO recommendations to PREVENT perineal tear include all EXCEPT:",
+   "opts": [
+    "Fundal massage / routine episiotomy",
+    "Perineal massage and warm compression",
+    "Controlled delivery of fetal head and guarding of perineum",
+    "Ritgen manoeuvre"
+   ],
+   "ans": 0,
+   "exp": "Fundal massage and routine episiotomy are NOT recommended. (Book p541)"
+  },
+  {
+   "id": "OBG-C21-013",
+   "sec": "Episiotomy: indications, types, timing & anatomy",
+   "page": 541,
+   "q": "Episiotomy is a surgically planned incision of the perineum to facilitate delivery of the fetal head; indications include:",
+   "opts": [
+    "Shoulder dystocia, instrumental delivery, after-coming head of breech, face-to-pubis delivery, macrosomia, rigid perineum",
+    "Every primigravida",
+    "All preterm deliveries",
+    "Twin pregnancy routinely"
+   ],
+   "ans": 0,
+   "exp": "Indications: shoulder dystocia, instrumental delivery, after-coming head of breech, face-to-pubis, macrosomia, rigid perineum (↑ tear risk). (Book p541)"
+  },
+  {
+   "id": "OBG-C21-014",
+   "sec": "Episiotomy: indications, types, timing & anatomy",
+   "page": 542,
+   "q": "Types of episiotomy – median : mediolateral.",
+   "opts": [
+    "At centre extending from introitus : at an angle of 60°",
+    "At 45° : at centre",
+    "Lateral from 3 o'clock : J-shaped",
+    "At 90° : at 30°"
+   ],
+   "ans": 0,
+   "exp": "Median from introitus at centre; mediolateral at 60°. (Book p542)"
+  },
+  {
+   "id": "OBG-C21-015",
+   "sec": "Episiotomy: indications, types, timing & anatomy",
+   "page": 542,
+   "q": "Correct timing of episiotomy:",
+   "opts": [
+    "After crowning; climbing of perineum in breech; before/after forceps application but before traction",
+    "Before crowning",
+    "At full dilatation regardless of descent",
+    "After delivery of head"
+   ],
+   "ans": 0,
+   "exp": "After crowning; in breech when perineum is 'climbed'; with forceps before traction. (Book p542)"
+  },
+  {
+   "id": "OBG-C21-016",
+   "sec": "Episiotomy: indications, types, timing & anatomy",
+   "page": 542,
+   "q": "Median vs mediolateral episiotomy – muscle fibres cut, bleeding, repair, healing:",
+   "opts": [
+    "Median: less fibres, less bleeding, easy repair, quick healing; mediolateral: more, more, difficult, longer",
+    "Median: more, more, difficult, longer; mediolateral: less, less, easy, quick",
+    "Both equal",
+    "Median: less fibres but more bleeding"
+   ],
+   "ans": 0,
+   "exp": "Median cuts fewer fibres, bleeds less, repairs easily and heals quickly; mediolateral the opposite. (Book p542)"
+  },
+  {
+   "id": "OBG-C21-017",
+   "sec": "Episiotomy: indications, types, timing & anatomy",
+   "page": 542,
+   "q": "Median vs mediolateral – chance of gaping, dyspareunia and anal sphincter involvement:",
+   "opts": [
+    "Median: ↓ gaping, ↓ dyspareunia but anal sphincter involved; mediolateral: ↑ gaping, ↑ dyspareunia, sphincter not involved",
+    "Median: ↑ gaping, sphincter spared; mediolateral: ↓ gaping, sphincter involved",
+    "Both involve sphincter",
+    "Neither involves sphincter"
+   ],
+   "ans": 0,
+   "exp": "Median: less gaping/dyspareunia, but risk of anal sphincter extension; mediolateral: more gaping/dyspareunia, sphincter spared. (Book p542)"
+  },
+  {
+   "id": "OBG-C21-018",
+   "sec": "Episiotomy: indications, types, timing & anatomy",
+   "page": 542,
+   "q": "Structures cut in an episiotomy:",
+   "opts": [
+    "Vaginal mucosa, skin & subcutaneous tissue, branches of pudendal artery & nerve, muscles",
+    "Anal sphincter and rectal mucosa",
+    "Levator ani only",
+    "Bartholin gland and urethra"
+   ],
+   "ans": 0,
+   "exp": "Vaginal mucosa, skin/subcutaneous tissue, pudendal vessel and nerve branches, muscles. (Book p542)"
+  },
+  {
+   "id": "OBG-C21-019",
+   "sec": "Episiotomy: indications, types, timing & anatomy",
+   "page": 542,
+   "q": "Muscles CUT vs NOT cut in episiotomy:",
+   "opts": [
+    "Cut: pubococcygeus, deep & superficial transverse perinei, bulbospongiosus; not cut: ischiocavernosus, ischiococcygeus, obturator, anal sphincter",
+    "Cut: ischiocavernosus, anal sphincter; not cut: bulbospongiosus",
+    "Cut: obturator internus; not cut: pubococcygeus",
+    "Cut: anal sphincter; not cut: transverse perinei"
+   ],
+   "ans": 0,
+   "exp": "Cut: pubococcygeus, deep/superficial transverse perinei, bulbospongiosus. Spared: ischiocavernosus, ischiococcygeus, obturator, anal sphincter. (Book p542)"
+  },
+  {
+   "id": "OBG-C21-020",
+   "sec": "Episiotomy: indications, types, timing & anatomy",
+   "page": 542,
+   "q": "Episiotomy scissors are identified by:",
+   "opts": [
+    "Rounded ends and an angulated blade",
+    "Sharp pointed ends and straight blade",
+    "Serrated jaws with ratchet",
+    "Curved blunt-tipped blades with teeth"
+   ],
+   "ans": 0,
+   "exp": "Episiotomy scissors: rounded ends, angulated. (Book p542)"
+  },
+  {
+   "id": "OBG-C21-021",
+   "sec": "Occipito-posterior malposition: features, causes & findings",
+   "page": 543,
+   "q": "Malposition is defined by longitudinal lie, cephalic presentation, vertex presenting part and position:",
+   "opts": [
+    "Any position other than 1–5 (i.e., ROP 6, DOP 7, LOP 8)",
+    "Any position other than DOA",
+    "Positions 1–5",
+    "LOT and ROT only"
+   ],
+   "ans": 0,
+   "exp": "Malposition = OP positions 6 (ROP), 7 (DOP), 8 (LOP). (Book p543)"
+  },
+  {
+   "id": "OBG-C21-022",
+   "sec": "Occipito-posterior malposition: features, causes & findings",
+   "page": 543,
+   "q": "Most common OP positions in order and the causes:",
+   "opts": [
+    "ROP (6) > DOP (7) > LOP (8); android pelvis (m/c – head occupies posterior part due to ↑ space) > deflexed head",
+    "LOP > DOP > ROP; anthropoid pelvis > macrosomia",
+    "DOP > ROP > LOP; platypelloid pelvis",
+    "LOP > ROP > DOP; gynaecoid pelvis"
+   ],
+   "ans": 0,
+   "exp": "ROP > DOP > LOP; causes android pelvis (m/c) then deflexed head. (Book p543)"
+  },
+  {
+   "id": "OBG-C21-023",
+   "sec": "Occipito-posterior malposition: features, causes & findings",
+   "page": 543,
+   "q": "Incidence of OP position at term/onset of labour vs late labour, and parity associations:",
+   "opts": [
+    "10% → 2% (spontaneous rotation to OA); malpresentation m/c in multiparous, OP malposition m/c in nulliparous",
+    "2% → 10%; both m/c in multiparous",
+    "25% → 5%; both m/c in nulliparous",
+    "10% → 10%; no parity effect"
+   ],
+   "ans": 0,
+   "exp": "10% at term, 2% later (rotates to OA); malpresentation → multiparous, OP → nulliparous. (Book p543)"
+  },
+  {
+   "id": "OBG-C21-024",
+   "sec": "Occipito-posterior malposition: features, causes & findings",
+   "page": 544,
+   "q": "Abdominal findings – OP : OA.",
+   "opts": [
+    "Abdomen below umbilicus flat, limbs near umbilicus, anterior shoulder away from midline, back/FHS towards flank : bulging, limbs towards back, shoulder and back/FHS towards midline",
+    "Bulging : flat",
+    "Limbs towards back : limbs near umbilicus",
+    "FHS midline : FHS flank"
+   ],
+   "ans": 0,
+   "exp": "OP: flat lower abdomen, limbs felt near umbilicus, anterior shoulder away from midline, back/FHS in flank. OA: bulging, limbs toward back, shoulder/back midline. (Book p544)"
+  },
+  {
+   "id": "OBG-C21-025",
+   "sec": "Occipito-posterior malposition: features, causes & findings",
+   "page": 544,
+   "q": "Engaging diameters – OP (deflexed head) : OA (well flexed head).",
+   "opts": [
+    "Occipitofrontal 11.5 cm / suboccipitofrontal 10 cm with delayed engagement : suboccipitobregmatic 9.5 cm",
+    "Suboccipitobregmatic 9.5 cm : occipitofrontal 11.5 cm",
+    "Mentovertical 14 cm : submentobregmatic 9.5 cm",
+    "Biparietal 9.5 cm : bitemporal 8 cm"
+   ],
+   "ans": 0,
+   "exp": "OP engages by occipitofrontal 11.5 cm/suboccipitofrontal 10 cm (delayed); OA by suboccipitobregmatic 9.5 cm. (Book p544)"
+  },
+  {
+   "id": "OBG-C21-026",
+   "sec": "Outcomes of OP position & deep transverse arrest",
+   "page": 544,
+   "q": "Three possible outcomes in OP position and the m/c one:",
+   "opts": [
+    "Complete forward rotation (m/c, 90%, favourable – 3/8th rotation to OA; wait and watch), incomplete forward rotation, posterior rotation",
+    "Posterior rotation (m/c)",
+    "Incomplete rotation (m/c)",
+    "Deep sacral arrest (m/c)"
+   ],
+   "ans": 0,
+   "exp": "Complete forward rotation (3/8th circle) is m/c and favourable in 90%; others are incomplete forward and posterior rotation. (Book p544)"
+  },
+  {
+   "id": "OBG-C21-027",
+   "sec": "Outcomes of OP position & deep transverse arrest",
+   "page": 545,
+   "q": "Incomplete forward rotation – rotation achieved and causes:",
+   "opts": [
+    "Only 1/8th rotation (ROP → ROT); android pelvis (m/c), big baby, ↓ liquor",
+    "2/8th rotation; anthropoid pelvis",
+    "3/8th rotation; platypelloid pelvis",
+    "No rotation; polyhydramnios"
+   ],
+   "ans": 0,
+   "exp": "Only 1/8th rotation to OT; causes android pelvis (m/c), big baby, oligohydramnios. (Book p545)"
+  },
+  {
+   "id": "OBG-C21-028",
+   "sec": "Outcomes of OP position & deep transverse arrest",
+   "page": 545,
+   "q": "Deep transverse arrest is defined as:",
+   "opts": [
+    "Fetal head stuck in occipito-transverse position at the level of ischial spine despite adequate contractions; m/c android pelvis",
+    "Head arrested at brim in OP position",
+    "Head arrested at outlet in OA position",
+    "Face arrested in mento-posterior"
+   ],
+   "ans": 0,
+   "exp": "DTA: head stuck in OT at ischial spine level despite adequate contractions; m/c android pelvis. (Book p545)"
+  },
+  {
+   "id": "OBG-C21-029",
+   "sec": "Outcomes of OP position & deep transverse arrest",
+   "page": 545,
+   "q": "Management of deep transverse arrest – android pelvis : other pelvis.",
+   "opts": [
+    "Caesarean section : C-section (best), vacuum (can rotate head), manual rotation followed by forceps, Kielland forceps (only rotating forceps – outdated)",
+    "Forceps : C-section",
+    "Vacuum : oxytocin",
+    "Kielland : C-section only"
+   ],
+   "ans": 0,
+   "exp": "Android → C-section; other pelvis → C-section best, or vacuum, manual rotation + forceps, Kielland (outdated). (Book p545)"
+  },
+  {
+   "id": "OBG-C21-030",
+   "sec": "Outcomes of OP position & deep transverse arrest",
+   "page": 545,
+   "q": "Posterior rotation (ROP → DOP) is most commonly seen with:",
+   "opts": [
+    "Anthropoid pelvis (AP diameter >> transverse)",
+    "Android pelvis",
+    "Platypelloid pelvis",
+    "Gynaecoid pelvis"
+   ],
+   "ans": 0,
+   "exp": "Posterior rotation is m/c in anthropoid pelvis (AP >> transverse). (Book p545)"
+  },
+  {
+   "id": "OBG-C21-031",
+   "sec": "Outcomes of OP position & deep transverse arrest",
+   "page": 546,
+   "q": "Outcome of posterior rotation in anthropoid pelvis vs other pelvis:",
+   "opts": [
+    "Anthropoid: face-to-pubes delivery (face toward symphysis, occiput toward sacral promontory); other pelvis: deep sacral arrest – head stuck >30 min → C-section",
+    "Anthropoid: deep sacral arrest; others: face-to-pubes",
+    "Both face-to-pubes",
+    "Both C-section"
+   ],
+   "ans": 0,
+   "exp": "Anthropoid → face-to-pubes vaginal delivery; others → deep sacral arrest → C-section. (Book p546)"
+  },
+  {
+   "id": "OBG-C21-032",
+   "sec": "Outcomes of OP position & deep transverse arrest",
+   "page": 546,
+   "q": "The m/c complication of face-to-pubes delivery and its implication:",
+   "opts": [
+    "Complete perineal tear – hence an indication for episiotomy",
+    "Shoulder dystocia – McRoberts",
+    "Cord prolapse – C-section",
+    "PPH – oxytocin"
+   ],
+   "ans": 0,
+   "exp": "Face-to-pubes → complete perineal tear → episiotomy indicated. (Book p546)"
+  },
+  {
+   "id": "OBG-C21-033",
+   "sec": "Transverse lie & shoulder presentation",
+   "page": 546,
+   "q": "Transverse lie – presentation : denominator : m/c position.",
+   "opts": [
+    "Shoulder : acromion process : dorso-anterior > dorso-posterior",
+    "Shoulder : scapula : dorso-posterior",
+    "Arm : acromion : dorso-superior",
+    "Breech : sacrum : sacro-anterior"
+   ],
+   "ans": 0,
+   "exp": "Shoulder presentation, denominator acromion, dorso-anterior m/c. (Book p546)"
+  },
+  {
+   "id": "OBG-C21-034",
+   "sec": "Transverse lie & shoulder presentation",
+   "page": 546,
+   "q": "M/c outcome and causes of transverse lie:",
+   "opts": [
+    "Spontaneous rotation >34 weeks to cephalic/breech; m/c cause overall prematurity, at term placenta previa",
+    "Persistent transverse lie; m/c cause fibroid",
+    "Cord prolapse; m/c cause twins",
+    "Obstructed labour; m/c cause CPD"
+   ],
+   "ans": 0,
+   "exp": "Usually rotates after 34 wks; m/c cause overall prematurity, at term placenta previa. (Book p546)"
+  },
+  {
+   "id": "OBG-C21-035",
+   "sec": "Transverse lie & shoulder presentation",
+   "page": 546,
+   "q": "Examination and complication of transverse lie:",
+   "opts": [
+    "Uterine height < period of gestation; fundal and deep pelvic grips empty; highest chance of cord prolapse (cervix not closed by head)",
+    "Height > POG; fundus contains head; shoulder dystocia",
+    "Height = POG; pelvic grip head; PPH",
+    "Fundus buttocks; face presentation"
+   ],
+   "ans": 0,
+   "exp": "Fundal height less than dates, empty fundal and pelvic grips; highest cord prolapse risk. (Book p546)"
+  },
+  {
+   "id": "OBG-C21-036",
+   "sec": "Transverse lie & shoulder presentation",
+   "page": 548,
+   "q": "Indications for caesarean section in transverse lie (no mechanism of labour):",
+   "opts": [
+    "ECV failed twice, ECV contraindicated, transverse lie in active stage of labour",
+    "Only if fetus alive",
+    "Only in primigravida",
+    "Only with ruptured membranes"
+   ],
+   "ans": 0,
+   "exp": "C-section: ECV failed twice, ECV C/I, transverse lie in active labour. (Book p548)"
+  },
+  {
+   "id": "OBG-C21-037",
+   "sec": "Transverse lie & shoulder presentation",
+   "page": 548,
+   "q": "Hand prolapse/neglected shoulder presentation – pathophysiology and management:",
+   "opts": [
+    "Vaginal delivery trial in transverse lie → hand pulled to rotate → hand prolapse → obstructed labour (Bandl's ring); C-section; no role for destructive procedures (decapitation, evisceration)",
+    "Spontaneous; internal podalic version",
+    "Cord prolapse; forceps",
+    "Breech extraction; decapitation"
+   ],
+   "ans": 0,
+   "exp": "Neglected shoulder → obstructed labour with Bandl's ring → C-section; destructive procedures have no role. (Book p548)"
+  },
+  {
+   "id": "OBG-C21-038",
+   "sec": "External cephalic version (ECV)",
+   "page": 546,
+   "q": "Indications for ECV and preliminary USG confirmations:",
+   "opts": [
+    "Transverse lie and breech; USG confirms lie, adequate liquor, singleton pregnancy, absence of gross anomalies",
+    "Face and brow; USG for placenta only",
+    "Twins; USG for chorionicity",
+    "OP position; USG for BPD"
+   ],
+   "ans": 0,
+   "exp": "ECV for transverse lie and breech; USG confirms lie, liquor, singleton, no gross anomalies. (Book p546)"
+  },
+  {
+   "id": "OBG-C21-039",
+   "sec": "External cephalic version (ECV)",
+   "page": 547,
+   "q": "ECV procedure details:",
+   "opts": [
+    "OPD procedure, no anaesthesia, tocolytic terbutaline 0.25 mg SC 30 min before, anti-D if Rh-negative, induction not routine, continuous fetal monitoring",
+    "Inpatient under GA, no tocolytic, induce after",
+    "OT under spinal, nifedipine, always induce",
+    "OPD, epidural, no monitoring"
+   ],
+   "ans": 0,
+   "exp": "OPD, no anaesthesia, terbutaline 0.25 mg SC 30 min prior, anti-D for Rh-negative, no routine IOL, continuous FHR monitoring. (Book p547)"
+  },
+  {
+   "id": "OBG-C21-040",
+   "sec": "External cephalic version (ECV)",
+   "page": 547,
+   "q": "If fetal distress occurs during ECV:",
+   "opts": [
+    "Stop the procedure → revert the baby to its original position → immediate C-section",
+    "Continue quickly to finish",
+    "Give oxytocin",
+    "Wait 30 min and retry"
+   ],
+   "ans": 0,
+   "exp": "Stop, revert baby, immediate C-section. (Book p547)"
+  },
+  {
+   "id": "OBG-C21-041",
+   "sec": "External cephalic version (ECV)",
+   "page": 547,
+   "q": "Pre-requisites for ECV include all EXCEPT:",
+   "opts": [
+    "Ruptured membranes",
+    "Gestation ≥36 weeks (m/c done at 37 weeks – less reversion) and adequate liquor",
+    "Singleton pregnancy with normal CTG",
+    "Can be done in latent phase; no contraindication to vaginal delivery"
+   ],
+   "ans": 0,
+   "exp": "Prerequisites: ≥36 wks (37 usual), adequate liquor, INTACT membranes, early labour ok, singleton, normal FHR, no C/I to vaginal delivery. (Book p547)"
+  },
+  {
+   "id": "OBG-C21-042",
+   "sec": "External cephalic version (ECV)",
+   "page": 547,
+   "q": "Relative contraindications to ECV:",
+   "opts": [
+    "PIH, maternal heart disease, IUGR, previous LSCS",
+    "Oligohydramnios, ruptured membranes",
+    "Twins, placenta previa",
+    "Abnormal CTG, gross anomalies"
+   ],
+   "ans": 0,
+   "exp": "Relative: PIH, heart disease, IUGR, previous LSCS. (Book p547)"
+  },
+  {
+   "id": "OBG-C21-043",
+   "sec": "External cephalic version (ECV)",
+   "page": 547,
+   "q": "Absolute contraindications to ECV include:",
+   "opts": [
+    "Oligohydramnios, ruptured membranes, active phase of labour, twin/multifetal pregnancy, abnormal FHR, placenta previa/contracted pelvis, uterine or fetal gross anomalies",
+    "PIH and IUGR",
+    "Previous LSCS and heart disease",
+    "Gestation 36 weeks"
+   ],
+   "ans": 0,
+   "exp": "Absolute: oligohydramnios, ROM, active labour, multifetal, abnormal CTG, previa/contracted pelvis, anomalies. (Book p547)"
+  },
+  {
+   "id": "OBG-C21-044",
+   "sec": "External cephalic version (ECV)",
+   "page": 547,
+   "q": "ECV attempt outcomes – successful 1st attempt : fails 1st attempt → retry another day; successful 2nd : fails 2nd.",
+   "opts": [
+    "Wait for spontaneous labour (do not induce) : induce with oxytocin drip : elective caesarean at 39 weeks",
+    "Induce immediately : wait : C-section at 37 weeks",
+    "C-section : wait : induce",
+    "Wait : wait : third attempt"
+   ],
+   "ans": 0,
+   "exp": "1st success → await spontaneous labour; 2nd success → induce with oxytocin; 2nd failure → elective C-section at 39 wks. (Book p547)"
+  },
+  {
+   "id": "OBG-C21-045",
+   "sec": "Face presentation",
+   "page": 548,
+   "q": "Face presentation – lie, presentation, presenting part, attitude, denominator:",
+   "opts": [
+    "Longitudinal; cephalic; face; complete extension (abnormal attitude); mentum",
+    "Longitudinal; cephalic; brow; partial extension; frontal bone",
+    "Transverse; shoulder; face; flexion; acromion",
+    "Longitudinal; breech; face; extension; sacrum"
+   ],
+   "ans": 0,
+   "exp": "Face: longitudinal lie, cephalic, face presenting, complete extension, denominator mentum. (Book p548)"
+  },
+  {
+   "id": "OBG-C21-046",
+   "sec": "Face presentation",
+   "page": 548,
+   "q": "Risk factors for face presentation:",
+   "opts": [
+    "Anencephaly (m/c – only face is normal), factors preventing flexion (tight cord loops around neck, anterior neck mass), multiparous women, platypelloid pelvis",
+    "Hydrocephalus, primigravida, android pelvis",
+    "Oligohydramnios, IUGR",
+    "Placenta previa, gynaecoid pelvis"
+   ],
+   "ans": 0,
+   "exp": "Anencephaly (m/c), neck cord loops, anterior neck mass, multiparity, platypelloid pelvis. (Book p548)"
+  },
+  {
+   "id": "OBG-C21-047",
+   "sec": "Face presentation",
+   "page": 549,
+   "q": "Positions in face presentation – m/c position and engaging diameter:",
+   "opts": [
+    "Left mento-anterior; submento-bregmatic 9.5 cm",
+    "Right mento-posterior; mento-vertical 14 cm",
+    "Mento-transverse; occipito-frontal 11.5 cm",
+    "Direct mento-posterior; biparietal"
+   ],
+   "ans": 0,
+   "exp": "LMA is m/c; engaging diameter submento-bregmatic 9.5 cm (positions: mento-posterior, mento-anterior, mento-transverse). (Book p549)"
+  },
+  {
+   "id": "OBG-C21-048",
+   "sec": "Face presentation",
+   "page": 549,
+   "q": "Management – mento-anterior : mento-posterior.",
+   "opts": [
+    "Vaginal delivery with head delivered by flexion : no mechanism of labour → only C-section (early labour: wait & watch for spontaneous rotation to MA)",
+    "C-section : vaginal",
+    "Forceps : vacuum",
+    "Both vaginal"
+   ],
+   "ans": 0,
+   "exp": "MA → vaginal (flexion); MP → C-section, though early labour may be watched for rotation to MA. (Book p549)"
+  },
+  {
+   "id": "OBG-C21-049",
+   "sec": "Face presentation",
+   "page": 549,
+   "q": "In which situations is the head delivered by FLEXION, and where is C-section mandatory?",
+   "opts": [
+    "Flexion in breech and face; C-section mandatory in transverse lie/hand prolapse/neglected shoulder, mento-posterior face and brow",
+    "Flexion in vertex; C-section in OP",
+    "Flexion in brow; C-section in LMA",
+    "Flexion in all; C-section in none"
+   ],
+   "ans": 0,
+   "exp": "Head delivered by flexion in breech and face; C-section mandatory for transverse lie/neglected shoulder, MP face, brow. (Book p549)"
+  },
+  {
+   "id": "OBG-C21-050",
+   "sec": "Brow presentation",
+   "page": 549,
+   "q": "Brow presentation occurs in ______ and the bony landmarks felt on P/V are ______.",
+   "opts": [
+    "Partial extension of head; anterior fontanelle (diamond) and supraorbital ridges",
+    "Complete extension; mentum and nose",
+    "Complete flexion; posterior fontanelle",
+    "Deflexion; both fontanelles"
+   ],
+   "ans": 0,
+   "exp": "Brow = partial extension; P/V feels anterior fontanelle and supraorbital ridges. (Book p549)"
+  },
+  {
+   "id": "OBG-C21-051",
+   "sec": "Brow presentation",
+   "page": 549,
+   "q": "Engaging diameter and denominator in brow presentation:",
+   "opts": [
+    "Mento-vertical 14 cm; frontal bone",
+    "Submento-bregmatic 9.5 cm; mentum",
+    "Occipito-frontal 11.5 cm; occiput",
+    "Suboccipito-bregmatic 9.5 cm; sinciput"
+   ],
+   "ans": 0,
+   "exp": "Mento-vertical 14 cm; denominator frontal bone. (Book p549)"
+  },
+  {
+   "id": "OBG-C21-052",
+   "sec": "Brow presentation",
+   "page": 549,
+   "q": "Management of brow presentation:",
+   "opts": [
+    "No mechanism of labour → only C-section; in early labour wait & watch since complete extension (face) or flexion (vertex) may occur",
+    "Forceps delivery",
+    "Vacuum extraction",
+    "Manual conversion to face then vaginal delivery always"
+   ],
+   "ans": 0,
+   "exp": "Brow → C-section; early labour may convert to face or vertex. (Book p549)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OBG-U21-1",
+   "ch": 21,
+   "n": 1,
+   "title": "Vulval hematoma & broad ligament hematoma",
+   "sec": "Vulval hematoma · p540",
+   "guide": "Identify the artery, cause and presentation of vulval hematoma, decide between conservative and surgical care, and recognise the hidden broad-ligament bleed. Focus for this checkpoint: Vulval hematoma & broad ligament hematoma.",
+   "qs": [
+    "OBG-C21-001",
+    "OBG-C21-002",
+    "OBG-C21-003",
+    "OBG-C21-004",
+    "OBG-C21-005"
+   ]
+  },
+  {
+   "id": "OBG-U21-2",
+   "ch": 21,
+   "n": 2,
+   "title": "Perineal tear: classification & repair",
+   "sec": "Perineal tear · p541",
+   "guide": "Grade perineal tears including the 3A/3B/3C subdivisions, and sequence the repair by degree, setting, suture and timing. Focus for this checkpoint: Perineal tear: classification & repair.",
+   "qs": [
+    "OBG-C21-006",
+    "OBG-C21-007",
+    "OBG-C21-008",
+    "OBG-C21-009",
+    "OBG-C21-010",
+    "OBG-C21-011",
+    "OBG-C21-012"
+   ]
+  },
+  {
+   "id": "OBG-U21-3",
+   "ch": 21,
+   "n": 3,
+   "title": "Episiotomy: indications, types, timing & anatomy",
+   "sec": "Episiotomy · p541-542",
+   "guide": "List the indications, compare median with mediolateral episiotomy feature by feature, know the correct moment to cut and which muscles are divided. Focus for this checkpoint: Episiotomy: indications, types, timing & anatomy.",
+   "qs": [
+    "OBG-C21-013",
+    "OBG-C21-014",
+    "OBG-C21-015",
+    "OBG-C21-016",
+    "OBG-C21-017",
+    "OBG-C21-018",
+    "OBG-C21-019",
+    "OBG-C21-020"
+   ]
+  },
+  {
+   "id": "OBG-U21-4",
+   "ch": 21,
+   "n": 4,
+   "title": "Occipito-posterior malposition: features, causes & findings",
+   "sec": "OP position · p543-544",
+   "guide": "Define malposition, rank the OP positions and causes, and contrast OP with OA on abdominal findings and engaging diameters. Focus for this checkpoint: Occipito-posterior malposition: features, causes & findings.",
+   "qs": [
+    "OBG-C21-021",
+    "OBG-C21-022",
+    "OBG-C21-023",
+    "OBG-C21-024",
+    "OBG-C21-025"
+   ]
+  },
+  {
+   "id": "OBG-U21-5",
+   "ch": 21,
+   "n": 5,
+   "title": "Outcomes of OP position & deep transverse arrest",
+   "sec": "OP outcomes · p544-546",
+   "guide": "Work through complete forward rotation, incomplete rotation with deep transverse arrest, and posterior rotation with face-to-pubes delivery. Focus for this checkpoint: Outcomes of OP position & deep transverse arrest.",
+   "qs": [
+    "OBG-C21-026",
+    "OBG-C21-027",
+    "OBG-C21-028",
+    "OBG-C21-029",
+    "OBG-C21-030",
+    "OBG-C21-031",
+    "OBG-C21-032"
+   ]
+  },
+  {
+   "id": "OBG-U21-6",
+   "ch": 21,
+   "n": 6,
+   "title": "Transverse lie & shoulder presentation",
+   "sec": "Transverse lie · p546, 548",
+   "guide": "Characterise transverse lie by denominator, position, causes and examination, know its cord-prolapse risk and the C-section-only rules including neglected shoulder. Focus for this checkpoint: Transverse lie & shoulder presentation.",
+   "qs": [
+    "OBG-C21-033",
+    "OBG-C21-034",
+    "OBG-C21-035",
+    "OBG-C21-036",
+    "OBG-C21-037"
+   ]
+  },
+  {
+   "id": "OBG-U21-7",
+   "ch": 21,
+   "n": 7,
+   "title": "External cephalic version (ECV)",
+   "sec": "ECV · p546-547",
+   "guide": "Prepare for ECV with the right prerequisites and USG checks, know its procedure, contraindications and what to do after success or failure. Focus for this checkpoint: External cephalic version (ECV).",
+   "qs": [
+    "OBG-C21-038",
+    "OBG-C21-039",
+    "OBG-C21-040",
+    "OBG-C21-041",
+    "OBG-C21-042",
+    "OBG-C21-043",
+    "OBG-C21-044"
+   ]
+  },
+  {
+   "id": "OBG-U21-8",
+   "ch": 21,
+   "n": 8,
+   "title": "Face presentation",
+   "sec": "Face presentation · p548-549",
+   "guide": "Describe face presentation's attitude and denominator, its risk factors, positions with the m/c one, and management by mento-anterior vs mento-posterior. Focus for this checkpoint: Face presentation.",
+   "qs": [
+    "OBG-C21-045",
+    "OBG-C21-046",
+    "OBG-C21-047",
+    "OBG-C21-048",
+    "OBG-C21-049"
+   ]
+  },
+  {
+   "id": "OBG-U21-9",
+   "ch": 21,
+   "n": 9,
+   "title": "Brow presentation",
+   "sec": "Brow presentation · p549",
+   "guide": "Recognise brow presentation by its landmarks and 14 cm diameter, and know why it can only deliver by C-section unless it converts. Focus for this checkpoint: Brow presentation.",
+   "qs": [
+    "OBG-C21-050",
+    "OBG-C21-051",
+    "OBG-C21-052"
+   ]
+  }
+ ]
+}

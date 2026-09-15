@@ -93,9 +93,9 @@ function assert(condition, message) {
   if (!condition) throw new Error(message);
 }
 
-assert(pulse.QUESTIONS.length === 1869, `Expected 1,869 questions, found ${pulse.QUESTIONS.length}.`);
-assert(pulse.UNITS.length === 256, `Expected 256 units, found ${pulse.UNITS.length}.`);
-assert(pulse.CHAPTERS.filter((chapter) => chapter.live).length === 15, 'Expected 15 live chapters.');
+assert(pulse.QUESTIONS.length === 2368, `Expected 2,368 questions, found ${pulse.QUESTIONS.length}.`);
+assert(pulse.UNITS.length === 342, `Expected 342 units, found ${pulse.UNITS.length}.`);
+assert(pulse.CHAPTERS.filter((chapter) => chapter.live).length === 24, 'Expected 24 live chapters.');
 
 pulse.chapters();
 assert(elements.get('chList').children.length === 24, 'Roadmap did not render 24 chapter rows.');
@@ -115,9 +115,14 @@ assert(pulse.QBYID['OBG-C10-228'].page === 441, 'Final Chapter 10 question is un
 pulse.path(15);
 assert(pulse.unitsOf(15).length === 6, 'Chapter 15 unit lookup did not return 6 units.');
 assert(elements.get('pathTitle').textContent === pulse.CHAPTERS[14].t, 'Chapter 15 path title did not render.');
-const lastUnit = pulse.start(15);
-assert(lastUnit.id === 'OBG-U15-1', 'Chapter 15 first unit did not start.');
-assert(elements.get('opts').children.length === 4, 'Chapter 15 quiz did not render four options.');
 assert(pulse.QBYID['OBG-C15-050'].page === 489, 'Final Chapter 15 question is unavailable.');
+pulse.path(24);
+assert(pulse.unitsOf(24).length === 7, 'Chapter 24 unit lookup did not return 7 units.');
+assert(elements.get('pathTitle').textContent === pulse.CHAPTERS[23].t, 'Chapter 24 path title did not render.');
+const lastUnit = pulse.start(24);
+assert(lastUnit.id === 'OBG-U24-1', 'Chapter 24 first unit did not start.');
+assert(elements.get('opts').children.length === 4, 'Chapter 24 quiz did not render four options.');
+assert(pulse.QBYID['OBG-C24-036'].page === 572, 'Final Chapter 24 question is unavailable.');
+assert(pulse.QBYID['OBG-C19-111'].page === 527, 'Final Chapter 19 question is unavailable.');
 
-console.log('PASS: roadmap, Chapter 6/10/15 path data, Chapter 10/15 quiz starts, and final Chapter 10/15 questions render at runtime.');
+console.log('PASS: roadmap, Chapter 6/10/15/24 path data, Chapter 10/24 quiz starts, and final Chapter 10/15/19/24 questions render at runtime.');
