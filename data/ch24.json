@@ -1,0 +1,619 @@
+{
+ "chapter": 24,
+ "title": "Puerperium",
+ "pageRange": "567-572",
+ "questions": [
+  {
+   "id": "OBG-C24-001",
+   "sec": "Definitions, postnatal visits & uterine involution",
+   "page": 567,
+   "q": "Puerperium : fourth trimester – period after childbirth till ______ : ______.",
+   "opts": [
+    "6 weeks : 12 weeks",
+    "12 weeks : 6 weeks",
+    "4 weeks : 8 weeks",
+    "8 weeks : 12 weeks"
+   ],
+   "ans": 0,
+   "exp": "Puerperium = up to 6 weeks; fourth trimester = up to 12 weeks. (Book p567)"
+  },
+  {
+   "id": "OBG-C24-002",
+   "sec": "Definitions, postnatal visits & uterine involution",
+   "page": 567,
+   "q": "Postnatal visits – ACOG : GOI recommendation.",
+   "opts": [
+    "Initial 3 weeks, final 12 weeks, in-between as needed : 1st day, 3rd day, 7th day, 6 weeks after delivery",
+    "Day 1 and 6 weeks : 3 and 12 weeks",
+    "2, 4, 6 weeks : day 1, 7, 42",
+    "Day 7 only : 6 weeks only"
+   ],
+   "ans": 0,
+   "exp": "ACOG: 3 wks initial, 12 wks final; GOI: days 1, 3, 7 and 6 weeks. (Book p567)"
+  },
+  {
+   "id": "OBG-C24-003",
+   "sec": "Definitions, postnatal visits & uterine involution",
+   "page": 567,
+   "q": "Immediately after delivery the uterus lies ______, corresponds to ______ POG, feels like a ______ and weighs ______.",
+   "opts": [
+    "Just below the umbilicus; 20 weeks; cricket ball; 1000 g",
+    "At the xiphisternum; 36 weeks; football; 2000 g",
+    "At the symphysis; 12 weeks; tennis ball; 500 g",
+    "Midway to symphysis; 16 weeks; orange; 300 g"
+   ],
+   "ans": 0,
+   "exp": "Just below umbilicus (≈20 wks), cricket-ball consistency, 1000 g; after 24 h fundal height falls 1.25 cm/day. (Book p567)"
+  },
+  {
+   "id": "OBG-C24-004",
+   "sec": "Definitions, postnatal visits & uterine involution",
+   "page": 567,
+   "q": "Uterine weight – after 1 week : 2 weeks : 4 weeks; and position at 1 and 2 weeks.",
+   "opts": [
+    "500 g (midway umbilicus–symphysis) : 300 g (not palpable) : 100 g (involution complete)",
+    "300 g : 100 g : 50 g",
+    "750 g : 500 g : 300 g",
+    "1000 g : 500 g : 100 g"
+   ],
+   "ans": 0,
+   "exp": "1 wk 500 g midway; 2 wks 300 g not palpable; 4 wks 100 g – involution complete. (Book p567)"
+  },
+  {
+   "id": "OBG-C24-005",
+   "sec": "Definitions, postnatal visits & uterine involution",
+   "page": 567,
+   "q": "Involution is due to ______; it is faster in ______; sonographically uterus and endometrium return to pre-pregnant state by ______.",
+   "opts": [
+    "↓ muscle cell size; nulliparous; 8 weeks",
+    "↓ muscle cell number; multiparous; 4 weeks",
+    "Apoptosis; breastfeeding; 2 weeks",
+    "Fibrosis; nulliparous; 12 weeks"
+   ],
+   "ans": 0,
+   "exp": "Involution = ↓ muscle size (not number), faster in nulliparous; USG normal by 8 weeks. (Book p567)"
+  },
+  {
+   "id": "OBG-C24-006",
+   "sec": "Cervix, lochia, placental site & ovarian function",
+   "page": 568,
+   "q": "After delivery the lower uterine segment becomes ______; the cervix goes from 10 cm at delivery to ______ for a few days then closes.",
+   "opts": [
+    "The isthmus; 2–3 cm",
+    "The fundus; 5 cm",
+    "The vagina; 1 cm",
+    "Obliterated; 4 cm"
+   ],
+   "ans": 0,
+   "exp": "LUS → isthmus; cervix 10 cm → 2–3 cm for few days → closes. (Book p568)"
+  },
+  {
+   "id": "OBG-C24-007",
+   "sec": "Cervix, lochia, placental site & ovarian function",
+   "page": 568,
+   "q": "External os appearance – nulliparous : multiparous.",
+   "opts": [
+    "Pin-point : transverse slit-like",
+    "Transverse slit : pin-point",
+    "Round : stellate",
+    "Slit : round"
+   ],
+   "ans": 0,
+   "exp": "Nulliparous pin-point; multiparous transverse slit. (Book p568)"
+  },
+  {
+   "id": "OBG-C24-008",
+   "sec": "Cervix, lochia, placental site & ovarian function",
+   "page": 568,
+   "q": "Uterine artery Doppler in the puerperium shows:",
+   "opts": [
+    "↑ vascular resistance throughout the first 7 weeks post-partum",
+    "↓ resistance for 6 months",
+    "Absent diastolic flow for 24 h",
+    "No change"
+   ],
+   "ans": 0,
+   "exp": "↑ vascular resistance for first 7 weeks. (Book p568)"
+  },
+  {
+   "id": "OBG-C24-009",
+   "sec": "Cervix, lochia, placental site & ovarian function",
+   "page": 568,
+   "q": "Lochia (superficial decidual sloughing) components and sequence:",
+   "opts": [
+    "Decidua, blood, leucocytes, exudate; rubra 4–5 days → serosa 5–10 days → alba ≥10 days; average duration 24–36 days",
+    "Blood only; rubra 10 days → alba 20 days",
+    "Mucus and pus; alba → serosa → rubra",
+    "Amniotic fluid; 7 days total"
+   ],
+   "ans": 0,
+   "exp": "Lochia rubra 4–5 d, serosa 5–10 d, alba ≥10 d; total 24–36 days. (Book p568)"
+  },
+  {
+   "id": "OBG-C24-010",
+   "sec": "Cervix, lochia, placental site & ovarian function",
+   "page": 568,
+   "q": "Placental site involution takes ______ and is the m/c site for ______; placental size shrinks from ______ to ______.",
+   "opts": [
+    "6 weeks; endometriosis; palm-size to 3–4 cm after 2 weeks",
+    "2 weeks; infection; 10 cm to 1 cm",
+    "12 weeks; polyp; fist to 5 cm",
+    "1 week; fibroid; palm to 8 cm"
+   ],
+   "ans": 0,
+   "exp": "Placental site: 6 weeks; m/c site for endometriosis; palm-size → 3–4 cm by 2 weeks. (Book p568)"
+  },
+  {
+   "id": "OBG-C24-011",
+   "sec": "Cervix, lochia, placental site & ovarian function",
+   "page": 568,
+   "q": "In partially/non-breastfeeding women – menstruation returns by ______; ovulation by ______ (earliest ______).",
+   "opts": [
+    "6–8 weeks; 7 weeks (5–11 weeks); 28 days",
+    "12 weeks; 10 weeks; 6 weeks",
+    "4 weeks; 2 weeks; 14 days",
+    "6 months; 3 months; 8 weeks"
+   ],
+   "ans": 0,
+   "exp": "Menses 6–8 wks; ovulation ~7 wks (5–11), earliest 28 days. (Book p568)"
+  },
+  {
+   "id": "OBG-C24-012",
+   "sec": "Cervix, lochia, placental site & ovarian function",
+   "page": 569,
+   "q": "Contraception in the puerperium – non-breastfeeding : breastfeeding.",
+   "opts": [
+    "OCPs contraindicated as they ↓ breast milk (and absolutely C/I up to 21 days → venous thrombosis) : POP > IUCD",
+    "OCPs preferred : OCPs preferred",
+    "IUCD only : nothing needed",
+    "Injectables only : OCPs"
+   ],
+   "ans": 0,
+   "exp": "OCPs ↓ milk; absolutely C/I up to 21 days (VTE). Breastfeeding: POP > IUCD. (Book p569)"
+  },
+  {
+   "id": "OBG-C24-013",
+   "sec": "Cervix, lochia, placental site & ovarian function",
+   "page": 569,
+   "q": "Lactational amenorrhoea – mechanism and failure rate:",
+   "opts": [
+    "↑ prolactin inhibits GnRH → ↓ LH and FSH; pregnancy risk 4% per year",
+    "↑ oxytocin inhibits FSH; 10% per year",
+    "↓ estrogen; 1% per year",
+    "↑ progesterone; 0.5% per year"
+   ],
+   "ans": 0,
+   "exp": "Prolactin → GnRH inhibition → ↓ LH/FSH; 4% failure per year. (Book p569)"
+  },
+  {
+   "id": "OBG-C24-014",
+   "sec": "Haematological, renal & other puerperal changes; after-pains",
+   "page": 569,
+   "q": "Blood parameters after delivery include all EXCEPT:",
+   "opts": [
+    "Marked lymphocytosis",
+    "Marked leucocytosis (≤25,000/µL) with ↑ granulocytes, relative lymphopenia, absolute eosinopenia",
+    "Marked thrombocytosis and high fibrinogen in 1st week",
+    "↓ Hb and hematocrit"
+   ],
+   "ans": 0,
+   "exp": "Leucocytosis up to 25,000, granulocytosis, relative lymphopenia, eosinopenia, thrombocytosis, high fibrinogen, ↓ Hb/Hct. (Book p569)"
+  },
+  {
+   "id": "OBG-C24-015",
+   "sec": "Haematological, renal & other puerperal changes; after-pains",
+   "page": 569,
+   "q": "Other parameters after delivery:",
+   "opts": [
+    "Urinary retention; weight loss 5–6 kg immediately then 2–3 kg from postpartum diuresis; Na+/K+ retention → diuresis; CO very high in first 24–48 h (HF risk)",
+    "Polyuria; weight gain 2 kg; hypokalemia",
+    "Weight loss 10 kg immediately; low CO",
+    "Oliguria; hypernatremia; low fibrinogen"
+   ],
+   "ans": 0,
+   "exp": "Urinary retention; weight loss 5–6 kg + 2–3 kg diuresis; Na/K retention; CO peaks 24–48 h. (Book p569)"
+  },
+  {
+   "id": "OBG-C24-016",
+   "sec": "Haematological, renal & other puerperal changes; after-pains",
+   "page": 569,
+   "q": "Time for parameters to return to normal – blood volume : CO & HR : GFR : dilated ureter/renal pelvis.",
+   "opts": [
+    "1 week : 10 days : 2 weeks : 2–8 weeks",
+    "10 days : 1 week : 6 weeks : 2 weeks",
+    "2 weeks : 2 weeks : 1 week : 12 weeks",
+    "6 weeks : 6 weeks : 6 weeks : 6 weeks"
+   ],
+   "ans": 0,
+   "exp": "Blood volume 1 wk; CO/HR 10 d; GFR 2 wks; ureter/pelvis 2–8 wks. (Book p569)"
+  },
+  {
+   "id": "OBG-C24-017",
+   "sec": "Haematological, renal & other puerperal changes; after-pains",
+   "page": 569,
+   "q": "After-pains are:",
+   "opts": [
+    "Seen in multiparous women; oxytocin-driven intermittent contractions, ↑ with suckling, ↓ by day 3; persistent severe pain suggests postpartum infection",
+    "Seen in primiparous; due to prostaglandins; persist 2 weeks",
+    "Due to retained placenta; need curettage",
+    "Due to lochia; treated with antibiotics"
+   ],
+   "ans": 0,
+   "exp": "Multiparous, oxytocin, ↑ with breastfeeding, subside by day 3; persistent severe pain → infection. (Book p569)"
+  },
+  {
+   "id": "OBG-C24-018",
+   "sec": "Subinvolution of the uterus",
+   "page": 570,
+   "q": "Causes of subinvolution of uterus (m/c first):",
+   "opts": [
+    "Retained placental fragments (m/c), incompletely remodelled spiral artery, infection",
+    "Infection (m/c), fibroid",
+    "Anemia, breastfeeding",
+    "Multiparity, obesity"
+   ],
+   "ans": 0,
+   "exp": "Retained placental fragments m/c; also incompletely remodelled spiral arteries, infection. (Book p570)"
+  },
+  {
+   "id": "OBG-C24-019",
+   "sec": "Subinvolution of the uterus",
+   "page": 570,
+   "q": "Clinical features of subinvolution:",
+   "opts": [
+    "Excessive uterine bleeding, prolonged lochia, uterus bigger than expected on bimanual examination",
+    "Amenorrhoea, small uterus",
+    "Fever with closed os",
+    "Painless white discharge"
+   ],
+   "ans": 0,
+   "exp": "Excess bleeding, prolonged lochia, larger-than-expected uterus. (Book p570)"
+  },
+  {
+   "id": "OBG-C24-020",
+   "sec": "Subinvolution of the uterus",
+   "page": 570,
+   "q": "IOC is pelvic USG – findings for retained products : incompletely remodelled spiral artery.",
+   "opts": [
+    "Thick endometrium with vascularity : enlarged uterus with tubular hypoechoic areas in myometrium",
+    "Thin endometrium : small uterus",
+    "Free fluid : adnexal mass",
+    "Empty cavity : thick endometrium"
+   ],
+   "ans": 0,
+   "exp": "Retained products → thick vascular endometrium; spiral artery → enlarged uterus with tubular hypoechoic myometrial areas. (Book p570)"
+  },
+  {
+   "id": "OBG-C24-021",
+   "sec": "Subinvolution of the uterus",
+   "page": 570,
+   "q": "Management of subinvolution and the caution:",
+   "opts": [
+    "Uterotonic (DOC) followed by gentle curettage; excessive curettage → Asherman syndrome",
+    "Hysterectomy",
+    "Antibiotics only",
+    "Methotrexate"
+   ],
+   "ans": 0,
+   "exp": "Uterotonic first, then gentle curettage; avoid aggressive curettage (Asherman). (Book p570)"
+  },
+  {
+   "id": "OBG-C24-022",
+   "sec": "Breastfeeding: hormones, colostrum & contraindications",
+   "page": 570,
+   "q": "Prolactin peaks in the ______ and ______ after delivery; milk production is ______-dependent with the first stimulus being ______.",
+   "opts": [
+    "Third trimester; falls; prolactin; ↓ estrogen after placental delivery",
+    "First trimester; rises; oxytocin; suckling",
+    "Second trimester; falls; estrogen; ↑ progesterone",
+    "At delivery; rises; oxytocin; ↓ prolactin"
+   ],
+   "ans": 0,
+   "exp": "Prolactin highest in 3rd trimester, falls after delivery; production prolactin-dependent, triggered by ↓ estrogen; ejection is oxytocin-dependent. (Book p570)"
+  },
+  {
+   "id": "OBG-C24-023",
+   "sec": "Breastfeeding: hormones, colostrum & contraindications",
+   "page": 570,
+   "q": "Colostrum contains more of everything than mature milk EXCEPT (mnemonic KFC):",
+   "opts": [
+    "K+, fat, carbohydrates & Ca2+",
+    "Protein, IgA, vitamin A",
+    "Sodium, chloride, zinc",
+    "Lactoferrin, lysozyme"
+   ],
+   "ans": 0,
+   "exp": "Colostrum is poorer in K+, fat, carbohydrate and calcium. (Book p570)"
+  },
+  {
+   "id": "OBG-C24-024",
+   "sec": "Breastfeeding: hormones, colostrum & contraindications",
+   "page": 571,
+   "q": "Absolute contraindication to breastfeeding:",
+   "opts": [
+    "Galactosemia / lactose intolerance in baby",
+    "Maternal HIV in India",
+    "Mastitis",
+    "COVID-19 infection"
+   ],
+   "ans": 0,
+   "exp": "Absolute: galactosemia/lactose intolerance. (Book p571)"
+  },
+  {
+   "id": "OBG-C24-025",
+   "sec": "Breastfeeding: hormones, colostrum & contraindications",
+   "page": 571,
+   "q": "Relative contraindications to breastfeeding:",
+   "opts": [
+    "IV drug abuse, active herpes lesion on breast, untreated active pulmonary TB, ongoing breast cancer treatment",
+    "HIV, HBV, COVID-19",
+    "Mastitis, breast abscess",
+    "Anemia, diabetes"
+   ],
+   "ans": 0,
+   "exp": "Relative: IV drug abuse, breast herpes lesion, untreated active TB, breast cancer therapy. (Book p571)"
+  },
+  {
+   "id": "OBG-C24-026",
+   "sec": "Breastfeeding: hormones, colostrum & contraindications",
+   "page": 571,
+   "q": "Which are NOT contraindications to breastfeeding?",
+   "opts": [
+    "HIV (in India), COVID-19, mastitis/breast abscess, HBsAg-positive mother if baby immunised",
+    "Galactosemia",
+    "Untreated active pulmonary TB",
+    "Active herpes lesion on breast"
+   ],
+   "ans": 0,
+   "exp": "HIV (India), COVID-19, mastitis/abscess, HBV with infant prophylaxis are not contraindications. (Book p571)"
+  },
+  {
+   "id": "OBG-C24-027",
+   "sec": "Puerperal pathologies: endometritis & septic pelvic thrombophlebitis",
+   "page": 571,
+   "q": "Postpartum endometritis – m/c site and risk factors:",
+   "opts": [
+    "Placental site; C-section, h/o chorioamnionitis, prolonged rupture of membranes",
+    "Cervix; vaginal delivery",
+    "Fundus; short labour",
+    "Cornua; twins"
+   ],
+   "ans": 0,
+   "exp": "Placental site; risk: CS, chorioamnionitis, prolonged ROM. (Book p571)"
+  },
+  {
+   "id": "OBG-C24-028",
+   "sec": "Puerperal pathologies: endometritis & septic pelvic thrombophlebitis",
+   "page": 571,
+   "q": "Presentation and management of postpartum endometritis:",
+   "opts": [
+    "Fever (postpartum pyrexia), subinvolution, uterine tenderness, ± foul lochia; broad-spectrum antibiotics",
+    "Painless bleeding; curettage",
+    "Shock; hysterectomy",
+    "Amenorrhoea; hormones"
+   ],
+   "ans": 0,
+   "exp": "Fever, subinvolution, tenderness, foul lochia; broad-spectrum antibiotics. (Book p571)"
+  },
+  {
+   "id": "OBG-C24-029",
+   "sec": "Puerperal pathologies: endometritis & septic pelvic thrombophlebitis",
+   "page": 571,
+   "q": "Septic pelvic thrombophlebitis – vessel, P/V finding, blood culture, imaging:",
+   "opts": [
+    "Ovarian vein (right > left); cord-like structure; negative culture (localized); MRI/CT may show thrombosed vein",
+    "Uterine vein; fluctuant mass; positive culture; USG",
+    "Iliac artery; pulsatile mass; positive; Doppler",
+    "Renal vein; nothing; negative; X-ray"
+   ],
+   "ans": 0,
+   "exp": "Ovarian vein R > L; cord-like P/V; culture negative; MRI/CT thrombosed vein. (Book p571)"
+  },
+  {
+   "id": "OBG-C24-030",
+   "sec": "Puerperal pathologies: endometritis & septic pelvic thrombophlebitis",
+   "page": 571,
+   "q": "Key clinical features of septic pelvic thrombophlebitis:",
+   "opts": [
+    "Broad-spectrum antibiotics have no effect; clinical diagnosis",
+    "Responds promptly to antibiotics",
+    "Diagnosed by blood culture",
+    "Presents with PPH"
+   ],
+   "ans": 0,
+   "exp": "Persistent fever despite BSA; clinical diagnosis. (Book p571)"
+  },
+  {
+   "id": "OBG-C24-031",
+   "sec": "Puerperal pathologies: endometritis & septic pelvic thrombophlebitis",
+   "page": 572,
+   "q": "Management of septic pelvic thrombophlebitis – no thrombophlebitis evidence : evidence of thrombophlebitis.",
+   "opts": [
+    "Continue BSA + LMWH; heparin till 48 h after afebrile : heparin for 6 weeks",
+    "Stop antibiotics : warfarin 3 months",
+    "Heparin 6 weeks : heparin 48 h",
+    "Surgery : antibiotics only"
+   ],
+   "ans": 0,
+   "exp": "BSA + heparin: 48 h post-afebrile if no evidence; 6 weeks if thrombophlebitis confirmed. (Book p572)"
+  },
+  {
+   "id": "OBG-C24-032",
+   "sec": "Puerperal pathologies: endometritis & septic pelvic thrombophlebitis",
+   "page": 572,
+   "q": "Fever in a breastfeeding woman due to breast engorgement is characterised by:",
+   "opts": [
+    "Rarely ≥39 °C and lasts <24 hours",
+    "Always >40 °C for a week",
+    "Associated with rigors and pus",
+    "Persists until weaning"
+   ],
+   "ans": 0,
+   "exp": "Engorgement fever rarely ≥39 °C, lasts <24 h. (Book p572)"
+  },
+  {
+   "id": "OBG-C24-033",
+   "sec": "Obstetric neuropathy",
+   "page": 572,
+   "q": "Burning, numbness and tingling over the upper outer thigh/lateral hip after vaginal delivery indicates injury to:",
+   "opts": [
+    "Lateral cutaneous nerve of thigh (m/c nerve injured)",
+    "Femoral nerve",
+    "Peroneal nerve",
+    "Obturator nerve"
+   ],
+   "ans": 0,
+   "exp": "Lateral cutaneous nerve of thigh – m/c obstetric nerve injury. (Book p572)"
+  },
+  {
+   "id": "OBG-C24-034",
+   "sec": "Obstetric neuropathy",
+   "page": 572,
+   "q": "Quadriceps weakness sparing adductors with sensory loss over anterior and medial thigh indicates:",
+   "opts": [
+    "Femoral nerve injury (2nd m/c)",
+    "Obturator nerve injury",
+    "Sciatic nerve injury",
+    "Pudendal nerve injury"
+   ],
+   "ans": 0,
+   "exp": "Femoral nerve – 2nd m/c; adductors spared. (Book p572)"
+  },
+  {
+   "id": "OBG-C24-035",
+   "sec": "Obstetric neuropathy",
+   "page": 572,
+   "q": "Foot drop after delivery is due to ______ injury from ______.",
+   "opts": [
+    "Peroneal nerve; prolonged squatting or palmar pressure during fundal pressure",
+    "Tibial nerve; lithotomy",
+    "Sciatic nerve; epidural",
+    "Femoral nerve; forceps"
+   ],
+   "ans": 0,
+   "exp": "Common peroneal nerve; prolonged squatting/fundal pressure. (Book p572)"
+  },
+  {
+   "id": "OBG-C24-036",
+   "sec": "Obstetric neuropathy",
+   "page": 572,
+   "q": "M/c nerves injured after caesarean section:",
+   "opts": [
+    "Ilioinguinal and iliohypogastric nerves",
+    "Femoral and obturator",
+    "Pudendal and sciatic",
+    "Genitofemoral and lateral cutaneous"
+   ],
+   "ans": 0,
+   "exp": "Post-CS: ilioinguinal and iliohypogastric nerves. (Book p572)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OBG-U24-1",
+   "ch": 24,
+   "n": 1,
+   "title": "Definitions, postnatal visits & uterine involution",
+   "sec": "Puerperium & involution · p567",
+   "guide": "Separate puerperium from the fourth trimester, schedule ACOG and GOI postnatal visits, and chart the uterus shrinking week by week. Focus for this checkpoint: Definitions, postnatal visits & uterine involution.",
+   "qs": [
+    "OBG-C24-001",
+    "OBG-C24-002",
+    "OBG-C24-003",
+    "OBG-C24-004",
+    "OBG-C24-005"
+   ]
+  },
+  {
+   "id": "OBG-U24-2",
+   "ch": 24,
+   "n": 2,
+   "title": "Cervix, lochia, placental site & ovarian function",
+   "sec": "Genital tract changes · p568-569",
+   "guide": "Track the lower segment, cervix and os, sequence the lochia, time placental-site healing and return of ovulation in breast- and non-breastfeeding women. Focus for this checkpoint: Cervix, lochia, placental site & ovarian function.",
+   "qs": [
+    "OBG-C24-006",
+    "OBG-C24-007",
+    "OBG-C24-008",
+    "OBG-C24-009",
+    "OBG-C24-010",
+    "OBG-C24-011",
+    "OBG-C24-012",
+    "OBG-C24-013"
+   ]
+  },
+  {
+   "id": "OBG-U24-3",
+   "ch": 24,
+   "n": 3,
+   "title": "Haematological, renal & other puerperal changes; after-pains",
+   "sec": "Systemic changes · p569",
+   "guide": "Recall the blood-count and fluid shifts after delivery, when each parameter normalises, and the nature of after-pains. Focus for this checkpoint: Haematological, renal & other puerperal changes; after-pains.",
+   "qs": [
+    "OBG-C24-014",
+    "OBG-C24-015",
+    "OBG-C24-016",
+    "OBG-C24-017"
+   ]
+  },
+  {
+   "id": "OBG-U24-4",
+   "ch": 24,
+   "n": 4,
+   "title": "Subinvolution of the uterus",
+   "sec": "Subinvolution · p570",
+   "guide": "Identify the m/c cause of subinvolution, its clinical features, USG findings and the uterotonic-then-curettage management. Focus for this checkpoint: Subinvolution of the uterus.",
+   "qs": [
+    "OBG-C24-018",
+    "OBG-C24-019",
+    "OBG-C24-020",
+    "OBG-C24-021"
+   ]
+  },
+  {
+   "id": "OBG-U24-5",
+   "ch": 24,
+   "n": 5,
+   "title": "Breastfeeding: hormones, colostrum & contraindications",
+   "sec": "Breastfeeding · p570-571",
+   "guide": "Distinguish prolactin from oxytocin roles, what colostrum lacks, and which maternal conditions truly contraindicate breastfeeding. Focus for this checkpoint: Breastfeeding: hormones, colostrum & contraindications.",
+   "qs": [
+    "OBG-C24-022",
+    "OBG-C24-023",
+    "OBG-C24-024",
+    "OBG-C24-025",
+    "OBG-C24-026"
+   ]
+  },
+  {
+   "id": "OBG-U24-6",
+   "ch": 24,
+   "n": 6,
+   "title": "Puerperal pathologies: endometritis & septic pelvic thrombophlebitis",
+   "sec": "Puerperal infections · p571-572",
+   "guide": "Diagnose postpartum endometritis by site and risk factors, recognise septic pelvic thrombophlebitis clinically and manage with heparin for the correct duration. Focus for this checkpoint: Puerperal pathologies: endometritis & septic pelvic thrombophlebitis.",
+   "qs": [
+    "OBG-C24-027",
+    "OBG-C24-028",
+    "OBG-C24-029",
+    "OBG-C24-030",
+    "OBG-C24-031",
+    "OBG-C24-032"
+   ]
+  },
+  {
+   "id": "OBG-U24-7",
+   "ch": 24,
+   "n": 7,
+   "title": "Obstetric neuropathy",
+   "sec": "Obstetric neuropathy · p572",
+   "guide": "Match burning thigh, quadriceps weakness and foot drop to the injured nerve and its mechanism, and know the nerves most often injured after caesarean. Focus for this checkpoint: Obstetric neuropathy.",
+   "qs": [
+    "OBG-C24-033",
+    "OBG-C24-034",
+    "OBG-C24-035",
+    "OBG-C24-036"
+   ]
+  }
+ ]
+}

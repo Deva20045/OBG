@@ -31,6 +31,15 @@ LIVE_CHAPTERS = {
     13: "Multifetal Gestation: Chorionicity, Complications & Delivery",
     14: "Preterm Labour, PROM & Post-term Pregnancy",
     15: "Maternal Pelvis, Contracted Pelvis & CPD",
+    16: "Fetal Skull & Terminologies of Labour",
+    17: "Stages of Labour: Normal & Abnormal",
+    18: "Partogram & WHO Labour Care Guide",
+    19: "Normal Labour & Induction of Labour",
+    20: "Postpartum Hemorrhage & Third Stage Complications",
+    21: "Perineal Trauma, Episiotomy & Malpresentations",
+    22: "Breech & Instrumental Delivery",
+    23: "Caesarean Section & VBAC",
+    24: "Puerperium",
 }
 
 
@@ -47,7 +56,7 @@ def between(text: str, start: str, end: str) -> tuple[int, int]:
 
 def main() -> None:
     chapters = []
-    for number in range(1, 16):
+    for number in range(1, 25):
         path = DATA_PATH / f"ch{number:02d}.json"
         chapter = json.loads(path.read_text(encoding="utf-8"))
         if chapter["chapter"] != number:
@@ -67,7 +76,7 @@ def main() -> None:
     _, c_start = between(html, "const UNITS = ", "\nconst CHAPTERS = ")
     _, after_chapters = between(html, "const CHAPTERS = ", "\nconst QBYID = ")
 
-    # Existing chapter metadata is valid JSON; retain locked future chapters.
+    # Existing chapter metadata is valid JSON; every chapter is now live.
     existing_chapters = json.loads(html[c_start + len("\nconst CHAPTERS = "):after_chapters].rstrip(";"))
     by_number = {entry["n"]: entry for entry in existing_chapters}
     for chapter in chapters:
@@ -91,7 +100,7 @@ def main() -> None:
     APP_PATH.write_text(html, encoding="utf-8")
     print(
         f"Embedded {len(questions)} questions and {len(units)} units across "
-        f"chapters 1–15 in {APP_PATH.name}."
+        f"chapters 1–24 in {APP_PATH.name}."
     )
 
 

@@ -1,0 +1,1074 @@
+{
+ "chapter": 16,
+ "title": "Fetal Skull & Terminologies of Labour",
+ "pageRange": "490-498",
+ "questions": [
+  {
+   "id": "OBG-C16-001",
+   "sec": "Presenting parts of the fetal skull & head attitude",
+   "page": 490,
+   "q": "Which statement about fetal skull diameters is stated as ALWAYS true?",
+   "opts": [
+    "AP diameter > transverse diameter",
+    "Transverse diameter > AP diameter",
+    "AP and transverse diameters are equal",
+    "Transverse diameter exceeds AP only in brow presentation"
+   ],
+   "ans": 0,
+   "exp": "The notes open with the rule: AP diameter is always greater than transverse diameter. (Book p490)"
+  },
+  {
+   "id": "OBG-C16-002",
+   "sec": "Presenting parts of the fetal skull & head attitude",
+   "page": 490,
+   "q": "Match the part of skull with its boundaries – Vertex : Brow : Face.",
+   "opts": [
+    "Anterior to posterior fontanelle : anterior fontanelle to root of nose : root of nose to chin",
+    "Root of nose to chin : anterior to posterior fontanelle : anterior fontanelle to root of nose",
+    "Anterior fontanelle to root of nose : anterior to posterior fontanelle : root of nose to chin",
+    "Occiput to root of nose : anterior fontanelle to chin : root of nose to mentum"
+   ],
+   "ans": 0,
+   "exp": "Vertex lies between anterior (diamond) and posterior (triangular) fontanelle; brow between anterior fontanelle and root of nose; face from root of nose to chin (mentum). (Book p490)"
+  },
+  {
+   "id": "OBG-C16-003",
+   "sec": "Presenting parts of the fetal skull & head attitude",
+   "page": 490,
+   "q": "Fill in the shapes: the anterior fontanelle is ______ and the posterior fontanelle is ______, lying above the ______ lobe.",
+   "opts": [
+    "Diamond-shaped; triangular; occipital",
+    "Triangular; diamond-shaped; parietal",
+    "Diamond-shaped; triangular; frontal",
+    "Round; triangular; temporal"
+   ],
+   "ans": 0,
+   "exp": "Anterior fontanelle is diamond-shaped; posterior fontanelle is triangular and lies above the occipital lobe. (Book p490)"
+  },
+  {
+   "id": "OBG-C16-004",
+   "sec": "Presenting parts of the fetal skull & head attitude",
+   "page": 490,
+   "q": "In anencephaly the most common presenting part is ______, and face presentation is most commonly seen in ______.",
+   "opts": [
+    "Face; anencephaly",
+    "Brow; hydrocephalus",
+    "Vertex; anencephaly",
+    "Face; hydrocephalus"
+   ],
+   "ans": 0,
+   "exp": "Face is the m/c presenting part in anencephaly, and anencephaly is the m/c association of face presentation. (Book p490)"
+  },
+  {
+   "id": "OBG-C16-005",
+   "sec": "Presenting parts of the fetal skull & head attitude",
+   "page": 490,
+   "q": "Normally the fetus in utero keeps all body parts in which attitude?",
+   "opts": [
+    "Flexed",
+    "Extended",
+    "Deflexed (neutral)",
+    "Partially extended"
+   ],
+   "ans": 0,
+   "exp": "Normally the fetus in utero has all body parts flexed. (Book p490)"
+  },
+  {
+   "id": "OBG-C16-006",
+   "sec": "Presenting parts of the fetal skull & head attitude",
+   "page": 490,
+   "q": "Match the position of fetal head to the presenting part – Flexed : Deflexed (neutral) : Partial extension : Full extension.",
+   "opts": [
+    "Vertex : Vertex : Brow : Face",
+    "Vertex : Brow : Brow : Face",
+    "Vertex : Vertex : Face : Brow",
+    "Brow : Vertex : Face : Vertex"
+   ],
+   "ans": 0,
+   "exp": "Flexed = vertex (m/c); deflexed/neutral = vertex; partial extension = brow; full extension = face. (Book p490)"
+  },
+  {
+   "id": "OBG-C16-007",
+   "sec": "Sutures, fontanelles & skull terminology",
+   "page": 490,
+   "q": "Identify the suture: the one running between the two frontal bones in the fetal skull is the ______.",
+   "opts": [
+    "Frontal / metopic suture",
+    "Sagittal suture",
+    "Coronal suture",
+    "Lambdoid suture"
+   ],
+   "ans": 0,
+   "exp": "The frontal (metopic) suture lies between the two frontal bones. (Book p490)"
+  },
+  {
+   "id": "OBG-C16-008",
+   "sec": "Sutures, fontanelles & skull terminology",
+   "page": 490,
+   "q": "Match the suture with its location – Sagittal : Coronal : Lambdoid.",
+   "opts": [
+    "Between the two parietal bones : between frontal and parietal bones : between parietal and occipital bone",
+    "Between frontal and parietal : between two parietals : between two frontals",
+    "Between parietal and occipital : between two parietals : between frontal and parietal",
+    "Between two frontals : between parietal and occipital : between frontal and parietal"
+   ],
+   "ans": 0,
+   "exp": "Sagittal suture separates the parietal bones, coronal separates frontal from parietal, lambdoid separates parietal from occipital. (Book p490)"
+  },
+  {
+   "id": "OBG-C16-009",
+   "sec": "Sutures, fontanelles & skull terminology",
+   "page": 490,
+   "q": "The anterior fontanelle is also known as ______ and the posterior fontanelle as ______.",
+   "opts": [
+    "Bregma; lambda",
+    "Lambda; bregma",
+    "Vertex; occiput",
+    "Sinciput; lambda"
+   ],
+   "ans": 0,
+   "exp": "Anterior fontanelle = bregma; posterior fontanelle = lambda. (Book p490)"
+  },
+  {
+   "id": "OBG-C16-010",
+   "sec": "Sutures, fontanelles & skull terminology",
+   "page": 490,
+   "q": "Fontanelles are defined as ______ and at birth ______ fontanelles are present.",
+   "opts": [
+    "Gaps between suture lines; 6",
+    "Ossified suture ends; 2",
+    "Gaps between suture lines; 2",
+    "Cartilaginous joints; 4"
+   ],
+   "ans": 0,
+   "exp": "Fontanelles are gaps between suture lines; 6 are present at birth. (Book p490)"
+  },
+  {
+   "id": "OBG-C16-011",
+   "sec": "Sutures, fontanelles & skull terminology",
+   "page": 491,
+   "q": "Match the terminology – Occiput : Sub-occiput : Mentum : Submentum.",
+   "opts": [
+    "Occipital bone : below occiput : chin : below chin where face and neck meet",
+    "Below occiput : occipital bone : below chin : chin",
+    "Occipital bone : below chin : chin : neck",
+    "Highest point on sagittal suture : below occiput : chin : nose"
+   ],
+   "ans": 0,
+   "exp": "Occiput = occipital bone; sub-occiput = below occiput; mentum = chin; submentum = below chin where face and neck meet. (Book p491)"
+  },
+  {
+   "id": "OBG-C16-012",
+   "sec": "Sutures, fontanelles & skull terminology",
+   "page": 491,
+   "q": "Complete the terminology: Vertex is the ______; Frontal is any point on the ______; Bregma is any point on the ______.",
+   "opts": [
+    "Highest point on sagittal suture; frontal suture; anterior fontanelle",
+    "Highest point on coronal suture; sagittal suture; posterior fontanelle",
+    "Lowest point on sagittal suture; frontal bone; anterior fontanelle",
+    "Highest point on lambdoid suture; frontal suture; posterior fontanelle"
+   ],
+   "ans": 0,
+   "exp": "Vertex = highest point on sagittal suture; frontal = any point on frontal suture; bregma = any point on anterior fontanelle. (Book p491)"
+  },
+  {
+   "id": "OBG-C16-013",
+   "sec": "Diameters of the fetal skull & engaging diameters",
+   "page": 491,
+   "q": "The six AP diameters of the fetal skull listed in the notes are: sub-occipito-bregmatic, sub-occipito-frontal, occipito-frontal, mento-vertical and which two others?",
+   "opts": [
+    "Sub-mento-bregmatic and sub-mento-vertical",
+    "Bimastoid and bitemporal",
+    "Biparietal and super sub-parietal",
+    "Occipito-mental and fronto-mental"
+   ],
+   "ans": 0,
+   "exp": "The listed AP diameters: sub-occipito-bregmatic, sub-occipito-frontal, occipito-frontal, mento-vertical, sub-mento-bregmatic and sub-mento-vertical. (Book p491)"
+  },
+  {
+   "id": "OBG-C16-014",
+   "sec": "Diameters of the fetal skull & engaging diameters",
+   "page": 491,
+   "q": "The longest AP diameter of the fetal skull is the ______, measuring ______, seen in ______ presentation.",
+   "opts": [
+    "Mento-vertical; 14 cm; brow",
+    "Occipito-frontal; 11.5 cm; deflexed vertex",
+    "Sub-mento-vertical; 11.5 cm; face",
+    "Mento-vertical; 11.5 cm; face"
+   ],
+   "ans": 0,
+   "exp": "Mento-vertical (14 cm) is the longest AP diameter, seen in brow presentation. (Book p491)"
+  },
+  {
+   "id": "OBG-C16-015",
+   "sec": "Diameters of the fetal skull & engaging diameters",
+   "page": 491,
+   "q": "Because the mento-vertical diameter cannot pass the maternal pelvis, brow presentation requires:",
+   "opts": [
+    "Caesarean section",
+    "Forceps delivery",
+    "Vacuum extraction",
+    "Manual rotation and vaginal delivery"
+   ],
+   "ans": 0,
+   "exp": "The 14 cm mento-vertical diameter cannot pass the maternal pelvis, so C-section is required. (Book p491)"
+  },
+  {
+   "id": "OBG-C16-016",
+   "sec": "Diameters of the fetal skull & engaging diameters",
+   "page": 491,
+   "q": "The two SECOND-longest AP diameters (each 11.5 cm) are:",
+   "opts": [
+    "Sub-mento-vertical and occipito-frontal",
+    "Sub-occipito-bregmatic and sub-mento-bregmatic",
+    "Mento-vertical and occipito-frontal",
+    "Sub-occipito-frontal and bimastoid"
+   ],
+   "ans": 0,
+   "exp": "Sub-mento-vertical and occipito-frontal both measure 11.5 cm – second longest. (Book p491)"
+  },
+  {
+   "id": "OBG-C16-017",
+   "sec": "Diameters of the fetal skull & engaging diameters",
+   "page": 491,
+   "q": "Arrange the transverse diameters from smallest to longest with their values:",
+   "opts": [
+    "Bimastoid 7.5 cm < bitemporal 8 cm < super sub-parietal 8.5 cm < biparietal 9.5 cm",
+    "Bitemporal 7.5 cm < bimastoid 8 cm < biparietal 8.5 cm < super sub-parietal 9.5 cm",
+    "Bimastoid 8 cm < bitemporal 8.5 cm < biparietal 9.5 cm < super sub-parietal 10 cm",
+    "Biparietal 7.5 cm < super sub-parietal 8 cm < bitemporal 8.5 cm < bimastoid 9.5 cm"
+   ],
+   "ans": 0,
+   "exp": "Bimastoid (7.5) → bitemporal (8) → super sub-parietal (8.5) → biparietal (9.5 cm). (Book p491)"
+  },
+  {
+   "id": "OBG-C16-018",
+   "sec": "Diameters of the fetal skull & engaging diameters",
+   "page": 491,
+   "q": "The most common engaging transverse diameter of the fetal skull is:",
+   "opts": [
+    "Biparietal diameter (9.5 cm)",
+    "Bitemporal diameter (8 cm)",
+    "Bimastoid diameter (7.5 cm)",
+    "Super sub-parietal diameter (8.5 cm)"
+   ],
+   "ans": 0,
+   "exp": "BPD (9.5 cm) is the m/c engaging diameter. (Book p491)"
+  },
+  {
+   "id": "OBG-C16-019",
+   "sec": "Diameters of the fetal skull & engaging diameters",
+   "page": 491,
+   "q": "Match the vertex attitude to its engaging diameter – Fully flexed : Deflexed.",
+   "opts": [
+    "Sub-occipito-bregmatic 9.5 cm : occipito-frontal 11.5 cm",
+    "Occipito-frontal 11.5 cm : sub-occipito-bregmatic 9.5 cm",
+    "Sub-occipito-frontal 10 cm : mento-vertical 14 cm",
+    "Sub-mento-bregmatic 9.5 cm : occipito-frontal 11.5 cm"
+   ],
+   "ans": 0,
+   "exp": "Fully flexed vertex engages by sub-occipito-bregmatic (9.5 cm); deflexed vertex by occipito-frontal (11.5 cm). (Book p491)"
+  },
+  {
+   "id": "OBG-C16-020",
+   "sec": "Diameters of the fetal skull & engaging diameters",
+   "page": 491,
+   "q": "A fully extended head (face presentation) engages by which diameter(s)?",
+   "opts": [
+    "Sub-mento-vertical 11.5 cm or sub-mento-bregmatic 9.5 cm",
+    "Mento-vertical 14 cm only",
+    "Occipito-frontal 11.5 cm",
+    "Sub-occipito-bregmatic 9.5 cm"
+   ],
+   "ans": 0,
+   "exp": "Face (fully extended) engages by sub-mento-vertical 11.5 cm or sub-mento-bregmatic 9.5 cm; brow (partially extended) by mento-vertical 14 cm. (Book p491)"
+  },
+  {
+   "id": "OBG-C16-021",
+   "sec": "Diameters of the fetal skull & engaging diameters",
+   "page": 491,
+   "q": "'Lightening' refers to:",
+   "opts": [
+    "Relief from respiratory symptoms in pregnant women due to descent of fetal head into maternal pelvis",
+    "Sudden onset of true labour pains",
+    "Rupture of membranes before labour",
+    "Cervical effacement in the last week"
+   ],
+   "ans": 0,
+   "exp": "Lightening = relief of respiratory symptoms due to descent of the fetal head into the pelvis. (Book p491)"
+  },
+  {
+   "id": "OBG-C16-022",
+   "sec": "Engagement timing, moulding & swellings on the head",
+   "page": 492,
+   "q": "Descent/engagement of the fetal head occurs in primigravida around ______ and in multigravida ______.",
+   "opts": [
+    "38 weeks; at onset of labour",
+    "At onset of labour; 38 weeks",
+    "36 weeks; 38 weeks",
+    "40 weeks; 36 weeks"
+   ],
+   "ans": 0,
+   "exp": "Primigravida: around 38 weeks; multigravida: at onset of labour. (Book p492)"
+  },
+  {
+   "id": "OBG-C16-023",
+   "sec": "Engagement timing, moulding & swellings on the head",
+   "page": 492,
+   "q": "The most common cause of a free-floating head (no descent at term) in a primigravida is:",
+   "opts": [
+    "Deflexed head (due to increased diameter)",
+    "Placenta previa",
+    "Contracted pelvis",
+    "Polyhydramnios"
+   ],
+   "ans": 0,
+   "exp": "M/c cause of free floating head at term in primigravida is a deflexed head (↑ diameter). (Book p492)"
+  },
+  {
+   "id": "OBG-C16-024",
+   "sec": "Engagement timing, moulding & swellings on the head",
+   "page": 492,
+   "q": "Moulding is defined as:",
+   "opts": [
+    "Alteration of shape of the forecoming head while passing through the resistant birth passage during labour",
+    "Collection of fluid above the periosteum of the scalp",
+    "Overlapping of skull bones present since intrauterine life",
+    "Bleeding beneath the periosteum after instrumental delivery"
+   ],
+   "ans": 0,
+   "exp": "Moulding = alteration of shape of the forecoming head passing through the resistant birth passage. (Book p492)"
+  },
+  {
+   "id": "OBG-C16-025",
+   "sec": "Engagement timing, moulding & swellings on the head",
+   "page": 492,
+   "q": "Match the grade of moulding – Grade 1 : Grade 2 : Grade 3.",
+   "opts": [
+    "Touching of skull bones : overlapping but easily separated : fixed overlapping",
+    "Overlapping easily separated : touching : fixed overlapping",
+    "Fixed overlapping : touching : overlapping easily separated",
+    "Touching : fixed overlapping : overlapping easily separated"
+   ],
+   "ans": 0,
+   "exp": "Grade 1 = touching (normal in labour); Grade 2 = overlap that can be easily separated; Grade 3 = fixed overlapping. (Book p492)"
+  },
+  {
+   "id": "OBG-C16-026",
+   "sec": "Engagement timing, moulding & swellings on the head",
+   "page": 492,
+   "q": "Which grades of moulding indicate cephalopelvic disproportion and mandate caesarean section?",
+   "opts": [
+    "Grades 2 and 3",
+    "Grade 1 only",
+    "Grades 1 and 2",
+    "Grade 3 only"
+   ],
+   "ans": 0,
+   "exp": "Grades 2 and 3 indicate CPD → C-section; grade 1 is normal in labour. (Book p492)"
+  },
+  {
+   "id": "OBG-C16-027",
+   "sec": "Engagement timing, moulding & swellings on the head",
+   "page": 492,
+   "q": "Match the definition – Caput succedaneum : Cephalhematoma.",
+   "opts": [
+    "Fluid/edematous swelling above periosteum : blood collection just below periosteum",
+    "Blood below periosteum : fluid above periosteum",
+    "Blood above periosteum : fluid below periosteum",
+    "Fluid below the scalp only : blood above the scalp"
+   ],
+   "ans": 0,
+   "exp": "Caput = collection of fluid/edematous swelling above periosteum; cephalhematoma = blood just below periosteum. (Book p492)"
+  },
+  {
+   "id": "OBG-C16-028",
+   "sec": "Engagement timing, moulding & swellings on the head",
+   "page": 492,
+   "q": "Match the cause – Caput succedaneum : Cephalhematoma.",
+   "opts": [
+    "Head stagnant in one position for long during labour : traumatic instrumental delivery",
+    "Traumatic instrumental delivery : prolonged stagnant head",
+    "Precipitate labour : breech delivery",
+    "Oxytocin overdose : vacuum cup slippage"
+   ],
+   "ans": 0,
+   "exp": "Caput arises from the head stagnant in one position for a long time; cephalhematoma from traumatic instrumental delivery. (Book p492)"
+  },
+  {
+   "id": "OBG-C16-029",
+   "sec": "Engagement timing, moulding & swellings on the head",
+   "page": 492,
+   "q": "For CAPUT SUCCEDANEUM, fill the table: pitting on pressure ______; crossing sutures ______; appearance ______; disappearance ______.",
+   "opts": [
+    "Present; present; present at birth; within few hours",
+    "Absent; absent; few hours after birth; few days",
+    "Present; absent; at birth; few days",
+    "Absent; present; few hours after birth; few hours"
+   ],
+   "ans": 0,
+   "exp": "Caput pits on pressure, crosses sutures, is present at birth and disappears within a few hours. (Book p492)"
+  },
+  {
+   "id": "OBG-C16-030",
+   "sec": "Engagement timing, moulding & swellings on the head",
+   "page": 492,
+   "q": "For CEPHALHEMATOMA, fill the table: pitting ______; crossing sutures ______; appearance ______; association with skull fracture and jaundice ______.",
+   "opts": [
+    "Absent; absent; few hours after birth; present",
+    "Present; present; at birth; absent",
+    "Absent; present; at birth; present",
+    "Present; absent; few hours after birth; absent"
+   ],
+   "ans": 0,
+   "exp": "Cephalhematoma does not pit, does not cross sutures, appears few hours after birth, disappears in few days and is associated with skull fracture and jaundice. (Book p492)"
+  },
+  {
+   "id": "OBG-C16-031",
+   "sec": "Engagement timing, moulding & swellings on the head",
+   "page": 492,
+   "q": "Management of caput succedaneum and cephalhematoma, and the significance of caput with slow progress of labour:",
+   "opts": [
+    "Conservative for both; caput + slow progress = CPD",
+    "Aspiration of cephalhematoma; caput + slow progress = normal",
+    "Incision and drainage for both; suggests infection",
+    "Conservative for caput, surgery for cephalhematoma; suggests hydrocephalus"
+   ],
+   "ans": 0,
+   "exp": "Only conservative management for both; caput succedaneum with slow progress of labour indicates CPD. (Book p492)"
+  },
+  {
+   "id": "OBG-C16-032",
+   "sec": "Lie, presentation, prolapse & presenting part",
+   "page": 493,
+   "q": "Lie is the relationship between the long axis of the ______ and the long axis of the fetus, determined after ______.",
+   "opts": [
+    "Centralised uterus; correction of dextrorotated fetus",
+    "Maternal pelvis; engagement",
+    "Maternal spine; rupture of membranes",
+    "Uterus; Leopold's third grip"
+   ],
+   "ans": 0,
+   "exp": "Lie = relationship between long axis of centralised uterus and fetus, determined after correcting dextrorotation. (Book p493)"
+  },
+  {
+   "id": "OBG-C16-033",
+   "sec": "Lie, presentation, prolapse & presenting part",
+   "page": 493,
+   "q": "Which lie carries the maximum chance of hand and cord prolapse, and which lie is most common?",
+   "opts": [
+    "Transverse lie; longitudinal lie",
+    "Oblique lie; transverse lie",
+    "Longitudinal lie; oblique lie",
+    "Transverse lie; oblique lie"
+   ],
+   "ans": 0,
+   "exp": "Transverse lie has maximum chance of hand and cord prolapse; longitudinal lie is m/c. (Book p493)"
+  },
+  {
+   "id": "OBG-C16-034",
+   "sec": "Lie, presentation, prolapse & presenting part",
+   "page": 493,
+   "q": "Management of transverse lie – antenatal period : in labour.",
+   "opts": [
+    "External cephalic version : C-section irrespective of fetal viability",
+    "Internal podalic version : C-section only if fetus is alive",
+    "Expectant : vaginal delivery after ECV",
+    "C-section : external cephalic version"
+   ],
+   "ans": 0,
+   "exp": "Antenatal: external cephalic version; in labour: C-section irrespective of viability of fetus. (Book p493)"
+  },
+  {
+   "id": "OBG-C16-035",
+   "sec": "Lie, presentation, prolapse & presenting part",
+   "page": 493,
+   "q": "Presentation is defined as:",
+   "opts": [
+    "Part of the fetus that occupies the lower pole of the uterus",
+    "Part felt directly over the internal os",
+    "Bony point of reference on the fetus",
+    "Relationship of denominator to the maternal pelvis"
+   ],
+   "ans": 0,
+   "exp": "Presentation = part of fetus occupying the lower pole of uterus. (Book p493)"
+  },
+  {
+   "id": "OBG-C16-036",
+   "sec": "Lie, presentation, prolapse & presenting part",
+   "page": 493,
+   "q": "Match – m/c presentation : m/c malpresentation : m/c presentation in transverse lie.",
+   "opts": [
+    "Cephalic : breech : shoulder",
+    "Breech : shoulder : cephalic",
+    "Cephalic : shoulder : breech",
+    "Shoulder : breech : cephalic"
+   ],
+   "ans": 0,
+   "exp": "Cephalic is m/c (normal); breech is m/c malpresentation; shoulder presents in transverse lie. (Book p493)"
+  },
+  {
+   "id": "OBG-C16-037",
+   "sec": "Lie, presentation, prolapse & presenting part",
+   "page": 493,
+   "q": "The two causes given for cephalic presentation being the norm are:",
+   "opts": [
+    "Gravity and buttocks needing more space (provided by the fundus)",
+    "Uterine tone and cord length",
+    "Amniotic fluid volume and placental site",
+    "Fetal reflexes and maternal posture"
+   ],
+   "ans": 0,
+   "exp": "Causes: gravity, and buttocks requiring more space which is provided by the uterine fundus. (Book p493)"
+  },
+  {
+   "id": "OBG-C16-038",
+   "sec": "Lie, presentation, prolapse & presenting part",
+   "page": 494,
+   "q": "Match the prolapse to its situation and management – Head + hand prolapse : Hand prolapse.",
+   "opts": [
+    "Compound presentation in longitudinal lie, vaginal delivery : transverse lie, C-section",
+    "Transverse lie, C-section : compound presentation, vaginal delivery",
+    "Both occur in transverse lie and need C-section",
+    "Both occur in longitudinal lie and allow vaginal delivery"
+   ],
+   "ans": 0,
+   "exp": "Head + hand prolapse = compound presentation (longitudinal lie) → vaginal delivery; isolated hand prolapse = transverse lie → C-section. (Book p494)"
+  },
+  {
+   "id": "OBG-C16-039",
+   "sec": "Lie, presentation, prolapse & presenting part",
+   "page": 494,
+   "q": "Presenting part is defined as the part of the presentation that:",
+   "opts": [
+    "Lies directly over the internal os (felt on P/V exam)",
+    "Occupies the lower pole of the uterus",
+    "Is palpated in the fundal grip",
+    "Forms the denominator"
+   ],
+   "ans": 0,
+   "exp": "Presenting part = part of presentation lying directly over the internal os, felt on P/V exam. (Book p494)"
+  },
+  {
+   "id": "OBG-C16-040",
+   "sec": "Lie, presentation, prolapse & presenting part",
+   "page": 494,
+   "q": "Match the head attitude to the presenting part – Complete flexion : Deflexed : Partial extension : Complete extension.",
+   "opts": [
+    "Vertex : Vertex : Brow : Face",
+    "Vertex : Brow : Face : Face",
+    "Face : Vertex : Brow : Vertex",
+    "Vertex : Vertex : Face : Brow"
+   ],
+   "ans": 0,
+   "exp": "Complete flexion and deflexed = vertex; partial extension = brow; complete extension = face (brow and face = abnormal attitude). (Book p494)"
+  },
+  {
+   "id": "OBG-C16-041",
+   "sec": "Denominator, attitude & position",
+   "page": 494,
+   "q": "Match the denominator – Vertex : Face : Breech.",
+   "opts": [
+    "Occiput : mentum : sacrum",
+    "Sinciput : mentum : sacrum",
+    "Occiput : nose : ischium",
+    "Bregma : chin : coccyx"
+   ],
+   "ans": 0,
+   "exp": "Denominator (bony reference point on presenting part): vertex – occiput; face – mentum; breech – sacrum. (Book p494)"
+  },
+  {
+   "id": "OBG-C16-042",
+   "sec": "Denominator, attitude & position",
+   "page": 494,
+   "q": "Attitude is defined as ______ and the most common (normal) attitude is ______.",
+   "opts": [
+    "Relationship of different fetal parts to one another; flexion",
+    "Relationship of denominator to pelvis; extension",
+    "Relationship of fetal axis to uterine axis; flexion",
+    "Relationship of presenting part to internal os; deflexion"
+   ],
+   "ans": 0,
+   "exp": "Attitude = relation of fetal parts to one another; m/c attitude is flexion. Face and brow result from abnormal attitudes. (Book p494)"
+  },
+  {
+   "id": "OBG-C16-043",
+   "sec": "Denominator, attitude & position",
+   "page": 495,
+   "q": "Position is defined as the relationship of the ______ to the ______.",
+   "opts": [
+    "Denominator; maternal pelvis",
+    "Presenting part; internal os",
+    "Fetal long axis; uterine long axis",
+    "Occiput; sinciput"
+   ],
+   "ans": 0,
+   "exp": "Position = relationship of denominator to maternal pelvis. (Book p495)"
+  },
+  {
+   "id": "OBG-C16-044",
+   "sec": "Denominator, attitude & position",
+   "page": 495,
+   "q": "Match the most common position – Antenatal : During labour : In active labour.",
+   "opts": [
+    "LOT > LOA : LOT : DOA",
+    "LOA : LOT : ROP",
+    "LOT : DOA : LOA",
+    "ROA : LOT : DOP"
+   ],
+   "ans": 0,
+   "exp": "Antenatal LOT > LOA; during labour LOT; in active labour DOA (direct occipito-anterior). (Book p495)"
+  },
+  {
+   "id": "OBG-C16-045",
+   "sec": "Denominator, attitude & position",
+   "page": 495,
+   "q": "The m/c occipito-anterior position is ______ and the m/c occipito-posterior position is ______.",
+   "opts": [
+    "LOA; ROP",
+    "ROA; LOP",
+    "LOA; LOP",
+    "DOA; DOP"
+   ],
+   "ans": 0,
+   "exp": "M/c OA position = LOA; m/c OP position = ROP. (Book p495)"
+  },
+  {
+   "id": "OBG-C16-046",
+   "sec": "Denominator, attitude & position",
+   "page": 495,
+   "q": "In the 8-position diagram, positions 1 to 5 versus 6 to 8 correspond to:",
+   "opts": [
+    "1–5 normal vaginal delivery; 6–8 occipito-posterior delivery",
+    "1–5 occipito-posterior; 6–8 normal vaginal delivery",
+    "1–4 breech; 5–8 vertex",
+    "1–3 face; 4–8 vertex"
+   ],
+   "ans": 0,
+   "exp": "Positions 1–5 (LOT, LOA, OA, ROA, ROT) → normal vaginal delivery; 6–8 (ROP, OP, LOP) → OP delivery. (Book p495)"
+  },
+  {
+   "id": "OBG-C16-047",
+   "sec": "Denominator, attitude & position",
+   "page": 495,
+   "q": "Which of the following is given as an example of a MALPOSITION, and what happens to it during labour?",
+   "opts": [
+    "Occipito-posterior; it rotates to occipito-anterior with no management required",
+    "Occipito-anterior; it persists and needs rotation",
+    "Left sacro-anterior; converts to breech",
+    "Left mento-anterior; requires C-section"
+   ],
+   "ans": 0,
+   "exp": "Occipito-posterior is a malposition; during labour it usually rotates to occipito-anterior (no mx required). (Book p495)"
+  },
+  {
+   "id": "OBG-C16-048",
+   "sec": "Denominator, attitude & position",
+   "page": 495,
+   "q": "Match denominator and typical position in other presentations – Breech : Face.",
+   "opts": [
+    "Sacrum, left sacro-anterior : mentum, left mento-anterior",
+    "Mentum, left mento-anterior : sacrum, left sacro-anterior",
+    "Sacrum, right sacro-posterior : occiput, LOA",
+    "Ischium, left sacro-anterior : chin, right mento-posterior"
+   ],
+   "ans": 0,
+   "exp": "Breech – denominator sacrum, position left sacro-anterior; face – denominator mentum, position left mento-anterior. (Book p495)"
+  },
+  {
+   "id": "OBG-C16-049",
+   "sec": "Identification of fetal position",
+   "page": 495,
+   "q": "Step 1 in identifying fetal position on P/V exam is to identify the occiput, which lies:",
+   "opts": [
+    "Near the posterior fontanelle",
+    "Near the anterior fontanelle",
+    "At the root of the nose",
+    "Along the coronal suture"
+   ],
+   "ans": 0,
+   "exp": "The occiput is identified near the posterior fontanelle. (Book p495)"
+  },
+  {
+   "id": "OBG-C16-050",
+   "sec": "Identification of fetal position",
+   "page": 495,
+   "q": "Match the occiput location to the position – Near pubic symphysis : Near sacral promontory : Midway between PS and SP.",
+   "opts": [
+    "Occipito-anterior : occipito-posterior : occipito-transverse",
+    "Occipito-posterior : occipito-anterior : occipito-transverse",
+    "Occipito-transverse : occipito-anterior : occipito-posterior",
+    "Occipito-anterior : occipito-transverse : occipito-posterior"
+   ],
+   "ans": 0,
+   "exp": "Occiput near PS = OA; near SP = OP; midway = OT. (Book p495)"
+  },
+  {
+   "id": "OBG-C16-051",
+   "sec": "Identification of fetal position",
+   "page": 495,
+   "q": "If the occiput is directed to the examiner's right, the position is:",
+   "opts": [
+    "Left (mother's left) and vice versa",
+    "Right (mother's right)",
+    "Direct occipito-anterior",
+    "Cannot be determined"
+   ],
+   "ans": 0,
+   "exp": "Examiner's right = mother's left and vice versa. (Book p495)"
+  },
+  {
+   "id": "OBG-C16-052",
+   "sec": "Identification of fetal position",
+   "page": 495,
+   "q": "In the illustrated figures, the occiput lying toward the mother's right at the transverse level versus toward the mother's left posteriorly correspond to:",
+   "opts": [
+    "Right occipito-transverse and left occipito-posterior",
+    "Left occipito-transverse and right occipito-posterior",
+    "Right occipito-anterior and left occipito-anterior",
+    "Direct occipito-posterior and direct occipito-anterior"
+   ],
+   "ans": 0,
+   "exp": "The figures show right occipito-transverse and left occipito-posterior. (Book p495)"
+  },
+  {
+   "id": "OBG-C16-053",
+   "sec": "Leopold's manoeuvres: preparation & the four grips",
+   "page": 496,
+   "q": "Which is NOT among the steps prior to Leopold's manoeuvres?",
+   "opts": [
+    "Fill the bladder to lift the uterus",
+    "Introduce self and explain the procedure",
+    "Position supine with knees slightly flexed",
+    "Warm the hands"
+   ],
+   "ans": 0,
+   "exp": "The bladder must be EMPTIED prior to the procedure; the other steps are correct. (Book p496)"
+  },
+  {
+   "id": "OBG-C16-054",
+   "sec": "Leopold's manoeuvres: preparation & the four grips",
+   "page": 496,
+   "q": "Exposure and examiner position for Leopold's manoeuvres:",
+   "opts": [
+    "Expose only between xiphisternum and pubic symphysis; examiner on right side, facing the face for first 3 grips and feet for the fourth",
+    "Expose from breasts to thighs; examiner on left side facing the feet throughout",
+    "Expose the whole abdomen; examiner at the foot end for all grips",
+    "Expose the lower abdomen only; examiner on right side facing the feet for first 3 grips"
+   ],
+   "ans": 0,
+   "exp": "Expose only xiphisternum to pubic symphysis; examiner on the patient's right, facing her face for grips 1–3 and her feet for grip 4. (Book p496)"
+  },
+  {
+   "id": "OBG-C16-055",
+   "sec": "Leopold's manoeuvres: preparation & the four grips",
+   "page": 496,
+   "q": "Fundal height is checked with the ulnar border of the hand palpating below the xiphisternum; fundus AT the xiphisternum indicates:",
+   "opts": [
+    "36 weeks",
+    "32 weeks",
+    "40 weeks",
+    "28 weeks"
+   ],
+   "ans": 0,
+   "exp": "Resistance = fundal height; at xiphisternum = 36 weeks. (Book p496)"
+  },
+  {
+   "id": "OBG-C16-056",
+   "sec": "Leopold's manoeuvres: preparation & the four grips",
+   "page": 496,
+   "q": "Fundal height is the same at 32 and 40 weeks; they are distinguished by:",
+   "opts": [
+    "Flanks not full at 32 weeks, flanks full at 40 weeks",
+    "Flanks full at 32 weeks, not full at 40 weeks",
+    "Presence of engagement at 32 weeks",
+    "Fetal movements present only at 40 weeks"
+   ],
+   "ans": 0,
+   "exp": "At 32 weeks flanks are not full; at 40 weeks flanks are full. (Book p496)"
+  },
+  {
+   "id": "OBG-C16-057",
+   "sec": "Leopold's manoeuvres: preparation & the four grips",
+   "page": 496,
+   "q": "In the first Leopold (fundal) grip, if fetal parts are felt in the fundus the lie is ______; if not felt the lie is ______.",
+   "opts": [
+    "Longitudinal; transverse",
+    "Transverse; longitudinal",
+    "Oblique; longitudinal",
+    "Longitudinal; oblique"
+   ],
+   "ans": 0,
+   "exp": "Fetal parts felt at fundus → longitudinal lie; not felt → transverse lie. (Book p496)"
+  },
+  {
+   "id": "OBG-C16-058",
+   "sec": "Leopold's manoeuvres: preparation & the four grips",
+   "page": 496,
+   "q": "Match the fundal grip finding – soft, broad, irregular, not independently ballotable : rounded, firm, globular, ballotable.",
+   "opts": [
+    "Buttocks (cephalic presentation) : head (breech presentation)",
+    "Head (breech) : buttocks (cephalic)",
+    "Back (LOA) : limbs (ROP)",
+    "Placenta : head"
+   ],
+   "ans": 0,
+   "exp": "Soft broad irregular non-ballotable mass = buttocks → cephalic; rounded firm globular ballotable = head → breech. (Book p496)"
+  },
+  {
+   "id": "OBG-C16-059",
+   "sec": "Leopold's manoeuvres: preparation & the four grips",
+   "page": 496,
+   "q": "The second Leopold (umbilical/lateral) grip identifies a smooth, continuous, rigid area as the ______ and multiple irregular knob-like structures as ______; back on the left means position ______.",
+   "opts": [
+    "Back; limbs; LOA/LOP/LOT",
+    "Limbs; back; ROA/ROP/ROT",
+    "Back; limbs; ROA/ROP/ROT",
+    "Head; limbs; DOA"
+   ],
+   "ans": 0,
+   "exp": "Smooth rigid = back, knob-like = limbs; position of back = position of occiput, so back on left → LOA/LOP/LOT. (Book p496)"
+  },
+  {
+   "id": "OBG-C16-060",
+   "sec": "Leopold's manoeuvres: preparation & the four grips",
+   "page": 497,
+   "q": "Third Leopold manoeuvre (Pawlik grip) – ballotable head means ______ and non-ballotable means ______; it infers presentation and ______.",
+   "opts": [
+    "Not fixed; fixed; fixation (descent of head into pelvis)",
+    "Fixed; not fixed; attitude",
+    "Engaged; floating; lie",
+    "Deflexed; flexed; position"
+   ],
+   "ans": 0,
+   "exp": "Pawlik grip: ballotable = not fixed, non-ballotable = fixed; interpretation = presentation and fixation. (Book p497)"
+  },
+  {
+   "id": "OBG-C16-061",
+   "sec": "Leopold's manoeuvres: preparation & the four grips",
+   "page": 497,
+   "q": "In the fourth Leopold manoeuvre (deep pelvic grip), fingers brought below the head that CONVERGE versus DIVERGE indicate:",
+   "opts": [
+    "Converge = head entered pelvis; diverge = head not entered pelvis",
+    "Converge = head not entered; diverge = head entered",
+    "Converge = breech; diverge = vertex",
+    "Converge = deflexed; diverge = flexed"
+   ],
+   "ans": 0,
+   "exp": "Converging fingers → head entered pelvis; diverging → not entered. The 4th grip confirms Pawlik findings and gives attitude. (Book p497)"
+  },
+  {
+   "id": "OBG-C16-062",
+   "sec": "Leopold's manoeuvres: preparation & the four grips",
+   "page": 497,
+   "q": "Inference of the fourth Leopold manoeuvre – match occiput and sinciput findings: opposite directions, occiput higher : opposite directions, same level : same direction, occiput higher.",
+   "opts": [
+    "Flexion : deflexed : completely extended",
+    "Deflexed : flexion : completely extended",
+    "Completely extended : deflexed : flexion",
+    "Flexion : completely extended : deflexed"
+   ],
+   "ans": 0,
+   "exp": "Opposite directions with occiput higher = flexion; same level = deflexed; same direction with occiput higher = completely extended. (Book p497)"
+  },
+  {
+   "id": "OBG-C16-063",
+   "sec": "Fixation & engagement of the fetal head (Crichton method)",
+   "page": 498,
+   "q": "In the Crichton method the fetal head is taken to be about ______ fingers wide on abdominal palpation.",
+   "opts": [
+    "5",
+    "3",
+    "4",
+    "6"
+   ],
+   "ans": 0,
+   "exp": "Head of fetus ≈ 5 fingers (Crichton method). (Book p498)"
+  },
+  {
+   "id": "OBG-C16-064",
+   "sec": "Fixation & engagement of the fetal head (Crichton method)",
+   "page": 498,
+   "q": "A ballotable head with 5/5 palpable (all 5 fingers accommodated) means:",
+   "opts": [
+    "Head has not entered the pelvis",
+    "Head is fixed",
+    "Head is engaged",
+    "Head is deeply engaged"
+   ],
+   "ans": 0,
+   "exp": "5/5 palpable, ballotable = not entered the pelvis. (Book p498)"
+  },
+  {
+   "id": "OBG-C16-065",
+   "sec": "Fixation & engagement of the fetal head (Crichton method)",
+   "page": 498,
+   "q": "Match the non-ballotable head – 4/5 palpable : ≤2/5 palpable.",
+   "opts": [
+    "Fixed : engaged",
+    "Engaged : fixed",
+    "Free : fixed",
+    "Floating : free"
+   ],
+   "ans": 0,
+   "exp": "Non-ballotable head: 4/5 palpable = fixed; ≤2/5 palpable = engaged. (Book p498)"
+  }
+ ],
+ "units": [
+  {
+   "id": "OBG-U16-1",
+   "ch": 16,
+   "n": 1,
+   "title": "Presenting parts of the fetal skull & head attitude",
+   "sec": "Fetal skull: presenting parts · p490",
+   "guide": "Map the vertex, brow and face onto their fontanelle and facial landmarks, then link each degree of flexion to the part that presents. Focus for this checkpoint: Presenting parts of the fetal skull & head attitude.",
+   "qs": [
+    "OBG-C16-001",
+    "OBG-C16-002",
+    "OBG-C16-003",
+    "OBG-C16-004",
+    "OBG-C16-005",
+    "OBG-C16-006"
+   ]
+  },
+  {
+   "id": "OBG-U16-2",
+   "ch": 16,
+   "n": 2,
+   "title": "Sutures, fontanelles & skull terminology",
+   "sec": "Fetal skull anatomy · p490-491",
+   "guide": "Label the diagram of the fetal skull – bones, sutures, bregma and lambda – and lock in the exact meaning of each terminology word used in later chapters. Focus for this checkpoint: Sutures, fontanelles & skull terminology.",
+   "qs": [
+    "OBG-C16-007",
+    "OBG-C16-008",
+    "OBG-C16-009",
+    "OBG-C16-010",
+    "OBG-C16-011",
+    "OBG-C16-012"
+   ]
+  },
+  {
+   "id": "OBG-U16-3",
+   "ch": 16,
+   "n": 3,
+   "title": "Diameters of the fetal skull & engaging diameters",
+   "sec": "Fetal skull diameters · p491",
+   "guide": "Rank the six AP and four transverse diameters by length, then tie each presentation and attitude to the diameter that must pass the pelvis. Focus for this checkpoint: Diameters of the fetal skull & engaging diameters.",
+   "qs": [
+    "OBG-C16-013",
+    "OBG-C16-014",
+    "OBG-C16-015",
+    "OBG-C16-016",
+    "OBG-C16-017",
+    "OBG-C16-018",
+    "OBG-C16-019",
+    "OBG-C16-020",
+    "OBG-C16-021"
+   ]
+  },
+  {
+   "id": "OBG-U16-4",
+   "ch": 16,
+   "n": 4,
+   "title": "Engagement timing, moulding & swellings on the head",
+   "sec": "Moulding, caput & cephalhematoma · p492",
+   "guide": "Time the descent of the head in primi versus multi, grade moulding, and separate caput succedaneum from cephalhematoma feature by feature. Focus for this checkpoint: Engagement timing, moulding & swellings on the head.",
+   "qs": [
+    "OBG-C16-022",
+    "OBG-C16-023",
+    "OBG-C16-024",
+    "OBG-C16-025",
+    "OBG-C16-026",
+    "OBG-C16-027",
+    "OBG-C16-028",
+    "OBG-C16-029",
+    "OBG-C16-030",
+    "OBG-C16-031"
+   ]
+  },
+  {
+   "id": "OBG-U16-5",
+   "ch": 16,
+   "n": 5,
+   "title": "Lie, presentation, prolapse & presenting part",
+   "sec": "Lie & presentation · p493-494",
+   "guide": "Define lie, presentation and presenting part with their m/c examples, manage transverse lie in each period, and sort hand versus head-plus-hand prolapse. Focus for this checkpoint: Lie, presentation, prolapse & presenting part.",
+   "qs": [
+    "OBG-C16-032",
+    "OBG-C16-033",
+    "OBG-C16-034",
+    "OBG-C16-035",
+    "OBG-C16-036",
+    "OBG-C16-037",
+    "OBG-C16-038",
+    "OBG-C16-039",
+    "OBG-C16-040"
+   ]
+  },
+  {
+   "id": "OBG-U16-6",
+   "ch": 16,
+   "n": 6,
+   "title": "Denominator, attitude & position",
+   "sec": "Denominator & position · p494-495",
+   "guide": "Assign the correct denominator to each presentation, then walk the eight occipital positions to know which are delivered vaginally and which are most common at each stage. Focus for this checkpoint: Denominator, attitude & position.",
+   "qs": [
+    "OBG-C16-041",
+    "OBG-C16-042",
+    "OBG-C16-043",
+    "OBG-C16-044",
+    "OBG-C16-045",
+    "OBG-C16-046",
+    "OBG-C16-047",
+    "OBG-C16-048"
+   ]
+  },
+  {
+   "id": "OBG-U16-7",
+   "ch": 16,
+   "n": 7,
+   "title": "Identification of fetal position",
+   "sec": "Identifying position on P/V · p495",
+   "guide": "Practise the three-step P/V method for locating the occiput and translating the examiner's right into the mother's left. Focus for this checkpoint: Identification of fetal position.",
+   "qs": [
+    "OBG-C16-049",
+    "OBG-C16-050",
+    "OBG-C16-051",
+    "OBG-C16-052"
+   ]
+  },
+  {
+   "id": "OBG-U16-8",
+   "ch": 16,
+   "n": 8,
+   "title": "Leopold's manoeuvres: preparation & the four grips",
+   "sec": "Leopold's manoeuvres · p496-497",
+   "guide": "Run through the seven preparatory steps, then interpret what each of the four grips palpates and infers about lie, presentation, position and engagement. Focus for this checkpoint: Leopold's manoeuvres: preparation & the four grips.",
+   "qs": [
+    "OBG-C16-053",
+    "OBG-C16-054",
+    "OBG-C16-055",
+    "OBG-C16-056",
+    "OBG-C16-057",
+    "OBG-C16-058",
+    "OBG-C16-059",
+    "OBG-C16-060",
+    "OBG-C16-061",
+    "OBG-C16-062"
+   ]
+  },
+  {
+   "id": "OBG-U16-9",
+   "ch": 16,
+   "n": 9,
+   "title": "Fixation & engagement of the fetal head (Crichton method)",
+   "sec": "Fifths palpable · p498",
+   "guide": "Count the fifths of head palpable above the brim to distinguish a free, fixed and engaged head. Focus for this checkpoint: Fixation & engagement of the fetal head (Crichton method).",
+   "qs": [
+    "OBG-C16-063",
+    "OBG-C16-064",
+    "OBG-C16-065"
+   ]
+  }
+ ]
+}

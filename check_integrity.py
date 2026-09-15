@@ -30,6 +30,15 @@ LIVE_CHAPTERS = {
     13: ("Multifetal Gestation: Chorionicity, Complications & Delivery", 460, 471, 87, 9),
     14: ("Preterm Labour, PROM & Post-term Pregnancy", 472, 482, 105, 11),
     15: ("Maternal Pelvis, Contracted Pelvis & CPD", 483, 489, 50, 6),
+    16: ("Fetal Skull & Terminologies of Labour", 490, 498, 65, 9),
+    17: ("Stages of Labour: Normal & Abnormal", 499, 505, 51, 9),
+    18: ("Partogram & WHO Labour Care Guide", 506, 511, 36, 7),
+    19: ("Normal Labour & Induction of Labour", 512, 527, 111, 18),
+    20: ("Postpartum Hemorrhage & Third Stage Complications", 528, 539, 62, 12),
+    21: ("Perineal Trauma, Episiotomy & Malpresentations", 540, 549, 52, 9),
+    22: ("Breech & Instrumental Delivery", 550, 562, 60, 11),
+    23: ("Caesarean Section & VBAC", 563, 566, 26, 4),
+    24: ("Puerperium", 567, 572, 36, 7),
 }
 
 REQUIRED_UI = [
@@ -111,9 +120,8 @@ def verify() -> None:
         # This makes accidental partial generation or duplicate appends fail loudly.
         if expected_qs < 1 or expected_units < 1:
             errors.append(f"Invalid expected content count configured for Chapter {number}")
-    for number in range(16, 25):
-        if metadata.get(number, {}).get("live"):
-            errors.append(f"Future Chapter {number} should remain marked Soon")
+    if any(not metadata.get(number, {}).get("live") for number in range(1, 25)):
+        errors.append("All 24 chapters should now be marked live")
 
     question_ids = [question.get("id") for question in questions]
     if len(question_ids) != len(set(question_ids)):
@@ -271,7 +279,7 @@ def verify() -> None:
 
     total_pages = sum(last - first + 1 for _title, first, last, _q, _u in LIVE_CHAPTERS.values())
     print(
-        "PASS: 15 live chapters; "
+        "PASS: 24 live chapters; "
         f"{len(questions)} questions; {len(units)} units; "
         f"all {total_pages} in-scope Book pages represented; "
         "IDs, four-option structure, citations, order, source artifacts, UI hooks, and JavaScript syntax verified."

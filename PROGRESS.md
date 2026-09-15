@@ -6,7 +6,7 @@ Build a line-by-line PULSE quiz companion for the Marrow Edition 8 Obstetrics & 
 ## App Architecture (Exact match with ORTHO)
 - Single-page Duolingo-style game UI (`pulse-obg.html`).
 - Home screen with stats: Total XP, Day streak, Units completed, "Unlock all units", and "Continue learning".
-- Chapter roadmap with all 24 chapters visible from day one: live chapters unlocked, upcoming chapters marked "Soon".
+- Chapter roadmap with all 24 chapters visible from day one: all 24 chapters are now unlocked and live.
 - Path view with Duolingo-style unit nodes, progress checkmarks, locked icons, animated current unit, and section dividers.
 - Guide screen with 2–3 sentence vivid summary of each unit before beginning.
 - Quiz interface with progress bar, question counter, section tag, question text, 4 options (shuffled per run to eliminate position bias), immediate green/red feedback with concise explanation, floating XP animations, and keyboard shortcuts (1–4, Enter).
@@ -196,18 +196,19 @@ Build a line-by-line PULSE quiz companion for the Marrow Edition 8 Obstetrics & 
 ---
 
 ## Validation Status
-- Total live chapters: **15** (Chapters 1 to 15)
-- Total questions: **1,869**
-- Total units: **256**
+- Total live chapters: **24** (Chapters 1 to 24 — full Book coverage)
+- Total questions: **2,368**
+- Total units: **342**
 - New Chapter 6–10 addition: **915 questions** in **122 focused units** across Book pages **375–441**.
 - New Chapter 11–15 addition: **416 questions** in **43 focused units** across Book pages **442–489**.
-- All **225** in-scope Book pages (265–489) have at least one cited question; all 115 added source pages are represented.
-- Roadmap rows for Chapters 16–24 were re-titled from the actual Book content (Fetal Skull & Terminologies of Labour p490, Stages of Labour p499, Partogram & WHO Labour Care Guide p506, Normal Labour & Induction p513, PPH & Third Stage Complications p529, Perineal Trauma & Malpresentations p540, Breech & Instrumental Delivery p551, Caesarean Section & VBAC p563, Puerperium p567) and remain locked as "Soon".
+- New Chapter 16–24 addition: **499 questions** in **86 focused units** across Book pages **490–572**.
+- All **308** in-scope Book pages (265–572) have at least one cited question; all 83 newly added source pages are represented.
+- Roadmap: all 24 chapters are now Live; no "Soon" rows remain.
 - Contiguous, globally unique question and unit IDs: **PASS**
 - Exactly four distinct, non-empty options and a valid answer index per question: **PASS**
 - 100% question coverage by units exactly once, in source order: **PASS**
 - Correct Book-page range and matching explanation citation for every question: **PASS**
-- Editable `data/ch01.json`–`data/ch10.json` artifacts exactly match the embedded application data: **PASS**
+- Editable `data/ch01.json`–`data/ch24.json` artifacts exactly match the embedded application data: **PASS**
 - Required UI hooks, Node JavaScript syntax check, and dependency-free DOM runtime smoke test: **PASS**
 
 ## Status
@@ -223,7 +224,16 @@ Build a line-by-line PULSE quiz companion for the Marrow Edition 8 Obstetrics & 
   - Chapter 13 — Multifetal Gestation: Chorionicity, Complications & Delivery: **87 questions**, **9 units**, Book p460–471.
   - Chapter 14 — Preterm Labour, PROM & Post-term Pregnancy: **105 questions**, **11 units**, Book p472–482.
   - Chapter 15 — Maternal Pelvis, Contracted Pelvis & CPD: **50 questions**, **6 units**, Book p483–489.
-- **Roadmap**: Chapters 1–15 are Live; Chapters 16–24 remain marked as "Soon" until transcribed.
+  - Chapter 16 — Fetal Skull & Terminologies of Labour: **65 questions**, **9 units**, Book p490–498.
+  - Chapter 17 — Stages of Labour: Normal & Abnormal: **51 questions**, **9 units**, Book p499–505.
+  - Chapter 18 — Partogram & WHO Labour Care Guide: **36 questions**, **7 units**, Book p506–511.
+  - Chapter 19 — Normal Labour & Induction of Labour: **111 questions**, **18 units**, Book p512–527.
+  - Chapter 20 — Postpartum Hemorrhage & Third Stage Complications: **62 questions**, **12 units**, Book p528–539.
+  - Chapter 21 — Perineal Trauma, Episiotomy & Malpresentations: **52 questions**, **9 units**, Book p540–549.
+  - Chapter 22 — Breech & Instrumental Delivery: **60 questions**, **11 units**, Book p550–562.
+  - Chapter 23 — Caesarean Section & VBAC: **26 questions**, **4 units**, Book p563–566.
+  - Chapter 24 — Puerperium: **36 questions**, **7 units**, Book p567–572.
+- **Roadmap**: All 24 chapters are Live. The Book (p265–572) is fully transcribed.
 
 ## Live Links
 - GitHub Pages live link: `https://deva20045.github.io/OBG/` (redirects to `pulse-obg.html`).
