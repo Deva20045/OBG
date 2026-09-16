@@ -409,77 +409,82 @@
    "id": "OBG-C9-001",
    "sec": "Abortion definitions",
    "page": 418,
-   "q": "How is abortion defined in the source notes?",
+   "q": "Match each definition with the gestation or weight it uses — 1) Abortion 2) WHO definition of abortion 3) Intrauterine death … A) Fetal weight below 500 g, about 22 weeks B) Pregnancy loss at or after 20 weeks C) Pregnancy loss before 20 weeks",
    "opts": [
-    "Pregnancy loss at or after 28 weeks only",
-    "Any bleeding in pregnancy",
-    "Fetal death after birth",
-    "Pregnancy loss before 20 weeks of gestation"
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C"
    ],
-   "ans": 3,
-   "exp": "Abortion is pregnancy loss occurring before 20 weeks of gestation. (Book p418)"
+   "ans": 0,
+   "exp": "Abortion is pregnancy loss before 20 weeks; the WHO definition is fetal weight below 500 g, about 22 weeks; and intrauterine death is loss at or after 20 weeks. (Book p418)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C9-002",
    "sec": "Abortion definitions",
    "page": 418,
-   "q": "What WHO abortion definition is given in terms of fetal weight and approximate gestation?",
+   "q": "Fill up: The WHO definition of abortion is a fetal weight below ______ g, approximately below ______ weeks.",
    "opts": [
-    "Fetal weight below 500 g, approximately below 22 weeks",
-    "Fetal weight below 1,500 g, approximately below 32 weeks",
-    "Fetal weight below 4,000 g, approximately below 40 weeks",
-    "Any fetal weight after 28 weeks"
+    "500; 22",
+    "1500; 32",
+    "4000; 40",
+    "500; 28"
    ],
    "ans": 0,
-   "exp": "The WHO definition uses fetal weight below 500 g, approximately 22 weeks. (Book p418)"
+   "exp": "The WHO definition uses a fetal weight below 500 g, approximately 22 weeks. (Book p418)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-003",
    "sec": "Abortion definitions",
    "page": 418,
-   "q": "How is intrauterine death distinguished from abortion by gestational age in the notes?",
+   "q": "Fill up: Abortion is pregnancy loss before ______ weeks, whereas intrauterine death is loss at or after ______ weeks.",
    "opts": [
-    "Loss only after 28 weeks",
-    "Pregnancy loss at or after 20 weeks",
-    "Loss before 12 weeks",
-    "Loss before 20 weeks"
+    "20; 20",
+    "20; 28",
+    "12; 20",
+    "28; 28"
    ],
-   "ans": 1,
-   "exp": "Intrauterine death is pregnancy loss at or after 20 weeks. (Book p418)"
+   "ans": 0,
+   "exp": "Abortion is pregnancy loss before 20 weeks of gestation, and intrauterine death is pregnancy loss at or after 20 weeks. (Book p418)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-004",
    "sec": "Viability",
    "page": 418,
-   "q": "What period of viability in India is stated in the source?",
+   "q": "Which statement about the period of viability is TRUE?",
    "opts": [
-    "24 weeks",
-    "32 weeks",
-    "28 weeks",
-    "20 weeks"
+    "The notes state a period of viability of 28 weeks in India",
+    "The notes state a period of viability of 24 weeks in India",
+    "The source definition puts viability at 32 weeks",
+    "Viability is reached at 20 weeks in the source notes"
    ],
-   "ans": 2,
-   "exp": "The notes state a period of viability of 28 weeks in India. (Book p418)"
+   "ans": 0,
+   "exp": "The notes state a period of viability of 28 weeks in India. (Book p418)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-005",
    "sec": "Types of abortion",
    "page": 418,
-   "q": "How is spontaneous abortion subdivided in the source flowchart?",
+   "q": "Fill up: Spontaneous abortion is subdivided into an ______ single episode or ______ abortion.",
    "opts": [
-    "Only into surgical and medical management",
-    "Only into complete and incomplete varieties",
-    "Only into antepartum and postpartum losses",
-    "Isolated single episode, or recurrent with at least 3 abortions"
+    "Isolated; recurrent, meaning at least 3",
+    "Isolated; recurrent, meaning at least 2",
+    "Recurrent; isolated, meaning a single loss",
+    "Recurrent; isolated, meaning at least 5"
    ],
-   "ans": 3,
-   "exp": "In the source flowchart spontaneous abortion is subdivided into an isolated single episode and recurrent abortion with at least 3 abortions. (Book p418)"
+   "ans": 0,
+   "exp": "In the source flowchart spontaneous abortion is subdivided into an isolated single episode and recurrent abortion with at least 3 abortions. (Book p418)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-006",
    "sec": "Types of abortion",
    "page": 418,
-   "q": "Which category describes an abortion induced medically?",
+   "q": "Fill up: An abortion that is induced medically is termed ______.",
    "opts": [
     "Medical termination of pregnancy",
     "Threatened abortion",
@@ -487,21 +492,23 @@
     "Missed abortion"
    ],
    "ans": 0,
-   "exp": "Induced abortion is medical termination of pregnancy. (Book p418)"
+   "exp": "Induced abortion is medical termination of pregnancy. (Book p418)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-007",
    "sec": "Septic abortion",
    "page": 418,
-   "q": "What makes any abortion a septic abortion?",
+   "q": "A woman who had a surgical evacuation four days ago now has fever, lower abdominal pain and an offensive vaginal discharge, and her os is open. Which feature makes this a septic abortion?",
    "opts": [
-    "Rh negativity alone",
-    "Presence of septic foci",
-    "An open internal os alone",
-    "Fetal cardiac activity alone"
+    "The presence of septic foci in association with the abortion",
+    "Rh negativity of the mother on its own",
+    "An open internal os by itself, without any infection",
+    "Fetal cardiac activity still seen on the scan"
    ],
-   "ans": 1,
-   "exp": "Any abortion with septic foci is septic abortion. (Book p418)"
+   "ans": 0,
+   "exp": "Any abortion with septic foci is a septic abortion; neither Rh negativity, an open os alone nor fetal cardiac activity defines it. (Book p418)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C9-008",
@@ -522,99 +529,106 @@
    "id": "OBG-C9-009",
    "sec": "Isolated abortion",
    "page": 418,
-   "q": "What is the most common cause of isolated abortion in the first or second trimester?",
+   "q": "A 30-year-old woman has a single isolated first-trimester pregnancy loss. She has no history of thrombosis, no cervical surgery and no systemic disease. What is the most common cause of this kind of loss?",
    "opts": [
-    "APLA syndrome",
-    "Asymptomatic bacteriuria",
-    "Chromosomal anomaly",
-    "Cervical incompetence"
+    "A chromosomal anomaly, usually aneuploidy",
+    "Antiphospholipid antibody syndrome",
+    "Cervical incompetence",
+    "Asymptomatic bacteriuria"
    ],
-   "ans": 2,
-   "exp": "Chromosomal anomaly is the most common cause of isolated first- or second-trimester abortion. (Book p418)"
+   "ans": 0,
+   "exp": "Chromosomal anomaly is the most common cause of an isolated first- or second-trimester abortion, and aneuploidy is the most common category. (Book p418)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C9-010",
    "sec": "Chromosomal causes",
    "page": 418,
-   "q": "What is the most common category of chromosomal anomaly associated with isolated abortion?",
+   "q": "Which statement about chromosomal anomalies in isolated abortion is TRUE?",
    "opts": [
-    "Balanced translocation",
-    "Triploidy only",
-    "Mitochondrial mutation",
-    "Aneuploidy"
+    "Aneuploidy is the most common category",
+    "Balanced translocation is the most common category",
+    "Triploidy accounts for most isolated abortions",
+    "Mitochondrial mutations are the leading category"
    ],
-   "ans": 3,
-   "exp": "Aneuploidy is listed as the most common chromosomal anomaly. (Book p418)"
+   "ans": 0,
+   "exp": "Aneuploidy is listed as the most common chromosomal anomaly in isolated abortion. (Book p418)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-011",
    "sec": "Chromosomal causes",
    "page": 418,
-   "q": "Which sequence correctly ranks the listed common chromosomal abnormalities in isolated abortion?",
+   "q": "All of the following are listed chromosomal abnormalities in isolated abortion EXCEPT:",
    "opts": [
-    "Aneuploidy, then trisomy, then monosomy (Turner syndrome), then trisomy 16",
-    "Trisomy 16, then Turner, then aneuploidy",
-    "Balanced translocation, then trisomy 21, then triploidy",
-    "Monosomy, then euploidy, then trisomy"
+    "A mitochondrial DNA mutation",
+    "Aneuploidy",
+    "Monosomy, as in Turner syndrome",
+    "Trisomy 16"
    ],
    "ans": 0,
-   "exp": "The source order is aneuploidy > trisomy > monosomy (Turner) > trisomy 16. (Book p418)"
+   "exp": "The source order is aneuploidy, then trisomy, then monosomy (Turner syndrome), then trisomy 16; a mitochondrial mutation is not listed. (Book p418)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C9-012",
    "sec": "Isolated abortion risks",
    "page": 418,
-   "q": "Which history is a risk factor for isolated abortion?",
+   "q": "All of the following are listed causes or risk factors for isolated abortion EXCEPT:",
    "opts": [
-    "Daily walking",
-    "Previous abortion",
-    "Normal fetal echo",
-    "Rh-negative father alone"
+    "Daily walking during pregnancy",
+    "A previous history of abortion",
+    "Increasing maternal age",
+    "A chromosomal anomaly"
    ],
-   "ans": 1,
-   "exp": "Previous history of abortion is a listed risk factor. (Book p418)"
+   "ans": 0,
+   "exp": "Listed risk factors are a previous abortion and increasing maternal age, with chromosomal anomaly the commonest cause; daily walking is not a risk factor. (Book p418)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C9-013",
    "sec": "Isolated abortion risks",
    "page": 418,
-   "q": "How does maternal age affect isolated-abortion risk?",
+   "q": "Which statement about maternal age and isolated abortion is TRUE?",
    "opts": [
-    "It has no effect",
-    "Only paternal age matters",
-    "Risk increases with maternal age",
-    "Risk decreases to zero after age 35"
+    "The risk of isolated abortion increases with maternal age",
+    "Maternal age has no effect on the risk of isolated abortion",
+    "Only paternal age affects the risk of isolated abortion",
+    "The risk falls to zero after the age of 35 years"
    ],
-   "ans": 2,
-   "exp": "Increasing maternal age is a listed risk factor. (Book p418)"
+   "ans": 0,
+   "exp": "Increasing maternal age is a listed risk factor for isolated abortion. (Book p418)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-014",
    "sec": "Infection and abortion",
    "page": 418,
-   "q": "What is the source-note relationship between infection and recurrent abortion?",
+   "q": "Which statement about infection and recurrent abortion is TRUE?",
    "opts": [
-    "All infections are the most common recurrent cause",
-    "TORCH always proves recurrent abortion",
-    "VDRL is mandatory in all recurrent loss",
-    "Infections do not cause recurrent abortion"
+    "Infections do not cause recurrent abortion",
+    "All infections are the commonest cause of recurrent abortion",
+    "TORCH serology always proves a diagnosis of recurrent abortion",
+    "VDRL testing is mandatory in every case of recurrent loss"
    ],
-   "ans": 3,
-   "exp": "The notes state infections do not cause recurrent abortion. (Book p418)"
+   "ans": 0,
+   "exp": "The notes state that infections do not cause recurrent abortion. (Book p418)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-015",
    "sec": "Congenital syphilis",
    "page": 418,
-   "q": "What is the stated pregnancy-outcome pattern for congenital syphilis?",
+   "q": "Fill up: In congenital syphilis the pregnancy prognosis follows ______ law, improving as the number of pregnancies ______.",
    "opts": [
-    "It follows Kassowitz law; prognosis improves with increasing pregnancies",
-    "It always causes recurrent first-trimester abortion only",
-    "It cannot affect pregnancy outcome",
-    "It is a teratogen but not abortogenic"
+    "Kassowitz; increases",
+    "Kassowitz; decreases",
+    "Colles; remains the same",
+    "Profeta; falls with maternal age"
    ],
    "ans": 0,
-   "exp": "Kassowitz law states pregnancy prognosis is proportional to number of pregnancies in syphilis; stillbirth is more characteristic. (Book p418)"
+   "exp": "Kassowitz law states that the pregnancy prognosis is proportional to the number of pregnancies in syphilis; stillbirth is more common than abortion. (Book p418)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-016",
@@ -635,57 +649,61 @@
    "id": "OBG-C9-017",
    "sec": "Chromosomal causes",
    "page": 419,
-   "q": "Which trisomy is described as most lethal?",
+   "q": "Fill up: The most lethal trisomy is trisomy ______, while the most viable is trisomy ______.",
    "opts": [
-    "Trisomy 16",
-    "Trisomy 21",
-    "Trisomy 18",
-    "Trisomy 13"
+    "16; 21",
+    "21; 16",
+    "18; 21",
+    "16; 13"
    ],
    "ans": 0,
-   "exp": "Trisomy 16 is the most lethal in the note. (Book p419)"
+   "exp": "Trisomy 16 is the most lethal in the note, and trisomy 21 is the most viable, with abortion its most common outcome. (Book p419)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-018",
    "sec": "Chromosomal causes",
    "page": 419,
-   "q": "Which trisomy is described as the most viable and has abortion as its most common outcome?",
+   "q": "A 38-year-old woman has a second-trimester loss and products of conception are sent for karyotyping, which returns trisomy 21. How is this trisomy described in the notes?",
    "opts": [
-    "Trisomy 18",
-    "Trisomy 21",
-    "Trisomy 16",
-    "Trisomy 13"
+    "The most viable, with abortion as its commonest outcome",
+    "The most lethal of all the autosomal trisomies",
+    "Incompatible with implantation, so never seen in losses",
+    "Always inherited from a parental balanced translocation"
    ],
-   "ans": 1,
-   "exp": "Trisomy 21 is the most viable; abortion is its most common outcome in the notes. (Book p419)"
+   "ans": 0,
+   "exp": "Trisomy 21 is the most viable trisomy and abortion is its most common outcome; trisomy 16 is the most lethal. (Book p419)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C9-019",
    "sec": "HIV and pregnancy loss",
    "page": 419,
-   "q": "What is the stated effect of HIV on abortion and teratogenicity?",
+   "q": "Which statement about HIV and pregnancy loss is TRUE?",
    "opts": [
-    "It is only teratogenic",
-    "It is only abortogenic",
-    "It is neither abortogenic nor teratogenic",
-    "It is both always abortogenic and teratogenic"
+    "HIV is neither abortogenic nor teratogenic",
+    "HIV is abortogenic but not teratogenic",
+    "HIV is teratogenic but not abortogenic",
+    "HIV is always both abortogenic and teratogenic"
    ],
-   "ans": 2,
-   "exp": "The source explicitly states HIV is neither abortogenic nor teratogenic. (Book p419)"
+   "ans": 0,
+   "exp": "The source explicitly states that HIV is neither abortogenic nor teratogenic. (Book p419)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-020",
    "sec": "Recurrent abortion",
    "page": 419,
-   "q": "How is recurrent abortion defined in the source notes?",
+   "q": "Fill up: Recurrent abortion is defined as at least ______ consecutive pregnancy losses before ______ weeks.",
    "opts": [
-    "At least 2 nonconsecutive losses at any gestation",
-    "Any one loss before 28 weeks",
-    "At least 5 losses after 20 weeks",
-    "At least 3 consecutive pregnancy losses before 20 weeks"
+    "3; 20",
+    "2; 20",
+    "3; 28",
+    "5; 12"
    ],
-   "ans": 3,
-   "exp": "Recurrent abortion is at least 3 consecutive losses before 20 weeks. (Book p419)"
+   "ans": 0,
+   "exp": "Recurrent abortion is at least 3 consecutive pregnancy losses before 20 weeks. (Book p419)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-021",

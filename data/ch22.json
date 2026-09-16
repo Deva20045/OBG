@@ -15,21 +15,23 @@
     "About 10% at 28 weeks, 3% at 34 weeks and 1% at term after routine version"
    ],
    "ans": 0,
-   "exp": "Breech is common early and uncommon at term because most babies turn by themselves as gestation advances. (Book p550)"
+   "exp": "Breech is common early and uncommon at term because most babies turn by themselves as gestation advances. (Book p550)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C22-002",
    "sec": "Breech: features, incidence, causes & types",
    "page": 550,
-   "q": "M/c cause of breech overall and of recurrent breech:",
+   "q": "Fill up: The commonest cause of breech overall is ______, and of recurrent breech is ______.",
    "opts": [
-    "Prematurity, since spontaneous rotation has not yet occurred; uterine malformation",
-    "Uterine malformation; prematurity, since spontaneous rotation has not yet occurred",
-    "Placenta previa preventing engagement; uterine fibroids distorting the cavity",
-    "Oligohydramnios limiting movement; multiple pregnancy crowding the cavity"
+    "Prematurity; uterine malformation",
+    "Uterine malformation; prematurity",
+    "Placenta previa; uterine fibroids",
+    "Oligohydramnios; multiple pregnancy"
    ],
    "ans": 0,
-   "exp": "The commonest cause of breech overall is prematurity (spontaneous rotation has not yet occurred) and of recurrent breech is uterine malformation. (Book p550)"
+   "exp": "The commonest cause of breech overall is prematurity, since spontaneous rotation has not yet occurred, and of recurrent breech is uterine malformation. (Book p550)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C22-003",
@@ -43,49 +45,53 @@
     "Hips extended, knees flexed : hips flexed, knees extended : hips and knees flexed : hips and knees extended"
    ],
    "ans": 0,
-   "exp": "Complete: hips + knees flexed; frank: hips flexed/knees extended; knee: hips extended/knees flexed; footling: both extended. (Book p550)"
+   "exp": "Complete: hips + knees flexed; frank: hips flexed/knees extended; knee: hips extended/knees flexed; footling: both extended. (Book p550)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C22-004",
    "sec": "Breech: features, incidence, causes & types",
    "page": 550,
-   "q": "Structures felt on vaginal examination — complete breech : frank breech : knee : footling.",
+   "q": "Match the breech type with what is felt on vaginal examination — 1) Complete breech 2) Frank breech 3) Knee presentation 4) Footling breech … A) Anus and ischial tuberosities B) Heel, anus and ischial tuberosities C) Feet D) Knees",
    "opts": [
-    "Complete: heel, anus and ischial tuberosities — frank: anus and tuberosities — knee: knees — footling: feet",
-    "Complete: feet only — frank: knees — knee: heel and anus — footling: anus and tuberosities",
-    "Complete: anus only — frank: feet — knee: heel — footling: knees",
-    "Complete: sacrum and anus — frank: feet — knee: anus — footling: knees"
+    "1-B, 2-A, 3-D, 4-C",
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-C, 3-D, 4-A",
+    "1-D, 2-A, 3-B, 4-C"
    ],
    "ans": 0,
-   "exp": "The more the legs are extended, the less is felt: complete breech gives heel, anus and tuberosities, footling breech gives only the feet. (Book p550)"
+   "exp": "The more the legs are extended, the less is felt: complete breech gives the heel, anus and tuberosities, frank breech the anus and tuberosities, knee presentation the knees, and footling breech the feet. (Book p550)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C22-005",
    "sec": "Breech: features, incidence, causes & types",
    "page": 550,
-   "q": "Occurrence – complete breech : frank breech.",
+   "q": "Fill up: Complete breech is the ______ common breech overall, but the commonest breech in a ______.",
    "opts": [
-    "Least common breech overall, commonest in multigravida : commonest overall and in primigravida",
-    "Commonest breech overall : the least common breech variety",
-    "Commonest in primigravida : commonest in multigravida",
-    "Both occur with equal frequency in all parities"
+    "Least; multigravida",
+    "Most; primigravida",
+    "Least; primigravida",
+    "Most; multigravida"
    ],
    "ans": 0,
-   "exp": "Complete breech is the least common breech overall and the commonest in multigravida; frank breech is the commonest overall and in primigravida. (Book p550)"
+   "exp": "Complete breech is the least common breech overall and the commonest in a multigravida; frank breech is the commonest overall and in a primigravida. (Book p550)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C22-006",
    "sec": "Breech: features, incidence, causes & types",
    "page": 550,
-   "q": "Risk of cord prolapse across breech types:",
+   "q": "Which statement about cord-prolapse risk in breech is TRUE?",
    "opts": [
-    "Frank breech lowest, complete breech low, knee presentation higher and footling highest",
-    "Frank breech highest, complete breech next, knee lower and footling presentation lowest",
-    "The risk of cord prolapse is identical for all four types of breech presentation",
-    "Complete breech highest, footling next, knee lower and frank breech lowest"
+    "Risk rises as the presenting part fits the cervix less well, so frank is lowest and footling highest",
+    "The risk of cord prolapse is identical for all four types of breech",
+    "Frank breech carries the highest risk and footling breech the lowest",
+    "Complete breech carries the highest risk and frank breech the lowest"
    ],
    "ans": 0,
-   "exp": "Cord prolapse risk rises as the presenting part fits the cervix less well: frank breech is snug, footling breech is not. (Book p550)"
+   "exp": "Cord prolapse risk rises as the presenting part fits the cervix less well: frank breech is snug and lowest, complete is low, knee is higher and footling is highest. (Book p550)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C22-007",
@@ -106,57 +112,61 @@
    "id": "OBG-C22-008",
    "sec": "Breech: features, incidence, causes & types",
    "page": 551,
-   "q": "Overall ranking of cord prolapse risk and the m/c position in breech:",
+   "q": "Fill up: Overall cord-prolapse risk ranks ______ above footling breech above knee presentation, and the commonest breech position is ______.",
    "opts": [
-    "Transverse lie > footling breech > knee presentation; dorso-anterior",
-    "Footling > transverse > frank; dorso-posterior",
-    "Knee > footling > transverse; sacro-posterior",
-    "Frank > complete > footling; LSA"
+    "Transverse lie; dorso-anterior",
+    "Footling breech; dorso-posterior",
+    "Knee presentation; sacro-posterior",
+    "Frank breech; left sacro-anterior"
    ],
    "ans": 0,
-   "exp": "Cord prolapse: transverse lie > footling > knee; m/c breech position dorso-anterior. (Book p551)"
+   "exp": "Cord prolapse risk ranks transverse lie above footling breech above knee presentation, and the commonest breech position is dorso-anterior. (Book p551)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C22-009",
    "sec": "Management of breech: USG, ECV & mode of delivery",
    "page": 551,
-   "q": "USG in breech is used to confirm diagnosis, assess type (rule out ECV C/I) and to rule out:",
+   "q": "A woman at 38 weeks is found to have a breech presentation and external cephalic version is being considered. What must ultrasound rule out before the version is attempted?",
    "opts": [
-    "Gross congenital anomalies, hyperextension of the fetal neck and an estimated fetal weight at or above 4 kg",
-    "Placenta previa, oligohydramnios and a single loop of cord around the fetal neck",
-    "Cord presentation, vasa previa and a velamentous insertion of the umbilical cord",
+    "Gross congenital anomalies, hyperextension of the fetal neck and a weight of 4 kg or more",
+    "Placenta previa, oligohydramnios and a single loop of cord",
+    "Cord presentation, vasa previa and a velamentous insertion",
     "Fetal hydrocephalus, duodenal atresia and bilateral renal agenesis"
    ],
    "ans": 0,
-   "exp": "Ultrasound looks for the three findings that contraindicate external cephalic version: anomalies, a stargazer neck and a heavy fetus. (Book p551)"
+   "exp": "Ultrasound looks for the three findings that contraindicate external cephalic version: gross anomalies, a stargazer (hyperextended) neck and an estimated fetal weight of 4 kg or more. (Book p551)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C22-010",
    "sec": "Management of breech: USG, ECV & mode of delivery",
    "page": 551,
-   "q": "ECV flowchart for breech at term with no C/I (done in OPD at >37 weeks) – successful : unsuccessful : fetal distress.",
+   "q": "A woman at 38 weeks with an uncomplicated breech has an external cephalic version in the OPD. The version succeeds and the cardiotocograph afterwards is reassuring. What happens next?",
    "opts": [
-    "Successful: send her home to await labour — unsuccessful: a second attempt, else elective caesarean — fetal distress: stop and deliver",
-    "Successful: induce labour immediately — unsuccessful: caesarean section — fetal distress: continue the attempt",
-    "Successful: caesarean at 39 weeks — unsuccessful: retry later the same day — fetal distress: give oxytocin",
-    "Successful: send her home — unsuccessful: caesarean at 37 weeks — fetal distress: retry the version"
+    "Send her home to await spontaneous labour; labour is not induced",
+    "Induce labour immediately with an oxytocin infusion",
+    "Book an elective caesarean section for 39 weeks regardless",
+    "Repeat the version later the same day to confirm it holds"
    ],
    "ans": 0,
-   "exp": "After a successful version the woman goes home to labour; a failed attempt is retried, and any fetal distress ends the procedure. (Book p551)"
+   "exp": "After a successful version the woman goes home to labour and is not induced; a failed attempt is retried, and any fetal distress ends the attempt and prompts delivery. (Book p551)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C22-011",
    "sec": "Management of breech: USG, ECV & mode of delivery",
    "page": 551,
-   "q": "Modes of delivery in breech and preference:",
+   "q": "Which statement about the mode of delivery in breech is TRUE?",
    "opts": [
-    "Caesarean section >> assisted breech delivery",
-    "Assisted breech >> C-section",
-    "Breech extraction >> C-section",
-    "Equal preference"
+    "Caesarean section is strongly preferred over assisted breech delivery",
+    "Assisted breech delivery is strongly preferred over caesarean section",
+    "Breech extraction is the preferred mode of delivery in all cases",
+    "Caesarean section and assisted breech delivery are equally preferred"
    ],
    "ans": 0,
-   "exp": "C-section is strongly preferred over assisted breech delivery. (Book p551)"
+   "exp": "Caesarean section is strongly preferred over assisted breech delivery in breech presentation. (Book p551)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C22-012",
@@ -185,21 +195,23 @@
     "PIH/placenta previa, breech score ≤3, protracted active phase (treated as CPD)"
    ],
    "ans": 0,
-   "exp": "Primigravida with breech is a relative indication; the others are absolute. (Book p552)"
+   "exp": "Primigravida with breech is a relative indication; the others are absolute. (Book p552)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C22-014",
    "sec": "Management of breech: USG, ECV & mode of delivery",
    "page": 552,
-   "q": "Protracted active phase (delay in 1st/2nd stage) in a breech is considered as ______ and managed by ______.",
+   "q": "Fill up: In breech labour, a protracted active phase is treated as ______ and is managed by ______.",
    "opts": [
-    "CPD; immediate C-section",
-    "Normal; oxytocin",
-    "Malposition; wait",
-    "Uterine inertia; ARM"
+    "CPD; immediate caesarean section",
+    "Normal progress; oxytocin augmentation",
+    "Malposition; expectant waiting",
+    "Uterine inertia; artificial rupture of membranes"
    ],
    "ans": 0,
-   "exp": "Delay in breech labour = CPD → immediate C-section. (Book p552)"
+   "exp": "Delay in the first or second stage of breech labour is treated as cephalopelvic disproportion and managed by immediate caesarean section. (Book p552)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C22-015",

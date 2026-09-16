@@ -60,6 +60,26 @@ Every unit now contains at least one non-recall item. Fill-ups appear in 113
 units, matching in 71, scenarios in 54, odd-one-out in 54 and true/false in 50.
 New items are tagged with a `fmt` field so the mix is measured, not guessed.
 
+**1b. Format mix — 97 items converted into the requested formats (ongoing)**
+
+The bank grew by 342 items in the first pass, but 87% of the questions still
+carried no format tag at all: they were plain four-option recall. Work is now
+underway to convert those into the five requested formats, tagging each one.
+
+| Format | Items | Share of bank |
+|---|---|---|
+| Untagged plain recall | 2,271 | 83.8% (was 87.4%) |
+| Fill in the blanks | 142 | 5.2% |
+| Match the following | 88 | 3.2% |
+| Odd one out | 70 | 2.6% |
+| Clinical scenario | 70 | 2.6% |
+| True / false | 69 | 2.5% |
+
+By the auditor's text classification, which also credits untagged items whose
+phrasing already matches a format, recall has fallen from 67.3% to **64.6%**,
+with scenarios 3.7% → 4.3%, match 2.6% → 3.2%, true/false 2.5% → 3.0% and
+fill-ups 8.7% → 9.6%.
+
 **2. Predictability — de-biased 514 items whose answer gave itself away**
 
 * All **78** items where the answer was ≥4× the longest distractor rewritten.

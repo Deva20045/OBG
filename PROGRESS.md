@@ -276,6 +276,23 @@ lives in `AUDIT.md`; the headline numbers are:
   4, 21), rewritten by hand since bulk automated trimming would damage good
   items.
 
+### Format conversion (in progress)
+
+- **97 recall items converted** into the five requested formats and tagged with
+  an explicit `fmt` (patches/fmt_a, fmt_b, fmt_c): fill-ups, match-the-following,
+  odd-one-out, true/false and clinical scenarios, drawn from chapters 7, 8, 9,
+  10, 12, 19, 20 and 22. Content and book citations are unchanged; only the
+  question shape moved.
+- Tagged items rose from 342 to **439**; untagged plain recall fell from 2,368
+  to **2,271** (87.4% to 83.8% of the bank).
+- Clusters of related facts became match items (proteinuria thresholds, APH
+  causes, breech types), isolated facts became fill-ups, and management
+  questions became scenarios.
+- **Content bug fixed**: OBG-C12-016 marked 20 and 24 weeks as the best timing
+  for the placenta-previa ultrasound while its own explanation said 32 and 36
+  weeks. The answer key now points at 32 and 36 weeks, which is also consistent
+  with the neighbouring item on third-trimester placental migration.
+
 **Guard rails**
 - `check_integrity.py` now fails when an answer can be guessed from option
   length (≥3.5×), when a unit has no varied-format item, or when a format tag is

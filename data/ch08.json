@@ -574,99 +574,106 @@
    "id": "OBG-C8-001",
    "sec": "Eclampsia delivery",
    "page": 402,
-   "q": "What mode of delivery is generally preferred in eclampsia after stabilization?",
+   "q": "Match the delivery plan in eclampsia with what the source says about it — 1) Mode generally preferred 2) Caesarean section 3) Anaesthesia written for delivery … A) General anaesthesia B) Only for an obstetric indication C) Vaginal delivery",
    "opts": [
-    "Cesarean delivery for every case",
-    "Operative vaginal delivery for every case",
-    "Delivery is contraindicated",
-    "Vaginal delivery"
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C"
    ],
-   "ans": 3,
-   "exp": "The source lists vaginal delivery as the usual mode; cesarean is for an obstetric indication. (Book p402)"
+   "ans": 0,
+   "exp": "After stabilisation vaginal delivery is generally preferred, caesarean is indicated only for an obstetric indication, and the p402 note lists general anaesthesia. (Book p402)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C8-002",
    "sec": "Eclampsia delivery",
    "page": 402,
-   "q": "When is cesarean section indicated in eclampsia according to the notes?",
+   "q": "Fill up: In eclampsia, caesarean section is indicated ______.",
    "opts": [
     "Only for an obstetric indication",
-    "In every woman with a seizure",
-    "Only because of proteinuria",
-    "Never"
+    "In every woman who has had a seizure",
+    "On the basis of proteinuria alone",
+    "Never, whatever the obstetric indication"
    ],
    "ans": 0,
-   "exp": "Cesarean section is indicated only for an obstetric indication. (Book p402)"
+   "exp": "Cesarean section is indicated only for an obstetric indication, not merely because a seizure has occurred. (Book p402)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-003",
    "sec": "Eclampsia delivery",
    "page": 402,
-   "q": "Which anesthetic approach is written for eclampsia delivery on this page?",
+   "q": "Which statement about anaesthesia for delivery in eclampsia is TRUE?",
    "opts": [
-    "Spinal anesthesia is mandatory in every case",
-    "General anesthesia",
-    "No anesthesia",
-    "Local perineal anesthesia only"
+    "The p402 eclampsia delivery note lists general anaesthesia",
+    "Spinal anaesthesia is mandatory in every case of eclampsia",
+    "No anaesthesia should be given during delivery in eclampsia",
+    "Local perineal infiltration alone is the recommended technique"
    ],
-   "ans": 1,
-   "exp": "The p402 eclampsia delivery note lists general anesthesia. (Book p402)"
+   "ans": 0,
+   "exp": "The p402 eclampsia delivery note lists general anaesthesia. (Book p402)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-004",
    "sec": "Impending eclampsia",
    "page": 402,
-   "q": "In which pre-eclampsia population is impending eclampsia seen?",
+   "q": "Fill up: Impending eclampsia is seen in patients with ______ pre-eclampsia.",
    "opts": [
-    "Chronic HTN without pregnancy",
-    "Physiological gestational edema",
-    "Severe pre-eclampsia",
-    "Mild PE without severe features only"
+    "Severe",
+    "Mild",
+    "Chronic hypertension outside pregnancy",
+    "Physiological gestational edema"
    ],
-   "ans": 2,
-   "exp": "Impending eclampsia is seen in patients with severe pre-eclampsia. (Book p402)"
+   "ans": 0,
+   "exp": "Impending eclampsia is seen in patients with severe pre-eclampsia. (Book p402)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-005",
    "sec": "Impending eclampsia",
    "page": 402,
-   "q": "What is the most common warning symptom of impending eclampsia listed, with its approximate frequency?",
+   "q": "Fill up: The commonest warning symptom of impending eclampsia is a severe ______, present in about ______ of cases.",
    "opts": [
-    "Fever, about 70%",
-    "Painless bleeding, about 70%",
-    "Cough, about 70%",
-    "Severe headache, about 70%"
+    "Headache; 70%",
+    "Headache; 10-15%",
+    "Epigastric pain; 70%",
+    "Visual loss; 70%"
    ],
-   "ans": 3,
-   "exp": "Severe headache is the most common stated symptom, occurring in about 70%. (Book p402)"
+   "ans": 0,
+   "exp": "Severe headache is the most common stated symptom of impending eclampsia, occurring in about 70%. (Book p402)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-006",
    "sec": "Impending eclampsia",
    "page": 402,
-   "q": "What is the suggested cause of epigastric pain in impending eclampsia?",
+   "q": "All of the following are recognised features of impending eclampsia EXCEPT:",
    "opts": [
-    "Subcapsular hematoma",
-    "Appendicitis",
-    "Hyperemesis alone",
-    "Ureteric stone"
+    "Painless vaginal bleeding",
+    "Severe headache",
+    "Epigastric pain from subcapsular hematoma",
+    "Visual disturbances such as scotoma"
    ],
    "ans": 0,
-   "exp": "Epigastric pain is attributed to a subcapsular hematoma. (Book p402)"
+   "exp": "Impending eclampsia features severe headache, epigastric pain from subcapsular hematoma and visual disturbances; painless vaginal bleeding suggests placenta previa instead. (Book p402)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C8-007",
    "sec": "Impending eclampsia management",
    "page": 402,
-   "q": "What is the correct sequence of management for impending eclampsia?",
+   "q": "A woman with severe pre-eclampsia at 32 weeks develops a severe headache and epigastric pain, and her blood pressure is 170/115 mmHg. What is the correct sequence of management?",
    "opts": [
-    "Insulin, then fetal echocardiography",
-    "Magnesium sulfate, antihypertensives, then termination after stabilization",
-    "Immediate discharge, then aspirin at 36 weeks",
-    "Salt restriction, then bed rest only"
+    "Magnesium sulfate, then antihypertensives, then delivery once stabilised",
+    "Immediate caesarean section before any anticonvulsant is given",
+    "Salt restriction and bed rest, with delivery planned at 36 weeks",
+    "Insulin and fetal echocardiography, with delivery left until term"
    ],
-   "ans": 1,
-   "exp": "MgSO4 prevents seizures, antihypertensives treat BP, and pregnancy is terminated after stabilization regardless of gestation. (Book p402)"
+   "ans": 0,
+   "exp": "MgSO4 prevents seizures, antihypertensives treat the blood pressure, and the pregnancy is terminated after stabilisation regardless of gestation. (Book p402)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C8-008",
@@ -687,71 +694,76 @@
    "id": "OBG-C8-009",
    "sec": "Visual symptoms in PE",
    "page": 402,
-   "q": "Which visual change is recognized as a pre-eclampsia visual disturbance?",
+   "q": "All of the following are recognised visual disturbances of pre-eclampsia EXCEPT:",
    "opts": [
-    "Dysphagia",
-    "Galactorrhea",
+    "Hearing loss from eighth-nerve involvement",
     "Scotoma",
-    "Hearing loss only"
+    "Diplopia",
+    "Blurred vision"
    ],
-   "ans": 2,
-   "exp": "Blurred vision, scotoma, diplopia, and blindness are listed visual disturbances. (Book p402)"
+   "ans": 0,
+   "exp": "Blurred vision, scotoma, diplopia and blindness are the listed visual disturbances; hearing loss is not one of them. (Book p402)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C8-010",
    "sec": "Visual symptoms in PE",
    "page": 402,
-   "q": "How common is blindness in severe pre-eclampsia according to the notes?",
+   "q": "Fill up: Blindness is listed in about ______ of severe pre-eclampsia cases.",
    "opts": [
-    "About 80–90% of all pregnancies",
-    "Less than 0.01% by definition",
-    "It never occurs",
-    "About 10–15% of severe PE cases"
+    "10-15%",
+    "80-90%",
+    "Under 0.01%",
+    "50-60%"
    ],
-   "ans": 3,
-   "exp": "Blindness is listed in 10–15% of severe pre-eclampsia cases. (Book p402)"
+   "ans": 0,
+   "exp": "Blindness is listed in 10-15% of severe pre-eclampsia cases. (Book p402)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-011",
    "sec": "Visual symptoms in PE",
    "page": 402,
-   "q": "What is the usual prognosis of blindness associated with severe pre-eclampsia?",
+   "q": "All of the following are listed causes of visual loss in severe pre-eclampsia EXCEPT:",
    "opts": [
-    "Usually reversible",
-    "Always permanent",
-    "Always due to glaucoma",
-    "Unrelated to pregnancy"
+    "Cataract from premature lens opacification",
+    "Occipital blindness",
+    "Retinal artery occlusion",
+    "Retinal detachment"
    ],
    "ans": 0,
-   "exp": "Blindness in severe PE is usually reversible. (Book p402)"
+   "exp": "Listed causes are occipital blindness, retinal artery occlusion and retinal detachment; cataract is not among them. (Book p402)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C8-012",
    "sec": "Visual symptoms in PE",
    "page": 402,
-   "q": "Which condition is an exception that can make PE-associated blindness irreversible?",
+   "q": "Which statement about blindness in severe pre-eclampsia is TRUE?",
    "opts": [
-    "Normal retinal examination",
-    "Retinal artery occlusion or retinal detachment",
-    "A mild headache relieved by medication",
-    "Physiological myopia"
+    "It is usually reversible, except with retinal artery occlusion or detachment",
+    "It is always permanent once vision has been lost",
+    "It never occurs in severe pre-eclampsia",
+    "It is unrelated to pregnancy and needs no specific care"
    ],
-   "ans": 1,
-   "exp": "Retinal-artery occlusion or retinal detachment are listed exceptions to reversibility. (Book p402)"
+   "ans": 0,
+   "exp": "Blindness in severe PE is usually reversible; retinal-artery occlusion or retinal detachment are listed exceptions to reversibility. (Book p402)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-013",
    "sec": "Visual symptoms in PE",
    "page": 402,
-   "q": "Which cause of visual loss is also called amaurosis fugax in the notes?",
+   "q": "Match the visual-loss term with what it refers to — 1) Amaurosis fugax 2) Purtscher retinopathy 3) Hypertensive retinopathy classification … A) Retinal infarction B) Occipital blindness C) Keith-Wagener classification",
    "opts": [
-    "Retinal infarction",
-    "Papilledema",
-    "Occipital blindness",
-    "Cataract"
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
    ],
-   "ans": 2,
-   "exp": "Occipital blindness is labelled amaurosis fugax. (Book p402)"
+   "ans": 0,
+   "exp": "Occipital blindness is labelled amaurosis fugax, retinal infarction is termed Purtscher retinopathy, and hypertensive retinopathy uses the Keith-Wagener classification. (Book p402)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C8-014",
@@ -771,15 +783,16 @@
    "id": "OBG-C8-015",
    "sec": "Hypertensive retinopathy",
    "page": 402,
-   "q": "Which classification is used for hypertensive retinopathy?",
+   "q": "Fill up: Hypertensive retinopathy is classified by the ______ classification.",
    "opts": [
-    "Keith–Wagener classification",
-    "Bishop classification",
-    "Mississippi classification",
-    "Priscilla White classification"
+    "Keith-Wagener",
+    "Bishop",
+    "Mississippi",
+    "Priscilla White"
    ],
    "ans": 0,
-   "exp": "Hypertensive retinopathy is classified by Keith–Wagener classification. (Book p402)"
+   "exp": "Hypertensive retinopathy is classified by the Keith-Wagener classification. (Book p402)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-016",
@@ -800,15 +813,16 @@
    "id": "OBG-C8-017",
    "sec": "Eclampsia and FHS",
    "page": 402,
-   "q": "After an eclamptic seizure, what should be checked first in the fetal-distress algorithm?",
+   "q": "A woman has an eclamptic seizure and the team has secured her airway and is controlling the fits. What should be checked first, and what must be ruled out if fetal distress persists?",
    "opts": [
-    "Amniotic-fluid bile acids",
-    "Fetal heart sound",
-    "Fetal blood group",
-    "Maternal HbA1c"
+    "Fetal heart sound first, then rule out abruptio placentae",
+    "Fetal blood group first, then rule out gestational diabetes",
+    "Amniotic fluid bile acids first, then rule out thyroid storm",
+    "Maternal HbA1c first, then rule out cervical incompetence"
    ],
-   "ans": 1,
-   "exp": "The stepwise algorithm first checks fetal heart sound. (Book p402)"
+   "ans": 0,
+   "exp": "The stepwise algorithm first checks the fetal heart sound; with persistent fetal distress the source directs clinicians to rule out abruptio placentae and consider caesarean. (Book p402)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C8-018",

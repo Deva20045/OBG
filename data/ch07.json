@@ -380,15 +380,16 @@
    "id": "OBG-C7-006",
    "sec": "PIH postpartum course",
    "page": 390,
-   "q": "Within what period after delivery does PIH usually normalize?",
+   "q": "Which statement about the postpartum course of pregnancy-induced hypertension is TRUE?",
    "opts": [
-    "Within 12 weeks",
-    "Within 12 hours",
-    "Within 48 hours only",
-    "Only after one year"
+    "Blood pressure usually normalises within 12 weeks of delivery",
+    "Blood pressure usually normalises within 48 hours of delivery",
+    "Hypertension persisting beyond 12 weeks is still called gestational hypertension",
+    "Blood pressure never returns to normal after pregnancy-induced hypertension"
    ],
    "ans": 0,
-   "exp": "PIH usually normalizes within 12 weeks of delivery. (Book p390)"
+   "exp": "PIH usually normalises within 12 weeks of delivery; a blood pressure still raised at 12 weeks postpartum is reclassified as chronic hypertension. (Book p390)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C7-007",
@@ -437,15 +438,16 @@
    "id": "OBG-C7-010",
    "sec": "Proteinuria",
    "page": 391,
-   "q": "What 24-hour urinary protein excretion establishes proteinuria in the notes?",
+   "q": "Match the proteinuria test with the threshold that makes it positive — 1) 24-hour urinary protein 2) Urine protein:creatinine ratio 3) Urine dipstick used for OPD screening … A) At least 300 mg per 24 hours B) At least 0.3 C) At least +1",
    "opts": [
-    "At least 3 g per 24 hours only",
-    "At least 1 g per week",
-    "At least 300 mg per 24 hours",
-    "At least 30 mg per 24 hours"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
    ],
-   "ans": 2,
-   "exp": "Proteinuria is ≥300 mg in 24 hours. (Book p391)"
+   "ans": 0,
+   "exp": "Proteinuria is 300 mg or more in 24 hours, a urine protein:creatinine ratio of 0.3 or more, and a dipstick of +1 or more for OPD screening; 24-hour urinary protein is the gold standard. (Book p391)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C7-011",
@@ -493,15 +495,16 @@
    "id": "OBG-C7-014",
    "sec": "End-organ damage",
    "page": 391,
-   "q": "Which platelet count is a severe-feature/end-organ-damage threshold in pre-eclampsia?",
+   "q": "Match the severe-feature test with its end-organ-damage threshold — 1) Platelet count 2) Serum creatinine 3) Hepatic transaminases … A) Below 1 lakh/mm³ B) At least 1.1 mg/dL C) At least twice the normal level",
    "opts": [
-    "Below 3 lakh/mm³ only",
-    "Below 10 lakh/mm³",
-    "Below 1 lakh/mm³",
-    "Above 4 lakh/mm³"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
    ],
-   "ans": 2,
-   "exp": "Platelet count below 1 lakh is a listed end-organ-damage criterion. (Book p391)"
+   "ans": 0,
+   "exp": "Severe features are a platelet count below 1 lakh/mm³, serum creatinine of 1.1 mg/dL or more, and transaminases at least twice normal. (Book p391)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C7-015",
@@ -549,15 +552,16 @@
    "id": "OBG-C7-018",
    "sec": "Superimposed pre-eclampsia",
    "page": 391,
-   "q": "When should chronic hypertension with superimposed pre-eclampsia be suspected?",
+   "q": "A 36-year-old with known chronic hypertension, previously well controlled on methyldopa, is now 28 weeks pregnant. Her blood pressure has become uncontrollable and she has developed new 2+ proteinuria. What is the diagnosis?",
    "opts": [
-    "If a normotensive woman is first seen at 8 weeks",
-    "When glucose is above 140 mg/dL",
-    "After 20 weeks, if uncontrollable BP, new proteinuria, or end-organ damage develops",
-    "When hypertension disappears after 12 weeks postpartum"
+    "Chronic hypertension with superimposed pre-eclampsia",
+    "Gestational hypertension alone, since she was hypertensive before",
+    "Transient hypertension of pregnancy, needing no treatment",
+    "Mild pre-eclampsia, which carries the best prognosis"
    ],
-   "ans": 2,
-   "exp": "Superimposed PE is chronic hypertension plus new, worsening features after 20 weeks and has a bad prognosis. (Book p391)"
+   "ans": 0,
+   "exp": "Superimposed pre-eclampsia is chronic hypertension with uncontrollable blood pressure, new proteinuria or end-organ damage after 20 weeks, and it carries a bad prognosis. (Book p391)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C7-019",
@@ -592,15 +596,16 @@
    "id": "OBG-C7-021",
    "sec": "Mild pre-eclampsia",
    "page": 392,
-   "q": "Which BP range defines mild pre-eclampsia in the notes?",
+   "q": "A 32-year-old primigravida at 34 weeks has a blood pressure of 150/100 mmHg with 2+ urine protein. Her platelets, creatinine and transaminases are normal and she has no headache or visual symptoms. How is this classified?",
    "opts": [
-    "Below 130/80 mmHg",
-    "160/110 mmHg or higher",
-    "Only systolic BP above 200 mmHg",
-    "140/90 to less than 160/110 mmHg"
+    "Mild pre-eclampsia, the pressure being 140/90 to under 160/110",
+    "Severe pre-eclampsia on the degree of proteinuria alone",
+    "Gestational hypertension, since no end-organ damage is present",
+    "Chronic hypertension with superimposed pre-eclampsia"
    ],
-   "ans": 3,
-   "exp": "Mild PE is BP ≥140/90 and <160/110 without severe features. (Book p392)"
+   "ans": 0,
+   "exp": "Mild pre-eclampsia is a blood pressure of 140/90 to under 160/110 mmHg without severe features; the degree of proteinuria does not differentiate mild from severe. (Book p392)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C7-022",
@@ -620,15 +625,16 @@
    "id": "OBG-C7-023",
    "sec": "Severity assessment",
    "page": 392,
-   "q": "Which finding does NOT differentiate mild from severe pre-eclampsia according to the notes?",
+   "q": "All of the following are listed as NON-differentiating between mild and severe pre-eclampsia EXCEPT:",
    "opts": [
-    "BP ≥160/110 mmHg",
-    "Degree of proteinuria",
-    "Presence of end-organ damage",
-    "Presence of impending-eclampsia symptoms"
+    "A blood pressure of 160/110 mmHg or higher",
+    "The degree of proteinuria",
+    "Oliguria",
+    "Intrauterine growth restriction"
    ],
-   "ans": 1,
-   "exp": "Degree of proteinuria is non-differentiating; BP and severe features determine severity. (Book p392)"
+   "ans": 0,
+   "exp": "The degree of proteinuria, oliguria and IUGR are all listed as non-differentiating; a blood pressure of 160/110 mmHg or higher does differentiate mild from severe pre-eclampsia. (Book p392)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C7-024",
@@ -662,57 +668,61 @@
    "id": "OBG-C7-026",
    "sec": "Pathological edema",
    "page": 392,
-   "q": "What feature makes edema pathological in pre-eclampsia?",
+   "q": "Which statement about edema in pre-eclampsia is TRUE?",
    "opts": [
-    "It does not subside with rest and involves dependent and non-dependent parts",
-    "It appears only after prolonged standing and resolves fully with rest",
-    "It is confined to one hand",
-    "It is always absent in PIH"
+    "Edema is pathological when it does not subside with rest and involves non-dependent parts",
+    "Edema is pathological only when it is confined to the ankles after standing",
+    "Any edema appearing in pregnancy is by definition a severe feature",
+    "Edema is always absent in pregnancy-induced hypertension"
    ],
    "ans": 0,
-   "exp": "Pathological edema does not improve with rest and is present in dependent and non-dependent parts. (Book p392)"
+   "exp": "Pathological edema does not improve with rest and is present in dependent and non-dependent parts, unlike physiological dependent edema which settles overnight. (Book p392)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C7-027",
    "sec": "Impending eclampsia",
    "page": 392,
-   "q": "Which headache suggests impending eclampsia?",
+   "q": "A woman with pre-eclampsia at 34 weeks reports a severe headache that has not responded to her usual analgesics, and her blood pressure is now 160/110 mmHg. Which feature is she showing?",
    "opts": [
-    "Headache exclusively before 12 weeks",
-    "A severe headache not relieved by usual medication",
-    "A brief mild headache relieved by rest",
-    "Only occipital pain after exercise"
+    "Impending eclampsia, from a severe headache unrelieved by usual medication",
+    "Migraine with aura, occurring independently of her pre-eclampsia",
+    "Cerebral venous thrombosis, needing immediate cranial imaging",
+    "The physiological headache of pregnancy, needing only reassurance"
    ],
-   "ans": 1,
-   "exp": "Impending eclampsia includes severe headache not relieved by usual medication. (Book p392)"
+   "ans": 0,
+   "exp": "Impending eclampsia includes a severe headache not relieved by usual medication, alongside visual symptoms and epigastric pain. (Book p392)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C7-028",
    "sec": "Impending eclampsia",
    "page": 392,
-   "q": "Epigastric pain in impending eclampsia is attributed to:",
+   "q": "Fill up: Epigastric pain in impending eclampsia is attributed to a ______ that is stretching the ______.",
    "opts": [
-    "Uterine contractions",
-    "Renal colic",
-    "Subcapsular hematoma stretching the liver capsule",
-    "Gastritis from iron tablets only"
+    "Subcapsular hematoma; liver capsule",
+    "Subcapsular hematoma; splenic capsule",
+    "Retroplacental clot; uterine serosa",
+    "Subcapsular hematoma; renal capsule"
    ],
-   "ans": 2,
-   "exp": "Epigastric pain reflects subcapsular hematoma and stretching of the liver capsule. (Book p392)"
+   "ans": 0,
+   "exp": "Epigastric pain reflects subcapsular hematoma and stretching of the liver capsule. (Book p392)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C7-029",
    "sec": "Impending eclampsia",
    "page": 392,
-   "q": "Which visual symptom should prompt concern for impending eclampsia?",
+   "q": "All of the following are listed visual warning symptoms of impending eclampsia EXCEPT:",
    "opts": [
-    "Only presbyopia",
-    "A painless red eye only",
-    "Improved night vision",
-    "Diplopia, blurring, scotoma, or blindness"
+    "Presbyopia alone, corrected by reading glasses",
+    "Diplopia",
+    "Blurring of vision",
+    "Scotoma or blindness"
    ],
-   "ans": 3,
-   "exp": "The source lists diplopia, blurred vision, scotoma, and blindness as warning symptoms. (Book p392)"
+   "ans": 0,
+   "exp": "The source lists diplopia, blurred vision, scotoma and blindness as warning symptoms of impending eclampsia; presbyopia alone is not one of them. (Book p392)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C7-030",
@@ -747,29 +757,31 @@
    "id": "OBG-C7-032",
    "sec": "PIH admission",
    "page": 392,
-   "q": "What is the stated disposition for all women with pre-eclampsia?",
+   "q": "Fill up: The notes state that all women with pre-eclampsia should be ______.",
    "opts": [
-    "Observe at home without tests",
-    "Admit them",
-    "Manage all on OPD only",
-    "Discharge after a single BP"
+    "Admitted",
+    "Observed at home without any tests",
+    "Managed on an OPD basis only",
+    "Discharged after a single blood-pressure reading"
    ],
-   "ans": 1,
-   "exp": "The notes state that all pre-eclampsia patients should be admitted. (Book p392)"
+   "ans": 0,
+   "exp": "The notes state that all pre-eclampsia patients should be admitted. (Book p392)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C7-033",
    "sec": "PIH investigations",
    "page": 392,
-   "q": "Which three investigations are emphasized as important in all pre-eclampsia patients?",
+   "q": "Which statement about the investigations emphasised in all pre-eclampsia patients is TRUE?",
    "opts": [
-    "Karyotype, TORCH, and VDRL",
-    "Serum bile acids, ICT, and OGTT",
-    "LFT, serum creatinine, and platelet count",
-    "TSH, calcium, and HbA1c"
+    "Liver function tests, serum creatinine and platelet count are the three highlighted tests",
+    "Karyotyping, TORCH serology and VDRL are the three highlighted tests",
+    "Serum bile acids, indirect Coombs test and OGTT are the three highlighted tests",
+    "Thyroid-stimulating hormone, calcium and HbA1c are the three highlighted tests"
    ],
-   "ans": 2,
-   "exp": "LFT, serum creatinine, and platelets are the three highlighted investigations. (Book p392)"
+   "ans": 0,
+   "exp": "LFT, serum creatinine and platelet count are the three investigations highlighted for every pre-eclampsia patient. (Book p392)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C7-034",
@@ -804,15 +816,16 @@
    "id": "OBG-C7-036",
    "sec": "Eclampsia timing",
    "page": 393,
-   "q": "Which type of eclampsia is most common and has the worst prognosis?",
+   "q": "A 26-year-old primigravida at 33 weeks with severe pre-eclampsia has a generalised tonic-clonic seizure before the onset of labour pain. Which type of eclampsia is this, and what is its prognosis?",
    "opts": [
-    "Intrapartum eclampsia",
-    "Postpartum eclampsia",
-    "Remote postpartum seizure at 6 months",
-    "Antepartum eclampsia"
+    "Antepartum eclampsia, the commonest type and the worst prognosis",
+    "Intrapartum eclampsia, the commonest type and the worst prognosis",
+    "Postpartum eclampsia, which is uncommon and has the best prognosis",
+    "Atypical eclampsia, needing anticonvulsants for six months"
    ],
-   "ans": 3,
-   "exp": "Antepartum eclampsia is the most common type and has the worst prognosis. (Book p393)"
+   "ans": 0,
+   "exp": "Antepartum eclampsia is the most common type and has the worst prognosis; postpartum eclampsia is within 48 hours of delivery and onset beyond 48 hours is atypical. (Book p393)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C7-037",

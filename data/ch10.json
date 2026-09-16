@@ -545,15 +545,16 @@
    "id": "OBG-C10-001",
    "sec": "Abortion methods",
    "page": 428,
-   "q": "Which first-trimester medical-abortion combination is listed?",
+   "q": "A 24-year-old woman with 7 weeks of amenorrhoea requests medical termination. She has no contraindications and is able to return for review. Which first-trimester regimen is listed?",
    "opts": [
-    "MgSO4 plus nifedipine",
-    "Mifepristone plus misoprostol",
-    "Methotrexate plus folinic acid",
-    "Insulin plus metformin"
+    "Mifepristone followed by misoprostol",
+    "Methotrexate followed by folinic acid",
+    "Magnesium sulfate with nifedipine",
+    "Insulin with metformin"
    ],
-   "ans": 1,
-   "exp": "First-trimester medical abortion uses mifepristone plus misoprostol. (Book p428)"
+   "ans": 0,
+   "exp": "First-trimester medical abortion uses mifepristone plus misoprostol, and is managed on an OPD basis. (Book p428)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C10-002",
@@ -699,15 +700,16 @@
    "id": "OBG-C10-012",
    "sec": "Hysterotomy",
    "page": 428,
-   "q": "What is a hysterotomy in the context of MTP?",
+   "q": "Which statement about hysterotomy is TRUE?",
    "opts": [
-    "Opening the uterus to remove products of conception",
-    "Closing the cervix with a cerclage",
-    "A test for fetal anemia",
-    "A type of ectopic pregnancy"
+    "Hysterotomy means opening the uterus to remove the products of conception",
+    "Hysterotomy is the procedure used to close the cervix with a cerclage stitch",
+    "Hysterotomy is a test performed to detect fetal anemia",
+    "Hysterotomy is a recognised variety of ectopic pregnancy"
    ],
    "ans": 0,
-   "exp": "Hysterotomy means opening the uterus to take out products of conception. (Book p428)"
+   "exp": "Hysterotomy means opening the uterus to take out products of conception. (Book p428)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-013",
@@ -728,15 +730,16 @@
    "id": "OBG-C10-014",
    "sec": "Medical abortion",
    "page": 428,
-   "q": "Up to what gestation is first-trimester medical abortion stated to be used?",
+   "q": "Fill up: First-trimester medical abortion is stated to be used up to ______ weeks, that is ______ days.",
    "opts": [
-    "Up to 28 weeks",
-    "Up to 9 weeks (63 days)",
-    "Up to 16 weeks",
-    "Up to 24 weeks"
+    "9; 63",
+    "7; 49",
+    "12; 84",
+    "16; 112"
    ],
-   "ans": 1,
-   "exp": "First-trimester medical abortion is used up to 9 weeks or 63 days. (Book p428)"
+   "ans": 0,
+   "exp": "First-trimester medical abortion is used up to 9 weeks, or 63 days. (Book p428)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-015",
@@ -756,15 +759,16 @@
    "id": "OBG-C10-016",
    "sec": "Medical abortion",
    "page": 428,
-   "q": "Which routes are listed for misoprostol?",
+   "q": "Fill up: Listed routes for misoprostol are ______, sublingual, per-vaginal and per-rectal.",
    "opts": [
-    "Only intramuscular",
-    "Only intravenous",
-    "Only intra-amniotic",
-    "Oral, sublingual, vaginal, or rectal"
+    "Oral",
+    "Intravenous",
+    "Intra-amniotic",
+    "Intramuscular"
    ],
-   "ans": 3,
-   "exp": "Misoprostol may be oral, sublingual, per-vaginal, or per-rectal. (Book p428)"
+   "ans": 0,
+   "exp": "Misoprostol may be given orally, sublingually, per vaginam or per rectum. (Book p428)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-017",
@@ -812,15 +816,16 @@
    "id": "OBG-C10-020",
    "sec": "Medical abortion protocol",
    "page": 428,
-   "q": "What is the day-1 drug and dose in the source medical-abortion protocol?",
+   "q": "Match the day of the medical-abortion protocol with what it involves — 1) Day 1 2) Day 3 3) Day 15 … A) Misoprostol 800 micrograms B) Mifepristone 200 mg as a single oral tablet C) Follow-up to confirm completion",
    "opts": [
-    "Misoprostol 800 micrograms vaginally",
-    "Methotrexate 50 mg/m² IM",
-    "Oxytocin 10 units IM",
-    "Mifepristone 200 mg as one oral tablet"
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B"
    ],
-   "ans": 3,
-   "exp": "Day 1 is a single 200-mg oral mifepristone tablet. (Book p428)"
+   "ans": 0,
+   "exp": "Day 1 is a single 200-mg oral mifepristone tablet, day 3 is misoprostol 800 micrograms (vaginal, then sublingual, then oral), and day 15 is follow-up to ensure complete abortion. (Book p428)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C10-021",
@@ -897,15 +902,16 @@
    "id": "OBG-C10-026",
    "sec": "Medical abortion ultrasound",
    "page": 428,
-   "q": "Is ultrasound routinely required in MTP?",
+   "q": "Which statement about ultrasound in medical termination of pregnancy is TRUE?",
    "opts": [
-    "No",
-    "Yes, in every case",
-    "Only after delivery",
-    "Only for anti-D dosing"
+    "Ultrasound is not routinely required in MTP",
+    "Ultrasound is mandatory in every case before MTP",
+    "Ultrasound is used only to calculate the anti-D dose",
+    "Ultrasound is required at every follow-up visit after MTP"
    ],
    "ans": 0,
-   "exp": "USG is not routinely required in MTP. (Book p428)"
+   "exp": "USG is not routinely required in MTP, but is indicated for uncertain LMP, a size not matching the period of gestation, abdominal pain, or continuous spotting with an open os on day 15. (Book p428)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-027",
@@ -953,15 +959,16 @@
    "id": "OBG-C10-030",
    "sec": "Medical abortion contraindications",
    "page": 429,
-   "q": "Which hemoglobin level is a contraindication to medical abortion in the notes?",
+   "q": "All of the following are listed contraindications to medical abortion EXCEPT:",
    "opts": [
-    "Above 12 g/dL",
-    "Exactly 10 g/dL",
-    "Above 15 g/dL",
-    "Below 8 g/dL"
+    "Rh-negative blood group on its own",
+    "Hemoglobin below 8 g/dL",
+    "Uncontrolled hypertension at or above 160/100 mmHg",
+    "Chronic adrenal failure"
    ],
-   "ans": 3,
-   "exp": "Hb below 8 g/dL is listed as a contraindication. (Book p429)"
+   "ans": 0,
+   "exp": "Listed contraindications include hemoglobin below 8 g/dL, uncontrolled hypertension of 160/100 mmHg or more, uncontrolled seizures, chronic adrenal failure and inability to comply with follow-up; Rh negativity alone is not one. (Book p429)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C10-031",

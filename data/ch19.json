@@ -15,49 +15,53 @@
     "Lung maturity; pelvis"
    ],
    "ans": 0,
-   "exp": "Labour = process by which a fetus after attaining the period of viability is expelled from the genital tract. (Book p512)"
+   "exp": "Labour = process by which a fetus after attaining the period of viability is expelled from the genital tract. (Book p512)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C19-002",
    "sec": "Definition, criteria & the four phases of labour",
    "page": 512,
-   "q": "Which set completes the five criteria for normal labour?",
+   "q": "All of the following are among the five criteria for normal labour EXCEPT:",
    "opts": [
-    "Spontaneous onset; term gestation (37–42 wks); vertex presentation; uncomplicated delivery; vaginal delivery",
-    "Induced onset; term; breech; forceps; vaginal",
-    "Spontaneous onset; any gestation; cephalic; C-section allowed; live birth",
-    "Spontaneous onset; term; vertex; epidural; instrumental allowed"
+    "Delivery by caesarean section if the labour becomes prolonged",
+    "Spontaneous onset of the labour",
+    "Term gestation, that is 37 to 42 completed weeks",
+    "Vertex presentation with an uncomplicated vaginal delivery"
    ],
    "ans": 0,
-   "exp": "Criteria: spontaneous onset, term gestation (37 to 42 wks), vertex presentation, uncomplicated delivery, vaginal delivery. (Book p512)"
+   "exp": "The five criteria are spontaneous onset, term gestation (37-42 weeks), vertex presentation, uncomplicated delivery and vaginal delivery. (Book p512)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C19-003",
    "sec": "Definition, criteria & the four phases of labour",
    "page": 512,
-   "q": "Phase 1 of labour (uterine quiescence) is characterised by:",
+   "q": "Match the phase of parturition with what characterises it — 1) Phase 1, uterine quiescence 2) Phase 2, myometrial activation 3) Phase 4 … A) The postpartum phase B) Unresponsive uterus, soft cervix, progesterone the main hormone C) Functional progesterone withdrawal with cervical ripening",
    "opts": [
-    "Unresponsive uterus, soft cervix, main hormone progesterone",
-    "Functional progesterone withdrawal and ↑ gap junctions",
-    "Active uterine contractions of all stages",
-    "Postpartum involution"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Phase 1: uterus unresponsive, cervix soft, main hormone progesterone. (Book p512)"
+   "exp": "Phase 1 is quiescence with an unresponsive uterus, soft cervix and progesterone dominant; phase 2 is activation with functional progesterone withdrawal, more oxytocin and prostaglandin receptors, more gap junctions and cervical ripening; phase 4 is the postpartum phase. (Book p512)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C19-004",
    "sec": "Definition, criteria & the four phases of labour",
    "page": 512,
-   "q": "Phase 2 (myometrial activation / preparatory phase) includes all EXCEPT:",
+   "q": "All of the following occur in phase 2 of parturition, the myometrial activation phase, EXCEPT:",
    "opts": [
-    "Rise in progesterone action",
-    "Functional withdrawal of progesterone and ↑ estrogen",
-    "↑ oxytocin and prostaglandin receptors and ↑ gap junctions",
-    "Ripening of cervix"
+    "A rise in progesterone action",
+    "Functional withdrawal of progesterone with a rise in estrogen",
+    "More oxytocin and prostaglandin receptors with more gap junctions",
+    "Ripening of the cervix"
    ],
    "ans": 0,
-   "exp": "Phase 2 = functional withdrawal of progesterone, ↑ estrogen, ↑ oxytocin/PG receptors, ↑ gap junctions, cervical ripening. (Book p512)"
+   "exp": "Phase 2 is functional withdrawal of progesterone, a rise in estrogen, more oxytocin and prostaglandin receptors, more gap junctions and cervical ripening — not a rise in progesterone action. (Book p512)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C19-005",
@@ -71,21 +75,23 @@
     "Phase 3 = cervical ripening; Phase 4 = delivery"
    ],
    "ans": 0,
-   "exp": "Phase 3: uterine stimulation – all stages of labour included; Phase 4: postpartum. (Book p512)"
+   "exp": "Phase 3: uterine stimulation – all stages of labour included; Phase 4: postpartum. (Book p512)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C19-006",
    "sec": "Definition, criteria & the four phases of labour",
    "page": 512,
-   "q": "Arrange the fetal cascade for onset of labour:",
+   "q": "Fill up: The fetal cascade for the onset of labour runs from fetal hypothalamic ______ to pituitary ACTH to fetal adrenal ______ and then to placental estrogen.",
    "opts": [
-    "Fetal hypothalamus (CRH) → fetal pituitary (ACTH) → fetal adrenal → DHEA-S → placental estrogen → uterine contractions",
-    "Fetal adrenal (cortisol) → placenta (progesterone) → uterus",
-    "Maternal pituitary (oxytocin) → fetal adrenal → estrogen",
-    "Fetal pituitary (CRH) → placenta (ACTH) → DHEA-S → progesterone"
+    "CRH; DHEA-S",
+    "ACTH; cortisol",
+    "CRH; progesterone",
+    "Oxytocin; DHEA-S"
    ],
    "ans": 0,
-   "exp": "Hypothalamus CRH → pituitary ACTH → adrenal DHEA-sulfate → converted to estrogen in placenta → uterine contractions. (Book p512)"
+   "exp": "The cascade is hypothalamic CRH, pituitary ACTH, fetal adrenal DHEA-sulfate, conversion to estrogen in the placenta and then uterine contractions. (Book p512)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C19-007",
@@ -106,85 +112,91 @@
    "id": "OBG-C19-008",
    "sec": "Pre-labour state & true vs false labour pain",
    "page": 513,
-   "q": "Lightening (welcome sign) is ______ leading to ______.",
+   "q": "Fill up: Lightening is descent of the fetal head into the pelvis, which causes a ______ in fundal height and relieves ______.",
    "opts": [
-    "Descent of fetal head into pelvis; ↓ fundal height and relief of respiratory distress",
-    "Onset of true labour pain; cervical dilatation",
-    "Rupture of membranes; ↓ liquor",
-    "Passage of show; cervical effacement"
+    "Fall; respiratory distress",
+    "Rise; respiratory distress",
+    "Fall; ankle edema",
+    "Rise; gastric reflux"
    ],
    "ans": 0,
-   "exp": "Lightening = descent of head into pelvis → ↓ fundal height, relieving respiratory distress. (Book p513)"
+   "exp": "Lightening is descent of the head into the pelvis, lowering the fundal height and relieving respiratory distress. (Book p513)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C19-009",
    "sec": "Pre-labour state & true vs false labour pain",
    "page": 513,
-   "q": "Cervical ripening in the pre-labour state occurs due to prostaglandins and connective tissue changes that include:",
+   "q": "Which statement about cervical ripening before labour is TRUE?",
    "opts": [
-    "↓ cross-linking of fibres, ↑ water content, ↑ hyaluronic acid",
-    "↑ cross-linking, ↓ water, ↓ hyaluronic acid",
-    "↑ collagen deposition, ↓ water",
-    "↑ elastin, ↓ hyaluronic acid"
+    "Ripening reduces cross-linking of fibres and raises water content and hyaluronic acid",
+    "Ripening increases cross-linking and reduces water content and hyaluronic acid",
+    "Ripening increases collagen deposition and reduces the water content",
+    "Ripening increases elastin and reduces the amount of hyaluronic acid"
    ],
    "ans": 0,
-   "exp": "Ripening: ↓ cross-linking of fibres, ↑ water content, ↑ hyaluronic acid; Bishop score assesses cervix before induction. (Book p513)"
+   "exp": "Ripening is due to prostaglandins and connective-tissue change: less cross-linking of fibres, more water content and more hyaluronic acid. (Book p513)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C19-010",
    "sec": "Pre-labour state & true vs false labour pain",
    "page": 513,
-   "q": "True labour pain contractions are ______ and ______, whereas false labour pain contractions are ______.",
+   "q": "Which statement about true versus false labour pain is TRUE?",
    "opts": [
-    "True: regular and progressive in strength — false: irregular and non-progressive",
-    "True: irregular and continuous — false: regular and rhythmic",
-    "True: continuous with a fixed intensity — false: rhythmic and progressive",
-    "True: regular but decreasing — false: progressive and rhythmic"
+    "True labour contractions are regular and progressive in strength; false labour pains are neither",
+    "True labour contractions are irregular and continuous; false labour pains are regular and rhythmic",
+    "True labour contractions continue at a fixed intensity; false labour pains are rhythmic and progressive",
+    "True labour contractions are regular but decreasing; false labour pains are progressive and rhythmic"
    ],
    "ans": 0,
-   "exp": "True labour contractions are regular and increase in frequency, duration and intensity; false labour does neither. (Book p513)"
+   "exp": "True labour contractions are regular and increase in frequency, duration and intensity; false labour pains do neither. (Book p513)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C19-011",
    "sec": "Pre-labour state & true vs false labour pain",
    "page": 513,
-   "q": "Site of pain – true labour : false labour.",
+   "q": "Match the feature of labour with the type of labour it belongs to — 1) Site of the pain 2) Show and bag of membranes 3) Response to sedation, enema and rest … A) Relieved by sedation in false labour, not relieved in true labour B) Lower abdomen radiating to the back of the thigh in true labour C) Show present and membranes felt in true labour",
    "opts": [
-    "Lower abdomen radiating to back of thigh : does not radiate",
-    "Epigastric radiating to back : lower abdomen",
-    "Back only : thigh only",
-    "Suprapubic non-radiating : radiates to thigh"
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "True labour pain is in the lower abdomen radiating to the back of thigh; false pain does not radiate. (Book p513)"
+   "exp": "True labour pain is in the lower abdomen radiating to the back of the thigh, the show is present and the bag of membranes is felt, and it is not relieved by sedation; false labour does not radiate, has no show, and is relieved by sedation, enema and rest. (Book p513)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C19-012",
    "sec": "Pre-labour state & true vs false labour pain",
    "page": 513,
-   "q": "Show (mucosal blood + plug) and bag of membranes – true labour : false labour.",
+   "q": "Fill up: In true labour the show is ______ and the bag of membranes ______; in false labour neither is found.",
    "opts": [
-    "Present, felt : absent, not felt",
-    "Absent, felt : present, not felt",
-    "Present, not felt : absent, felt",
-    "Both present in each"
+    "Present; is felt",
+    "Absent; is felt",
+    "Present; is not felt",
+    "Absent; is not felt"
    ],
    "ans": 0,
-   "exp": "True labour: show present, bag of membranes felt; false labour: show absent, membranes not felt. (Book p513)"
+   "exp": "In true labour the show is present and the bag of membranes is felt; in false labour the show is absent and the membranes are not felt. (Book p513)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C19-013",
    "sec": "Pre-labour state & true vs false labour pain",
    "page": 513,
-   "q": "Response to sedation, enema and rest – true labour : false labour.",
+   "q": "Fill up: False labour pains are ______ by sedation, enema and rest, whereas true labour pains are ______.",
    "opts": [
-    "No relief (−) : relieved (+)",
-    "Relieved (+) : no relief (−)",
-    "Both relieved",
-    "Neither relieved"
+    "Relieved; not relieved",
+    "Not relieved; relieved",
+    "Relieved; relieved as well",
+    "Unchanged; relieved only by analgesia"
    ],
    "ans": 0,
-   "exp": "False labour pains respond to sedation, enema and rest; true labour pains do not. (Book p513)"
+   "exp": "False labour pains respond to sedation, enema and rest; true labour pains do not. (Book p513)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C19-014",
@@ -205,29 +217,31 @@
    "id": "OBG-C19-015",
    "sec": "The 3 Ps & physiology of uterine contractions",
    "page": 514,
-   "q": "The mnemonic '3 Ps' for requirements of labour stands for:",
+   "q": "Fill up: The three Ps required for labour are ______, ______ and ______.",
    "opts": [
-    "Push (uterine contractions), Passage (pelvis), Passenger (baby)",
+    "Push (contractions), Passage (pelvis), Passenger (baby)",
     "Pain, Pelvis, Placenta",
     "Position, Presentation, Power",
     "Progesterone, Prostaglandin, Pitocin"
    ],
    "ans": 0,
-   "exp": "3 Ps: Push = contractions, Passage = pelvis, Passenger = baby. (Book p514)"
+   "exp": "The 3 Ps are Push, meaning uterine contractions, Passage, meaning the pelvis, and Passenger, meaning the baby. (Book p514)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C19-016",
    "sec": "The 3 Ps & physiology of uterine contractions",
    "page": 514,
-   "q": "Uterine contractions – origin : speed : time to depolarize entire uterus : predominant site.",
+   "q": "Match each feature of uterine contractions with its value — 1) Origin 2) Speed of spread 3) Time to depolarise the whole uterus 4) Predominant site … A) 2 cm per second B) Fundus C) Cornua D) 15 seconds",
    "opts": [
-    "Cornua : 2 cm/sec : 15 sec : fundus",
-    "Fundus : 1 cm/sec : 30 sec : cornua",
-    "Isthmus : 2 cm/sec : 15 sec : lower segment",
-    "Cervix : 5 cm/sec : 10 sec : fundus"
+    "1-C, 2-A, 3-D, 4-B",
+    "1-B, 2-A, 3-D, 4-C",
+    "1-C, 2-D, 3-A, 4-B",
+    "1-A, 2-C, 3-B, 4-D"
    ],
    "ans": 0,
-   "exp": "Origin cornua; speed 2 cm/sec; 15 sec to depolarize entire uterus; predominant contraction site fundus. (Book p514)"
+   "exp": "Contractions originate in the cornua, spread at 2 cm per second, take 15 seconds to depolarise the entire uterus, and are predominant at the fundus. (Book p514)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C19-017",

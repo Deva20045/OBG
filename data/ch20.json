@@ -15,7 +15,8 @@
     "≥500 mL : ≥1500 mL : ≥2000 mL"
    ],
    "ans": 0,
-   "exp": "PPH ≥500 mL after vaginal delivery, ≥1000 mL after C-section; ACOG ≥1000 mL after any delivery. (Book p528)"
+   "exp": "PPH ≥500 mL after vaginal delivery, ≥1000 mL after C-section; ACOG ≥1000 mL after any delivery. (Book p528)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C20-002",
@@ -29,21 +30,23 @@
     "Fall in hematocrit by ≥10% between admission and postpartum period"
    ],
    "ans": 0,
-   "exp": "Clinical definitions: need for transfusion, hypovolemic signs, ≥10% hematocrit fall. Severe PPH (WHO) = ≥1000 mL. (Book p528)"
+   "exp": "Clinical definitions: need for transfusion, hypovolemic signs, ≥10% hematocrit fall. Severe PPH (WHO) = ≥1000 mL. (Book p528)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C20-003",
    "sec": "PPH: definitions, types & the 4 Ts",
    "page": 528,
-   "q": "Primary PPH occurs ______ and secondary PPH occurs ______.",
+   "q": "Fill up: Primary PPH occurs within ______ of delivery, and secondary PPH runs from 24 hours to ______ afterwards.",
    "opts": [
-    "Primary within 24 hours of delivery; secondary from 24 hours to 12 weeks afterwards",
-    "Primary within 6 hours of delivery; secondary between 6 and 24 hours",
-    "Primary within 1 hour of delivery; secondary from 1 to 7 days",
-    "Primary within 48 hours of delivery; secondary from 2 to 6 weeks"
+    "24 hours; 12 weeks",
+    "6 hours; 24 hours",
+    "1 hour; 7 days",
+    "48 hours; 6 weeks"
    ],
    "ans": 0,
-   "exp": "Primary PPH is within 24 hours of birth and secondary PPH runs from 24 hours to 12 weeks postpartum. (Book p528)"
+   "exp": "Primary PPH is within 24 hours of birth and secondary PPH runs from 24 hours to 12 weeks postpartum. (Book p528)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C20-004",
@@ -57,7 +60,8 @@
     "Perineal tear or rupture : bleeding disorders : atonic uterus : retained placental tissue"
    ],
    "ans": 0,
-   "exp": "The 4 Ts: Tone – atonic uterus (commonest overall and commonest primary PPH); Trauma – perineal or cervical tear, hematoma, rupture; Thrombin – bleeding disorders; Tissue – retained placental tissue (commonest secondary PPH). (Book p528)"
+   "exp": "The 4 Ts: Tone – atonic uterus (commonest overall and commonest primary PPH); Trauma – perineal or cervical tear, hematoma, rupture; Thrombin – bleeding disorders; Tissue – retained placental tissue (commonest secondary PPH). (Book p528)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C20-005",
@@ -77,15 +81,16 @@
    "id": "OBG-C20-006",
    "sec": "PPH: definitions, types & the 4 Ts",
    "page": 528,
-   "q": "Postpartum dilatation and curettage carries the highest risk for ______; the best method to prevent PPH is ______.",
+   "q": "A woman undergoes postpartum dilatation and curettage for retained products of conception. What is she at the highest risk of, and what best prevents PPH in the first place?",
    "opts": [
-    "Asherman syndrome; active management of third stage of labour",
-    "Uterine inversion; oxytocin bolus",
-    "Placenta accreta; misoprostol",
-    "Endometritis; early cord clamping"
+    "Asherman syndrome; active management of the third stage of labour",
+    "Uterine inversion; an oxytocin bolus given with the anterior shoulder",
+    "Placenta accreta spectrum; routine misoprostol in the third stage",
+    "Endometritis; early clamping of the umbilical cord"
    ],
    "ans": 0,
-   "exp": "Postpartum D&C → Asherman syndrome; best PPH prevention = AMTSL. (Book p528)"
+   "exp": "Postpartum D&C carries the highest risk of Asherman syndrome; the best method of preventing PPH is active management of the third stage of labour. (Book p528)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C20-007",
@@ -114,7 +119,8 @@
     "H/O PIH in current pregnancy / anemia"
    ],
    "ans": 0,
-   "exp": "Maternal: previous PPH, advanced age, obesity, multigravida, PIH in current pregnancy, anemia. (Book p529)"
+   "exp": "Maternal: previous PPH, advanced age, obesity, multigravida, PIH in current pregnancy, anemia. (Book p529)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C20-009",
@@ -148,29 +154,31 @@
    "id": "OBG-C20-011",
    "sec": "Risk factors for atonic & traumatic PPH",
    "page": 529,
-   "q": "Intrapartum risk factors for PPH include:",
+   "q": "Which statement about intrapartum risk factors for PPH is TRUE?",
    "opts": [
-    "Prolonged or precipitate labour, induction or augmentation, instrumental delivery and general anaesthesia",
-    "Epidural analgesia, delayed cord clamping and active management of the third stage",
-    "The left lateral position, ambulation during labour and continuous support from a companion",
-    "Oral fluids in labour, intermittent auscultation and delayed admission to the labour ward"
+    "Prolonged or precipitate labour, induction, instrumental delivery and general anaesthesia all raise the risk",
+    "Epidural analgesia and active management of the third stage raise the risk",
+    "Ambulation, continuous support and the left lateral position raise the risk",
+    "Oral fluids in labour and intermittent auscultation are intrapartum risk factors"
    ],
    "ans": 0,
-   "exp": "Intrapartum risk factors exhaust or damage the uterus and birth canal; the other options are neutral or protective measures. (Book p529)"
+   "exp": "Intrapartum risk factors exhaust or damage the uterus and birth canal; the measures in the other options are neutral or protective. (Book p529)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C20-012",
    "sec": "Risk factors for atonic & traumatic PPH",
    "page": 529,
-   "q": "Specific risk factors for TRAUMATIC PPH:",
+   "q": "All of the following are specific risk factors for TRAUMATIC PPH EXCEPT:",
    "opts": [
-    "Instrumental delivery, breech extraction, obstructed labour, tachysystole and high parity",
-    "Anaemia, gestational diabetes and an uncomplicated twin pregnancy",
-    "Placenta previa, placenta accreta spectrum and a previous caesarean scar",
-    "Chorioamnionitis, tocolytic therapy and a prolonged latent phase in labour"
+    "Anaemia in the mother before delivery",
+    "Instrumental delivery",
+    "Breech extraction",
+    "Obstructed labour with tachysystole"
    ],
    "ans": 0,
-   "exp": "Traumatic PPH follows tears and lacerations from operative delivery, malpresentation, obstructed or very fast labour and a large baby. (Book p529)"
+   "exp": "Traumatic PPH follows tears and lacerations from operative delivery, malpresentation, obstructed or very fast labour and high parity; anaemia is a maternal rather than a traumatic risk factor. (Book p529)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C20-013",
@@ -199,7 +207,8 @@
     "Insert Foley's catheter"
    ],
    "ans": 0,
-   "exp": "Resuscitation: IV cannula, blood samples, arrange blood, crystalloids 1000 mL/min, ABC, Foley catheter. (Book p529)"
+   "exp": "Resuscitation: IV cannula, blood samples, arrange blood, crystalloids 1000 mL/min, ABC, Foley catheter. (Book p529)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C20-015",
