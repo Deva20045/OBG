@@ -1,0 +1,262 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C11-001",
+    "fmt": "scenario",
+    "q": "A 24-year-old woman at 12 weeks gestation presents with vaginal bleeding and passage of grape-like vesicles. On abdominal examination fundal height is larger than dates and fetal parts are not palpable. How does fundal height usually compare with POG in molar pregnancy?",
+    "opts": [
+      "Fundal height is larger than period of gestation, rarely smaller than dates",
+      "Fundal height is always smaller than period of gestation in molar pregnancy",
+      "Fundal height exactly equals period of gestation in all molar pregnancies",
+      "Fundal height cannot be assessed clinically in molar pregnancy due to obesity"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-003",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about uterine consistency in molar pregnancy is TRUE?",
+    "opts": [
+      "Uterine consistency is described as doughy in molar pregnancy on palpation",
+      "Uterine consistency is woody hard in molar pregnancy due to myometrial invasion",
+      "Uterine consistency is board-like rigid in molar pregnancy from acute abdomen",
+      "Uterine consistency is craggy and fixed in molar pregnancy from parametrial involvement"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-004",
+    "fmt": "fillup",
+    "q": "Fill up: Investigation of choice for molar pregnancy is ______ and shows ______ appearance.",
+    "opts": [
+      "USG; snowstorm",
+      "MRI; snowstorm",
+      "CT; cannon ball",
+      "Doppler; ring of fire"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-005",
+    "fmt": "oddoneout",
+    "q": "All of the following are part of pre-treatment evaluation before evacuating a mole EXCEPT:",
+    "opts": [
+      "Liver function tests and kidney function tests with complete blood count and blood grouping",
+      "Chest X-ray to rule out pulmonary metastasis and baseline beta-hCG estimation",
+      "Blood group and Rh typing with complete blood count and thyroid function if indicated",
+      "Serum amylase estimation as routine part of molar pregnancy workup before evacuation"
+    ],
+    "ans": 3
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-006",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about treatment of molar pregnancy is TRUE?",
+    "opts": [
+      "Suction evacuation followed by sharp curettage is the treatment of choice for molar pregnancy",
+      "Sharp curettage alone without suction is the treatment of choice for molar pregnancy",
+      "Hysterotomy followed by curettage is the treatment of choice for molar pregnancy today",
+      "Misoprostol priming alone followed by curettage is the treatment of choice for molar pregnancy"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-007",
+    "fmt": "scenario",
+    "q": "A 22-year-old woman undergoes suction evacuation for complete mole at 14 weeks. During the procedure she develops tachycardia, tremor and dyspnoea. Which two complications are flagged as increased risks during suction evacuation of a mole?",
+    "opts": [
+      "Thyrotoxicosis or thyroid storm and pulmonary embolism of trophoblastic tissue",
+      "Uterine inversion and air embolism from excessive traction during evacuation",
+      "HELLP syndrome and eclampsia precipitated by molar tissue evacuation",
+      "Cervical tear and bladder injury from difficult dilatation during evacuation"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-008",
+    "fmt": "fillup",
+    "q": "Fill up: During suction evacuation of molar pregnancy, oxytocin is given ______.",
+    "opts": [
+      "after starting suction evacuation",
+      "before cervical dilatation",
+      "only after curettage is complete",
+      "it is contraindicated throughout"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-009",
+    "fmt": "scenario",
+    "q": "A 42-year-old woman with 3 living children presents with complete mole at 10 weeks. She has completed her family and desires definitive management. In which patient is hysterectomy indicated for molar pregnancy?",
+    "opts": [
+      "Age 40 years or more with completed family desiring definitive treatment for mole",
+      "Any primigravida with molar pregnancy irrespective of age and parity status",
+      "Only if beta-hCG exceeds 10^5 IU/L with theca lutein cysts larger than 6 cm",
+      "Only in partial mole with fetal parts present and beta-hCG below 10^5 IU/L"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-010",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about follow-up after molar evacuation is TRUE?",
+    "opts": [
+      "Serial beta-hCG levels are the investigation of choice for follow-up after molar evacuation",
+      "Serial CA-125 levels are the investigation of choice for follow-up after molar evacuation",
+      "Serial placental lactogen levels are used for follow-up after molar evacuation routinely",
+      "Serial AFP levels are the investigation of choice for follow-up after molar evacuation"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-011",
+    "fmt": "match",
+    "q": "Match the beta-hCG follow-up step with its timing — 1) Baseline 2) 48 hours post-evacuation 3) Weekly till 3 consecutive normal 4) Monthly till 6 months … A) Before procedure B) After evacuation C) Until 3 normals D) Till 6 months",
+    "opts": [
+      "1-A, 2-B, 3-C, 4-D",
+      "1-B, 2-A, 3-C, 4-D",
+      "1-A, 2-C, 3-B, 4-D",
+      "1-D, 2-B, 3-C, 4-A"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-012",
+    "fmt": "fillup",
+    "q": "Fill up: After evacuation of molar pregnancy, pregnancy is contraindicated for ______ months.",
+    "opts": [
+      "6",
+      "3",
+      "12",
+      "24"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-013",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about contraception during molar follow-up is TRUE?",
+    "opts": [
+      "OCP is the contraceptive of choice; IUCD is contraindicated during beta-hCG surveillance",
+      "IUCD is the contraceptive of choice; OCP is contraindicated due to thrombosis risk",
+      "Both OCP and IUCD are contraindicated during follow-up after molar evacuation",
+      "No contraception is needed if beta-hCG is falling after molar evacuation"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-015",
+    "fmt": "fillup",
+    "q": "Fill up: Partial mole arises from ______ whereas complete mole arises from ______.",
+    "opts": [
+      "1 ovum with 2 sperms; an empty ovum with duplication of zygotic chromosomes",
+      "1 ovum with 1 sperm; 2 ova each fertilized by 1 sperm separately",
+      "2 ova with 2 sperms; 1 ovum fertilized by a single sperm only",
+      "1 ovum with 1 sperm in both partial and complete mole with different phenotype"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-016",
+    "fmt": "fillup",
+    "q": "Fill up: Karyotype of partial mole is ______ with commonest being ______.",
+    "opts": [
+      "triploid; 69XXY",
+      "diploid; 46XX",
+      "45X0; 47XXY",
+      "diploid; 46XY only"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-017",
+    "fmt": "match",
+    "q": "Match partial vs complete mole — 1) Partial mole sperm number 2) Partial mole maternal genes 3) Complete mole maternal genes … A) Dispermic B) Present C) Absent",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-B, 2-A, 3-C",
+      "1-C, 2-B, 3-A",
+      "1-A, 2-C, 3-B"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-018",
+    "fmt": "fillup",
+    "q": "Fill up: p57 KIP2 staining, a marker of maternal genes, is ______ in partial mole and ______ in complete mole.",
+    "opts": [
+      "positive; negative",
+      "negative; positive",
+      "positive; positive",
+      "negative; negative"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-019",
+    "fmt": "match",
+    "q": "Match mole type with clinical picture — 1) Partial mole symptoms 2) Partial mole uterine size 3) Complete mole uterine size … A) Less common B) Smaller than POG C) Larger than POG",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-B, 2-A, 3-C",
+      "1-C, 2-B, 3-A",
+      "1-A, 2-C, 3-B"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-023",
+    "fmt": "fillup",
+    "q": "Fill up: Risk of GTN after partial mole is ______ and after complete mole is ______.",
+    "opts": [
+      "1%; 15–20%",
+      "15–20%; 1%",
+      "<1%; 4%",
+      "4%; <1%"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-027",
+    "fmt": "oddoneout",
+    "q": "All of the following antecedent pregnancies can be followed by choriocarcinoma EXCEPT:",
+    "opts": [
+      "Molar pregnancy, full term delivery, ectopic pregnancy and abortion can all precede choriocarcinoma",
+      "Molar pregnancy alone is the only antecedent that can be followed by choriocarcinoma",
+      "Full term and molar pregnancies alone are the only antecedents for choriocarcinoma",
+      "Ectopic and abortion alone are the only antecedents that can lead to choriocarcinoma"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C11-042",
+    "fmt": "match",
+    "q": "Match FIGO stage with site in GTN — 1) Stage 1 2) Stage 2 3) Stage 3 4) Stage 4 … A) Confined to uterus B) Pelvis and vagina C) Lung D) Brain or liver",
+    "opts": [
+      "1-A, 2-B, 3-C, 4-D",
+      "1-B, 2-A, 3-C, 4-D",
+      "1-A, 2-C, 3-B, 4-D",
+      "1-D, 2-B, 3-C, 4-A"
+    ],
+    "ans": 0
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C24-001",
+    "q": "Fill up: Puerperium = up to ______; fourth trimester = up to 12 weeks.",
+    "opts": [
+      "6 weeks : 12 weeks",
+      "12 weeks : 6 weeks",
+      "4 weeks : 8 weeks",
+      "8 weeks : 12 weeks"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C24-002",
+    "q": "Which of the following statements about Definitions, postnatal visits & uterine involution is TRUE?",
+    "opts": [
+      "ACOG: an initial visit at 3 weeks and a final visit at 12 weeks — GOI: day 1, day 3, day 7 and 6 weeks",
+      "ACOG: day 1 and 6 weeks only — GOI: visits at 3 weeks and 12 weeks",
+      "ACOG: visits at 2, 4 and 6 weeks — GOI: day 1, day 7 and day 42",
+      "ACOG: a single visit on day 7 — GOI: a single visit at 6 weeks"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C24-003",
+    "q": "All of the following are Definitions, postnatal visits & uterine involution EXCEPT:",
+    "opts": [
+      "Just below the umbilicus; 20 weeks; cricket ball; 1000 g",
+      "At the xiphisternum; 36 weeks; football; 2000 g",
+      "At the symphysis; 12 weeks; tennis ball; 500 g",
+      "Midway to symphysis; 16 weeks; orange; 300 g"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C24-004",
+    "q": "A 28-year-old woman at 2 weeks with definitions, postnatal visits & uterine involution presents with the uterus halves to about 500 g in a week, is impalpable by two weeks at about 300 g, and completes. Uterine weight – after 1 week : 2 weeks : 4 weeks; and position at 1 and 2 weeks?",
+    "opts": [
+      "About 500 g at one week, 300 g at two weeks and 100 g by four weeks",
+      "About 300 g at one week, 100 g at two weeks and 50 g by four weeks",
+      "About 750 g at one week, 500 g at two weeks and 300 g by four weeks",
+      "About 1000 g at one week, 500 g at two weeks and 100 g by four weeks"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C24-005",
+    "q": "Fill up: Involution = ______ size (not number), faster in nulliparous; USG normal by 8 weeks.",
+    "opts": [
+      "↓ muscle cell size; nulliparous; 8 weeks",
+      "↓ muscle cell number; multiparous; 4 weeks",
+      "Apoptosis; breastfeeding; 2 weeks",
+      "Fibrosis; nulliparous; 12 weeks"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C24-007",
+    "q": "Which of the following statements about Cervix, lochia, placental site & ovarian function is TRUE?",
+    "opts": [
+      "Cervix, lochia, placental site & ovarian function — The isthmus; 2–3 cm",
+      "Cervix, lochia, placental site & ovarian function — The fundus; 5 cm",
+      "Cervix, lochia, placental site & ovarian function — The vagina; 1 cm",
+      "Cervix, lochia, placental site & ovarian function — Obliterated; 4 cm"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C24-008",
+    "q": "All of the following are Cervix, lochia, placental site & ovarian function EXCEPT:",
+    "opts": [
+      "Pin-point : transverse slit-like — Nulliparous pin-point; multiparous transverse slit",
+      "Transverse slit : pin-point — Nulliparous pin-point; multiparous transverse slit",
+      "Round : stellate — Nulliparous pin-point; multiparous transverse slit",
+      "Slit : round — Nulliparous pin-point; multiparous transverse slit"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C24-009",
+    "q": "A 28-year-old woman at 7 weeks with cervix, lochia, placental site & ovarian function presents with uterine artery doppler in the puerperium shows increased vascular resistance throughout the first 7 . Uterine artery Doppler in the puerperium shows:?",
+    "opts": [
+      "Raised vascular resistance throughout the first 7 weeks post-partum",
+      "Reduced vascular resistance for 6 months after delivery",
+      "Absent diastolic flow for the first 24 hours after delivery",
+      "No change at all from the antepartum Doppler findings"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C24-010",
+    "q": "Fill up: Lochia (superficial decidual sloughing) components and sequence ______.",
+    "opts": [
+      "Decidua, blood, leucocytes and exudate; rubra, then serosa, then alba over 24-36 days",
+      "Blood alone; ten days of rubra followed by twenty days of alba",
+      "Mucus and pus; alba first, then serosa, then rubra",
+      "Amniotic fluid, lasting seven days in total after the delivery"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C24-011",
+    "q": "Which of the following statements about Cervix, lochia, placental site & ovarian function is TRUE?",
+    "opts": [
+      "6 weeks; endometriosis; palm-size to 3–4 cm after 2 weeks",
+      "2 weeks; infection; 10 cm to 1 cm",
+      "Cervix, lochia, placental site & ovarian function — 12 weeks; polyp; fist to 5 cm",
+      "Cervix, lochia, placental site & ovarian function — 1 week; fibroid; palm to 8 cm"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  }
+]

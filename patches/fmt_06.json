@@ -1,0 +1,392 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C6-001",
+    "q": "Fill up: does the size of the thyroid gland normally change during pregnancy according to the notes is ______.",
+    "opts": [
+      "It remains unchanged and goitre is expected",
+      "It doubles only in the third trimester",
+      "It increases; a goitre remains pathological",
+      "It decreases and goitre is physiological"
+    ],
+    "ans": 2,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-002",
+    "q": "Which of the following statements about Thyroid physiology is TRUE?",
+    "opts": [
+      "Overt hyperthyroid state with high free T4",
+      "Hypothyroid state with low total T4",
+      "Absent TSH secretion with low free hormones",
+      "Euthyroid state with normal free T3 and free T4"
+    ],
+    "ans": 3,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-003",
+    "q": "All of the following are Thyroid physiology EXCEPT:",
+    "opts": [
+      "Estrogen increases thyroid-binding globulin",
+      "Progesterone destroys free thyroxine — Estrogen raises TBG, increasing the protein-bound and theref",
+      "Maternal TSH crosses the placenta — Estrogen raises TBG, increasing the protein-bound and theref",
+      "The fetal thyroid produces maternal T4 — Estrogen raises TBG, increasing the protein-bound and theref"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-004",
+    "q": "Fill up: The stated RDA of iodine in pregnancy is ______ daily.",
+    "opts": [
+      "500 micrograms per day",
+      "250 micrograms per day",
+      "50 micrograms per day",
+      "100 micrograms per day"
+    ],
+    "ans": 1,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-005",
+    "q": "Which of the following statements about Fetal thyroid is TRUE?",
+    "opts": [
+      "Maternal insulin crossing the placenta",
+      "Placental production of triiodothyronine",
+      "Maternal thyroxine because the fetal thyroid is not producing thyroxine",
+      "Fetal TSH crossing to the mother"
+    ],
+    "ans": 2,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-006",
+    "q": "All of the following are Fetal thyroid EXCEPT:",
+    "opts": [
+      "At fertilization — The fetal thyroid begins thyroxine production at or after 12",
+      "At 6 weeks of gestation — The fetal thyroid begins thyroxine production at or after 12",
+      "Only after birth — The fetal thyroid begins thyroxine production at or after 12",
+      "At or after 12 weeks of gestation — The fetal thyroid begins thyroxine production at or after 12"
+    ],
+    "ans": 3,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-007",
+    "q": "Fill up: ______ is listed as the most common cause of hypothyroidism.",
+    "opts": [
+      "Hashimoto's thyroiditis",
+      "Graves' disease",
+      "Postpartum pituitary necrosis",
+      "Iodine-induced thyrotoxicosis"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-008",
+    "q": "Which of the following statements about Hypothyroidism is TRUE?",
+    "opts": [
+      "Hypothyroidism — Thyroxine replacement",
+      "Hypothyroidism — TSH",
+      "Hypothyroidism — T3",
+      "Hypothyroidism — T4"
+    ],
+    "ans": 1,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-009",
+    "q": "All of the following are Hypothyroidism EXCEPT:",
+    "opts": [
+      "10–15% — The notes advise increasing thyroxine by 30–50% after concep",
+      "70–90% — The notes advise increasing thyroxine by 30–50% after concep",
+      "30–50% — The notes advise increasing thyroxine by 30–50% after concep",
+      "5–10% — The notes advise increasing thyroxine by 30–50% after concep"
+    ],
+    "ans": 2,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-011",
+    "q": "Fill up: ______ is identified as the most common cause of hyperthyroidism.",
+    "opts": [
+      "Hashimoto's thyroiditis",
+      "Sheehan syndrome",
+      "Pituitary adenoma",
+      "Graves' disease"
+    ],
+    "ans": 3,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-012",
+    "q": "Which of the following statements about Hyperthyroidism is TRUE?",
+    "opts": [
+      "Hyperthyroidism — Propylthiouracil (PTU)",
+      "Hyperthyroidism — Methimazole",
+      "Hyperthyroidism — Carbimazole",
+      "Hyperthyroidism — Radioactive iodine"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-013",
+    "q": "All of the following are Hyperthyroidism EXCEPT:",
+    "opts": [
+      "They prevent fetal thyroid formation after 20 weeks",
+      "They are associated with aplasia cutis and choanal atresia",
+      "They cause fetal renal agenesis — Methimazole/carbimazole are avoided in T1 because of aplasia",
+      "They cause neonatal hypoglycemia — Methimazole/carbimazole are avoided in T1 because of aplasia"
+    ],
+    "ans": 1,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-014",
+    "q": "Fill up: ______ is contraindicated in pregnancy.",
+    "opts": [
+      "Methimazole in the second trimester",
+      "Propranolol for thyroid-storm symptoms",
+      "Radioactive iodine",
+      "PTU in the first trimester"
+    ],
+    "ans": 2,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-015",
+    "q": "Which of the following statements about Thyroid storm is TRUE?",
+    "opts": [
+      "Methimazole and aspirin, respectively",
+      "Radioactive iodine and furosemide, respectively",
+      "Levothyroxine and magnesium sulfate, respectively",
+      "PTU and propranolol, respectively"
+    ],
+    "ans": 3,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-017",
+    "q": "All of the following are Diabetes physiology EXCEPT:",
+    "opts": [
+      "hCG alone — hPL is listed among the hormones associated with insulin res",
+      "Oxytocin — hPL is listed among the hormones associated with insulin res",
+      "Prolactin-inhibiting factor — hPL is listed among the hormones associated with insulin res",
+      "Human placental lactogen (hPL) — hPL is listed among the hormones associated with insulin res"
+    ],
+    "ans": 3,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-018",
+    "q": "Fill up: The source distinguishes ______ as not causing insulin resistance.",
+    "opts": [
+      "hCG",
+      "hPL",
+      "Estrogen",
+      "Cortisol"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-019",
+    "q": "Which of the following statements about Diabetes physiology is TRUE?",
+    "opts": [
+      "Diabetes physiology — 36–40 weeks only",
+      "Diabetes physiology — 24–28 weeks",
+      "Diabetes physiology — 4–8 weeks",
+      "Diabetes physiology — 10–12 weeks"
+    ],
+    "ans": 1,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-020",
+    "q": "All of the following are Diabetes physiology EXCEPT:",
+    "opts": [
+      "Glycosuria never occurs in pregnancy — Increasing hPL with gestation increases insulin resistance,",
+      "Estrogen eliminates glucose production — Increasing hPL with gestation increases insulin resistance,",
+      "Progressing gestation increases hPL secretion and insulin resistance",
+      "Maternal insulin freely crosses to the fetus"
+    ],
+    "ans": 2,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-021",
+    "q": "Fill up: ______ crosses the placenta, whereas maternal insulin does not.",
+    "opts": [
+      "Maternal insulin crosses; maternal glucose does not",
+      "Neither maternal glucose nor insulin crosses",
+      "Both cross equally by active transport",
+      "Maternal glucose crosses; maternal insulin does not"
+    ],
+    "ans": 3,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-022",
+    "q": "Which of the following statements about Diabetes physiology is TRUE?",
+    "opts": [
+      "Diabetes physiology — Glucose",
+      "Diabetes physiology — Maternal insulin",
+      "Diabetes physiology — Maternal ketone bodies only",
+      "Diabetes physiology — Thyroid-stimulating hormone"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-023",
+    "q": "All of the following are Diabetes physiology EXCEPT:",
+    "opts": [
+      "Proteinuria of any degree — Glycosuria is described as normal in pregnancy",
+      "Glycosuria — Glycosuria is described as normal in pregnancy",
+      "Persistent ketonuria — Glycosuria is described as normal in pregnancy",
+      "Gross hematuria — Glycosuria is described as normal in pregnancy"
+    ],
+    "ans": 1,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-024",
+    "q": "Fill up: should a pregnant woman with diabetes avoid fasting, vomiting, or diarrhea is ______.",
+    "opts": [
+      "They prevent glucose transfer to the fetus",
+      "They make maternal insulin cross the placenta",
+      "They can cause hypoglycemia followed by ketone-body formation and ketosis",
+      "They always prevent insulin resistance"
+    ],
+    "ans": 2,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-025",
+    "q": "Which of the following statements about Diabetes physiology is TRUE?",
+    "opts": [
+      "Maternal insulin transfer to the fetus",
+      "Physiological thyroid suppression",
+      "Diabetes physiology — Maternal hypocalcemia alone",
+      "Free-radical formation that crosses the placenta"
+    ],
+    "ans": 3,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-027",
+    "q": "All of the following are Diabetes classification EXCEPT:",
+    "opts": [
+      "A normoglycemic woman develops diabetes only after 24 weeks",
+      "It resolves within 6 weeks after delivery",
+      "It has no free-radical formation before organogenesis",
+      "A diabetic woman conceives and hyperglycemia is present from day 1"
+    ],
+    "ans": 3,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-028",
+    "q": "Fill up: are congenital malformations characteristic of pregestational diabetes but not typical gestational diabetes is ______.",
+    "opts": [
+      "In GDM, free radicals form after organogenesis",
+      "GDM insulin crosses the placenta",
+      "Pregestational diabetes never produces free radicals",
+      "GDM starts before implantation"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-029",
+    "q": "Which of the following statements about Diabetes classification is TRUE?",
+    "opts": [
+      "It resolves only after insulin therapy",
+      "It resolves within 6 weeks after delivery",
+      "It invariably persists lifelong",
+      "It progresses immediately to type 1 diabetes"
+    ],
+    "ans": 1,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-030",
+    "q": "All of the following are White classification EXCEPT:",
+    "opts": [
+      "Type 1 diabetes with nephropathy — Type A in the Priscilla White classification denotes gestati",
+      "Thyroid disease in pregnancy — Type A in the Priscilla White classification denotes gestati",
+      "Gestational diabetes — Type A in the Priscilla White classification denotes gestati",
+      "Pregestational diabetes — Type A in the Priscilla White classification denotes gestati"
+    ],
+    "ans": 2,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-031",
+    "q": "Fill up: differentiates A1 from A2 gestational diabetes is ______.",
+    "opts": [
+      "A1 is pregestational; A2 is gestational",
+      "A1 needs cesarean delivery; A2 never does",
+      "A1 has fetal echo; A2 has no ultrasound",
+      "A1 is diet controlled; A2 is controlled with insulin or metformin"
+    ],
+    "ans": 3,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-032",
+    "q": "Which of the following statements about GDM timing is TRUE?",
+    "opts": [
+      "GDM timing — 24–28 weeks",
+      "GDM timing — Before 6 weeks",
+      "GDM timing — At delivery",
+      "GDM timing — After 40 weeks"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-033",
+    "q": "All of the following are GDM timing EXCEPT:",
+    "opts": [
+      "Rh sensitization — Diabetes diagnosed before 20 weeks is usually pregestational",
+      "Pregestational diabetes — Diabetes diagnosed before 20 weeks is usually pregestational",
+      "Physiological glycosuria only — Diabetes diagnosed before 20 weeks is usually pregestational",
+      "Inevitable abortion — Diabetes diagnosed before 20 weeks is usually pregestational"
+    ],
+    "ans": 1,
+    "fmt": "oddoneout"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C21-001",
+    "q": "Fill up: Vulval hematoma is a laceration of an underlying vessel; m/c cause and arteries involved ______.",
+    "opts": [
+      "Instrumental delivery; vulval from the internal pudendal artery, vaginal from the vaginal artery",
+      "Spontaneous labour; the bleeding comes from the uterine artery",
+      "Precipitate labour; the bleeding comes from the ovarian artery",
+      "Episiotomy; the bleeding comes from the inferior rectal artery"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C21-002",
+    "q": "Which of the following statements about Vulval hematoma & broad ligament hematoma is TRUE?",
+    "opts": [
+      "Excruciating perineal pain with inability to pass urine, and a tense bluish tender swelling of the vulva",
+      "A painless soft swelling of the vulva with fever and offensive lochia after the delivery",
+      "Painless vaginal bleeding with an open cervical os in the first week after delivery",
+      "Pruritus with a watery discharge and superficial dyspareunia in the early puerperium"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C21-003",
+    "q": "All of the following are Vulval hematoma & broad ligament hematoma EXCEPT:",
+    "opts": [
+      "Ice packs, analgesics, vitals monitoring",
+      "Antibiotics and warm compress — Conservative: ice packs, analgesics, monitoring of vitals",
+      "Uterotonics and TXA — Conservative: ice packs, analgesics, monitoring of vitals",
+      "Vaginal packing — Conservative: ice packs, analgesics, monitoring of vitals"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C21-004",
+    "q": "A 28-year-old woman at 30 weeks with vulval hematoma & broad ligament hematoma presents with surgical drainage is for a large, expanding or very painful collection, or one that has caused shock. Indications for surgical management (incision & drainage with mattress-suture cavity closure):?",
+    "opts": [
+      "Larger than 5 cm, still enlarging, excruciating pain, or associated shock",
+      "Any haematoma at all that measures more than 1 cm across",
+      "Only once the haematoma has become clinically infected",
+      "Only when haematomas are present on both sides of the vulva"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C21-005",
+    "q": "Fill up: A supralevator collection is occult: ______ out of proportion to visible loss, from an upward extension of a cervical or vaginal tear.",
+    "opts": [
+      "Shock with little visible bleeding; from a cervical or vaginal tear extending upwards",
+      "Heavy vaginal bleeding from uterine atony after the delivery",
+      "Fever and pelvic pain from puerperal endometritis",
+      "A visible vulval swelling from a torn pudendal artery"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C21-007",
+    "q": "Which of the following statements about Perineal tear: classification & repair is TRUE?",
+    "opts": [
+      "Vaginal mucosa : 1 + muscles : 2 + anal sphincter : 3 + rectal mucosa",
+      "Skin : mucosa : muscles : sphincter",
+      "Mucosa : sphincter : rectum : bladder",
+      "Muscles : mucosa : rectal mucosa : sphincter"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C21-008",
+    "q": "All of the following are Perineal tear: classification & repair EXCEPT:",
+    "opts": [
+      "Under half the external sphincter : over half the external sphincter : both sphincters",
+      "Over half the external sphincter : under half the external sphincter : internal sphincter",
+      "Internal sphincter alone : external sphincter alone : rectal mucosa additionally",
+      "External sphincter partial : rectal mucosa involved : internal sphincter alone"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C21-009",
+    "q": "A 28-year-old woman at 30 weeks with perineal tear: classification & repair presents with first and second degree tears are repaired in the labour room under local anaesthesia like an episio. Repair setting – 1st & 2nd degree : 3rd & 4th degree; suture material:?",
+    "opts": [
+      "1st and 2nd degree in the labour room under local anaesthesia; 3rd and 4th in theatre",
+      "1st and 2nd degree in the labour room under local anaesthesia; all degrees in theatre",
+      "1st and 2nd degree at the bedside without anaesthesia; 3rd and 4th in theatre",
+      "All degrees are repaired in theatre under general or spinal anaesthesia"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C21-010",
+    "q": "Fill up: Sequence of repair for 1st/2nd degree tear ______.",
+    "opts": [
+      "Vaginal mucosa continuous sutures → muscles interrupted sutures → vaginal skin mattress sutures",
+      "Skin → muscles → mucosa",
+      "Muscles interrupted → mucosa mattress → skin continuous",
+      "Mucosa mattress → skin interrupted → muscles continuous"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C21-011",
+    "q": "Which of the following statements about Perineal tear: classification & repair is TRUE?",
+    "opts": [
+      "Rectal mucosa, then internal sphincter, then external sphincter end to end",
+      "External sphincter, then the rectal mucosa, then the internal sphincter",
+      "Vaginal mucosa, then the external sphincter, then the rectal mucosa",
+      "Perineal skin, then the internal sphincter, then the external sphincter"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  }
+]

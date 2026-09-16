@@ -7,7 +7,7 @@
    "id": "OBG-C16-001",
    "sec": "Presenting parts of the fetal skull & head attitude",
    "page": 490,
-   "q": "Which statement about fetal skull diameters is stated as ALWAYS true?",
+   "q": "Fill up: The notes open with the rule: ______ is always greater than transverse diameter.",
    "opts": [
     "AP diameter > transverse diameter",
     "Transverse diameter > AP diameter",
@@ -15,13 +15,14 @@
     "Transverse diameter exceeds AP only in brow presentation"
    ],
    "ans": 0,
-   "exp": "The notes open with the rule: AP diameter is always greater than transverse diameter. (Book p490)"
+   "exp": "The notes open with the rule: AP diameter is always greater than transverse diameter. (Book p490)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C16-002",
    "sec": "Presenting parts of the fetal skull & head attitude",
    "page": 490,
-   "q": "Match the part of skull with its boundaries – Vertex : Brow : Face.",
+   "q": "Which of the following statements about Presenting parts of the fetal skull & head attitude is TRUE?",
    "opts": [
     "Anterior to posterior fontanelle : anterior fontanelle to root of nose : root of nose to chin",
     "Root of nose to chin : anterior to posterior fontanelle : anterior fontanelle to root of nose",
@@ -29,41 +30,44 @@
     "Occiput to root of nose : anterior fontanelle to chin : root of nose to mentum"
    ],
    "ans": 0,
-   "exp": "Vertex lies between anterior (diamond) and posterior (triangular) fontanelle; brow between anterior fontanelle and root of nose; face from root of nose to chin (mentum). (Book p490)"
+   "exp": "Vertex lies between anterior (diamond) and posterior (triangular) fontanelle; brow between anterior fontanelle and root of nose; face from root of nose to chin (mentum). (Book p490)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C16-003",
    "sec": "Presenting parts of the fetal skull & head attitude",
    "page": 490,
-   "q": "Fill in the shapes: the anterior fontanelle is ______ and the posterior fontanelle is ______, lying above the ______ lobe.",
+   "q": "All of the following are Presenting parts of the fetal skull & head attitude EXCEPT:",
    "opts": [
-    "Diamond-shaped; triangular; occipital",
-    "Triangular; diamond-shaped; parietal",
-    "Diamond-shaped; triangular; frontal",
-    "Round; triangular; temporal"
+    "Diamond-shaped; triangular; occipital — Anterior fontanelle is diamond-shaped; posterior fontanelle",
+    "Triangular; diamond-shaped; parietal — Anterior fontanelle is diamond-shaped; posterior fontanelle",
+    "Diamond-shaped; triangular; frontal — Anterior fontanelle is diamond-shaped; posterior fontanelle",
+    "Round; triangular; temporal — Anterior fontanelle is diamond-shaped; posterior fontanelle"
    ],
    "ans": 0,
-   "exp": "Anterior fontanelle is diamond-shaped; posterior fontanelle is triangular and lies above the occipital lobe. (Book p490)"
+   "exp": "Anterior fontanelle is diamond-shaped; posterior fontanelle is triangular and lies above the occipital lobe. (Book p490)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C16-004",
    "sec": "Presenting parts of the fetal skull & head attitude",
    "page": 490,
-   "q": "In anencephaly the most common presenting part is ______, and face presentation is most commonly seen in ______.",
+   "q": "A 28-year-old woman at 30 weeks with presenting parts of the fetal skull & head attitude presents with face is the m/c presenting part in anencephaly, and anencephaly is the m/c association of face prese. In anencephaly the most common presenting part is ______, and face presentation is most commonly seen in ______?",
    "opts": [
-    "Face; anencephaly",
-    "Brow; hydrocephalus",
-    "Vertex; anencephaly",
-    "Face; hydrocephalus"
+    "Face; anencephaly with appropriate counselling and management as per notes",
+    "Brow; hydrocephalus with appropriate counselling and management as per notes",
+    "Vertex; anencephaly with appropriate counselling and management as per notes",
+    "Face; hydrocephalus with appropriate counselling and management as per notes"
    ],
    "ans": 0,
-   "exp": "Face is the m/c presenting part in anencephaly, and anencephaly is the m/c association of face presentation. (Book p490)"
+   "exp": "Face is the m/c presenting part in anencephaly, and anencephaly is the m/c association of face presentation. (Book p490)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C16-005",
    "sec": "Presenting parts of the fetal skull & head attitude",
    "page": 490,
-   "q": "Normally the fetus in utero keeps all body parts in which attitude?",
+   "q": "Fill up: Normally the fetus in utero has all body parts ______.",
    "opts": [
     "Flexed",
     "Extended",
@@ -71,21 +75,23 @@
     "Partially extended"
    ],
    "ans": 0,
-   "exp": "Normally the fetus in utero has all body parts flexed. (Book p490)"
+   "exp": "Normally the fetus in utero has all body parts flexed. (Book p490)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C16-006",
    "sec": "Presenting parts of the fetal skull & head attitude",
    "page": 490,
-   "q": "Match the position of fetal head to the presenting part – Flexed : Deflexed (neutral) : Partial extension : Full extension.",
+   "q": "Which of the following statements about Presenting parts of the fetal skull & head attitude regarding Presenting parts of the fetal skull is TRUE?",
    "opts": [
-    "Vertex : Vertex : Brow : Face",
-    "Vertex : Brow : Brow : Face",
-    "Vertex : Vertex : Face : Brow",
-    "Brow : Vertex : Face : Vertex"
+    "Presenting parts of the fetal skull & head attitude — Vertex : Vertex : Brow : Face",
+    "Presenting parts of the fetal skull & head attitude — Vertex : Brow : Brow : Face",
+    "Presenting parts of the fetal skull & head attitude — Vertex : Vertex : Face : Brow",
+    "Presenting parts of the fetal skull & head attitude — Brow : Vertex : Face : Vertex"
    ],
    "ans": 0,
-   "exp": "Flexed = vertex (m/c); deflexed/neutral = vertex; partial extension = brow; full extension = face. (Book p490)"
+   "exp": "Flexed = vertex (m/c); deflexed/neutral = vertex; partial extension = brow; full extension = face. (Book p490)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C16-007",
@@ -106,21 +112,22 @@
    "id": "OBG-C16-008",
    "sec": "Sutures, fontanelles & skull terminology",
    "page": 490,
-   "q": "Identify the suture: the one running between the two frontal bones in the fetal skull is the ______.",
+   "q": "All of the following are Sutures, fontanelles & skull terminology EXCEPT:",
    "opts": [
-    "Frontal / metopic suture",
-    "Sagittal suture",
-    "Coronal suture",
-    "Lambdoid suture"
+    "Frontal / metopic suture — The frontal (metopic) suture lies between the two frontal bo",
+    "Sagittal suture — The frontal (metopic) suture lies between the two frontal bo",
+    "Coronal suture — The frontal (metopic) suture lies between the two frontal bo",
+    "Lambdoid suture — The frontal (metopic) suture lies between the two frontal bo"
    ],
    "ans": 0,
-   "exp": "The frontal (metopic) suture lies between the two frontal bones. (Book p490)"
+   "exp": "The frontal (metopic) suture lies between the two frontal bones. (Book p490)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C16-009",
    "sec": "Sutures, fontanelles & skull terminology",
    "page": 490,
-   "q": "Match the suture with its location – Sagittal : Coronal : Lambdoid.",
+   "q": "A 28-year-old woman at 30 weeks with sutures, fontanelles & skull terminology presents with sagittal suture separates the parietal bones, coronal separates frontal from parietal, lambdoid sepa. Match the suture with its location – Sagittal : Coronal : Lambdoid?",
    "opts": [
     "Between the two parietal bones : between frontal and parietal bones : between parietal and occipital bone",
     "Between frontal and parietal : between two parietals : between two frontals",
@@ -128,13 +135,14 @@
     "Between two frontals : between parietal and occipital : between frontal and parietal"
    ],
    "ans": 0,
-   "exp": "Sagittal suture separates the parietal bones, coronal separates frontal from parietal, lambdoid separates parietal from occipital. (Book p490)"
+   "exp": "Sagittal suture separates the parietal bones, coronal separates frontal from parietal, lambdoid separates parietal from occipital. (Book p490)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C16-010",
    "sec": "Sutures, fontanelles & skull terminology",
    "page": 490,
-   "q": "The anterior fontanelle is also known as ______ and the posterior fontanelle as ______.",
+   "q": "Fill up: Anterior fontanelle = ______ posterior fontanelle = lambda.",
    "opts": [
     "Bregma; lambda",
     "Lambda; bregma",
@@ -142,27 +150,29 @@
     "Sinciput; lambda"
    ],
    "ans": 0,
-   "exp": "Anterior fontanelle = bregma; posterior fontanelle = lambda. (Book p490)"
+   "exp": "Anterior fontanelle = bregma; posterior fontanelle = lambda. (Book p490)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C16-011",
    "sec": "Sutures, fontanelles & skull terminology",
    "page": 490,
-   "q": "Fontanelles are defined as ______ and at birth ______ fontanelles are present.",
+   "q": "Which of the following statements about Sutures, fontanelles & skull terminology is TRUE?",
    "opts": [
-    "Gaps between suture lines; 6",
-    "Ossified suture ends; 2",
-    "Gaps between suture lines; 2",
-    "Cartilaginous joints; 4"
+    "Sutures, fontanelles & skull terminology — Gaps between suture lines; 6",
+    "Sutures, fontanelles & skull terminology — Ossified suture ends; 2",
+    "Sutures, fontanelles & skull terminology — Gaps between suture lines; 2",
+    "Sutures, fontanelles & skull terminology — Cartilaginous joints; 4"
    ],
    "ans": 0,
-   "exp": "Fontanelles are gaps between suture lines; 6 are present at birth. (Book p490)"
+   "exp": "Fontanelles are gaps between suture lines; 6 are present at birth. (Book p490)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C16-012",
    "sec": "Sutures, fontanelles & skull terminology",
    "page": 491,
-   "q": "Match the terminology – Occiput : Sub-occiput : Mentum : Submentum.",
+   "q": "All of the following are Sutures, fontanelles & skull terminology regarding Occipital bone : below occiput : EXCEPT:",
    "opts": [
     "Occipital bone : below occiput : chin : below chin where face and neck meet",
     "Below occiput : occipital bone : below chin : chin",
@@ -170,13 +180,14 @@
     "Highest point on sagittal suture : below occiput : chin : nose"
    ],
    "ans": 0,
-   "exp": "Occiput = occipital bone; sub-occiput = below occiput; mentum = chin; submentum = below chin where face and neck meet. (Book p491)"
+   "exp": "Occiput = occipital bone; sub-occiput = below occiput; mentum = chin; submentum = below chin where face and neck meet. (Book p491)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C16-013",
    "sec": "Sutures, fontanelles & skull terminology",
    "page": 491,
-   "q": "Complete the terminology: Vertex is the ______; Frontal is any point on the ______; Bregma is any point on the ______.",
+   "q": "A 28-year-old woman at 30 weeks with sutures, fontanelles & skull terminology presents with vertex = highest point on sagittal suture; frontal = any point on frontal suture; bregma = any point. Complete the terminology: Vertex is the ______; Frontal is any point on the ______; Bregma is any point on the ______?",
    "opts": [
     "Highest point on sagittal suture; frontal suture; anterior fontanelle",
     "Highest point on coronal suture; sagittal suture; posterior fontanelle",
@@ -184,7 +195,8 @@
     "Highest point on lambdoid suture; frontal suture; posterior fontanelle"
    ],
    "ans": 0,
-   "exp": "Vertex = highest point on sagittal suture; frontal = any point on frontal suture; bregma = any point on anterior fontanelle. (Book p491)"
+   "exp": "Vertex = highest point on sagittal suture; frontal = any point on frontal suture; bregma = any point on anterior fontanelle. (Book p491)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C16-014",
@@ -205,7 +217,7 @@
    "id": "OBG-C16-015",
    "sec": "Diameters of the fetal skull & engaging diameters",
    "page": 491,
-   "q": "The six AP diameters of the fetal skull listed in the notes are: sub-occipito-bregmatic, sub-occipito-frontal, occipito-frontal, mento-vertical and which two others?",
+   "q": "Fill up: The listed AP diameters: sub-occipito-bregmatic, sub-occipito-frontal, occipito-frontal, mento-vertical, ______.",
    "opts": [
     "Sub-mento-bregmatic and sub-mento-vertical",
     "Bimastoid and bitemporal",
@@ -213,35 +225,38 @@
     "Occipito-mental and fronto-mental"
    ],
    "ans": 0,
-   "exp": "The listed AP diameters: sub-occipito-bregmatic, sub-occipito-frontal, occipito-frontal, mento-vertical, sub-mento-bregmatic and sub-mento-vertical. (Book p491)"
+   "exp": "The listed AP diameters: sub-occipito-bregmatic, sub-occipito-frontal, occipito-frontal, mento-vertical, sub-mento-bregmatic and sub-mento-vertical. (Book p491)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C16-016",
    "sec": "Diameters of the fetal skull & engaging diameters",
    "page": 491,
-   "q": "The longest AP diameter of the fetal skull is the ______, measuring ______, seen in ______ presentation.",
+   "q": "Which of the following statements about Diameters of the fetal skull & engaging diameters is TRUE?",
    "opts": [
-    "Mento-vertical; 14 cm; brow",
+    "Diameters of the fetal skull & engaging diameters — Mento-vertical; 14 cm; brow",
     "Occipito-frontal; 11.5 cm; deflexed vertex",
     "Sub-mento-vertical; 11.5 cm; face",
-    "Mento-vertical; 11.5 cm; face"
+    "Diameters of the fetal skull & engaging diameters — Mento-vertical; 11.5 cm; face"
    ],
    "ans": 0,
-   "exp": "Mento-vertical (14 cm) is the longest AP diameter, seen in brow presentation. (Book p491)"
+   "exp": "Mento-vertical (14 cm) is the longest AP diameter, seen in brow presentation. (Book p491)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C16-017",
    "sec": "Diameters of the fetal skull & engaging diameters",
    "page": 491,
-   "q": "Because the mento-vertical diameter cannot pass the maternal pelvis, brow presentation requires:",
+   "q": "All of the following are Diameters of the fetal skull & engaging diameters EXCEPT:",
    "opts": [
-    "Caesarean section",
-    "Forceps delivery",
-    "Vacuum extraction",
-    "Manual rotation and vaginal delivery"
+    "Caesarean section — The 14 cm mento-vertical diameter cannot pass the maternal p",
+    "Forceps delivery — The 14 cm mento-vertical diameter cannot pass the maternal p",
+    "Vacuum extraction — The 14 cm mento-vertical diameter cannot pass the maternal p",
+    "Manual rotation and vaginal delivery — The 14 cm mento-vertical diameter cannot pass the maternal p"
    ],
    "ans": 0,
-   "exp": "The 14 cm mento-vertical diameter cannot pass the maternal pelvis, so C-section is required. (Book p491)"
+   "exp": "The 14 cm mento-vertical diameter cannot pass the maternal pelvis, so C-section is required. (Book p491)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C16-018",

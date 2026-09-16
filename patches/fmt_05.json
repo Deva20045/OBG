@@ -1,0 +1,132 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C5-001",
+    "q": "Fill up: Progesterone directly stimulates the medullary respiratory center to increase ______ by 30-50% (and minute ventilation by 40%).",
+    "opts": [
+      "Tidal volume (VT)",
+      "Residual volume (RV)",
+      "Functional residual capacity (FRC)",
+      "Expiratory reserve volume (ERV)"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C5-002",
+    "q": "Which of the following statements about Respiratory physiology is TRUE?",
+    "opts": [
+      "It remains essentially constant (or shows a negligible increase)",
+      "It doubles from 14 to 28 breaths per minute",
+      "It decreases significantly by 40%",
+      "It exhibits severe Cheyne-Stokes breathing"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C5-003",
+    "q": "All of the following are Respiratory physiology EXCEPT:",
+    "opts": [
+      "Functional Residual Capacity (FRC) and Expiratory Reserve Volume (ERV)",
+      "Vital Capacity and Inspiratory Capacity — Elevated diaphragm position reduces Functional Residual Capa",
+      "Tidal Volume and Minute Ventilation — Elevated diaphragm position reduces Functional Residual Capa",
+      "Total Lung Capacity and Anatomical Dead Space"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C5-004",
+    "q": "A 28-year-old woman at 30 weeks with respiratory physiology presents with normal pregnancy shows a chronic compensated respiratory alkalosis, with pco2 28-32 mmhg, hco3 18-22. What physiological acid-base state is characteristically observed on maternal arterial blood gas analysis during normal pregnancy?",
+    "opts": [
+      "Compensated respiratory alkalosis: pCO2 28-32, HCO3 18-22, pH 7.40-7.45",
+      "Uncompensated metabolic acidosis: pCO2 45-50, HCO3 12-16, pH 7.20-7.28",
+      "Acute respiratory acidosis: pCO2 55-60, HCO3 26-30, pH 7.22-7.30",
+      "Metabolic alkalosis with hypokalaemia: pCO2 45-50, HCO3 32-36, pH 7.50-7.55"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C5-005",
+    "q": "Fill up: is the biological advantage of maternal physiological respiratory alkalosis (low maternal pCO2 of 28-32 mmHg) for the fetus is ______.",
+    "opts": [
+      "It creates a gradient that drives CO2 rapidly from fetal blood into maternal blood",
+      "It stimulates fetal renal surfactant synthesis and accelerates lung maturity",
+      "It prevents premature rupture of membranes by lowering amniotic fluid pressure",
+      "It inhibits fetal cardiac output so that placental flow is preferentially raised"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C5-007",
+    "q": "Which of the following statements about Systemic and visceral shifts is TRUE?",
+    "opts": [
+      "The 40-50% rise in cardiac output far exceeds tissue oxygen extraction",
+      "Fetal tissues consume no oxygen at all throughout the pregnancy",
+      "Maternal hemoglobin loses its ability to bind and carry oxygen",
+      "Maternal systemic vascular resistance rises during pregnancy"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C5-008",
+    "q": "All of the following are Systemic and visceral shifts EXCEPT:",
+    "opts": [
+      "Sheehan syndrome — Enlargement of the anterior pituitary makes it vulnerable to",
+      "Simmonds disease — Enlargement of the anterior pituitary makes it vulnerable to",
+      "Nelson syndrome — Enlargement of the anterior pituitary makes it vulnerable to",
+      "Schmidt syndrome — Enlargement of the anterior pituitary makes it vulnerable to"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C5-009",
+    "q": "A 28-year-old woman at 30 weeks with systemic and visceral shifts presents with the fetus acquires ~30 g of calcium (mostly in t3), met by doubling maternal intestinal absorption s. Approximately how much total elemental calcium does the developing fetal skeleton accumulate across pregnancy, and how does maternal physiology supply this?",
+    "opts": [
+      "Approximately 30 g; supplied by doubled maternal intestinal calcium absorption under active 1,25-(OH)2 Vitamin D",
+      "Approximately 500 g; supplied by maternal bone resorption",
+      "Approximately 5 g; supplied by passive renal retention",
+      "Approximately 100 g; supplied by amniotic fluid ingestion"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C5-011",
+    "q": "Fill up: The total extra requirement is ______ mg of elemental iron, and the breakdown matters when explaining why supplementation is needed.",
+    "opts": [
+      "About 1000 mg: 300 mg for the fetus and placenta, 500 mg for red cell expansion and 200 mg excreted",
+      "About 300 mg: 100 mg for the fetus and placenta, 150 mg for red cell expansion and 50 mg excreted",
+      "About 2500 mg: 1000 mg for the fetus and placenta, 1200 mg for red cell expansion and 300 mg excreted",
+      "About 500 mg: 200 mg for the fetus and placenta, 250 mg for red cell expansion and 50 mg excreted"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C5-012",
+    "q": "Which of the following statements about Iron physiology and national programs is TRUE?",
+    "opts": [
+      "Active transport via transferrin receptors against a concentration gradient",
+      "Simple passive diffusion through intercellular clefts",
+      "Facilitated diffusion via GLUT transporters",
+      "Pinocytosis of intact maternal erythrocytes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  }
+]

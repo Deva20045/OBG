@@ -1,0 +1,197 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C2-001",
+    "q": "Fill up: In an obstetric patient with regular 28-day menstrual cycles, the clinical gestational age (menstrual age) of the pregnancy is calculated from ______.",
+    "opts": [
+      "The first day of the last menstrual period (LMP)",
+      "The estimated date of ovulation",
+      "The date of fertilization",
+      "The day of implantation"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-002",
+    "q": "Which of the following statements about Basics of pregnancy is TRUE?",
+    "opts": [
+      "Gestational age is 2 weeks greater than fetal age",
+      "Gestational age is 2 weeks less than fetal age",
+      "Gestational age is 1 week greater than fetal age",
+      "Gestational age is identical to fetal age"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-003",
+    "q": "All of the following are Basics of pregnancy EXCEPT:",
+    "opts": [
+      "5th week of gestational age — Cardiac activity starts 3 weeks after fertilization, corresp",
+      "3rd week of gestational age — Cardiac activity starts 3 weeks after fertilization, corresp",
+      "4th week of gestational age — Cardiac activity starts 3 weeks after fertilization, corresp",
+      "6th week of gestational age — Cardiac activity starts 3 weeks after fertilization, corresp"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-004",
+    "q": "A 28-year-old woman at 13 weeks with basics of pregnancy presents with trimester 1 spans lmp to 13 weeks + 6 days, trimester 2 spans 14 weeks to 27 weeks + 6 days, and tri. According to standard obstetric definitions, the second trimester of pregnancy spans from:?",
+    "opts": [
+      "14 weeks to 27 weeks + 6 days with appropriate counselling and management as per notes",
+      "12 weeks to 24 weeks with appropriate counselling and management as per notes",
+      "13 weeks to 26 weeks with appropriate counselling and management as per notes",
+      "16 weeks to 28 weeks + 6 days with appropriate counselling and management as per notes"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-006",
+    "q": "Fill up: ______ are the only pregnancy events calculated from the day of fertilization rather than the first day of the LMP.",
+    "opts": [
+      "Fetal growth periods (period of fertilized ovum, embryo, and fetus)",
+      "Estimated date of delivery (EDD) by Naegele's rule",
+      "First trimester ultrasound dating",
+      "Obstetrical score and viability assessment"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-007",
+    "q": "Which of the following statements about Basics of pregnancy is TRUE?",
+    "opts": [
+      "3rd week to the end of the 8th/9th week after fertilization",
+      "Day of fertilization up to 2 weeks",
+      "9th week after fertilization up to birth",
+      "12th week to 24th week of gestational age"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-008",
+    "q": "All of the following are Basics of pregnancy EXCEPT:",
+    "opts": [
+      "7 days to the first day of the LMP and add 9 calendar months",
+      "7 days to the last day of the LMP and add 9 calendar months",
+      "14 days to the first day of the LMP and add 9 calendar months",
+      "280 days from the day of missed period — Naegele's formula adds 7 days to the 1st day of the LMP and"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-009",
+    "q": "A 28-year-old woman at 30 weeks with basics of pregnancy presents with for a 28-day cycle, edd = jan 10 + 7 days + 9 months = oct 17. A pregnant woman reports an LMP of January 10th and has a regular menstrual cycle length of 35 days. What is her corrected EDD?",
+    "opts": [
+      "October 24th with appropriate counselling and management as per notes",
+      "October 17th with appropriate counselling and management as per notes",
+      "October 10th with appropriate counselling and management as per notes",
+      "November 7th with appropriate counselling and management as per notes"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-010",
+    "q": "Fill up: For Day 5 transfer, EDD = ______ transfer + 261 days (for Day 3 transfer, EDD = Date of transfer + 263 days; conception + 266 days).",
+    "opts": [
+      "Date of Day 5 transfer + 261 days",
+      "Date of Day 5 transfer + 263 days",
+      "Date of Day 5 transfer + 266 days",
+      "Date of Day 5 transfer + 280 days"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-011",
+    "q": "Which of the following statements about Dating and fetal demise is TRUE?",
+    "opts": [
+      "Dating and fetal demise — Early term",
+      "Dating and fetal demise — Full term",
+      "Dating and fetal demise — Late term",
+      "Dating and fetal demise — Preterm"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-012",
+    "q": "All of the following are Dating and fetal demise EXCEPT:",
+    "opts": [
+      "Extreme preterm birth (<28 weeks) — Extreme preterm is <28 weeks, very preterm is <32 weeks (or",
+      "Very preterm birth (28 to <32 weeks) — Extreme preterm is <28 weeks, very preterm is <32 weeks (or",
+      "Moderate preterm birth (32 to 33+6 weeks)",
+      "Late preterm birth (34 to 36+6 weeks) — Extreme preterm is <28 weeks, very preterm is <32 weeks (or"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-014",
+    "q": "A 28-year-old woman at 20 weeks with dating and fetal demise presents with iud/stillbirth is pregnancy loss at >=20 weeks (or birth weight >=500 g by who criteria; stillbirth . Intrauterine fetal death (IUD) / stillbirth is defined under standard obstetric criteria as fetal demise occurring at or beyond:?",
+    "opts": [
+      ">= 20 weeks of gestation (or birth weight >= 500 g)",
+      ">= 12 weeks of gestation with appropriate counselling and management as per notes",
+      ">= 16 weeks of gestation with appropriate counselling and management as per notes",
+      ">= 24 weeks of gestation without weight criteria"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-015",
+    "q": "Fill up: While idiopathic is common overall, ______ IUGR is the most common single identifiable cause of IUD.",
+    "opts": [
+      "Unrecognized intrauterine growth restriction (IUGR)",
+      "Chromosomal trisomy 16",
+      "Rh isoimmunization",
+      "Gestational diabetes mellitus"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-016",
+    "q": "Which of the following statements about Dating and fetal demise is TRUE?",
+    "opts": [
+      "Gas/bubbles within the fetal great vessels and heart",
+      "Overlapping of skull bones due to cerebral liquefaction",
+      "Hyperflexion or hyperextension of the fetal spine",
+      "Dating and fetal demise — Crowding of the fetal ribs"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-017",
+    "q": "All of the following are Dating and fetal demise EXCEPT:",
+    "opts": [
+      "Overlapping of the cranial vault bones due to liquefaction of brain tissue",
+      "Gas within the fetal abdominal wall — Spalding's sign is the collapse and overlapping of fetal sku",
+      "Abnormal angulation of the fetal extremities",
+      "Spine hyperextension in a circular configuration"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  }
+]

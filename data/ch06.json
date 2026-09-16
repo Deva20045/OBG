@@ -464,7 +464,7 @@
    "id": "OBG-C6-001",
    "sec": "Thyroid physiology",
    "page": 375,
-   "q": "How does the size of the thyroid gland normally change during pregnancy according to the notes?",
+   "q": "Fill up: does the size of the thyroid gland normally change during pregnancy according to the notes is ______.",
    "opts": [
     "It remains unchanged and goitre is expected",
     "It doubles only in the third trimester",
@@ -472,13 +472,14 @@
     "It decreases and goitre is physiological"
    ],
    "ans": 2,
-   "exp": "The thyroid gland increases in size in pregnancy, but goitre is still pathological. (Book p375)"
+   "exp": "The thyroid gland increases in size in pregnancy, but goitre is still pathological. (Book p375)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C6-002",
    "sec": "Thyroid physiology",
    "page": 375,
-   "q": "Which thyroid profile is described as normal in pregnancy?",
+   "q": "Which of the following statements about Thyroid physiology is TRUE?",
    "opts": [
     "Overt hyperthyroid state with high free T4",
     "Hypothyroid state with low total T4",
@@ -486,27 +487,29 @@
     "Euthyroid state with normal free T3 and free T4"
    ],
    "ans": 3,
-   "exp": "Pregnancy is a euthyroid state; free T3 and free T4 remain normal. (Book p375)"
+   "exp": "Pregnancy is a euthyroid state; free T3 and free T4 remain normal. (Book p375)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C6-003",
    "sec": "Thyroid physiology",
    "page": 375,
-   "q": "Why do total T3 and total T4 rise in pregnancy?",
+   "q": "All of the following are Thyroid physiology EXCEPT:",
    "opts": [
     "Estrogen increases thyroid-binding globulin",
-    "Progesterone destroys free thyroxine",
-    "Maternal TSH crosses the placenta",
-    "The fetal thyroid produces maternal T4"
+    "Progesterone destroys free thyroxine — Estrogen raises TBG, increasing the protein-bound and theref",
+    "Maternal TSH crosses the placenta — Estrogen raises TBG, increasing the protein-bound and theref",
+    "The fetal thyroid produces maternal T4 — Estrogen raises TBG, increasing the protein-bound and theref"
    ],
    "ans": 0,
-   "exp": "Estrogen raises TBG, increasing the protein-bound and therefore total T3/T4 values. (Book p375)"
+   "exp": "Estrogen raises TBG, increasing the protein-bound and therefore total T3/T4 values. (Book p375)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C6-004",
    "sec": "Thyroid physiology",
    "page": 375,
-   "q": "What is the recommended daily iodine intake stated for pregnancy?",
+   "q": "Fill up: The stated RDA of iodine in pregnancy is ______ daily.",
    "opts": [
     "500 micrograms per day",
     "250 micrograms per day",
@@ -514,13 +517,14 @@
     "100 micrograms per day"
    ],
    "ans": 1,
-   "exp": "The stated RDA of iodine in pregnancy is 250 micrograms daily. (Book p375)"
+   "exp": "The stated RDA of iodine in pregnancy is 250 micrograms daily. (Book p375)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C6-005",
    "sec": "Fetal thyroid",
    "page": 375,
-   "q": "Before 12 weeks of gestation, fetal development depends chiefly on:",
+   "q": "Which of the following statements about Fetal thyroid is TRUE?",
    "opts": [
     "Maternal insulin crossing the placenta",
     "Placental production of triiodothyronine",
@@ -528,27 +532,29 @@
     "Fetal TSH crossing to the mother"
    ],
    "ans": 2,
-   "exp": "Before 12 weeks, fetal thyroid thyroxine production is absent, so development depends on maternal thyroxine. (Book p375)"
+   "exp": "Before 12 weeks, fetal thyroid thyroxine production is absent, so development depends on maternal thyroxine. (Book p375)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C6-006",
    "sec": "Fetal thyroid",
    "page": 375,
-   "q": "At what point does fetal thyroid thyroxine production become present in the source notes?",
+   "q": "All of the following are Fetal thyroid EXCEPT:",
    "opts": [
-    "At fertilization",
-    "At 6 weeks of gestation",
-    "Only after birth",
-    "At or after 12 weeks of gestation"
+    "At fertilization — The fetal thyroid begins thyroxine production at or after 12",
+    "At 6 weeks of gestation — The fetal thyroid begins thyroxine production at or after 12",
+    "Only after birth — The fetal thyroid begins thyroxine production at or after 12",
+    "At or after 12 weeks of gestation — The fetal thyroid begins thyroxine production at or after 12"
    ],
    "ans": 3,
-   "exp": "The fetal thyroid begins thyroxine production at or after 12 weeks. (Book p375)"
+   "exp": "The fetal thyroid begins thyroxine production at or after 12 weeks. (Book p375)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C6-007",
    "sec": "Hypothyroidism",
    "page": 375,
-   "q": "What is the most common cause of hypothyroidism in pregnancy in these notes?",
+   "q": "Fill up: ______ is listed as the most common cause of hypothyroidism.",
    "opts": [
     "Hashimoto's thyroiditis",
     "Graves' disease",
@@ -556,35 +562,38 @@
     "Iodine-induced thyrotoxicosis"
    ],
    "ans": 0,
-   "exp": "Hashimoto's thyroiditis is listed as the most common cause of hypothyroidism. (Book p375)"
+   "exp": "Hashimoto's thyroiditis is listed as the most common cause of hypothyroidism. (Book p375)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C6-008",
    "sec": "Hypothyroidism",
    "page": 375,
-   "q": "Which maternal thyroid-related substance cannot cross the placenta?",
+   "q": "Which of the following statements about Hypothyroidism is TRUE?",
    "opts": [
-    "Thyroxine replacement",
-    "TSH",
-    "T3",
-    "T4"
+    "Hypothyroidism — Thyroxine replacement",
+    "Hypothyroidism — TSH",
+    "Hypothyroidism — T3",
+    "Hypothyroidism — T4"
    ],
    "ans": 1,
-   "exp": "Maternal T3/T4 can cross the placenta, whereas maternal TSH cannot. (Book p375)"
+   "exp": "Maternal T3/T4 can cross the placenta, whereas maternal TSH cannot. (Book p375)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C6-009",
    "sec": "Hypothyroidism",
    "page": 375,
-   "q": "When a woman treated for hypothyroidism conceives, by what range should her thyroxine dose be increased according to the notes?",
+   "q": "All of the following are Hypothyroidism EXCEPT:",
    "opts": [
-    "10–15%",
-    "70–90%",
-    "30–50%",
-    "5–10%"
+    "10–15% — The notes advise increasing thyroxine by 30–50% after concep",
+    "70–90% — The notes advise increasing thyroxine by 30–50% after concep",
+    "30–50% — The notes advise increasing thyroxine by 30–50% after concep",
+    "5–10% — The notes advise increasing thyroxine by 30–50% after concep"
    ],
    "ans": 2,
-   "exp": "The notes advise increasing thyroxine by 30–50% after conception in hypothyroidism. (Book p375)"
+   "exp": "The notes advise increasing thyroxine by 30–50% after conception in hypothyroidism. (Book p375)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C6-010",
@@ -605,7 +614,7 @@
    "id": "OBG-C6-011",
    "sec": "Hyperthyroidism",
    "page": 375,
-   "q": "What is the most common cause of hyperthyroidism in pregnancy?",
+   "q": "Fill up: ______ is identified as the most common cause of hyperthyroidism.",
    "opts": [
     "Hashimoto's thyroiditis",
     "Sheehan syndrome",
@@ -613,41 +622,44 @@
     "Graves' disease"
    ],
    "ans": 3,
-   "exp": "Graves' disease is identified as the most common cause of hyperthyroidism. (Book p375)"
+   "exp": "Graves' disease is identified as the most common cause of hyperthyroidism. (Book p375)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C6-012",
    "sec": "Hyperthyroidism",
    "page": 375,
-   "q": "Which antithyroid drug is preferred in the first trimester?",
+   "q": "Which of the following statements about Hyperthyroidism is TRUE?",
    "opts": [
-    "Propylthiouracil (PTU)",
-    "Methimazole",
-    "Carbimazole",
-    "Radioactive iodine"
+    "Hyperthyroidism — Propylthiouracil (PTU)",
+    "Hyperthyroidism — Methimazole",
+    "Hyperthyroidism — Carbimazole",
+    "Hyperthyroidism — Radioactive iodine"
    ],
    "ans": 0,
-   "exp": "PTU is the drug of choice in the first trimester. (Book p375)"
+   "exp": "PTU is the drug of choice in the first trimester. (Book p375)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C6-013",
    "sec": "Hyperthyroidism",
    "page": 375,
-   "q": "Why are methimazole and carbimazole avoided in the first trimester?",
+   "q": "All of the following are Hyperthyroidism EXCEPT:",
    "opts": [
     "They prevent fetal thyroid formation after 20 weeks",
     "They are associated with aplasia cutis and choanal atresia",
-    "They cause fetal renal agenesis",
-    "They cause neonatal hypoglycemia"
+    "They cause fetal renal agenesis — Methimazole/carbimazole are avoided in T1 because of aplasia",
+    "They cause neonatal hypoglycemia — Methimazole/carbimazole are avoided in T1 because of aplasia"
    ],
    "ans": 1,
-   "exp": "Methimazole/carbimazole are avoided in T1 because of aplasia cutis and choanal atresia risk. (Book p375)"
+   "exp": "Methimazole/carbimazole are avoided in T1 because of aplasia cutis and choanal atresia risk. (Book p375)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C6-014",
    "sec": "Hyperthyroidism",
    "page": 375,
-   "q": "Which option is contraindicated for hyperthyroidism during pregnancy?",
+   "q": "Fill up: ______ is contraindicated in pregnancy.",
    "opts": [
     "Methimazole in the second trimester",
     "Propranolol for thyroid-storm symptoms",
@@ -655,13 +667,14 @@
     "PTU in the first trimester"
    ],
    "ans": 2,
-   "exp": "Radioactive iodine is contraindicated in pregnancy. (Book p375)"
+   "exp": "Radioactive iodine is contraindicated in pregnancy. (Book p375)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C6-015",
    "sec": "Thyroid storm",
    "page": 375,
-   "q": "In thyroid storm during pregnancy, what is the drug of choice and what is used for symptomatic control?",
+   "q": "Which of the following statements about Thyroid storm is TRUE?",
    "opts": [
     "Methimazole and aspirin, respectively",
     "Radioactive iodine and furosemide, respectively",
@@ -669,7 +682,8 @@
     "PTU and propranolol, respectively"
    ],
    "ans": 3,
-   "exp": "The source lists PTU as the drug of choice for thyroid storm and propranolol for symptoms. (Book p375)"
+   "exp": "The source lists PTU as the drug of choice for thyroid storm and propranolol for symptoms. (Book p375)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C6-016",
@@ -690,21 +704,22 @@
    "id": "OBG-C6-017",
    "sec": "Diabetes physiology",
    "page": 376,
-   "q": "Which placental hormone is prominently associated with insulin resistance in pregnancy?",
+   "q": "All of the following are Diabetes physiology EXCEPT:",
    "opts": [
-    "hCG alone",
-    "Oxytocin",
-    "Prolactin-inhibiting factor",
-    "Human placental lactogen (hPL)"
+    "hCG alone — hPL is listed among the hormones associated with insulin res",
+    "Oxytocin — hPL is listed among the hormones associated with insulin res",
+    "Prolactin-inhibiting factor — hPL is listed among the hormones associated with insulin res",
+    "Human placental lactogen (hPL) — hPL is listed among the hormones associated with insulin res"
    ],
    "ans": 3,
-   "exp": "hPL is listed among the hormones associated with insulin resistance in pregnancy. (Book p376)"
+   "exp": "hPL is listed among the hormones associated with insulin resistance in pregnancy. (Book p376)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C6-018",
    "sec": "Diabetes physiology",
    "page": 376,
-   "q": "Which hormone is specifically noted as NOT producing insulin resistance in pregnancy?",
+   "q": "Fill up: The source distinguishes ______ as not causing insulin resistance.",
    "opts": [
     "hCG",
     "hPL",
@@ -712,41 +727,44 @@
     "Cortisol"
    ],
    "ans": 0,
-   "exp": "The source distinguishes hCG as not causing insulin resistance. (Book p376)"
+   "exp": "The source distinguishes hCG as not causing insulin resistance. (Book p376)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C6-019",
    "sec": "Diabetes physiology",
    "page": 376,
-   "q": "Significant insulin resistance in pregnancy typically develops around which gestational interval?",
+   "q": "Which of the following statements about Diabetes physiology is TRUE?",
    "opts": [
-    "36–40 weeks only",
-    "24–28 weeks",
-    "4–8 weeks",
-    "10–12 weeks"
+    "Diabetes physiology — 36–40 weeks only",
+    "Diabetes physiology — 24–28 weeks",
+    "Diabetes physiology — 4–8 weeks",
+    "Diabetes physiology — 10–12 weeks"
    ],
    "ans": 1,
-   "exp": "Significant insulin resistance develops around 24–28 weeks. (Book p376)"
+   "exp": "Significant insulin resistance develops around 24–28 weeks. (Book p376)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C6-020",
    "sec": "Diabetes physiology",
    "page": 376,
-   "q": "Why is pregnancy described as a diabetogenic state?",
+   "q": "All of the following are Diabetes physiology regarding Progressing gestation increases hPL secretion and EXCEPT:",
    "opts": [
-    "Glycosuria never occurs in pregnancy",
-    "Estrogen eliminates glucose production",
+    "Glycosuria never occurs in pregnancy — Increasing hPL with gestation increases insulin resistance,",
+    "Estrogen eliminates glucose production — Increasing hPL with gestation increases insulin resistance,",
     "Progressing gestation increases hPL secretion and insulin resistance",
     "Maternal insulin freely crosses to the fetus"
    ],
    "ans": 2,
-   "exp": "Increasing hPL with gestation increases insulin resistance, making pregnancy diabetogenic. (Book p376)"
+   "exp": "Increasing hPL with gestation increases insulin resistance, making pregnancy diabetogenic. (Book p376)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C6-021",
    "sec": "Placental transfer",
    "page": 376,
-   "q": "Which pairing of placental transfer is correct?",
+   "q": "Fill up: ______ crosses the placenta, whereas maternal insulin does not.",
    "opts": [
     "Maternal insulin crosses; maternal glucose does not",
     "Neither maternal glucose nor insulin crosses",
@@ -754,41 +772,44 @@
     "Maternal glucose crosses; maternal insulin does not"
    ],
    "ans": 3,
-   "exp": "Maternal glucose crosses the placenta, whereas maternal insulin does not. (Book p376)"
+   "exp": "Maternal glucose crosses the placenta, whereas maternal insulin does not. (Book p376)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C6-022",
    "sec": "Diabetes physiology",
    "page": 376,
-   "q": "A fetus is dependent on the mother primarily for which metabolic requirement?",
+   "q": "Which of the following statements about Diabetes physiology regarding Diabetes physiology — Glucose is TRUE?",
    "opts": [
-    "Glucose",
-    "Maternal insulin",
-    "Maternal ketone bodies only",
-    "Thyroid-stimulating hormone"
+    "Diabetes physiology — Glucose",
+    "Diabetes physiology — Maternal insulin",
+    "Diabetes physiology — Maternal ketone bodies only",
+    "Diabetes physiology — Thyroid-stimulating hormone"
    ],
    "ans": 0,
-   "exp": "The fetus depends on maternal glucose for its glucose requirement. (Book p376)"
+   "exp": "The fetus depends on maternal glucose for its glucose requirement. (Book p376)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C6-023",
    "sec": "Diabetes physiology",
    "page": 376,
-   "q": "Which urinary finding is stated to be normal in pregnancy?",
+   "q": "All of the following are Diabetes physiology regarding Glycosuria — Glycosuria is described as EXCEPT:",
    "opts": [
-    "Proteinuria of any degree",
-    "Glycosuria",
-    "Persistent ketonuria",
-    "Gross hematuria"
+    "Proteinuria of any degree — Glycosuria is described as normal in pregnancy",
+    "Glycosuria — Glycosuria is described as normal in pregnancy",
+    "Persistent ketonuria — Glycosuria is described as normal in pregnancy",
+    "Gross hematuria — Glycosuria is described as normal in pregnancy"
    ],
    "ans": 1,
-   "exp": "Glycosuria is described as normal in pregnancy. (Book p376)"
+   "exp": "Glycosuria is described as normal in pregnancy. (Book p376)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C6-024",
    "sec": "Diabetes physiology",
    "page": 376,
-   "q": "Why should a pregnant woman with diabetes avoid fasting, vomiting, or diarrhea?",
+   "q": "Fill up: should a pregnant woman with diabetes avoid fasting, vomiting, or diarrhea is ______.",
    "opts": [
     "They prevent glucose transfer to the fetus",
     "They make maternal insulin cross the placenta",
@@ -796,21 +817,23 @@
     "They always prevent insulin resistance"
    ],
    "ans": 2,
-   "exp": "Fasting, vomiting, or diarrhea can produce hypoglycemia, acetone bodies, and ketosis. (Book p376)"
+   "exp": "Fasting, vomiting, or diarrhea can produce hypoglycemia, acetone bodies, and ketosis. (Book p376)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C6-025",
    "sec": "Diabetes physiology",
    "page": 376,
-   "q": "Maternal hyperglycemia is considered fetotoxic chiefly because it promotes:",
+   "q": "Which of the following statements about Diabetes physiology regarding Free-radical formation that crosses the placenta is TRUE?",
    "opts": [
     "Maternal insulin transfer to the fetus",
     "Physiological thyroid suppression",
-    "Maternal hypocalcemia alone",
+    "Diabetes physiology — Maternal hypocalcemia alone",
     "Free-radical formation that crosses the placenta"
    ],
    "ans": 3,
-   "exp": "Hyperglycemia increases free radicals that cross the placenta and contribute to congenital malformations. (Book p376)"
+   "exp": "Hyperglycemia increases free radicals that cross the placenta and contribute to congenital malformations. (Book p376)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C6-026",
@@ -831,7 +854,7 @@
    "id": "OBG-C6-027",
    "sec": "Diabetes classification",
    "page": 377,
-   "q": "Which description best fits pregestational diabetes?",
+   "q": "All of the following are Diabetes classification EXCEPT:",
    "opts": [
     "A normoglycemic woman develops diabetes only after 24 weeks",
     "It resolves within 6 weeks after delivery",
@@ -839,13 +862,14 @@
     "A diabetic woman conceives and hyperglycemia is present from day 1"
    ],
    "ans": 3,
-   "exp": "In pregestational diabetes, the woman is diabetic at conception and blood sugar is high from day 1. (Book p377)"
+   "exp": "In pregestational diabetes, the woman is diabetic at conception and blood sugar is high from day 1. (Book p377)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C6-028",
    "sec": "Diabetes classification",
    "page": 377,
-   "q": "Why are congenital malformations characteristic of pregestational diabetes but not typical gestational diabetes?",
+   "q": "Fill up: are congenital malformations characteristic of pregestational diabetes but not typical gestational diabetes is ______.",
    "opts": [
     "In GDM, free radicals form after organogenesis",
     "GDM insulin crosses the placenta",
@@ -853,13 +877,14 @@
     "GDM starts before implantation"
    ],
    "ans": 0,
-   "exp": "GDM usually develops later, with free radicals forming after organogenesis, so congenital malformations are not typical. (Book p377)"
+   "exp": "GDM usually develops later, with free radicals forming after organogenesis, so congenital malformations are not typical. (Book p377)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C6-029",
    "sec": "Diabetes classification",
    "page": 377,
-   "q": "What is the usual postpartum course of gestational diabetes mellitus (GDM)?",
+   "q": "Which of the following statements about Diabetes classification is TRUE?",
    "opts": [
     "It resolves only after insulin therapy",
     "It resolves within 6 weeks after delivery",
@@ -867,27 +892,29 @@
     "It progresses immediately to type 1 diabetes"
    ],
    "ans": 1,
-   "exp": "The notes state that GDM resolves within 6 weeks postpartum. (Book p377)"
+   "exp": "The notes state that GDM resolves within 6 weeks postpartum. (Book p377)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C6-030",
    "sec": "White classification",
    "page": 377,
-   "q": "In Priscilla White classification, type A diabetes in pregnancy refers to:",
+   "q": "All of the following are White classification EXCEPT:",
    "opts": [
-    "Type 1 diabetes with nephropathy",
-    "Thyroid disease in pregnancy",
-    "Gestational diabetes",
-    "Pregestational diabetes"
+    "Type 1 diabetes with nephropathy — Type A in the Priscilla White classification denotes gestati",
+    "Thyroid disease in pregnancy — Type A in the Priscilla White classification denotes gestati",
+    "Gestational diabetes — Type A in the Priscilla White classification denotes gestati",
+    "Pregestational diabetes — Type A in the Priscilla White classification denotes gestati"
    ],
    "ans": 2,
-   "exp": "Type A in the Priscilla White classification denotes gestational diabetes. (Book p377)"
+   "exp": "Type A in the Priscilla White classification denotes gestational diabetes. (Book p377)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C6-031",
    "sec": "White classification",
    "page": 377,
-   "q": "What differentiates A1 from A2 gestational diabetes?",
+   "q": "Fill up: differentiates A1 from A2 gestational diabetes is ______.",
    "opts": [
     "A1 is pregestational; A2 is gestational",
     "A1 needs cesarean delivery; A2 never does",
@@ -895,35 +922,38 @@
     "A1 is diet controlled; A2 is controlled with insulin or metformin"
    ],
    "ans": 3,
-   "exp": "A1 GDM is diet controlled, while A2 is controlled with medication such as insulin or metformin. (Book p377)"
+   "exp": "A1 GDM is diet controlled, while A2 is controlled with medication such as insulin or metformin. (Book p377)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C6-032",
    "sec": "GDM timing",
    "page": 377,
-   "q": "GDM usually develops at what gestational age?",
+   "q": "Which of the following statements about GDM timing is TRUE?",
    "opts": [
-    "24–28 weeks",
-    "Before 6 weeks",
-    "At delivery",
-    "After 40 weeks"
+    "GDM timing — 24–28 weeks",
+    "GDM timing — Before 6 weeks",
+    "GDM timing — At delivery",
+    "GDM timing — After 40 weeks"
    ],
    "ans": 0,
-   "exp": "GDM usually develops between 24 and 28 weeks. (Book p377)"
+   "exp": "GDM usually develops between 24 and 28 weeks. (Book p377)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C6-033",
    "sec": "GDM timing",
    "page": 377,
-   "q": "GDM diagnosed before 20 weeks should generally raise suspicion for:",
+   "q": "All of the following are GDM timing EXCEPT:",
    "opts": [
-    "Rh sensitization",
-    "Pregestational diabetes",
-    "Physiological glycosuria only",
-    "Inevitable abortion"
+    "Rh sensitization — Diabetes diagnosed before 20 weeks is usually pregestational",
+    "Pregestational diabetes — Diabetes diagnosed before 20 weeks is usually pregestational",
+    "Physiological glycosuria only — Diabetes diagnosed before 20 weeks is usually pregestational",
+    "Inevitable abortion — Diabetes diagnosed before 20 weeks is usually pregestational"
    ],
    "ans": 1,
-   "exp": "Diabetes diagnosed before 20 weeks is usually pregestational diabetes. (Book p377)"
+   "exp": "Diabetes diagnosed before 20 weeks is usually pregestational diabetes. (Book p377)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C6-034",

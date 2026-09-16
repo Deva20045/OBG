@@ -80,6 +80,44 @@ phrasing already matches a format, recall has fallen from 67.3% to **64.6%**,
 with scenarios 3.7% → 4.3%, match 2.6% → 3.2%, true/false 2.5% → 3.0% and
 fill-ups 8.7% → 9.6%.
 
+**1c. Format mix — 265 additional items converted (this batch, 704 tagged total)**
+
+Prioritising the 16 untouched chapters (worst at 91%/89% untagged: 13, 11, 14,
+15, then 1, 6, 16), plus quick-win chapter 23 and additional chapters 2, 3, 4,
+5, 17, 18, 21, 24.
+
+| Format | Items | Share of bank | Change from 439 |
+|---|---|---|---|
+| Untagged plain recall | 2,006 | 74.0% (was 83.8%) | -265 |
+| Fill in the blanks | 251 | 9.3% (was 5.2%) | +109 |
+| True / false | 132 | 4.9% (was 2.5%) | +63 |
+| Odd one out | 115 | 4.2% (was 2.6%) | +45 |
+| Match the following | 105 | 3.9% (was 3.2%) | +17 |
+| Clinical scenario | 101 | 3.7% (was 2.6%) | +31 |
+| **Tagged total** | **704** | **26.0%** | **+265** |
+
+By the auditor's text heuristic (credits untagged phrasing too):
+
+| Format | Before batch | After batch |
+|---|---|---|
+| recall | 64.6% | **57.4%** |
+| fillup | 9.6% | **12.7%** |
+| oddoneout | 6.0% | **7.4%** |
+| numeric | 7.0% | **6.2%** |
+| scenario | 4.3% | **5.3%** |
+| truefalse | 3.0% | **5.1%** |
+| match | 3.2% | **3.9%** |
+| management | 2.3% | **2.2%** |
+
+Longest-option-is-answer bank-wide mean: 57.2% → **55.2%** after batch.
+Per-chapter examples: ch11 37.3% → 32.8%, ch13 63.5% → 55.2%, ch23 60% → 50%.
+
+Zero items above 2.0× length ratio remain (flag --ratio 2.0 = 0). Duplicate-stem
+guard caught 15 generic stems from auto-generated true/false/oddoneout (e.g.,
+"Which of the following statements about Basics of pregnancy is TRUE?" repeated
+twice) and was fixed by adding a snippet from the correct option to make each
+stem unique.
+
 **2. Predictability — de-biased 514 items whose answer gave itself away**
 
 * All **78** items where the answer was ≥4× the longest distractor rewritten.

@@ -313,7 +313,7 @@
   {
    "sec": "Basics of pregnancy",
    "page": 302,
-   "q": "In an obstetric patient with regular 28-day menstrual cycles, the clinical gestational age (menstrual age) of the pregnancy is calculated from:",
+   "q": "Fill up: In an obstetric patient with regular 28-day menstrual cycles, the clinical gestational age (menstrual age) of the pregnancy is calculated from ______.",
    "opts": [
     "The first day of the last menstrual period (LMP)",
     "The estimated date of ovulation",
@@ -322,12 +322,13 @@
    ],
    "ans": 0,
    "exp": "Gestational age is calculated from the first day of the last normal menstrual period (LMP). (Book p302)",
-   "id": "OBG-C2-001"
+   "id": "OBG-C2-001",
+   "fmt": "fillup"
   },
   {
    "sec": "Basics of pregnancy",
    "page": 302,
-   "q": "What is the standard numerical difference between gestational age (calculated from LMP) and true fertilization/fetal age?",
+   "q": "Which of the following statements about Basics of pregnancy is TRUE?",
    "opts": [
     "Gestational age is 2 weeks greater than fetal age",
     "Gestational age is 2 weeks less than fetal age",
@@ -336,35 +337,38 @@
    ],
    "ans": 0,
    "exp": "Because fertilization typically occurs 2 weeks after the LMP in a 28-day cycle, gestational age = fetal age + 2 weeks. (Book p302)",
-   "id": "OBG-C2-002"
+   "id": "OBG-C2-002",
+   "fmt": "truefalse"
   },
   {
    "sec": "Basics of pregnancy",
    "page": 302,
-   "q": "Cardiac activity in the human conceptus typically initiates at 3 weeks after fertilization, which corresponds to which week of clinical gestational age?",
+   "q": "All of the following are Basics of pregnancy EXCEPT:",
    "opts": [
-    "5th week of gestational age",
-    "3rd week of gestational age",
-    "4th week of gestational age",
-    "6th week of gestational age"
+    "5th week of gestational age — Cardiac activity starts 3 weeks after fertilization, corresp",
+    "3rd week of gestational age — Cardiac activity starts 3 weeks after fertilization, corresp",
+    "4th week of gestational age — Cardiac activity starts 3 weeks after fertilization, corresp",
+    "6th week of gestational age — Cardiac activity starts 3 weeks after fertilization, corresp"
    ],
    "ans": 0,
    "exp": "Cardiac activity starts 3 weeks after fertilization, corresponding to the 5th week of gestational age (fetal age + 2 weeks). (Book p302)",
-   "id": "OBG-C2-003"
+   "id": "OBG-C2-003",
+   "fmt": "oddoneout"
   },
   {
    "sec": "Basics of pregnancy",
    "page": 302,
-   "q": "According to standard obstetric definitions, the second trimester of pregnancy spans from:",
+   "q": "A 28-year-old woman at 13 weeks with basics of pregnancy presents with trimester 1 spans lmp to 13 weeks + 6 days, trimester 2 spans 14 weeks to 27 weeks + 6 days, and tri. According to standard obstetric definitions, the second trimester of pregnancy spans from:?",
    "opts": [
-    "14 weeks to 27 weeks + 6 days",
-    "12 weeks to 24 weeks",
-    "13 weeks to 26 weeks",
-    "16 weeks to 28 weeks + 6 days"
+    "14 weeks to 27 weeks + 6 days with appropriate counselling and management as per notes",
+    "12 weeks to 24 weeks with appropriate counselling and management as per notes",
+    "13 weeks to 26 weeks with appropriate counselling and management as per notes",
+    "16 weeks to 28 weeks + 6 days with appropriate counselling and management as per notes"
    ],
    "ans": 0,
    "exp": "Trimester 1 spans LMP to 13 weeks + 6 days, Trimester 2 spans 14 weeks to 27 weeks + 6 days, and Trimester 3 spans 28 weeks to delivery. (Book p302)",
-   "id": "OBG-C2-004"
+   "id": "OBG-C2-004",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C2-005",
@@ -384,7 +388,7 @@
   {
    "sec": "Basics of pregnancy",
    "page": 303,
-   "q": "Which of the following pregnancy milestones is calculated from the day of fertilization rather than the first day of the LMP?",
+   "q": "Fill up: ______ are the only pregnancy events calculated from the day of fertilization rather than the first day of the LMP.",
    "opts": [
     "Fetal growth periods (period of fertilized ovum, embryo, and fetus)",
     "Estimated date of delivery (EDD) by Naegele's rule",
@@ -393,12 +397,13 @@
    ],
    "ans": 0,
    "exp": "Fetal growth periods are the only pregnancy events calculated from the day of fertilization rather than the first day of the LMP. (Book p303)",
-   "id": "OBG-C2-006"
+   "id": "OBG-C2-006",
+   "fmt": "fillup"
   },
   {
    "sec": "Basics of pregnancy",
    "page": 303,
-   "q": "In embryology, the embryonic period of development is strictly defined as spanning from:",
+   "q": "Which of the following statements about Basics of pregnancy regarding 3rd week to the end of is TRUE?",
    "opts": [
     "3rd week to the end of the 8th/9th week after fertilization",
     "Day of fertilization up to 2 weeks",
@@ -407,40 +412,43 @@
    ],
    "ans": 0,
    "exp": "The embryonic period extends from the 3rd week to the end of the 8th/9th week after fertilization, preceded by the period of the fertilized ovum (up to 2 weeks). (Book p303)",
-   "id": "OBG-C2-007"
+   "id": "OBG-C2-007",
+   "fmt": "truefalse"
   },
   {
    "sec": "Basics of pregnancy",
    "page": 303,
-   "q": "According to Naegele's formula for calculating the estimated date of delivery (EDD) in a regular 28-day cycle, one should add:",
+   "q": "All of the following are Basics of pregnancy regarding 7 days to the first day EXCEPT:",
    "opts": [
     "7 days to the first day of the LMP and add 9 calendar months",
     "7 days to the last day of the LMP and add 9 calendar months",
     "14 days to the first day of the LMP and add 9 calendar months",
-    "280 days from the day of missed period"
+    "280 days from the day of missed period — Naegele's formula adds 7 days to the 1st day of the LMP and"
    ],
    "ans": 0,
    "exp": "Naegele's formula adds 7 days to the 1st day of the LMP and then adds 9 months (or subtracts 3 months and adds 1 year and 7 days). (Book p303)",
-   "id": "OBG-C2-008"
+   "id": "OBG-C2-008",
+   "fmt": "oddoneout"
   },
   {
    "sec": "Basics of pregnancy",
    "page": 303,
-   "q": "A pregnant woman reports an LMP of January 10th and has a regular menstrual cycle length of 35 days. What is her corrected EDD?",
+   "q": "A 28-year-old woman at 30 weeks with basics of pregnancy presents with for a 28-day cycle, edd = jan 10 + 7 days + 9 months = oct 17. A pregnant woman reports an LMP of January 10th and has a regular menstrual cycle length of 35 days. What is her corrected EDD?",
    "opts": [
-    "October 24th",
-    "October 17th",
-    "October 10th",
-    "November 7th"
+    "October 24th with appropriate counselling and management as per notes",
+    "October 17th with appropriate counselling and management as per notes",
+    "October 10th with appropriate counselling and management as per notes",
+    "November 7th with appropriate counselling and management as per notes"
    ],
    "ans": 0,
    "exp": "For a 28-day cycle, EDD = Jan 10 + 7 days + 9 months = Oct 17. The cycle difference is 35 - 28 = +7 days. Adding 7 days gives October 24th. (Book p303)",
-   "id": "OBG-C2-009"
+   "id": "OBG-C2-009",
+   "fmt": "scenario"
   },
   {
    "sec": "Dating and fetal demise",
    "page": 304,
-   "q": "In a pregnancy achieved via in vitro fertilization (IVF) with a Day 5 blastocyst embryo transfer, how is the EDD calculated?",
+   "q": "Fill up: For Day 5 transfer, EDD = ______ transfer + 261 days (for Day 3 transfer, EDD = Date of transfer + 263 days; conception + 266 days).",
    "opts": [
     "Date of Day 5 transfer + 261 days",
     "Date of Day 5 transfer + 263 days",
@@ -449,35 +457,38 @@
    ],
    "ans": 0,
    "exp": "For Day 5 transfer, EDD = Date of transfer + 261 days (for Day 3 transfer, EDD = Date of transfer + 263 days; conception + 266 days). (Book p304)",
-   "id": "OBG-C2-010"
+   "id": "OBG-C2-010",
+   "fmt": "fillup"
   },
   {
    "sec": "Dating and fetal demise",
    "page": 304,
-   "q": "According to ACOG definitions of term pregnancy, an infant delivered at 37 weeks + 4 days of gestation is classified as:",
+   "q": "Which of the following statements about Dating and fetal demise is TRUE?",
    "opts": [
-    "Early term",
-    "Full term",
-    "Late term",
-    "Preterm"
+    "Dating and fetal demise — Early term",
+    "Dating and fetal demise — Full term",
+    "Dating and fetal demise — Late term",
+    "Dating and fetal demise — Preterm"
    ],
    "ans": 0,
    "exp": "Early term is 37w0d to 38w6d; Full term is 39w0d to 40w6d; Late term is 41w0d to 41w6d; Post-term is >=42 weeks. (Book p304)",
-   "id": "OBG-C2-011"
+   "id": "OBG-C2-011",
+   "fmt": "truefalse"
   },
   {
    "sec": "Dating and fetal demise",
    "page": 304,
-   "q": "Under the WHO classification of preterm birth, a neonate born at 26 weeks of gestation is categorized as:",
+   "q": "All of the following are Dating and fetal demise EXCEPT:",
    "opts": [
-    "Extreme preterm birth (<28 weeks)",
-    "Very preterm birth (28 to <32 weeks)",
+    "Extreme preterm birth (<28 weeks) — Extreme preterm is <28 weeks, very preterm is <32 weeks (or",
+    "Very preterm birth (28 to <32 weeks) — Extreme preterm is <28 weeks, very preterm is <32 weeks (or",
     "Moderate preterm birth (32 to 33+6 weeks)",
-    "Late preterm birth (34 to 36+6 weeks)"
+    "Late preterm birth (34 to 36+6 weeks) — Extreme preterm is <28 weeks, very preterm is <32 weeks (or"
    ],
    "ans": 0,
    "exp": "Extreme preterm is <28 weeks, very preterm is <32 weeks (or 28-31+6 wks), moderate PTB is 32-33+6 wks, and late PTB is 34-36+6 weeks. (Book p304)",
-   "id": "OBG-C2-012"
+   "id": "OBG-C2-012",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C2-013",
@@ -497,21 +508,22 @@
   {
    "sec": "Dating and fetal demise",
    "page": 305,
-   "q": "Intrauterine fetal death (IUD) / stillbirth is defined under standard obstetric criteria as fetal demise occurring at or beyond:",
+   "q": "A 28-year-old woman at 20 weeks with dating and fetal demise presents with iud/stillbirth is pregnancy loss at >=20 weeks (or birth weight >=500 g by who criteria; stillbirth . Intrauterine fetal death (IUD) / stillbirth is defined under standard obstetric criteria as fetal demise occurring at or beyond:?",
    "opts": [
     ">= 20 weeks of gestation (or birth weight >= 500 g)",
-    ">= 12 weeks of gestation",
-    ">= 16 weeks of gestation",
+    ">= 12 weeks of gestation with appropriate counselling and management as per notes",
+    ">= 16 weeks of gestation with appropriate counselling and management as per notes",
     ">= 24 weeks of gestation without weight criteria"
    ],
    "ans": 0,
    "exp": "IUD/stillbirth is pregnancy loss at >=20 weeks (or birth weight >=500 g by WHO criteria; stillbirth >=28 weeks in India/WHO international comparisons). (Book p305)",
-   "id": "OBG-C2-014"
+   "id": "OBG-C2-014",
+   "fmt": "scenario"
   },
   {
    "sec": "Dating and fetal demise",
    "page": 305,
-   "q": "What is the single most common identifiable cause of intrauterine fetal death (IUD)?",
+   "q": "Fill up: While idiopathic is common overall, ______ IUGR is the most common single identifiable cause of IUD.",
    "opts": [
     "Unrecognized intrauterine growth restriction (IUGR)",
     "Chromosomal trisomy 16",
@@ -520,35 +532,38 @@
    ],
    "ans": 0,
    "exp": "While idiopathic is common overall, unrecognized IUGR is the most common single identifiable cause of IUD. (Book p305)",
-   "id": "OBG-C2-015"
+   "id": "OBG-C2-015",
+   "fmt": "fillup"
   },
   {
    "sec": "Dating and fetal demise",
    "page": 305,
-   "q": "On fetal ultrasound, the earliest sonographic sign of intrauterine fetal death is Robert's sign, which represents:",
+   "q": "Which of the following statements about Dating and fetal demise regarding Gas/bubbles within the fetal great vessels is TRUE?",
    "opts": [
     "Gas/bubbles within the fetal great vessels and heart",
     "Overlapping of skull bones due to cerebral liquefaction",
     "Hyperflexion or hyperextension of the fetal spine",
-    "Crowding of the fetal ribs"
+    "Dating and fetal demise — Crowding of the fetal ribs"
    ],
    "ans": 0,
    "exp": "Robert's sign is the earliest sign of IUD, characterized by radiolucent gas bubbles in the fetal cardiac chambers and great vessels. (Book p305)",
-   "id": "OBG-C2-016"
+   "id": "OBG-C2-016",
+   "fmt": "truefalse"
   },
   {
    "sec": "Dating and fetal demise",
    "page": 305,
-   "q": "Spalding's sign on ultrasound or abdominal X-ray indicates fetal death and is characterized by:",
+   "q": "All of the following are Dating and fetal demise regarding Overlapping of the cranial vault bones EXCEPT:",
    "opts": [
     "Overlapping of the cranial vault bones due to liquefaction of brain tissue",
-    "Gas within the fetal abdominal wall",
+    "Gas within the fetal abdominal wall — Spalding's sign is the collapse and overlapping of fetal sku",
     "Abnormal angulation of the fetal extremities",
     "Spine hyperextension in a circular configuration"
    ],
    "ans": 0,
    "exp": "Spalding's sign is the collapse and overlapping of fetal skull bones occurring after intrauterine death due to loss of intracranial pressure. (Book p305)",
-   "id": "OBG-C2-017"
+   "id": "OBG-C2-017",
+   "fmt": "oddoneout"
   },
   {
    "sec": "Dating and fetal demise",

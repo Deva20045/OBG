@@ -7,7 +7,7 @@
    "id": "OBG-C17-001",
    "sec": "The four stages & the first stage: latent vs active phase",
    "page": 499,
-   "q": "Match each stage of labour to its boundaries – 1st : 2nd : 3rd : 4th.",
+   "q": "Fill up: 1st: ______ → full dilatation; 2nd: → delivery of baby; 3rd: → delivery of placenta; 4th: 1–2 hrs observation after placenta.",
    "opts": [
     "True labour pain to full dilatation (10 cm) : full dilatation to delivery of baby : delivery of baby to delivery of placenta : 1–2 hrs observation after placenta",
     "Onset of pain to engagement : engagement to crowning : crowning to birth : birth to placenta",
@@ -15,13 +15,14 @@
     "Rupture of membranes to full dilatation : birth of baby : placenta : 24 hrs after placenta"
    ],
    "ans": 0,
-   "exp": "1st: true labour pain → full dilatation; 2nd: → delivery of baby; 3rd: → delivery of placenta; 4th: 1–2 hrs observation after placenta. (Book p499)"
+   "exp": "1st: true labour pain → full dilatation; 2nd: → delivery of baby; 3rd: → delivery of placenta; 4th: 1–2 hrs observation after placenta. (Book p499)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C17-002",
    "sec": "The four stages & the first stage: latent vs active phase",
    "page": 499,
-   "q": "Match the guideline to the latent-phase end / active-phase start dilatation – ACOG : New WHO : Old WHO.",
+   "q": "Which of the following statements about The four stages & the first stage: latent vs active phase is TRUE?",
    "opts": [
     "5 → 6 cm : 4 → 5 cm : 3 → 4 cm",
     "3 → 4 cm : 4 → 5 cm : 5 → 6 cm",
@@ -29,13 +30,14 @@
     "6 → 7 cm : 5 → 6 cm : 4 → 5 cm"
    ],
    "ans": 0,
-   "exp": "ACOG: latent ends 5 cm, active begins 6 cm; New WHO: 4 cm / 5 cm; Old WHO: 3 cm / 4 cm. (Book p499)"
+   "exp": "ACOG: latent ends 5 cm, active begins 6 cm; New WHO: 4 cm / 5 cm; Old WHO: 3 cm / 4 cm. (Book p499)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C17-003",
    "sec": "The four stages & the first stage: latent vs active phase",
    "page": 499,
-   "q": "The characteristic EVENT of the latent phase is ______ while the active phase involves ______.",
+   "q": "All of the following are The four stages & the first stage: latent vs active phase EXCEPT:",
    "opts": [
     "Effacement with slow dilatation; then rapid dilatation with descent",
     "Descent with slow dilatation; then effacement with no further change",
@@ -43,13 +45,14 @@
     "Effacement only, no dilatation; then descent with slow cervical change"
    ],
    "ans": 0,
-   "exp": "The latent phase is the event of effacement with slow dilatation; the active phase is rapid dilatation with partial descent of the fetal head. (Book p499)"
+   "exp": "The latent phase is the event of effacement with slow dilatation; the active phase is rapid dilatation with partial descent of the fetal head. (Book p499)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C17-004",
    "sec": "The four stages & the first stage: latent vs active phase",
    "page": 499,
-   "q": "Duration of latent and active phases – Primigravida : Multigravida.",
+   "q": "A 28-year-old woman at 30 weeks with the four stages & the first stage: latent vs active phase presents with primi: latent 12 h, active 4 h; multi: latent 8 h, active 3 h. Duration of latent and active phases – Primigravida : Multigravida?",
    "opts": [
     "Latent 12 hrs, active 4 hrs : latent 8 hrs, active 3 hrs",
     "Latent 8 hrs, active 3 hrs : latent 12 hrs, active 4 hrs",
@@ -57,13 +60,14 @@
     "Latent 6 hrs, active 2 hrs : latent 4 hrs, active 1 hr"
    ],
    "ans": 0,
-   "exp": "Primi: latent 12 h, active 4 h; multi: latent 8 h, active 3 h. (Book p499)"
+   "exp": "Primi: latent 12 h, active 4 h; multi: latent 8 h, active 3 h. (Book p499)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C17-005",
    "sec": "The four stages & the first stage: latent vs active phase",
    "page": 499,
-   "q": "Plotting of the active phase begins at ______ on the modified WHO partogram and at ______ on the WHO Labour Care Guide 2020; the latent phase is ______.",
+   "q": "Fill up: Plotting of the active phase begins at ______ on the modified WHO partogram and at ______ on the WHO Labour Care Guide 2020; the latent phase is ______. is ______.",
    "opts": [
     "4 cm; 5 cm; not plotted",
     "3 cm; 4 cm; plotted separately",
@@ -71,7 +75,8 @@
     "4 cm; 6 cm; plotted in the first column"
    ],
    "ans": 0,
-   "exp": "Modified WHO partogram begins at 4 cm (old WHO); Labour Care Guide begins at 5 cm; latent phase is not plotted. (Book p499)"
+   "exp": "Modified WHO partogram begins at 4 cm (old WHO); Labour Care Guide begins at 5 cm; latent phase is not plotted. (Book p499)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C17-006",
@@ -92,43 +97,46 @@
    "id": "OBG-C17-007",
    "sec": "Prolonged latent phase",
    "page": 499,
-   "q": "Prolonged latent phase is a latent phase lasting:",
+   "q": "Which of the following statements about Prolonged latent phase is TRUE?",
    "opts": [
     "≥20 hrs in primigravida or ≥14 hrs in multigravida",
     "≥14 hrs in primigravida or ≥20 hrs in multigravida",
     "≥12 hrs in primigravida or ≥8 hrs in multigravida",
-    ">24 hrs in either"
+    "Prolonged latent phase — >24 hrs in either"
    ],
    "ans": 0,
-   "exp": "≥20 h in primigravida or ≥14 h in multigravida. (Book p499)"
+   "exp": "≥20 h in primigravida or ≥14 h in multigravida. (Book p499)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C17-008",
    "sec": "Prolonged latent phase",
    "page": 499,
-   "q": "Match the cause of prolonged latent phase with management – Unripe cervix : Occipito-posterior position : False labour pains.",
+   "q": "All of the following are Prolonged latent phase EXCEPT:",
    "opts": [
     "Prostaglandins (PGE1 & PGE2) : wait for spontaneous delivery : therapeutic rest (best)",
     "Therapeutic rest : prostaglandins : oxytocin",
-    "Oxytocin : C-section : prostaglandins",
-    "ARM : manual rotation : oxytocin"
+    "Oxytocin : C-section : prostaglandins — Unripe cervix → PGE1/PGE2; OP position → await spontaneous d",
+    "ARM : manual rotation : oxytocin — Unripe cervix → PGE1/PGE2; OP position → await spontaneous d"
    ],
    "ans": 0,
-   "exp": "Unripe cervix → PGE1/PGE2; OP position → await spontaneous delivery; false labour pains → therapeutic rest (best management). (Book p499)"
+   "exp": "Unripe cervix → PGE1/PGE2; OP position → await spontaneous delivery; false labour pains → therapeutic rest (best management). (Book p499)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C17-009",
    "sec": "Prolonged latent phase",
    "page": 499,
-   "q": "Prolonged latent stage as an indication for caesarean section – true or false?",
+   "q": "A 28-year-old woman at 30 weeks with prolonged latent phase presents with note: prolonged latent stage is not an indication for c-section. Prolonged latent stage as an indication for caesarean section – true or false?",
    "opts": [
     "False – prolonged latent stage is NOT an indication for C-section",
-    "True – always requires C-section",
-    "True – only in primigravida",
-    "True – only if membranes ruptured"
+    "True – always requires C-section with appropriate counselling and management as per notes",
+    "True – only in primigravida with appropriate counselling and management as per notes",
+    "True – only if membranes ruptured with appropriate counselling and management as per notes"
    ],
    "ans": 0,
-   "exp": "Note: prolonged latent stage is not an indication for C-section. (Book p499)"
+   "exp": "Note: prolonged latent stage is not an indication for C-section. (Book p499)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C17-010",
@@ -149,7 +157,7 @@
    "id": "OBG-C17-011",
    "sec": "Active phase: normal rates & protracted active phase",
    "page": 500,
-   "q": "Normal active-phase rate of cervical dilatation – Primigravida : Multigravida.",
+   "q": "Fill up: Dilatation: primi ______, multi 1.5 cm/hr.",
    "opts": [
     "1.2 cm/hr : 1.5 cm/hr",
     "1 cm/hr : 2 cm/hr",
@@ -157,21 +165,23 @@
     "2 cm/hr : 1 cm/hr"
    ],
    "ans": 0,
-   "exp": "Dilatation: primi 1.2 cm/hr, multi 1.5 cm/hr. (Book p500)"
+   "exp": "Dilatation: primi 1.2 cm/hr, multi 1.5 cm/hr. (Book p500)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C17-012",
    "sec": "Active phase: normal rates & protracted active phase",
    "page": 500,
-   "q": "Normal active-phase rate of descent of fetal head – Primigravida : Multigravida.",
+   "q": "Which of the following statements about Active phase: normal rates & protracted active phase is TRUE?",
    "opts": [
-    "1 cm/hr : 2 cm/hr",
-    "1.2 cm/hr : 1.5 cm/hr",
-    "2 cm/hr : 1 cm/hr",
-    "0.5 cm/hr : 1 cm/hr"
+    "Active phase: normal rates & protracted active phase — 1 cm/hr : 2 cm/hr",
+    "Active phase: normal rates & protracted active phase — 1.2 cm/hr : 1.5 cm/hr",
+    "Active phase: normal rates & protracted active phase — 2 cm/hr : 1 cm/hr",
+    "Active phase: normal rates & protracted active phase — 0.5 cm/hr : 1 cm/hr"
    ],
    "ans": 0,
-   "exp": "Descent: primi 1 cm/hr, multi 2 cm/hr. (Book p500)"
+   "exp": "Descent: primi 1 cm/hr, multi 2 cm/hr. (Book p500)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C17-013",

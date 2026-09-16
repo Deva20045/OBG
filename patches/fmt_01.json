@@ -1,0 +1,392 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C1-001",
+    "q": "Fill up: Gametogenesis begins with the primordial germ cell (PGC), which is embryologically derived from ______.",
+    "opts": [
+      "Epiblast and ectoderm",
+      "Hypoblast and endoderm",
+      "Splanchnopleuric mesoderm",
+      "Neural crest cells"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-002",
+    "q": "Fill up: Primordial germ cells are described as bipotent because they possess the developmental capability to form ______.",
+    "opts": [
+      "Both spermatogonia and oogonia",
+      "Both embryonic and trophoblastic tissues",
+      "All three embryonic germ layers only",
+      "Both syncytiotrophoblast and cytotrophoblast"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-003",
+    "q": "Fill up: Sexual differentiation of the primordial germ cells into male or female gametogonia is fundamentally determined by the ______.",
+    "opts": [
+      "SRY gene on chromosome Y",
+      "DAX1 gene on chromosome X",
+      "SOX9 gene on chromosome 17",
+      "WT1 gene on chromosome 11"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-004",
+    "q": "Fill up: The SRY gene is located on the ______.",
+    "opts": [
+      "Distal end of the short arm of chromosome Y",
+      "Centromeric region of chromosome Y",
+      "Long arm of chromosome Y (Yq11)",
+      "Pseudoautosomal region of chromosome X"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-005",
+    "q": "Fill up: When the SRY gene on chromosome Y is absent, primordial germ cells normally differentiate into ______.",
+    "opts": [
+      "Oogonia",
+      "Spermatogonia",
+      "Leydig cells",
+      "Sertoli cells"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-007",
+    "q": "Fill up: Spermatogenesis begins ______, unlike oogenesis which starts in intrauterine life.",
+    "opts": [
+      "At puberty",
+      "During intrauterine life",
+      "At birth",
+      "During early infancy"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-008",
+    "q": "Fill up: ______ divide and replenish the stem stores of spermatogonia.",
+    "opts": [
+      "Type A spermatogonia",
+      "Type B spermatogonia",
+      "Primary spermatocytes",
+      "Secondary spermatocytes"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-009",
+    "q": "Fill up: The male germ cells that undergo maturation and enter spermatogenesis are designated as ______.",
+    "opts": [
+      "Type B (pale) spermatogonia",
+      "Type A (dark) spermatogonia",
+      "Primordial germ cells",
+      "Sertoli sustentacular cells"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-010",
+    "q": "Fill up: One spermatogonium produces ______.",
+    "opts": [
+      "16 primary spermatocytes",
+      "4 primary spermatocytes",
+      "8 primary spermatocytes",
+      "64 primary spermatocytes"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-011",
+    "q": "Fill up: During Meiosis I of spermatogenesis, chromosome reduction occurs when one primary spermatocyte (46, XY) divides to form ______.",
+    "opts": [
+      "Two secondary spermatocytes (23, X and 23, Y)",
+      "Four haploid spermatids",
+      "Two diploid primary spermatocytes",
+      "One secondary spermatocyte and one polar body"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-012",
+    "q": "Fill up: Each primary spermatocyte produces ______, and one spermatogonium yields 64 spermatids.",
+    "opts": [
+      "4 spermatids and 64 spermatids",
+      "2 spermatids and 16 spermatids",
+      "4 spermatids and 16 spermatids",
+      "8 spermatids and 32 spermatids"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-013",
+    "q": "Fill up: The developmental process termed spermiogenesis is best defined as the ______.",
+    "opts": [
+      "Morphological transformation of spermatids into spermatozoa without cell division",
+      "First meiotic division reducing chromosome number to haploid",
+      "Second meiotic division producing round spermatids",
+      "Release of mature spermatozoa into the tubule lumen"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-014",
+    "q": "Fill up: The process by which mature spermatozoa detach from Sertoli cells and are released into the seminiferous tubule lumen is termed ______.",
+    "opts": [
+      "Spermiation",
+      "Spermiogenesis",
+      "Capacitation",
+      "Acrosome reaction"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-015",
+    "q": "Fill up: The time taken for spermatogenesis is ______.",
+    "opts": [
+      "70–74 days (~72 days)",
+      "10–14 days as per notes",
+      "48–72 hours as per notes",
+      "90–120 days as per notes"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-016",
+    "q": "Fill up: The time required specifically for the morphogenetic phase of spermiogenesis is ______.",
+    "opts": [
+      "10–14 days",
+      "30 minutes",
+      "72 days",
+      "48–72 hours"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-018",
+    "q": "Fill up: The basal compartment contains ______; adluminal holds secondary spermatocytes, spermatids, and sperms.",
+    "opts": [
+      "Spermatogonia and early primary spermatocytes",
+      "Secondary spermatocytes and spermatids",
+      "Spermatids and mature spermatozoa",
+      "Only mature flagellated spermatozoa"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-019",
+    "q": "Fill up: The adluminal compartment contains ______ sperms, while the basal compartment contains spermatogonia and early primary spermatocytes.",
+    "opts": [
+      "Secondary spermatocytes, spermatids, and spermatozoa",
+      "Spermatogonia and early primary spermatocytes",
+      "Primordial germ cells and Leydig interstitial cells",
+      "Only Type A and Type B spermatogonia"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-020",
+    "q": "Fill up: The blood-testis barrier that physically partitions the seminiferous tubule into basal and adluminal compartments is formed by specialized tight junctions between ______.",
+    "opts": [
+      "Adjacent Sertoli cells",
+      "Adjacent Leydig interstitial cells",
+      "Peritubular myoid cells",
+      "Developing primary spermatocytes"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-021",
+    "q": "Fill up: The acrosomal cap is formed by the ______ of the spermatid.",
+    "opts": [
+      "Golgi apparatus",
+      "Centriole",
+      "Mitochondria",
+      "Endoplasmic reticulum"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-022",
+    "q": "Fill up: The middle piece of the mature spermatozoon is termed the powerhouse of the cell because it is composed of condensed ______.",
+    "opts": [
+      "Mitochondria",
+      "Golgi bodies",
+      "Centrioles",
+      "Lysosomes"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-023",
+    "q": "Fill up: The axial filament forming the flagellar tail of the mature spermatozoon originates from the spermatid's ______.",
+    "opts": [
+      "Centriole",
+      "Golgi apparatus",
+      "Peroxisome",
+      "Nucleolus"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-024",
+    "q": "Fill up: The axoneme within the flagellar tail of the spermatozoon exhibits which characteristic microtubular arrangement is ______.",
+    "opts": [
+      "9 + 2 microtubule doublet arrangement",
+      "9 + 0 triplet arrangement",
+      "8 + 2 singlet arrangement",
+      "7 + 2 doublet arrangement"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-025",
+    "q": "Fill up: The total size of a mature spermatozoon is ______ (compared to 120 µm for an ovum).",
+    "opts": [
+      "50–60 µm",
+      "120 µm",
+      "10–20 µm",
+      "18–20 mm"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-026",
+    "q": "Fill up: The fertilisable lifespan of sperm is ______, whereas the ovum's lifespan is 12–24 hours.",
+    "opts": [
+      "48–72 hours",
+      "12–24 hours",
+      "6–8 hours",
+      "5–7 days"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-027",
+    "q": "Fill up: In the male reproductive tract, spermatozoa attain structural maturity in the proximal epididymis, while progressive forward motility is acquired in the ______.",
+    "opts": [
+      "Distal epididymis",
+      "Seminiferous tubules",
+      "Rete testis",
+      "Prostatic urethra"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-028",
+    "q": "Fill up: Epididymal maturation takes ______.",
+    "opts": [
+      "12–14 days",
+      "70–74 days",
+      "30 minutes",
+      "6–8 hours"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-029",
+    "q": "Fill up: The total duration required to produce fully mature, motile spermatozoa (testicular spermatogenesis plus epididymal maturation) is ______.",
+    "opts": [
+      "90 days",
+      "72 days",
+      "30 days",
+      "120 days"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-030",
+    "q": "Fill up: Time taken by sperm to reach the fertilization site after ejaculation is ______.",
+    "opts": [
+      "30 minutes",
+      "6–8 hours",
+      "24 hours",
+      "2 hours"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-032",
+    "q": "Fill up: Unlike spermatogenesis which begins at puberty, oogenesis in the female commences during ______.",
+    "opts": [
+      "Intrauterine life",
+      "The neonatal period",
+      "Early childhood",
+      "Menarche"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C1-033",
+    "q": "Fill up: Primary oocytes arrest in the ______, also known as the dictyate state.",
+    "opts": [
+      "Diplotene stage of Prophase I",
+      "Metaphase II",
+      "Pachytene stage of Prophase I",
+      "Anaphase I"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  }
+]

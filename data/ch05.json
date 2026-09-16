@@ -276,7 +276,7 @@
   {
    "sec": "Respiratory physiology",
    "page": 358,
-   "q": "Which maternal lung volume or capacity exhibits a prominent 30% to 50% increase during normal singleton pregnancy?",
+   "q": "Fill up: Progesterone directly stimulates the medullary respiratory center to increase ______ by 30-50% (and minute ventilation by 40%).",
    "opts": [
     "Tidal volume (VT)",
     "Residual volume (RV)",
@@ -285,12 +285,13 @@
    ],
    "ans": 0,
    "exp": "Progesterone directly stimulates the medullary respiratory center to increase tidal volume by 30-50% (and minute ventilation by 40%). (Book p358)",
-   "id": "OBG-C5-001"
+   "id": "OBG-C5-001",
+   "fmt": "fillup"
   },
   {
    "sec": "Respiratory physiology",
    "page": 358,
-   "q": "What happens to the maternal respiratory rate (breaths per minute) during normal pregnancy?",
+   "q": "Which of the following statements about Respiratory physiology is TRUE?",
    "opts": [
     "It remains essentially constant (or shows a negligible increase)",
     "It doubles from 14 to 28 breaths per minute",
@@ -299,26 +300,28 @@
    ],
    "ans": 0,
    "exp": "The respiratory rate remains unchanged (or shows minimal increase); hyperventilation is achieved via increased tidal volume, not tachypnea. (Book p358)",
-   "id": "OBG-C5-002"
+   "id": "OBG-C5-002",
+   "fmt": "truefalse"
   },
   {
    "sec": "Respiratory physiology",
    "page": 358,
-   "q": "Due to upward displacement of the diaphragm by 4 cm by the enlarging uterus, which lung parameters DECREASE by approximately 20%?",
+   "q": "All of the following are Respiratory physiology EXCEPT:",
    "opts": [
     "Functional Residual Capacity (FRC) and Expiratory Reserve Volume (ERV)",
-    "Vital Capacity and Inspiratory Capacity",
-    "Tidal Volume and Minute Ventilation",
+    "Vital Capacity and Inspiratory Capacity — Elevated diaphragm position reduces Functional Residual Capa",
+    "Tidal Volume and Minute Ventilation — Elevated diaphragm position reduces Functional Residual Capa",
     "Total Lung Capacity and Anatomical Dead Space"
    ],
    "ans": 0,
    "exp": "Elevated diaphragm position reduces Functional Residual Capacity (FRC) and Expiratory Reserve Volume (ERV) by ~20%. (Book p358)",
-   "id": "OBG-C5-003"
+   "id": "OBG-C5-003",
+   "fmt": "oddoneout"
   },
   {
    "sec": "Respiratory physiology",
    "page": 358,
-   "q": "What physiological acid-base state is characteristically observed on maternal arterial blood gas analysis during normal pregnancy?",
+   "q": "A 28-year-old woman at 30 weeks with respiratory physiology presents with normal pregnancy shows a chronic compensated respiratory alkalosis, with pco2 28-32 mmhg, hco3 18-22. What physiological acid-base state is characteristically observed on maternal arterial blood gas analysis during normal pregnancy?",
    "opts": [
     "Compensated respiratory alkalosis: pCO2 28-32, HCO3 18-22, pH 7.40-7.45",
     "Uncompensated metabolic acidosis: pCO2 45-50, HCO3 12-16, pH 7.20-7.28",
@@ -327,12 +330,13 @@
    ],
    "ans": 0,
    "exp": "Normal pregnancy shows a chronic compensated respiratory alkalosis, with pCO2 28-32 mmHg, HCO3 18-22 mEq/L and arterial pH held at 7.40-7.45. (Book p358)",
-   "id": "OBG-C5-004"
+   "id": "OBG-C5-004",
+   "fmt": "scenario"
   },
   {
    "sec": "Respiratory physiology",
    "page": 358,
-   "q": "What is the biological advantage of maternal physiological respiratory alkalosis (low maternal pCO2 of 28-32 mmHg) for the fetus?",
+   "q": "Fill up: is the biological advantage of maternal physiological respiratory alkalosis (low maternal pCO2 of 28-32 mmHg) for the fetus is ______.",
    "opts": [
     "It creates a gradient that drives CO2 rapidly from fetal blood into maternal blood",
     "It stimulates fetal renal surfactant synthesis and accelerates lung maturity",
@@ -341,7 +345,8 @@
    ],
    "ans": 0,
    "exp": "Maternal physiological respiratory alkalosis (pCO2 28-32 mmHg) establishes a favourable partial pressure gradient promoting rapid transfer of CO2 from fetal circulation to maternal blood. (Book p358)",
-   "id": "OBG-C5-005"
+   "id": "OBG-C5-005",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C5-006",
@@ -361,7 +366,7 @@
   {
    "sec": "Systemic and visceral shifts",
    "page": 358,
-   "q": "During pregnancy, maternal oxygen consumption increases by 20%, but the arteriovenous (A-V) oxygen gradient decreases. Why?",
+   "q": "Which of the following statements about Systemic and visceral shifts is TRUE?",
    "opts": [
     "The 40-50% rise in cardiac output far exceeds tissue oxygen extraction",
     "Fetal tissues consume no oxygen at all throughout the pregnancy",
@@ -370,26 +375,28 @@
    ],
    "ans": 0,
    "exp": "Oxygen consumption rises 20% but the A-V gradient falls because the disproportionate 40-50% surge in maternal cardiac output delivers oxygen far in excess of tissue extraction. (Book p358)",
-   "id": "OBG-C5-007"
+   "id": "OBG-C5-007",
+   "fmt": "truefalse"
   },
   {
    "sec": "Systemic and visceral shifts",
    "page": 358,
-   "q": "During normal pregnancy, the maternal pituitary gland enlarges by approximately 135%, primarily due to hypertrophy of prolactin-secreting lactotrophs. If severe postpartum hemorrhage occurs, this enlarged gland is prone to ischemic necrosis known as:",
+   "q": "All of the following are Systemic and visceral shifts EXCEPT:",
    "opts": [
-    "Sheehan syndrome",
-    "Simmonds disease",
-    "Nelson syndrome",
-    "Schmidt syndrome"
+    "Sheehan syndrome — Enlargement of the anterior pituitary makes it vulnerable to",
+    "Simmonds disease — Enlargement of the anterior pituitary makes it vulnerable to",
+    "Nelson syndrome — Enlargement of the anterior pituitary makes it vulnerable to",
+    "Schmidt syndrome — Enlargement of the anterior pituitary makes it vulnerable to"
    ],
    "ans": 0,
    "exp": "Enlargement of the anterior pituitary makes it vulnerable to ischemic infarction during severe hypotension in PPH (Sheehan syndrome). (Book p358)",
-   "id": "OBG-C5-008"
+   "id": "OBG-C5-008",
+   "fmt": "oddoneout"
   },
   {
    "sec": "Systemic and visceral shifts",
    "page": 358,
-   "q": "Approximately how much total elemental calcium does the developing fetal skeleton accumulate across pregnancy, and how does maternal physiology supply this?",
+   "q": "A 28-year-old woman at 30 weeks with systemic and visceral shifts presents with the fetus acquires ~30 g of calcium (mostly in t3), met by doubling maternal intestinal absorption s. Approximately how much total elemental calcium does the developing fetal skeleton accumulate across pregnancy, and how does maternal physiology supply this?",
    "opts": [
     "Approximately 30 g; supplied by doubled maternal intestinal calcium absorption under active 1,25-(OH)2 Vitamin D",
     "Approximately 500 g; supplied by maternal bone resorption",
@@ -398,7 +405,8 @@
    ],
    "ans": 0,
    "exp": "The fetus acquires ~30 g of calcium (mostly in T3), met by doubling maternal intestinal absorption stimulated by 1,25-dihydroxyvitamin D. (Book p358)",
-   "id": "OBG-C5-009"
+   "id": "OBG-C5-009",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C5-010",
@@ -418,7 +426,7 @@
   {
    "sec": "Iron physiology and national programs",
    "page": 359,
-   "q": "What is the total cumulative elemental iron requirement throughout a normal singleton pregnancy?",
+   "q": "Fill up: The total extra requirement is ______ mg of elemental iron, and the breakdown matters when explaining why supplementation is needed.",
    "opts": [
     "About 1000 mg: 300 mg for the fetus and placenta, 500 mg for red cell expansion and 200 mg excreted",
     "About 300 mg: 100 mg for the fetus and placenta, 150 mg for red cell expansion and 50 mg excreted",
@@ -427,12 +435,13 @@
    ],
    "ans": 0,
    "exp": "The total extra requirement is about 1000 mg of elemental iron, and the breakdown matters when explaining why supplementation is needed. (Book p359)",
-   "id": "OBG-C5-011"
+   "id": "OBG-C5-011",
+   "fmt": "fillup"
   },
   {
    "sec": "Iron physiology and national programs",
    "page": 359,
-   "q": "How does iron transfer across the placenta from the maternal circulation into fetal blood?",
+   "q": "Which of the following statements about Iron physiology and national programs is TRUE?",
    "opts": [
     "Active transport via transferrin receptors against a concentration gradient",
     "Simple passive diffusion through intercellular clefts",
@@ -441,7 +450,8 @@
    ],
    "ans": 0,
    "exp": "Placental syncytiotrophoblasts extract iron via transferrin receptors and actively pump it to the fetus against a concentration gradient. (Book p359)",
-   "id": "OBG-C5-012"
+   "id": "OBG-C5-012",
+   "fmt": "truefalse"
   },
   {
    "sec": "Iron physiology and national programs",
