@@ -293,6 +293,46 @@ lives in `AUDIT.md`; the headline numbers are:
   weeks. The answer key now points at 32 and 36 weeks, which is also consistent
   with the neighbouring item on third-trimester placental migration.
 
+#### Batch 2 — 265 items across 16 untouched chapters (this PR)
+
+- **265 additional recall items converted** into the five requested formats and
+  tagged with explicit `fmt` (patches/fmt_11, fmt_13, fmt_14, fmt_15, fmt_23,
+  fmt_01, fmt_06, fmt_02, fmt_03, fmt_04, fmt_05, fmt_16, fmt_17, fmt_18, fmt_21,
+  fmt_24 and fmt_dupfix): fill-ups, match-the-following, odd-one-out,
+  true/false and clinical scenarios, prioritising chapters 13, 11, 14, 15
+  (worst at 91%/89% untagged), then 1, 6, 16, and the quick win chapter 23.
+- Tagged items rose from **439 to 704**; untagged plain recall fell from
+  **2,271 to 2,006** (83.8% to **74.0%** of the bank).
+- Per-format tag counts after batch 2:
+  - fillup **251** (was 142) — 9.3% of bank
+  - truefalse **132** (was 69) — 4.9%
+  - oddoneout **115** (was 70) — 4.2%
+  - match **105** (was 88) — 3.9%
+  - scenario **101** (was 70) — 3.7%
+- By audit_variety.py heuristic (which also credits untagged items whose
+  phrasing already matches a format):
+  - recall **64.6% → 57.4%**
+  - fillup **9.6% → 12.7%**
+  - oddoneout **6.0% → 7.4%**
+  - scenario **4.3% → 5.3%**
+  - truefalse **3.0% → 5.1%**
+  - match **3.2% → 3.9%**
+- Per-chapter untagged improvement (selected):
+  - ch11 91% → 61/67 → 36/67 (53% untagged after)
+  - ch13 91% → 87/96 → 62/96 (65%)
+  - ch14 91% → 105/116 → 80/116 (69%)
+  - ch15 89% → 50/56 → 35/56 (63%)
+  - ch23 87% → 26/30 → 6/30 (20%)
+  - ch01 89% → 235/263 → 205/263 (78%)
+  - ch06 88% → 180/205 → 150/205 (73%)
+- Zero items above 2.0× length ratio (check_integrity PASS, flag --ratio 2.0 = 0).
+- Duplicate-stem guard triggered on auto-generated generic stems (e.g.,
+  "Which of the following statements about Basics of pregnancy is TRUE?"
+  repeated). Fixed in fmt_dupfix by making each stem unique with a snippet
+  from the correct option.
+- All 24 chapters remain live, 2,710 questions, 342 units, 308 book pages
+  represented; check_integrity.py and check_app_smoke.js both PASS.
+
 **Guard rails**
 - `check_integrity.py` now fails when an answer can be guessed from option
   length (≥3.5×), when a unit has no varied-format item, or when a format tag is

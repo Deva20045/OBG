@@ -7,7 +7,7 @@
    "id": "OBG-C21-001",
    "sec": "Vulval hematoma & broad ligament hematoma",
    "page": 540,
-   "q": "Vulval hematoma is a laceration of an underlying vessel; m/c cause and arteries involved:",
+   "q": "Fill up: Vulval hematoma is a laceration of an underlying vessel; m/c cause and arteries involved ______.",
    "opts": [
     "Instrumental delivery; vulval from the internal pudendal artery, vaginal from the vaginal artery",
     "Spontaneous labour; the bleeding comes from the uterine artery",
@@ -15,13 +15,14 @@
     "Episiotomy; the bleeding comes from the inferior rectal artery"
    ],
    "ans": 0,
-   "exp": "Vulval hematoma follows instrumental delivery (the commonest cause); vulval hematomas come from the internal pudendal artery and vaginal ones from the vaginal artery. (Book p540)"
+   "exp": "Vulval hematoma follows instrumental delivery (the commonest cause); vulval hematomas come from the internal pudendal artery and vaginal ones from the vaginal artery. (Book p540)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C21-002",
    "sec": "Vulval hematoma & broad ligament hematoma",
    "page": 540,
-   "q": "Presentation and examination of vulval hematoma:",
+   "q": "Which of the following statements about Vulval hematoma & broad ligament hematoma is TRUE?",
    "opts": [
     "Excruciating perineal pain with inability to pass urine, and a tense bluish tender swelling of the vulva",
     "A painless soft swelling of the vulva with fever and offensive lochia after the delivery",
@@ -29,27 +30,29 @@
     "Pruritus with a watery discharge and superficial dyspareunia in the early puerperium"
    ],
    "ans": 0,
-   "exp": "A vulval haematoma is intensely painful, causes retention of urine and appears as a tense bluish swelling that may extend into the thigh. (Book p540)"
+   "exp": "A vulval haematoma is intensely painful, causes retention of urine and appears as a tense bluish swelling that may extend into the thigh. (Book p540)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C21-003",
    "sec": "Vulval hematoma & broad ligament hematoma",
    "page": 540,
-   "q": "Conservative management of vulval hematoma consists of:",
+   "q": "All of the following are Vulval hematoma & broad ligament hematoma EXCEPT:",
    "opts": [
     "Ice packs, analgesics, vitals monitoring",
-    "Antibiotics and warm compress",
-    "Uterotonics and TXA",
-    "Vaginal packing"
+    "Antibiotics and warm compress — Conservative: ice packs, analgesics, monitoring of vitals",
+    "Uterotonics and TXA — Conservative: ice packs, analgesics, monitoring of vitals",
+    "Vaginal packing — Conservative: ice packs, analgesics, monitoring of vitals"
    ],
    "ans": 0,
-   "exp": "Conservative: ice packs, analgesics, monitoring of vitals. (Book p540)"
+   "exp": "Conservative: ice packs, analgesics, monitoring of vitals. (Book p540)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C21-004",
    "sec": "Vulval hematoma & broad ligament hematoma",
    "page": 540,
-   "q": "Indications for surgical management (incision & drainage with mattress-suture cavity closure):",
+   "q": "A 28-year-old woman at 30 weeks with vulval hematoma & broad ligament hematoma presents with surgical drainage is for a large, expanding or very painful collection, or one that has caused shock. Indications for surgical management (incision & drainage with mattress-suture cavity closure):?",
    "opts": [
     "Larger than 5 cm, still enlarging, excruciating pain, or associated shock",
     "Any haematoma at all that measures more than 1 cm across",
@@ -57,13 +60,14 @@
     "Only when haematomas are present on both sides of the vulva"
    ],
    "ans": 0,
-   "exp": "Surgical drainage is for a large, expanding or very painful collection, or one that has caused shock; small stable ones are managed conservatively. (Book p540)"
+   "exp": "Surgical drainage is for a large, expanding or very painful collection, or one that has caused shock; small stable ones are managed conservatively. (Book p540)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C21-005",
    "sec": "Vulval hematoma & broad ligament hematoma",
    "page": 540,
-   "q": "Broad ligament hematoma presents as ______ and is due to ______.",
+   "q": "Fill up: A supralevator collection is occult: ______ out of proportion to visible loss, from an upward extension of a cervical or vaginal tear.",
    "opts": [
     "Shock with little visible bleeding; from a cervical or vaginal tear extending upwards",
     "Heavy vaginal bleeding from uterine atony after the delivery",
@@ -71,7 +75,8 @@
     "A visible vulval swelling from a torn pudendal artery"
    ],
    "ans": 0,
-   "exp": "A supralevator collection is occult: shock out of proportion to visible loss, from an upward extension of a cervical or vaginal tear. (Book p540)"
+   "exp": "A supralevator collection is occult: shock out of proportion to visible loss, from an upward extension of a cervical or vaginal tear. (Book p540)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C21-006",
@@ -92,7 +97,7 @@
    "id": "OBG-C21-007",
    "sec": "Perineal tear: classification & repair",
    "page": 541,
-   "q": "Match the degree of perineal tear to structures – 1st : 2nd : 3rd : 4th.",
+   "q": "Which of the following statements about Perineal tear: classification & repair is TRUE?",
    "opts": [
     "Vaginal mucosa : 1 + muscles : 2 + anal sphincter : 3 + rectal mucosa",
     "Skin : mucosa : muscles : sphincter",
@@ -100,13 +105,14 @@
     "Muscles : mucosa : rectal mucosa : sphincter"
    ],
    "ans": 0,
-   "exp": "1° vaginal mucosa; 2° + perineal muscles; 3° + anal sphincter; 4° + rectal mucosa. (Book p541)"
+   "exp": "1° vaginal mucosa; 2° + perineal muscles; 3° + anal sphincter; 4° + rectal mucosa. (Book p541)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C21-008",
    "sec": "Perineal tear: classification & repair",
    "page": 541,
-   "q": "Sub-classification of third-degree tear – 3A : 3B : 3C.",
+   "q": "All of the following are Perineal tear: classification & repair EXCEPT:",
    "opts": [
     "Under half the external sphincter : over half the external sphincter : both sphincters",
     "Over half the external sphincter : under half the external sphincter : internal sphincter",
@@ -114,13 +120,14 @@
     "External sphincter partial : rectal mucosa involved : internal sphincter alone"
    ],
    "ans": 0,
-   "exp": "Third-degree tears are subclassified as 3A (under 50% of external anal sphincter), 3B (over 50% of EAS) and 3C (internal and external anal sphincter). (Book p541)"
+   "exp": "Third-degree tears are subclassified as 3A (under 50% of external anal sphincter), 3B (over 50% of EAS) and 3C (internal and external anal sphincter). (Book p541)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C21-009",
    "sec": "Perineal tear: classification & repair",
    "page": 541,
-   "q": "Repair setting – 1st & 2nd degree : 3rd & 4th degree; suture material:",
+   "q": "A 28-year-old woman at 30 weeks with perineal tear: classification & repair presents with first and second degree tears are repaired in the labour room under local anaesthesia like an episio. Repair setting – 1st & 2nd degree : 3rd & 4th degree; suture material:?",
    "opts": [
     "1st and 2nd degree in the labour room under local anaesthesia; 3rd and 4th in theatre",
     "1st and 2nd degree in the labour room under local anaesthesia; all degrees in theatre",
@@ -128,13 +135,14 @@
     "All degrees are repaired in theatre under general or spinal anaesthesia"
    ],
    "ans": 0,
-   "exp": "First and second degree tears are repaired in the labour room under local anaesthesia like an episiotomy; third and fourth degree tears are repaired in the OT under general or spinal anaesthesia, using Vicryl for both. (Book p541)"
+   "exp": "First and second degree tears are repaired in the labour room under local anaesthesia like an episiotomy; third and fourth degree tears are repaired in the OT under general or spinal anaesthesia, using Vicryl for both. (Book p541)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C21-010",
    "sec": "Perineal tear: classification & repair",
    "page": 541,
-   "q": "Sequence of repair for 1st/2nd degree tear:",
+   "q": "Fill up: Sequence of repair for 1st/2nd degree tear ______.",
    "opts": [
     "Vaginal mucosa continuous sutures → muscles interrupted sutures → vaginal skin mattress sutures",
     "Skin → muscles → mucosa",
@@ -142,13 +150,14 @@
     "Mucosa mattress → skin interrupted → muscles continuous"
    ],
    "ans": 0,
-   "exp": "Mucosa continuous, muscles interrupted, skin mattress. (Book p541)"
+   "exp": "Mucosa continuous, muscles interrupted, skin mattress. (Book p541)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C21-011",
    "sec": "Perineal tear: classification & repair",
    "page": 541,
-   "q": "Sequence of repair for 3rd/4th degree tear:",
+   "q": "Which of the following statements about Perineal tear: classification & repair regarding Rectal mucosa, then internal sphincter, then is TRUE?",
    "opts": [
     "Rectal mucosa, then internal sphincter, then external sphincter end to end",
     "External sphincter, then the rectal mucosa, then the internal sphincter",
@@ -156,7 +165,8 @@
     "Perineal skin, then the internal sphincter, then the external sphincter"
    ],
    "ans": 0,
-   "exp": "Repair of a 3rd or 4th degree tear proceeds from the rectal mucosa to the internal anal sphincter, then the external anal sphincter end to end, then the rest as for an episiotomy. (Book p541)"
+   "exp": "Repair of a 3rd or 4th degree tear proceeds from the rectal mucosa to the internal anal sphincter, then the external anal sphincter end to end, then the rest as for an episiotomy. (Book p541)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C21-012",

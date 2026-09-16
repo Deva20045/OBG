@@ -7,113 +7,121 @@
    "id": "OBG-C23-001",
    "sec": "Skin & uterine incisions for caesarean section",
    "page": 563,
-   "q": "Pfannenstiel incision is placed ______ and its features are ______.",
+   "q": "Fill up: Pfannenstiel incision is placed ______ and its feature is ______.",
    "opts": [
-    "A finger-breadth above the symphysis pubis; cosmetic, rectus muscle not cut",
-    "Three centimetres below the ASIS line; straight, rectus muscle divided",
-    "A finger-breadth above the symphysis pubis; poor cosmetic result, rectus cut",
-    "In the midline below the umbilicus; cosmetic, rectus muscle not cut"
+    "a finger-breadth above the symphysis pubis; cosmetic, rectus muscle not cut",
+    "a finger-breadth above the symphysis pubis; poor cosmetic result, rectus muscle cut",
+    "3 cm below the ASIS line; cosmetic, rectus muscle not cut",
+    "3 cm below the ASIS line; poor cosmetic result, rectus muscle cut"
    ],
    "ans": 0,
-   "exp": "The Pfannenstiel incision sits a finger breadth above the pubic symphysis (low transverse); it is cosmetically good and the rectus muscle is not cut. (Book p563)"
+   "exp": "The Pfannenstiel incision sits a finger breadth above the pubic symphysis (low transverse); it is cosmetically good and the rectus muscle is not cut. (Book p563)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C23-002",
    "sec": "Skin & uterine incisions for caesarean section",
    "page": 563,
-   "q": "Joel-Cohen incision differs from Pfannenstiel in being:",
+   "q": "Which of the following statements about Joel-Cohen incision compared with Pfannenstiel is TRUE?",
    "opts": [
-    "Straight rather than curved, and sited about 3 cm below the line joining the anterior superior iliac spines",
-    "Curved rather than straight, and sited lower down close to the symphysis pubis",
-    "A vertical midline incision carried down from the umbilicus",
-    "A transverse incision placed at the level of the umbilicus"
+    "Joel-Cohen is straight rather than curved and sited about 3 cm below the line joining the ASIS",
+    "Joel-Cohen is curved rather than straight and sited lower close to the symphysis pubis",
+    "Joel-Cohen is a vertical midline incision carried down from the umbilicus to the symphysis",
+    "Joel-Cohen is a transverse incision placed at the level of the umbilicus with muscle cutting"
    ],
    "ans": 0,
-   "exp": "Joel-Cohen is a straight, higher transverse incision with blunt dissection; Pfannenstiel is curved and lower with more dissection. (Book p563)"
+   "exp": "Joel-Cohen is a straight, higher transverse incision with blunt dissection; Pfannenstiel is curved and lower with more dissection. (Book p563)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C23-003",
    "sec": "Skin & uterine incisions for caesarean section",
    "page": 563,
-   "q": "Advantages and disadvantage of transverse skin incision:",
+   "q": "Which of the following statements about transverse skin incision for caesarean is TRUE?",
    "opts": [
-    "Less postoperative pain, a stronger wound and better cosmesis, but the upper abdomen is not visualised",
-    "Faster abdominal entry, although at the cost of more postoperative pain",
-    "Better exposure of the pelvis, though the resulting scar is less acceptable",
-    "Less bleeding, but a wound that is mechanically weaker afterwards"
+    "Transverse incision gives less pain, stronger wound and better cosmesis but limits upper abdomen view",
+    "Transverse incision gives faster entry but causes more postoperative pain and weaker wound",
+    "Transverse incision gives better pelvic exposure though the scar is cosmetically less acceptable",
+    "Transverse incision causes less bleeding but results in a mechanically weaker wound postoperatively"
    ],
    "ans": 0,
-   "exp": "Transverse incisions heal better and hurt less, but they limit access to the upper abdomen compared with a vertical incision. (Book p563)"
+   "exp": "Transverse incisions heal better and hurt less, but they limit access to the upper abdomen compared with a vertical incision. (Book p563)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C23-004",
    "sec": "Skin & uterine incisions for caesarean section",
    "page": 563,
-   "q": "Match the uterine incision — Sanger's : Kerr's : Kronig's.",
+   "q": "Match the uterine incision with its description — 1) Sanger's 2) Kerr's 3) Kronig's … A) Classical upper segment vertical B) Lower segment transverse C) Low vertical",
    "opts": [
-    "Sanger's: classical upper segment vertical — Kerr's: lower segment transverse — Kronig's: low vertical",
-    "Sanger's: lower segment transverse — Kerr's: classical vertical — Kronig's: J-shaped",
-    "Sanger's: low vertical — Kerr's: classical upper segment — Kronig's: lower segment transverse",
-    "Sanger's: T-shaped extension — Kerr's: lower segment transverse — Kronig's: classical"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
    ],
    "ans": 0,
-   "exp": "Sanger's is the classical vertical incision, Kerr's the standard lower segment transverse, and Kronig's a low vertical incision. (Book p563)"
+   "exp": "Sanger's is the classical vertical incision, Kerr's the standard lower segment transverse, and Kronig's a low vertical incision. (Book p563)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C23-005",
    "sec": "Skin & uterine incisions for caesarean section",
    "page": 563,
-   "q": "Risk of scar rupture – classical : one previous LSCS : multiple previous LSCS : low vertical.",
+   "q": "Fill up: Risk of scar rupture is ______ for classical caesarean and ______ for one previous LSCS.",
    "opts": [
-    "4–9% : 0.2–0.9% : 0.9–1.8% : 1–7%",
-    "1–7% : 4–9% : 0.2% : 0.9%",
-    "0.2–0.9% : 4–9% : 1–7% : 0.9–1.8%",
-    "10% : 1% : 2% : 5%"
+    "4–9%; 0.2–0.9%",
+    "0.2–0.9%; 4–9%",
+    "0.9–1.8%; 1–7%",
+    "1–7%; 0.9–1.8%"
    ],
    "ans": 0,
-   "exp": "Classical 4–9%; one LSCS 0.2–0.9%; multiple LSCS 0.9–1.8%; low vertical 1–7%. (Book p563)"
+   "exp": "Classical 4–9%; one LSCS 0.2–0.9%; multiple LSCS 0.9–1.8%; low vertical 1–7%. (Book p563)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C23-006",
    "sec": "Skin & uterine incisions for caesarean section",
    "page": 563,
-   "q": "VBAC eligibility – classical : LSCS : low vertical (Krönig).",
+   "q": "Match VBAC eligibility with scar type — 1) Classical 2) One previous LSCS 3) Low vertical (Kronig) … A) Contraindicated B) May be allowed with counselling C) May be allowed, indicated for constriction ring",
    "opts": [
-    "Contraindicated : ± : ±",
-    "± : contraindicated : ±",
-    "Allowed : allowed : contraindicated",
-    "Contraindicated : contraindicated : allowed"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "VBAC contraindicated after classical; ± after LSCS or low vertical (Krönig indicated for constriction ring). (Book p563)"
+   "exp": "VBAC contraindicated after classical; ± after LSCS or low vertical (Krönig indicated for constriction ring). (Book p563)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C23-007",
    "sec": "Skin & uterine incisions for caesarean section",
    "page": 563,
-   "q": "After a classical C-section, the next pregnancy is managed by:",
+   "q": "A 30-year-old woman with a previous classical caesarean at 28 weeks is counselled for the next pregnancy. She is now 36 weeks with no labour pains. What is the most appropriate plan regarding timing and mode?",
    "opts": [
-    "Repeat caesarean at 36-37 weeks, since contractions become prominent after 37 weeks and raise the rupture risk",
-    "A trial of labour aiming for a vaginal birth at 40 completed weeks",
-    "A repeat classical section performed at 39 completed weeks",
-    "Induction of labour at 38 weeks using prostaglandins"
+    "Repeat caesarean at 36-37 weeks, since contractions become prominent after 37 weeks and raise rupture risk",
+    "Trial of labour aiming for vaginal birth at 40 completed weeks with continuous CTG monitoring",
+    "Repeat classical section at 39 completed weeks after confirming fetal lung maturity by amniocentesis",
+    "Induction of labour at 38 weeks using prostaglandins followed by oxytocin augmentation"
    ],
    "ans": 0,
-   "exp": "A classical scar ruptures silently and catastrophically, so delivery is planned at 36-37 weeks before strong contractions begin. (Book p563)"
+   "exp": "A classical scar ruptures silently and catastrophically, so delivery is planned at 36-37 weeks before strong contractions begin. (Book p563)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C23-008",
    "sec": "Skin & uterine incisions for caesarean section",
    "page": 563,
-   "q": "Recommendations for VBAC after a lower segment caesarean — ACOG : Indian national guidelines.",
+   "q": "Which of the following statements about VBAC guidelines after lower segment caesarean is TRUE?",
    "opts": [
-    "ACOG: a trial may be offered whatever the number of scars — India: contraindicated with two or more previous sections",
-    "ACOG: permitted after one scar only — India: permitted after any number",
-    "ACOG: never offer a trial — India: offer it after two previous sections",
-    "ACOG: permitted after three scars — India: permitted after one scar only"
+    "ACOG says a trial may be offered whatever the number of scars; India says contraindicated with two or more",
+    "ACOG permits trial after one scar only; Indian guidelines permit trial after any number of scars",
+    "ACOG never offers a trial after any scar; India offers trial after two previous sections routinely",
+    "ACOG permits trial after three scars; India permits trial after one scar only with mandatory pelvimetry"
    ],
    "ans": 0,
-   "exp": "ACOG allows a trial after any number of low transverse scars after counselling; Indian guidance treats two or more as a contraindication. (Book p563)"
+   "exp": "ACOG allows a trial after any number of low transverse scars after counselling; Indian guidance treats two or more as a contraindication. (Book p563)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C23-009",
@@ -134,99 +142,106 @@
    "id": "OBG-C23-010",
    "sec": "Previous caesarean: trial of labour vs repeat section",
    "page": 564,
-   "q": "Options after a previous C-section and the success of trial of scar:",
+   "q": "A 27-year-old woman with one previous LSCS at 34 weeks for fetal distress is now 38 weeks, cephalic, with adequate pelvis and no contraindication. She asks about options and success rates. What do you counsel?",
    "opts": [
-    "Trial of labour, which succeeds in about 70 per cent, or an elective repeat caesarean at 39 weeks",
-    "Trial of labour, which succeeds in about 30 per cent, or an elective repeat caesarean at 34 weeks",
-    "Elective repeat caesarean at 36 weeks only, since a trial of labour is never offered after a scar",
-    "Induction with prostaglandins at 38 weeks, followed by a trial of labour in every woman with a scar"
+    "Trial of labour succeeds in about 70% or elective repeat caesarean at 39 weeks; avoid prostaglandins",
+    "Trial of labour succeeds in about 30% or elective repeat caesarean at 34 weeks with steroids",
+    "Elective repeat caesarean at 36 weeks only, since trial of labour is never offered after a scar",
+    "Induction with prostaglandins at 38 weeks followed by trial of labour in every woman with a scar"
    ],
    "ans": 0,
-   "exp": "A trial of scar succeeds in roughly seven out of ten women; prostaglandins are avoided because they raise the rupture risk. (Book p564)"
+   "exp": "A trial of scar succeeds in roughly seven out of ten women; prostaglandins are avoided because they raise the rupture risk. (Book p564)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C23-011",
    "sec": "Previous caesarean: trial of labour vs repeat section",
    "page": 564,
-   "q": "Risks associated with trial of labour include increased:",
+   "q": "All of the following are increased risks associated with trial of labour after caesarean EXCEPT:",
    "opts": [
     "Bleeding, need for transfusion, uterine rupture, hysterectomy and fetal distress or death",
-    "Transient tachypnoea of the newborn from delayed clearance of lung fluid",
-    "Anaesthetic risk alone, since labour itself adds no measurable risk",
-    "Placenta previa in the index pregnancy or in any later pregnancy"
+    "Transient tachypnoea of the newborn from delayed clearance of fetal lung fluid after caesarean",
+    "Severe perineal trauma and anal sphincter injury from vaginal delivery after previous scar",
+    "Post-term pregnancy and meconium aspiration syndrome unrelated to mode of delivery"
    ],
    "ans": 0,
-   "exp": "A trial of labour trades anaesthetic and respiratory risk for rupture, haemorrhage and intrapartum fetal compromise. (Book p564)"
+   "exp": "A trial of labour trades anaesthetic and respiratory risk for rupture, haemorrhage and intrapartum fetal compromise. (Book p564)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C23-012",
    "sec": "Previous caesarean: trial of labour vs repeat section",
    "page": 564,
-   "q": "Risks associated with elective caesarean:",
+   "q": "All of the following are recognised risks of elective repeat caesarean EXCEPT:",
    "opts": [
-    "Transient tachypnoea of the newborn, operative and anaesthetic risks, and consequences for future pregnancies",
-    "Uterine rupture in labour, hypoxic-ischaemic encephalopathy and shoulder dystocia at delivery",
-    "Severe perineal trauma, pelvic floor dysfunction and anal sphincter injury after the birth",
-    "Post-term pregnancy, meconium aspiration syndrome and cord prolapse during labour"
+    "Transient tachypnoea of the newborn, operative and anaesthetic risks and impact on future pregnancies",
+    "Uterine rupture in labour and hypoxic-ischaemic encephalopathy from obstructed labour",
+    "Severe perineal trauma, pelvic floor dysfunction and anal sphincter injury after vaginal birth",
+    "Shoulder dystocia and Erb's palsy from vaginal delivery of a macrosomic fetus"
    ],
    "ans": 0,
-   "exp": "Elective caesarean raises neonatal respiratory morbidity and complicates later pregnancies; it protects against perineal trauma and shoulder dystocia. (Book p564)"
+   "exp": "Elective caesarean raises neonatal respiratory morbidity and complicates later pregnancies; it protects against perineal trauma and shoulder dystocia. (Book p564)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C23-013",
    "sec": "Previous caesarean: trial of labour vs repeat section",
    "page": 564,
-   "q": "Risk of scar rupture depends on:",
+   "q": "Which of the following statements about risk of scar rupture after caesarean is TRUE?",
    "opts": [
-    "The type of previous incision, the number of previous caesareans and the inter-delivery interval",
-    "Maternal age alone, which determines the tensile strength of the uterine scar",
-    "Fetal sex and birth weight, since a large baby stretches the scar in labour",
-    "The placental site alone, because a fundal placenta weakens the lower segment"
+    "Rupture risk depends on type of previous incision, number of previous caesareans and inter-delivery interval",
+    "Rupture risk depends on maternal age alone, which determines tensile strength of the uterine scar",
+    "Rupture risk depends on fetal sex and birth weight, since a large baby stretches the scar in labour",
+    "Rupture risk depends on placental site alone, because a fundal placenta weakens the lower segment"
    ],
    "ans": 0,
-   "exp": "Rupture risk tracks the scar itself — a classical scar, multiple scars and a short inter-delivery interval all raise it. (Book p564)"
+   "exp": "Rupture risk tracks the scar itself — a classical scar, multiple scars and a short inter-delivery interval all raise it. (Book p564)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C23-014",
    "sec": "Previous caesarean: trial of labour vs repeat section",
    "page": 564,
-   "q": "Inter-delivery gap – ideal : 'short' interval : minimum gap between caesarean and next pregnancy.",
+   "q": "Fill up: Ideal inter-delivery interval after caesarean is ______ months; short interval is ______ months; minimum conception gap is ______ months.",
    "opts": [
-    "≥18 months : 12 months : 6 months",
-    "≥24 months : 18 months : 12 months",
-    "≥12 months : 6 months : 3 months",
-    "≥36 months : 24 months : 12 months"
+    "≥18; 12; 6",
+    "≥12; 6; 3",
+    "≥24; 18; 12",
+    "≥36; 24; 12"
    ],
    "ans": 0,
-   "exp": "Ideal ≥18 months; short = 12 months; minimum CS-to-conception gap 6 months. (Book p564)"
+   "exp": "Ideal ≥18 months; short = 12 months; minimum CS-to-conception gap 6 months. (Book p564)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C23-015",
    "sec": "Previous caesarean: trial of labour vs repeat section",
    "page": 564,
-   "q": "Anaesthesia levels – epidural for painless labour : caesarean section.",
+   "q": "Fill up: Anaesthesia level for painless labour is ______ and for caesarean section is ______.",
    "opts": [
-    "T10 : T4",
-    "T4 : T10",
-    "L1 : T6",
-    "S2 : T8"
+    "T10; T4",
+    "T4; T10",
+    "L1; T6",
+    "S2; T8"
    ],
    "ans": 0,
-   "exp": "Labour epidural T10; caesarean T4. (Book p564)"
+   "exp": "Labour epidural T10; caesarean T4. (Book p564)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C23-016",
    "sec": "Previous caesarean: trial of labour vs repeat section",
    "page": 564,
-   "q": "Ideal position for caesarean and timing of elective CS for non-medical reasons:",
+   "q": "A 26-year-old woman is posted for elective caesarean at 39 weeks for breech presentation. Anaesthetist asks about ideal positioning to prevent supine hypotension. What is the ideal position and timing for non-medical elective CS?",
    "opts": [
-    "Supine with 15° left lateral tilt; elective caesarean at 39 weeks",
-    "Supine with 15° left lateral tilt; elective caesarean at 37 weeks",
-    "Lithotomy position with a pelvic wedge; elective caesarean at 39 weeks",
-    "Right lateral tilt with a wedge under the hip; elective caesarean at 40 weeks"
+    "Supine with 15° left lateral tilt; elective caesarean at 39 weeks for non-medical reasons",
+    "Supine with 15° left lateral tilt; elective caesarean at 37 weeks to avoid labour onset",
+    "Lithotomy position with pelvic wedge; elective caesarean at 39 weeks after lung maturity",
+    "Right lateral tilt with wedge under hip; elective caesarean at 40 weeks beyond expected date"
    ],
    "ans": 0,
-   "exp": "The ideal position for caesarean is supine with 15° left lateral tilt or a wedge under the right hip, and elective caesarean for non-medical reasons is timed at 39 weeks. (Book p564)"
+   "exp": "The ideal position for caesarean is supine with 15° left lateral tilt or a wedge under the right hip, and elective caesarean for non-medical reasons is timed at 39 weeks. (Book p564)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C23-017",
@@ -247,15 +262,16 @@
    "id": "OBG-C23-018",
    "sec": "VBAC: contraindications, prognosis & monitoring",
    "page": 565,
-   "q": "Absolute contraindications to VBAC include all EXCEPT:",
+   "q": "All of the following are absolute contraindications to VBAC EXCEPT:",
    "opts": [
-    "Past history of CPD",
-    "Previous classical CS, uterine rupture, myomectomy/hysterotomy, T-shaped incision, or incision extended into upper segment",
-    "Contracted pelvis, CPD in present pregnancy",
-    "Home delivery / no facility for emergency CS"
+    "Past history of CPD alone without current contracted pelvis or other scar complications",
+    "Previous classical caesarean, prior uterine rupture, myomectomy entering cavity or T-shaped incision",
+    "Contracted pelvis or cephalopelvic disproportion in the present pregnancy on clinical pelvimetry",
+    "Home delivery setting with no facility for emergency caesarean section or blood transfusion"
    ],
    "ans": 0,
-   "exp": "Past h/o CPD is NOT a C/I; the others are. A T-shaped incision extends from LUS into upper segment. (Book p565)"
+   "exp": "Past h/o CPD is NOT a C/I; the others are. A T-shaped incision extends from LUS into upper segment. (Book p565)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C23-019",
@@ -275,15 +291,16 @@
    "id": "OBG-C23-020",
    "sec": "VBAC: contraindications, prognosis & monitoring",
    "page": 565,
-   "q": "Prognostic markers for VBAC – most important favourable : bad marker.",
+   "q": "Fill up: The most important favourable marker for VBAC is ______ and a bad marker is ______.",
    "opts": [
-    "A previous vaginal delivery is the best favourable marker; previous puerperal sepsis is a bad one",
-    "Young maternal age is the best favourable marker; a macrosomic fetus is a bad one",
-    "A male fetus is the best favourable marker; a twin pregnancy is a bad one",
-    "Short maternal stature is the best favourable marker; post-term pregnancy is a bad one"
+    "previous vaginal delivery; previous puerperal sepsis in the scar",
+    "young maternal age; macrosomic fetus in present pregnancy",
+    "male fetus; twin pregnancy in present gestation",
+    "short maternal stature; post-term pregnancy beyond 40 weeks"
    ],
    "ans": 0,
-   "exp": "Previous vaginal delivery, especially after a caesarean, predicts success; infection in the uterine scar predicts failure and rupture. (Book p565)"
+   "exp": "Previous vaginal delivery, especially after a caesarean, predicts success; infection in the uterine scar predicts failure and rupture. (Book p565)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C23-021",
@@ -318,29 +335,31 @@
    "id": "OBG-C23-023",
    "sec": "VBAC: contraindications, prognosis & monitoring",
    "page": 566,
-   "q": "Induction of labour in a previous C-section is done by:",
+   "q": "A 29-year-old woman with one previous LSCS at 38 weeks presents at 39 weeks with Bishop score 4. She desires VBAC and needs induction. What is the recommended method for induction in previous caesarean?",
    "opts": [
-    "Mechanical cervical ripening followed by oxytocin; prostaglandins avoided",
-    "Misoprostol 25 micrograms vaginally for ripening; oxytocin is avoided",
-    "Dinoprostone gel for cervical ripening; mechanical methods are avoided",
-    "Induction is never attempted, so elective caesarean is always performed"
+    "Mechanical cervical ripening with Foley followed by oxytocin; prostaglandins are avoided",
+    "Misoprostol 25 mcg vaginally for ripening; oxytocin is avoided due to rupture risk",
+    "Dinoprostone gel for cervical ripening; mechanical methods are avoided in scarred uterus",
+    "Induction is never attempted after caesarean, so elective repeat caesarean is always performed"
    ],
    "ans": 0,
-   "exp": "Induction of labour in a previous C-section is done by a mechanical method for cervical ripening followed by oxytocin; prostaglandins are avoided. (Book p566)"
+   "exp": "Induction of labour in a previous C-section is done by a mechanical method for cervical ripening followed by oxytocin; prostaglandins are avoided. (Book p566)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C23-024",
    "sec": "VBAC: contraindications, prognosis & monitoring",
    "page": 566,
-   "q": "With a previous C-section – external podalic version : internal podalic version : contracted pelvis.",
+   "q": "Match the procedure with its status in previous caesarean — 1) External cephalic version 2) Internal podalic version 3) Contracted pelvis … A) Relative contraindication B) Absolute contraindication C) Recurrent indication for caesarean",
    "opts": [
-    "Relative C/I : absolute C/I : recurrent indication for caesarean",
-    "Absolute : relative : not an indication",
-    "Allowed : allowed : relative",
-    "Relative : relative : absolute"
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "External version relative C/I; internal podalic version absolute C/I; contracted pelvis is a recurrent CS indication. (Book p566)"
+   "exp": "External version relative C/I; internal podalic version absolute C/I; contracted pelvis is a recurrent CS indication. (Book p566)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C23-025",
@@ -360,15 +379,16 @@
    "id": "OBG-C23-026",
    "sec": "Classical caesarean indications & anaesthesia for caesarean",
    "page": 565,
-   "q": "Indications for classical caesarean section (difficult access to lower segment) include:",
+   "q": "All of the following are indications for classical caesarean section (difficult lower segment access) EXCEPT:",
    "opts": [
-    "Carcinoma of the cervix, dense bladder adhesions, and placenta previa with large vessels over the lower segment",
-    "Breech presentation, an uncomplicated twin pregnancy and a macrosomic fetus at term",
-    "One previous lower segment scar, pregnancy-induced hypertension and gestational diabetes",
-    "Fetal distress at term, a failed induction of labour and a request for sterilisation"
+    "Carcinoma cervix, dense bladder adhesions and placenta previa with large vessels over lower segment",
+    "Breech presentation, uncomplicated twin pregnancy and macrosomic fetus at term without obstruction",
+    "One previous lower segment scar alone with no other complicating factor in present pregnancy",
+    "Fetal distress at term and failed induction of labour where lower segment is accessible"
    ],
    "ans": 0,
-   "exp": "Classical section is chosen when the lower segment cannot be reached or entered safely, not for the usual obstetric indications. (Book p565)"
+   "exp": "Classical section is chosen when the lower segment cannot be reached or entered safely, not for the usual obstetric indications. (Book p565)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C23-027",

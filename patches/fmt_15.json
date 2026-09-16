@@ -1,0 +1,192 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C15-001",
+    "fmt": "oddoneout",
+    "q": "All of the following form the pelvic brim EXCEPT:",
+    "opts": [
+      "Ischial tuberosities which lie at the pelvic outlet below the ischial spines",
+      "Sacral promontory and sacro-iliac joint margin of the ala of sacrum posteriorly",
+      "Iliopectineal line forming the lateral boundary of the pelvic brim",
+      "Upper border of ascending rami of pubic bone and pubic crest anteriorly"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-002",
+    "fmt": "fillup",
+    "q": "Fill up: The part of pelvis above the brim is ______ and its role in labour is ______.",
+    "opts": [
+      "false pelvis; no role in labour – it supports the uterus",
+      "true pelvis; the whole of labour from engagement to expulsion",
+      "mid pelvis; internal rotation of the fetal head during labour",
+      "pelvic outlet; extension of the head during delivery"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-003",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about true pelvis parts is TRUE?",
+    "opts": [
+      "True pelvis comprises inlet, cavity, mid-pelvis and outlet from above downwards",
+      "True pelvis comprises brim, ala, sacrum and coccyx as its four main parts",
+      "True pelvis comprises inlet, outlet, sacrum and symphysis as its four parts",
+      "True pelvis comprises cavity, brim, spines and tuberosities as its four parts"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-004",
+    "fmt": "match",
+    "q": "Match anteroposterior diameters of pelvic inlet — 1) True conjugate 2) Obstetric conjugate 3) Diagonal conjugate … A) 11 cm B) 10.5 cm C) 12 cm",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-B, 2-A, 3-C",
+      "1-C, 2-A, 3-B",
+      "1-A, 2-C, 3-B"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-005",
+    "fmt": "fillup",
+    "q": "Fill up: The smallest and most important conjugate of the pelvic inlet is ______.",
+    "opts": [
+      "obstetric conjugate",
+      "true conjugate",
+      "diagonal conjugate",
+      "bituberous diameter"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-006",
+    "fmt": "fillup",
+    "q": "Fill up: Critical obstetric conjugate below which vaginal delivery is impossible is ______ cm; below ______ cm means contracted pelvis.",
+    "opts": [
+      "10; 10",
+      "11; 11",
+      "12; 12",
+      "9; 9"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-007",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about transverse diameter of inlet is TRUE?",
+    "opts": [
+      "Transverse diameter is 13 cm between farthest points on iliopectineal line, greater than AP diameters",
+      "Transverse diameter is 11 cm same as true conjugate of pelvic inlet in gynaecoid pelvis",
+      "Transverse diameter is 12 cm which is oblique diameter from sacro-iliac joint",
+      "Transverse diameter is 10 cm which is transverse diameter of plane of least dimension"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-008",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about oblique diameters of inlet is TRUE?",
+    "opts": [
+      "Oblique diameters 12 cm run from sacro-iliac joint to iliopectineal eminence on opposite side",
+      "Oblique diameters run from one ischial spine straight across to opposite ischial spine",
+      "Oblique diameters run from symphysis pubis directly backwards to sacral promontory",
+      "Oblique diameters run from one ischial tuberosity across to opposite tuberosity"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-010",
+    "fmt": "fillup",
+    "q": "Fill up: Contracted pelvis on clinical pelvimetry is flagged when obstetric conjugate is below ______ cm or diagonal conjugate below ______ cm.",
+    "opts": [
+      "10; 11.5",
+      "12; 12",
+      "10; 10",
+      "11; 11"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-011",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about pelvic cavity shape is TRUE?",
+    "opts": [
+      "Pelvic cavity is truncated cylinder with shallow anterior wall and deep concave posterior wall",
+      "Pelvic cavity is true cylinder with anterior and posterior walls of equal depth throughout",
+      "Pelvic cavity is funnel shaped with deep anterior wall behind the pubic bone",
+      "Pelvic cavity is cuboid with flat posterior wall formed by sacrum and coccyx"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-012",
+    "fmt": "fillup",
+    "q": "Fill up: Posterior boundary of plane of greatest dimensions is ______ and of plane of least dimensions is ______.",
+    "opts": [
+      "junction of S2–S3; junction of S4–S5",
+      "junction of S4–S5; junction of S2–S3",
+      "coccyx tip; coccyx tip",
+      "promontory; promontory"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-013",
+    "fmt": "fillup",
+    "q": "Fill up: Lateral extent of plane of greatest dimensions is ______ and of plane of least dimensions is ______.",
+    "opts": [
+      "obturator foramen; ischial spines",
+      "ischial spines; obturator foramen",
+      "ischial tuberosities; spines",
+      "ala; tuberosities"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-014",
+    "fmt": "match",
+    "q": "Match pelvic plane with diameters — 1) Plane of greatest dimensions 2) Plane of least dimensions … A) 12.5–13 cm AP and 13 cm transverse B) 11.5 cm AP and 10 cm bispinous",
+    "opts": [
+      "1-A, 2-B",
+      "1-B, 2-A",
+      "1-A, 2-A",
+      "1-B, 2-B"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-015",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about bispinous diameter is TRUE?",
+    "opts": [
+      "Bispinous diameter is smallest pelvic diameter and most important obstetrically at 10 cm",
+      "Bispinous diameter has no obstetric significance and is not measured clinically",
+      "Bispinous diameter is 13 cm wide at the plane of greatest dimensions",
+      "Bispinous diameter is measured at the obturator foramen in mid-pelvis"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C15-017",
+    "fmt": "fillup",
+    "q": "Fill up: Mid-pelvis is said to be contracted when interischial diameter is <______ cm.",
+    "opts": ["8", "10", "9", "11"],
+    "ans": 0
+  }
+]

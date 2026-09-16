@@ -1,0 +1,132 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C3-001",
+    "q": "Fill up: The intradecidual sign is the first sonographic sign of pregnancy, reflecting ______ within the decidua.",
+    "opts": [
+      "Interstitial implantation of the blastocyst within the thickened endometrium",
+      "Complete separation of the amnion and chorion",
+      "Decidual capsularis stretching over the developing embryo",
+      "Appearance of the secondary yolk sac"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C3-002",
+    "q": "Which of the following statements about First trimester ultrasound is TRUE?",
+    "opts": [
+      "Inner ring: Decidua capsularis; Outer ring: Decidua parietalis",
+      "Inner ring: Decidua basalis; Outer ring: Decidua capsularis",
+      "Inner ring: Amnion; Outer ring: Chorion laeve",
+      "Inner ring: Decidua parietalis; Outer ring: Myometrium"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C3-003",
+    "q": "All of the following are First trimester ultrasound EXCEPT:",
+    "opts": [
+      "The yolk sac and the developing amniotic sac",
+      "The gestational sac and the pseudogestational sac",
+      "The right and left lateral cerebral ventricles",
+      "The vitelline duct and the allantois — The double bleb sign represents the transient side-by-side a"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C3-004",
+    "q": "A 28-year-old woman at 9 weeks with first trimester ultrasound presents with crown-rump length (crl) measured between 7 and 9 weeks (usable up to 13w6d) is the single most accur. What is the single most accurate ultrasound parameter for determining gestational age across the entire pregnancy?",
+    "opts": [
+      "Crown-Rump Length (CRL) measured in the first trimester",
+      "Biparietal diameter (BPD) measured at 18 weeks",
+      "Femur length (FL) measured in the second trimester",
+      "Abdominal circumference (AC) measured in the third trimester"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C3-006",
+    "q": "Fill up: ______ in days can be estimated from early sac dimensions using: MSD (in mm) + 30 = gestational age in days.",
+    "opts": [
+      "Gestational age (in days) = MSD (in mm) + 30",
+      "Gestational age (in days) = MSD (in mm) + 42",
+      "Gestational age (in days) = MSD (in mm) x 7",
+      "Gestational age (in days) = MSD (in mm) + 14"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C3-007",
+    "q": "Which of the following statements about First trimester ultrasound is TRUE?",
+    "opts": [
+      "First trimester ultrasound — 84 mm",
+      "First trimester ultrasound — 65 mm",
+      "First trimester ultrasound — 100 mm",
+      "First trimester ultrasound — 50 mm"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C3-008",
+    "q": "All of the following are First trimester ultrasound EXCEPT:",
+    "opts": [
+      "The CRL measurement of the larger twin — In twin pregnancies with growth discrepancy, gestational age",
+      "The CRL measurement of the smaller twin — In twin pregnancies with growth discrepancy, gestational age",
+      "The mathematical average of both CRL measurements",
+      "Discarding the ultrasound and relying strictly on LMP"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C3-009",
+    "q": "A 28-year-old woman at 30 weeks with biometry and specialized imaging presents with bpd is measured in the transthalamic plane from the outer table of the skull on the near field to th. When measuring the Biparietal Diameter (BPD) in the second trimester, the ultrasound calipers should be placed on which anatomical skull margins?",
+    "opts": [
+      "From the outer table of the proximal parietal bone to the inner table of the distal parietal bone",
+      "From the outer table to the outer table of both parietal bones",
+      "From the inner table to the inner table of both parietal bones",
+      "Across the fronto-occipital axis with appropriate counselling and management as per notes"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C3-010",
+    "q": "Fill up: ______ reflects fetal liver size and subcutaneous abdominal fat stores, making it the most sensitive biometry parameter for fetal growth.",
+    "opts": [
+      "Abdominal Circumference (AC)",
+      "Biparietal Diameter (BPD)",
+      "Femur Length (FL)",
+      "Head Circumference (HC)"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C3-011",
+    "q": "Which of the following statements about Biometry and specialized imaging is TRUE?",
+    "opts": [
+      "Biometry and specialized imaging — 18 to 22 weeks of gestation",
+      "Biometry and specialized imaging — 11 to 13 weeks + 6 days",
+      "Biometry and specialized imaging — 24 to 28 weeks of gestation",
+      "Biometry and specialized imaging — 32 to 34 weeks of gestation"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  }
+]

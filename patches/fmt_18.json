@@ -1,0 +1,132 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C18-001",
+    "q": "Fill up: The Friedman curve was the ______ partogram and has a ______ shape. is ______.",
+    "opts": [
+      "First; sigmoid",
+      "Second; linear",
+      "Latest; straight",
+      "WHO; hyperbolic"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C18-002",
+    "q": "Which of the following statements about Types of partogram: Friedman curve, modified WHO & Labour Care Guide is TRUE?",
+    "opts": [
+      "Types of partogram: Friedman curve, modified WHO & Labour Care Guide — Philpott & Castle; 1 cm/hr",
+      "Types of partogram: Friedman curve, modified WHO & Labour Care Guide — Friedman; 1.2 cm/hr",
+      "Types of partogram: Friedman curve, modified WHO & Labour Care Guide — WHO 2020; 0.5 cm/hr",
+      "Types of partogram: Friedman curve, modified WHO & Labour Care Guide — Bishop; 2 cm/hr"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C18-003",
+    "q": "All of the following are Types of partogram: Friedman curve, modified WHO & Labour Care Guide EXCEPT:",
+    "opts": [
+      "Previous WHO recommendations; active phase; 4 cm",
+      "Recent WHO guidelines; latent phase; 3 cm",
+      "ACOG; active phase; 6 cm — Modified WHO partogram: based on previous WHO recommendation",
+      "Friedman; both phases; 2 cm — Modified WHO partogram: based on previous WHO recommendation"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C18-004",
+    "q": "A 28-year-old woman at 30 weeks with types of partogram: friedman curve, modified who & labour care guide presents with labour care guide: recent who, no alert/action lines, represents active first + second stage, active. Which features describe the next-generation partogram (Labour Care Guide)? Select the correct set?",
+    "opts": [
+      "Based on recent WHO guidelines; no alert and action line; first (active) and second stage represented; active phase begins at 5 cm; 7 sections",
+      "Based on old WHO; retains alert/action line; only first stage; begins at 4 cm; 3 sections",
+      "Based on Friedman; alert line only; latent + active; begins at 3 cm; 5 sections",
+      "Based on ACOG; action line only; second stage only; begins at 6 cm; 7 sections"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C18-005",
+    "q": "Fill up: The time difference between the alert line and the action line on the modified WHO partogram is ______.",
+    "opts": [
+      "4 hours",
+      "2 hours",
+      "1 hour",
+      "6 hours"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C18-007",
+    "q": "Which of the following statements about Modified WHO partograph: upper (fetal) parameters is TRUE?",
+    "opts": [
+      "Modified WHO partograph: upper (fetal) parameters — 30 min; 15 min; 110–160 bpm",
+      "Modified WHO partograph: upper (fetal) parameters — 15 min; 5 min; 120–160 bpm",
+      "Modified WHO partograph: upper (fetal) parameters — 60 min; 30 min; 100–160 bpm",
+      "Modified WHO partograph: upper (fetal) parameters — 30 min; 30 min; 110–150 bpm"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C18-008",
+    "q": "All of the following are Modified WHO partograph: upper (fetal) parameters EXCEPT:",
+    "opts": [
+      "Intact membrane : colourless fluid : meconium stained : blood stained",
+      "Intact : clear : mixed : bloody — I = intact membrane; C = colourless; M = meconium stained; B",
+      "Inadequate : colourless : mucoid : brown",
+      "Intact : cloudy : meconium : bile — I = intact membrane; C = colourless; M = meconium stained; B"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C18-009",
+    "q": "A 28-year-old woman at 30 weeks with modified who partograph: upper (fetal) parameters presents with on the partograph, moulding is recorded as 0 or × for none and +1, +2, +3 for increasing degrees of . Moulding on the partograph is denoted as:?",
+    "opts": [
+      "0 or × for none; +1, +2, +3 for degrees of overlapping of cranial bones",
+      "0 or × for none; +1, +2, +3 for degrees of caput succedaneum",
+      "A, B and C grades for degrees of overlapping of the cranial bones",
+      "I, C, M and B grades recorded against each hourly observation"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C18-011",
+    "q": "Fill up: In the modified WHO partograph, the interval for fetal parameters is represented by one small box equal to ______, and the three parts of the sheet are ______. is ______.",
+    "opts": [
+      "30 min; upper = fetal parameters, middle = cervicograph, lower = maternal condition",
+      "1 hr; upper = maternal, middle = fetal, lower = drugs",
+      "15 min; upper = cervicograph, middle = contractions, lower = fetal",
+      "2 hr; upper = drugs, middle = fetal, lower = maternal"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C18-012",
+    "q": "Which of the following statements about Cervicograph: alert & action lines and colour zones is TRUE?",
+    "opts": [
+      "Cervicograph: alert & action lines and colour zones — Cervicograph",
+      "Cervicograph: alert & action lines and colour zones — Tocograph",
+      "Cervicograph: alert & action lines and colour zones — Cardiograph",
+      "Cervicograph: alert & action lines and colour zones — Friedman graph"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  }
+]

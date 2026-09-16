@@ -1,0 +1,327 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C13-001",
+    "fmt": "fillup",
+    "q": "Fill up: Dizygotic twins form when ______, whereas monozygotic twins form when ______.",
+    "opts": [
+      "2 ova fertilized by 2 different sperms; 1 ovum fertilized by 1 sperm that then divides into 2",
+      "1 ovum fertilized by 1 sperm that then divides into 2; 2 ova fertilized by 2 different sperms",
+      "1 ovum fertilized by 2 different sperms; 2 separate ova fusing together after fertilisation",
+      "2 separate ova fusing together; 1 ovum fertilized by 2 different sperms after ovulation"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-002",
+    "fmt": "fillup",
+    "q": "Fill up: The more common twin type is ______ twins, also called ______ twins.",
+    "opts": [
+      "dizygotic; fraternal",
+      "fraternal; dizygotic",
+      "dizygotic; identical",
+      "monozygotic; binovular"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-003",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about monozygotic twins is TRUE?",
+    "opts": [
+      "Monozygotic twins share sex, blood group, HLA and phenotype, but fingerprints differ due to environment",
+      "Monozygotic twins share sex alone, since blood groups and HLA types always differ between them",
+      "Monozygotic twins share blood group alone, because sex and HLA can differ even in identical twins",
+      "Monozygotic twins share nothing, since they differ genetically as much as any two siblings"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-004",
+    "fmt": "match",
+    "q": "Match the country with dizygotic twinning incidence — 1) Nigeria 2) Japan 3) India … A) 1 in 20 maximum B) 1 in 200 least C) 1 in 80",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-B, 2-A, 3-C",
+      "1-A, 2-C, 3-B",
+      "1-C, 2-B, 3-A"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-005",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about monozygotic twinning incidence is TRUE?",
+    "opts": [
+      "Monozygotic twinning incidence is uniform worldwide at about 1 in 250 births",
+      "Monozygotic twinning incidence is highest in Nigeria at 1 in 20 births overall",
+      "Monozygotic twinning incidence is lowest in Japan at 1 in 200 births worldwide",
+      "Monozygotic twinning incidence in India equals dizygotic twinning at 1 in 80 births"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-006",
+    "fmt": "fillup",
+    "q": "Fill up: As per Hellin's rule, if twins occur 1 in 80, triplets occur 1 in ______ and quadruplets 1 in ______.",
+    "opts": [
+      "80²; 80³",
+      "80³; 80²",
+      "160; 320",
+      "80; 160"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-008",
+    "fmt": "fillup",
+    "q": "Fill up: Two ova released in the same cycle but fertilized at different times by different acts of coitus is ______ and it is ______ in humans.",
+    "opts": [
+      "superfecundation; rare but seen",
+      "superfetation; not seen",
+      "superfecundation; never seen",
+      "superfetation; common"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-009",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about superfetation is TRUE?",
+    "opts": [
+      "Superfetation is not seen in humans; theoretically possible only until cavity obliterated at 14-16 weeks",
+      "Superfetation is common after IVF when several embryos are transferred in one cycle",
+      "Superfetation is seen only in multiparous women who have a larger uterine cavity volume",
+      "Superfetation is the same as superfecundation where two ova of one cycle are fertilised"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-010",
+    "fmt": "oddoneout",
+    "q": "All of the following are recognised risk factors for dizygotic twinning EXCEPT:",
+    "opts": [
+      "IVF as the sole risk factor with no role for geography, age, parity or family history at all",
+      "Geographical distribution with Nigeria showing highest incidence at 1 in 20 and Japan lowest",
+      "Advanced maternal age and increased parity raising chance of multiple ovulation and twins",
+      "Maternal family history of twins and ovulation-induction drugs like clomiphene and hMG"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-012",
+    "fmt": "fillup",
+    "q": "Fill up: Zygosity refers to ______ while chorionicity refers to ______.",
+    "opts": [
+      "type of conception; type of placentation",
+      "type of placentation; type of conception",
+      "number of sacs; number of embryos",
+      "fetal sex; karyotype"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-013",
+    "fmt": "fillup",
+    "q": "Fill up: Chorion is ______ membrane formed on day ______ and amnion is ______ membrane formed on day ______.",
+    "opts": [
+      "outer; 8; inner; 10",
+      "inner; 10; outer; 8",
+      "outer; 8; outer; 8",
+      "inner; 10; inner; 10"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-016",
+    "fmt": "match",
+    "q": "Match division timing of monozygotic zygote with membrane pattern — 1) <4 days morula 2) 4-8 days blastocyst 3) 8-12 days 4) ≥12 days … A) DCDA B) MCDA C) MCMA D) Conjoined/Siamese",
+    "opts": [
+      "1-A, 2-B, 3-C, 4-D",
+      "1-B, 2-A, 3-C, 4-D",
+      "1-A, 2-C, 3-B, 4-D",
+      "1-D, 2-C, 3-B, 4-A"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-017",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about MCDA formation at 4-8 days is TRUE?",
+    "opts": [
+      "Division at 4-8 days yields MCDA because common chorion has formed by day 8 while amnions stay separate",
+      "Division at 4-8 days yields MCDA because amnion forms before chorion so both share one sac",
+      "Division at 4-8 days yields MCDA because both chorion and amnion are shared by the two fetuses",
+      "Division at 4-8 days yields MCDA because no fetal membranes have formed at blastocyst stage"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-018",
+    "fmt": "fillup",
+    "q": "Fill up: Division occurring after formation of single amnion, chorion and embryonic disc at ≥12 days results in ______.",
+    "opts": [
+      "conjoined or Siamese twins",
+      "MCDA twins",
+      "DCDA twins",
+      "vanishing twin"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-019",
+    "fmt": "scenario",
+    "q": "A 28-year-old woman with monochorionic monoamniotic twins at 30 weeks is counselled. Ultrasound shows cord entanglement of both cords. What is the most appropriate counselling about complications and management?",
+    "opts": [
+      "Cord entanglement with sudden death of both twins; give steroids and plan caesarean at 32-34 weeks",
+      "Twin-to-twin transfusion syndrome requiring laser ablation of anastomoses before 28 weeks",
+      "Preterm labour alone managed with cervical cerclage and bed rest until 38 weeks gestation",
+      "No specific risk in monoamniotic twins, so vaginal delivery at term is appropriate and safe"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-020",
+    "fmt": "fillup",
+    "q": "Fill up: The commonest variety of twins overall is ______ and among monozygotic twins is ______.",
+    "opts": [
+      "DCDA; MCDA",
+      "MCDA; DCDA",
+      "MCMA; DCDA",
+      "DCDA; MCMA"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-021",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about prognosis in twins is TRUE?",
+    "opts": [
+      "Prognosis depends on chorionicity: monochorionic twins fare worse than dichorionic in every outcome",
+      "Prognosis depends on zygosity alone, since monozygotic twins do badly whatever the placentation",
+      "Prognosis depends on fetal sex, since unlike-sex twins have worst perinatal outcome overall",
+      "Prognosis depends on maternal parity, since first twin pregnancy carries poorest outlook"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-022",
+    "fmt": "fillup",
+    "q": "Fill up: Determination of chorionicity is best done by ______ at ______ weeks of gestation.",
+    "opts": [
+      "transvaginal ultrasound; 10-14",
+      "transabdominal ultrasound; 20-24",
+      "magnetic resonance imaging; 28",
+      "umbilical artery Doppler; 16"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-023",
+    "fmt": "match",
+    "q": "Match twin type with number of membrane layers — 1) DCDA 2) MCDA 3) MCMA … A) 4 layers B) 2 layers C) 0 layers",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-B, 2-A, 3-C",
+      "1-A, 2-C, 3-B",
+      "1-C, 2-B, 3-A"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-024",
+    "fmt": "fillup",
+    "q": "Fill up: Membrane thickness distinguishing DCDA from MCDA is ______ in DCDA vs ______ in MCDA.",
+    "opts": [
+      "≥2 mm; <2 mm",
+      "<2 mm; ≥2 mm",
+      "≥5 mm; <5 mm",
+      "<1 mm; ≥1 mm"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-025",
+    "fmt": "match",
+    "q": "Match chorionicity with vascular connections — 1) Dichorionic 2) Monochorionic diamniotic 3) Monoamniotic … A) None B) Deep arteriovenous C) Superficial",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-B, 2-A, 3-C",
+      "1-A, 2-C, 3-B",
+      "1-C, 2-B, 3-A"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-026",
+    "fmt": "truefalse",
+    "q": "Which of the following statements about DCDA placental features is TRUE?",
+    "opts": [
+      "DCDA twins have two placentas or one fused single-looking with lambda or twin-peak sign",
+      "DCDA twins have single placenta with T sign at membrane insertion site",
+      "DCDA twins have single placenta with no distinguishing ultrasound sign at all",
+      "DCDA twins have two separate placentas but always show T sign between membranes"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-027",
+    "fmt": "fillup",
+    "q": "Fill up: The T sign on USG, with single chorion and no intervening placenta, indicates ______.",
+    "opts": [
+      "MCDA",
+      "DCDA",
+      "MCMA",
+      "conjoined twins"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-028",
+    "fmt": "match",
+    "q": "Match twin type with its specific complications — 1) MCDA 2) MCMA … A) TTTS, TAPS, selective IUGR B) Cord entanglement and conjoined twins",
+    "opts": [
+      "1-A, 2-B",
+      "1-B, 2-A",
+      "1-A, 2-A",
+      "1-B, 2-B"
+    ],
+    "ans": 0
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C13-029",
+    "fmt": "fillup",
+    "q": "Fill up: Delivery timing is ______ for DCDA, ______ for MCDA and ______ for MCMA twins.",
+    "opts": [
+      "38 weeks; 36-37 weeks; 32-34 weeks",
+      "32-34 weeks; 36-37 weeks; 38 weeks",
+      "36-37 weeks; 38 weeks; 32-34 weeks",
+      "38 weeks; 32-34 weeks; 36-37 weeks"
+    ],
+    "ans": 0
+  }
+]

@@ -238,7 +238,7 @@
   {
    "sec": "Invasive diagnostic tests",
    "page": 340,
-   "q": "What fetal tissue is aspirated and cultured during Chorionic Villus Sampling (CVS)?",
+   "q": "Fill up: CVS aspirates and cultures the ______ (and mesenchyme) of the chorion frondosum.",
    "opts": [
     "Rapidly dividing cytotrophoblast and mesenchyme of the chorion frondosum",
     "Desquamated fibroblasts from the fetal dermis in the amniotic fluid",
@@ -247,12 +247,13 @@
    ],
    "ans": 0,
    "exp": "CVS aspirates and cultures the rapidly dividing cytotrophoblast (and mesenchyme) of the chorion frondosum. (Book p340)",
-   "id": "OBG-C4-001"
+   "id": "OBG-C4-001",
+   "fmt": "fillup"
   },
   {
    "sec": "Invasive diagnostic tests",
    "page": 340,
-   "q": "What is the optimal gestational age window for performing Chorionic Villus Sampling (CVS)?",
+   "q": "Which of the following statements about Invasive diagnostic tests is TRUE?",
    "opts": [
     "10 to 14 weeks of gestation, ideally 11 to 13 weeks and 6 days",
     "15 to 20 weeks of gestation, ideally 16 to 18 completed weeks",
@@ -261,12 +262,13 @@
    ],
    "ans": 0,
    "exp": "The optimal window for chorionic villus sampling is 10 to 14 weeks, ideally 11 to 13 weeks and 6 days. (Book p340)",
-   "id": "OBG-C4-002"
+   "id": "OBG-C4-002",
+   "fmt": "truefalse"
   },
   {
    "sec": "Invasive diagnostic tests",
    "page": 340,
-   "q": "Why is Chorionic Villus Sampling (CVS) strictly contraindicated before 10 completed weeks of gestation?",
+   "q": "All of the following are Invasive diagnostic tests EXCEPT:",
    "opts": [
     "It carries a substantial risk of severe fetal transverse limb reduction defects and oromandibular/omphalocele anomalies",
     "It causes immediate maternal Rh sensitization in 100% of cases",
@@ -275,12 +277,13 @@
    ],
    "ans": 0,
    "exp": "CVS performed <10 weeks causes fetal vascular disruption, leading to severe limb reduction defects and micrognathia. (Book p340)",
-   "id": "OBG-C4-003"
+   "id": "OBG-C4-003",
+   "fmt": "oddoneout"
   },
   {
    "sec": "Invasive diagnostic tests",
    "page": 340,
-   "q": "What is the primary cytogenetic diagnostic disadvantage of Chorionic Villus Sampling (CVS) compared to amniocentesis?",
+   "q": "A 28-year-old woman at 30 weeks with invasive diagnostic tests presents with the main cytogenetic disadvantage of cvs is that in 1-2% of cases results are confounded by confined. What is the primary cytogenetic diagnostic disadvantage of Chorionic Villus Sampling (CVS) compared to amniocentesis?",
    "opts": [
     "In 1-2% of cases confined placental mosaicism confounds the result",
     "CVS cannot detect numerical aneuploidies such as trisomy 21",
@@ -289,12 +292,13 @@
    ],
    "ans": 0,
    "exp": "The main cytogenetic disadvantage of CVS is that in 1-2% of cases results are confounded by confined placental mosaicism, requiring confirmatory amniocentesis. (Book p340)",
-   "id": "OBG-C4-004"
+   "id": "OBG-C4-004",
+   "fmt": "scenario"
   },
   {
    "sec": "Invasive diagnostic tests",
    "page": 340,
-   "q": "What is the standard gestational window for performing mid-trimester diagnostic amniocentesis, and what is its associated procedure-related fetal loss rate?",
+   "q": "Fill up: is the standard gestational window for performing mid-trimester diagnostic amniocentesis, and what is its associated procedure-related fetal loss rate is ______.",
    "opts": [
     "15 to 20 weeks of gestation (ideal 16-18 weeks); procedure loss rate < 0.5%",
     "10 to 12 weeks of gestation; procedure loss rate 5%",
@@ -303,12 +307,13 @@
    ],
    "ans": 0,
    "exp": "Amniocentesis is routinely performed between 15 and 20 weeks; the procedure-related loss rate is low (<0.5%). (Book p340)",
-   "id": "OBG-C4-005"
+   "id": "OBG-C4-005",
+   "fmt": "fillup"
   },
   {
    "sec": "Invasive diagnostic tests",
    "page": 340,
-   "q": "Why is early amniocentesis (performed before 15 weeks of gestation) not clinically recommended?",
+   "q": "Which of the following statements about Invasive diagnostic tests regarding Higher fetal loss, talipes equinovarus (clubfoot) is TRUE?",
    "opts": [
     "Higher fetal loss, talipes equinovarus (clubfoot) and amniotic fluid leakage",
     "Amniocytes cannot be karyotyped before 15 weeks of gestation",
@@ -317,7 +322,8 @@
    ],
    "ans": 0,
    "exp": "Early amniocentesis before 15 weeks is not recommended because of significantly higher fetal loss rates, talipes equinovarus (clubfoot) and fluid leakage. (Book p340)",
-   "id": "OBG-C4-006"
+   "id": "OBG-C4-006",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C4-007",
@@ -337,35 +343,37 @@
   {
    "sec": "Specialized fetal procedures",
    "page": 341,
-   "q": "During diagnostic ultrasound-guided amniocentesis at 16 weeks, what size spinal needle is standardly utilized, and what volume of amniotic fluid is aspirated?",
+   "q": "All of the following are Specialized fetal procedures EXCEPT:",
    "opts": [
     "20 to 22-gauge spinal needle; approximately 20 mL of fluid",
-    "16-gauge Trocar needle; 50 mL of fluid",
+    "16-gauge Trocar needle; 50 mL of fluid — Amniocentesis uses a 20-22G spinal needle under continuous r",
     "26-gauge butterfly needle; 5 mL of fluid",
     "18-gauge bone marrow needle; 30 mL of fluid"
    ],
    "ans": 0,
    "exp": "Amniocentesis uses a 20-22G spinal needle under continuous real-time USG guidance, discarding the first 1-2 mL and collecting ~20 mL. (Book p341)",
-   "id": "OBG-C4-008"
+   "id": "OBG-C4-008",
+   "fmt": "oddoneout"
   },
   {
    "sec": "Specialized fetal procedures",
    "page": 341,
-   "q": "In the third trimester, what was the classic indication for performing diagnostic amniocentesis?",
+   "q": "A 28-year-old woman at 30 weeks with specialized fetal procedures presents with in the third trimester, amniocentesis was historically performed to assess fetal pulmonary maturity . In the third trimester, what was the classic indication for performing diagnostic amniocentesis?",
    "opts": [
     "Assessing fetal lung maturity via the Lecithin-to-Sphingomyelin (L/S) ratio",
     "Testing for sickle cell anemia carrier status",
-    "Measuring fetal head circumference",
-    "Assessing maternal alpha-fetoprotein"
+    "Measuring fetal head circumference with appropriate counselling and management as per notes",
+    "Assessing maternal alpha-fetoprotein with appropriate counselling and management as per notes"
    ],
    "ans": 0,
    "exp": "In the third trimester, amniocentesis was historically performed to assess fetal pulmonary maturity via the L/S ratio (>=2.0 indicates mature lungs). (Book p341)",
-   "id": "OBG-C4-009"
+   "id": "OBG-C4-009",
+   "fmt": "scenario"
   },
   {
    "sec": "Specialized fetal procedures",
    "page": 341,
-   "q": "Percutaneous Umbilical Blood Sampling (PUBS / Cordocentesis) is performed under ultrasound guidance starting at >= 18 weeks. Which umbilical vessel is specifically targeted for puncture?",
+   "q": "Fill up: Cordocentesis samples fetal blood by puncturing ______ vein approximately 1 cm from the placental insertion site.",
    "opts": [
     "The umbilical vein, near its placental insertion site",
     "The right umbilical artery near the fetal abdominal wall",
@@ -374,12 +382,13 @@
    ],
    "ans": 0,
    "exp": "Cordocentesis samples fetal blood by puncturing the umbilical vein approximately 1 cm from the placental insertion site. (Book p341)",
-   "id": "OBG-C4-010"
+   "id": "OBG-C4-010",
+   "fmt": "fillup"
   },
   {
    "sec": "Specialized fetal procedures",
    "page": 341,
-   "q": "What is the primary contemporary clinical indication for performing cordocentesis?",
+   "q": "Which of the following statements about Specialized fetal procedures is TRUE?",
    "opts": [
     "Fetal hemoglobin and hematocrit assessment, and direct intrauterine transfusion",
     "Routine first-line screening for Down syndrome in all pregnancies",
@@ -388,7 +397,8 @@
    ],
    "ans": 0,
    "exp": "The primary contemporary indication for cordocentesis is direct assessment of fetal hemoglobin and hematocrit, with direct intrauterine transfusion in severe Rh isoimmunization. (Book p341)",
-   "id": "OBG-C4-011"
+   "id": "OBG-C4-011",
+   "fmt": "truefalse"
   },
   {
    "sec": "Specialized fetal procedures",

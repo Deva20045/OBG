@@ -4,7 +4,7 @@
    "id": "OBG-C1-001",
    "sec": "Primordial germ cells",
    "page": 265,
-   "q": "Gametogenesis begins with the primordial germ cell (PGC), which is embryologically derived from:",
+   "q": "Fill up: Gametogenesis begins with the primordial germ cell (PGC), which is embryologically derived from ______.",
    "opts": [
     "Epiblast and ectoderm",
     "Hypoblast and endoderm",
@@ -12,13 +12,14 @@
     "Neural crest cells"
    ],
    "ans": 0,
-   "exp": "Primordial germ cells are derived from the epiblast and ectoderm. (Book p265)"
+   "exp": "Primordial germ cells are derived from the epiblast and ectoderm. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-002",
    "sec": "Primordial germ cells",
    "page": 265,
-   "q": "Primordial germ cells are described as bipotent because they possess the developmental capability to form:",
+   "q": "Fill up: Primordial germ cells are described as bipotent because they possess the developmental capability to form ______.",
    "opts": [
     "Both spermatogonia and oogonia",
     "Both embryonic and trophoblastic tissues",
@@ -26,13 +27,14 @@
     "Both syncytiotrophoblast and cytotrophoblast"
    ],
    "ans": 0,
-   "exp": "PGCs are bipotent cells that can differentiate into either spermatogonia or oogonia. (Book p265)"
+   "exp": "PGCs are bipotent cells that can differentiate into either spermatogonia or oogonia. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-003",
    "sec": "Sex differentiation",
    "page": 265,
-   "q": "Sexual differentiation of the primordial germ cells into male or female gametogonia is fundamentally determined by the:",
+   "q": "Fill up: Sexual differentiation of the primordial germ cells into male or female gametogonia is fundamentally determined by the ______.",
    "opts": [
     "SRY gene on chromosome Y",
     "DAX1 gene on chromosome X",
@@ -40,13 +42,14 @@
     "WT1 gene on chromosome 11"
    ],
    "ans": 0,
-   "exp": "Differentiation is determined by the SRY gene (sex-related gene on chromosome Y). (Book p265)"
+   "exp": "Differentiation is determined by the SRY gene (sex-related gene on chromosome Y). (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-004",
    "sec": "Sex differentiation",
    "page": 265,
-   "q": "The SRY gene is anatomically situated on which specific chromosomal locus?",
+   "q": "Fill up: The SRY gene is located on the ______.",
    "opts": [
     "Distal end of the short arm of chromosome Y",
     "Centromeric region of chromosome Y",
@@ -54,13 +57,14 @@
     "Pseudoautosomal region of chromosome X"
    ],
    "ans": 0,
-   "exp": "The SRY gene is located on the distal end of the short arm of chromosome Y. (Book p265)"
+   "exp": "The SRY gene is located on the distal end of the short arm of chromosome Y. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-005",
    "sec": "Sex differentiation",
    "page": 265,
-   "q": "When the SRY gene on chromosome Y is absent, primordial germ cells normally differentiate into:",
+   "q": "Fill up: When the SRY gene on chromosome Y is absent, primordial germ cells normally differentiate into ______.",
    "opts": [
     "Oogonia",
     "Spermatogonia",
@@ -68,7 +72,8 @@
     "Sertoli cells"
    ],
    "ans": 0,
-   "exp": "When the SRY gene is absent, PGCs differentiate into oogonia. (Book p265)"
+   "exp": "When the SRY gene is absent, PGCs differentiate into oogonia. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-006",
@@ -89,7 +94,7 @@
    "id": "OBG-C1-007",
    "sec": "Spermatogenesis",
    "page": 265,
-   "q": "At what stage of human development does spermatogenesis normally begin?",
+   "q": "Fill up: Spermatogenesis begins ______, unlike oogenesis which starts in intrauterine life.",
    "opts": [
     "At puberty",
     "During intrauterine life",
@@ -97,13 +102,14 @@
     "During early infancy"
    ],
    "ans": 0,
-   "exp": "Spermatogenesis begins at puberty, unlike oogenesis which starts in intrauterine life. (Book p265)"
+   "exp": "Spermatogenesis begins at puberty, unlike oogenesis which starts in intrauterine life. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-008",
    "sec": "Spermatogenesis",
    "page": 265,
-   "q": "In the male germ cell lineage, which spermatogonial subtype divides by mitosis to replenish the stem cell reservoir?",
+   "q": "Fill up: ______ divide and replenish the stem stores of spermatogonia.",
    "opts": [
     "Type A spermatogonia",
     "Type B spermatogonia",
@@ -111,13 +117,14 @@
     "Secondary spermatocytes"
    ],
    "ans": 0,
-   "exp": "Type A spermatogonia divide and replenish the stem stores of spermatogonia. (Book p265)"
+   "exp": "Type A spermatogonia divide and replenish the stem stores of spermatogonia. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-009",
    "sec": "Spermatogenesis",
    "page": 265,
-   "q": "The male germ cells that undergo maturation and enter spermatogenesis are designated as:",
+   "q": "Fill up: The male germ cells that undergo maturation and enter spermatogenesis are designated as ______.",
    "opts": [
     "Type B (pale) spermatogonia",
     "Type A (dark) spermatogonia",
@@ -125,13 +132,14 @@
     "Sertoli sustentacular cells"
    ],
    "ans": 0,
-   "exp": "Type B (pale) spermatogonia undergo spermatogenesis to form primary spermatocytes. (Book p265)"
+   "exp": "Type B (pale) spermatogonia undergo spermatogenesis to form primary spermatocytes. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-010",
    "sec": "Spermatogenesis",
    "page": 265,
-   "q": "Through sequential mitotic amplification, one spermatogonium gives rise to how many primary spermatocytes?",
+   "q": "Fill up: One spermatogonium produces ______.",
    "opts": [
     "16 primary spermatocytes",
     "4 primary spermatocytes",
@@ -139,13 +147,14 @@
     "64 primary spermatocytes"
    ],
    "ans": 0,
-   "exp": "One spermatogonium produces 16 primary spermatocytes. (Book p265)"
+   "exp": "One spermatogonium produces 16 primary spermatocytes. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-011",
    "sec": "Spermatogenesis",
    "page": 265,
-   "q": "During Meiosis I of spermatogenesis, chromosome reduction occurs when one primary spermatocyte (46, XY) divides to form:",
+   "q": "Fill up: During Meiosis I of spermatogenesis, chromosome reduction occurs when one primary spermatocyte (46, XY) divides to form ______.",
    "opts": [
     "Two secondary spermatocytes (23, X and 23, Y)",
     "Four haploid spermatids",
@@ -153,13 +162,14 @@
     "One secondary spermatocyte and one polar body"
    ],
    "ans": 0,
-   "exp": "In Meiosis I, chromosome number is halved, yielding two secondary spermatocytes (23, X and 23, Y) from each primary spermatocyte. (Book p265)"
+   "exp": "In Meiosis I, chromosome number is halved, yielding two secondary spermatocytes (23, X and 23, Y) from each primary spermatocyte. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-012",
    "sec": "Spermatogenesis",
    "page": 265,
-   "q": "How many haploid spermatids are produced from a single primary spermatocyte and from a single spermatogonium, respectively?",
+   "q": "Fill up: Each primary spermatocyte produces ______, and one spermatogonium yields 64 spermatids.",
    "opts": [
     "4 spermatids and 64 spermatids",
     "2 spermatids and 16 spermatids",
@@ -167,13 +177,14 @@
     "8 spermatids and 32 spermatids"
    ],
    "ans": 0,
-   "exp": "Each primary spermatocyte produces 4 spermatids, and one spermatogonium yields 64 spermatids. (Book p265)"
+   "exp": "Each primary spermatocyte produces 4 spermatids, and one spermatogonium yields 64 spermatids. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-013",
    "sec": "Spermiogenesis",
    "page": 265,
-   "q": "The developmental process termed spermiogenesis is best defined as the:",
+   "q": "Fill up: The developmental process termed spermiogenesis is best defined as the ______.",
    "opts": [
     "Morphological transformation of spermatids into spermatozoa without cell division",
     "First meiotic division reducing chromosome number to haploid",
@@ -181,13 +192,14 @@
     "Release of mature spermatozoa into the tubule lumen"
    ],
    "ans": 0,
-   "exp": "Spermiogenesis is the morphological transformation of round spermatids into spermatozoa without meiosis or mitosis. (Book p265)"
+   "exp": "Spermiogenesis is the morphological transformation of round spermatids into spermatozoa without meiosis or mitosis. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-014",
    "sec": "Spermiation",
    "page": 265,
-   "q": "The process by which mature spermatozoa detach from Sertoli cells and are released into the seminiferous tubule lumen is termed:",
+   "q": "Fill up: The process by which mature spermatozoa detach from Sertoli cells and are released into the seminiferous tubule lumen is termed ______.",
    "opts": [
     "Spermiation",
     "Spermiogenesis",
@@ -195,27 +207,29 @@
     "Acrosome reaction"
    ],
    "ans": 0,
-   "exp": "Spermiation is the process of release of sperm into the lumen of the seminiferous tubules. (Book p265)"
+   "exp": "Spermiation is the process of release of sperm into the lumen of the seminiferous tubules. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-015",
    "sec": "Spermatogenesis kinetics",
    "page": 265,
-   "q": "What is the total duration required for the complete cycle of spermatogenesis in human testes?",
+   "q": "Fill up: The time taken for spermatogenesis is ______.",
    "opts": [
     "70–74 days (~72 days)",
-    "10–14 days",
-    "48–72 hours",
-    "90–120 days"
+    "10–14 days as per notes",
+    "48–72 hours as per notes",
+    "90–120 days as per notes"
    ],
    "ans": 0,
-   "exp": "The time taken for spermatogenesis is 70–74 days (~72 days). (Book p265)"
+   "exp": "The time taken for spermatogenesis is 70–74 days (~72 days). (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-016",
    "sec": "Spermiogenesis kinetics",
    "page": 265,
-   "q": "The time required specifically for the morphogenetic phase of spermiogenesis is:",
+   "q": "Fill up: The time required specifically for the morphogenetic phase of spermiogenesis is ______.",
    "opts": [
     "10–14 days",
     "30 minutes",
@@ -223,7 +237,8 @@
     "48–72 hours"
    ],
    "ans": 0,
-   "exp": "The time taken for spermiogenesis is 10–14 days. (Book p265)"
+   "exp": "The time taken for spermiogenesis is 10–14 days. (Book p265)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-017",
@@ -244,7 +259,7 @@
    "id": "OBG-C1-018",
    "sec": "Seminiferous tubule compartments",
    "page": 266,
-   "q": "In the seminiferous tubule, which germ cells are normally housed within the basal compartment beneath the blood-testis barrier?",
+   "q": "Fill up: The basal compartment contains ______; adluminal holds secondary spermatocytes, spermatids, and sperms.",
    "opts": [
     "Spermatogonia and early primary spermatocytes",
     "Secondary spermatocytes and spermatids",
@@ -252,12 +267,13 @@
     "Only mature flagellated spermatozoa"
    ],
    "ans": 0,
-   "exp": "The basal compartment contains spermatogonia and early primary spermatocytes; adluminal holds secondary spermatocytes, spermatids, and sperms. (Book p266)"
+   "exp": "The basal compartment contains spermatogonia and early primary spermatocytes; adluminal holds secondary spermatocytes, spermatids, and sperms. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "sec": "Seminiferous tubule compartments",
    "page": 266,
-   "q": "Which germ cell populations reside in the adluminal compartment of the seminiferous tubule, positioned luminal to the blood-testis barrier?",
+   "q": "Fill up: The adluminal compartment contains ______ sperms, while the basal compartment contains spermatogonia and early primary spermatocytes.",
    "opts": [
     "Secondary spermatocytes, spermatids, and spermatozoa",
     "Spermatogonia and early primary spermatocytes",
@@ -266,12 +282,13 @@
    ],
    "ans": 0,
    "exp": "The adluminal compartment contains secondary spermatocytes, spermatids, and sperms, while the basal compartment contains spermatogonia and early primary spermatocytes. (Book p266)",
-   "id": "OBG-C1-019"
+   "id": "OBG-C1-019",
+   "fmt": "fillup"
   },
   {
    "sec": "Seminiferous tubule compartments",
    "page": 266,
-   "q": "The blood-testis barrier that physically partitions the seminiferous tubule into basal and adluminal compartments is formed by specialized tight junctions between:",
+   "q": "Fill up: The blood-testis barrier that physically partitions the seminiferous tubule into basal and adluminal compartments is formed by specialized tight junctions between ______.",
    "opts": [
     "Adjacent Sertoli cells",
     "Adjacent Leydig interstitial cells",
@@ -280,13 +297,14 @@
    ],
    "ans": 0,
    "exp": "Specialized tight junctions between adjacent Sertoli sustentacular cells establish the blood-testis barrier, dividing the seminiferous epithelium into basal and adluminal compartments. (Book p266)",
-   "id": "OBG-C1-020"
+   "id": "OBG-C1-020",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-021",
    "sec": "Sperm ultrastructure",
    "page": 266,
-   "q": "During spermiogenesis, the acrosomal cap of the sperm head is derived from which cytoplasmic organelle of the spermatid?",
+   "q": "Fill up: The acrosomal cap is formed by the ______ of the spermatid.",
    "opts": [
     "Golgi apparatus",
     "Centriole",
@@ -294,13 +312,14 @@
     "Endoplasmic reticulum"
    ],
    "ans": 0,
-   "exp": "The acrosomal cap is formed by the Golgi apparatus of the spermatid. (Book p266)"
+   "exp": "The acrosomal cap is formed by the Golgi apparatus of the spermatid. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-022",
    "sec": "Sperm ultrastructure",
    "page": 266,
-   "q": "The middle piece of the mature spermatozoon is termed the powerhouse of the cell because it is composed of condensed:",
+   "q": "Fill up: The middle piece of the mature spermatozoon is termed the powerhouse of the cell because it is composed of condensed ______.",
    "opts": [
     "Mitochondria",
     "Golgi bodies",
@@ -308,13 +327,14 @@
     "Lysosomes"
    ],
    "ans": 0,
-   "exp": "Mitochondria aggregate in the middle piece, serving as the powerhouse of the sperm. (Book p266)"
+   "exp": "Mitochondria aggregate in the middle piece, serving as the powerhouse of the sperm. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-023",
    "sec": "Sperm ultrastructure",
    "page": 266,
-   "q": "The axial filament forming the flagellar tail of the mature spermatozoon originates from the spermatid's:",
+   "q": "Fill up: The axial filament forming the flagellar tail of the mature spermatozoon originates from the spermatid's ______.",
    "opts": [
     "Centriole",
     "Golgi apparatus",
@@ -322,13 +342,14 @@
     "Nucleolus"
    ],
    "ans": 0,
-   "exp": "The axial filament/tail is formed by the centriole. (Book p266)"
+   "exp": "The axial filament/tail is formed by the centriole. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-024",
    "sec": "Sperm ultrastructure",
    "page": 266,
-   "q": "The axoneme within the flagellar tail of the spermatozoon exhibits which characteristic microtubular arrangement?",
+   "q": "Fill up: The axoneme within the flagellar tail of the spermatozoon exhibits which characteristic microtubular arrangement is ______.",
    "opts": [
     "9 + 2 microtubule doublet arrangement",
     "9 + 0 triplet arrangement",
@@ -336,13 +357,14 @@
     "7 + 2 doublet arrangement"
    ],
    "ans": 0,
-   "exp": "The tail of the sperm has a characteristic 9+2 arrangement of microtubules. (Book p266)"
+   "exp": "The tail of the sperm has a characteristic 9+2 arrangement of microtubules. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-025",
    "sec": "Sperm dimensions",
    "page": 266,
-   "q": "What is the total overall length of a normal mature human spermatozoon?",
+   "q": "Fill up: The total size of a mature spermatozoon is ______ (compared to 120 µm for an ovum).",
    "opts": [
     "50–60 µm",
     "120 µm",
@@ -350,13 +372,14 @@
     "18–20 mm"
    ],
    "ans": 0,
-   "exp": "The total size of a mature spermatozoon is 50–60 µm (compared to 120 µm for an ovum). (Book p266)"
+   "exp": "The total size of a mature spermatozoon is 50–60 µm (compared to 120 µm for an ovum). (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-026",
    "sec": "Sperm lifespan",
    "page": 266,
-   "q": "What is the normal fertilisable lifespan of human spermatozoa within the female genital tract?",
+   "q": "Fill up: The fertilisable lifespan of sperm is ______, whereas the ovum's lifespan is 12–24 hours.",
    "opts": [
     "48–72 hours",
     "12–24 hours",
@@ -364,13 +387,14 @@
     "5–7 days"
    ],
    "ans": 0,
-   "exp": "The fertilisable lifespan of sperm is 48–72 hours, whereas the ovum's lifespan is 12–24 hours. (Book p266)"
+   "exp": "The fertilisable lifespan of sperm is 48–72 hours, whereas the ovum's lifespan is 12–24 hours. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-027",
    "sec": "Epididymal maturation",
    "page": 266,
-   "q": "In the male reproductive tract, spermatozoa attain structural maturity in the proximal epididymis, while progressive forward motility is acquired in the:",
+   "q": "Fill up: In the male reproductive tract, spermatozoa attain structural maturity in the proximal epididymis, while progressive forward motility is acquired in the ______.",
    "opts": [
     "Distal epididymis",
     "Seminiferous tubules",
@@ -378,13 +402,14 @@
     "Prostatic urethra"
    ],
    "ans": 0,
-   "exp": "Sperm maturity is attained in the proximal epididymis, while motility is attained in the distal epididymis. (Book p266)"
+   "exp": "Sperm maturity is attained in the proximal epididymis, while motility is attained in the distal epididymis. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-028",
    "sec": "Epididymal maturation",
    "page": 266,
-   "q": "What is the time required for spermatozoa to complete transit and physiological maturation through the epididymis?",
+   "q": "Fill up: Epididymal maturation takes ______.",
    "opts": [
     "12–14 days",
     "70–74 days",
@@ -392,13 +417,14 @@
     "6–8 hours"
    ],
    "ans": 0,
-   "exp": "Epididymal maturation takes 12–14 days. (Book p266)"
+   "exp": "Epididymal maturation takes 12–14 days. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-029",
    "sec": "Sperm kinetics",
    "page": 266,
-   "q": "The total duration required to produce fully mature, motile spermatozoa (testicular spermatogenesis plus epididymal maturation) is:",
+   "q": "Fill up: The total duration required to produce fully mature, motile spermatozoa (testicular spermatogenesis plus epididymal maturation) is ______.",
    "opts": [
     "90 days",
     "72 days",
@@ -406,13 +432,14 @@
     "120 days"
    ],
    "ans": 0,
-   "exp": "Total time taken to form mature sperm (spermatogenesis + epididymal maturation) is ~90 days. (Book p266)"
+   "exp": "Total time taken to form mature sperm (spermatogenesis + epididymal maturation) is ~90 days. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-030",
    "sec": "Sperm kinetics",
    "page": 266,
-   "q": "Following ejaculation into the vagina, how long does it take for spermatozoa to reach the fertilization site in the fallopian tube?",
+   "q": "Fill up: Time taken by sperm to reach the fertilization site after ejaculation is ______.",
    "opts": [
     "30 minutes",
     "6–8 hours",
@@ -420,7 +447,8 @@
     "2 hours"
    ],
    "ans": 0,
-   "exp": "Time taken by sperm to reach the fertilization site after ejaculation is 30 minutes. (Book p266)"
+   "exp": "Time taken by sperm to reach the fertilization site after ejaculation is 30 minutes. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-031",
@@ -441,7 +469,7 @@
    "id": "OBG-C1-032",
    "sec": "Oogenesis onset",
    "page": 266,
-   "q": "Unlike spermatogenesis which begins at puberty, oogenesis in the female commences during:",
+   "q": "Fill up: Unlike spermatogenesis which begins at puberty, oogenesis in the female commences during ______.",
    "opts": [
     "Intrauterine life",
     "The neonatal period",
@@ -449,13 +477,14 @@
     "Menarche"
    ],
    "ans": 0,
-   "exp": "Oogenesis begins in intrauterine life, with oogonia entering meiosis before birth. (Book p266)"
+   "exp": "Oogenesis begins in intrauterine life, with oogonia entering meiosis before birth. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-033",
    "sec": "Meiotic arrest",
    "page": 266,
-   "q": "In the fetal ovary, primary oocytes enter Meiosis I and remain arrested until puberty at which specific stage?",
+   "q": "Fill up: Primary oocytes arrest in the ______, also known as the dictyate state.",
    "opts": [
     "Diplotene stage of Prophase I",
     "Metaphase II",
@@ -463,7 +492,8 @@
     "Anaphase I"
    ],
    "ans": 0,
-   "exp": "Primary oocytes arrest in the diplotene stage of prophase I, also known as the dictyate state. (Book p266)"
+   "exp": "Primary oocytes arrest in the diplotene stage of prophase I, also known as the dictyate state. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-034",

@@ -1,0 +1,132 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C17-001",
+    "q": "Fill up: 1st: ______ → full dilatation; 2nd: → delivery of baby; 3rd: → delivery of placenta; 4th: 1–2 hrs observation after placenta.",
+    "opts": [
+      "True labour pain to full dilatation (10 cm) : full dilatation to delivery of baby : delivery of baby to delivery of placenta : 1–2 hrs observation after placenta",
+      "Onset of pain to engagement : engagement to crowning : crowning to birth : birth to placenta",
+      "True pain to 6 cm : 6 cm to full dilatation : full dilatation to birth : birth to placenta",
+      "Rupture of membranes to full dilatation : birth of baby : placenta : 24 hrs after placenta"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C17-002",
+    "q": "Which of the following statements about The four stages & the first stage: latent vs active phase is TRUE?",
+    "opts": [
+      "5 → 6 cm : 4 → 5 cm : 3 → 4 cm",
+      "3 → 4 cm : 4 → 5 cm : 5 → 6 cm",
+      "4 → 5 cm : 5 → 6 cm : 3 → 4 cm",
+      "6 → 7 cm : 5 → 6 cm : 4 → 5 cm"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C17-003",
+    "q": "All of the following are The four stages & the first stage: latent vs active phase EXCEPT:",
+    "opts": [
+      "Effacement with slow dilatation; then rapid dilatation with descent",
+      "Descent with slow dilatation; then effacement with no further change",
+      "Rapid dilatation with descent; then effacement with slow progress",
+      "Effacement only, no dilatation; then descent with slow cervical change"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C17-004",
+    "q": "A 28-year-old woman at 30 weeks with the four stages & the first stage: latent vs active phase presents with primi: latent 12 h, active 4 h; multi: latent 8 h, active 3 h. Duration of latent and active phases – Primigravida : Multigravida?",
+    "opts": [
+      "Latent 12 hrs, active 4 hrs : latent 8 hrs, active 3 hrs",
+      "Latent 8 hrs, active 3 hrs : latent 12 hrs, active 4 hrs",
+      "Latent 20 hrs, active 6 hrs : latent 14 hrs, active 4 hrs",
+      "Latent 6 hrs, active 2 hrs : latent 4 hrs, active 1 hr"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C17-005",
+    "q": "Fill up: Plotting of the active phase begins at ______ on the modified WHO partogram and at ______ on the WHO Labour Care Guide 2020; the latent phase is ______. is ______.",
+    "opts": [
+      "4 cm; 5 cm; not plotted",
+      "3 cm; 4 cm; plotted separately",
+      "5 cm; 6 cm; plotted",
+      "4 cm; 6 cm; plotted in the first column"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C17-007",
+    "q": "Which of the following statements about Prolonged latent phase is TRUE?",
+    "opts": [
+      "≥20 hrs in primigravida or ≥14 hrs in multigravida",
+      "≥14 hrs in primigravida or ≥20 hrs in multigravida",
+      "≥12 hrs in primigravida or ≥8 hrs in multigravida",
+      "Prolonged latent phase — >24 hrs in either"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C17-008",
+    "q": "All of the following are Prolonged latent phase EXCEPT:",
+    "opts": [
+      "Prostaglandins (PGE1 & PGE2) : wait for spontaneous delivery : therapeutic rest (best)",
+      "Therapeutic rest : prostaglandins : oxytocin",
+      "Oxytocin : C-section : prostaglandins — Unripe cervix → PGE1/PGE2; OP position → await spontaneous d",
+      "ARM : manual rotation : oxytocin — Unripe cervix → PGE1/PGE2; OP position → await spontaneous d"
+    ],
+    "ans": 0,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C17-009",
+    "q": "A 28-year-old woman at 30 weeks with prolonged latent phase presents with note: prolonged latent stage is not an indication for c-section. Prolonged latent stage as an indication for caesarean section – true or false?",
+    "opts": [
+      "False – prolonged latent stage is NOT an indication for C-section",
+      "True – always requires C-section with appropriate counselling and management as per notes",
+      "True – only in primigravida with appropriate counselling and management as per notes",
+      "True – only if membranes ruptured with appropriate counselling and management as per notes"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C17-011",
+    "q": "Fill up: Dilatation: primi ______, multi 1.5 cm/hr.",
+    "opts": [
+      "1.2 cm/hr : 1.5 cm/hr",
+      "1 cm/hr : 2 cm/hr",
+      "1.5 cm/hr : 1.2 cm/hr",
+      "2 cm/hr : 1 cm/hr"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C17-012",
+    "q": "Which of the following statements about Active phase: normal rates & protracted active phase is TRUE?",
+    "opts": [
+      "Active phase: normal rates & protracted active phase — 1 cm/hr : 2 cm/hr",
+      "Active phase: normal rates & protracted active phase — 1.2 cm/hr : 1.5 cm/hr",
+      "Active phase: normal rates & protracted active phase — 2 cm/hr : 1 cm/hr",
+      "Active phase: normal rates & protracted active phase — 0.5 cm/hr : 1 cm/hr"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  }
+]

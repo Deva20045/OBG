@@ -7,133 +7,142 @@
    "id": "OBG-C14-001",
    "sec": "PTL: causes, risks & prediction",
    "page": 472,
-   "q": "Preterm labour is defined as the process of labour beginning at:",
+   "q": "Fill up: Preterm labour is defined as labour beginning at ______ weeks.",
    "opts": [
-    "< 37 weeks",
-    "< 34 weeks",
-    "< 40 weeks",
-    "< 28 weeks"
+    "<37",
+    "<34",
+    "<40",
+    "<28"
    ],
    "ans": 0,
-   "exp": "PTL = labour process beginning before 37 weeks. (Book p472)"
+   "exp": "PTL = labour process beginning before 37 weeks. (Book p472)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C14-002",
    "sec": "PTL: causes, risks & prediction",
    "page": 472,
-   "q": "The m/c cause of preterm labour and the iatrogenic example given are:",
+   "q": "Fill up: The most common cause of preterm labour is ______ and an iatrogenic example is ______.",
    "opts": [
-    "Idiopathic; induction at 34 weeks in severe pre-eclampsia",
-    "Infection; induction at 40 weeks",
-    "Polyhydramnios; elective C-section",
-    "Abruptio; induction at 37 weeks"
+    "idiopathic; induction at 34 weeks in severe pre-eclampsia",
+    "induction at 34 weeks in severe pre-eclampsia; idiopathic",
+    "infection; induction at 40 weeks at term",
+    "polyhydramnios; elective caesarean at 37 weeks"
    ],
    "ans": 0,
-   "exp": "Idiopathic is m/c; iatrogenic PTL occurs e.g. when labour is induced at 34 weeks in severe pre-eclampsia. (Book p472)"
+   "exp": "Idiopathic is m/c; iatrogenic PTL occurs e.g. when labour is induced at 34 weeks in severe pre-eclampsia. (Book p472)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C14-003",
    "sec": "PTL: causes, risks & prediction",
    "page": 472,
-   "q": "The MOST important risk factor for preterm labour is:",
+   "q": "Which of the following statements about risk factors for preterm labour is TRUE?",
    "opts": [
-    "Previous h/o preterm labour",
-    "Short cervix",
-    "PROM",
-    "Twin pregnancy"
+    "Previous history of preterm labour is the most important risk factor for preterm birth",
+    "Short cervix alone is the most important risk factor, more than previous preterm birth",
+    "PROM is the most important risk factor for preterm labour in all populations",
+    "Twin pregnancy is the most important risk factor for preterm labour worldwide"
    ],
    "ans": 0,
-   "exp": "Previous preterm labour is the most important risk factor. (Book p472)"
+   "exp": "Previous preterm labour is the most important risk factor. (Book p472)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C14-004",
    "sec": "PTL: causes, risks & prediction",
    "page": 472,
-   "q": "Uterine overdistension as a PTL risk arises from:",
+   "q": "All of the following cause uterine overdistension leading to preterm labour EXCEPT:",
    "opts": [
-    "Twins and polyhydramnios",
-    "Fibroids and adenomyosis",
-    "Oligohydramnios",
-    "Cervical polyps"
+    "Twins and polyhydramnios causing uterine overdistension and preterm contractions",
+    "Fibroids and adenomyosis causing uterine overdistension and preterm labour",
+    "Oligohydramnios causing uterine overdistension and preterm contractions",
+    "Cervical polyps causing uterine overdistension and leading to preterm labour"
    ],
    "ans": 0,
-   "exp": "Overdistension from twins or polyhydramnios predisposes to PTL. (Book p472)"
+   "exp": "Overdistension from twins or polyhydramnios predisposes to PTL. (Book p472)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C14-005",
    "sec": "PTL: causes, risks & prediction",
    "page": 472,
-   "q": "Bleeding in pregnancy causing PTL is m/c due to:",
+   "q": "Fill up: Bleeding in pregnancy causing preterm labour is most commonly due to ______.",
    "opts": [
-    "Abruptio placenta",
-    "Placenta previa",
-    "Vasa previa",
-    "Cervical ectropion"
+    "abruptio placenta",
+    "placenta previa",
+    "vasa previa",
+    "cervical ectropion"
    ],
    "ans": 0,
-   "exp": "Abruptio placenta is the m/c bleeding cause linked to PTL. (Book p472)"
+   "exp": "Abruptio placenta is the m/c bleeding cause linked to PTL. (Book p472)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C14-006",
    "sec": "PTL: causes, risks & prediction",
    "page": 472,
-   "q": "Maternal and fetal stress contributors to PTL listed are:",
+   "q": "Match the stress contributor with its example — 1) Maternal stress 2) Fetal stress … A) PIH B) Uteroplacental insufficiency and IUGR",
    "opts": [
-    "Maternal: PIH; fetal: uteroplacental insufficiency and IUGR",
-    "Maternal: diabetes; fetal: macrosomia",
-    "Maternal: anaemia; fetal: twins",
-    "Maternal: infection only"
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
    ],
    "ans": 0,
-   "exp": "Maternal stress (PIH) and fetal stress (UPI, IUGR) are listed. (Book p472)"
+   "exp": "Maternal stress (PIH) and fetal stress (UPI, IUGR) are listed. (Book p472)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C14-007",
    "sec": "PTL: causes, risks & prediction",
    "page": 472,
-   "q": "Maternal infections linked to PTL (with NO routine screening advised) are:",
+   "q": "All of the following maternal infections are linked to preterm labour with no routine screening advised EXCEPT:",
    "opts": [
-    "Asymptomatic bacteriuria and bacterial vaginosis, neither routinely screened",
-    "Syphilis and HIV infection, neither routinely screened",
-    "Tuberculosis and malaria, neither routinely screened",
-    "Chlamydia and gonorrhoea, neither routinely screened"
+    "Asymptomatic bacteriuria and bacterial vaginosis, neither routinely screened for PTL prevention",
+    "Syphilis and HIV infection, neither routinely screened for PTL prevention in low-risk women",
+    "Tuberculosis and malaria, neither routinely screened for preterm labour prevention",
+    "Chlamydia and gonorrhoea, neither routinely screened for preterm labour prevention"
    ],
    "ans": 0,
-   "exp": "Maternal infections linked to preterm labour for which no routine screening is advised are asymptomatic bacteriuria and bacterial vaginosis. (Book p472)"
+   "exp": "Maternal infections linked to preterm labour for which no routine screening is advised are asymptomatic bacteriuria and bacterial vaginosis. (Book p472)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C14-008",
    "sec": "PTL: causes, risks & prediction",
    "page": 472,
-   "q": "Preventable preterm labour applies to which patients, and what is the IOC tool?",
+   "q": "A 26-year-old woman with previous preterm birth at 32 weeks is now 18 weeks. She asks if her risk can be predicted. Which patients have preventable preterm labour and what is the IOC tool for prediction?",
    "opts": [
-    "A previous preterm birth or a short cervix; transvaginal sonography is the tool",
-    "All primigravid women, screened by transabdominal sonography",
-    "Twin pregnancies alone, screened by magnetic resonance imaging",
-    "Preterm prelabour rupture alone, monitored with cardiotocography"
+    "Previous preterm birth or short cervix; transvaginal sonography is the investigation of choice",
+    "All primigravid women screened by transabdominal sonography for cervical length routinely",
+    "Twin pregnancies alone screened by magnetic resonance imaging for cervical length",
+    "Preterm prelabour rupture alone monitored with cardiotocography for contractions"
    ],
    "ans": 0,
-   "exp": "Prevention is aimed at women with a previous preterm birth or a short cervix, and transvaginal scan is how the cervix is measured. (Book p472)"
+   "exp": "Prevention is aimed at women with a previous preterm birth or a short cervix, and transvaginal scan is how the cervix is measured. (Book p472)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C14-009",
    "sec": "PTL: causes, risks & prediction",
    "page": 472,
-   "q": "A 'short cervix' on TVS risking PTL is defined as:",
+   "q": "Fill up: A short cervix on TVS risking preterm labour is defined as ______ cm or less.",
    "opts": [
-    "≤ 2.5 cm",
-    "≤ 4 cm",
-    "≤ 1 cm",
-    "≤ 3.5 cm"
+    "≤2.5",
+    "≤4",
+    "≤1",
+    "≤3.5"
    ],
    "ans": 0,
-   "exp": "Cervical length ≤2.5 cm denotes a short cervix at risk of PTL. (Book p472)"
+   "exp": "Cervical length ≤2.5 cm denotes a short cervix at risk of PTL. (Book p472)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C14-010",
    "sec": "PTL: causes, risks & prediction",
    "page": 472,
-   "q": "As the cervix dilates in preterm labour it becomes shorter (effacement) and its normal 'T' shape changes in which sequence?",
+   "q": "Fill up: As cervix dilates in preterm labour, its T shape changes in sequence ______.",
    "opts": [
     "T → Y → V → U",
     "T → V → Y → U",
@@ -141,35 +150,38 @@
     "Y → T → V → U"
    ],
    "ans": 0,
-   "exp": "The cervical shape changes T → Y → V → U as preterm labour progresses. (Book p472)"
+   "exp": "The cervical shape changes T → Y → V → U as preterm labour progresses. (Book p472)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C14-011",
    "sec": "PTL: causes, risks & prediction",
    "page": 472,
-   "q": "ACOG recommends cervical length measurement by TVS between which weeks in all women with h/o PTL?",
+   "q": "Fill up: ACOG recommends cervical length measurement by TVS between ______ weeks in women with history of PTL.",
    "opts": [
-    "16–24 weeks",
-    "10–14 weeks",
-    "24–28 weeks",
-    "28–32 weeks"
+    "16–24",
+    "10–14",
+    "28–32",
+    "32–36"
    ],
    "ans": 0,
-   "exp": "ACOG: TVS cervical length between 16–24 weeks in all with h/o PTL. (Book p472)"
+   "exp": "ACOG: TVS cervical length between 16–24 weeks in all with h/o PTL. (Book p472)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C14-012",
    "sec": "PTL: causes, risks & prediction",
    "page": 472,
-   "q": "Precautions during TVS cervical length measurement:",
+   "q": "Which of the following statements about TVS cervical length measurement precautions is TRUE?",
    "opts": [
-    "Empty bladder; measure from internal os to external os",
-    "Full bladder; measure only the visible part",
-    "Lithotomy with coughing; measure external os to vagina",
-    "No precautions needed"
+    "Measure with empty bladder from internal os to external os for cervical length assessment",
+    "Measure with full bladder and measure only the visible part of cervix on TVS",
+    "Measure with full bladder from external os to internal os with fundal pressure",
+    "Measure without bladder preparation and include lower uterine segment in length"
    ],
    "ans": 0,
-   "exp": "The bladder must be empty and length measured internal-to-external os. (Book p472)"
+   "exp": "The bladder must be empty and length measured internal-to-external os. (Book p472)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C14-013",
@@ -190,113 +202,121 @@
    "id": "OBG-C14-014",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
-   "q": "Besides cerclage and progesterone, which lifestyle measure prevents PTL?",
+   "q": "All of the following lifestyle measures help prevent preterm labour EXCEPT:",
    "opts": [
-    "Quit smoking",
-    "Strict bed rest",
-    "High-protein supplements",
-    "Routine infection screening"
+    "Quit smoking as a preventive measure for preterm labour in at-risk women",
+    "Strict bed rest as a proven preventive measure for preterm labour",
+    "Treatment of asymptomatic bacteriuria when detected in antenatal screening",
+    "Progesterone prophylaxis in women with previous preterm birth or short cervix"
    ],
    "ans": 0,
-   "exp": "Quitting smoking is listed; bed rest, nutrient supplements and routine screening have no role. (Book p473)"
+   "exp": "Quitting smoking is listed; bed rest, nutrient supplements and routine screening have no role. (Book p473)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C14-015",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
-   "q": "Cervical circlage surgery requires ALL three of which indications?",
+   "q": "A 29-year-old woman with previous preterm birth at 30 weeks, singleton pregnancy, TVS cervix 2.0 cm at 18 weeks. She asks about cerclage. Which three indications are required for cervical cerclage surgery?",
    "opts": [
-    "Preterm birth history, cervical length 2.5 cm or less on TVS, singleton",
-    "Preterm labour history, a twin pregnancy, and a short cervix",
-    "A short cervix, vaginal bleeding, and evidence of infection",
-    "A previous LSCS, a short cervix, and a singleton pregnancy"
+    "Preterm birth history, cervical length 2.5 cm or less on TVS, singleton pregnancy",
+    "Preterm labour history, twin pregnancy and short cervix on transabdominal scan",
+    "Previous term delivery, cervical length 3.5 cm and singleton pregnancy at 20 weeks",
+    "No previous preterm birth but short cervix alone in twin pregnancy at 16 weeks"
    ],
    "ans": 0,
-   "exp": "Cervical circlage requires all three of: a history of preterm birth, cervical length 2.5 cm or less on TVS, and a singleton pregnancy. (Book p473)"
+   "exp": "Cervical circlage requires all three of: a history of preterm birth, cervical length 2.5 cm or less on TVS, and a singleton pregnancy. (Book p473)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C14-016",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
-   "q": "Circlage timing and adjunct therapy:",
+   "q": "Fill up: Cervical cerclage timing is ______ weeks with ______ given alongside.",
    "opts": [
-    "14–24 weeks with progesterone given alongside",
-    "10–12 weeks with antibiotics",
-    "24–28 weeks with tocolytics",
-    "Any time with bed rest"
+    "14–24; progesterone",
+    "10–12; antibiotics",
+    "24–28; tocolytics",
+    "28–32; steroids"
    ],
    "ans": 0,
-   "exp": "Circlage is done at 14–24 weeks and progesterone is given with it. (Book p473)"
+   "exp": "Circlage is done at 14–24 weeks and progesterone is given with it. (Book p473)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C14-017",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
-   "q": "Indications for progesterone prophylaxis of PTL:",
+   "q": "All of the following are indications for progesterone prophylaxis of preterm labour EXCEPT:",
    "opts": [
-    "A previous preterm birth, a cervical length of 25 mm or less, and as an adjunct to cervical cerclage",
-    "Only in a twin pregnancy, whatever the cervical length or the obstetric history",
-    "Only after preterm prelabour rupture of membranes has already occurred",
-    "Only when there is vaginal bleeding from placenta previa in the third trimester"
+    "Previous preterm birth, cervical length ≤25 mm and adjunct to cervical cerclage as per notes",
+    "Twin pregnancy alone whatever the cervical length or obstetric history without other risk",
+    "Singleton pregnancy with short cervix on TVS between 16 and 24 weeks gestation",
+    "History-indicated cerclage with progesterone as adjunct therapy for prevention"
    ],
    "ans": 0,
-   "exp": "Progesterone is given for a previous preterm birth, an incidental short cervix, or alongside cerclage in a classic history. (Book p473)"
+   "exp": "Progesterone is given for a previous preterm birth, an incidental short cervix, or alongside cerclage in a classic history. (Book p473)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C14-018",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
-   "q": "Progesterone regimens listed: hydroxyprogesterone caproate and micronised progesterone.",
+   "q": "Match progesterone regimen with its details — 1) Hydroxyprogesterone caproate 2) Micronised progesterone … A) IM weekly 16-20 to 36 weeks B) PV daily",
    "opts": [
-    "Hydroxyprogesterone IM weekly from 16-20 weeks to 36 weeks; micronised PV daily",
-    "Hydroxyprogesterone IM weekly from 16-20 weeks to 36 weeks; micronised PV weekly",
-    "Hydroxyprogesterone orally daily until 20 weeks; micronised IM at 36 weeks",
-    "Hydroxyprogesterone as a single IM dose at 12 weeks; no further doses after"
+    "1-A, 2-B",
+    "1-B, 2-A",
+    "1-A, 2-A",
+    "1-B, 2-B"
    ],
    "ans": 0,
-   "exp": "The listed progesterone regimens are hydroxyprogesterone caproate IM weekly starting at 16-20 weeks and stopping at 36 weeks, and micronised progesterone per vaginam daily. (Book p473)"
+   "exp": "The listed progesterone regimens are hydroxyprogesterone caproate IM weekly starting at 16-20 weeks and stopping at 36 weeks, and micronised progesterone per vaginam daily. (Book p473)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C14-019",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
-   "q": "Progesterone prevents PTL by acting as a:",
+   "q": "Which of the following statements about progesterone mechanism in PTL prevention is TRUE?",
    "opts": [
-    "Smooth muscle relaxant",
-    "Tocolytic after contractions start",
-    "Cervical ripening agent",
-    "Surfactant inducer"
+    "Progesterone prevents preterm labour by acting as a smooth muscle relaxant maintaining quiescence",
+    "Progesterone acts as a tocolytic after contractions have started to stop established labour",
+    "Progesterone prevents preterm labour by increasing oxytocin receptor expression in myometrium",
+    "Progesterone prevents preterm labour by ripening the cervix and increasing gap junctions"
    ],
    "ans": 0,
-   "exp": "Its function is smooth muscle relaxation. (Book p473)"
+   "exp": "Its function is smooth muscle relaxation. (Book p473)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C14-020",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
-   "q": "True or false: progesterone can stop PTL once contractions have started.",
+   "q": "Which of the following statements about progesterone as tocolytic is TRUE?",
    "opts": [
-    "False – it is not a tocolytic and cannot stop labour once contractions start",
-    "True – it is the first-line tocolytic agent in preterm labour",
-    "True – but only when given together with betamethasone",
-    "False – but it does reverse cervical effacement completely"
+    "Progesterone is not a tocolytic and cannot stop labour once contractions have started",
+    "Progesterone is the first-line tocolytic agent in established preterm labour",
+    "Progesterone stops contractions within 30 minutes when given intravenously in labour",
+    "Progesterone is more effective than nifedipine for acute tocolysis in preterm labour"
    ],
    "ans": 0,
-   "exp": "False: progesterone is not a tocolytic and cannot prevent preterm labour once contractions have started. (Book p473)"
+   "exp": "False: progesterone is not a tocolytic and cannot prevent preterm labour once contractions have started. (Book p473)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C14-021",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
-   "q": "Which interventions have NO role in preventing PTL?",
+   "q": "All of the following have NO role in preventing preterm labour EXCEPT:",
    "opts": [
-    "Bed rest, nutrient supplementation and routine screening for infection",
-    "Progesterone and cerclage",
-    "TVS surveillance and smoking cessation",
-    "Aspirin and calcium"
+    "Bed rest, nutrient supplementation and routine screening for infection have no role in PTL prevention",
+    "Progesterone and cerclage have no role in preventing preterm labour in at-risk women",
+    "Smoking cessation has no role in preventing preterm labour and can be ignored",
+    "Transvaginal cervical length screening has no role in predicting preterm labour"
    ],
    "ans": 0,
-   "exp": "Bed rest, nutrient supplementation and routine infection screening have no role. (Book p473)"
+   "exp": "Bed rest, nutrient supplementation and routine infection screening have no role. (Book p473)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C14-022",
@@ -317,29 +337,31 @@
    "id": "OBG-C14-023",
    "sec": "PTL: diagnosis & definitions",
    "page": 473,
-   "q": "Work-up of uterine contractions with cervical length ≤2.5 cm: per speculum to rule out PROM, then P/V examination. Cervical dilatation ≥2 cm means:",
+   "q": "Fill up: Established preterm labour is defined as regular contractions with cervical dilatation ≥______ cm and effacement ≥______%.",
    "opts": [
-    "Established case of PTL – admit",
-    "Threatened PTL – observe at home",
-    "False labour – discharge",
-    "PPROM – deliver"
+    "2; 80",
+    "4; 50",
+    "1; 100",
+    "3; 60"
    ],
    "ans": 0,
-   "exp": "Dilatation ≥2 cm = established PTL requiring admission; <2 cm → admit and observe dilatation/effacement. (Book p473)"
+   "exp": "Dilatation ≥2 cm = established PTL requiring admission; <2 cm → admit and observe dilatation/effacement. (Book p473)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C14-024",
    "sec": "PTL: diagnosis & definitions",
    "page": 473,
-   "q": "If dilatation is < 2 cm with contractions and a short cervix, the plan is:",
+   "q": "Which of the following statements about fetal fibronectin in PTL is TRUE?",
    "opts": [
-    "Admit and observe dilatation and effacement",
-    "Immediate C-section",
-    "Discharge with progesterone",
-    "Induction of labour"
+    "Fetal fibronectin is a glycoprotein from choriodecidual interface predicting preterm labour",
+    "Fetal fibronectin is a hormone from corpus luteum maintaining pregnancy until term",
+    "Fetal fibronectin is a fetal lung maturity marker measured in amniotic fluid routinely",
+    "Fetal fibronectin is a maternal serum marker for Down syndrome screening in twins"
    ],
    "ans": 0,
-   "exp": "Such patients are admitted for observation of dilatation and effacement. (Book p473)"
+   "exp": "Such patients are admitted for observation of dilatation and effacement. (Book p473)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C14-025",
@@ -374,15 +396,16 @@
    "id": "OBG-C14-027",
    "sec": "PTL: diagnosis & definitions",
    "page": 474,
-   "q": "The CURRENT definition of established PTL replaces those add-ons with:",
+   "q": "A 30-year-old woman at 32 weeks with regular contractions, cervix 2 cm dilated, 80% effaced, membranes intact, no bleeding. Fetal fibronectin is positive. What is the diagnosis and best predictor?",
    "opts": [
-    "Progressive cervical change, or an initial dilatation of 2 cm or more",
-    "A fixed dilatation of 5 cm or more with no further change",
-    "A fetal fibronectin of 100 ng per mL or more in cervicovaginal fluid",
-    "A cervical length of 1 cm or less and no other supporting feature"
+    "Established preterm labour; fetal fibronectin positive predicts delivery within 7-14 days",
+    "False labour; fetal fibronectin positive rules out preterm labour completely",
+    "Term labour; fetal fibronectin is irrelevant after 37 weeks gestation",
+    "Braxton Hicks contractions; no need for steroids or tocolysis at 32 weeks"
    ],
    "ans": 0,
-   "exp": "The current definition drops the add-on tests and requires progressive change, or dilatation of at least 2 cm at presentation. (Book p474)"
+   "exp": "The current definition drops the add-on tests and requires progressive change, or dilatation of at least 2 cm at presentation. (Book p474)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C14-028",
@@ -416,15 +439,16 @@
    "id": "OBG-C14-030",
    "sec": "PTL: fetal fibronectin & neonatal risks",
    "page": 474,
-   "q": "Risks increased in the preterm neonate include RDS (due to decreased surfactant), NEC, IVH, hypoglycaemia, hypothermia, infections and:",
+   "q": "Match intervention in established PTL with its purpose — 1) Corticosteroids 2) Tocolytics 3) MgSO4 4) Antibiotics … A) Fetal lung maturity B) Delay delivery 48h C) Neuroprotection D) GBS prophylaxis",
    "opts": [
-    "Cerebral palsy – prevented by MgSO4 neuroprotection",
-    "Diabetes insipidus",
-    "Nephrotic syndrome",
-    "Retinopathy of prematurity only"
+    "1-A, 2-B, 3-C, 4-D",
+    "1-B, 2-A, 3-C, 4-D",
+    "1-A, 2-C, 3-B, 4-D",
+    "1-D, 2-B, 3-C, 4-A"
    ],
    "ans": 0,
-   "exp": "Cerebral palsy risk is countered with neuroprotective MgSO4; RDS/NEC/IVH with corticosteroids. (Book p474)"
+   "exp": "Cerebral palsy risk is countered with neuroprotective MgSO4; RDS/NEC/IVH with corticosteroids. (Book p474)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C14-031",
@@ -486,15 +510,16 @@
    "id": "OBG-C14-035",
    "sec": "PTL: corticosteroids",
    "page": 474,
-   "q": "Why are repeat courses of antenatal steroids avoided?",
+   "q": "Fill up: In established PTL, steroids are given as ______ IM 12 hours apart or ______ IM 24 hours apart.",
    "opts": [
-    "They can cause cerebral palsy",
-    "They cause maternal diabetes",
-    "They cause fetal macrosomia",
-    "They chorioamnionitis risk rises"
+    "betamethasone; dexamethasone",
+    "dexamethasone; betamethasone",
+    "hydrocortisone; betamethasone",
+    "prednisolone; dexamethasone"
    ],
    "ans": 0,
-   "exp": "Repeat courses are not given as they can cause cerebral palsy. (Book p474)"
+   "exp": "Repeat courses are not given as they can cause cerebral palsy. (Book p474)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C14-036",
