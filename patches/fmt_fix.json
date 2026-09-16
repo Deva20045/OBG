@@ -1,0 +1,17 @@
+[
+ {"op":"edit","id":"OBG-C7-029",
+  "opts":["Presbyopia needing reading glasses",
+          "Diplopia, or double vision",
+          "Blurring of the vision",
+          "Scotoma, or blindness"],
+  "ans":0,
+  "exp":"The source lists diplopia, blurred vision, scotoma and blindness as warning symptoms of impending eclampsia; presbyopia needing reading glasses is not one of them."},
+
+ {"op":"edit","id":"OBG-C8-009",
+  "opts":["Hearing loss from the eighth nerve",
+          "Scotoma, or a blind spot",
+          "Diplopia, or double vision",
+          "Blurring of the vision"],
+  "ans":0,
+  "exp":"Blurred vision, scotoma, diplopia and blindness are the listed visual disturbances of pre-eclampsia; hearing loss from the eighth nerve is not one of them."}
+]

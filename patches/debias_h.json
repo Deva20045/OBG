@@ -1,0 +1,335 @@
+[
+  {
+    "op": "edit", "id": "OBG-C7-107",
+    "opts": [
+      "Liver enzymes, creatinine, platelets, LDH and a blood film for schistocytes",
+      "Thyroid function, a glucose tolerance test and an indirect Coombs test",
+      "A urine pregnancy test and nothing else beyond the blood pressure",
+      "Fetal karyotyping and a TORCH screen on maternal blood"
+    ],
+    "ans": 0,
+    "exp": "Ruling out HELLP needs haemolysis (LDH, film), liver involvement and a platelet count, with renal function included."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-043",
+    "opts": [
+      "Normal is 0.5-0.7; a value of 0.9 or more indicates transfusion need and higher mortality",
+      "Normal is 0.9-1.2; a value of 1.5 or more is the threshold for transfusion",
+      "Normal is 0.3-0.5; a value of 0.7 or more means she needs intensive care",
+      "Normal is 1.0-1.5; a value of 2.0 or more means hysterectomy is required"
+    ],
+    "ans": 0,
+    "exp": "The shock index is normally 0.5-0.7; 0.9 or above signals significant loss, the need for transfusion and raised mortality."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-061",
+    "opts": [
+      "A cup-like depression below the umbilicus, with a globular mass in the vagina and immediate shock",
+      "A hard contracted fundus, with the cervix easily visible and only slow bleeding",
+      "The fundus high above the umbilicus, with an empty vagina and fever",
+      "A Bandl's ring across the abdomen, with bulging membranes and late shock"
+    ],
+    "ans": 0,
+    "exp": "The fundus is absent abdominally or dimpled, a globular mass fills the vagina, and shock is immediate and out of proportion."
+  },
+  {
+    "op": "edit", "id": "OBG-C9-115",
+    "opts": [
+      "As soon as the pregnancy is diagnosed by a positive urine pregnancy test",
+      "After delivery, once the placenta has been examined",
+      "Only from 36 completed weeks of gestation onwards",
+      "Before menarche, since the antibody persists for life"
+    ],
+    "ans": 0,
+    "exp": "Low-dose aspirin is started as soon as pregnancy is confirmed in women with antiphospholipid syndrome."
+  },
+  {
+    "op": "edit", "id": "OBG-C10-193",
+    "opts": [
+      "A serum progesterone below 25 nmol/L on its own, without any imaging",
+      "Any positive pregnancy test, even when no ultrasound has been done",
+      "A ruptured ectopic, or an unruptured one that does not meet the prerequisites for medical treatment",
+      "Every stable unruptured ectopic, since surgery is always the safest option"
+    ],
+    "ans": 2,
+    "exp": "Surgery is indicated by rupture or instability, or when the criteria for methotrexate or expectant care are not met."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-033",
+    "opts": [
+      "Traction on the shoulders with malar flexion, the baby astride the operator's forearm",
+      "Traction in the groin with flexion of the neck from above",
+      "Fundal pressure from an assistant combined with jaw traction",
+      "Rotation of the trunk with suprapubic pressure applied to the head"
+    ],
+    "ans": 0,
+    "exp": "The Mauriceau-Smellie-Veit manoeuvre rests the baby on the forearm, flexes the head with fingers on the malar bones and applies shoulder traction."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-055",
+    "opts": [
+      "Lighter blades that grip well while compressing the fetal head less",
+      "Stronger traction through a wider surface of metal on the head",
+      "Rotation of the head by allowing the blades to slide independently",
+      "A better grip on the fetal scalp to prevent the blades slipping"
+    ],
+    "ans": 0,
+    "exp": "Fenestration lightens the blade and reduces the compressive force transmitted to the fetal head without losing grip."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-028",
+    "opts": [
+      "Kocher's forceps, with a single tooth, rat-like teeth, a ratchet lock and transverse serrations",
+      "Allis forceps, which are identified by several fine teeth on the jaws",
+      "A sponge holder, which is identified by its smooth, atraumatic jaws",
+      "An amnihook, which is identified by its single plastic hook"
+    ],
+    "ans": 0,
+    "exp": "Kocher's forceps has a single tooth at the tip with rat-like teeth, a ratchet lock and transverse serrations on the jaws."
+  },
+  {
+    "op": "edit", "id": "OBG-C18-013",
+    "q": "Match the cervicograph zone to its meaning — green : yellow (alert) : pink (action).",
+    "opts": [
+      "Normal progress : alert, so shift her to a tertiary centre : intervene once the action line is touched",
+      "Alert, so shift her : normal progress : intervene on touching the action line",
+      "Intervene at once : alert, so shift her : entirely normal progress",
+      "Normal progress : intervene at once : refer her to a tertiary centre"
+    ],
+    "ans": 0,
+    "exp": "Green means progress is normal, the alert zone means prepare for transfer, and touching the action line means intervention is required."
+  },
+  {
+    "op": "edit", "id": "OBG-C16-023",
+    "opts": [
+      "Relief of breathing symptoms as the fetal head descends into the pelvis",
+      "The sudden onset of regular, painful uterine contractions",
+      "Rupture of the membranes before labour has begun",
+      "Effacement of the cervix during the last week of pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Lightening is the relief of pressure symptoms when the presenting part descends, usually late in the third trimester."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-112",
+    "opts": [
+      "Formulae such as Hadlock or Shepherd, with abdominal circumference the most useful single parameter",
+      "Biparietal diameter and femur length measured in the second trimester",
+      "Head circumference combined with the placental grade",
+      "Three-dimensional volume measurement with the amniotic fluid index"
+    ],
+    "ans": 0,
+    "exp": "Composite formulae using abdominal circumference estimate fetal weight best, and abdominal circumference is the most sensitive parameter for growth restriction."
+  },
+  {
+    "op": "edit", "id": "OBG-C6-204",
+    "opts": [
+      "The facial nerve, compressed against the maternal symphysis pubis",
+      "The ulnar nerve, compressed at the elbow during positioning",
+      "The phrenic nerve, stretched by the hyperflexed thighs",
+      "The lateral cutaneous nerve of the thigh, compressed under the inguinal ligament"
+    ],
+    "ans": 3,
+    "exp": "Hyperflexing the thighs compresses the lateral cutaneous nerve of the thigh under the inguinal ligament, causing meralgia paraesthetica."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-040",
+    "opts": [
+      "Stallworthy's sign, where the head cannot be pushed into the pelvis, with fetal distress",
+      "Cullen's sign, with bluish discolouration around the umbilicus",
+      "Chadwick's sign, with bluish discolouration of the vaginal mucosa",
+      "Bandl's sign, with a rising retraction ring across the abdomen"
+    ],
+    "ans": 0,
+    "exp": "In a posterior placenta previa the head is held up by the placental mass and cannot be pushed into the pelvis: Stallworthy's sign."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-094",
+    "opts": [
+      "Under general anaesthesia a hand is passed into the uterus, the feet are grasped and the fetus is turned to a breech",
+      "Under spinal anaesthesia the head is rotated with forceps before delivery",
+      "External manipulation through the abdomen with the membranes left intact",
+      "Traction on the cord under continuous ultrasound guidance in the labour ward"
+    ],
+    "ans": 0,
+    "exp": "Internal podalic version is an intrauterine manoeuvre under general anaesthesia, grasping a foot and converting the lie to a breech."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-038",
+    "q": "Match — restitution : external rotation of the head.",
+    "opts": [
+      "Restitution: the neck untwists after delivery — external rotation: the shoulders turn one eighth of a circle",
+      "Restitution: the shoulders rotate one eighth — external rotation: the neck untwists",
+      "Restitution: the head extends as it is born — external rotation: the head flexes back",
+      "Restitution: descent through the cavity — external rotation: expulsion of the body"
+    ],
+    "ans": 0,
+    "exp": "Restitution untwists the neck after internal rotation, and external rotation then aligns the shoulders with the antero-posterior diameter."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-051",
+    "opts": [
+      "Early preterm labour only, with magnesium given only below 32 weeks; none in late preterm labour",
+      "Late preterm labour only, since early preterm delivery is inevitable",
+      "Both groups equally, with the same agents and the same neuroprotection",
+      "Only when chorioamnionitis has been confirmed on amniocentesis"
+    ],
+    "ans": 0,
+    "exp": "Tocolytics and magnesium belong to early preterm labour; neither has a place in late preterm labour."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-042",
+    "opts": [
+      "Terbutaline, salbutamol, ritodrine and isoxsuprine",
+      "Nifedipine and atosiban, which are calcium and oxytocin antagonists",
+      "Indomethacin and sulindac, which inhibit prostaglandin synthesis",
+      "Magnesium sulfate and progesterone, which are used for other purposes"
+    ],
+    "ans": 0,
+    "exp": "The beta-agonist group is terbutaline, salbutamol, ritodrine and isoxsuprine; the others belong to different drug classes."
+  },
+  {
+    "op": "edit", "id": "OBG-C8-197",
+    "opts": [
+      "To measure the maternal blood glucose concentration during treatment",
+      "To confirm the diagnosis of pregnancy-induced hypertension",
+      "To judge whether the antibody level is high enough to cross the placenta and cause haemolysis",
+      "To determine the sex of the fetus before planning delivery"
+    ],
+    "ans": 2,
+    "exp": "A critical titre means there is enough antibody crossing the placenta to produce significant fetal haemolysis, and it triggers surveillance."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-032",
+    "opts": [
+      "All cases before 34 weeks, and from 34 weeks once chorioamnionitis and a previous course are excluded",
+      "Only below 28 weeks, since later gestation gains nothing",
+      "Only between 34 and 37 weeks, where the benefit is greatest",
+      "Every case regardless of infection, because the benefit outweighs the risk"
+    ],
+    "ans": 0,
+    "exp": "Corticosteroids are given before 34 weeks, and in the late preterm window once infection and prior treatment are excluded."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-038",
+    "opts": [
+      "Preterm labour before 34 weeks; no role after 34 weeks, in twins, or with chorioamnionitis",
+      "Preterm labour after 34 weeks only, with no role before 34 weeks",
+      "Twin pregnancy alone, with no role in singleton pregnancies",
+      "Chorioamnionitis alone, since infection shortens the cervix"
+    ],
+    "ans": 0,
+    "exp": "Tocolysis with steroids is for early preterm labour; it has no place in late preterm labour, twins or infection."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-024",
+    "opts": [
+      "Stop the oxytocin, turn her to the left, give oxygen, fluids if needed, then terbutaline",
+      "Increase the intravenous fluids and proceed to caesarean section",
+      "Continue the oxytocin with oxygen and prepare for forceps delivery",
+      "Give misoprostol and turn her into the left lateral position"
+    ],
+    "ans": 0,
+    "exp": "Tachysystole is managed by stopping the oxytocin, repositioning, oxygen and fluids, with a tocolytic such as terbutaline if it persists."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-119",
+    "opts": [
+      "WHO and ACOG advise delayed clamping; national guidance advises clamping once pulsation ceases; antiretrovirals matter more than timing",
+      "WHO advises early clamping and national guidance delayed clamping, with early clamping more protective",
+      "Both advise delayed clamping, and clamping timing matters more than antiretroviral therapy",
+      "Both advise early clamping, and early clamping reduces transmission more than antiretrovirals"
+    ],
+    "ans": 0,
+    "exp": "Delayed clamping is advised for HIV-positive mothers because transmission is driven by viral load, which antiretroviral therapy controls."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-039",
+    "opts": [
+      "Stable: ligation of the anterior division of the internal iliac artery — unstable: subtotal hysterectomy; then pelvic pressure packing",
+      "Stable: total hysterectomy — unstable: internal iliac ligation; then a gauze pack",
+      "Stable: embolisation — unstable: a B-Lynch suture; then a Bakri balloon",
+      "Stable: aortic ligation — unstable: oophorectomy; then a vaginal pack"
+    ],
+    "ans": 0,
+    "exp": "If she is stable, vessel ligation can preserve the uterus; if she is not, subtotal hysterectomy is faster and safer, with packing as a bridge."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-020",
+    "opts": [
+      "Vaginal mucosa, skin and subcutaneous tissue, the superficial perineal muscles and pudendal branches",
+      "The anal sphincter and the rectal mucosa, as in a fourth-degree tear",
+      "The levator ani muscle alone, with no skin or mucosal tissue",
+      "Bartholin's gland and the urethra, which lie within the incision line"
+    ],
+    "ans": 0,
+    "exp": "An episiotomy cuts vaginal mucosa, skin and subcutaneous tissue, the perineal muscles and branches of the pudendal vessels and nerve."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-102",
+    "opts": [
+      "Defective decidualisation, absence of Nitabuch's layer and excessive trophoblastic invasiveness",
+      "Hypertension, diabetes and cigarette smoking during pregnancy",
+      "Uterine overdistension, intrauterine infection and direct trauma",
+      "A thin myometrium, polyhydramnios and a twin pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Accreta spectrum is a decidua problem plus an invasive trophoblast: no decidua, no Nitabuch layer, and over-invasive cytotrophoblast."
+  },
+  {
+    "op": "edit", "id": "OBG-C23-008",
+    "q": "Recommendations for VBAC after a lower segment caesarean — ACOG : Indian national guidelines.",
+    "opts": [
+      "ACOG: a trial may be offered whatever the number of scars — India: contraindicated with two or more previous sections",
+      "ACOG: permitted after one scar only — India: permitted after any number",
+      "ACOG: never offer a trial — India: offer it after two previous sections",
+      "ACOG: permitted after three scars — India: permitted after one scar only"
+    ],
+    "ans": 0,
+    "exp": "ACOG allows a trial after any number of low transverse scars after counselling; Indian guidance treats two or more as a contraindication."
+  },
+  {
+    "op": "edit", "id": "OBG-C4-077",
+    "opts": [
+      "Creatinine falls to about 0.4-0.6 mg/dL, so a value above 0.8 mg/dL is abnormal in pregnancy",
+      "Creatinine rises to between 1.5 and 2.0 mg/dL from the increased filtration load",
+      "Creatinine stays fixed at about 1.0 mg/dL whatever the filtration rate",
+      "Creatinine becomes undetectable because filtration is so greatly increased"
+    ],
+    "ans": 0,
+    "exp": "With filtration up by half, creatinine falls; a value considered normal outside pregnancy is abnormal during it."
+  },
+  {
+    "op": "edit", "id": "OBG-C4-019",
+    "opts": [
+      "An ultrasound Doppler transducer records the fetal heart rate and a tocodynamometer records contractions, with an event marker",
+      "A scalp electrode is attached directly to the fetal skull during the test",
+      "A pressure catheter is placed inside the amniotic cavity for the recording",
+      "Maternal pulse oximetry is recorded continuously alongside the fetal electrocardiogram"
+    ],
+    "ans": 0,
+    "exp": "External cardiotocography uses an abdominal Doppler transducer for the heart rate and a tocodynamometer for uterine activity."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-073",
+    "opts": [
+      "PPH: poor tone and heavy loss — inversion: a cup-like depression and a vaginal mass — AFE: both examination findings normal",
+      "PPH: entirely normal findings — inversion: poor uterine tone — AFE: a cup-like depression",
+      "PPH: a globular vaginal mass — inversion: heavy bleeding — AFE: poor uterine tone",
+      "All three conditions give entirely normal findings on both examinations"
+    ],
+    "ans": 0,
+    "exp": "Postpartum collapse is triaged by examination: bleeding with an atonic uterus, an inverted uterus felt in the vagina, or a normal examination with sudden collapse from embolism."
+  },
+  {
+    "op": "edit", "id": "OBG-C8-233",
+    "opts": [
+      "A detailed fetal echocardiogram performed before 20 weeks",
+      "Amniocentesis, or external cephalic or internal podalic version",
+      "A DIPSI glucose tolerance test in the second trimester",
+      "A routine non-stress test in the third trimester"
+    ],
+    "ans": 1,
+    "exp": "Anti-D is given after any procedure that may cause feto-maternal haemorrhage, including amniocentesis and version."
+  }
+]

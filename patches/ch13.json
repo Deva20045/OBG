@@ -1,0 +1,89 @@
+[
+  {
+    "op": "add", "unit": "OBG-U13-1", "page": 460, "fmt": "match",
+    "sec": "Dizygotic vs monozygotic twins",
+    "q": "Match the mechanism with its description — 1) Dizygotic twinning 2) Monozygotic twinning 3) Superfetation … A) One fertilised ovum splits, so the rate is constant across populations and the babies are genetically identical B) Two ova are fertilised, so the rate varies with maternal age, parity, race and ovulation induction C) A second conception occurs in a later cycle after a pregnancy is already established",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Dizygotic rates vary with maternal factors and treatment; monozygotic splitting is a constant background event; superfetation is extremely rare."
+  },
+  {
+    "op": "add", "unit": "OBG-U13-2", "page": 461, "fmt": "fillup",
+    "sec": "Chorionicity & amnionicity",
+    "q": "Fill up: If the zygote splits before day 3 the result is ______ twins, whereas splitting between days 8 and 13 produces ______ twins.",
+    "opts": ["dichorionic diamniotic; monochorionic monoamniotic", "monochorionic diamniotic; dichorionic", "monochorionic monoamniotic; conjoined", "dichorionic diamniotic; conjoined"],
+    "ans": 0,
+    "exp": "Splitting before day 3 gives two placentas and two sacs; days 4-8 give monochorionic diamniotic; days 8-13 give monoamniotic; after day 13 the twins are conjoined."
+  },
+  {
+    "op": "add", "unit": "OBG-U13-3", "page": 463, "fmt": "match",
+    "sec": "DCDA vs MCDA vs MCMA & conjoined twins",
+    "q": "Match the ultrasound sign with what it means — 1) Lambda or twin-peak sign 2) T sign 3) Conjoined twins … A) A wedge of placenta between the membranes, which indicates dichorionicity B) The intertwin membrane meeting the placenta at a right angle with no placental tissue between, indicating monochorionicity C) Splitting after day 13, so the fetuses share tissue and often share organs",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "The lambda sign proves dichorionicity in the first trimester, the T sign proves monochorionicity, and conjoined twins follow very late splitting."
+  },
+  {
+    "op": "add", "unit": "OBG-U13-4", "page": 465, "fmt": "oddoneout",
+    "sec": "Maternal & fetal complications of twins",
+    "q": "All of the following are maternal complications that are commoner in twin pregnancy EXCEPT:",
+    "opts": ["Post-term pregnancy", "Hyperemesis gravidarum", "Iron deficiency anaemia and pre-eclampsia", "Gestational diabetes mellitus"],
+    "ans": 0,
+    "exp": "Twin pregnancies are delivered early; the others are all more frequent because of the larger placental mass and greater hormonal load."
+  },
+  {
+    "op": "add", "unit": "OBG-U13-5", "page": 466, "fmt": "truefalse",
+    "sec": "Death of one twin",
+    "q": "Which of the following statements about single intrauterine death in a twin pregnancy is TRUE?",
+    "opts": [
+      "In monochorionic twins the survivor risks neurological injury from acute inter-twin transfusion, while in dichorionic twins the main risk is preterm delivery",
+      "Death of a dichorionic co-twin is more dangerous to the survivor than death of a monochorionic co-twin",
+      "Immediate delivery is mandatory whenever one twin dies, whatever the gestation",
+      "Maternal disseminated intravascular coagulation appears within hours in a third of these pregnancies"
+    ],
+    "ans": 0,
+    "exp": "Vascular anastomoses make monochorionic loss dangerous to the survivor's brain; maternal coagulopathy is rare and immediate delivery is not always best."
+  },
+  {
+    "op": "add", "unit": "OBG-U13-6", "page": 467, "fmt": "fillup",
+    "sec": "Monochorionic complications: TTTS",
+    "q": "Fill up: Twin-to-twin transfusion syndrome is driven by ______ anastomoses in a monochorionic placenta, and the donor twin becomes ______.",
+    "opts": [
+      "arteriovenous; oliguric with oligohydramnios and growth restriction",
+      "arterioarterial; polycythaemic with polyhydramnios",
+      "venovenous; hydropic and hypervolaemic",
+      "arteriovenous; polycythaemic with polyhydramnios"
+    ],
+    "ans": 0,
+    "exp": "Unidirectional arteriovenous anastomoses make the donor hypovolaemic with oliguria and oligohydramnios, and the recipient hypervolaemic with polyhydramnios."
+  },
+  {
+    "op": "add", "unit": "OBG-U13-7", "page": 468, "fmt": "scenario",
+    "sec": "TTTS diagnosis, staging & treatment",
+    "q": "At 20 weeks a monochorionic diamniotic twin pregnancy has a deepest vertical pocket of 8.5 cm in one sac and 1.5 cm in the other, and a bladder is visible in both fetuses. What is the most appropriate management?",
+    "opts": [
+      "Refer for fetoscopic laser ablation of the placental anastomoses",
+      "Reassure her and repeat the scan in four weeks, since both bladders are visible",
+      "Immediate delivery, since this is advanced disease",
+      "Serial amnioreduction alone, because laser offers no advantage"
+    ],
+    "ans": 0,
+    "exp": "Oligo-polyhydramnios with both bladders visible is Quintero stage II, and laser ablation of anastomoses is the definitive treatment before 26 weeks."
+  },
+  {
+    "op": "add", "unit": "OBG-U13-8", "page": 469, "fmt": "match",
+    "sec": "TAPS, TRAP & selective IUGR",
+    "q": "Match the monochorionic complication with its description — 1) TRAP sequence 2) Twin anaemia-polycythaemia sequence 3) Selective fetal growth restriction … A) An acardiac twin perfused in reverse through artery-to-artery anastomoses B) Chronic slow transfusion producing a large inter-twin haemoglobin difference without the oligo-polyhydramnios sequence C) One twin below the third centile with abnormal Doppler from unequal placental sharing",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-A, 3-B", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "TRAP has a perfused acardiac twin, TAPS shows a haemoglobin gap without fluid discordance, and selective growth restriction reflects placental share."
+  },
+  {
+    "op": "add", "unit": "OBG-U13-9", "page": 471, "fmt": "fillup",
+    "sec": "Delivery in twin pregnancy",
+    "q": "Fill up: Uncomplicated dichorionic diamniotic twins are delivered at about ______ weeks, whereas uncomplicated monochorionic diamniotic twins are delivered at about ______ weeks.",
+    "opts": ["37-38; 36-37", "36-37; 37-38", "39-40; 37-38", "34; 32"],
+    "ans": 0,
+    "exp": "Monochorionic twins are delivered earlier because of the unpredictable risk from anastomoses and late single fetal death."
+  }
+]

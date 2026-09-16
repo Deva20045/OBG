@@ -1,0 +1,125 @@
+[
+  {
+    "op": "add", "unit": "OBG-U12-1", "page": 447, "fmt": "fillup",
+    "sec": "Antepartum hemorrhage definition & causes",
+    "q": "Fill up: Antepartum haemorrhage is bleeding from or into the genital tract after ______ weeks of gestation, and its two commonest causes are placenta previa and ______.",
+    "opts": ["28; abruptio placentae", "20; vasa previa", "28; cervical polyp", "37; uterine rupture"],
+    "ans": 0,
+    "exp": "After the period of viability (28 weeks in India), the classic causes are placenta previa and abruptio placentae, with local causes and vasa previa less common."
+  },
+  {
+    "op": "add", "unit": "OBG-U12-2", "page": 448, "fmt": "truefalse",
+    "sec": "Important features & classification of APH",
+    "q": "Which of the following statements about placenta previa is TRUE?",
+    "opts": [
+      "Classic placenta previa causes painless, recurrent, bright red bleeding with a soft non-tender uterus",
+      "Placenta previa typically causes severe abdominal pain with a rigid, tender uterus",
+      "Bleeding from placenta previa is always provoked by intercourse or trauma",
+      "The fetal head is usually deeply engaged in the pelvis in placenta previa"
+    ],
+    "ans": 0,
+    "exp": "Painless bright bleeding with a soft relaxed uterus and a high or malpresenting head is previa; pain with a woody uterus is abruption."
+  },
+  {
+    "op": "add", "unit": "OBG-U12-3", "page": 449, "fmt": "match",
+    "sec": "Placenta previa types & abruptio varieties",
+    "q": "Match the grade of placenta previa with its description — 1) Type I 2) Type II 3) Type IV … A) The placenta reaches the lower segment but not the margin of the internal os B) The placenta reaches the margin of the internal os but does not cover it C) The placenta completely covers the internal os even when the os is fully dilated",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-A, 3-B", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Type I is low-lying, type II is marginal and reaching the os, type III partially covers it and type IV covers it completely."
+  },
+  {
+    "op": "add", "unit": "OBG-U12-4", "page": 450, "fmt": "oddoneout",
+    "sec": "Risk factors & associations",
+    "q": "All of the following are risk factors for placenta previa EXCEPT:",
+    "opts": [
+      "Pre-eclampsia and chronic hypertension",
+      "A previous caesarean delivery",
+      "Multiparity and advancing maternal age",
+      "A previous pregnancy complicated by placenta previa"
+    ],
+    "ans": 0,
+    "exp": "Hypertensive disorders are linked to abruption rather than previa; scarring of the endometrium from surgery, parity and age are previa risks."
+  },
+  {
+    "op": "add", "unit": "OBG-U12-5", "page": 451, "fmt": "scenario",
+    "sec": "Presentation & examination in APH",
+    "q": "A 32-year-old G3P2 at 34 weeks has had a single painless episode of bright red bleeding that has now stopped. The uterus is soft and non-tender, the fetal heart is normal and the head is not engaged. What is the next step?",
+    "opts": [
+      "Ultrasound to locate the placenta, and no digital vaginal examination until placenta previa is excluded",
+      "Immediate digital vaginal examination to assess the cervix and confirm the source",
+      "Emergency caesarean section on clinical grounds before any imaging",
+      "Induction of labour with oxytocin because she is already 34 weeks"
+    ],
+    "ans": 0,
+    "exp": "Every woman with antepartum haemorrhage is imaged before any digital examination, because examining a previa can cause torrential bleeding."
+  },
+  {
+    "op": "add", "unit": "OBG-U12-6", "page": 452, "fmt": "fillup",
+    "sec": "Management of placenta previa",
+    "q": "Fill up: Until placenta previa has been excluded, a ______ examination must not be performed, since it can provoke catastrophic haemorrhage.",
+    "opts": [
+      "digital vaginal",
+      "speculum",
+      "transvaginal ultrasound",
+      "gentle abdominal"
+    ],
+    "ans": 0,
+    "exp": "A speculum examination and transvaginal ultrasound are safe, but a finger in the cervix can separate the placenta and cause massive bleeding."
+  },
+  {
+    "op": "add", "unit": "OBG-U12-7", "page": 453, "fmt": "truefalse",
+    "sec": "Follow-up & mode of delivery",
+    "q": "Which of the following statements about delivery in placenta previa is TRUE?",
+    "opts": [
+      "Major or central previa needs caesarean section, while a minor previa whose edge lies more than 2 cm from the internal os may allow a trial of labour",
+      "Vaginal delivery is safe for every degree of placenta previa as long as the fetus is alive",
+      "A placental edge within 1 cm of the internal os is safe for a trial of labour",
+      "Caesarean section is needed only if bleeding recurs after 37 weeks"
+    ],
+    "ans": 0,
+    "exp": "The measured distance from the placental edge to the internal os decides the mode: an edge beyond 2 cm permits a trial of labour."
+  },
+  {
+    "op": "add", "unit": "OBG-U12-8", "page": 454, "fmt": "scenario",
+    "sec": "Expectant vs active management of previa",
+    "q": "A 30-year-old at 30 weeks with major placenta previa has stopped bleeding, is haemodynamically stable and has a normal CTG. What is the best plan?",
+    "opts": [
+      "Expectant inpatient management with corticosteroids, cross-matched blood and planned delivery around 36-37 weeks",
+      "Immediate caesarean delivery at 30 weeks because the bleeding has been severe",
+      "Discharge home with instructions to return if the bleeding restarts",
+      "Induction of labour by amniotomy and oxytocin infusion at 30 weeks"
+    ],
+    "ans": 0,
+    "exp": "When mother and fetus are stable, expectant management buys maturity; steroids are given and delivery planned electively around 36-37 weeks."
+  },
+  {
+    "op": "add", "unit": "OBG-U12-9", "page": 455, "fmt": "match",
+    "sec": "Abruption, DIC & differential diagnosis",
+    "q": "Match the term with its meaning — 1) Couvelaire uterus 2) Consumptive coagulopathy in abruption 3) Concealed abruption … A) Blood tracking into the myometrium and beneath the serosa, seen at caesarean section B) Falling fibrinogen and platelets with prolonged clotting times from thromboplastin release C) Blood retained behind the placenta, so the uterus is larger than dates and woody hard",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-A, 3-B", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Concealed bleeding distends the uterus, thromboplastin triggers consumption coagulopathy, and extravasation produces the Couvelaire appearance."
+  },
+  {
+    "op": "add", "unit": "OBG-U12-10", "page": 458, "fmt": "fillup",
+    "sec": "Placenta accreta spectrum: classification & etiopathogenesis",
+    "q": "Fill up: Accreta, increta and percreta differ by the depth of trophoblastic invasion into the ______, with percreta penetrating through to the ______.",
+    "opts": ["myometrium; serosa and beyond", "decidua; myometrium", "endometrium; decidua", "myometrium; endometrium"],
+    "ans": 0,
+    "exp": "Accreta adheres to myometrium, increta invades it and percreta penetrates the full thickness, sometimes into the bladder."
+  },
+  {
+    "op": "add", "unit": "OBG-U12-11", "page": 459, "fmt": "scenario",
+    "sec": "Management of placenta accreta spectrum",
+    "q": "Antenatal imaging at 32 weeks in a woman with two previous caesareans and an anterior placenta previa suggests placenta percreta involving the bladder. What is the management plan?",
+    "opts": [
+      "Planned caesarean hysterectomy at 34-36 weeks with the placenta left in situ, by a multidisciplinary team with blood products ready",
+      "Attempt manual removal of the placenta at delivery and give oxytocin",
+      "Await spontaneous labour and plan a vaginal delivery",
+      "Give methotrexate to dissolve the placenta and deliver vaginally at term"
+    ],
+    "ans": 0,
+    "exp": "Percreta means leaving the placenta in situ and performing a caesarean hysterectomy, planned early at a centre with surgical, urological and blood-bank support."
+  }
+]

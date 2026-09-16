@@ -1,0 +1,424 @@
+[
+  {
+    "op": "edit", "id": "OBG-C20-029",
+    "opts": [
+      "Hyperthermia and shivering with nausea and vomiting; contraindicated with a scarred uterus",
+      "Hypertension and headache; contraindicated in established maternal heart disease",
+      "Bronchospasm, since misoprostol provokes an attack in asthmatic women",
+      "Profuse watery diarrhoea; contraindicated in maternal pulmonary hypertension"
+    ],
+    "ans": 0,
+    "exp": "Misoprostol causes fever, shivering and gastrointestinal upset; unlike carboprost it is safe in asthma but risky with a uterine scar."
+  },
+  {
+    "op": "edit", "id": "OBG-C11-039",
+    "opts": [
+      "The vagina just below the urethra, presenting as suburethral nodules",
+      "The liver, presenting months later with obstructive jaundice",
+      "The brain, presenting with seizures and focal neurological deficits",
+      "The pelvis, presenting with deep pelvic pain and a palpable mass"
+    ],
+    "ans": 0,
+    "exp": "After the lungs, the vagina is the second commonest site: suburethral nodules that may bleed are the classic presentation."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-026",
+    "opts": [
+      "Hold the baby's back and rotate the shoulders into the antero-posterior diameter, then await spontaneous delivery",
+      "Perform Lovset's manoeuvre immediately without first rotating the shoulders",
+      "Apply fundal pressure to push the shoulders down through the pelvic brim",
+      "Apply Piper's forceps to deliver the head before the shoulders are released"
+    ],
+    "ans": 0,
+    "exp": "If the shoulders are not in the antero-posterior diameter, rotate them there first; only if that fails move to Lovset's manoeuvre."
+  },
+  {
+    "op": "edit", "id": "OBG-C4-073",
+    "opts": [
+      "Fibrinogen, factors VII, VIII, IX and X, and von Willebrand factor",
+      "Only factor XI and factor XIII, both of which also rise markedly",
+      "Antithrombin III and protein S, the natural anticoagulants",
+      "Tissue plasminogen activator, which keeps the maternal circulation fluid"
+    ],
+    "ans": 0,
+    "exp": "Clotting factors and fibrinogen rise, while antithrombin and protein S fall — which is why pregnancy is prothrombotic."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-031",
+    "opts": [
+      "Asthma, pulmonary hypertension and suspected amniotic fluid embolism; dinoprostone is used off-label",
+      "Heart disease and Rh-negative status, with dinoprostone as the first-line drug",
+      "A scarred uterus only, with dinoprostone as the accepted gold standard",
+      "Diabetes mellitus, with dinoprostone given by intravenous infusion"
+    ],
+    "ans": 0,
+    "exp": "Carboprost is contraindicated in asthma and pulmonary hypertension; dinoprostone (PGE2) is used off-label per vaginam or rectum."
+  },
+  {
+    "op": "edit", "id": "OBG-C15-008",
+    "opts": [
+      "From the sacro-iliac joint on one side to the iliopectineal eminence on the other",
+      "From one ischial spine straight across to the ischial spine opposite",
+      "From the symphysis pubis directly backwards to the sacral promontory",
+      "From one ischial tuberosity across to the opposite tuberosity"
+    ],
+    "ans": 0,
+    "exp": "The oblique diameters run from a sacro-iliac joint to the opposite iliopectineal eminence and measure about 12 cm."
+  },
+  {
+    "op": "edit", "id": "OBG-C9-149",
+    "opts": [
+      "Painless bleeding alone, with no systemic upset whatsoever",
+      "No systemic symptoms ever, because the infection stays localised",
+      "Fever and chills, abdominal pain, vomiting and a purulent vaginal discharge",
+      "Palmar pruritus, which is the only symptom that reliably appears"
+    ],
+    "ans": 2,
+    "exp": "Septic abortion is a spreading infection: fever and chills, abdominal pain, gastrointestinal upset and purulent discharge."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-107",
+    "opts": [
+      "100 microgram slowly intravenously; half-life 40 minutes; not used for induction or for treating PPH",
+      "250 microgram intramuscularly; half-life 5 minutes; used to treat PPH",
+      "10 IU intramuscularly; half-life 20 minutes; used for induction of labour",
+      "1 mg intravenously; half-life 60 minutes; the standard treatment for PPH"
+    ],
+    "ans": 0,
+    "exp": "Carbetocin is a long-acting oxytocin analogue given as 100 microgram for prevention at caesarean, not for induction or PPH treatment."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-116",
+    "opts": [
+      "About 80 mL more cord blood reaching the baby, giving extra iron and less neonatal anaemia",
+      "Prevention of postpartum haemorrhage in the mother after delivery",
+      "A lower risk of neonatal jaundice needing treatment with phototherapy",
+      "Prevention of retained placenta in the third stage of labour"
+    ],
+    "ans": 0,
+    "exp": "Delayed clamping transfers about 80 mL more blood, roughly 50 mg of elemental iron, and reduces infant anaemia; it slightly increases jaundice."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-026",
+    "opts": [
+      "Two placentas, or one that appears single, with the twin peak or lambda sign",
+      "A single placenta with a T sign at the membrane insertion",
+      "A single placenta with no distinguishing ultrasound sign at all",
+      "Two separate placentas but with a T sign between the membranes"
+    ],
+    "ans": 0,
+    "exp": "Dichorionic twins have two placentas, or a fused single-looking one, and always show the lambda or twin-peak sign."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-001",
+    "opts": [
+      "About 25% at 28 weeks, 5% at 34 weeks and 3-4% at term, as most turn spontaneously",
+      "About 3-4% at 28 weeks, 5% at 34 weeks and 25% at term, as more turn with time",
+      "About 50% at 28 weeks, 25% at 34 weeks and 10% at term in most series",
+      "About 10% at 28 weeks, 3% at 34 weeks and 1% at term after routine version"
+    ],
+    "ans": 0,
+    "exp": "Breech is common early and uncommon at term because most babies turn by themselves as gestation advances."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-086",
+    "opts": [
+      "Amniocentesis with Gram stain, culture and histology of the fetal membranes",
+      "Clinical criteria alone, which are sensitive and specific enough on their own",
+      "A raised maternal C-reactive protein measured on admission in labour",
+      "Ultrasound findings of debris and a thickened placenta"
+    ],
+    "ans": 0,
+    "exp": "Clinical criteria make a presumptive diagnosis; definitive diagnosis needs amniotic fluid studies and membrane histology."
+  },
+  {
+    "op": "edit", "id": "OBG-C10-204",
+    "opts": [
+      "Ectopic pregnancy uses a single full dose in one day; GTN uses multi-dose therapy with folinic acid",
+      "Both conditions always use exactly the same methotrexate regimen",
+      "Ectopic pregnancy is treated with folinic acid alone, never with methotrexate",
+      "Gestational trophoblastic neoplasia is never treated with methotrexate"
+    ],
+    "ans": 0,
+    "exp": "The ectopic regimen is a single dose with day 4 and day 7 hCG checks, whereas GTN regimens use repeated doses alternated with folinic acid rescue."
+  },
+  {
+    "op": "edit", "id": "OBG-C17-015",
+    "q": "Management protocol for protracted active phase begins with vaginal examination — match the finding to the action: cephalopelvic disproportion : occipito-posterior position : inadequate contractions.",
+    "opts": [
+      "CPD: caesarean section — occipito-posterior: wait for spontaneous rotation — inadequate contractions: assess them abdominally",
+      "CPD: wait and observe — occipito-posterior: caesarean section — inadequate contractions: start oxytocin",
+      "CPD: start oxytocin — occipito-posterior: caesarean section — inadequate contractions: wait and observe",
+      "CPD: amniotomy — occipito-posterior: forceps delivery — inadequate contractions: caesarean section"
+    ],
+    "ans": 0,
+    "exp": "The finding on examination decides the action: disproportion is delivered, a good pelvis with malposition is given time, and weak contractions are assessed then augmented."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-089",
+    "opts": [
+      "Consumptive coagulopathy, from abruption, amniotic fluid embolism, septic abortion, acute fatty liver and prolonged fetal death",
+      "Consumptive coagulopathy, caused by placenta previa and nothing else",
+      "Dilutional coagulopathy, caused by postpartum haemorrhage alone",
+      "A hypercoagulable state, caused by maternal sepsis alone"
+    ],
+    "ans": 0,
+    "exp": "Obstetric DIC is consumptive: thromboplastin or tissue factor enters the circulation and consumes fibrinogen and platelets."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-123",
+    "opts": [
+      "Manual removal under anaesthesia, sweeping the hand in the plane between the uterus and the placenta",
+      "Wait one hour for spontaneous expulsion before any intervention",
+      "An oxytocin bolus combined with firm fundal pressure",
+      "Emergency hysterectomy, since the cord can no longer be secured"
+    ],
+    "ans": 0,
+    "exp": "Once the cord snaps, controlled traction is impossible, so the placenta is removed manually in the correct plane under anaesthesia."
+  },
+  {
+    "op": "edit", "id": "OBG-C8-060",
+    "opts": [
+      "Only until the seizure stops, after which the magnesium is discontinued",
+      "For seven days after delivery, to cover the late risk of seizures",
+      "Until 20 weeks of gestation in cases of early severe disease",
+      "Until 24 hours after delivery or 24 hours after the last convulsion, whichever is later"
+    ],
+    "ans": 3,
+    "exp": "Maintenance continues for 24 hours after delivery or 24 hours after the last convulsion, whichever comes later."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-061",
+    "q": "Match — Piper's forceps : Tucker-McLane forceps.",
+    "opts": [
+      "Piper's: the longest forceps, for the after-coming head — Tucker-McLane: the only forceps with a solid blade",
+      "Piper's: a solid blade for the head — Tucker-McLane: for the after-coming head",
+      "Piper's: a short outlet forceps — Tucker-McLane: the rotational forceps",
+      "Piper's: a sliding lock — Tucker-McLane: the shortest forceps available"
+    ],
+    "ans": 0,
+    "exp": "Piper's are long forceps with a perineal curve for the after-coming head; Tucker-McLane are the only forceps with solid blades."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-005",
+    "opts": [
+      "Shock with little visible bleeding; from a cervical or vaginal tear extending upwards",
+      "Heavy vaginal bleeding from uterine atony after the delivery",
+      "Fever and pelvic pain from puerperal endometritis",
+      "A visible vulval swelling from a torn pudendal artery"
+    ],
+    "ans": 0,
+    "exp": "A supralevator collection is occult: shock out of proportion to visible loss, from an upward extension of a cervical or vaginal tear."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-002",
+    "q": "Postnatal visits — ACOG recommendation : Government of India recommendation.",
+    "opts": [
+      "ACOG: an initial visit at 3 weeks and a final visit at 12 weeks — GOI: day 1, day 3, day 7 and 6 weeks",
+      "ACOG: day 1 and 6 weeks only — GOI: visits at 3 weeks and 12 weeks",
+      "ACOG: visits at 2, 4 and 6 weeks — GOI: day 1, day 7 and day 42",
+      "ACOG: a single visit on day 7 — GOI: a single visit at 6 weeks"
+    ],
+    "ans": 0,
+    "exp": "ACOG restructures postnatal care as an ongoing process with a contact by 3 weeks and a comprehensive visit by 12 weeks; India schedules four early visits."
+  },
+  {
+    "op": "edit", "id": "OBG-C15-037",
+    "opts": [
+      "Caesarean section, since vaginal delivery is contraindicated, and it commits her to repeat sections",
+      "A trial of labour is always attempted first, whatever the degree of contraction",
+      "Instrumental delivery once the cervix has reached full dilatation",
+      "Induction of labour with oxytocin from 38 completed weeks onwards"
+    ],
+    "ans": 0,
+    "exp": "A genuinely contracted pelvis precludes vaginal delivery, and the indication recurs in every subsequent pregnancy."
+  },
+  {
+    "op": "edit", "id": "OBG-C5-039",
+    "opts": [
+      "Non-compliance from gastrointestinal side effects, which blackening of the stool can confirm",
+      "Severe intestinal malabsorption, demonstrated by a negative stool test",
+      "Bone marrow aplasia, which should always be excluded by aspiration",
+      "Excessive urinary excretion of iron, measured in a 24-hour collection"
+    ],
+    "ans": 0,
+    "exp": "The commonest reason is that she has stopped taking it because of nausea or constipation; asking about black stools is a simple objective check."
+  },
+  {
+    "op": "edit", "id": "OBG-C9-052",
+    "opts": [
+      "A normal cervix on transvaginal scan with no history of any pregnancy loss",
+      "Maternal age above forty alone, even with no previous pregnancy loss",
+      "At least two painless second-trimester losses, irrespective of the scan findings",
+      "Any single first-trimester loss, since one loss reliably predicts another"
+    ],
+    "ans": 2,
+    "exp": "A history-based indication is recurrent painless mid-trimester loss, typically two or more, and it applies whatever the cervical length shows."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-050",
+    "opts": [
+      "Both are listed for early preterm labour and both again for late preterm labour",
+      "Only in early preterm labour, since late preterm labour needs neither",
+      "Only in late preterm labour, since early delivery is already inevitable",
+      "In neither group, since both are given only after 37 completed weeks"
+    ],
+    "ans": 0,
+    "exp": "In the summary table corticosteroids and GBS screening appear in both the early and the late preterm labour columns."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-108",
+    "opts": [
+      "600 microgram orally or sublingually, within a range of 400 to 600 microgram",
+      "25 microgram vaginally, repeated every six hours as required",
+      "800 microgram rectally, which is the WHO recommended single dose",
+      "200 microgram orally, which is the maximum dose the mother tolerates"
+    ],
+    "ans": 0,
+    "exp": "In active management misoprostol is used where oxytocin is unavailable, in a dose of 400-600 microgram orally or sublingually."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-042",
+    "opts": [
+      "Prolonged second stage, fetal distress, and shortening the second stage for maternal disease",
+      "A prolonged first stage, and cephalopelvic disproportion in established labour",
+      "Breech presentation, and a transverse lie with the arm prolapsed",
+      "Placenta previa, and cord prolapse with the cervix only 4 cm dilated"
+    ],
+    "ans": 0,
+    "exp": "Instrumental delivery is for the second stage: delay, fetal distress, or a maternal indication to avoid pushing."
+  },
+  {
+    "op": "edit", "id": "OBG-C5-060",
+    "opts": [
+      "Hypoplasia of the nasal bridge, stippled epiphyses and central nervous system abnormalities",
+      "Phocomelia, amelia and ano-rectal atresia in the affected infant",
+      "Ebstein anomaly, fetal goitre and bilateral renal agenesis",
+      "Cleft lip, cleft palate and postaxial polydactyly"
+    ],
+    "ans": 0,
+    "exp": "DiSaia syndrome is warfarin embryopathy: nasal hypoplasia, chondrodysplasia punctata and central nervous system defects."
+  },
+  {
+    "op": "edit", "id": "OBG-C17-054",
+    "opts": [
+      "Ambulation, oral intake, pain relief and a companion of the woman's choice",
+      "Pain relief alone, since the others are obstetric interventions",
+      "Bladder care and fetal monitoring, which together define supportive care",
+      "An enema and perineal shaving, as recommended routinely on admission"
+    ],
+    "ans": 0,
+    "exp": "Supportive care bundles the low-technology measures: mobility, fluids, analgesia and continuous support."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-044",
+    "opts": [
+      "Breech and transverse lie, with ultrasound confirming lie, liquor, singleton pregnancy and no gross anomaly",
+      "Face and brow presentation, with ultrasound assessing the placenta alone",
+      "Twin pregnancy, with ultrasound determining chorionicity and amnionicity",
+      "Occipito-posterior position, with ultrasound measuring the biparietal diameter"
+    ],
+    "ans": 0,
+    "exp": "Version is offered for breech and transverse lie after ultrasound confirms the lie, adequate liquor, a singleton and no major anomaly."
+  },
+  {
+    "op": "edit", "id": "OBG-C1-231",
+    "opts": [
+      "Oligohydramnios below 5 cm, and polyhydramnios at 25 cm or more",
+      "Oligohydramnios below 2 cm, and polyhydramnios above 8 cm",
+      "Oligohydramnios below 10 cm, and polyhydramnios at 35 cm or more",
+      "Oligohydramnios below 1 cm, and polyhydramnios at 15 cm or more"
+    ],
+    "ans": 0,
+    "exp": "By amniotic fluid index, oligohydramnios is below 5 cm and polyhydramnios is 25 cm or more; the 2 cm and 8 cm values belong to the deepest pocket method."
+  },
+  {
+    "op": "edit", "id": "OBG-C10-210",
+    "opts": [
+      "A day-7 fall of less than 15% after three doses, or a rising hCG from day 4 to day 7",
+      "Any rise at all in the hCG measured on day 1 after the first injection",
+      "A fall of exactly 15% between the day 4 and the day 7 measurements",
+      "The absence of vaginal bleeding on the first day of treatment"
+    ],
+    "ans": 0,
+    "exp": "Treatment is judged to have failed after three doses if the day-7 fall is under 15%, or if the hCG is still rising between days 4 and 7."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-005",
+    "opts": [
+      "A blood-stained mucus show in preterm labour, which is not antepartum haemorrhage",
+      "Bleeding from placental abruption with a tender, contracting uterus",
+      "Painless recurrent bleeding from placenta previa in the third trimester",
+      "Bleeding from vasa previa accompanied by fetal bradycardia"
+    ],
+    "ans": 0,
+    "exp": "A show is mucus with a little blood from the cervix; antepartum haemorrhage means bleeding from the placental site or vessels after viability."
+  },
+  {
+    "op": "edit", "id": "OBG-C18-019",
+    "opts": [
+      "At least three in 10 minutes, each lasting 45 seconds and raising pressure by 65-75 mmHg",
+      "At least five in 10 minutes, each lasting 60 seconds at 100 mmHg",
+      "At least two in 10 minutes, each lasting 20 seconds at 30 mmHg",
+      "At least three in 15 minutes, each lasting 30 seconds at 50 mmHg"
+    ],
+    "ans": 0,
+    "exp": "Adequate contractions are three or more in ten minutes, each lasting about 45 seconds with an amplitude of 65-75 mmHg."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-117",
+    "opts": [
+      "The need for neonatal resuscitation, as in birth asphyxia",
+      "An Rh-negative mother, to limit feto-maternal transfusion",
+      "Maternal HIV infection, to reduce the risk of viral transmission",
+      "Preterm delivery, to allow immediate paediatric assessment"
+    ],
+    "ans": 0,
+    "exp": "Clamping is only brought forward when the baby needs resuscitation; otherwise delayed clamping is recommended, including in preterm births."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-068",
+    "opts": [
+      "Anaphylactoid syndrome of pregnancy, about 1 in 100,000 deliveries",
+      "Sheehan syndrome, occurring in about 1 in 1,000 deliveries",
+      "HELLP syndrome, occurring in about 1 in 10,000 deliveries",
+      "Mendelson syndrome, occurring in about 1 in 500 deliveries"
+    ],
+    "ans": 0,
+    "exp": "Amniotic fluid embolism is also called anaphylactoid syndrome of pregnancy; it is rare at about 1 in 100,000 but catastrophic."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-036",
+    "q": "Outcome of posterior rotation — anthropoid pelvis : other pelvis types.",
+    "opts": [
+      "Anthropoid: face-to-pubes delivery — other pelvis: deep sacral arrest with the head stuck",
+      "Anthropoid: deep sacral arrest — other pelvis: face-to-pubes delivery",
+      "Both pelves end in a face-to-pubes delivery after posterior rotation",
+      "Both pelves require caesarean section once rotation has gone posterior"
+    ],
+    "ans": 0,
+    "exp": "The long antero-posterior diameter of the anthropoid pelvis permits face-to-pubes delivery; in other pelves the head arrests deeply."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-023",
+    "opts": [
+      "Retained products: a thick vascular endometrium — remodelling: tubular hypoechoic areas in the myometrium",
+      "Retained products: a thin endometrium — remodelling: a uniformly small uterus",
+      "Retained products: free fluid in the pouch — remodelling: an adnexal mass",
+      "Retained products: an empty cavity — remodelling: a thick endometrium"
+    ],
+    "ans": 0,
+    "exp": "Retained products show as a thickened vascular endometrium, while a remodelling defect shows tubular hypoechoic spaces in the myometrium."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-030",
+    "opts": [
+      "HIV on treatment, COVID-19, mastitis, and hepatitis B positivity once the baby is immunised",
+      "Classic galactosaemia in the infant, which is an absolute contraindication",
+      "Untreated active pulmonary tuberculosis in the mother",
+      "An active herpes lesion on the breast itself"
+    ],
+    "ans": 0,
+    "exp": "Breastfeeding continues in treated HIV, COVID-19 and mastitis, and in hepatitis B carriers once the infant has received immunoglobulin and vaccine."
+  }
+]

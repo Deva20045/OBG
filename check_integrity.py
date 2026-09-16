@@ -15,31 +15,36 @@ DATA_DIR = ROOT / "data"
 
 # Book-page scope, exact titles, and intended content volume for every live chapter.
 LIVE_CHAPTERS = {
-    1: ("Fundamentals of Reproduction", 265, 301, 235, 28),
-    2: ("Normal Pregnancy and Antenatal Care", 302, 326, 107, 18),
-    3: ("Fetal Assessment and Ultrasound", 327, 339, 61, 12),
-    4: ("Fetal Surveillance and Maternal Adaptations", 340, 357, 65, 15),
-    5: ("Medical Disorders: Anemia, Drugs and Heart Disease", 358, 374, 70, 18),
-    6: ("Thyroid, Diabetes & Shoulder Dystocia", 375, 389, 180, 25),
-    7: ("Pregnancy-Induced Hypertension", 390, 401, 125, 16),
-    8: ("Eclampsia, Liver Disorders & Rh-Negative Pregnancy", 402, 417, 224, 31),
-    9: ("Abortion, Recurrent Loss & MTP", 418, 427, 158, 22),
-    10: ("MTP, Ectopic Pregnancy & Gestational Trophoblastic Disease", 428, 441, 228, 28),
-    11: ("Gestational Trophoblastic Disease: Staging & Management", 442, 446, 61, 6),
-    12: ("Antepartum Hemorrhage & Placenta Accreta Spectrum", 447, 459, 113, 11),
-    13: ("Multifetal Gestation: Chorionicity, Complications & Delivery", 460, 471, 87, 9),
-    14: ("Preterm Labour, PROM & Post-term Pregnancy", 472, 482, 105, 11),
-    15: ("Maternal Pelvis, Contracted Pelvis & CPD", 483, 489, 50, 6),
-    16: ("Fetal Skull & Terminologies of Labour", 490, 498, 65, 9),
-    17: ("Stages of Labour: Normal & Abnormal", 499, 505, 51, 9),
-    18: ("Partogram & WHO Labour Care Guide", 506, 511, 36, 7),
-    19: ("Normal Labour & Induction of Labour", 512, 527, 111, 18),
-    20: ("Postpartum Hemorrhage & Third Stage Complications", 528, 539, 62, 12),
-    21: ("Perineal Trauma, Episiotomy & Malpresentations", 540, 549, 52, 9),
-    22: ("Breech & Instrumental Delivery", 550, 562, 60, 11),
-    23: ("Caesarean Section & VBAC", 563, 566, 26, 4),
-    24: ("Puerperium", 567, 572, 36, 7),
+    1: ("Fundamentals of Reproduction", 265, 301, 263, 28),
+    2: ("Normal Pregnancy and Antenatal Care", 302, 326, 125, 18),
+    3: ("Fetal Assessment and Ultrasound", 327, 339, 73, 12),
+    4: ("Fetal Surveillance and Maternal Adaptations", 340, 357, 80, 15),
+    5: ("Medical Disorders: Anemia, Drugs and Heart Disease", 358, 374, 88, 18),
+    6: ("Thyroid, Diabetes & Shoulder Dystocia", 375, 389, 205, 25),
+    7: ("Pregnancy-Induced Hypertension", 390, 401, 141, 16),
+    8: ("Eclampsia, Liver Disorders & Rh-Negative Pregnancy", 402, 417, 255, 31),
+    9: ("Abortion, Recurrent Loss & MTP", 418, 427, 180, 22),
+    10: ("MTP, Ectopic Pregnancy & Gestational Trophoblastic Disease", 428, 441, 256, 28),
+    11: ("Gestational Trophoblastic Disease: Staging & Management", 442, 446, 67, 6),
+    12: ("Antepartum Hemorrhage & Placenta Accreta Spectrum", 447, 459, 124, 11),
+    13: ("Multifetal Gestation: Chorionicity, Complications & Delivery", 460, 471, 96, 9),
+    14: ("Preterm Labour, PROM & Post-term Pregnancy", 472, 482, 116, 11),
+    15: ("Maternal Pelvis, Contracted Pelvis & CPD", 483, 489, 56, 6),
+    16: ("Fetal Skull & Terminologies of Labour", 490, 498, 74, 9),
+    17: ("Stages of Labour: Normal & Abnormal", 499, 505, 60, 9),
+    18: ("Partogram & WHO Labour Care Guide", 506, 511, 43, 7),
+    19: ("Normal Labour & Induction of Labour", 512, 527, 129, 18),
+    20: ("Postpartum Hemorrhage & Third Stage Complications", 528, 539, 74, 12),
+    21: ("Perineal Trauma, Episiotomy & Malpresentations", 540, 549, 61, 9),
+    22: ("Breech & Instrumental Delivery", 550, 562, 71, 11),
+    23: ("Caesarean Section & VBAC", 563, 566, 30, 4),
+    24: ("Puerperium", 567, 572, 43, 7),
 }
+
+# Question formats used by the varied-format authoring pass. Every unit must
+# contain at least one item that is not plain recall, so a learner meets
+# fill-ups, matching, true/false statements, scenarios and odd-one-out items.
+VALID_FMTS = {"fillup", "match", "truefalse", "scenario", "oddoneout", "recall", "numeric", "management"}
 
 REQUIRED_UI = [
     '<div id="home">', '<div id="chapters" class="hidden">',
@@ -167,6 +172,18 @@ def verify() -> None:
         answer = question.get("ans")
         if isinstance(answer, bool) or not isinstance(answer, int) or not 0 <= answer <= 3:
             errors.append(f"{qid}: invalid answer index {answer!r}")
+        # A learner must not be able to spot the answer by picking the longest
+        # option. 3.0x is the accepted ceiling; anything above it is a giveaway.
+        if isinstance(options, list) and len(options) == 4 and isinstance(answer, int) and 0 <= answer <= 3:
+            lengths = [len(option) for option in options]
+            longest_distractor = max(length for index, length in enumerate(lengths) if index != answer)
+            if lengths[answer] > max(longest_distractor, 1) * 3.0:
+                errors.append(
+                    f"{qid}: the answer is {lengths[answer] / max(longest_distractor, 1):.1f}x the longest "
+                    f"distractor, so it can be guessed from length alone"
+                )
+        if question.get("fmt") is not None and question.get("fmt") not in VALID_FMTS:
+            errors.append(f"{qid}: unknown question format {question.get('fmt')!r}")
 
     unexpected_question_chapters = sorted(set(qs_by_ch) - set(LIVE_CHAPTERS))
     if unexpected_question_chapters:
@@ -232,6 +249,7 @@ def verify() -> None:
                 continue
             covered.extend(qids)
             unit_pages: list[int] = []
+            unit_formats: set[str] = set()
             for qid in qids:
                 question = q_by_id.get(qid)
                 if question is None:
@@ -240,6 +258,9 @@ def verify() -> None:
                 if question["id"].split("-")[1] != f"C{number}":
                     errors.append(f"{uid}: references question from another chapter ({qid})")
                 unit_pages.append(question["page"])
+                unit_formats.add(question.get("fmt"))
+            if not unit_formats:
+                errors.append(f"{uid}: has no varied-format question (add a fill-up, match, true/false, scenario or odd-one-out item)")
             if any(unit_pages[i] < unit_pages[i - 1] for i in range(1, len(unit_pages))):
                 errors.append(f"{uid}: Book pages are not in source order")
 

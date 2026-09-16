@@ -1,0 +1,44 @@
+[
+  {
+    "op": "add", "unit": "OBG-U23-1", "page": 563, "fmt": "match",
+    "sec": "Skin & uterine incisions for caesarean section",
+    "q": "Match the caesarean incision with its description — 1) Pfannenstiel incision 2) Joel-Cohen incision 3) Classical uterine incision … A) A straight transverse skin incision higher on the abdomen with blunt dissection, less pain and less blood loss B) A curved transverse skin incision with a curved fascial cut and more dissection C) A vertical incision in the upper uterine segment, used for an anterior placenta or a very preterm lower segment",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Joel-Cohen and Pfannenstiel are abdominal wall choices; the classical uterine incision is reserved because it rules out a future trial of labour."
+  },
+  {
+    "op": "add", "unit": "OBG-U23-2", "page": 564, "fmt": "scenario",
+    "sec": "Previous caesarean: trial of labour vs repeat section",
+    "q": "A woman with one previous lower-segment caesarean section for fetal distress is at 39 weeks with a singleton cephalic fetus of estimated weight 3.4 kg and no other risk factors. How should she be counselled?",
+    "opts": [
+      "Offer a trial of labour after caesarean, since about seven in ten women succeed and the risk of uterine rupture is low",
+      "Insist on an elective repeat caesarean, because a trial of labour is never safe after a scar",
+      "Recommend induction with prostaglandins, which improves the chance of vaginal birth",
+      "Advise a home birth, since a previous lower segment scar needs no monitoring"
+    ],
+    "ans": 0,
+    "exp": "With one previous low transverse scar the success rate is around 70-75 per cent and rupture risk under one per cent, but prostaglandins are avoided."
+  },
+  {
+    "op": "add", "unit": "OBG-U23-3", "page": 565, "fmt": "oddoneout",
+    "sec": "VBAC: contraindications, prognosis & monitoring",
+    "q": "All of the following contraindicate a trial of labour after caesarean EXCEPT:",
+    "opts": [
+      "A single previous low transverse incision in the lower segment",
+      "A previous classical or T-shaped uterine incision",
+      "Previous uterine rupture or full-thickness myomectomy",
+      "Placenta previa or placenta accreta spectrum in the current pregnancy"
+    ],
+    "ans": 0,
+    "exp": "One previous low transverse scar is the prerequisite for offering a trial of labour; upper segment scars and placental obstruction are contraindications."
+  },
+  {
+    "op": "add", "unit": "OBG-U23-4", "page": 566, "fmt": "fillup",
+    "sec": "Classical caesarean indications & anaesthesia",
+    "q": "Fill up: In a perimortem caesarean section the baby should be delivered within ______ minutes of maternal cardiac arrest, through a ______ abdominal incision.",
+    "opts": ["4; midline vertical", "5; Pfannenstiel", "4; Pfannenstiel", "10; midline vertical"],
+    "ans": 0,
+    "exp": "Delivery within four minutes improves both neonatal survival and maternal venous return, so a fast midline vertical incision is used."
+  }
+]

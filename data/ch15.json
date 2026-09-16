@@ -51,13 +51,13 @@
    "page": 483,
    "q": "The pelvic inlet lies at the level of the pelvic brim. Match the anteroposterior diameters: true conjugate, obstetric conjugate, diagonal conjugate.",
    "opts": [
-    "SP to upper border of pubic symphysis = 11 cm; SP to middle border = 10.5 cm (smallest & most important); SP to lower border = 12 cm",
-    "SP to middle = 11 cm; SP to upper = 10.5 cm; SP to lower = 13 cm",
-    "All three equal 11 cm",
-    "SP to lower = 10.5 cm; SP to middle = 12 cm"
+    "True conjugate 11 cm; obstetric conjugate 10.5 cm; diagonal conjugate 12 cm",
+    "True conjugate 10.5 cm; obstetric conjugate 11 cm; diagonal conjugate 13 cm",
+    "True conjugate 12 cm; obstetric conjugate 11 cm; diagonal conjugate 10.5 cm",
+    "All three diameters measure 11 cm in a normal gynaecoid pelvis"
    ],
    "ans": 0,
-   "exp": "True 11 cm, obstetric 10.5 cm (smallest/most important), diagonal 12 cm. (Book p483)"
+   "exp": "Anteroposterior diameters of the pelvic inlet: true conjugate (sacral promontory to upper border of pubic symphysis) 11 cm; obstetric conjugate (to the middle border) 10.5 cm, the smallest and most important; diagonal conjugate (to the lower border) 12 cm. (Book p483)"
   },
   {
    "id": "OBG-C15-005",
@@ -79,13 +79,13 @@
    "page": 483,
    "q": "The critical obstetric conjugate is the minimum diameter below which vaginal delivery is impossible; its value and the contracted-pelvis cut-off are:",
    "opts": [
-    "10 cm; < 10 cm = contracted pelvis",
-    "11 cm; < 11 cm",
-    "12 cm; < 12 cm",
-    "9 cm; < 9 cm"
+    "10 cm; below 10 cm means contracted pelvis",
+    "11 cm; below 11 cm means contracted pelvis",
+    "12 cm; below 12 cm means contracted pelvis",
+    "9 cm; below 9 cm means contracted pelvis"
    ],
    "ans": 0,
-   "exp": "Critical obstetric conjugate is 10 cm; below it the pelvis is contracted. (Book p483)"
+   "exp": "The critical obstetric conjugate is 10 cm, and below it the pelvis is contracted and vaginal delivery impossible. (Book p483)"
   },
   {
    "id": "OBG-C15-007",
@@ -93,13 +93,13 @@
    "page": 483,
    "q": "The transverse diameter of the inlet is measured between the two farthest points on the iliopectineal line and equals:",
    "opts": [
-    "13 cm – greater than any AP diameter",
-    "11 cm",
-    "12 cm",
-    "10 cm"
+    "13 cm, which is greater than any antero-posterior diameter of the inlet",
+    "11 cm, which is the same as the true conjugate of the pelvic inlet",
+    "12 cm, which is the oblique diameter measured from the sacro-iliac joint",
+    "10 cm, which is the transverse diameter of the plane of least dimension"
    ],
    "ans": 0,
-   "exp": "Inlet transverse diameter is 13 cm, exceeding every AP diameter. (Book p483)"
+   "exp": "The transverse diameter of the inlet is about 13 cm; the true conjugate is 11 cm and the oblique diameter about 12 cm. (Book p483)"
   },
   {
    "id": "OBG-C15-008",
@@ -107,44 +107,59 @@
    "page": 483,
    "q": "The oblique diameters of the inlet (12 cm) run from:",
    "opts": [
-    "The sacro-iliac joint on one side to the iliopectineal eminence on the other",
-    "Ischial spine to spine",
-    "Symphysis to promontory",
-    "Tuberosity to tuberosity"
+    "From the sacro-iliac joint on one side to the iliopectineal eminence on the other",
+    "From one ischial spine straight across to the ischial spine opposite",
+    "From the symphysis pubis directly backwards to the sacral promontory",
+    "From one ischial tuberosity across to the opposite tuberosity"
    ],
    "ans": 0,
-   "exp": "Oblique diameters join the sacro-iliac joint to the opposite iliopectineal eminence. (Book p483)"
+   "exp": "The oblique diameters run from a sacro-iliac joint to the opposite iliopectineal eminence and measure about 12 cm. (Book p483)"
   },
   {
    "id": "OBG-C15-009",
-   "sec": "Pelvic cavity: planes of greatest & least dimensions",
-   "page": 484,
-   "q": "Contracted pelvis on clinical pelvimetry is flagged when:",
+   "sec": "Pelvic brim, false/true pelvis & inlet diameters",
+   "page": 483,
+   "q": "Fill up: The true conjugate of the pelvic inlet runs from the sacral promontory to the ______ and measures about ______ cm.",
    "opts": [
-    "Obstetric conjugate < 10 cm or diagonal conjugate < 11.5 cm",
-    "True conjugate < 12 cm",
-    "Bituberous < 10 cm",
-    "Interischial < 10 cm"
+    "upper margin of the symphysis pubis; 11",
+    "lower margin of the symphysis pubis; 13",
+    "tip of the ischial spine; 11",
+    "tip of the coccyx; 9"
    ],
    "ans": 0,
-   "exp": "OC <10 cm (or DC <11.5 cm) indicates a contracted inlet. (Book p484)"
+   "exp": "The true conjugate is the shortest antero-posterior diameter of the inlet and cannot be measured clinically, so the diagonal conjugate is used instead. (Book p483)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C15-010",
    "sec": "Pelvic cavity: planes of greatest & least dimensions",
    "page": 484,
-   "q": "The pelvic cavity lies at the level of the ischial spines between inlet and anatomical outlet. Its shape and walls are:",
+   "q": "Contracted pelvis on clinical pelvimetry is flagged when:",
    "opts": [
-    "Truncated cylinder; shallow anterior wall of pubic bone and deep concave posterior wall of sacrum",
-    "True cylinder; equal walls",
-    "Funnel shaped; deep anterior wall",
-    "Cuboid; flat posterior wall"
+    "An obstetric conjugate below 10 cm, or a diagonal conjugate below 11.5 cm",
+    "A true conjugate below 12 cm, which is the usual threshold applied",
+    "A bituberous diameter below 10 cm measured at the pelvic outlet",
+    "An interspinous diameter below 10 cm in the mid-cavity"
    ],
    "ans": 0,
-   "exp": "The cavity is a truncated cylinder with a shallow pubic anterior wall and deep concave sacral posterior wall. (Book p484)"
+   "exp": "Clinical pelvimetry flags contraction when the obstetric conjugate is under 10 cm or the diagonal conjugate under 11.5 cm. (Book p484)"
   },
   {
    "id": "OBG-C15-011",
+   "sec": "Pelvic cavity: planes of greatest & least dimensions",
+   "page": 484,
+   "q": "The pelvic cavity lies at the level of the ischial spines between inlet and anatomical outlet. Its shape and walls are:",
+   "opts": [
+    "A truncated cylinder, with a shallow anterior wall and a deep concave posterior wall",
+    "A true cylinder, with anterior and posterior walls of equal depth",
+    "Funnel shaped, with a deep anterior wall behind the pubic bone",
+    "Cuboid, with a flat posterior wall formed by the sacrum"
+   ],
+   "ans": 0,
+   "exp": "The cavity is a truncated cylinder: the pubic bone is short in front, while the sacrum forms a long concave curve behind. (Book p484)"
+  },
+  {
+   "id": "OBG-C15-012",
    "sec": "Pelvic cavity: planes of greatest & least dimensions",
    "page": 484,
    "q": "Posterior boundary of the plane of GREATEST pelvic dimensions vs the plane of LEAST pelvic dimensions:",
@@ -158,7 +173,7 @@
    "exp": "Greatest plane posteriorly at S2–S3; least plane at S4–S5. (Book p484)"
   },
   {
-   "id": "OBG-C15-012",
+   "id": "OBG-C15-013",
    "sec": "Pelvic cavity: planes of greatest & least dimensions",
    "page": 484,
    "q": "Lateral extent of the plane of greatest dimensions and of the plane of least dimensions:",
@@ -172,7 +187,7 @@
    "exp": "Greatest plane laterally at the obturator foramen; least plane at the ischial spines. (Book p484)"
   },
   {
-   "id": "OBG-C15-013",
+   "id": "OBG-C15-014",
    "sec": "Pelvic cavity: planes of greatest & least dimensions",
    "page": 484,
    "q": "AP and transverse diameters: plane of greatest dimensions vs plane of least dimensions.",
@@ -186,7 +201,7 @@
    "exp": "Greatest plane AP 12.5–13 cm, transverse 13 cm; least plane AP 11.5 cm, transverse 10 cm bispinous. (Book p484)"
   },
   {
-   "id": "OBG-C15-014",
+   "id": "OBG-C15-015",
    "sec": "Pelvic cavity: planes of greatest & least dimensions",
    "page": 484,
    "q": "The bispinous (interischial) diameter of the plane of least dimensions is:",
@@ -200,7 +215,22 @@
    "exp": "At 10 cm it is the smallest pelvic diameter and most important obstetrically. (Book p484)"
   },
   {
-   "id": "OBG-C15-015",
+   "id": "OBG-C15-016",
+   "sec": "Planes of greatest & least dimensions",
+   "page": 484,
+   "q": "Match the pelvic plane with its description — 1) Plane of the inlet 2) Plane of greatest pelvic dimension 3) Plane of least pelvic dimension … A) Lies at the level of the ischial spines, with an antero-posterior diameter of about 11.5 cm B) A rounded inlet with a transverse diameter of about 13 cm C) The roomiest plane, with an antero-posterior diameter of about 12.75 cm",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "The inlet is widest transversely, the mid-plane at the spines is the narrowest, and the plane of greatest dimension lies between them. (Book p484)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C15-017",
    "sec": "Mid-pelvis & pelvic outlet",
    "page": 485,
    "q": "The mid-pelvis is said to be CONTRACTED when the interischial diameter is:",
@@ -214,21 +244,21 @@
    "exp": "Interischial diameter <8 cm defines mid-pelvic contraction. (Book p485)"
   },
   {
-   "id": "OBG-C15-016",
+   "id": "OBG-C15-018",
    "sec": "Mid-pelvis & pelvic outlet",
    "page": 485,
    "q": "The clinical bedside clue to a contracted mid-pelvis is:",
    "opts": [
-    "Being able to touch both ischial spines simultaneously with the fingers of the same hand",
-    "Inability to feel the spines at all",
-    "A prominent sacral promontory",
-    "A wide subpubic arch"
+    "Both ischial spines can be touched at once with the fingers of one hand",
+    "Neither ischial spine can be reached at all on vaginal examination",
+    "The sacral promontory is easily reached and projects prominently forward",
+    "The subpubic arch is unusually wide and the side walls are divergent"
    ],
    "ans": 0,
-   "exp": "Simultaneously touching both spines with one hand suggests mid-pelvic contraction. (Book p485)"
+   "exp": "The bedside clue to a contracted mid-pelvis is being able to touch both ischial spines simultaneously with the fingers of the same hand. (Book p485)"
   },
   {
-   "id": "OBG-C15-017",
+   "id": "OBG-C15-019",
    "sec": "Mid-pelvis & pelvic outlet",
    "page": 485,
    "q": "The pelvic outlet (anatomical) lies at the level of the:",
@@ -242,21 +272,21 @@
    "exp": "The anatomical outlet is at the ischial tuberosities. (Book p485)"
   },
   {
-   "id": "OBG-C15-018",
+   "id": "OBG-C15-020",
    "sec": "Mid-pelvis & pelvic outlet",
    "page": 485,
    "q": "Boundaries and diameters of the pelvic outlet:",
    "opts": [
-    "Posterior tip of coccyx, lateral ischial tuberosities; AP 13 cm; transverse = bituberous diameter 11 cm",
-    "Posterior promontory; AP 11 cm; transverse 13 cm",
-    "Posterior coccyx; AP 10 cm; transverse 10 cm",
-    "Lateral spines; AP 12 cm; transverse 12 cm"
+    "Tip of the coccyx, ischial tuberosities; AP 13 cm; transverse bituberous 11 cm",
+    "Sacral promontory, ischial spines; AP 11 cm; transverse 13 cm",
+    "Tip of the coccyx, ischial spines; AP 10 cm; transverse 10 cm",
+    "Ischial spines, ischial tuberosities; AP 12 cm; transverse 12 cm"
    ],
    "ans": 0,
-   "exp": "Outlet: coccyx posteriorly, tuberosities laterally, AP 13 cm and bituberous 11 cm. (Book p485)"
+   "exp": "The pelvic outlet is bounded posteriorly by the tip of the coccyx and laterally by the ischial tuberosities; its AP diameter is 13 cm and its transverse (bituberous) diameter is 11 cm. (Book p485)"
   },
   {
-   "id": "OBG-C15-019",
+   "id": "OBG-C15-021",
    "sec": "Mid-pelvis & pelvic outlet",
    "page": 485,
    "q": "In relation to the outlet, the plane of least pelvic dimensions lies ______ and the plane of pelvic outlet ______.",
@@ -270,7 +300,7 @@
    "exp": "The least-dimensions plane is superior and the outlet plane inferior. (Book p485)"
   },
   {
-   "id": "OBG-C15-020",
+   "id": "OBG-C15-022",
    "sec": "Sagittal diameters & pelvic angles",
    "page": 486,
    "q": "The posterior sagittal diameter of the MID-PELVIS is measured from the sacrum to the:",
@@ -284,7 +314,7 @@
    "exp": "Mid-pelvic posterior sagittal diameter runs sacrum-to-spine and should be ≥5 cm. (Book p486)"
   },
   {
-   "id": "OBG-C15-021",
+   "id": "OBG-C15-023",
    "sec": "Sagittal diameters & pelvic angles",
    "page": 486,
    "q": "The posterior sagittal diameter of the OUTLET extends between:",
@@ -298,7 +328,7 @@
    "exp": "Outlet posterior sagittal diameter joins tuberosity and coccyx tip. (Book p486)"
   },
   {
-   "id": "OBG-C15-022",
+   "id": "OBG-C15-024",
    "sec": "Sagittal diameters & pelvic angles",
    "page": 486,
    "q": "The angle of inclination of the pelvis is the angle the pelvic inlet makes with the horizontal, equal to:",
@@ -312,7 +342,7 @@
    "exp": "The inclination angle is 55°. (Book p486)"
   },
   {
-   "id": "OBG-C15-023",
+   "id": "OBG-C15-025",
    "sec": "Sagittal diameters & pelvic angles",
    "page": 486,
    "q": "The sub-pubic angle is the angle between the descending rami of the pubic bones; in males it is ______ and in females ______.",
@@ -326,7 +356,22 @@
    "exp": "Males have an acute and females an obtuse sub-pubic angle. (Book p486)"
   },
   {
-   "id": "OBG-C15-024",
+   "id": "OBG-C15-026",
+   "sec": "Mid-pelvis & pelvic outlet",
+   "page": 486,
+   "q": "Fill up: The pelvic outlet has an antero-posterior diameter of about ______ cm and an intertuberous transverse diameter of about ______ cm.",
+   "opts": [
+    "13; 11",
+    "11; 13",
+    "12; 12",
+    "9; 11"
+   ],
+   "ans": 0,
+   "exp": "The outlet AP diameter runs from the lower border of the symphysis to the tip of the sacrum and the bituberous diameter between the ischial tuberosities. (Book p486)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C15-027",
    "sec": "Significance of the ischial spine & stations",
    "page": 487,
    "q": "Station of the fetal head is defined with respect to the:",
@@ -340,21 +385,21 @@
    "exp": "Stations are referenced to the ischial spines. (Book p487)"
   },
   {
-   "id": "OBG-C15-025",
+   "id": "OBG-C15-028",
    "sec": "Significance of the ischial spine & stations",
    "page": 487,
    "q": "On the station scale from inlet to outlet, the inlet and outlet correspond to:",
    "opts": [
-    "−5 at inlet and +5 at outlet, with 0 at the ischial spines",
-    "0 at inlet and +5 at outlet",
-    "−3 and +3",
-    "−5 and 0"
+    "-5 at the inlet, +5 at the outlet, and 0 at the ischial spines",
+    "0 at the inlet, +5 at the outlet, and -5 at the ischial spines",
+    "-3 at the inlet and +3 at the outlet, 0 at the ischial spines",
+    "-5 at the inlet and 0 at the outlet, -3 at the ischial spines"
    ],
    "ans": 0,
-   "exp": "The scale runs −5 (inlet) to +5 (outlet) with 0 at the spines. (Book p487)"
+   "exp": "On the station scale from inlet to outlet, the inlet is -5, the outlet is +5, and 0 is at the ischial spines. (Book p487)"
   },
   {
-   "id": "OBG-C15-026",
+   "id": "OBG-C15-029",
    "sec": "Significance of the ischial spine & stations",
    "page": 487,
    "q": "The fetal head is considered ENGAGED at which station?",
@@ -368,7 +413,7 @@
    "exp": "Engagement equals 0 station at the ischial spines. (Book p487)"
   },
   {
-   "id": "OBG-C15-027",
+   "id": "OBG-C15-030",
    "sec": "Significance of the ischial spine & stations",
    "page": 487,
    "q": "Forceps or vacuum application requires a station of at least:",
@@ -382,7 +427,7 @@
    "exp": "Instrumental delivery needs station ≥ +2. (Book p487)"
   },
   {
-   "id": "OBG-C15-028",
+   "id": "OBG-C15-031",
    "sec": "Significance of the ischial spine & stations",
    "page": 487,
    "q": "Internal rotation of the fetal head and deep transverse arrest both occur at the level of the:",
@@ -396,7 +441,7 @@
    "exp": "Both internal rotation and deep transverse arrest relate to the ischial spine level. (Book p487)"
   },
   {
-   "id": "OBG-C15-029",
+   "id": "OBG-C15-032",
    "sec": "Significance of the ischial spine & stations",
    "page": 487,
    "q": "Which muscle hangs from the ischial spine 'like a hammock'?",
@@ -410,7 +455,7 @@
    "exp": "Levator ani suspends from the ischial spine. (Book p487)"
   },
   {
-   "id": "OBG-C15-030",
+   "id": "OBG-C15-033",
    "sec": "Significance of the ischial spine & stations",
    "page": 487,
    "q": "The ischial spine is the landmark for pudendal nerve block; access requires piercing the ______ and the indication is ______.",
@@ -424,7 +469,22 @@
    "exp": "The sacrospinous ligament is pierced for pudendal block, used for instrumental delivery. (Book p487)"
   },
   {
-   "id": "OBG-C15-031",
+   "id": "OBG-C15-034",
+   "sec": "Significance of the ischial spine & stations",
+   "page": 487,
+   "q": "All of the following statements about the ischial spines are true EXCEPT:",
+   "opts": [
+    "They are the landmark for the plane of the pelvic inlet",
+    "They mark the plane of least pelvic dimension",
+    "They are the reference point used to define fetal head station",
+    "They can be felt on vaginal examination lateral to the mid-line of the pelvis"
+   ],
+   "ans": 0,
+   "exp": "The ischial spines define the mid-pelvis and station zero, not the inlet, which is bounded by the sacral promontory and symphysis pubis. (Book p487)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C15-035",
    "sec": "Contracted pelvis & cephalopelvic disproportion",
    "page": 488,
    "q": "Match contracted pelvis cut-offs: inlet, mid-pelvis, outlet.",
@@ -438,35 +498,35 @@
    "exp": "Inlet OC <10/DC <11.5 cm; mid-pelvis interischial <8 cm; outlet bituberous <8 cm. (Book p488)"
   },
   {
-   "id": "OBG-C15-032",
+   "id": "OBG-C15-036",
    "sec": "Contracted pelvis & cephalopelvic disproportion",
    "page": 488,
    "q": "The BEST method of diagnosing a contracted pelvis and the stance on routine pelvimetry:",
    "opts": [
     "Clinical pelvimetry; routine pelvimetry is not recommended",
-    "X-ray pelvimetry routinely",
-    "MRI routinely",
-    "External pelvimetry only"
+    "X-ray pelvimetry, which should be done routinely",
+    "Magnetic resonance imaging pelvimetry done routinely",
+    "External pelvimetry alone, with no internal assessment"
    ],
    "ans": 0,
-   "exp": "Clinical pelvimetry is best and routine pelvimetry is not recommended. (Book p488)"
+   "exp": "The best method of diagnosing a contracted pelvis is clinical pelvimetry; routine pelvimetry is not recommended. (Book p488)"
   },
   {
-   "id": "OBG-C15-033",
+   "id": "OBG-C15-037",
    "sec": "Contracted pelvis & cephalopelvic disproportion",
    "page": 488,
    "q": "Management of a contracted pelvis and its implication for future deliveries:",
    "opts": [
-    "C-section (vaginal delivery c/i); an indication for recurrent C-section",
-    "Trial of labour always",
-    "Instrumental delivery",
-    "Induction with oxytocin"
+    "Caesarean section, since vaginal delivery is contraindicated, and it commits her to repeat sections",
+    "A trial of labour is always attempted first, whatever the degree of contraction",
+    "Instrumental delivery once the cervix has reached full dilatation",
+    "Induction of labour with oxytocin from 38 completed weeks onwards"
    ],
    "ans": 0,
-   "exp": "Contracted pelvis mandates C-section and indicates recurrent C-section. (Book p488)"
+   "exp": "A genuinely contracted pelvis precludes vaginal delivery, and the indication recurs in every subsequent pregnancy. (Book p488)"
   },
   {
-   "id": "OBG-C15-034",
+   "id": "OBG-C15-038",
    "sec": "Contracted pelvis & cephalopelvic disproportion",
    "page": 488,
    "q": "Pelvic variations: Naegele's pelvis and Robert's pelvis differ by:",
@@ -480,21 +540,21 @@
    "exp": "Naegele's lacks one sacral ala; Robert's lacks both. (Book p488)"
   },
   {
-   "id": "OBG-C15-035",
+   "id": "OBG-C15-039",
    "sec": "Contracted pelvis & cephalopelvic disproportion",
    "page": 488,
    "q": "Cephalopelvic disproportion (CPD) means:",
    "opts": [
-    "Either the fetus is too big for the pelvis or the pelvis too small for the fetus; it is a relative finding and the pelvis need not be contracted",
-    "The pelvis is always contracted",
-    "The fetus is always macrosomic",
-    "An absolute bony abnormality"
+    "Either a fetus too large or a pelvis too small for each other, in a pelvis that may itself be normal",
+    "A maternal pelvis that is always contracted, whatever the size or position of the fetus",
+    "A fetus that is always macrosomic, whatever the size of the maternal pelvis",
+    "An absolute bony abnormality of the maternal pelvis in every single case"
    ],
    "ans": 0,
-   "exp": "CPD is relative and may occur with a normal pelvis and a large fetus. (Book p488)"
+   "exp": "CPD is a relative mismatch between passenger and passage, so it can occur with a normal pelvis and a normal-sized baby. (Book p488)"
   },
   {
-   "id": "OBG-C15-036",
+   "id": "OBG-C15-040",
    "sec": "Contracted pelvis & cephalopelvic disproportion",
    "page": 488,
    "q": "CPD can be located at which levels?",
@@ -508,7 +568,7 @@
    "exp": "CPD may affect inlet, cavity or outlet. (Book p488)"
   },
   {
-   "id": "OBG-C15-037",
+   "id": "OBG-C15-041",
    "sec": "Contracted pelvis & cephalopelvic disproportion",
    "page": 488,
    "q": "Rank the diagnostic methods for CPD:",
@@ -522,35 +582,35 @@
    "exp": "Trial of labour is best, then MRI, then clinical pelvimetry. (Book p488)"
   },
   {
-   "id": "OBG-C15-038",
+   "id": "OBG-C15-042",
    "sec": "Contracted pelvis & cephalopelvic disproportion",
    "page": 488,
    "q": "Indicators of CPD during labour include:",
    "opts": [
-    "Slow progress (cervical dilatation <1 cm/hr), caput/moulding, arrest of labour, obstructed labour (dehydrated mother, Bandl's ring, hot dry vagina) and fetal distress",
-    "Rapid progress with early engagement",
-    "Absent moulding",
-    "Early spontaneous delivery"
+    "Slow progress, marked caput and moulding, arrest of labour and the signs of obstructed labour",
+    "Rapid progress with early engagement of the head in the pelvic cavity",
+    "Complete absence of moulding, with a head that stays freely ballottable above the brim",
+    "Early spontaneous delivery with no caput and a short, easy second stage"
    ],
    "ans": 0,
-   "exp": "All listed labour findings indicate CPD. (Book p488)"
+   "exp": "Caput, moulding, slow progress and eventually obstructed labour with Bandl's ring are the clinical markers of disproportion. (Book p488)"
   },
   {
-   "id": "OBG-C15-039",
+   "id": "OBG-C15-043",
    "sec": "Contracted pelvis & cephalopelvic disproportion",
    "page": 488,
    "q": "Management of CPD at the INLET by severity:",
    "opts": [
-    "Moderate/severe → C-section; mild → trial of labour (vaginal delivery)",
-    "All → C-section",
-    "All → trial of labour",
-    "Mild → C-section; severe → trial"
+    "Moderate or severe: caesarean; mild: a trial of labour",
+    "All degrees: caesarean section without a trial",
+    "All degrees: a trial of labour aiming for vaginal delivery",
+    "Mild: caesarean section; severe: a trial of labour"
    ],
    "ans": 0,
-   "exp": "Inlet CPD: moderate/severe goes to C-section; mild allows trial of labour. (Book p488)"
+   "exp": "For CPD at the inlet, moderate or severe disproportion needs caesarean section, while mild disproportion allows a trial of labour. (Book p488)"
   },
   {
-   "id": "OBG-C15-040",
+   "id": "OBG-C15-044",
    "sec": "Contracted pelvis & cephalopelvic disproportion",
    "page": 488,
    "q": "CPD at the OUTLET is managed by:",
@@ -564,7 +624,22 @@
    "exp": "Outlet CPD mandates C-section. (Book p488)"
   },
   {
-   "id": "OBG-C15-041",
+   "id": "OBG-C15-045",
+   "sec": "Contracted pelvis & cephalopelvic disproportion",
+   "page": 488,
+   "q": "A primigravida at term is fully dilated but the head shows no descent after two hours of good contractions, with increasing caput and moulding and three-fifths of the head still palpable abdominally. What is the diagnosis and management?",
+   "opts": [
+    "Cephalopelvic disproportion — deliver by caesarean section",
+    "Normal progress — allow another two hours of pushing",
+    "Uterine inertia — start high-dose oxytocin augmentation",
+    "Deep transverse arrest — attempt manual rotation and forceps delivery"
+   ],
+   "ans": 0,
+   "exp": "Failure of descent after two hours of adequate contractions with caput and moulding means disproportion, not inertia, so oxytocin would be dangerous. (Book p488)",
+   "fmt": "scenario"
+  },
+  {
+   "id": "OBG-C15-046",
    "sec": "CPD notes & Caldwell-Moloy pelvic types",
    "page": 489,
    "q": "What is the role of instrumental delivery in CPD?",
@@ -578,21 +653,21 @@
    "exp": "Instrumental delivery has no role in CPD. (Book p489)"
   },
   {
-   "id": "OBG-C15-042",
+   "id": "OBG-C15-047",
    "sec": "CPD notes & Caldwell-Moloy pelvic types",
    "page": 489,
    "q": "True or false: CPD in the current pregnancy is an indication for recurrent C-section in the next pregnancy.",
    "opts": [
-    "False – CPD is relative to the current fetus only and is NOT an indication for recurrent C-section",
-    "True – always repeat C-section",
-    "True – only if severe",
-    "False – but it indicates induction next time"
+    "False – CPD applies to the current fetus only, so it is not an indication",
+    "True – a repeat caesarean section should always be performed next time",
+    "True – but only when the disproportion was severe in this labour",
+    "False – but it means induction of labour is needed next time"
    ],
    "ans": 0,
-   "exp": "CPD relates only to the current fetus, so it does not mandate repeat C-section. (Book p489)"
+   "exp": "False: CPD is relative to the current fetus only and is not an indication for recurrent caesarean section. (Book p489)"
   },
   {
-   "id": "OBG-C15-043",
+   "id": "OBG-C15-048",
    "sec": "CPD notes & Caldwell-Moloy pelvic types",
    "page": 489,
    "q": "CPD in the current pregnancy, irrespective of extent, is a contraindication for:",
@@ -606,7 +681,7 @@
    "exp": "Any CPD contraindicates VBAC. (Book p489)"
   },
   {
-   "id": "OBG-C15-044",
+   "id": "OBG-C15-049",
    "sec": "CPD notes & Caldwell-Moloy pelvic types",
    "page": 489,
    "q": "The Caldwell-Moloy classification names four pelvic types; the m/c and least common are:",
@@ -620,7 +695,7 @@
    "exp": "Gynaecoid is commonest; platypelloid rarest. (Book p489)"
   },
   {
-   "id": "OBG-C15-045",
+   "id": "OBG-C15-050",
    "sec": "CPD notes & Caldwell-Moloy pelvic types",
    "page": 489,
    "q": "Match pelvic type to representative shape: gynaecoid, android, anthropoid, platypelloid.",
@@ -634,7 +709,7 @@
    "exp": "Gynaecoid = female, android = male, anthropoid = ape-like, platypelloid = bowl-shaped. (Book p489)"
   },
   {
-   "id": "OBG-C15-046",
+   "id": "OBG-C15-051",
    "sec": "CPD notes & Caldwell-Moloy pelvic types",
    "page": 489,
    "q": "Shape of the inlet in each type:",
@@ -648,7 +723,7 @@
    "exp": "Inlet shapes follow the table: transverse oval, heart shaped, vertical/AP oval and flat bowl. (Book p489)"
   },
   {
-   "id": "OBG-C15-047",
+   "id": "OBG-C15-052",
    "sec": "CPD notes & Caldwell-Moloy pelvic types",
    "page": 489,
    "q": "Transverse vs AP diameters: which types show TD > AP, AP > TD and TD >> AP?",
@@ -662,7 +737,7 @@
    "exp": "TD > AP in gynaecoid/android, AP > TD in anthropoid, TD >> AP in platypelloid. (Book p489)"
   },
   {
-   "id": "OBG-C15-048",
+   "id": "OBG-C15-053",
    "sec": "CPD notes & Caldwell-Moloy pelvic types",
    "page": 489,
    "q": "Side walls of the pelvis by type:",
@@ -676,7 +751,7 @@
    "exp": "Wall configuration distinguishes the four types as listed. (Book p489)"
   },
   {
-   "id": "OBG-C15-049",
+   "id": "OBG-C15-054",
    "sec": "CPD notes & Caldwell-Moloy pelvic types",
    "page": 489,
    "q": "Prominent ischial spines and an acute sub-pubic angle characterise which pelvic type?",
@@ -690,7 +765,7 @@
    "exp": "Android pelvis shows prominent spines (+) and an acute sub-pubic angle; gynaecoid has an obtuse angle and non-prominent spines. (Book p489)"
   },
   {
-   "id": "OBG-C15-050",
+   "id": "OBG-C15-055",
    "sec": "CPD notes & Caldwell-Moloy pelvic types",
    "page": 489,
    "q": "The sub-pubic angle in the gynaecoid pelvis is:",
@@ -702,6 +777,21 @@
    ],
    "ans": 0,
    "exp": "Gynaecoid pelvis has an obtuse sub-pubic angle. (Book p489)"
+  },
+  {
+   "id": "OBG-C15-056",
+   "sec": "CPD notes & Caldwell-Moloy pelvic types",
+   "page": 489,
+   "q": "Match the Caldwell-Moloy pelvic type with its features — 1) Gynaecoid 2) Android 3) Anthropoid … A) A rounded or slightly oval inlet with a well-curved sacrum and roomy fore-pelvis, the favourable female pelvis B) A wedge-shaped inlet with convergent side walls, a narrow fore-pelvis and a shallow sacro-sciatic notch C) A long oval inlet with a generous antero-posterior diameter, favouring occipito-posterior positions",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Gynaecoid is favourable, android predisposes to deep transverse arrest, and anthropoid favours direct occipito-posterior delivery. (Book p489)",
+   "fmt": "match"
   }
  ],
  "units": [
@@ -720,7 +810,8 @@
     "OBG-C15-005",
     "OBG-C15-006",
     "OBG-C15-007",
-    "OBG-C15-008"
+    "OBG-C15-008",
+    "OBG-C15-009"
    ]
   },
   {
@@ -731,12 +822,13 @@
    "sec": "Pelvic cavity planes · p484",
    "guide": "Compare the plane of greatest with the plane of least pelvic dimensions and learn why the 10 cm bispinous diameter dominates obstetrics. Focus for this checkpoint: Pelvic cavity: planes of greatest & least dimensions.",
    "qs": [
-    "OBG-C15-009",
     "OBG-C15-010",
     "OBG-C15-011",
     "OBG-C15-012",
     "OBG-C15-013",
-    "OBG-C15-014"
+    "OBG-C15-014",
+    "OBG-C15-015",
+    "OBG-C15-016"
    ]
   },
   {
@@ -747,15 +839,16 @@
    "sec": "Mid-pelvis, outlet & pelvic angles · p485-486",
    "guide": "Detect mid-pelvic and outlet contraction by their diameters, then add the posterior sagittal diameters, inclination angle and sub-pubic angle. Focus for this checkpoint: Mid-pelvis & pelvic outlet, Sagittal diameters & pelvic angles.",
    "qs": [
-    "OBG-C15-015",
-    "OBG-C15-016",
     "OBG-C15-017",
     "OBG-C15-018",
     "OBG-C15-019",
     "OBG-C15-020",
     "OBG-C15-021",
     "OBG-C15-022",
-    "OBG-C15-023"
+    "OBG-C15-023",
+    "OBG-C15-024",
+    "OBG-C15-025",
+    "OBG-C15-026"
    ]
   },
   {
@@ -766,13 +859,14 @@
    "sec": "Ischial spine & stations · p487",
    "guide": "Use the ischial spine for stations, engagement, internal rotation, deep transverse arrest, levator ani attachment and the pudendal block landmark. Focus for this checkpoint: Significance of the ischial spine & stations.",
    "qs": [
-    "OBG-C15-024",
-    "OBG-C15-025",
-    "OBG-C15-026",
     "OBG-C15-027",
     "OBG-C15-028",
     "OBG-C15-029",
-    "OBG-C15-030"
+    "OBG-C15-030",
+    "OBG-C15-031",
+    "OBG-C15-032",
+    "OBG-C15-033",
+    "OBG-C15-034"
    ]
   },
   {
@@ -783,16 +877,17 @@
    "sec": "Contracted pelvis & CPD · p488",
    "guide": "Apply contraction cut-offs at inlet, mid-pelvis and outlet, then diagnose and manage CPD by level and severity with trial of labour as the best test. Focus for this checkpoint: Contracted pelvis & cephalopelvic disproportion.",
    "qs": [
-    "OBG-C15-031",
-    "OBG-C15-032",
-    "OBG-C15-033",
-    "OBG-C15-034",
     "OBG-C15-035",
     "OBG-C15-036",
     "OBG-C15-037",
     "OBG-C15-038",
     "OBG-C15-039",
-    "OBG-C15-040"
+    "OBG-C15-040",
+    "OBG-C15-041",
+    "OBG-C15-042",
+    "OBG-C15-043",
+    "OBG-C15-044",
+    "OBG-C15-045"
    ]
   },
   {
@@ -803,16 +898,17 @@
    "sec": "CPD notes & Caldwell-Moloy types · p489",
    "guide": "Remember that CPD is fetus-relative and bars VBAC, then classify gynaecoid, android, anthropoid and platypelloid pelves by inlet shape, walls and angles. Focus for this checkpoint: CPD notes & Caldwell-Moloy pelvic types.",
    "qs": [
-    "OBG-C15-041",
-    "OBG-C15-042",
-    "OBG-C15-043",
-    "OBG-C15-044",
-    "OBG-C15-045",
     "OBG-C15-046",
     "OBG-C15-047",
     "OBG-C15-048",
     "OBG-C15-049",
-    "OBG-C15-050"
+    "OBG-C15-050",
+    "OBG-C15-051",
+    "OBG-C15-052",
+    "OBG-C15-053",
+    "OBG-C15-054",
+    "OBG-C15-055",
+    "OBG-C15-056"
    ]
   }
  ]

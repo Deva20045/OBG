@@ -1,0 +1,55 @@
+[
+  {
+    "op": "add", "unit": "OBG-U11-1", "page": 442, "fmt": "fillup",
+    "sec": "Molar evacuation, follow-up & contraception",
+    "q": "Fill up: After evacuation of a hydatidiform mole, beta-hCG is measured ______ until it is normal for three consecutive readings, and then ______ for the rest of follow-up.",
+    "opts": ["weekly; monthly", "monthly; weekly", "weekly; every two weeks", "monthly; every six months"],
+    "ans": 0,
+    "exp": "Weekly hCG until three consecutive normal values, then monthly for at least six months, reliably detects progression to neoplasia."
+  },
+  {
+    "op": "add", "unit": "OBG-U11-2", "page": 443, "fmt": "match",
+    "sec": "Partial vs complete mole",
+    "q": "Match the trophoblastic entity with its description — 1) Complete mole 2) Partial mole 3) Invasive mole … A) Triploid, usually 69 XXX or 69 XXY, with focal villous swelling and some fetal tissue B) Androgenetic 46 XX with diffuse villous swelling, trophoblastic hyperplasia and no fetus C) Molar villi that invade the myometrium after evacuation and may perforate the uterus",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Complete moles are diploid and androgenetic with no fetus; partial moles are triploid with a fetus; invasive moles penetrate the myometrium."
+  },
+  {
+    "op": "add", "unit": "OBG-U11-3", "page": 444, "fmt": "oddoneout",
+    "sec": "GTN clinical features & metastases",
+    "q": "All of the following are characteristic sites of metastasis in gestational trophoblastic neoplasia EXCEPT:",
+    "opts": ["Bone", "Lungs", "Vagina", "Brain"],
+    "ans": 0,
+    "exp": "GTN spreads haematogenously to lung, vagina, pelvis, liver and brain; bony metastases are rare and suggest another diagnosis."
+  },
+  {
+    "op": "add", "unit": "OBG-U11-4", "page": 445, "fmt": "fillup",
+    "sec": "FIGO staging & WHO scoring",
+    "q": "Fill up: In the WHO prognostic scoring system, a total score of ______ or more defines high-risk gestational trophoblastic neoplasia, which is treated with ______ chemotherapy.",
+    "opts": ["7; multi-agent", "6; single-agent", "7; single-agent", "4; multi-agent"],
+    "ans": 0,
+    "exp": "A score of 6 or less is low risk and treated with single-agent chemotherapy; 7 or more is high risk and needs multi-agent EMA-CO."
+  },
+  {
+    "op": "add", "unit": "OBG-U11-5", "page": 446, "fmt": "match",
+    "sec": "Chemotherapy regimens",
+    "q": "Match the disease category with its treatment — 1) Low-risk GTN 2) High-risk GTN 3) Placental site trophoblastic tumour … A) Multi-agent EMA-CO chemotherapy B) Single-agent methotrexate or actinomycin D C) Hysterectomy, because it is relatively chemoresistant and secretes little hCG",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Risk dictates intensity: single agent for low risk, EMA-CO for high risk, and surgery for the chemoresistant placental site tumour."
+  },
+  {
+    "op": "add", "unit": "OBG-U11-6", "page": 446, "fmt": "truefalse",
+    "sec": "Hysterectomy, follow-up & histopathology",
+    "q": "Which of the following statements about the management of molar pregnancy is TRUE?",
+    "opts": [
+      "Hysterectomy may suit a woman who has completed her family, but hCG follow-up is still needed because metastases can still appear",
+      "Hysterectomy removes all risk of malignant change, so no hCG follow-up is required",
+      "Prophylactic chemotherapy is given routinely after every molar evacuation",
+      "Combined oral contraceptives are contraindicated during follow-up because they raise hCG"
+    ],
+    "ans": 0,
+    "exp": "Hysterectomy reduces but does not abolish the risk of gestational trophoblastic neoplasia; contraception during follow-up is encouraged, not banned."
+  }
+]

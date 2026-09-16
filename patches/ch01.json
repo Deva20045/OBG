@@ -1,0 +1,276 @@
+[
+  {
+    "op": "add", "unit": "OBG-U1-1", "page": 265, "fmt": "match",
+    "sec": "Primordial germ cells",
+    "q": "Match the following germ-cell milestones with the time they occur — 1) Spermatogenesis first begins 2) Oogenesis first begins 3) Primordial germ cells reach the genital ridge … A) Puberty B) Intrauterine life C) 5th-6th week of gestation",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A"],
+    "ans": 0,
+    "exp": "Spermatogenesis starts only at puberty, oogenesis starts in intrauterine life, and PGCs migrate to the genital ridge by the 5th-6th week."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-2", "page": 265, "fmt": "fillup",
+    "sec": "Spermatogenesis kinetics",
+    "q": "Fill up: A full cycle of spermatogenesis takes ______ days, of which the morphogenetic phase of spermiogenesis alone occupies ______ days.",
+    "opts": ["70-74; 10-14", "10-14; 70-74", "70-74; 48-72 hours", "48-72 hours; 70-74"],
+    "ans": 0,
+    "exp": "Spermatogenesis takes 70-74 days (~72 days) and spermiogenesis alone takes 10-14 days."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-3", "page": 266, "fmt": "truefalse",
+    "sec": "Sperm structure, maturation & lifespan",
+    "q": "Which of the following statements about human spermatozoa is TRUE?",
+    "opts": [
+      "Sperm acquire progressive motility only during epididymal transit, not in the testis",
+      "Sperm gain the ability to fertilise an oocyte while still inside the seminiferous tubules",
+      "Ejaculated sperm are immediately capable of fertilising an oocyte without further change",
+      "Spermatozoa normally remain motile in the female genital tract for barely two to three hours"
+    ],
+    "ans": 0,
+    "exp": "Motility is acquired during epididymal transit; fertilising capacity requires capacitation in the female tract, and sperm survive there for days."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-4", "page": 266, "fmt": "match",
+    "sec": "Oogenesis & follicular dynamics",
+    "q": "Match the germ-cell population with its number — 1) Oogonia at 20 weeks' gestation 2) Oocytes at birth 3) Oocytes at puberty … A) ~7 million B) 1-2 million C) 300,000-400,000",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Peak oogonial number is ~7 million at 20 weeks, falling to 1-2 million at birth and 300,000-400,000 by puberty."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-5", "page": 267, "fmt": "fillup",
+    "sec": "Germ cell potency & teratoma origin",
+    "q": "Fill up: A teratoma shows tissue from all three embryonic layers, so its cell of origin behaves as a ______ cell, whereas a normal primordial germ cell is only ______.",
+    "opts": ["totipotent; bipotent", "bipotent; totipotent", "unipotent; bipotent", "pluripotent; unipotent"],
+    "ans": 0,
+    "exp": "Teratomas reveal the totipotent potential of germ cells, while normal PGCs are bipotent — able to form spermatogonia or oogonia only."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-6", "page": 268, "fmt": "scenario",
+    "sec": "Capacitation & acrosome reaction",
+    "q": "A 32-year-old woman's oocytes fail to fertilise in vitro until albumin is added to the culture medium; albumin acts as a sterol acceptor and strips cholesterol from the sperm membrane. Which step was being reproduced?",
+    "opts": [
+      "Capacitation — removal of cholesterol and seminal glycoproteins from the sperm membrane",
+      "Acrosome reaction — release of acrosin and hyaluronidase from the acrosomal cap",
+      "Cortical reaction — enzyme release that hardens the zona pellucida around the oocyte",
+      "Spermiation — detachment of mature spermatozoa from recesses in the Sertoli cell"
+    ],
+    "ans": 0,
+    "exp": "Capacitation is cholesterol and glycoprotein removal from the sperm membrane (reproduced in vitro by albumin), and it must precede the acrosome reaction."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-7", "page": 269, "fmt": "fillup",
+    "sec": "Fertilization, cleavage & tubal transport",
+    "q": "Fill up: Fertilisation normally occurs in the ______ of the fallopian tube and the zygote reaches the uterine cavity about ______ days later.",
+    "opts": ["ampulla; 3-4", "isthmus; 3-4", "ampulla; 1-2", "infundibulum; 6-7"],
+    "ans": 0,
+    "exp": "Fertilisation occurs in the ampulla and the conceptus takes roughly 3-4 days of tubal transport to reach the uterine cavity."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-8", "page": 270, "fmt": "match",
+    "sec": "Implantation stages & decidualisation",
+    "q": "Match the implantation landmark with its post-ovulation timing — 1) Blastocyst enters the uterine cavity 2) Blastocyst attaches to the endometrium 3) Implantation is completed … A) Day 3-4 B) Day 6-7 C) Day 11-12",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-A, 3-B", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "The blastocyst enters the cavity on day 3-4, attaches on day 6-7 and implantation is complete by day 11-12."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-9", "page": 272, "fmt": "truefalse",
+    "sec": "Blastocyst differentiation & trophoblast",
+    "q": "Which of the following statements about trophoblast differentiation is TRUE?",
+    "opts": [
+      "Syncytiotrophoblast is the outer multinucleated layer that secretes hCG and invades the endometrium",
+      "Cytotrophoblast is the outer multinucleated layer and is the main source of hCG secretion",
+      "Syncytiotrophoblast forms by fusion of decidual stromal cells around the implanting blastocyst",
+      "Cytotrophoblast alone erodes maternal sinusoids, since it is the invasive layer in the first trimester"
+    ],
+    "ans": 0,
+    "exp": "Cytotrophoblast is the inner mononuclear stem layer; syncytiotrophoblast is outer, multinucleated, hCG-secreting and invasive."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-10", "page": 272, "fmt": "oddoneout",
+    "sec": "Fetal membranes & yolk sac",
+    "q": "All of the following are derived from the inner cell mass EXCEPT:",
+    "opts": ["Syncytiotrophoblast", "Amniotic ectoderm", "Yolk sac endoderm", "The embryonic disc"],
+    "ans": 0,
+    "exp": "The trophoblast (and hence syncytiotrophoblast) comes from the outer cell mass; the embryo, amnion and yolk sac come from the inner cell mass."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-11", "page": 273, "fmt": "fillup",
+    "sec": "Preimplantation genetic testing & ART",
+    "q": "Fill up: Preimplantation genetic testing is performed on a biopsy of the ______ taken on day ______ of development.",
+    "opts": ["trophectoderm; 5-6", "inner cell mass; 5-6", "trophectoderm; 2-3", "polar body; 5-6"],
+    "ans": 0,
+    "exp": "Blastocyst-stage trophectoderm biopsy on day 5-6 is standard, because sampling the inner cell mass would risk the embryo itself."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-12", "page": 274, "fmt": "scenario",
+    "sec": "Teratogenic exposure & radiation in pregnancy",
+    "q": "A woman at 8 weeks of gestation has an abdominal CT scan; the calculated fetal dose is 4 rad (40 mGy). She asks whether the pregnancy must be terminated. What is the most appropriate counselling?",
+    "opts": [
+      "Termination is not indicated — doses below 5 rad show no measurable rise in malformation or loss",
+      "Termination is advised — any exposure above 1 rad after 6 weeks causes microcephaly",
+      "Termination is advised — 4 rad lies above the 2 rad threshold for organogenic damage",
+      "Termination is not indicated — before 10 weeks radiation can only cause growth restriction"
+    ],
+    "ans": 0,
+    "exp": "Below 5 rad there is no detectable increase in malformation, growth restriction or loss, so termination is not medically indicated."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-13", "page": 275, "fmt": "match",
+    "sec": "Teratogenic drugs: category X & specific malformations",
+    "q": "Match the drug with its classic fetal effect — 1) Warfarin 2) Sodium valproate 3) Lithium … A) Ebstein anomaly of the tricuspid valve B) Nasal hypoplasia with stippled epiphyses C) Lumbosacral neural tube defect",
+    "opts": ["1-B, 2-C, 3-A", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-A, 3-C"],
+    "ans": 0,
+    "exp": "Warfarin causes nasal hypoplasia and chondrodysplasia punctata, valproate causes neural tube defects, and lithium causes Ebstein anomaly."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-14", "page": 277, "fmt": "oddoneout",
+    "sec": "Teratogenic infections: TORCH & congenital syndromes",
+    "q": "All of the following are recognised features of congenital cytomegalovirus infection EXCEPT:",
+    "opts": ["Patent ductus arteriosus", "Periventricular intracranial calcification", "Chorioretinitis", "Sensorineural hearing loss"],
+    "ans": 0,
+    "exp": "PDA and pulmonary stenosis belong to congenital rubella; CMV gives periventricular calcification, chorioretinitis and sensorineural deafness."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-15", "page": 279, "fmt": "fillup",
+    "sec": "Gross placental architecture & placentomegaly",
+    "q": "Fill up: At term the placenta weighs about ______ g, which is roughly ______ of the fetal weight.",
+    "opts": ["500; one sixth", "500; one third", "800; one sixth", "1000; one third"],
+    "ans": 0,
+    "exp": "The term placenta weighs about 500 g and its ratio to the fetus is about 1:6."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-16", "page": 281, "fmt": "truefalse",
+    "sec": "Placental villi development & trophoblastic invasion",
+    "q": "Which of the following statements about trophoblastic invasion of the spiral arteries is TRUE?",
+    "opts": [
+      "Extravillous trophoblast replaces the musculoelastic media of spiral arteries by 20-24 weeks",
+      "Endovascular trophoblast invasion stops at the decidua and never reaches the myometrial segment",
+      "Spiral arteries keep their smooth muscle throughout pregnancy, so intervillous flow stays pulsatile",
+      "Cytotrophoblast plugs persist until the third trimester and only dissolve after 28 weeks"
+    ],
+    "ans": 0,
+    "exp": "The second wave of trophoblast invasion converts spiral arteries into low-resistance flaccid tubes by 20-24 weeks; plugs disappear by 10-12 weeks."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-17", "page": 282, "fmt": "fillup",
+    "sec": "Placental circulation & cotyledon anatomy",
+    "q": "Fill up: The term placenta contains about ______ cotyledons, and each is supplied by a single ______ artery.",
+    "opts": ["15-20; truncal (stem villous)", "15-20; spiral", "100-150; truncal (stem villous)", "100-150; spiral"],
+    "ans": 0,
+    "exp": "There are roughly 15-20 cotyledons, each supplied by one truncal (stem villous) artery arising from the chorionic plate vessels."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-18", "page": 283, "fmt": "scenario",
+    "sec": "Placental respiration & corpus luteum maintenance",
+    "q": "A 29-year-old at 6 weeks of gestation has a corpus luteum removed at laparotomy for a large haemorrhagic cyst. If no hormonal support is given, what is the most likely outcome?",
+    "opts": [
+      "Pregnancy loss, because the luteo-placental shift is not complete until 8-10 weeks",
+      "Normal continuation, because hCG alone maintains the decidua from the fourth week onward",
+      "Normal continuation, because the fetal adrenal axis takes over progesterone synthesis immediately",
+      "Preterm labour at 32 weeks, since progesterone is what suppresses myometrial contractility"
+    ],
+    "ans": 0,
+    "exp": "Before the luteo-placental shift at 8-10 weeks the corpus luteum is the sole source of progesterone, so its removal without support causes loss."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-19", "page": 284, "fmt": "match",
+    "sec": "Placental steroidogenesis & labor onset",
+    "q": "Match the following about placental steroidogenesis — 1) Substrate the placenta takes from the mother 2) Enzyme pair the placenta lacks 3) Principal estrogen of pregnancy … A) 17-alpha-hydroxylase and 17,20-lyase B) Maternal LDL cholesterol C) Estriol",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "The placenta uses maternal LDL cholesterol, lacks 17-alpha-hydroxylase/17,20-lyase, and makes estriol from fetal DHEA-S and 16-alpha-OH-DHEA-S."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-20", "page": 286, "fmt": "truefalse",
+    "sec": "Human placental lactogen & hCG endocrinology",
+    "q": "Which of the following statements about human chorionic gonadotropin is TRUE?",
+    "opts": [
+      "The beta subunit is hCG-specific and is what assays measure; the alpha subunit is shared with TSH, LH and FSH",
+      "Serum hCG keeps rising through the second trimester and peaks only at around 28 weeks",
+      "A doubling time slower than seven days is entirely normal between 4 and 8 weeks of gestation",
+      "hCG first appears in maternal blood only after implantation is complete at about day 14"
+    ],
+    "ans": 0,
+    "exp": "hCG peaks at 8-10 weeks and then falls; the beta subunit is assay-specific, and hCG is detectable from about day 8-9, well before day 14."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-21", "page": 289, "fmt": "oddoneout",
+    "sec": "Placental morphological anomalies & PAS",
+    "q": "All of the following predispose to placenta accreta spectrum EXCEPT:",
+    "opts": ["Grand multiparity without any uterine surgery", "Previous caesarean section with an anterior low-lying placenta", "Placenta previa", "Previous endometrial curettage or Asherman syndrome"],
+    "ans": 0,
+    "exp": "Accreta spectrum needs a deficient decidua from endometrial damage — scar, curettage, previa or myomectomy; parity alone does not scar the myometrium."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-22", "page": 292, "fmt": "scenario",
+    "sec": "Cord insertion anomalies, vasa previa & Apt test",
+    "q": "At 38 weeks, membranes rupture spontaneously and are immediately followed by fresh vaginal bleeding and fetal bradycardia. Vaginal blood is mixed with water; after adding alkali the supernatant stays pink. What is the diagnosis and the immediate step?",
+    "opts": [
+      "Vasa previa with fetal haemorrhage — immediate caesarean section",
+      "Placental abruption with maternal bleeding — stabilise and aim for vaginal delivery",
+      "Bloody show from cervical dilatation — reassure and await spontaneous labour",
+      "Uterine rupture — laparotomy and repair of the uterine scar"
+    ],
+    "ans": 0,
+    "exp": "A positive Apt test (alkali-resistant fetal haemoglobin turning the supernatant pink) means the blood is fetal — vasa previa demands immediate caesarean."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-23", "page": 293, "fmt": "fillup",
+    "sec": "Fetal hematopoiesis & placental separation",
+    "q": "Fill up: Fetal erythropoiesis begins in the ______, and the predominant haemoglobin at term is ______.",
+    "opts": ["yolk sac; HbF (alpha2 gamma2)", "yolk sac; HbA (alpha2 beta2)", "bone marrow; HbA (alpha2 beta2)", "spleen; HbF (alpha2 gamma2)"],
+    "ans": 0,
+    "exp": "The mesoblastic (yolk-sac) phase starts first, and HbF still predominates at term, with HbA rising only after birth."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-24", "page": 295, "fmt": "match",
+    "sec": "Amniotic fluid dynamics & color signatures",
+    "q": "Match the amniotic fluid colour with its usual meaning — 1) Golden yellow 2) Green 3) Port-wine or red-brown … A) Meconium staining B) Rh isoimmunisation with bilirubin C) Old blood, as in abruptio placentae",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Golden fluid means bilirubin from haemolysis, green means meconium, and port-wine or red-brown means old intrauterine bleeding."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-25", "page": 296, "fmt": "scenario",
+    "sec": "Amniotic fluid assessment (AFI & SDP)",
+    "q": "A 34-year-old at 37 weeks has an amniotic fluid index of 4.2 cm with a single deepest vertical pocket of 3.1 cm. How should this scan be reported, and what follows?",
+    "opts": [
+      "Oligohydramnios by AFI, though the deepest pocket is still adequate — look for rupture and monitor",
+      "Normal study, because both the AFI and the deepest vertical pocket are within normal limits",
+      "Polyhydramnios, because the AFI is above the 95th centile for gestational age",
+      "Severe oligohydramnios by both criteria, so immediate caesarean delivery is indicated"
+    ],
+    "ans": 0,
+    "exp": "AFI at or below 5 cm is oligohydramnios, while a deepest pocket of 3.1 cm is still above the 2 cm threshold — the two methods disagree and must both be reported."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-26", "page": 297, "fmt": "oddoneout",
+    "sec": "Polyhydramnios & oligohydramnios etiology",
+    "q": "All of the following are causes of polyhydramnios EXCEPT:",
+    "opts": ["Bilateral renal agenesis", "Oesophageal atresia", "Anencephaly", "Poorly controlled maternal diabetes"],
+    "ans": 0,
+    "exp": "Renal agenesis removes fetal urine output and causes oligohydramnios; obstruction, impaired swallowing and fetal polyuria cause polyhydramnios."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-27", "page": 299, "fmt": "truefalse",
+    "sec": "Fetal monitoring, oligohydramnios & amniotic bands",
+    "q": "Which of the following statements about oligohydramnios is TRUE?",
+    "opts": [
+      "Potter sequence follows prolonged severe oligohydramnios beginning before about 22-24 weeks",
+      "Amniotic band syndrome is caused by oligohydramnios and is prevented by amnioinfusion",
+      "An amniotic fluid index of 8 cm is diagnostic of oligohydramnios in the third trimester",
+      "Isolated oligohydramnios at term is by itself an indication for immediate caesarean delivery"
+    ],
+    "ans": 0,
+    "exp": "Only early, severe, prolonged oligohydramnios causes pulmonary hypoplasia with Potter facies and limb deformities; bands are a separate amnion-rupture problem."
+  },
+  {
+    "op": "add", "unit": "OBG-U1-28", "page": 301, "fmt": "fillup",
+    "sec": "Polyhydramnios management & classic imaging signs",
+    "q": "Fill up: In severe polyhydramnios, amnioreduction removes fluid at about ______ mL per hour, and the drug used to reduce fetal urine output is ______.",
+    "opts": ["500; indomethacin", "500; nifedipine", "1500; indomethacin", "1500; frusemide"],
+    "ans": 0,
+    "exp": "Slow decompression at about 500 mL/hour limits abruption and preterm labour, and indomethacin reduces fetal urine output (with ductal constriction as the caveat)."
+  }
+]

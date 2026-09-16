@@ -1,0 +1,422 @@
+[
+  {
+    "op": "edit", "id": "OBG-C20-053",
+    "opts": [
+      "Placenta previa, a previous caesarean, curettage or myomectomy; the cause is defective decidua with absent Nitabuch's layer",
+      "Multiparity alone, through an excessively thick and vascular decidua basalis",
+      "A twin pregnancy alone, through an unusually thick Nitabuch layer",
+      "Maternal anaemia alone, through a hyperplastic and overactive endometrium"
+    ],
+    "ans": 0,
+    "exp": "Accreta spectrum follows endometrial damage: previa, scar, curettage or myomectomy, with loss of the Nitabuch layer and decidua basalis."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-056",
+    "q": "Types of lock — English lock (most common) : sliding lock.",
+    "opts": [
+      "English: two sockets, with the left blade introduced first — sliding: one socket that lets the blades slide",
+      "English: a single socket — sliding: two sockets with the right blade introduced first",
+      "English: a screw mechanism — sliding: a pivot joint between the two shanks",
+      "English: no lock at all — sliding: a ratchet that locks at fixed intervals"
+    ],
+    "ans": 0,
+    "exp": "The English lock has a socket on each handle and closes only when the left blade goes in first; the sliding lock corrects asynclitism."
+  },
+  {
+    "op": "edit", "id": "OBG-C10-055",
+    "opts": [
+      "Measure the uterocervical length, confirm the uterine position and act as the first dilator",
+      "Evacuate the products of conception by suction through the cervical canal",
+      "Hold and steady the cervix while the suction cannula is introduced",
+      "Test the maternal Rh status before any trophoblastic tissue is aspirated"
+    ],
+    "ans": 0,
+    "exp": "The sound establishes length and axis before instrumentation begins and begins the dilatation; it never aspirates or holds the cervix."
+  },
+  {
+    "op": "edit", "id": "OBG-C23-002",
+    "opts": [
+      "Straight rather than curved, and sited about 3 cm below the line joining the anterior superior iliac spines",
+      "Curved rather than straight, and sited lower down close to the symphysis pubis",
+      "A vertical midline incision carried down from the umbilicus",
+      "A transverse incision placed at the level of the umbilicus"
+    ],
+    "ans": 0,
+    "exp": "Joel-Cohen is a straight, higher transverse incision with blunt dissection; Pfannenstiel is curved and lower with more dissection."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-021",
+    "opts": [
+      "Chorionicity: monochorionic twins fare worse than dichorionic twins in every outcome",
+      "Zygosity alone, since monozygotic twins do badly whatever the placentation",
+      "Fetal sex, since unlike-sex twins have the worst perinatal outcome",
+      "Maternal parity, since a first twin pregnancy carries the poorest outlook"
+    ],
+    "ans": 0,
+    "exp": "Chorionicity determines prognosis because it decides whether the circulations are shared; zygosity and sex do not."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-039",
+    "opts": [
+      "The lateral cutaneous nerve of the thigh, which is the nerve most often injured",
+      "The femoral nerve, compressed against the pelvic brim by the fetal head",
+      "The common peroneal nerve, compressed at the neck of the fibula",
+      "The obturator nerve, stretched by the descending head in the cavity"
+    ],
+    "ans": 0,
+    "exp": "Meralgia paraesthetica is entrapment of the lateral cutaneous nerve of the thigh under the inguinal ligament in labour."
+  },
+  {
+    "op": "edit", "id": "OBG-C11-042",
+    "q": "Match FIGO stage to site in gestational trophoblastic neoplasia: stage 2 and stage 4 correspond to:",
+    "opts": [
+      "Stage 2: disease in the pelvis and vagina — stage 4: brain or liver metastasis",
+      "Stage 2: disease confined to the uterine corpus — stage 4: pulmonary metastasis",
+      "Stage 2: pulmonary metastasis — stage 4: pelvic and vaginal disease",
+      "Stage 2: cerebral metastasis — stage 4: disease still confined to the uterus"
+    ],
+    "ans": 0,
+    "exp": "Stage 1 is confined to the uterus, stage 2 spreads to pelvis and vagina, stage 3 to lung, and stage 4 to brain, liver or kidney."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-009",
+    "opts": [
+      "Placenta previa, abruptio placentae, placenta accreta spectrum and chorioamnionitis",
+      "A succenturiate lobe alone, which does not disturb the third stage",
+      "A velamentous cord insertion alone, which affects only the fetus",
+      "A circumvallate placenta alone, which is a harmless anatomical variant"
+    ],
+    "ans": 0,
+    "exp": "Placental causes of PPH are previa, abruption, morbid adherence and infection; the others are variants that do not themselves provoke bleeding."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-044",
+    "opts": [
+      "Its tocolytic effect appears only at 9-10 mg/dL, the same range as its toxicity",
+      "It causes persistent fetal tachycardia that masks the signs of fetal distress",
+      "It has no effect at all on the myometrium at any dose that can be given",
+      "It paradoxically induces labour by increasing local prostaglandin release"
+    ],
+    "ans": 0,
+    "exp": "Magnesium relaxes myometrium only at levels that are already toxic, so it is used for neuroprotection rather than tocolysis."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-033",
+    "opts": [
+      "Previous caesarean, uterine surgery or curettage, and smoking with endometritis",
+      "Polyhydramnios, which stretches the uterus and thins the decidua",
+      "Folic acid deficiency, which impairs the development of the decidua",
+      "Primigravidity, since a first pregnancy leaves behind the most adhesions"
+    ],
+    "ans": 0,
+    "exp": "Anything that scars or inflames the endometrium prevents the placenta from migrating away from the lower segment."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-058",
+    "opts": [
+      "Her clothes are soaked and she reports a sudden gush followed by continued leaking",
+      "Painless bright-red bleeding with a soft and non-tender uterus",
+      "Fever with a rigid tender uterus and offensive-smelling lochia",
+      "Reduced fetal movements alone, without any loss of fluid or bleeding"
+    ],
+    "ans": 0,
+    "exp": "Rupture of membranes presents as a sudden gush with continuing leak; bleeding suggests abruption or previa, and fever suggests infection."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-019",
+    "opts": [
+      "Within 3 hours; 1 g in 100 mL of normal saline given intravenously over 20 minutes",
+      "Within 24 hours; 500 mg given by intramuscular injection",
+      "Within 1 hour; 2 g given as a rapid intravenous bolus",
+      "At any time after the bleed; 1 g given orally as a single dose"
+    ],
+    "ans": 0,
+    "exp": "Tranexamic acid 1 g in 100 mL saline over 20 minutes must be given within three hours; faster administration causes hypotension."
+  },
+  {
+    "op": "edit", "id": "OBG-C3-055",
+    "opts": [
+      "Congenital heart disease, with a fetal echocardiogram at 22-24 weeks",
+      "Duodenal atresia, with serial scans looking for the double bubble",
+      "Polycystic kidney disease, with detailed imaging of the renal tract",
+      "Unilateral clubfoot, with careful limb views at every subsequent visit"
+    ],
+    "ans": 0,
+    "exp": "A thickened nuchal translucency with a normal karyotype is an established indication for specialist fetal cardiac assessment."
+  },
+  {
+    "op": "edit", "id": "OBG-C8-122",
+    "opts": [
+      "Only a ventricular septal defect, which is commoner with HELLP syndrome",
+      "Only thyroid storm, which complicates severe pre-eclampsia",
+      "Only hypertension, which is the hallmark of AFLP rather than HELLP",
+      "Pancreatitis, transient diabetes insipidus and renal failure"
+    ],
+    "ans": 3,
+    "exp": "Pancreatitis, transient diabetes insipidus and renal failure point to acute fatty liver; hypertension and proteinuria point to HELLP."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-034",
+    "opts": [
+      "Monoamniotic twins; parapagus, thoracophagus, rachiphagus and craniophagus",
+      "Dichorionic twins, in whom only cephalopagus has ever been described",
+      "Monochorionic diamniotic twins, in whom only ischiopagus is described",
+      "Dizygotic twins, in whom only parapagus joining has been recorded"
+    ],
+    "ans": 0,
+    "exp": "Conjoined twins follow splitting after day 13, so they are monoamniotic and monochorionic; the types are named for the shared part."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-032",
+    "opts": [
+      "The head stuck in the occipito-transverse position at the spines despite adequate contractions, usually with an android pelvis",
+      "The head arrested at the pelvic brim in the occipito-posterior position",
+      "The head arrested at the outlet in the occipito-anterior position",
+      "A face presentation arrested in the persistent mento-posterior position"
+    ],
+    "ans": 0,
+    "exp": "Deep transverse arrest is failure of internal rotation from the transverse position at the level of the ischial spines."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-034",
+    "opts": [
+      "Long forceps with pelvic, cephalic and perineal curves, used for the after-coming head",
+      "Short outlet forceps used for a head already on the pelvic floor",
+      "Rotational forceps with a sliding lock for a transverse head",
+      "Solid-blade forceps designed for a preterm after-coming head"
+    ],
+    "ans": 0,
+    "exp": "Piper's forceps are long, with a perineal curve, and are applied to the after-coming head while an assistant holds the body up."
+  },
+  {
+    "op": "edit", "id": "OBG-C4-046",
+    "opts": [
+      "Fetal head compression, raising intracranial pressure and causing vagal stimulation",
+      "Umbilical vein compression, which reduces venous return to the fetal heart",
+      "Uteroplacental insufficiency, which reduces gas exchange at the villi",
+      "Placental abruption, which separates the placental bed from the uterus"
+    ],
+    "ans": 0,
+    "exp": "Early decelerations mirror contractions and are benign; late decelerations come from uteroplacental insufficiency and variable ones from cord compression."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-041",
+    "opts": [
+      "The common peroneal nerve, from prolonged squatting or pressure in the leg supports",
+      "The tibial nerve, injured by prolonged positioning in lithotomy",
+      "The sciatic nerve, injured by the epidural needle during analgesia",
+      "The femoral nerve, compressed by the forceps blades at delivery"
+    ],
+    "ans": 0,
+    "exp": "Foot drop follows compression of the common peroneal nerve at the fibular neck, classically from squatting or leg supports."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-089",
+    "opts": [
+      "Water intoxication with hyponatraemia when diluted in dextrose, and hypotension if the rate is too fast",
+      "Hypertension with hyperkalaemia from a rapid infusion of the drug",
+      "Reflex bradycardia with hyperglycaemia from the accompanying dextrose load",
+      "High fever with rigors and hypernatraemia from sodium retention"
+    ],
+    "ans": 0,
+    "exp": "Oxytocin has an antidiuretic effect, so large volumes of 5% dextrose cause hyponatraemia; too rapid a rate causes vasodilatation and hypotension."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-041",
+    "opts": [
+      "Monochorionic worse than dichorionic, and monozygotic worse than dizygotic, apart from cumulative chromosomal risk",
+      "Dichorionic twins do worse than monochorionic twins in every respect",
+      "Dizygotic twins always do worse than monozygotic twins",
+      "All types carry exactly the same risk of fetal complications"
+    ],
+    "ans": 0,
+    "exp": "Shared circulation drives risk, so monochorionic and monozygotic twins do worse; dizygotic twins carry two independent chromosomal risks instead."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-101",
+    "opts": [
+      "Uterotonic within one minute, delayed cord clamping, controlled cord traction, then intermittent assessment of uterine tone",
+      "Cord traction first, then the uterotonic, then clamping, then uterine massage",
+      "Early cord clamping, then the uterotonic, then traction, then assessment of tone",
+      "Uterine massage first, then the uterotonic, then traction, then late clamping"
+    ],
+    "ans": 0,
+    "exp": "The four steps run: uterotonic, delayed clamping, controlled cord traction with counter-pressure, then regular assessment of the uterus."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-045",
+    "opts": [
+      "Outpatient, no anaesthesia, terbutaline 0.25 mg subcutaneously, anti-D if Rh-negative, continuous monitoring",
+      "An inpatient procedure under general anaesthesia with no tocolysis, followed by induction",
+      "In theatre under spinal anaesthesia with nifedipine, always followed by induction",
+      "An outpatient procedure under epidural analgesia with no fetal monitoring"
+    ],
+    "ans": 0,
+    "exp": "Version is done as an outpatient with tocolysis, anti-D cover and continuous monitoring, and without routine anaesthesia or induction."
+  },
+  {
+    "op": "edit", "id": "OBG-C2-108",
+    "opts": [
+      "The gestational sac, a symmetrical fluid collection with an echogenic rim",
+      "The secondary yolk sac, which appears before the gestational sac",
+      "The embryonic fetal pole, seen as soon as the sac becomes visible",
+      "The amniotic membrane, which separates first and outlines the sac"
+    ],
+    "ans": 0,
+    "exp": "At 4.5-5 weeks the gestational sac is the first structure seen; the yolk sac follows at about 5 weeks and the embryo later."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-032",
+    "opts": [
+      "The placental site, after caesarean section, chorioamnionitis or prolonged rupture of membranes",
+      "The cervix, particularly after an operative vaginal delivery at term",
+      "The uterine fundus, after a short and uncomplicated labour",
+      "The cornua, which are the most exposed areas in a twin pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Infection begins at the raw placental site; caesarean, chorioamnionitis and prolonged rupture are the principal risk factors."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-025",
+    "opts": [
+      "Tetanic contractions, so it cannot be used before delivery; 0.2 mg intramuscularly, repeated in 2-4 hours",
+      "Physiological contractions; 0.5 mg intravenously, stored in clear glass vials",
+      "Tetanic contractions; 1 mg orally six-hourly, and requiring refrigeration",
+      "Uterine relaxation; 0.2 mg subcutaneously as a single dose"
+    ],
+    "ans": 0,
+    "exp": "Methylergometrine 0.2 mg intramuscularly gives a sustained tetanic contraction; it is avoided before delivery and given slowly, if at all, intravenously."
+  },
+  {
+    "op": "edit", "id": "OBG-C11-063",
+    "opts": [
+      "Placental alkaline phosphatase and human placental lactogen",
+      "Beta-hCG and alpha-fetoprotein, both markedly elevated",
+      "CA-125 and inhibin, which closely track the tumour burden",
+      "Lactate dehydrogenase and calcitonin, which rise with metastases"
+    ],
+    "ans": 0,
+    "exp": "Placental site trophoblastic tumour secretes placental alkaline phosphatase and human placental lactogen, with relatively little hCG."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-026",
+    "opts": [
+      "About 10% at the onset of labour falling to about 2% as most rotate; malposition is commoner in nulliparous women",
+      "About 2% at the onset rising to about 10%, and commoner in multiparous women throughout",
+      "About 25% at the onset falling to about 5%, and commoner in nulliparous women throughout",
+      "About 10% throughout labour, with no association with parity at all"
+    ],
+    "ans": 0,
+    "exp": "Most occipito-posterior heads rotate spontaneously, so the incidence falls from about 10% to about 2%; the malposition is commoner in nulliparas."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-069",
+    "opts": [
+      "Stage 1: the donor bladder is still visible — stage 2: it is not visible, and Doppler is normal in both",
+      "Stage 1: the Doppler is already abnormal — stage 2: the Doppler becomes normal again",
+      "Stage 2: hydrops fetalis is already present in the recipient twin",
+      "Stage 2: one or both twins have already died in utero"
+    ],
+    "ans": 0,
+    "exp": "Quintero stage 1 still shows a donor bladder; stage 2 loses it, while abnormal Doppler belongs to stage 3 and hydrops to stage 4."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-042",
+    "opts": [
+      "About 85 per cent of cases, which is why it is attempted before hysterectomy",
+      "About 50 per cent of cases, so it is rarely worth attempting at all",
+      "About 99 per cent of cases, which makes hysterectomy almost unnecessary",
+      "About 30 per cent of cases, and only when performed before any drug"
+    ],
+    "ans": 0,
+    "exp": "Bilateral uterine artery ligation controls bleeding in roughly 85 per cent of cases and preserves fertility, so it precedes hysterectomy."
+  },
+  {
+    "op": "edit", "id": "OBG-C23-007",
+    "opts": [
+      "Repeat caesarean at 36-37 weeks, since contractions become prominent after 37 weeks and raise the rupture risk",
+      "A trial of labour aiming for a vaginal birth at 40 completed weeks",
+      "A repeat classical section performed at 39 completed weeks",
+      "Induction of labour at 38 weeks using prostaglandins"
+    ],
+    "ans": 0,
+    "exp": "A classical scar ruptures silently and catastrophically, so delivery is planned at 36-37 weeks before strong contractions begin."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-100",
+    "opts": [
+      "Shortens the third stage, reduces blood loss and prevents PPH, but slightly raises the chance of retained placenta",
+      "Lengthens the third stage but reduces PPH; the drawback is uterine inversion",
+      "Reduces blood loss only, with neonatal anaemia as its drawback",
+      "Prevents retained placenta entirely, but at the cost of more PPH"
+    ],
+    "ans": 0,
+    "exp": "Active management shortens and de-bloods the third stage, at the price of a small increase in retained placenta from early uterotonics."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-065",
+    "opts": [
+      "Huntington's: abdominal traction on the round ligaments — Haultain's: incising the constriction ring — outdated: O'Sullivan and Spinelli",
+      "Huntington's: vaginal repair — Haultain's: hydrostatic reduction — outdated: abdominal traction",
+      "Huntington's: incising the constriction ring — Haultain's: traction — outdated: embolisation",
+      "Huntington's: hydrostatic reduction — Haultain's: the Spinelli repair — outdated: abdominal traction"
+    ],
+    "ans": 0,
+    "exp": "Huntington's pulls the fundus up with traction on the round ligaments; Haultain's incises the constriction ring from behind; the hydrostatic and Spinelli methods are historical."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-119",
+    "opts": [
+      "Intractable PPH with no plane of cleavage, sometimes with haematuria from bladder invasion",
+      "Painless bright-red bleeding at 32 weeks with a soft non-tender uterus",
+      "A snowstorm ultrasound appearance with bilateral theca lutein cysts",
+      "Fetal distress with a rigid tender uterus and concealed bleeding"
+    ],
+    "ans": 0,
+    "exp": "Postnatally detected accreta presents as a placenta that cannot be separated, with torrential bleeding and sometimes haematuria."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-054",
+    "opts": [
+      "Handle, finger guard, lock, shank, heel and a fenestrated blade with pelvic and cephalic curves",
+      "Cup, chain, handle and hand pump for generating negative pressure",
+      "Blade, ratchet, teeth and serrations for gripping the fetal head firmly",
+      "Handle, spring and hook for applying traction to the fetal scalp"
+    ],
+    "ans": 0,
+    "exp": "Each blade has a handle with finger guard, a lock, a shank, a heel and a fenestrated blade with pelvic and cephalic curves."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-021",
+    "opts": [
+      "First-line drug recommended by WHO; 20-40 IU by infusion; avoid a bolus and avoid dextrose",
+      "Second-line drug; 10 IU by intravenous bolus, diluted in dextrose",
+      "Third-line drug; 5 IU intramuscularly, diluted in whatever fluid is to hand",
+      "Not used in postpartum haemorrhage because of the risk of water intoxication"
+    ],
+    "ans": 0,
+    "exp": "Oxytocin is the WHO first-line uterotonic, given as 20-40 IU by infusion; boluses cause hypotension and dextrose causes hyponatraemia."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-045",
+    "opts": [
+      "Forceps require every prerequisite; vacuum may be used from 6 cm dilatation with an unrotated head",
+      "Vacuum requires every prerequisite; forceps may be used from 6 cm dilatation",
+      "Both instruments require full cervical dilatation before they can be applied",
+      "Forceps may be applied to an unengaged head, but the vacuum may never be"
+    ],
+    "ans": 0,
+    "exp": "Vacuum extraction is more forgiving: it can be used before full dilatation and does not require the head to be rotated."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-046",
+    "opts": [
+      "Stop at once, turn the baby back to its original position, and proceed to caesarean section",
+      "Continue the version quickly so that the procedure can be completed",
+      "Give oxytocin and deliver the baby vaginally as soon as possible",
+      "Wait thirty minutes for the trace to recover and then try again"
+    ],
+    "ans": 0,
+    "exp": "Fetal distress during version means abandoning the procedure, reverting the presentation, and delivering by caesarean section."
+  }
+]

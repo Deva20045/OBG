@@ -1,0 +1,165 @@
+[
+  {
+    "op": "add", "unit": "OBG-U7-1", "page": 390, "fmt": "fillup",
+    "sec": "PIH definition & postpartum course",
+    "q": "Fill up: Gestational hypertension is a blood pressure of ______ mmHg or more recorded after 20 weeks in a woman without proteinuria.",
+    "opts": ["140/90", "160/110", "130/80", "150/100"],
+    "ans": 0,
+    "exp": "Gestational hypertension is new hypertension after 20 weeks without proteinuria, and it must resolve by 12 weeks postpartum to keep the label."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-2", "page": 391, "fmt": "match",
+    "sec": "Pre-eclampsia, end-organ damage & superimposed pre-eclampsia",
+    "q": "Match the hypertensive disorder with its definition — 1) Pre-eclampsia 2) Superimposed pre-eclampsia 3) Gestational hypertension … A) New proteinuria, hypertension or end-organ dysfunction after 20 weeks B) Chronic hypertension with new proteinuria or a sudden worsening of control C) Hypertension after 20 weeks without proteinuria that settles by 12 weeks postpartum",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Pre-eclampsia is new-onset hypertension with proteinuria or end-organ involvement; superimposed disease is a change in a woman who was already hypertensive."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-3", "page": 392, "fmt": "oddoneout",
+    "sec": "Mild pre-eclampsia & impending eclampsia",
+    "q": "All of the following suggest impending eclampsia EXCEPT:",
+    "opts": [
+      "Polyuria with a urine output above 200 mL per hour",
+      "Persistent frontal headache that does not respond to simple analgesia",
+      "Blurring of vision, scotomata or photophobia",
+      "Vomiting with severe epigastric or right upper quadrant pain"
+    ],
+    "ans": 0,
+    "exp": "Oliguria, not polyuria, accompanies severe disease; headache, visual disturbance and epigastric pain are the classic warning symptoms."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-4", "page": 392, "fmt": "fillup",
+    "sec": "PIH admission & atypical eclampsia",
+    "q": "Fill up: Eclampsia is called atypical when convulsions occur before ______ weeks of gestation or more than ______ after delivery.",
+    "opts": ["20; 48 hours", "28; 24 hours", "20; 24 hours", "34; seven days"],
+    "ans": 0,
+    "exp": "Eclampsia before 20 weeks or beyond 48 hours postpartum is atypical and should prompt a search for another cause such as a cerebral lesion."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-5", "page": 393, "fmt": "truefalse",
+    "sec": "PRES & gestational hypertension",
+    "q": "Which of the following statements about posterior reversible encephalopathy syndrome in pre-eclampsia is TRUE?",
+    "opts": [
+      "PRES causes headache, visual loss and seizures with occipital vasogenic oedema on MRI, and is managed by blood pressure control and seizure control",
+      "PRES is a haemorrhagic stroke that needs immediate neurosurgical decompression",
+      "PRES occurs only in eclampsia and is never seen in non-obstetric patients",
+      "PRES is treated with thrombolysis if the patient presents within the therapeutic window"
+    ],
+    "ans": 0,
+    "exp": "PRES is vasogenic rather than haemorrhagic, is reversible with control of pressure and seizures, and also occurs with immunosuppressants and renal disease."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-6", "page": 394, "fmt": "fillup",
+    "sec": "Normal placentation & PIH pathophysiology",
+    "q": "Fill up: Trophoblast normally converts spiral arteries into ______ vessels, and in pre-eclampsia this conversion fails to reach the ______ segment.",
+    "opts": ["low-resistance; myometrial", "high-resistance; decidual", "low-resistance; decidual", "high-resistance; myometrial"],
+    "ans": 0,
+    "exp": "Failed remodelling of the myometrial segment leaves high-resistance vessels, so the placenta is under-perfused and releases anti-angiogenic factors."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-7", "page": 395, "fmt": "match",
+    "sec": "Placental ischemia & PIH mediators",
+    "q": "Match the mediator with its role in pre-eclampsia — 1) Excess soluble fms-like tyrosine kinase-1 2) Placental growth factor 3) Endothelin-1 … A) Falls in pre-eclampsia and forms the denominator of the sFlt-1/PlGF ratio B) Antagonises VEGF and PlGF, producing endothelial dysfunction and proteinuria C) A powerful vasoconstrictor released from damaged endothelium",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "sFlt-1 excess neutralises VEGF and PlGF, PlGF falls and endothelin rises, producing vasoconstriction, capillary leak and proteinuria."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-8", "page": 396, "fmt": "oddoneout",
+    "sec": "PIH clinical expression & severe features",
+    "q": "All of the following are features of severe pre-eclampsia EXCEPT:",
+    "opts": [
+      "Haemoconcentration with a rising platelet count",
+      "Systolic blood pressure of 160 mmHg or more on two occasions",
+      "Proteinuria of 5 g or more in 24 hours",
+      "Oliguria with a serum creatinine above 1.2 mg/dL"
+    ],
+    "ans": 0,
+    "exp": "Thrombocytopenia and haemoconcentration go together; a rising platelet count is not a feature of severe disease."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-9", "page": 396, "fmt": "truefalse",
+    "sec": "PIH treatment principle & cerebrovascular pathology",
+    "q": "Which of the following statements about death from severe pre-eclampsia or eclampsia is TRUE?",
+    "opts": [
+      "Intracerebral haemorrhage is the commonest cause of death, which is why severe hypertension must be treated",
+      "Disseminated intravascular coagulation is the commonest cause of death in eclampsia",
+      "Pulmonary embolism is the leading cause of maternal death in pre-eclampsia",
+      "Acute fatty liver is the usual terminal event, with profound hypoglycaemia"
+    ],
+    "ans": 0,
+    "exp": "Cerebral haemorrhage from uncontrolled hypertension kills most women with fatal eclampsia; treating severe pressure prevents it."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-10", "page": 397, "fmt": "oddoneout",
+    "sec": "PIH risk factors",
+    "q": "All of the following are risk factors for pre-eclampsia EXCEPT:",
+    "opts": [
+      "Multiparity with a previous uncomplicated term delivery",
+      "First pregnancy or a new partner",
+      "Pre-existing hypertension, diabetes or renal disease",
+      "Family history of pre-eclampsia in the mother or a sister"
+    ],
+    "ans": 0,
+    "exp": "Previous uncomplicated pregnancy protects against pre-eclampsia; primipaternity, a new partner, medical disease and family history all raise risk."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-11", "page": 398, "fmt": "fillup",
+    "sec": "PIH prevention & aspirin prophylaxis",
+    "q": "Fill up: Low-dose aspirin prophylaxis is given as ______ mg daily, ideally started before ______ weeks of gestation.",
+    "opts": ["75-150; 16", "325; 20", "75-150; 28", "650; 12"],
+    "ans": 0,
+    "exp": "Aspirin 75-150 mg at night started before 16 weeks and continued to delivery reduces pre-eclampsia in women at moderate or high risk."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-12", "page": 398, "fmt": "truefalse",
+    "sec": "PIH predictors & uterine-artery Doppler",
+    "q": "Which of the following statements about uterine artery Doppler is TRUE?",
+    "opts": [
+      "Persistent early diastolic notching with a high pulsatility index at 22-24 weeks predicts pre-eclampsia and growth restriction",
+      "A diastolic notch is normal up to 34 weeks and carries no predictive value",
+      "Uterine artery Doppler is a diagnostic test that confirms the presence of pre-eclampsia",
+      "A low-resistance waveform with absent notching after 24 weeks indicates placental insufficiency"
+    ],
+    "ans": 0,
+    "exp": "Abnormal uterine artery waveform at the anomaly scan is a predictor rather than a diagnosis, and normal pregnancy loses the notch after 24 weeks."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-13", "page": 399, "fmt": "scenario",
+    "sec": "PIH evaluation & delivery timing",
+    "q": "A 32-year-old at 34 weeks with severe pre-eclampsia has a blood pressure of 170/115 mmHg, 3+ proteinuria, persistent headache, platelets of 110,000 and a normal CTG. Magnesium sulfate has been started. What is the plan?",
+    "opts": [
+      "Control the blood pressure, give antenatal corticosteroids, and deliver once she is stabilised",
+      "Expectant management until 37 weeks whatever the severity of the disease",
+      "Immediate caesarean section before steroids or blood pressure control",
+      "Discharge her on oral nifedipine and review her as an outpatient in one week"
+    ],
+    "ans": 0,
+    "exp": "Severe pre-eclampsia at 34 weeks means stabilise, give steroids, then deliver rather than either emergency intervention or prolonged expectancy."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-14", "page": 400, "fmt": "fillup",
+    "sec": "Fetal monitoring & umbilical artery Doppler",
+    "q": "Fill up: In fetal growth restriction, umbilical artery Doppler is the surveillance test of choice, while Doppler of the ______ detects the brain-sparing response.",
+    "opts": ["middle cerebral artery", "uterine artery", "renal artery", "descending aorta"],
+    "ans": 0,
+    "exp": "Umbilical artery Doppler guides timing in growth restriction, and a reduced middle cerebral artery pulsatility index shows redistribution to the brain."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-15", "page": 401, "fmt": "match",
+    "sec": "Mild PE management vs severe PE management",
+    "q": "Match the presentation with its management — 1) Mild pre-eclampsia at term 2) Severe pre-eclampsia before 34 weeks 3) Severe pre-eclampsia after 34 weeks … A) Delivery after stabilisation, usually within 24-48 hours B) Expectant management with steroids and magnesium in a tertiary centre C) Induction of labour and delivery, since the baby is already mature",
+    "opts": ["1-C, 2-B, 3-A", "1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-A, 3-B"],
+    "ans": 0,
+    "exp": "Mild disease at term is delivered; severe disease before 34 weeks may be deferred only with intensive monitoring at a tertiary centre."
+  },
+  {
+    "op": "add", "unit": "OBG-U7-16", "page": 401, "fmt": "fillup",
+    "sec": "Severe PE & eclampsia: magnesium sulfate regimen",
+    "q": "Fill up: In the Pritchard regimen the loading dose is ______ g of magnesium sulfate intravenously plus ______ g intramuscularly.",
+    "opts": ["4; 10", "2; 5", "4; 5", "2; 10"],
+    "ans": 0,
+    "exp": "Pritchard loading is 4 g intravenously and 10 g intramuscularly (5 g into each buttock), followed by 5 g intramuscularly four-hourly."
+  }
+]

@@ -187,20 +187,35 @@
   },
   {
    "id": "OBG-C11-014",
+   "sec": "Molar evacuation, follow-up & contraception",
+   "page": 442,
+   "q": "Fill up: After evacuation of a hydatidiform mole, beta-hCG is measured ______ until it is normal for three consecutive readings, and then ______ for the rest of follow-up.",
+   "opts": [
+    "weekly; monthly",
+    "monthly; weekly",
+    "weekly; every two weeks",
+    "monthly; every six months"
+   ],
+   "ans": 0,
+   "exp": "Weekly hCG until three consecutive normal values, then monthly for at least six months, reliably detects progression to neoplasia. (Book p442)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C11-015",
    "sec": "Partial vs complete mole",
    "page": 443,
    "q": "Fill up: Partial mole arises from ______, whereas complete mole arises from ______.",
    "opts": [
-    "1 ovum + 2 sperms; an empty ovum with zygotic chromosome duplication",
-    "1 ovum + 1 sperm; 2 ova + 1 sperm",
-    "2 ova + 2 sperms; 1 ovum + 1 sperm",
-    "1 ovum + 1 sperm only in both"
+    "1 ovum with 2 sperms; an empty ovum with zygotic chromosome duplication",
+    "1 ovum with 1 sperm; 2 ova each fertilized by 1 sperm",
+    "2 ova with 2 sperms; 1 ovum fertilized by a single sperm",
+    "1 ovum with 1 sperm, in both partial and complete mole"
    ],
    "ans": 0,
-   "exp": "Partial mole = 1 ovum + 2 sperms; complete mole = empty ovum (no maternal genes) with chromosome duplication. (Book p443)"
+   "exp": "Partial mole arises from 1 ovum fertilized by 2 sperms, whereas complete mole arises from an empty ovum with duplication of the zygotic chromosomes. (Book p443)"
   },
   {
-   "id": "OBG-C11-015",
+   "id": "OBG-C11-016",
    "sec": "Partial vs complete mole",
    "page": 443,
    "q": "Which karyotypes characterise a partial mole?",
@@ -214,7 +229,7 @@
    "exp": "Partial mole is triploid: 69XXY (most common) or 69XXX. (Book p443)"
   },
   {
-   "id": "OBG-C11-016",
+   "id": "OBG-C11-017",
    "sec": "Partial vs complete mole",
    "page": 443,
    "q": "Match: partial mole vs complete mole for sperm number and maternal genes.",
@@ -228,7 +243,7 @@
    "exp": "Partial mole is dispermic with maternal genes present; complete mole is monospermic with maternal genes absent. (Book p443)"
   },
   {
-   "id": "OBG-C11-017",
+   "id": "OBG-C11-018",
    "sec": "Partial vs complete mole",
    "page": 443,
    "q": "p57 KIP2 staining (a marker of maternal genes) is expected to be:",
@@ -242,7 +257,7 @@
    "exp": "Maternal genes are present in partial mole (p57 KIP2 +) and absent in complete mole (−). (Book p443)"
   },
   {
-   "id": "OBG-C11-018",
+   "id": "OBG-C11-019",
    "sec": "Partial vs complete mole",
    "page": 443,
    "q": "Compare symptom burden and uterine height in partial vs complete mole.",
@@ -256,7 +271,7 @@
    "exp": "Partial mole: symptoms less common and height < POG; complete mole: symptoms more common and height > POG. (Book p443)"
   },
   {
-   "id": "OBG-C11-019",
+   "id": "OBG-C11-020",
    "sec": "Partial vs complete mole",
    "page": 443,
    "q": "Which ultrasound picture belongs to a partial mole?",
@@ -270,7 +285,7 @@
    "exp": "Partial mole shows placental cystic spaces, fetal tissue (+), reduced fluid and a transverse > AP sac, resembling missed abortion. (Book p443)"
   },
   {
-   "id": "OBG-C11-020",
+   "id": "OBG-C11-021",
    "sec": "Partial vs complete mole",
    "page": 443,
    "q": "A 'snowstorm' uterus with no fetal tissue, absent amniotic fluid and bilateral theca lutein cysts indicates:",
@@ -284,21 +299,21 @@
    "exp": "Those features define the complete/vesicular mole on USG. (Book p443)"
   },
   {
-   "id": "OBG-C11-021",
+   "id": "OBG-C11-022",
    "sec": "Partial vs complete mole",
    "page": 443,
    "q": "On HPE (gold standard), which feature separates partial from complete mole?",
    "opts": [
-    "Vascular villi with less hydropic change in partial; avascular villi with extensive hydropic degeneration in complete",
-    "Avascular villi in partial; vascular villi in complete",
-    "Villi absent in both",
-    "Fetal tissue absent in partial mole"
+    "Vascular villi with less hydropic change in partial; avascular villi with extensive change in complete",
+    "Avascular villi in the partial mole; vascular villi in the complete mole",
+    "Villi are absent in both partial and complete molar pregnancies",
+    "Fetal tissue is absent in the partial mole but present in the complete mole"
    ],
    "ans": 0,
-   "exp": "Partial mole keeps some fetal tissue and vascular villi with less hydropic change; complete mole has avascular villi and extensive hydropic degeneration. (Book p443)"
+   "exp": "On HPE, the gold standard, partial mole shows vascular villi with less hydropic change, while complete mole shows avascular villi with extensive hydropic degeneration. (Book p443)"
   },
   {
-   "id": "OBG-C11-022",
+   "id": "OBG-C11-023",
    "sec": "Partial vs complete mole",
    "page": 443,
    "q": "What is the risk of subsequent gestational trophoblastic neoplasia after partial vs complete mole?",
@@ -312,7 +327,7 @@
    "exp": "Subsequent GTN risk is 1% after partial mole and 15–20% after complete mole. (Book p443)"
   },
   {
-   "id": "OBG-C11-023",
+   "id": "OBG-C11-024",
    "sec": "Partial vs complete mole",
    "page": 443,
    "q": "The risk of choriocarcinoma after a complete mole is quoted as:",
@@ -326,7 +341,7 @@
    "exp": "Choriocarcinoma risk is <1% after partial mole and 4% after complete mole. (Book p443)"
   },
   {
-   "id": "OBG-C11-024",
+   "id": "OBG-C11-025",
    "sec": "Partial vs complete mole",
    "page": 443,
    "q": "How long does hCG take to return to normal after partial vs complete mole, and what levels are typical before treatment?",
@@ -340,7 +355,22 @@
    "exp": "hCG normalises by 6 weeks (partial) vs 7 weeks (complete); pre-treatment levels are <10^5 IU/L vs ≥10^5 IU/L. (Book p443)"
   },
   {
-   "id": "OBG-C11-025",
+   "id": "OBG-C11-026",
+   "sec": "Partial vs complete mole",
+   "page": 443,
+   "q": "Match the trophoblastic entity with its description — 1) Complete mole 2) Partial mole 3) Invasive mole … A) Triploid, usually 69 XXX or 69 XXY, with focal villous swelling and some fetal tissue B) Androgenetic 46 XX with diffuse villous swelling, trophoblastic hyperplasia and no fetus C) Molar villi that invade the myometrium after evacuation and may perforate the uterus",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Complete moles are diploid and androgenetic with no fetus; partial moles are triploid with a fetus; invasive moles penetrate the myometrium. (Book p443)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C11-027",
    "sec": "GTN: causes & clinical features",
    "page": 444,
    "q": "Which antecedent pregnancies can be followed by choriocarcinoma according to the causes table?",
@@ -354,7 +384,7 @@
    "exp": "Choriocarcinoma (+) follows molar, full term, ectopic and abortion pregnancies. (Book p444)"
   },
   {
-   "id": "OBG-C11-026",
+   "id": "OBG-C11-028",
    "sec": "GTN: causes & clinical features",
    "page": 444,
    "q": "Invasive mole arises only after which pregnancy?",
@@ -368,21 +398,21 @@
    "exp": "Invasive mole is (+) only after molar pregnancy and (−) after the others. (Book p444)"
   },
   {
-   "id": "OBG-C11-027",
+   "id": "OBG-C11-029",
    "sec": "GTN: causes & clinical features",
    "page": 444,
    "q": "PSTT is uniquely listed as possible after which antecedent pregnancy but NOT after ectopic or abortion?",
    "opts": [
-    "Full term pregnancy (and molar in the m/c row is negative for PSTT)",
-    "Ectopic pregnancy",
-    "Abortion only",
-    "None of the above"
+    "A term delivery: it is not listed after an ectopic pregnancy or after an abortion",
+    "An ectopic pregnancy, which is the antecedent unique to placental site trophoblastic tumour",
+    "An abortion, which is the usual antecedent for placental site trophoblastic tumour",
+    "None of these, since placental site trophoblastic tumour has no antecedent pregnancy"
    ],
    "ans": 0,
-   "exp": "The table marks PSTT (−) for molar, (+) for full term, (−) for ectopic and (−) for abortion. (Book p444)"
+   "exp": "Placental site trophoblastic tumour characteristically follows a term pregnancy, with a long latency and only modest hCG secretion. (Book p444)"
   },
   {
-   "id": "OBG-C11-028",
+   "id": "OBG-C11-030",
    "sec": "GTN: causes & clinical features",
    "page": 444,
    "q": "Fill up: After a molar pregnancy the m/c GTN is ______, while after a full term pregnancy the m/c GTN is ______.",
@@ -396,7 +426,7 @@
    "exp": "Molar pregnancy → m/c GTN invasive mole; full term pregnancy → m/c GTN choriocarcinoma. (Book p444)"
   },
   {
-   "id": "OBG-C11-029",
+   "id": "OBG-C11-031",
    "sec": "GTN: causes & clinical features",
    "page": 444,
    "q": "What is the m/c cause of choriocarcinoma?",
@@ -410,7 +440,7 @@
    "exp": "Molar pregnancy is the m/c cause of choriocarcinoma. (Book p444)"
   },
   {
-   "id": "OBG-C11-030",
+   "id": "OBG-C11-032",
    "sec": "GTN: causes & clinical features",
    "page": 444,
    "q": "Which of the following is NOT among the listed signs/symptoms of GTN after hydatidiform mole?",
@@ -424,7 +454,7 @@
    "exp": "Listed features are persistent bleeding, persistent theca lutein cyst, subinvolution, shock due to invasive mole and metastasis. (Book p444)"
   },
   {
-   "id": "OBG-C11-031",
+   "id": "OBG-C11-033",
    "sec": "GTN: causes & clinical features",
    "page": 444,
    "q": "A plateau of β-hCG over 4 consecutive weekly values (D1, 7, 14, 21) within ±10% suggests:",
@@ -438,7 +468,7 @@
    "exp": "A β-hCG plateau for 4 consecutive weeks (±10% of previous value) is suggestive of invasive mole. (Book p444)"
   },
   {
-   "id": "OBG-C11-032",
+   "id": "OBG-C11-034",
    "sec": "GTN: causes & clinical features",
    "page": 444,
    "q": "A rise in β-hCG of ≥10% over previous values across 3 weeks (D1, 7, 14) suggests:",
@@ -452,7 +482,7 @@
    "exp": "An increase ≥10% over 3 weekly values is suggestive of choriocarcinoma. (Book p444)"
   },
   {
-   "id": "OBG-C11-033",
+   "id": "OBG-C11-035",
    "sec": "GTN: causes & clinical features",
    "page": 444,
    "q": "Under the OLD criteria, persisting β-hCG beyond how long after evacuation labelled the case as GTN?",
@@ -466,7 +496,7 @@
    "exp": "β-hCG present after 6 months of evacuation was the old criterion. (Book p444)"
   },
   {
-   "id": "OBG-C11-034",
+   "id": "OBG-C11-036",
    "sec": "GTN: causes & clinical features",
    "page": 444,
    "q": "What happens to the theca lutein cysts after suction evacuation of a mole?",
@@ -480,7 +510,7 @@
    "exp": "Theca lutein cysts regress spontaneously in about 2 months after evacuation. (Book p444)"
   },
   {
-   "id": "OBG-C11-035",
+   "id": "OBG-C11-037",
    "sec": "GTN: metastases",
    "page": 444,
    "q": "What is the m/c site of GTN metastasis and its FIGO stage?",
@@ -494,7 +524,7 @@
    "exp": "Lung is the m/c metastatic site and corresponds to FIGO stage 3. (Book p444)"
   },
   {
-   "id": "OBG-C11-036",
+   "id": "OBG-C11-038",
    "sec": "GTN: metastases",
    "page": 444,
    "q": "Which chest X-ray patterns are listed for lung metastases in GTN?",
@@ -508,21 +538,21 @@
    "exp": "CXR shows cannon ball appearance (m/c) and snowstorm appearance. (Book p444)"
   },
   {
-   "id": "OBG-C11-037",
+   "id": "OBG-C11-039",
    "sec": "GTN: metastases",
    "page": 444,
    "q": "The second m/c site of GTN metastasis and its typical presentation are:",
    "opts": [
-    "Vagina just below the urethra – suburethral nodules",
-    "Liver – jaundice",
-    "Brain – seizures",
-    "Pelvis – pain"
+    "The vagina just below the urethra, presenting as suburethral nodules",
+    "The liver, presenting months later with obstructive jaundice",
+    "The brain, presenting with seizures and focal neurological deficits",
+    "The pelvis, presenting with deep pelvic pain and a palpable mass"
    ],
    "ans": 0,
-   "exp": "Vagina (just below urethra) is the 2nd m/c site, presenting as suburethral nodules. (Book p444)"
+   "exp": "After the lungs, the vagina is the second commonest site: suburethral nodules that may bleed are the classic presentation. (Book p444)"
   },
   {
-   "id": "OBG-C11-038",
+   "id": "OBG-C11-040",
    "sec": "GTN: metastases",
    "page": 444,
    "q": "Why is biopsy contraindicated in suspected vaginal metastatic nodules of GTN?",
@@ -536,21 +566,36 @@
    "exp": "Biopsy is c/i on these vascular nodules; the notes simply mark it contraindicated. (Book p444)"
   },
   {
-   "id": "OBG-C11-039",
-   "sec": "GTN: FIGO staging & WHO scoring",
-   "page": 445,
-   "q": "Match FIGO stage to site in GTN: stage 2 and stage 4 correspond to:",
+   "id": "OBG-C11-041",
+   "sec": "GTN clinical features & metastases",
+   "page": 444,
+   "q": "All of the following are characteristic sites of metastasis in gestational trophoblastic neoplasia EXCEPT:",
    "opts": [
-    "Pelvis and its organs; brain/liver metastasis",
-    "Uterus; lungs",
-    "Lungs; pelvis",
-    "Brain; uterus"
+    "Bone",
+    "Lungs",
+    "Vagina",
+    "Brain"
    ],
    "ans": 0,
-   "exp": "Stage 1 uterus, stage 2 pelvis and its organs, stage 3 lungs, stage 4 brain/liver. (Book p445)"
+   "exp": "GTN spreads haematogenously to lung, vagina, pelvis, liver and brain; bony metastases are rare and suggest another diagnosis. (Book p444)",
+   "fmt": "oddoneout"
   },
   {
-   "id": "OBG-C11-040",
+   "id": "OBG-C11-042",
+   "sec": "GTN: FIGO staging & WHO scoring",
+   "page": 445,
+   "q": "Match FIGO stage to site in gestational trophoblastic neoplasia: stage 2 and stage 4 correspond to:",
+   "opts": [
+    "Stage 2: disease in the pelvis and vagina — stage 4: brain or liver metastasis",
+    "Stage 2: disease confined to the uterine corpus — stage 4: pulmonary metastasis",
+    "Stage 2: pulmonary metastasis — stage 4: pelvic and vaginal disease",
+    "Stage 2: cerebral metastasis — stage 4: disease still confined to the uterus"
+   ],
+   "ans": 0,
+   "exp": "Stage 1 is confined to the uterus, stage 2 spreads to pelvis and vagina, stage 3 to lung, and stage 4 to brain, liver or kidney. (Book p445)"
+  },
+  {
+   "id": "OBG-C11-043",
    "sec": "GTN: FIGO staging & WHO scoring",
    "page": 445,
    "q": "In the WHO risk scoring table, which pair falls in the HIGH-risk column?",
@@ -564,7 +609,7 @@
    "exp": "High risk: age ≥40 yrs, full term antecedent, interval ≥12 months, hCG ≥10^5, size ≥5 cm, brain/liver sites, >8 mets, failed chemo. (Book p445)"
   },
   {
-   "id": "OBG-C11-041",
+   "id": "OBG-C11-044",
    "sec": "GTN: FIGO staging & WHO scoring",
    "page": 445,
    "q": "Fill up: WHO scoring assigns low risk for an interval between pregnancies of ______ and high risk for ______.",
@@ -578,7 +623,7 @@
    "exp": "Interval <4 months scores low risk while ≥12 months scores high risk. (Book p445)"
   },
   {
-   "id": "OBG-C11-042",
+   "id": "OBG-C11-045",
    "sec": "GTN: FIGO staging & WHO scoring",
    "page": 445,
    "q": "Which hCG values mark the low- and high-risk ends of the WHO score?",
@@ -592,7 +637,7 @@
    "exp": "Low risk hCG <10^3 IU; high risk ≥10^5 IU. (Book p445)"
   },
   {
-   "id": "OBG-C11-043",
+   "id": "OBG-C11-046",
    "sec": "GTN: FIGO staging & WHO scoring",
    "page": 445,
    "q": "Tumour size and number of metastases in the WHO score: low vs high risk.",
@@ -606,7 +651,7 @@
    "exp": "Low risk: <3 cm, <4 metastases; high risk: ≥5 cm, >8 metastases. (Book p445)"
   },
   {
-   "id": "OBG-C11-044",
+   "id": "OBG-C11-047",
    "sec": "GTN: FIGO staging & WHO scoring",
    "page": 445,
    "q": "Which metastatic sites score as high risk in WHO scoring?",
@@ -620,7 +665,7 @@
    "exp": "Lung/vagina are low-risk sites; brain/liver are high-risk sites. (Book p445)"
   },
   {
-   "id": "OBG-C11-045",
+   "id": "OBG-C11-048",
    "sec": "GTN: FIGO staging & WHO scoring",
    "page": 445,
    "q": "Previous history of failed chemotherapy contributes to the WHO score as:",
@@ -634,7 +679,7 @@
    "exp": "Previous failed chemotherapy is (−) in the low-risk column and (+) in the high-risk column. (Book p445)"
   },
   {
-   "id": "OBG-C11-046",
+   "id": "OBG-C11-049",
    "sec": "GTN: FIGO staging & WHO scoring",
    "page": 445,
    "q": "Total WHO score interpretation: which cut-offs are used?",
@@ -648,7 +693,7 @@
    "exp": "Total score ≤6 is low risk GTN and ≥7 is high risk GTN. (Book p445)"
   },
   {
-   "id": "OBG-C11-047",
+   "id": "OBG-C11-050",
    "sec": "GTN: risk-stratified management",
    "page": 445,
    "q": "GTN is best described as:",
@@ -662,7 +707,7 @@
    "exp": "GTN is chemosensitive, so chemotherapy is the backbone of management. (Book p445)"
   },
   {
-   "id": "OBG-C11-048",
+   "id": "OBG-C11-051",
    "sec": "GTN: risk-stratified management",
    "page": 445,
    "q": "Choose the correct treatment for stage 1 and stage 2–3 GTN with a WHO score < 6.",
@@ -676,7 +721,7 @@
    "exp": "Stage 1 low risk and stage 2–3 with score <6 are treated with methotrexate. (Book p445)"
   },
   {
-   "id": "OBG-C11-049",
+   "id": "OBG-C11-052",
    "sec": "GTN: risk-stratified management",
    "page": 445,
    "q": "Stage 2–3 GTN with score ≥ 7, and all stage 4 disease, require:",
@@ -690,7 +735,22 @@
    "exp": "Score ≥7 (stages 2–3) and stage 4 high-risk GTN receive multidrug chemotherapy. (Book p445)"
   },
   {
-   "id": "OBG-C11-050",
+   "id": "OBG-C11-053",
+   "sec": "FIGO staging & WHO scoring",
+   "page": 445,
+   "q": "Fill up: In the WHO prognostic scoring system, a total score of ______ or more defines high-risk gestational trophoblastic neoplasia, which is treated with ______ chemotherapy.",
+   "opts": [
+    "7; multi-agent",
+    "6; single-agent",
+    "7; single-agent",
+    "4; multi-agent"
+   ],
+   "ans": 0,
+   "exp": "A score of 6 or less is low risk and treated with single-agent chemotherapy; 7 or more is high risk and needs multi-agent EMA-CO. (Book p445)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C11-054",
    "sec": "GTN: chemotherapy regimens",
    "page": 446,
    "q": "Which single drug is the DOC for low-risk GTN?",
@@ -704,7 +764,7 @@
    "exp": "Methotrexate (MTX) is the DOC single-drug therapy. (Book p446)"
   },
   {
-   "id": "OBG-C11-051",
+   "id": "OBG-C11-055",
    "sec": "GTN: chemotherapy regimens",
    "page": 446,
    "q": "In multidose MTX therapy, the equally divided dose is given on which days, alternated with what?",
@@ -718,7 +778,7 @@
    "exp": "Equally divided MTX doses on days 1, 3, 5, 7 are alternated with folic acid. (Book p446)"
   },
   {
-   "id": "OBG-C11-052",
+   "id": "OBG-C11-056",
    "sec": "GTN: chemotherapy regimens",
    "page": 446,
    "q": "After each MTX cycle, treatment is repeated until which endpoint, then followed up for how long?",
@@ -732,7 +792,7 @@
    "exp": "Cycles repeat till 3 consecutive normal β-hCG levels, with follow-up for 12 months. (Book p446)"
   },
   {
-   "id": "OBG-C11-053",
+   "id": "OBG-C11-057",
    "sec": "GTN: chemotherapy regimens",
    "page": 446,
    "q": "EMA-CO (Bagshaw regime) is also known as which multidrug therapy, and what does each letter-day pairing say?",
@@ -746,7 +806,7 @@
    "exp": "As listed: etoposide D1, MTX D2, actinomycin D D3, cyclophosphamide D4, Oncovin D5. (Book p446)"
   },
   {
-   "id": "OBG-C11-054",
+   "id": "OBG-C11-058",
    "sec": "GTN: chemotherapy regimens",
    "page": 446,
    "q": "If GTN becomes resistant to EMA-CO, the regime switches to EMA-EP. What changes?",
@@ -760,7 +820,7 @@
    "exp": "In EMA-EP days 1, 2, 3 stay the same while etoposide is given on D4 and cisplatin on D5. (Book p446)"
   },
   {
-   "id": "OBG-C11-055",
+   "id": "OBG-C11-059",
    "sec": "GTN: chemotherapy regimens",
    "page": 446,
    "q": "Radiotherapy has a role in GTN for which metastatic site?",
@@ -774,7 +834,22 @@
    "exp": "Radiotherapy is reserved for brain metastasis. (Book p446)"
   },
   {
-   "id": "OBG-C11-056",
+   "id": "OBG-C11-060",
+   "sec": "Chemotherapy regimens",
+   "page": 446,
+   "q": "Match the disease category with its treatment — 1) Low-risk GTN 2) High-risk GTN 3) Placental site trophoblastic tumour … A) Multi-agent EMA-CO chemotherapy B) Single-agent methotrexate or actinomycin D C) Hysterectomy, because it is relatively chemoresistant and secretes little hCG",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Risk dictates intensity: single agent for low risk, EMA-CO for high risk, and surgery for the chemoresistant placental site tumour. (Book p446)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C11-061",
    "sec": "GTN: hysterectomy, follow-up & histopathology",
    "page": 446,
    "q": "How long is follow-up, and how long is pregnancy contraindicated, after multidrug GTN therapy?",
@@ -788,7 +863,7 @@
    "exp": "Follow-up is for 12 months and pregnancy is contraindicated for 12 months. (Book p446)"
   },
   {
-   "id": "OBG-C11-057",
+   "id": "OBG-C11-062",
    "sec": "GTN: hysterectomy, follow-up & histopathology",
    "page": 446,
    "q": "What is the management of PSTT/ETT?",
@@ -802,21 +877,21 @@
    "exp": "PSTT/ETT is managed by hysterectomy followed by EMACO. (Book p446)"
   },
   {
-   "id": "OBG-C11-058",
+   "id": "OBG-C11-063",
    "sec": "GTN: hysterectomy, follow-up & histopathology",
    "page": 446,
    "q": "Which tumour markers are listed for PSTT?",
    "opts": [
     "Placental alkaline phosphatase and human placental lactogen",
-    "β-hCG and AFP",
-    "CA-125 and inhibin",
-    "LDH and calcitonin"
+    "Beta-hCG and alpha-fetoprotein, both markedly elevated",
+    "CA-125 and inhibin, which closely track the tumour burden",
+    "Lactate dehydrogenase and calcitonin, which rise with metastases"
    ],
    "ans": 0,
-   "exp": "Tumour markers are placental alkaline phosphatase and human placental lactogen. (Book p446)"
+   "exp": "Placental site trophoblastic tumour secretes placental alkaline phosphatase and human placental lactogen, with relatively little hCG. (Book p446)"
   },
   {
-   "id": "OBG-C11-059",
+   "id": "OBG-C11-064",
    "sec": "GTN: hysterectomy, follow-up & histopathology",
    "page": 446,
    "q": "Which is NOT a listed indication of hysterectomy in GTD?",
@@ -830,7 +905,7 @@
    "exp": "Indications are age ≥40 yrs with completed family, intractable hemorrhage during evacuation, PSTT/ETT, and stage I GTN with completed family. (Book p446)"
   },
   {
-   "id": "OBG-C11-060",
+   "id": "OBG-C11-065",
    "sec": "GTN: hysterectomy, follow-up & histopathology",
    "page": 446,
    "q": "Stage I GTN in a woman with a completed family is managed by:",
@@ -844,7 +919,7 @@
    "exp": "Stage I GTN with completed family: hysterectomy followed by multidose MTX. (Book p446)"
   },
   {
-   "id": "OBG-C11-061",
+   "id": "OBG-C11-066",
    "sec": "GTN: hysterectomy, follow-up & histopathology",
    "page": 446,
    "q": "Match the histopathology: invasive mole vs choriocarcinoma vs PSTT.",
@@ -856,6 +931,21 @@
    ],
    "ans": 0,
    "exp": "Invasive mole keeps edematous villi; choriocarcinoma has no villi-like structure with both trophoblasts; PSTT has no villi and intermediate trophoblast. (Book p446)"
+  },
+  {
+   "id": "OBG-C11-067",
+   "sec": "Hysterectomy, follow-up & histopathology",
+   "page": 446,
+   "q": "Which of the following statements about the management of molar pregnancy is TRUE?",
+   "opts": [
+    "Hysterectomy may suit a woman who has completed her family, but hCG follow-up is still needed because metastases can still appear",
+    "Hysterectomy removes all risk of malignant change, so no hCG follow-up is required",
+    "Prophylactic chemotherapy is given routinely after every molar evacuation",
+    "Combined oral contraceptives are contraindicated during follow-up because they raise hCG"
+   ],
+   "ans": 0,
+   "exp": "Hysterectomy reduces but does not abolish the risk of gestational trophoblastic neoplasia; contraception during follow-up is encouraged, not banned. (Book p446)",
+   "fmt": "truefalse"
   }
  ],
  "units": [
@@ -879,7 +969,8 @@
     "OBG-C11-010",
     "OBG-C11-011",
     "OBG-C11-012",
-    "OBG-C11-013"
+    "OBG-C11-013",
+    "OBG-C11-014"
    ]
   },
   {
@@ -890,7 +981,6 @@
    "sec": "Partial vs complete mole · p443",
    "guide": "Separate partial from complete mole on genetics, p57 KIP2 staining, ultrasound, histology and malignant potential so the follow-up intensity is never misjudged. Focus for this checkpoint: Partial vs complete mole.",
    "qs": [
-    "OBG-C11-014",
     "OBG-C11-015",
     "OBG-C11-016",
     "OBG-C11-017",
@@ -900,7 +990,9 @@
     "OBG-C11-021",
     "OBG-C11-022",
     "OBG-C11-023",
-    "OBG-C11-024"
+    "OBG-C11-024",
+    "OBG-C11-025",
+    "OBG-C11-026"
    ]
   },
   {
@@ -911,8 +1003,6 @@
    "sec": "GTN causes, features & metastases · p444",
    "guide": "Map each antecedent pregnancy to its possible neoplasia, read the beta-hCG plateau/rise criteria correctly and know where GTN metastasises and how it presents. Focus for this checkpoint: GTN: causes & clinical features, GTN: metastases.",
    "qs": [
-    "OBG-C11-025",
-    "OBG-C11-026",
     "OBG-C11-027",
     "OBG-C11-028",
     "OBG-C11-029",
@@ -924,7 +1014,10 @@
     "OBG-C11-035",
     "OBG-C11-036",
     "OBG-C11-037",
-    "OBG-C11-038"
+    "OBG-C11-038",
+    "OBG-C11-039",
+    "OBG-C11-040",
+    "OBG-C11-041"
    ]
   },
   {
@@ -935,9 +1028,6 @@
    "sec": "FIGO staging & WHO risk scoring · p445",
    "guide": "Stage GTN by FIGO site and score it with the WHO variables, then convert the total score into single-agent or multidrug therapy. Focus for this checkpoint: GTN: FIGO staging & WHO scoring, GTN: risk-stratified management.",
    "qs": [
-    "OBG-C11-039",
-    "OBG-C11-040",
-    "OBG-C11-041",
     "OBG-C11-042",
     "OBG-C11-043",
     "OBG-C11-044",
@@ -945,7 +1035,11 @@
     "OBG-C11-046",
     "OBG-C11-047",
     "OBG-C11-048",
-    "OBG-C11-049"
+    "OBG-C11-049",
+    "OBG-C11-050",
+    "OBG-C11-051",
+    "OBG-C11-052",
+    "OBG-C11-053"
    ]
   },
   {
@@ -956,12 +1050,13 @@
    "sec": "Chemotherapy regimens · p446",
    "guide": "Recall the methotrexate day 1-3-5-7 folinic-acid alternating cycle and the EMA-CO day-by-day schedule, plus the EMA-EP switch for resistant disease. Focus for this checkpoint: GTN: chemotherapy regimens.",
    "qs": [
-    "OBG-C11-050",
-    "OBG-C11-051",
-    "OBG-C11-052",
-    "OBG-C11-053",
     "OBG-C11-054",
-    "OBG-C11-055"
+    "OBG-C11-055",
+    "OBG-C11-056",
+    "OBG-C11-057",
+    "OBG-C11-058",
+    "OBG-C11-059",
+    "OBG-C11-060"
    ]
   },
   {
@@ -972,12 +1067,13 @@
    "sec": "Hysterectomy, follow-up & histopathology · p446",
    "guide": "Know when hysterectomy replaces chemotherapy, how PSTT/ETT behave and how the three neoplasias differ under the microscope. Focus for this checkpoint: GTN: hysterectomy, follow-up & histopathology.",
    "qs": [
-    "OBG-C11-056",
-    "OBG-C11-057",
-    "OBG-C11-058",
-    "OBG-C11-059",
-    "OBG-C11-060",
-    "OBG-C11-061"
+    "OBG-C11-061",
+    "OBG-C11-062",
+    "OBG-C11-063",
+    "OBG-C11-064",
+    "OBG-C11-065",
+    "OBG-C11-066",
+    "OBG-C11-067"
    ]
   }
  ]

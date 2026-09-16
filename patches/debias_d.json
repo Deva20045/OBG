@@ -1,0 +1,398 @@
+[
+  {
+    "op": "edit", "id": "OBG-C19-099",
+    "opts": [
+      "Waiting for spontaneous separation and expulsion, with more blood loss and a higher risk of PPH",
+      "A uterotonic within one minute of the birth, followed by controlled cord traction",
+      "Controlled cord traction with suprapubic counter-pressure and early clamping of the cord",
+      "Early cord clamping with immediate traction on the cord to hasten separation of the placenta"
+    ],
+    "ans": 0,
+    "exp": "Passive management means waiting for signs of separation without a uterotonic; it increases blood loss, PPH and maternal mortality."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-074",
+    "opts": [
+      "Pulmonary stenosis or atresia, ventricular hypertrophy and predominantly right-sided dysfunction",
+      "Left ventricular hypoplasia with a small aortic root and coarctation",
+      "An isolated ventricular septal defect with no myocardial hypertrophy at all",
+      "A structurally and functionally normal heart in the great majority of recipient twins"
+    ],
+    "ans": 0,
+    "exp": "The recipient twin is volume loaded, so the right side bears the brunt: pulmonary stenosis or atresia, hypertrophy and right-sided dysfunction."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-081",
+    "opts": [
+      "Intrapartum benzyl penicillin, with ampicillin or cefazolin and clindamycin if she is penicillin-allergic",
+      "Antepartum oral erythromycin given for a week before the expected date of delivery",
+      "Postpartum metronidazole started once the placenta has been delivered",
+      "Intrapartum gentamicin alone as a single intramuscular injection"
+    ],
+    "ans": 0,
+    "exp": "Prophylaxis must be intrapartum to clear carriage at delivery: benzyl penicillin, with alternatives for allergy."
+  },
+  {
+    "op": "edit", "id": "OBG-C10-167",
+    "opts": [
+      "Resuscitation alone, since surgery is never indicated once the tube has ruptured",
+      "Expectant and medical management, and any operation short of salpingectomy",
+      "Laparotomy, which is contraindicated in favour of a laparoscopic approach",
+      "Salpingectomy, which must always be avoided in a ruptured ectopic pregnancy"
+    ],
+    "ans": 1,
+    "exp": "Once rupture has occurred with instability, expectant and medical treatment are contraindicated and the bleeding tube must be removed."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-022",
+    "opts": [
+      "Excessive or prolonged bleeding with a uterus larger than expected for the postpartum day",
+      "Amenorrhoea with a small, well-involuted uterus on bimanual examination",
+      "High fever with a closed cervical os and no lochia being passed at all",
+      "A painless white discharge with itching and no abnormal bleeding"
+    ],
+    "ans": 0,
+    "exp": "Subinvolution presents as prolonged or excessive lochia with a uterus that is bigger and softer than it should be for the day."
+  },
+  {
+    "op": "edit", "id": "OBG-C5-044",
+    "opts": [
+      "About 1.0 g/dL, and the haematocrit by about three percentage points",
+      "About 0.2 g/dL, and the haematocrit by about one percentage point",
+      "About 3.0 g/dL, and the haematocrit by about nine percentage points",
+      "About 5.0 g/dL, and the haematocrit by about fifteen percentage points"
+    ],
+    "ans": 0,
+    "exp": "A rough rule is that one unit of packed cells raises the haemoglobin by about 1 g/dL and the haematocrit by about 3 per cent."
+  },
+  {
+    "op": "edit", "id": "OBG-C23-013",
+    "opts": [
+      "The type of previous incision, the number of previous caesareans and the inter-delivery interval",
+      "Maternal age alone, which determines the tensile strength of the uterine scar",
+      "Fetal sex and birth weight, since a large baby stretches the scar in labour",
+      "The placental site alone, because a fundal placenta weakens the lower segment"
+    ],
+    "ans": 0,
+    "exp": "Rupture risk tracks the scar itself — a classical scar, multiple scars and a short inter-delivery interval all raise it."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-050",
+    "opts": [
+      "Safer and easier to apply; pressure starts at 0.2 kg/cm2 and is raised to 0.8 kg/cm2 over about two minutes",
+      "Metal cups that are more traumatic, built up to 1.5 kg/cm2 over ten minutes",
+      "Rigid cups applied to a pressure of 0.5 kg/cm2 reached instantly",
+      "Disposable cups with the maximum pressure limited to 0.1 kg/cm2"
+    ],
+    "ans": 0,
+    "exp": "Silastic cups cause less scalp trauma and are applied with negative pressure rising gradually to 0.8 kg/cm2 (600 mmHg)."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-056",
+    "opts": [
+      "Flexion in breech and face presentation; caesarean for transverse lie, mento-posterior face and brow",
+      "Flexion in vertex presentation; caesarean for a persistent occipito-posterior position",
+      "Flexion in brow presentation; caesarean for a left mento-anterior face presentation",
+      "Flexion in every presentation, with caesarean section never actually mandatory"
+    ],
+    "ans": 0,
+    "exp": "Breech and face deliver by flexion; transverse lie, persistent mento-posterior and brow presentation cannot deliver vaginally."
+  },
+  {
+    "op": "edit", "id": "OBG-C23-011",
+    "opts": [
+      "Bleeding, need for transfusion, uterine rupture, hysterectomy and fetal distress or death",
+      "Transient tachypnoea of the newborn from delayed clearance of lung fluid",
+      "Anaesthetic risk alone, since labour itself adds no measurable risk",
+      "Placenta previa in the index pregnancy or in any later pregnancy"
+    ],
+    "ans": 0,
+    "exp": "A trial of labour trades anaesthetic and respiratory risk for rupture, haemorrhage and intrapartum fetal compromise."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-052",
+    "opts": [
+      "Monochorionic survivors are at risk through the shared anastomoses; dichorionic survivors largely are not",
+      "Both monochorionic and dichorionic survivors are at equal risk of neurological injury",
+      "Dichorionic survivors are at greater risk, because the second placenta also fails",
+      "Neither twin is at any risk once one of them has died in utero"
+    ],
+    "ans": 0,
+    "exp": "Acute transfusion through anastomoses at the moment of death is what injures the monochorionic survivor's brain."
+  },
+  {
+    "op": "edit", "id": "OBG-C1-120",
+    "opts": [
+      "Ebstein anomaly, with downward displacement of the tricuspid leaflets",
+      "Tetralogy of Fallot, with an overriding aorta and pulmonary stenosis",
+      "Coarctation of the aorta, with hypertension confined to the upper limbs",
+      "Patent ductus arteriosus, with a continuous machinery murmur"
+    ],
+    "ans": 0,
+    "exp": "Lithium in cardiac organogenesis is classically linked to Ebstein anomaly, where the tricuspid leaflets are displaced into the right ventricle."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-064",
+    "opts": [
+      "The ammoniacal smell of urine, and dribbling seen on coughing after the bladder is emptied",
+      "The colour of the fluid, which is reliably yellow for urine and clear for liquor",
+      "The volume passed, since urine is always lost in a single large gush",
+      "The characteristic sweet odour of amniotic fluid on the bed linen"
+    ],
+    "ans": 0,
+    "exp": "Emptying the bladder with a catheter and then watching for further loss on coughing separates urine from amniotic fluid."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-033",
+    "opts": [
+      "Fever, subinvolution and uterine tenderness with offensive lochia; broad-spectrum antibiotics",
+      "Painless bleeding with a well-involuted uterus; evacuation of retained products",
+      "Profound shock with a flaccid uterus; emergency hysterectomy",
+      "Secondary amenorrhoea with hot flushes; hormonal replacement therapy"
+    ],
+    "ans": 0,
+    "exp": "Endometritis presents with postpartum pyrexia, a tender poorly involuted uterus and offensive lochia, and is treated with antibiotics."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-121",
+    "opts": [
+      "Leave the placenta in situ with the cord ligated at its insertion and close the hysterotomy",
+      "Immediate hysterectomy, whatever the woman's wishes about future fertility",
+      "Manual piecemeal removal of the placenta until the cavity is empty",
+      "Vigorous curettage of the placental bed to remove all adherent tissue"
+    ],
+    "ans": 0,
+    "exp": "Conservative management leaves the placenta in place; forced removal is what turns a controlled situation into a haemorrhage."
+  },
+  {
+    "op": "edit", "id": "OBG-C4-016",
+    "opts": [
+      "At least ten discrete movements within two hours while resting in the left lateral position",
+      "At least three discrete movements recorded in any twenty-four hour period",
+      "At least twenty discrete movements recorded within a single hour",
+      "At least one discrete movement every ten minutes, by day and by night"
+    ],
+    "ans": 0,
+    "exp": "The Cardiff count-to-ten asks the woman to note the time to ten movements; fewer than ten in 12 hours, or a clear slowing, warrants testing."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-033",
+    "opts": [
+      "Massage with tranexamic acid and oxytocin, then methylergometrine, then carboprost, with misoprostol as an add-on",
+      "Carboprost first, then oxytocin, then methylergometrine in that order",
+      "Misoprostol first, then oxytocin, then carboprost in that order",
+      "Methylergometrine first, then misoprostol, then oxytocin in that order"
+    ],
+    "ans": 0,
+    "exp": "Oxytocin with tranexamic acid and massage is first line; ergometrine and then carboprost follow, with misoprostol as an adjunct."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-053",
+    "opts": [
+      "Anencephaly, anything preventing flexion such as a tight cord, and a roomy multiparous uterus",
+      "Hydrocephalus, a primigravid uterus and an android pelvis",
+      "Oligohydramnios with fetal growth restriction in a primigravida",
+      "Placenta previa with a gynaecoid pelvis and a well-flexed head"
+    ],
+    "ans": 0,
+    "exp": "Face presentation needs extension: anencephaly, a nuchal cord or neck mass that blocks flexion, and a lax multiparous uterus."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-032",
+    "opts": [
+      "Diabetes, Rh-negative pregnancy, twins, a succenturiate lobe and placenta bilobata",
+      "Pregnancy-induced hypertension and maternal thrombophilia",
+      "Folic acid deficiency with severe maternal anaemia",
+      "Cocaine abuse with the placental infarction it produces"
+    ],
+    "ans": 0,
+    "exp": "A bulky placenta covers more of the lower segment, so conditions that enlarge the placenta predispose to previa."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-020",
+    "opts": [
+      "The buttocks engage in the right oblique diameter and the anterior buttock rotates forward under Hart's rule",
+      "The buttocks engage in the antero-posterior diameter and rotate through two-eighths of a circle",
+      "The sacrum engages transversely and rotates through three-eighths of a circle",
+      "The buttocks engage in the left oblique diameter and descend without any rotation"
+    ],
+    "ans": 0,
+    "exp": "With the sacrum anterior the buttocks engage in the right oblique diameter and the anterior buttock descends and rotates forwards."
+  },
+  {
+    "op": "edit", "id": "OBG-C9-174",
+    "opts": [
+      "Attending a single lecture on the MTP Act and its recent amendments",
+      "Completing a twenty-four hour online course on termination techniques",
+      "No specific clinical training is required of a registered medical practitioner",
+      "Assisting at 25 terminations and performing 5, or six months of house job in obstetrics and gynaecology"
+    ],
+    "ans": 3,
+    "exp": "The Act requires practical training: assisting at 25 procedures and performing 5, or an equivalent period of obstetric training."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-010",
+    "opts": [
+      "Twin pregnancy, gestational diabetes, polyhydramnios, macrosomia and a fibroid uterus",
+      "A bicornuate uterus, which overdistends and weakens the myometrium",
+      "Cervical incompetence with a short painless cervix in the second trimester",
+      "A uterine septum, which stretches the lower segment during pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Overdistension of the uterus exhausts the myometrium; congenital anomalies do not overdistend it, though they can predispose otherwise."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-064",
+    "opts": [
+      "Repeat replacement under anaesthesia with a uterine relaxant, then Huntington's or Haultain's abdominal route",
+      "Immediate hysterectomy, since further attempts at replacement are futile",
+      "Hydrostatic reduction by O'Sullivan's method followed by Spinelli's vaginal repair",
+      "Vaginal packing with an oxytocin infusion to contract the uterus down"
+    ],
+    "ans": 0,
+    "exp": "If Johnson's vaginal replacement fails, the next attempt needs anaesthesia and a relaxant, with abdominal routes as the fallback."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-006",
+    "opts": [
+      "Frank breech lowest, complete breech low, knee presentation higher and footling highest",
+      "Frank breech highest, complete breech next, knee lower and footling presentation lowest",
+      "The risk of cord prolapse is identical for all four types of breech presentation",
+      "Complete breech highest, footling next, knee lower and frank breech lowest"
+    ],
+    "ans": 0,
+    "exp": "Cord prolapse risk rises as the presenting part fits the cervix less well: frank breech is snug, footling breech is not."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-038",
+    "opts": [
+      "Intracranial haemorrhage is the commonest cause of death, with asphyxia and intra-abdominal injury",
+      "Shoulder dystocia is the commonest cause of death, with brachial plexus injury",
+      "Erb's palsy is the commonest cause of death, from traction on the extended arms",
+      "Fracture of the femur is the commonest cause of death in vaginal breech delivery"
+    ],
+    "ans": 0,
+    "exp": "Rapid decompression and trapping of the after-coming head cause intracranial haemorrhage, the leading cause of death in breech."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-108",
+    "opts": [
+      "Caesarean section, instrumental delivery, prolonged labour and shoulder dystocia",
+      "Postpartum haemorrhage alone, with no effect on the mode of delivery",
+      "Malpresentation alone, with no increase in operative delivery",
+      "Prelabour rupture of membranes alone, with no intrapartum complications"
+    ],
+    "ans": 0,
+    "exp": "Macrosomia raises the whole spectrum of obstructed labour complications, including shoulder dystocia and operative delivery."
+  },
+  {
+    "op": "edit", "id": "OBG-C23-020",
+    "opts": [
+      "A previous vaginal delivery is the best favourable marker; previous puerperal sepsis is a bad one",
+      "Young maternal age is the best favourable marker; a macrosomic fetus is a bad one",
+      "A male fetus is the best favourable marker; a twin pregnancy is a bad one",
+      "Short maternal stature is the best favourable marker; post-term pregnancy is a bad one"
+    ],
+    "ans": 0,
+    "exp": "Previous vaginal delivery, especially after a caesarean, predicts success; infection in the uterine scar predicts failure and rupture."
+  },
+  {
+    "op": "edit", "id": "OBG-C5-043",
+    "opts": [
+      "Up to 200 mg per day diluted and infused over 15-30 minutes, and up to 600 mg per week",
+      "Up to 1000 mg per day diluted and infused over 15-30 minutes, with no weekly ceiling",
+      "Up to 50 mg per day diluted and infused over 15-30 minutes, and up to 200 mg per week",
+      "Up to 200 mg per day diluted and infused over 15-30 minutes, and up to 2000 mg per week"
+    ],
+    "ans": 0,
+    "exp": "Iron sucrose is given in divided doses: a maximum of 200 mg per day infused over 15-30 minutes and 600 mg per week."
+  },
+  {
+    "op": "edit", "id": "OBG-C2-096",
+    "opts": [
+      "Thiamine 100 mg intravenously, to prevent Wernicke's encephalopathy",
+      "Folic acid 5 mg intravenously, to prevent a megaloblastic crisis",
+      "Vitamin K 10 mg intravenously, to correct the coagulopathy",
+      "Vitamin C 500 mg intravenously, to hasten tissue healing"
+    ],
+    "ans": 0,
+    "exp": "Prolonged vomiting with confusion means thiamine must be given before any glucose, or Wernicke's encephalopathy follows."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-063",
+    "opts": [
+      "History and abdominal examination followed by a transabdominal screening ultrasound",
+      "Direct transvaginal scanning before any clinical assessment is made",
+      "Emergency caesarean section on the basis of the presenting complaint alone",
+      "Magnetic resonance imaging of the pelvis to map the placental site"
+    ],
+    "ans": 0,
+    "exp": "Transabdominal screening comes first; transvaginal scanning is then used to measure the placental edge when needed."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-057",
+    "opts": [
+      "Named for the mother's left and right; held correctly the left socket faces up and the right socket faces down",
+      "Named for the operator's hands, with both sockets facing upwards when applied",
+      "Identified by blade length, since the left blade is noticeably longer",
+      "Identified by colour coding on the handle of each blade"
+    ],
+    "ans": 0,
+    "exp": "Forceps blades are named for the side of the mother's pelvis; held correctly, the left blade's socket faces upwards."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-104",
+    "opts": [
+      "Hypotension, tachycardia and arrhythmias; and water intoxication from its antidiuretic effect",
+      "Severe hypertension with intracranial haemorrhage; and hyperglycaemia",
+      "Reflex bradycardia with heart block; and hypernatraemia from the salt load",
+      "High fever with rigors; and hypokalaemia from intracellular shift"
+    ],
+    "ans": 0,
+    "exp": "An intravenous bolus of oxytocin causes hypotension and arrhythmias, and large volumes of 5% dextrose cause water intoxication."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-014",
+    "opts": [
+      "Non-breastfeeding: combined pills avoided for 21 days — breastfeeding: progestogen-only before an intrauterine device",
+      "Combined pills are preferred in both groups from the first postpartum day",
+      "An intrauterine device only for non-breastfeeding women, and nothing at all for breastfeeding women",
+      "Injectable progestogen only for non-breastfeeding women, and combined pills for breastfeeding women"
+    ],
+    "ans": 0,
+    "exp": "Combined pills are avoided for 21 days because of thrombosis risk and they reduce milk supply; progestogen-only methods suit breastfeeding."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-110",
+    "opts": [
+      "Oxytocin acts on both segments and is used for induction and AMTSL; ergometrine is only used after delivery",
+      "Oxytocin acts on the lower segment alone and is used for PPH; ergometrine induces labour",
+      "Oxytocin acts on the upper segment alone and is used for induction; ergometrine is first line for induction",
+      "Oxytocin ripens the cervix; ergometrine acts on the fundus and is used for augmentation"
+    ],
+    "ans": 0,
+    "exp": "Oxytocin acts on the whole uterus and is used before and after delivery; ergometrine is used only after the baby is born."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-009",
+    "opts": [
+      "Not seen in humans; theoretically possible only until the cavity is obliterated at 14-16 weeks",
+      "Common after in vitro fertilisation, when several embryos are transferred",
+      "Seen only in multiparous women, who have a larger uterine cavity",
+      "The same as superfecundation, where two ova of one cycle are fertilised"
+    ],
+    "ans": 0,
+    "exp": "Superfetation would need a second ovulation and fertilisation after a pregnancy is established, which the decidua prevents."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-021",
+    "opts": [
+      "Retained placental fragments are commonest, then infection and incompletely remodelled vessels",
+      "Infection is commonest, with uterine fibroids the next most frequent cause",
+      "Anaemia is commonest, and breastfeeding delays involution further",
+      "Multiparity is commonest, with maternal obesity the next cause"
+    ],
+    "ans": 0,
+    "exp": "Retained products are the commonest cause; breastfeeding releases oxytocin and actually helps the uterus to involute."
+  }
+]

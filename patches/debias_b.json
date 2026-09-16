@@ -1,0 +1,290 @@
+[
+  {
+    "op": "edit", "id": "OBG-C20-059",
+    "opts": [
+      "Iatrogenic from a mismanaged third stage; neurogenic shock first, then haemorrhagic shock",
+      "Spontaneous inversion with haemorrhagic shock alone and no neurogenic component at all",
+      "Associated with placenta previa, producing septic shock with rigors and hypotension",
+      "Caused by uterine fibroids, with cardiogenic shock from acute left ventricular failure"
+    ],
+    "ans": 0,
+    "exp": "The commonest cause is mismanaged third stage; the initial neurogenic shock from stretching the pedicles is followed by haemorrhagic shock."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-012",
+    "opts": [
+      "Instrumental delivery, breech extraction, obstructed labour, tachysystole and high parity",
+      "Anaemia, gestational diabetes and an uncomplicated twin pregnancy",
+      "Placenta previa, placenta accreta spectrum and a previous caesarean scar",
+      "Chorioamnionitis, tocolytic therapy and a prolonged latent phase in labour"
+    ],
+    "ans": 0,
+    "exp": "Traumatic PPH follows tears and lacerations from operative delivery, malpresentation, obstructed or very fast labour and a large baby."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-027",
+    "q": "Abdominal findings — occipito-posterior : occipito-anterior.",
+    "opts": [
+      "OP: flat lower abdomen, limbs near the midline, heart in the flank — OA: convex abdomen with the limbs behind",
+      "OP: convex abdomen with the limbs behind — OA: flat lower abdomen, limbs near the midline, heart in the flank",
+      "OP: heart loudest in the midline — OA: heart in the flank with a flat lower abdomen below the umbilicus",
+      "OP: limbs in the flank with the heart in the midline — OA: bulging flanks with limbs felt on both sides"
+    ],
+    "ans": 0,
+    "exp": "In occipito-posterior the deflexed head leaves the lower abdomen flat, brings the limbs forwards and pushes the fetal heart out to the flank."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-005",
+    "opts": [
+      "The interlacing middle layer of myometrium, whose fibres compress the vessels as the uterus contracts",
+      "The round ligament, which anchors the uterus and kinks the ovarian vessels after delivery",
+      "The internal cervical os, which closes and compresses the cervical branch of the uterine artery",
+      "The decidua basalis, whose spiral arteries thrombose spontaneously after separation of the placenta"
+    ],
+    "ans": 0,
+    "exp": "The middle myometrial fibres act as living ligatures; when they fail to contract and retract, the sinuses bleed and atonic PPH follows."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-076",
+    "opts": [
+      "A chronic form of twin-to-twin transfusion through tiny anastomoses, with anaemia and polycythaemia but no fluid discordance",
+      "An acute severe form of twin-to-twin transfusion syndrome with sudden polyhydramnios in both sacs",
+      "A complication confined to dichorionic twins in which one placenta has a velamentous cord insertion",
+      "A complication of cord entanglement in monoamniotic twins that causes sudden death of both twins"
+    ],
+    "ans": 0,
+    "exp": "TAPS is chronic slow transfusion through anastomoses under 1 mm: the haemoglobin gap is large but the liquor volumes stay normal."
+  },
+  {
+    "op": "edit", "id": "OBG-C3-054",
+    "opts": [
+      "Above 3.0 mm, or above the 95th percentile for the crown-rump length",
+      "Above 1.5 mm, or above the 50th percentile for the crown-rump length",
+      "Above 6.0 mm, or above the 99th percentile for the crown-rump length",
+      "Above 10.0 mm, or above the 99.9th percentile for the crown-rump length"
+    ],
+    "ans": 0,
+    "exp": "Nuchal translucency up to 3.0 mm (or below the 95th percentile for the CRL) is regarded as normal at 11 to 13+6 weeks."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-063",
+    "opts": [
+      "Low forceps: station +2 or more without reaching the perineum — outlet forceps: scalp visible at the introitus with the skull on the pelvic floor",
+      "Low forceps: at the level of the ischial spines — outlet forceps: station +1 with the head still above the pelvic floor",
+      "Low forceps: crowning with the head distending the perineum — outlet forceps: station +2 or lower inside the cavity",
+      "Low forceps: any station with the head not yet engaged — outlet forceps: the head still above the level of the ischial spines"
+    ],
+    "ans": 0,
+    "exp": "Low forceps are the commonest type and are applied at station +2 or more; outlet forceps are only used when the scalp is visible."
+  },
+  {
+    "op": "edit", "id": "OBG-C3-042",
+    "opts": [
+      "Trisomy 16, which is always lethal in early embryogenesis",
+      "Trisomy 21, which is the commonest trisomy seen among liveborn infants",
+      "Trisomy 18, which is the commonest trisomy causing loss in the second trimester",
+      "Trisomy 13, which is the commonest trisomy associated with holoprosencephaly"
+    ],
+    "ans": 0,
+    "exp": "Trisomy 16 accounts for about a third of first-trimester losses and is incompatible with life; trisomy 21 is commonest at birth."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-047",
+    "opts": [
+      "More than 30 minutes after the delivery of the baby",
+      "More than 15 minutes after the delivery of the baby",
+      "More than 60 minutes after the delivery of the baby",
+      "More than 10 minutes after the delivery of the baby"
+    ],
+    "ans": 0,
+    "exp": "A third stage longer than 30 minutes is a prolonged third stage, and active intervention is considered once that time has passed."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-089",
+    "opts": [
+      "The first twin: a vertex first twin allows vaginal delivery whatever the second twin is doing",
+      "The second twin: any non-vertex second twin means both babies are delivered by caesarean section",
+      "The larger twin: whichever twin weighs more determines whether a caesarean is needed",
+      "The placental site: an anterior placenta makes a vaginal delivery of twins impossible"
+    ],
+    "ans": 0,
+    "exp": "The presentation of the first twin governs the plan; a breech or transverse second twin can often still be delivered vaginally by an expert."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-023",
+    "opts": [
+      "Wrapping the baby's lower body in a warm moist towel so the cord is not handled and vasospasm is avoided",
+      "Suprapubic pressure applied to the fetal head to keep it flexed during delivery of the after-coming head",
+      "Fundal pressure applied by an assistant to push the shoulders down through the pelvic brim",
+      "Rotating the fetal trunk through 180 degrees to bring the shoulders into the oblique diameter"
+    ],
+    "ans": 0,
+    "exp": "The Savage technique keeps the baby warm and prevents handling of the cord, since touching it provokes vasospasm and fetal distress."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-113",
+    "opts": [
+      "(Fundal height in cm minus n) times 155, where n is 12 above the spines and 11 below",
+      "(Fundal height in cm plus n) times 155, where n is 12 above the spines and 11 below",
+      "Fundal height in cm times 155, minus n, where n is 12 above the spines and 11 below",
+      "(Abdominal circumference in cm minus n) times 155, where n is 12 above the spines and 11 below"
+    ],
+    "ans": 0,
+    "exp": "Johnson's formula subtracts 12 when the head is above the ischial spines and 11 when it is engaged, and multiplies the result by 155."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-059",
+    "opts": [
+      "Commonest in monochorionic diamniotic twins, least common in monoamniotic, and not seen in dichorionic twins",
+      "Commonest in dichorionic twins with two separate placentas, and never seen in monochorionic twins",
+      "Commonest in monoamniotic twins because of cord entanglement, and never in monochorionic diamniotic twins",
+      "Equally common in every type, since transfusion depends on cord insertion rather than chorionicity"
+    ],
+    "ans": 0,
+    "exp": "Deep arteriovenous anastomoses in monochorionic diamniotic placentas drive TTTS; without shared circulation the syndrome cannot occur."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-031",
+    "opts": [
+      "The baby hangs by its own weight, then suprapubic pressure with the feet swung towards the mother's abdomen delivers the head",
+      "Two fingers are placed in the baby's mouth and traction is applied to the shoulders to flex the head",
+      "Piper's forceps are applied to the after-coming head while the body rests along the operator's arm",
+      "The baby's back is held upwards and the trunk is rotated to bring the head into the transverse diameter"
+    ],
+    "ans": 0,
+    "exp": "Burns-Marshall relies on controlled hanging with suprapubic pressure and swinging the body upwards to deliver the head by flexion."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-004",
+    "q": "Structures felt on vaginal examination — complete breech : frank breech : knee : footling.",
+    "opts": [
+      "Complete: heel, anus and ischial tuberosities — frank: anus and tuberosities — knee: knees — footling: feet",
+      "Complete: feet only — frank: knees — knee: heel and anus — footling: anus and tuberosities",
+      "Complete: anus only — frank: feet — knee: heel — footling: knees",
+      "Complete: sacrum and anus — frank: feet — knee: anus — footling: knees"
+    ],
+    "ans": 0,
+    "exp": "The more the legs are extended, the less is felt: complete breech gives heel, anus and tuberosities, footling breech gives only the feet."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-037",
+    "opts": [
+      "Preterm labour, pre-eclampsia, postpartum haemorrhage, cord prolapse and malpresentation",
+      "Gestational diabetes alone, with no effect on the course of labour or delivery",
+      "Hyperemesis gravidarum alone, with no increase in risk later in the pregnancy",
+      "Iron deficiency anaemia alone, since only the maternal blood volume is affected"
+    ],
+    "ans": 0,
+    "exp": "Overdistension of the uterus and a large placental mass explain the whole spectrum of increased obstetric risk in twins."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-003",
+    "opts": [
+      "Sex, blood group, HLA type and physical phenotype, although the fingerprints remain different",
+      "Sex alone, since blood groups and HLA types are always different between monozygotic twins",
+      "Blood group alone, because sex and HLA types can differ even between monozygotic twins",
+      "Nothing at all, since monozygotic twins differ genetically as much as any two siblings"
+    ],
+    "ans": 0,
+    "exp": "Monozygotic twins share the whole genome, so sex, blood groups, HLA and phenotype match; fingerprints differ because they are formed by the environment."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-079",
+    "opts": [
+      "An aberrant artery-to-artery anastomosis through which the pump twin perfuses the acardiac twin in reverse",
+      "Deep arteriovenous anastomoses of the kind that produce classic twin-to-twin transfusion syndrome",
+      "Superficial venous anastomoses that allow a slow transfusion between the two circulations",
+      "Complete absence of any anastomosis, so each twin keeps an entirely separate circulation"
+    ],
+    "ans": 0,
+    "exp": "TRAP needs an artery-to-artery anastomosis: deoxygenated blood from the pump twin reaches the acardiac twin first and stunts its development."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-058",
+    "opts": [
+      "The lock closes easily and both blades lie equidistant from the sagittal suture along the occipito-mental diameter",
+      "The blades overlap slightly in the midline over the region of the anterior fontanelle",
+      "One blade lies over the face and the other over the occiput to grip the head firmly",
+      "The handles sit at 90 degrees to each other because the head is lying transversely"
+    ],
+    "ans": 0,
+    "exp": "Correct application means the lock closes without force, the blades sit symmetrically along the occipito-mental diameter and the sagittal suture is midway."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-011",
+    "opts": [
+      "Prolonged or precipitate labour, induction or augmentation, instrumental delivery and general anaesthesia",
+      "Epidural analgesia, delayed cord clamping and active management of the third stage",
+      "The left lateral position, ambulation during labour and continuous support from a companion",
+      "Oral fluids in labour, intermittent auscultation and delayed admission to the labour ward"
+    ],
+    "ans": 0,
+    "exp": "Intrapartum risk factors exhaust or damage the uterus and birth canal; the other options are neutral or protective measures."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-090",
+    "opts": [
+      "Second vertex: vaginal delivery — second breech: assisted breech — second transverse: internal podalic version in theatre",
+      "Every combination is delivered by caesarean section once the first twin has been born vaginally",
+      "Every combination can be delivered vaginally by an experienced operator without preparation",
+      "Caesarean section for a breech second twin only, since version is never attempted for a transverse lie"
+    ],
+    "ans": 0,
+    "exp": "When the first twin is vertex, a vertex or breech second twin can usually be delivered vaginally, and a transverse second twin by version and breech extraction."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-040",
+    "opts": [
+      "Deliver the first twin vaginally, then internal podalic version followed by breech extraction under anaesthesia in theatre",
+      "External cephalic version of the second twin, then an oxytocin infusion to deliver vaginally",
+      "Immediate caesarean section for the second twin as soon as the first twin has been born",
+      "Wait for spontaneous delivery of the second twin without any intervention for up to two hours"
+    ],
+    "ans": 0,
+    "exp": "Breech extraction is performed in theatre under anaesthesia, because all the manoeuvres are done by the operator with no maternal effort."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-073",
+    "opts": [
+      "Fetal biometry, liquor volume in each sac and Doppler for hydrops and abnormal waveforms",
+      "Cervical length alone, since transfusion does not affect growth or liquor volume",
+      "Placental grading alone, which predicts transfusion before any fetal change appears",
+      "Fetal sex determination alone, since chorionicity is already known from the first scan"
+    ],
+    "ans": 0,
+    "exp": "Surveillance looks for the consequences of unbalanced transfusion: growth discordance, liquor discordance, abnormal Doppler and hydrops."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-017",
+    "opts": [
+      "A previous preterm birth, a cervical length of 25 mm or less, and as an adjunct to cervical cerclage",
+      "Only in a twin pregnancy, whatever the cervical length or the obstetric history",
+      "Only after preterm prelabour rupture of membranes has already occurred",
+      "Only when there is vaginal bleeding from placenta previa in the third trimester"
+    ],
+    "ans": 0,
+    "exp": "Progesterone is given for a previous preterm birth, an incidental short cervix, or alongside cerclage in a classic history."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-069",
+    "opts": [
+      "A breach of the maternal-fetal interface lets fluid into the circulation, causing pulmonary vasospasm and then coagulopathy",
+      "A hypotonic uterus fails to compress the placental bed, causing haemorrhage, sepsis and renal failure",
+      "Placental abruption releases thromboplastin into the circulation, producing coagulopathy alone",
+      "Cord prolapse compresses the umbilical vessels, producing fetal hypoxia with no maternal effects"
+    ],
+    "ans": 0,
+    "exp": "Erratic contractions breach the interface and open venous sinuses; the fluid then causes pulmonary vasospasm, cardiac failure and consumptive coagulopathy."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-017",
+    "opts": [
+      "Weight loss of 5-6 kg at birth, then 2-3 kg from diuresis, with a very high cardiac output for 24-48 hours",
+      "Polyuria with a weight gain of 2 kg and hypokalaemia from rapid sodium retention",
+      "An immediate weight loss of 10 kg with a persistently low cardiac output for two days",
+      "Oliguria with hypernatraemia and a falling fibrinogen from postpartum coagulopathy"
+    ],
+    "ans": 0,
+    "exp": "Blood loss and diuresis account for early weight loss, and the cardiac output stays very high for one to two days, which matters in heart disease."
+  }
+]

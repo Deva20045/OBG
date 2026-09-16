@@ -1,0 +1,120 @@
+[
+  {
+    "op": "add", "unit": "OBG-U14-1", "page": 472, "fmt": "oddoneout",
+    "sec": "Causes, risks & prediction of preterm birth",
+    "q": "All of the following are risk factors for spontaneous preterm birth EXCEPT:",
+    "opts": [
+      "A previous uncomplicated term delivery",
+      "A previous spontaneous preterm birth",
+      "A short cervical length in the second trimester",
+      "Multiple pregnancy and uterine anomalies"
+    ],
+    "ans": 0,
+    "exp": "Prior preterm birth, short cervix, multiples, infection and uterine anomalies raise risk; a previous uncomplicated term birth is reassuring."
+  },
+  {
+    "op": "add", "unit": "OBG-U14-2", "page": 473, "fmt": "match",
+    "sec": "Prevention: cerclage & progesterone",
+    "q": "Match the preventive measure with its current place — 1) Vaginal progesterone 2) Cervical cerclage 3) Bed rest and hydration … A) Offered when a short cervix is found on ultrasound, even without a previous preterm birth B) Considered with a cervical length below 25 mm and a history of mid-trimester loss or preterm birth C) Widely used but never shown to prevent preterm birth, so not recommended",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Progesterone treats the incidental short cervix, cerclage suits the classic history with a short cervix, and bed rest has no proven benefit."
+  },
+  {
+    "op": "add", "unit": "OBG-U14-3", "page": 473, "fmt": "fillup",
+    "sec": "Diagnosis & definitions of preterm labour",
+    "q": "Fill up: Preterm labour is regular uterine contractions with progressive cervical change occurring between ______ and ______ weeks of gestation.",
+    "opts": ["20; 36+6", "24; 34", "28; 37", "20; 28"],
+    "ans": 0,
+    "exp": "The window runs from 20 weeks to 36 weeks and 6 days; before 20 weeks the loss is called an abortion rather than preterm labour."
+  },
+  {
+    "op": "add", "unit": "OBG-U14-4", "page": 475, "fmt": "scenario",
+    "sec": "Corticosteroids & tocolytics",
+    "q": "A 30-year-old at 30 weeks is in established preterm labour with intact membranes. Corticosteroids and magnesium for neuroprotection have been started. Which tocolytic is most appropriate, and for how long?",
+    "opts": [
+      "Nifedipine or an oxytocin antagonist for up to 48 hours, to complete steroids and arrange transfer",
+      "No tocolytic at all, since delaying delivery never helps the baby",
+      "Indomethacin after 32 weeks, continued for seven days",
+      "Ritodrine for two weeks so that she can be managed at home"
+    ],
+    "ans": 0,
+    "exp": "Tocolysis buys up to 48 hours for steroids and transfer; indomethacin is avoided after 32 weeks because of ductal constriction and oligohydramnios."
+  },
+  {
+    "op": "add", "unit": "OBG-U14-5", "page": 476, "fmt": "fillup",
+    "sec": "MgSO4 neuroprotection, GBS & antibiotics",
+    "q": "Fill up: Magnesium sulfate for fetal neuroprotection is given when delivery is anticipated before ______ weeks, using a loading dose of ______ g.",
+    "opts": ["32; 4", "34; 2", "28; 4", "32; 6"],
+    "ans": 0,
+    "exp": "A 4 g loading dose followed by an infusion is given before 32 weeks and reduces the risk and severity of cerebral palsy in survivors."
+  },
+  {
+    "op": "add", "unit": "OBG-U14-6", "page": 477, "fmt": "truefalse",
+    "sec": "Prelabour rupture of membranes",
+    "q": "Which of the following statements about prelabour rupture of membranes is TRUE?",
+    "opts": [
+      "The earlier the gestation at rupture, the higher the risk of chorioamnionitis, pulmonary hypoplasia and cord prolapse",
+      "Rupture of membranes before labour always demands immediate delivery, whatever the gestation",
+      "Rupture of membranes at term is labelled prelabour rupture of membranes",
+      "Prophylactic antibiotics have no effect on latency and are given only for established infection"
+    ],
+    "ans": 0,
+    "exp": "At term, rupture before labour is called prelabour rupture (PROM); preterm rupture is PPROM, and antibiotics do prolong latency and reduce infection."
+  },
+  {
+    "op": "add", "unit": "OBG-U14-7", "page": 478, "fmt": "oddoneout",
+    "sec": "Diagnosis of ruptured membranes",
+    "q": "All of the following help to diagnose rupture of membranes EXCEPT:",
+    "opts": [
+      "Maternal serum alpha-fetoprotein estimation",
+      "Sterile speculum examination showing pooling of fluid in the posterior fornix",
+      "Nitrazine or pH testing of vaginal fluid",
+      "Ferning of dried vaginal fluid seen under the microscope"
+    ],
+    "ans": 0,
+    "exp": "Pooling on speculum, an alkaline pH and arborisation (ferning) diagnose rupture; amniotic fluid tests such as AFP belong to other diagnoses."
+  },
+  {
+    "op": "add", "unit": "OBG-U14-8", "page": 479, "fmt": "scenario",
+    "sec": "Management of PPROM & GBS prophylaxis",
+    "q": "A woman at 34 weeks with preterm prelabour rupture of membranes is afebrile, with a normal CTG and normal inflammatory markers. What is the management?",
+    "opts": [
+      "Expectant management with antibiotics, corticosteroids and close monitoring, planning delivery around 34-37 weeks",
+      "Immediate caesarean section to avoid infection",
+      "Induction of labour within twelve hours, whatever the gestation",
+      "Discharge home on oral antibiotics with weekly outpatient review"
+    ],
+    "ans": 0,
+    "exp": "Expectant care with antibiotics and surveillance balances prematurity against infection; delivery is timed by gestation and any sign of infection or compromise."
+  },
+  {
+    "op": "add", "unit": "OBG-U14-9", "page": 480, "fmt": "match",
+    "sec": "Chorioamnionitis",
+    "q": "Match the feature with its significance in chorioamnionitis — 1) Maternal fever 2) Fetal tachycardia 3) Uterine tenderness with offensive liquor … A) A baseline above 160 bpm, often an early and easily missed fetal sign B) A core temperature of 38 C or more with maternal tachycardia C) Clinical evidence of intrauterine infection requiring delivery and intravenous antibiotics",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Maternal fever plus fetal tachycardia, uterine tenderness and offensive liquor form the clinical triad that demands delivery and antibiotics."
+  },
+  {
+    "op": "add", "unit": "OBG-U14-10", "page": 481, "fmt": "fillup",
+    "sec": "Post-term pregnancy: overview & pathophysiology",
+    "q": "Fill up: Post-term pregnancy is defined as a gestation of ______ weeks or more, and the added fetal risk comes mainly from ______.",
+    "opts": ["42; placental insufficiency and oligohydramnios", "40; fetal macrosomia alone", "41; fetal anaemia and hydrops", "42; congenital malformation"],
+    "ans": 0,
+    "exp": "Beyond 42 weeks the ageing placenta may fail, liquor falls and the risk of meconium, macrosomia and stillbirth rises."
+  },
+  {
+    "op": "add", "unit": "OBG-U14-11", "page": 482, "fmt": "scenario",
+    "sec": "ACOG management of post-term pregnancy & macrosomia",
+    "q": "A 34-year-old with an uncomplicated pregnancy reaches 41 weeks and 3 days. The CTG is normal and the amniotic fluid index is 9 cm. What is the recommended management?",
+    "opts": [
+      "Offer induction of labour between 41 and 42 weeks, with increased fetal surveillance if she chooses to wait",
+      "Reassure her and await spontaneous labour until 43 weeks without intervention",
+      "Immediate caesarean section, because post-term fetuses never tolerate labour",
+      "Admit for daily amniocentesis to test fetal lung maturity"
+    ],
+    "ans": 0,
+    "exp": "Induction is offered from 41 weeks because perinatal risk falls; membrane sweeping and increased monitoring are options while she waits."
+  }
+]

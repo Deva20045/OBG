@@ -1,0 +1,262 @@
+[
+  {
+    "op": "add", "unit": "OBG-U6-1", "page": 375, "fmt": "fillup",
+    "sec": "Thyroid physiology in pregnancy",
+    "q": "Fill up: In pregnancy total T4 rises because oestrogen increases ______, so the best screening test of thyroid function is ______.",
+    "opts": ["thyroxine-binding globulin; TSH", "TSH; total T4", "albumin; total T3", "hCG; a TRH stimulation test"],
+    "ans": 0,
+    "exp": "Oestrogen raises TBG and hence total T4, which is why free T4 and TSH rather than total T4 are used to judge thyroid status in pregnancy."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-2", "page": 375, "fmt": "scenario",
+    "sec": "Hyperthyroidism & thyroid storm",
+    "q": "A 28-year-old at 12 weeks with known Graves disease presents with fever of 39 C, a pulse of 150/min, profuse vomiting and new atrial fibrillation. What is the diagnosis and the first drug?",
+    "opts": [
+      "Thyroid storm — start propylthiouracil, then iodine an hour later, with a beta blocker",
+      "Gestational transient thyrotoxicosis — reassure and repeat the thyroid profile in 4 weeks",
+      "Graves disease in pregnancy — start methimazole and plan radioiodine ablation after delivery now",
+      "Thyroid storm — start carbimazole and proceed to immediate delivery of the fetus"
+    ],
+    "ans": 0,
+    "exp": "Thyroid storm is a medical emergency: propylthiouracil blocks both synthesis and T4-to-T3 conversion, iodine is given after an hour, and beta blockade controls the rate."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-3", "page": 376, "fmt": "truefalse",
+    "sec": "Diabetes physiology & placental transfer",
+    "q": "Which of the following statements about placental transfer in diabetic pregnancy is TRUE?",
+    "opts": [
+      "Glucose crosses the placenta by facilitated diffusion but insulin does not, so the fetal pancreas makes its own insulin",
+      "Maternal insulin crosses the placenta freely and is the main driver of fetal macrosomia",
+      "Neither glucose nor insulin crosses the placenta, so the fetus depends on amino acids and lactate alone",
+      "Anti-TSH receptor antibodies cross the placenta, but neither glucose nor insulin can cross it"
+    ],
+    "ans": 0,
+    "exp": "Maternal hyperglycaemia drives fetal hyperinsulinaemia because glucose crosses freely while insulin, and most oral agents such as glyburide, cross poorly."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-4", "page": 377, "fmt": "fillup",
+    "sec": "Diabetes classification & GDM timing",
+    "q": "Fill up: Universal screening for gestational diabetes is performed at ______ weeks, and women with strong risk factors are additionally tested ______.",
+    "opts": ["24-28; at the first antenatal visit", "24-28; only at 34 weeks", "11-14; at 24 weeks", "32-34; at the first visit"],
+    "ans": 0,
+    "exp": "All women are screened at 24-28 weeks, and those with risk factors are screened early at booking and retested later if the first test is normal."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-5", "page": 377, "fmt": "oddoneout",
+    "sec": "GDM follow-up after delivery",
+    "q": "All of the following are part of postpartum follow-up after gestational diabetes EXCEPT:",
+    "opts": [
+      "Discharging her from follow-up once a single normal test is obtained at six weeks",
+      "A 75 g oral glucose tolerance test at 6-12 weeks postpartum",
+      "Lifelong screening for diabetes every one to three years",
+      "Contraception and preconception counselling before the next pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Gestational diabetes marks a lifelong risk of type 2 diabetes, so surveillance every 1-3 years continues after the 6-12 week test."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-6", "page": 378, "fmt": "match",
+    "sec": "Pregestational diabetes, HbA1c & anomalies",
+    "q": "Match the timing of poor diabetic control with its fetal consequence — 1) Periconception with HbA1c above 10% 2) Hyperglycaemia during organogenesis 3) Hyperglycaemia in the third trimester … A) Caudal regression, cardiac and renal anomalies B) Spontaneous abortion and major malformation C) Macrosomia, polyhydramnios and neonatal hypoglycaemia",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-B, 3-A", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Teratogenic damage happens in organogenesis and scales with HbA1c, whereas late hyperglycaemia drives fetal overgrowth and organomegaly."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-7", "page": 378, "fmt": "fillup",
+    "sec": "Preconception prevention in pregestational diabetes",
+    "q": "Fill up: Women with pregestational diabetes are advised ______ mg of folic acid daily, because their pregnancies carry a higher risk of ______.",
+    "opts": ["5; neural tube defects", "0.4; cardiac anomalies", "5; renal agenesis", "0.4; skeletal dysplasia"],
+    "ans": 0,
+    "exp": "High-dose folic acid (4-5 mg) preconceptionally reduces the excess of neural tube defects seen in diabetic embryopathy."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-8", "page": 379, "fmt": "truefalse",
+    "sec": "Pre-GDM complications & antenatal surveillance",
+    "q": "Which of the following statements about antenatal surveillance in pregestational diabetes is TRUE?",
+    "opts": [
+      "Serial growth scans and antepartum testing from 32-34 weeks are standard when control is poor or vasculopathy is present",
+      "Fetal karyotyping is mandatory because maternal diabetes raises the risk of fetal trisomy 21",
+      "Amniocentesis for lung maturity is required before every diabetic delivery, whatever the gestation",
+      "Serum alpha-fetoprotein screening is unreliable in diabetes and must never be offered"
+    ],
+    "ans": 0,
+    "exp": "Surveillance intensity matches disease severity; diabetes does not raise aneuploidy risk, and AFP screening is still offered for neural tube defects."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-9", "page": 380, "fmt": "scenario",
+    "sec": "Treatment of pregestational diabetes",
+    "q": "A 32-year-old with type 1 diabetes at 10 weeks records fasting glucose of 130 mg/dL and two-hour postprandial values of 190 mg/dL on a twice-daily premixed insulin. What is the next step?",
+    "opts": [
+      "Change to a basal-bolus regimen of short-acting and intermediate insulin and titrate to targets",
+      "Stop insulin and switch to metformin, since injected insulin is teratogenic in the first trimester",
+      "Add bedtime glyburide and continue the present insulin doses unchanged",
+      "Take no action, because glycaemic targets only matter in the third trimester"
+    ],
+    "ans": 0,
+    "exp": "Insulin is the drug of choice in pregestational diabetes; a basal-bolus regimen with titration to fasting and postprandial targets is needed."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-10", "page": 380, "fmt": "fillup",
+    "sec": "Delivery timing & delivery planning",
+    "q": "Fill up: In well-controlled gestational diabetes without complications, delivery is planned around ______ weeks, while poorly controlled diabetes with vasculopathy is delivered by ______ weeks.",
+    "opts": ["39-40; 36-37", "37; 39-40", "38-39; 40", "40; 36-37"],
+    "ans": 0,
+    "exp": "Uncomplicated well-controlled gestational diabetes is delivered at term, but vasculopathy or poor control shifts delivery earlier after documenting lung maturity."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-11", "page": 381, "fmt": "fillup",
+    "sec": "GDM features & the DIPSI procedure",
+    "q": "Fill up: The DIPSI test uses ______ g of glucose regardless of the fasting state, and gestational diabetes is diagnosed when the two-hour value is ______ mg/dL or higher.",
+    "opts": ["75; 140", "75; 200", "100; 140", "50; 140"],
+    "ans": 0,
+    "exp": "DIPSI is a single-step non-fasting 75 g test with a single two-hour cut-off of 140 mg/dL, which is why it suits busy antenatal clinics."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-12", "page": 382, "fmt": "scenario",
+    "sec": "GDM management",
+    "q": "A 30-year-old at 28 weeks is diagnosed with gestational diabetes (DIPSI two-hour value 165 mg/dL). After two weeks of medical nutrition therapy her fasting glucose is 98 mg/dL and her two-hour postprandial value is 130 mg/dL. What is the next step?",
+    "opts": [
+      "Start insulin, or metformin if she declines insulin, while continuing nutrition therapy and glucose monitoring",
+      "Deliver the baby now, because medical nutrition therapy has failed",
+      "Add an oral hypoglycaemic agent only if targets remain uncontrolled after 36 weeks",
+      "Reassure her, because both readings are at target and no treatment is needed"
+    ],
+    "ans": 0,
+    "exp": "Persistent fasting values above 95 mg/dL or postprandial values above 120 mg/dL despite two weeks of nutrition therapy call for pharmacotherapy."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-13", "page": 382, "fmt": "fillup",
+    "sec": "GDM targets & GOI guidance",
+    "q": "Fill up: The usual glycaemic targets in pregnancy are a fasting glucose below ______ mg/dL and a two-hour postprandial glucose below ______ mg/dL.",
+    "opts": ["95; 120", "95; 140", "105; 130", "90; 110"],
+    "ans": 0,
+    "exp": "Typical targets are fasting below 95 mg/dL, one-hour postprandial below 140 mg/dL and two-hour postprandial below 120 mg/dL."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-14", "page": 383, "fmt": "truefalse",
+    "sec": "Medical nutrition therapy & metformin",
+    "q": "Which of the following statements about medical nutrition therapy in gestational diabetes is TRUE?",
+    "opts": [
+      "Energy is spread over three small meals and two or three snacks, with about 40-50% coming from low-glycaemic carbohydrate",
+      "Severe restriction to 1200 kcal a day improves outcomes by preventing fetal macrosomia",
+      "Avoiding carbohydrate altogether is the quickest way to reach glycaemic targets",
+      "Weight loss of about 1 kg a week is recommended for every woman with gestational diabetes"
+    ],
+    "ans": 0,
+    "exp": "Ketosis from severe calorie or carbohydrate restriction is harmful; modest energy intake with distributed low-glycaemic carbohydrate is the goal."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-15", "page": 383, "fmt": "oddoneout",
+    "sec": "Metformin & glyburide in pregnancy",
+    "q": "All of the following statements about metformin in gestational diabetes are true EXCEPT:",
+    "opts": [
+      "It is contraindicated in pregnancy because it causes severe fetal hypoglycaemia",
+      "It crosses the placenta freely, so the fetus is exposed to it",
+      "It is an option for women who refuse or cannot use insulin",
+      "Long-term offspring follow-up is reassuring but data remain incomplete"
+    ],
+    "ans": 0,
+    "exp": "Metformin crosses the placenta and is used where insulin is refused or impractical; neonatal hypoglycaemia is far commoner with glyburide than metformin."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-16", "page": 384, "fmt": "fillup",
+    "sec": "Insulin basics & insulin dosing",
+    "q": "Fill up: The usual starting total daily insulin dose in pregnancy is about ______ units per kg body weight, of which roughly ______ is given as basal insulin.",
+    "opts": ["0.7-1.0; 40-50%", "0.2; 70%", "2.0; 40-50%", "0.7-1.0; 80%"],
+    "ans": 0,
+    "exp": "Total daily insulin starts at 0.7-1.0 units/kg, split so that about half is basal and half covers meals, then titrated to self-monitored glucose."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-17", "page": 385, "fmt": "scenario",
+    "sec": "Insulin titration & intrapartum diabetes",
+    "q": "A woman with insulin-treated gestational diabetes presents in early labour at 39 weeks with a capillary glucose of 88 mg/dL. What is the intrapartum plan?",
+    "opts": [
+      "Stop subcutaneous insulin, run a variable-rate insulin and dextrose infusion targeting 70-110 mg/dL, and stop it after delivery",
+      "Continue her usual subcutaneous insulin doses unchanged throughout labour",
+      "Give no insulin during labour and check the glucose only after delivery",
+      "Stop insulin and infuse 5% dextrose alone, without any glucose monitoring"
+    ],
+    "ans": 0,
+    "exp": "Labour needs a sliding-scale insulin-dextrose infusion to keep glucose between 70 and 110 mg/dL, and requirements fall sharply once the placenta is delivered."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-18", "page": 385, "fmt": "fillup",
+    "sec": "Intrapartum diabetes & postpartum management",
+    "q": "Fill up: After delivery, insulin requirements in pregestational diabetes ______, and the postpartum dose is usually about ______ of the late-pregnancy dose.",
+    "opts": ["fall sharply; half or less", "rise sharply; double", "stay the same; the full dose", "fall sharply; twice"],
+    "ans": 0,
+    "exp": "Loss of the placental hormones that cause insulin resistance means requirements plummet after delivery, often to half or less of the antenatal dose."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-19", "page": 386, "fmt": "oddoneout",
+    "sec": "Maternal diabetes complications & hypoglycemia",
+    "q": "All of the following are maternal complications of diabetes in pregnancy EXCEPT:",
+    "opts": ["Placenta previa", "Pre-eclampsia", "Recurrent vulvovaginal candidiasis", "Polyhydramnios"],
+    "ans": 0,
+    "exp": "Pre-eclampsia, candidiasis, polyhydramnios, infections and progression of retinopathy and nephropathy are all linked to diabetes; placenta previa is not."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-20", "page": 387, "fmt": "match",
+    "sec": "Pedersen hypothesis & fetal diabetes complications",
+    "q": "Match the mechanism with its consequence — 1) Pedersen hypothesis 2) Diabetic embryopathy in the first trimester 3) Neonatal hypoglycaemia after cord clamping … A) Caudal regression and cardiac anomalies B) Fetal hyperinsulinaemia causing macrosomia and organomegaly C) Continued fetal insulin action once the maternal glucose supply stops",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Maternal hyperglycaemia drives fetal hyperinsulinaemia (Pedersen), early hyperglycaemia malforms the embryo, and sustained fetal insulin causes postnatal hypoglycaemia."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-21", "page": 388, "fmt": "truefalse",
+    "sec": "Neonatal complications of diabetic pregnancy",
+    "q": "Which of the following statements about the infant of a diabetic mother is TRUE?",
+    "opts": [
+      "Fetal hyperinsulinaemia antagonises cortisol and delays surfactant maturation, raising the risk of respiratory distress at any gestation",
+      "Neonatal hypoglycaemia is rare, because the fetal pancreas involutes promptly after delivery",
+      "Neonatal polycythaemia and jaundice result from fetal hypo-insulinaemia and reduced oxygen consumption",
+      "Amniocentesis to document lung maturity is mandatory before every delivery in a diabetic pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Hyperinsulinaemia delays surfactant, chronic intrauterine hyperglycaemia drives polycythaemia, and lung maturity testing is selective, not universal."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-22", "page": 388, "fmt": "fillup",
+    "sec": "Lung maturity testing",
+    "q": "Fill up: Phosphatidylglycerol appears in amniotic fluid at about ______ weeks, and its presence is taken to indicate ______.",
+    "opts": ["35; fetal lung maturity", "28; fetal lung maturity", "35; fetal anaemia", "32; meconium-stained liquor"],
+    "ans": 0,
+    "exp": "A lecithin-sphingomyelin ratio of 2:1 and the appearance of phosphatidylglycerol around 35 weeks both indicate that the fetal lungs are mature."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-23", "page": 388, "fmt": "fillup",
+    "sec": "Shoulder dystocia & McRoberts maneuver",
+    "q": "Fill up: The first manoeuvre for shoulder dystocia is ______, which works by ______.",
+    "opts": [
+      "McRoberts positioning; flattening the lumbar lordosis and rotating the symphysis pubis upwards",
+      "fundal pressure; driving the anterior shoulder below the symphysis pubis",
+      "the Zavanelli manoeuvre; replacing the head before caesarean delivery",
+      "the Woods corkscrew; widening the bisacromial diameter of the shoulders"
+    ],
+    "ans": 0,
+    "exp": "Hyperflexing the maternal thighs on the abdomen flattens the sacral promontory and rotates the symphysis, freeing the impacted anterior shoulder."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-24", "page": 389, "fmt": "scenario",
+    "sec": "Shoulder dystocia management & internal rotation",
+    "q": "McRoberts positioning and suprapubic pressure have failed and the anterior shoulder is still impacted behind the symphysis. Which manoeuvre should be attempted next?",
+    "opts": [
+      "Internal rotation with Woods corkscrew or Rubin II, or delivery of the posterior arm",
+      "Fundal pressure applied by an assistant while traction continues",
+      "Immediate Zavanelli manoeuvre and caesarean delivery",
+      "Symphysiotomy before any rotational manoeuvre is attempted"
+    ],
+    "ans": 0,
+    "exp": "After McRoberts and suprapubic pressure, internal rotation or posterior arm delivery reduces the bisacromial diameter; fundal pressure is contraindicated."
+  },
+  {
+    "op": "add", "unit": "OBG-U6-25", "page": 389, "fmt": "oddoneout",
+    "sec": "Shoulder dystocia complications",
+    "q": "All of the following are recognised fetal complications of shoulder dystocia EXCEPT:",
+    "opts": ["Congenital talipes equinovarus", "Erb's palsy and Klumpke's palsy", "Fracture of the clavicle or humerus", "Hypoxic-ischaemic encephalopathy from delayed delivery"],
+    "ans": 0,
+    "exp": "Brachial plexus injury, long-bone fracture and asphyxia follow traumatic delivery and prolonged head-to-body interval; talipes is not caused by shoulder dystocia."
+  }
+]

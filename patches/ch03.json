@@ -1,0 +1,123 @@
+[
+  {
+    "op": "add", "unit": "OBG-U3-1", "page": 327, "fmt": "fillup",
+    "sec": "Early ultrasound signs & biometry dating",
+    "q": "Fill up: First-trimester dating uses the ______, which is accurate to within ______ days.",
+    "opts": ["crown-rump length; 5-7", "biparietal diameter; 5-7", "crown-rump length; 14-21", "femur length; 3"],
+    "ans": 0,
+    "exp": "The crown-rump length dates pregnancy to within 5-7 days, far better than second-trimester biparietal diameter."
+  },
+  {
+    "op": "add", "unit": "OBG-U3-2", "page": 329, "fmt": "scenario",
+    "sec": "Second trimester biometry, cervical length & fetal echo",
+    "q": "A 29-year-old primigravida with no prior preterm birth has a transvaginal cervical length of 20 mm at 22 weeks and no contractions. What is the most appropriate management?",
+    "opts": [
+      "Start vaginal micronised progesterone 200 mg nightly and repeat the cervical length",
+      "Perform an immediate McDonald cerclage, because 20 mm is an absolute operative indication",
+      "Advise strict bed rest alone, since no intervention has proven benefit",
+      "Give intramuscular 17-alpha-hydroxyprogesterone weekly until 36 weeks"
+    ],
+    "ans": 0,
+    "exp": "An incidental short cervix of 25 mm or less in a woman without a prior preterm birth is treated with vaginal progesterone, not immediate cerclage."
+  },
+  {
+    "op": "add", "unit": "OBG-U3-3", "page": 330, "fmt": "match",
+    "sec": "Anomaly scan (TIFFA) & cranial NTDs: anencephaly & acrania",
+    "q": "Match the cranial defect with its sonographic appearance — 1) Acrania 2) Exencephaly 3) Anencephaly … A) Skull vault absent but formed brain tissue still present B) Disorganised brain tissue floating in amniotic fluid with no skull C) No brain tissue above the orbits, giving the frog-face appearance",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Acrania and exencephaly are successive stages of the same process that ends as anencephaly with absent cerebrum."
+  },
+  {
+    "op": "add", "unit": "OBG-U3-4", "page": 332, "fmt": "fillup",
+    "sec": "Spina bifida, Arnold-Chiari II signs & craniorachischisis",
+    "q": "Fill up: On the axial head view, scalloping of the frontal bones gives the ______ sign and the displaced cerebellum gives the ______ sign of Arnold-Chiari II malformation.",
+    "opts": ["lemon; banana", "banana; lemon", "lemon; strawberry", "strawberry; banana"],
+    "ans": 0,
+    "exp": "The lemon sign is frontal bone scalloping and the banana sign is the herniated, flattened cerebellum of the Chiari II malformation."
+  },
+  {
+    "op": "add", "unit": "OBG-U3-5", "page": 334, "fmt": "oddoneout",
+    "sec": "Abdominal wall defects: omphalocele vs gastroschisis",
+    "q": "All of the following describe omphalocele EXCEPT:",
+    "opts": [
+      "Bowel loops float freely with no covering membrane over them",
+      "The umbilical cord inserts into the covering sac",
+      "It is a midline defect and often contains the liver",
+      "It is strongly associated with chromosomal anomalies and cardiac defects"
+    ],
+    "ans": 0,
+    "exp": "An uncovered sac is gastroschisis; omphalocele is a midline, membrane-covered defect with the cord on the sac and a high anomaly rate."
+  },
+  {
+    "op": "add", "unit": "OBG-U3-6", "page": 334, "fmt": "truefalse",
+    "sec": "Alpha-fetoprotein (AFP) biology & diagnostic deviations",
+    "q": "Which of the following statements about alpha-fetoprotein is TRUE?",
+    "opts": [
+      "Open spina bifida raises amniotic fluid AFP and acetylcholinesterase, while gastroschisis raises AFP alone",
+      "A low maternal serum AFP is diagnostic of trisomy 21 and needs no further assessment",
+      "Maternal serum AFP interpretation is unaffected by incorrect gestational dating",
+      "Amniotic fluid AFP is normally far higher than fetal serum AFP in a closed neural tube defect"
+    ],
+    "ans": 0,
+    "exp": "Amniotic fluid AFP plus acetylcholinesterase is specific for open defects; wrong dating is the commonest cause of a spurious AFP result."
+  },
+  {
+    "op": "add", "unit": "OBG-U3-7", "page": 335, "fmt": "fillup",
+    "sec": "Aneuploidy principles & Down syndrome genetics",
+    "q": "Fill up: About ______% of Down syndrome is caused by meiotic non-disjunction, and the extra chromosome is of ______ origin in the great majority.",
+    "opts": ["95; maternal", "95; paternal", "50; maternal", "70; paternal"],
+    "ans": 0,
+    "exp": "Roughly 95% is non-disjunction, mostly maternal and rising with maternal age; the rest is translocation or mosaic."
+  },
+  {
+    "op": "add", "unit": "OBG-U3-8", "page": 336, "fmt": "match",
+    "sec": "First trimester screening: dual test & combined test",
+    "q": "Match the test with what it measures — 1) Dual test 2) First-trimester combined test 3) Quadruple test … A) Nuchal translucency plus beta-hCG and PAPP-A with maternal age B) Beta-hCG and PAPP-A alone C) AFP, beta-hCG, unconjugated estriol and inhibin A",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "The dual test is biochemical only; adding nuchal translucency makes it the combined test, and the quad test belongs to the second trimester."
+  },
+  {
+    "op": "add", "unit": "OBG-U3-9", "page": 337, "fmt": "truefalse",
+    "sec": "Nuchal translucency & cystic hygroma differentiation",
+    "q": "Which of the following statements about nuchal translucency is TRUE?",
+    "opts": [
+      "With a nuchal translucency above 3.5 mm and a normal karyotype, a fetal echocardiogram and detailed anatomy scan are indicated",
+      "Cystic hygroma is a thin, septation-free collection that always resolves by the middle of the second trimester",
+      "Nuchal translucency may be measured at any gestational age between 14 and 20 weeks",
+      "A nuchal translucency of 2.5 mm is above the 99th centile at every crown-rump length"
+    ],
+    "ans": 0,
+    "exp": "NT is measured at 11 to 13+6 weeks; a very thick NT with normal chromosomes warrants cardiac and anatomical follow-up, and septated cystic hygroma has a worse prognosis."
+  },
+  {
+    "op": "add", "unit": "OBG-U3-10", "page": 338, "fmt": "oddoneout",
+    "sec": "Second trimester markers: triple, quad & soft sonographic signs",
+    "q": "All of the following are soft sonographic markers of trisomy 21 EXCEPT:",
+    "opts": ["Choroid plexus cysts", "Thickened nuchal fold", "Short femur and humerus", "Echogenic bowel"],
+    "ans": 0,
+    "exp": "Choroid plexus cysts are the classic trisomy 18 marker; nuchal fold thickening, short long bones and echogenic bowel are trisomy 21 markers."
+  },
+  {
+    "op": "add", "unit": "OBG-U3-11", "page": 339, "fmt": "match",
+    "sec": "Non-invasive prenatal testing (NIPT / cffDNA) & integrated screening",
+    "q": "Match the test with what it is — 1) cffDNA or NIPT 2) Chorionic villus sampling 3) Amniocentesis … A) Screening test using placental DNA fragments in maternal blood B) Diagnostic test on placental tissue from 10-13 weeks C) Diagnostic test on amniotic fluid, usually after 15 weeks",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "NIPT remains a screening test because the DNA is placental; CVS and amniocentesis give a definitive fetal karyotype."
+  },
+  {
+    "op": "add", "unit": "OBG-U3-12", "page": 339, "fmt": "scenario",
+    "sec": "Aneuploidy risk interpretation & diagnostic algorithm",
+    "q": "A 38-year-old at 12 weeks has a combined-test risk of 1 in 80 for trisomy 21. She wants certainty but is frightened of procedure-related loss. What is the correct counselling?",
+    "opts": [
+      "Offer diagnostic testing by CVS or amniocentesis, because NIPT remains a screening test at this risk",
+      "Reassure her that 1 in 80 is screen-negative and no further testing is needed",
+      "Offer NIPT and terminate the pregnancy if it is high risk, without confirmatory testing",
+      "Repeat the combined test at 16 weeks to obtain a definitive result"
+    ],
+    "ans": 0,
+    "exp": "A screen-positive result must be confirmed by a diagnostic test before any irreversible decision, and screening tests cannot be repeated as if they were diagnostic."
+  }
+]

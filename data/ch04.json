@@ -1,1134 +1,1374 @@
 {
-  "chapter": 4,
-  "title": "Fetal Surveillance and Maternal Adaptations",
-  "pageRange": "340-357",
-  "units": [
-    {
-      "id": "OBG-U4-1",
-      "ch": 4,
-      "n": 1,
-      "title": "Invasive Prenatal Diagnostic Procedures: CVS vs Amniocentesis",
-      "sec": "Invasive diagnostic tests \u00b7 p340",
-      "guide": "Invasive prenatal diagnosis provides definitive karyotyping when screening indicates aneuploidy. Chorionic villus sampling (CVS) biopsies rapidly dividing cytotrophoblasts at 10-14 weeks, yielding swift results within 48 hours but carrying a 1% procedure-related loss rate and risk of confined placental mosaicism. Amniocentesis samples amniocytes between 15 and 20 weeks with a lower loss rate (<0.5%) and definitive cytogenetic accuracy.",
-      "qs": [
-        "OBG-C4-001",
-        "OBG-C4-002",
-        "OBG-C4-003",
-        "OBG-C4-004",
-        "OBG-C4-005",
-        "OBG-C4-006"
-      ]
-    },
-    {
-      "id": "OBG-U4-2",
-      "ch": 4,
-      "n": 2,
-      "title": "Amniocentesis Technique, Cordocentesis & Fetal Blood",
-      "sec": "Specialized fetal procedures \u00b7 p341",
-      "guide": "Amniocentesis is performed under continuous real-time ultrasound guidance using a 20-22G spinal needle, aspirating approximately 20 mL of amniotic fluid for cytogenetics, viral PCR, or fetal lung maturity testing. Percutaneous umbilical blood sampling (PUBS / cordocentesis) accesses the umbilical vein beyond 18 weeks to measure fetal hemoglobin in severe Rh alloimmunization or non-immune hydrops.",
-      "qs": [
-        "OBG-C4-007",
-        "OBG-C4-008",
-        "OBG-C4-009",
-        "OBG-C4-010",
-        "OBG-C4-011"
-      ]
-    },
-    {
-      "id": "OBG-U4-3",
-      "ch": 4,
-      "n": 3,
-      "title": "Antepartum Fetal Surveillance Principles & Movement Counts",
-      "sec": "Surveillance and fetal movements \u00b7 p342",
-      "guide": "Antepartum fetal surveillance is universally initiated at 32 weeks in high-risk pregnancies (or 2-4 weeks prior to a prior gestational demise). Maternal kick charts, such as the Cardiff 'count-to-10' (10 movements in 2 hours at rest or 12 hours during daily activity), provide a cost-free screening tool; diminished movement reflects early compensatory fetal motor quiescence to preserve central oxygenation.",
-      "qs": [
-        "OBG-C4-012",
-        "OBG-C4-013",
-        "OBG-C4-014",
-        "OBG-C4-015"
-      ]
-    },
-    {
-      "id": "OBG-U4-4",
-      "ch": 4,
-      "n": 4,
-      "title": "Non-Stress Test (NST): Setup, Baseline & Accelerations",
-      "sec": "Cardiotocography principles \u00b7 p343-344",
-      "guide": "The Non-Stress Test (NST) evaluates fetal autonomic integrity by recording fetal heart rate (FHR) responses to fetal movement with the mother in a left lateral tilt. A normal baseline FHR spans 110-160 bpm with moderate baseline variability (6-25 bpm). At >=32 weeks, a reactive acceleration requires a heart rate increase of >=15 bpm lasting >=15 seconds (15x15 rule).",
-      "qs": [
-        "OBG-C4-016",
-        "OBG-C4-017",
-        "OBG-C4-018",
-        "OBG-C4-019",
-        "OBG-C4-020"
-      ]
-    },
-    {
-      "id": "OBG-U4-5",
-      "ch": 4,
-      "n": 5,
-      "title": "Sinusoidal FHR, Non-Reactive Tracings & Algorithm",
-      "sec": "Abnormal tracings and algorithm \u00b7 p344-345",
-      "guide": "A sinusoidal heart rate pattern (smooth regular oscillations, 2-5 cycles/min, amplitude 5-15 bpm) is an ominous sign pathognomonic of severe fetal anemia or acute profound acidemia, demanding immediate delivery. Tracings lacking accelerations over 20 minutes are extended to 40 minutes to account for fetal sleep cycle, followed by acoustic stimulation or biophysical scoring if non-reactivity persists.",
-      "qs": [
-        "OBG-C4-021",
-        "OBG-C4-022",
-        "OBG-C4-023",
-        "OBG-C4-024"
-      ]
-    },
-    {
-      "id": "OBG-U4-6",
-      "ch": 4,
-      "n": 6,
-      "title": "Biophysical Profile (BPP / Manning Score) & Modified BPS",
-      "sec": "Biophysical scoring \u00b7 p345-346",
-      "guide": "Manning's Biophysical Profile combines four ultrasound dynamic variables (tone, gross movement, breathing movements, and single deepest pocket >=2 cm) with the NST, scoring each parameter as 0 or 2. Under progressive hypoxic acidemia, early-developing acute neurological centers (NST, breathing) fail first, while the primitive fetal tone center fails last. A score <=4/10 signals significant acidemia and mandates prompt delivery.",
-      "qs": [
-        "OBG-C4-025",
-        "OBG-C4-026",
-        "OBG-C4-027",
-        "OBG-C4-028",
-        "OBG-C4-029"
-      ]
-    },
-    {
-      "id": "OBG-U4-7",
-      "ch": 4,
-      "n": 7,
-      "title": "Intrapartum Surveillance Principles & Intermittent Auscultation",
-      "sec": "Intrapartum surveillance \u00b7 p347-348",
-      "guide": "Uterine contractions physiologically compress intramyometrial blood vessels, transiently reducing intervillous perfusion. While well-oxygenated fetuses tolerate this stress, compromised fetuses develop decelerations and progressive metabolic acidemia. Routine surveillance in low-risk labor utilizes intermittent auscultation (every 30 mins in first stage, every 15 mins in second stage), switching to continuous electronic monitoring for high-risk conditions.",
-      "qs": [
-        "OBG-C4-030",
-        "OBG-C4-031",
-        "OBG-C4-032",
-        "OBG-C4-033"
-      ]
-    },
-    {
-      "id": "OBG-U4-8",
-      "ch": 4,
-      "n": 8,
-      "title": "Cardiotocography: Baseline, Variability & Prolonged Decelerations",
-      "sec": "CTG baseline and decelerations \u00b7 p348-349",
-      "guide": "CTG interpretation assesses baseline rate (110-160 bpm), baseline variability (moderate 6-25 bpm), and decelerations. Absent variability is the most reliable single herald of fetal hypoxia. Prolonged decelerations (drop >=15 bpm lasting 2-10 minutes) commonly arise from uterine tachysystole induced by oxytocin, managed immediately by stopping uterotonics, lateral repositioning, and acute tocolysis.",
-      "qs": [
-        "OBG-C4-034",
-        "OBG-C4-035",
-        "OBG-C4-036",
-        "OBG-C4-037"
-      ]
-    },
-    {
-      "id": "OBG-U4-9",
-      "ch": 4,
-      "n": 9,
-      "title": "Deceleration Morphologies: Early, Late & Variable Decelerations",
-      "sec": "Deceleration classifications \u00b7 p350-351",
-      "guide": "Early decelerations mirror contractions with a nadir coinciding with the peak of the contraction, caused by vagal stimulation from fetal head compression (benign). Late decelerations lag behind contractions with a delayed nadir, reflecting uteroplacental insufficiency and fetal myocardial hypoxia. Variable decelerations exhibit an abrupt drop caused by umbilical cord compression.",
-      "qs": [
-        "OBG-C4-038",
-        "OBG-C4-039",
-        "OBG-C4-040",
-        "OBG-C4-041"
-      ]
-    },
-    {
-      "id": "OBG-U4-10",
-      "ch": 4,
-      "n": 10,
-      "title": "CTG Categorization (ACOG/FIGO) & Intrauterine Resuscitation",
-      "sec": "CTG categories and resuscitation \u00b7 p351",
-      "guide": "Cardiotocography tracings are stratified into Category 1 (Normal/reassuring), Category 2 (Suspicious/indeterminate), and Category 3 (Pathological/non-reassuring). Category 3 tracings (absent variability with late decelerations, severe variable decelerations, bradycardia, or sinusoidal wave) dictate urgent intrauterine resuscitation\u2014discontinuing oxytocin, maternal left lateral positioning, high-flow oxygen, IV fluid bolus, and rapid delivery.",
-      "qs": [
-        "OBG-C4-042",
-        "OBG-C4-043",
-        "OBG-C4-044"
-      ]
-    },
-    {
-      "id": "OBG-U4-11",
-      "ch": 4,
-      "n": 11,
-      "title": "Fetal Scalp Blood Sampling, Scalp Stimulation & Pulse Oximetry",
-      "sec": "Direct fetal assessment \u00b7 p352",
-      "guide": "Fetal scalp blood sampling directly measures capillary pH when CTG is abnormal (>=7.25 normal, 7.20-7.24 pre-acidotic, <7.20 severe acidosis dictating immediate operative delivery). Prior to incision, fetal scalp stimulation that elicits an acceleration confirms a normal pH in virtually 100% of cases, avoiding unnecessary invasive blood sampling.",
-      "qs": [
-        "OBG-C4-045",
-        "OBG-C4-046",
-        "OBG-C4-047",
-        "OBG-C4-048"
-      ]
-    },
-    {
-      "id": "OBG-U4-12",
-      "ch": 4,
-      "n": 12,
-      "title": "Maternal Adaptations: Cutaneous, Uterine & Cervical Shifts",
-      "sec": "Maternal anatomical adaptations \u00b7 p353-354",
-      "guide": "Elevated estrogen and progesterone stimulate melanogenesis, producing linea nigra, melasma ('mask of pregnancy'), and palmar erythema. The uterus enlarges dramatically from 50 g to 1100 g, driven predominantly by myometrial hypertrophy. The cervix exhibits vascular engorgement (Chadwick/Goodell signs), glandular hyperplasia forming a protective mucus operculum, and benign columnar ectropion.",
-      "qs": [
-        "OBG-C4-049",
-        "OBG-C4-050",
-        "OBG-C4-051",
-        "OBG-C4-052"
-      ]
-    },
-    {
-      "id": "OBG-U4-13",
-      "ch": 4,
-      "n": 13,
-      "title": "Vaginal Ecosystem, Endocrine Shifts & Fluid Retention",
-      "sec": "Vaginal pH, hormones & edema \u00b7 p354-355",
-      "guide": "Lactobacilli ferment vaginal glycogen into lactic acid, dropping vaginal pH to 3.5-4.0; this acidic shield inhibits bacterial pathogens but predisposes to Candida vulvovaginitis. High placental steroids suppress gonadotropins and maintain decidual quiescence. Maternal fluid retention expands extracellular volume by 6.5-8.5 liters, producing benign dependent edema that readily resolves upon recumbency.",
-      "qs": [
-        "OBG-C4-053",
-        "OBG-C4-054",
-        "OBG-C4-055",
-        "OBG-C4-056"
-      ]
-    },
-    {
-      "id": "OBG-U4-14",
-      "ch": 4,
-      "n": 14,
-      "title": "Maternal Hematological Adaptations & Hemodilution",
-      "sec": "Maternal hematology \u00b7 p356",
-      "guide": "Maternal plasma volume expands by 40-50% while erythrocyte mass increases by only 20-30%, creating physiological hemodilution where hemoglobin normally remains >=11.0 g/dL. Pregnancy induces a marked prothrombotic state: fibrinogen doubles (to 400-600 mg/dL), Factors VII, VIII, IX, and X increase, and fibrinolysis is suppressed, while bleeding and clotting times remain unchanged.",
-      "qs": [
-        "OBG-C4-057",
-        "OBG-C4-058",
-        "OBG-C4-059",
-        "OBG-C4-060",
-        "OBG-C4-061"
-      ]
-    },
-    {
-      "id": "OBG-U4-15",
-      "ch": 4,
-      "n": 15,
-      "title": "Maternal Renal, Urinary & Gastrointestinal Adaptations",
-      "sec": "Maternal renal and GI systems \u00b7 p356-357",
-      "guide": "Progesterone relaxes smooth muscle, inducing physiological hydroureter (right > left due to dextrorotated uterine compression) and predisposing to ascending pyelonephritis from asymptomatic bacteriuria. Renal blood flow jumps by 70-80% and GFR by 50%, reducing normal serum creatinine to 0.4-0.6 mg/dL. Progesterone-mediated smooth muscle relaxation delays gallbladder emptying and relaxes the lower esophageal sphincter, exacerbating GERD.",
-      "qs": [
-        "OBG-C4-062",
-        "OBG-C4-063",
-        "OBG-C4-064",
-        "OBG-C4-065"
-      ]
-    }
-  ],
-  "questions": [
-    {
-      "sec": "Invasive diagnostic tests",
-      "page": 340,
-      "q": "What fetal tissue is aspirated and cultured during Chorionic Villus Sampling (CVS)?",
-      "opts": [
-        "Rapidly dividing cytotrophoblast (and mesenchyme) of the chorion frondosum",
-        "Desquamated fetal dermal fibroblasts",
-        "Amniotic membrane epithelial cells",
-        "Fetal nucleated red blood cells"
-      ],
-      "ans": 0,
-      "exp": "CVS samples mitotic trophoblastic tissue (predominantly cytotrophoblast) of the chorion frondosum. (Book p340)",
-      "id": "OBG-C4-001"
-    },
-    {
-      "sec": "Invasive diagnostic tests",
-      "page": 340,
-      "q": "What is the optimal gestational age window for performing Chorionic Villus Sampling (CVS)?",
-      "opts": [
-        "10 to 14 weeks of gestation (ideally 11 to 13 weeks + 6 days)",
-        "15 to 20 weeks of gestation",
-        "6 to 8 weeks of gestation",
-        "18 to 22 weeks of gestation"
-      ],
-      "ans": 0,
-      "exp": "CVS is performed between 10 and 14 weeks (ideal window 11 to 13w6d); it is contraindicated before 10 weeks. (Book p340)",
-      "id": "OBG-C4-002"
-    },
-    {
-      "sec": "Invasive diagnostic tests",
-      "page": 340,
-      "q": "Why is Chorionic Villus Sampling (CVS) strictly contraindicated before 10 completed weeks of gestation?",
-      "opts": [
-        "It carries a substantial risk of severe fetal transverse limb reduction defects and oromandibular/omphalocele anomalies",
-        "It causes immediate maternal Rh sensitization in 100% of cases",
-        "It induces premature rupture of membranes in the first trimester",
-        "The placenta is not yet attached to the decidua"
-      ],
-      "ans": 0,
-      "exp": "CVS performed <10 weeks causes fetal vascular disruption, leading to severe limb reduction defects and micrognathia. (Book p340)",
-      "id": "OBG-C4-003"
-    },
-    {
-      "sec": "Invasive diagnostic tests",
-      "page": 340,
-      "q": "What is the primary cytogenetic diagnostic disadvantage of Chorionic Villus Sampling (CVS) compared to amniocentesis?",
-      "opts": [
-        "In 1-2% of cases, results are confounded by Confined Placental Mosaicism (CPM), requiring confirmatory amniocentesis",
-        "CVS cannot detect numerical aneuploidies like Trisomy 21",
-        "CVS takes 4 weeks to obtain initial karyotype results",
-        "Cytotrophoblasts do not possess nuclear chromosomes"
-      ],
-      "ans": 0,
-      "exp": "Because trophoblast tissue is examined, 1-2% of CVS samples show confined placental mosaicism not present in the fetus, requiring amniocentesis. (Book p340)",
-      "id": "OBG-C4-004"
-    },
-    {
-      "sec": "Invasive diagnostic tests",
-      "page": 340,
-      "q": "What is the standard gestational window for performing mid-trimester diagnostic amniocentesis, and what is its associated procedure-related fetal loss rate?",
-      "opts": [
-        "15 to 20 weeks of gestation (ideal 16-18 weeks); procedure loss rate < 0.5%",
-        "10 to 12 weeks of gestation; procedure loss rate 5%",
-        "24 to 28 weeks of gestation; procedure loss rate 2%",
-        "Any time in the first trimester; procedure loss rate 0%"
-      ],
-      "ans": 0,
-      "exp": "Amniocentesis is routinely performed between 15 and 20 weeks; the procedure-related loss rate is low (<0.5%). (Book p340)",
-      "id": "OBG-C4-005"
-    },
-    {
-      "sec": "Invasive diagnostic tests",
-      "page": 340,
-      "q": "Why is early amniocentesis (performed before 15 weeks of gestation) not clinically recommended?",
-      "opts": [
-        "It is associated with significantly higher fetal loss rates, talipes equinovarus (clubfoot), and fluid leakage",
-        "Amniocytes cannot be karyotyped before 15 weeks",
-        "The fetal heart is arrested by the needle puncture",
-        "Amniotic fluid is devoid of alpha-fetoprotein"
-      ],
-      "ans": 0,
-      "exp": "Early amniocentesis (<15 weeks) is avoided due to increased risks of miscarriage, amniotic fluid leakage, and orthopedic talipes equinovarus. (Book p340)",
-      "id": "OBG-C4-006"
-    },
-    {
-      "sec": "Specialized fetal procedures",
-      "page": 341,
-      "q": "During diagnostic ultrasound-guided amniocentesis at 16 weeks, what size spinal needle is standardly utilized, and what volume of amniotic fluid is aspirated?",
-      "opts": [
-        "20 to 22-gauge spinal needle; approximately 20 mL of fluid",
-        "16-gauge Trocar needle; 50 mL of fluid",
-        "26-gauge butterfly needle; 5 mL of fluid",
-        "18-gauge bone marrow needle; 30 mL of fluid"
-      ],
-      "ans": 0,
-      "exp": "Amniocentesis uses a 20-22G spinal needle under continuous real-time USG guidance, discarding the first 1-2 mL and collecting ~20 mL. (Book p341)",
-      "id": "OBG-C4-007"
-    },
-    {
-      "sec": "Specialized fetal procedures",
-      "page": 341,
-      "q": "In the third trimester, what was the classic indication for performing diagnostic amniocentesis?",
-      "opts": [
-        "Assessing fetal lung maturity via the Lecithin-to-Sphingomyelin (L/S) ratio",
-        "Testing for sickle cell anemia carrier status",
-        "Measuring fetal head circumference",
-        "Assessing maternal alpha-fetoprotein"
-      ],
-      "ans": 0,
-      "exp": "In the third trimester, amniocentesis was historically performed to assess fetal pulmonary maturity via the L/S ratio (>=2.0 indicates mature lungs). (Book p341)",
-      "id": "OBG-C4-008"
-    },
-    {
-      "sec": "Specialized fetal procedures",
-      "page": 341,
-      "q": "Percutaneous Umbilical Blood Sampling (PUBS / Cordocentesis) is performed under ultrasound guidance starting at >= 18 weeks. Which umbilical vessel is specifically targeted for puncture?",
-      "opts": [
-        "The umbilical vein, near its placental insertion site",
-        "The right umbilical artery near the fetal abdominal wall",
-        "The ductus arteriosus",
-        "The vitelline vein"
-      ],
-      "ans": 0,
-      "exp": "Cordocentesis samples fetal blood by puncturing the umbilical vein approximately 1 cm from the placental insertion site. (Book p341)",
-      "id": "OBG-C4-009"
-    },
-    {
-      "sec": "Specialized fetal procedures",
-      "page": 341,
-      "q": "What is the primary contemporary clinical indication for performing cordocentesis?",
-      "opts": [
-        "Direct assessment of fetal hemoglobin/hematocrit and direct intrauterine transfusion in severe Rh isoimmunization",
-        "Routine first-line screening for Down syndrome",
-        "Evaluation of neural tube defect risk",
-        "Measurement of maternal serum human placental lactogen"
-      ],
-      "ans": 0,
-      "exp": "Cordocentesis carries a ~2% procedure-related loss rate and is reserved for diagnostic/therapeutic fetal blood transfusion in severe anemia. (Book p341)",
-      "id": "OBG-C4-010"
-    },
-    {
-      "sec": "Specialized fetal procedures",
-      "page": 341,
-      "q": "What is the most common congenital cardiovascular malformation diagnosed in infants with Down syndrome (Trisomy 21)?",
-      "opts": [
-        "Endocardial cushion defect / Atrioventricular septal defect (AVSD)",
-        "Tetralogy of Fallot",
-        "Coarctation of the aorta",
-        "Transposition of the great arteries"
-      ],
-      "ans": 0,
-      "exp": "Endocardial cushion defect (complete AV canal defect) is the most frequent cardiac lesion in Down syndrome, followed by VSD and ASD. (Book p341)",
-      "id": "OBG-C4-011"
-    },
-    {
-      "sec": "Surveillance and fetal movements",
-      "page": 342,
-      "q": "In all high-risk pregnancies (e.g., pre-eclampsia, diabetes, IUGR), formal antepartum fetal surveillance is recommended to commence at:",
-      "opts": [
-        "32 weeks of gestation",
-        "24 weeks of gestation",
-        "28 weeks of gestation",
-        "37 weeks of gestation"
-      ],
-      "ans": 0,
-      "exp": "Formal antepartum fetal surveillance (NST, BPP) is routinely started at 32 weeks in high-risk pregnancies. (Book p342)",
-      "id": "OBG-C4-012"
-    },
-    {
-      "sec": "Surveillance and fetal movements",
-      "page": 342,
-      "q": "When a pregnant woman has a history of an unexplained stillbirth in a previous pregnancy, when should antepartum fetal surveillance begin in the index pregnancy?",
-      "opts": [
-        "2 to 4 weeks prior to the gestational age at which the previous adverse outcome occurred",
-        "At 37 weeks of gestation",
-        "From the day of positive pregnancy test",
-        "Only when labor contractions begin"
-      ],
-      "ans": 0,
-      "exp": "Surveillance begins 2 to 4 weeks before the gestational age of the previous stillbirth or adverse fetal outcome. (Book p342)",
-      "id": "OBG-C4-013"
-    },
-    {
-      "sec": "Surveillance and fetal movements",
-      "page": 342,
-      "q": "Under the Cardiff 'Count-to-10' protocol for daily fetal movement assessment, fetal activity is considered normal when the mother perceives:",
-      "opts": [
-        "At least 10 discrete fetal movements within 2 hours while resting in the left lateral position (or 10 in 12 hours of normal activity)",
-        "At least 3 movements per day",
-        "At least 20 movements every hour",
-        "At least 1 movement every 10 minutes"
-      ],
-      "ans": 0,
-      "exp": "Cardiff 'count of 10': perceiving >=10 movements over 2 hours at rest (or within 12 hours during daily activity) is reassuring. (Book p342)",
-      "id": "OBG-C4-014"
-    },
-    {
-      "sec": "Surveillance and fetal movements",
-      "page": 342,
-      "q": "What is the primary physiological mechanism leading to decreased fetal movements in chronic placental insufficiency?",
-      "opts": [
-        "Fetal compensatory behavioral adaptation to reduce energy and oxygen consumption in the face of hypoxemia",
-        "Complete motor paralysis of the fetal spinal cord",
-        "Compression of the fetal brainstem by amniotic bands",
-        "Maternal hypoglycemia causing fetal lethargy"
-      ],
-      "ans": 0,
-      "exp": "Decreased fetal movement is a compensatory survival mechanism to conserve oxygen and nutrients in response to chronic hypoxia. (Book p342)",
-      "id": "OBG-C4-015"
-    },
-    {
-      "sec": "Cardiotocography principles",
-      "page": 343,
-      "q": "How does an external cardiotocography machine monitor and record fetal well-being during a Non-Stress Test (NST)?",
-      "opts": [
-        "An ultrasound Doppler transducer records FHR and a tocodynamometer records uterine activity, while the mother presses a event marker for fetal movements",
-        "A scalp electrode is placed directly on the fetal skull",
-        "A pressure catheter is placed inside the amniotic cavity",
-        "Maternal pulse oximetry is recorded alongside fetal ECG"
-      ],
-      "ans": 0,
-      "exp": "External CTG uses two abdominal transducers: an ultrasound transducer for FHR and a tocodynamometer for uterine contractions. (Book p343)",
-      "id": "OBG-C4-016"
-    },
-    {
-      "sec": "Cardiotocography principles",
-      "page": 344,
-      "q": "What is the normal physiological baseline fetal heart rate (FHR) range on cardiotocography, evaluated over a minimum 10-minute window?",
-      "opts": [
-        "110 to 160 beats per minute (bpm)",
-        "120 to 180 bpm",
-        "90 to 130 bpm",
-        "100 to 140 bpm"
-      ],
-      "ans": 0,
-      "exp": "Normal baseline FHR is 110-160 bpm; baseline <110 bpm is bradycardia, and >160 bpm is tachycardia. (Book p344)",
-      "id": "OBG-C4-017"
-    },
-    {
-      "sec": "Cardiotocography principles",
-      "page": 344,
-      "q": "Normal baseline fetal heart rate variability represents healthy autonomic cardiac control and is quantified as:",
-      "opts": [
-        "Fluctuations of 6 to 25 bpm around the baseline",
-        "Fluctuations of < 5 bpm around the baseline",
-        "Fluctuations of > 30 bpm around the baseline",
-        "Completely flat, unvarying FHR"
-      ],
-      "ans": 0,
-      "exp": "Moderate (normal) baseline variability is 6-25 bpm, reflecting balanced sympathetic and parasympathetic autonomic inputs. (Book p344)",
-      "id": "OBG-C4-018"
-    },
-    {
-      "sec": "Cardiotocography principles",
-      "page": 344,
-      "q": "At >= 32 weeks of gestation, a reactive fetal heart rate acceleration is strictly defined as an increase in FHR above baseline of at least:",
-      "opts": [
-        "15 bpm lasting for at least 15 seconds (15x15 rule)",
-        "10 bpm lasting for at least 10 seconds (10x10 rule)",
-        "20 bpm lasting for at least 2 minutes",
-        "30 bpm lasting for at least 30 seconds"
-      ],
-      "ans": 0,
-      "exp": "At >=32 weeks, acceleration is defined as >=15 bpm above baseline lasting >=15 seconds from onset to return (15x15 rule). (Book p344)",
-      "id": "OBG-C4-019"
-    },
-    {
-      "sec": "Cardiotocography principles",
-      "page": 344,
-      "q": "If an NST is conducted in a preterm fetus between 28 and 31+6 weeks of gestation, what criteria define an acceleration?",
-      "opts": [
-        "An increase in FHR of >= 10 bpm above baseline lasting for >= 10 seconds (10x10 rule)",
-        "An increase in FHR of >= 15 bpm lasting >= 15 seconds",
-        "An increase of >= 25 bpm lasting >= 30 seconds",
-        "Accelerations are not evaluated before 34 weeks"
-      ],
-      "ans": 0,
-      "exp": "Before 32 weeks, immature autonomic innervation permits the 10x10 rule (>=10 bpm for >=10 seconds) to qualify as an acceleration. (Book p344)",
-      "id": "OBG-C4-020"
-    },
-    {
-      "sec": "Abnormal tracings and algorithm",
-      "page": 344,
-      "q": "A sinusoidal fetal heart rate pattern on cardiotocography is an ominous finding that characteristically indicates:",
-      "opts": [
-        "Severe fetal anemia (e.g., Rh isoimmunization, Parvovirus B19, vasa previa) or acute severe hypoxia/acidemia",
-        "Benign physiological fetal quiet sleep",
-        "Normal response to maternal food intake",
-        "Fetal head compression in the pelvic inlet"
-      ],
-      "ans": 0,
-      "exp": "A sinusoidal wave pattern (regular sine wave, 2-5 cycles/min, amplitude 5-15 bpm) signifies severe fetal anemia or severe hypoxia/acidosis. (Book p344)",
-      "id": "OBG-C4-021"
-    },
-    {
-      "sec": "Abnormal tracings and algorithm",
-      "page": 345,
-      "q": "What criteria define a 'Reactive' (negative) Non-Stress Test over a 20-minute monitoring period at term?",
-      "opts": [
-        "At least 2 qualifying accelerations (>=15 bpm for >=15s) within 20 minutes with normal baseline and moderate variability",
-        "Absence of any fetal heart rate accelerations",
-        "Continuous accelerations lasting > 10 minutes",
-        "Presence of early decelerations with each contraction"
-      ],
-      "ans": 0,
-      "exp": "A reactive NST requires >=2 accelerations of >=15 bpm lasting >=15 seconds in a 20-minute window with normal baseline and variability. (Book p345)",
-      "id": "OBG-C4-022"
-    },
-    {
-      "sec": "Abnormal tracings and algorithm",
-      "page": 345,
-      "q": "If an initial 20-minute NST demonstrates fewer than 2 accelerations, what is the mandatory immediate next step?",
-      "opts": [
-        "Extend the monitoring period for an additional 20 minutes (total 40 minutes) to account for the physiological fetal sleep cycle",
-        "Perform an immediate emergency Caesarean delivery",
-        "Administer high-dose oxytocin infusion",
-        "Discharge the patient with reassurance"
-      ],
-      "ans": 0,
-      "exp": "Normal fetal sleep cycles last 20-40 minutes; an initial non-reactive test must be extended to 40 minutes before declaring it non-reactive. (Book p345)",
-      "id": "OBG-C4-023"
-    },
-    {
-      "sec": "Abnormal tracings and algorithm",
-      "page": 345,
-      "q": "What is the diagnostic accuracy profile of a reactive NST versus a non-reactive NST?",
-      "opts": [
-        "Reactive NST has a very high negative predictive value (>99%); non-reactive NST has a high false-positive rate (~50%) requiring BPS confirmation",
-        "Non-reactive NST is 100% specific for fetal death",
-        "Reactive NST has a 50% false negative rate",
-        "Both tests have identical 90% positive predictive value"
-      ],
-      "ans": 0,
-      "exp": "A reactive NST reliably predicts normal oxygenation (>99% NPV); however, non-reactive NST has ~50% false positives and must be confirmed by BPS. (Book p345)",
-      "id": "OBG-C4-024"
-    },
-    {
-      "sec": "Biophysical scoring",
-      "page": 345,
-      "q": "In Manning's Biophysical Profile (BPP), how are each of the five biophysical parameters scored?",
-      "opts": [
-        "Either 0 (abnormal/absent) or 2 (normal/present), for a maximum composite score of 10",
-        "Scored from 0 to 4 based on gestational age",
-        "Scored 1, 2, or 3 based on duration",
-        "Scored 0 or 1, for a maximum score of 5"
-      ],
-      "ans": 0,
-      "exp": "BPP evaluates 5 parameters (NST, fetal breathing, gross movement, tone, amniotic fluid), scoring each as either 0 or 2 (maximum 10). (Book p345)",
-      "id": "OBG-C4-025"
-    },
-    {
-      "sec": "Biophysical scoring",
-      "page": 345,
-      "q": "To receive a normal score of 2 for 'Amniotic Fluid Volume' in the Biophysical Profile, what ultrasound criterion must be met?",
-      "opts": [
-        "At least one vertical pocket of amniotic fluid measuring >= 2.0 cm in depth (Single Deepest Pocket)",
-        "An Amniotic Fluid Index (AFI) of >= 15 cm",
-        "A fluid pocket completely filled with fetal limbs",
-        "A pocket measuring >= 8 cm"
-      ],
-      "ans": 0,
-      "exp": "A score of 2 for amniotic fluid requires at least one vertical fluid pocket measuring >= 2 cm without umbilical cord or fetal extremities. (Book p345)",
-      "id": "OBG-C4-026"
-    },
-    {
-      "sec": "Biophysical scoring",
-      "page": 346,
-      "q": "In progressive fetal hypoxemia and acidemia, in what order are the biophysical parameters compromised and lost?",
-      "opts": [
-        "NST and fetal breathing are lost earliest; gross body movements and fetal tone are lost latest",
-        "Fetal tone is lost first, followed by breathing and NST",
-        "Amniotic fluid volume is lost immediately within minutes",
-        "All parameters cease simultaneously at pH 7.30"
-      ],
-      "ans": 0,
-      "exp": "Under hypoxia, regulatory centers in the brainstem fail in reverse embryological order: NST and breathing disappear first; tone is lost last. (Book p346)",
-      "id": "OBG-C4-027"
-    },
-    {
-      "sec": "Biophysical scoring",
-      "page": 346,
-      "q": "A patient at 38 weeks of gestation undergoes a Biophysical Profile that yields a score of 8/10, but the 2 points lost are for decreased amniotic fluid volume (oligohydramnios). What is the management?",
-      "opts": [
-        "Delivery of the fetus, because oligohydramnios indicates chronic placental insufficiency",
-        "Reassurance and repeat BPP in 1 week",
-        "Bed rest and maternal IV hydration with discharge",
-        "Emergency Caesarean section under general anesthesia within 15 minutes"
-      ],
-      "ans": 0,
-      "exp": "An 8/10 score with oligohydramnios indicates chronic compromised placental perfusion; delivery is indicated if the pregnancy is >=36-37 weeks. (Book p346)",
-      "id": "OBG-C4-028"
-    },
-    {
-      "sec": "Biophysical scoring",
-      "page": 346,
-      "q": "What two components constitute the 'Modified Biophysical Profile' used as an efficient antenatal screening tool?",
-      "opts": [
-        "Non-Stress Test (NST, reflecting acute oxygenation) plus Amniotic Fluid Assessment / SDP (reflecting chronic placental function)",
-        "Fetal breathing movements plus umbilical artery Doppler",
-        "Fetal tone plus maternal serum AFP",
-        "Cardiotocography plus fetal scalp pH"
-      ],
-      "ans": 0,
-      "exp": "The modified BPP combines the NST (marker of acute fetal acid-base status) with amniotic fluid evaluation (marker of chronic placental perfusion). (Book p346)",
-      "id": "OBG-C4-029"
-    },
-    {
-      "sec": "Intrapartum surveillance",
-      "page": 347,
-      "q": "Why do normal uterine contractions during labor pose a physiological stress to fetal oxygenation?",
-      "opts": [
-        "Myometrial contractions increase intramyocardial/intramural pressure, temporarily compressing spiral vessels and reducing intervillous blood flow",
-        "Contractions increase maternal blood pressure to pathological levels",
-        "Contractions trigger fetal hypothermia",
-        "Contractions cause permanent thrombosis of the umbilical vein"
-      ],
-      "ans": 0,
-      "exp": "During uterine contractions, intramyometrial pressure exceeds spiral artery pressure, temporarily arresting placental perfusion. (Book p347)",
-      "id": "OBG-C4-030"
-    },
-    {
-      "sec": "Intrapartum surveillance",
-      "page": 347,
-      "q": "According to WHO recommendations for low-risk labor, what is the frequency of intermittent fetal heart sound auscultation during the first and second stages of labor?",
-      "opts": [
-        "Every 30 minutes in the first stage; every 15 minutes in the second stage",
-        "Every 15 minutes in the first stage; every 5 minutes in the second stage",
-        "Every 60 minutes in the first stage; every 30 minutes in the second stage",
-        "Continuous auscultation throughout both stages"
-      ],
-      "ans": 0,
-      "exp": "In low-risk labor: auscultate every 30 minutes in the first stage (active phase), and every 15 minutes in the second stage. (Book p347)",
-      "id": "OBG-C4-031"
-    },
-    {
-      "sec": "Intrapartum surveillance",
-      "page": 347,
-      "q": "In high-risk intrapartum cases monitored by intermittent auscultation, what is the required frequency of auscultation in the first and second stages of labor?",
-      "opts": [
-        "Every 15 minutes in the first stage; every 5 minutes in the second stage",
-        "Every 30 minutes in the first stage; every 15 minutes in the second stage",
-        "Every 5 minutes in the first stage; continuously in the second stage",
-        "Every 45 minutes in both stages"
-      ],
-      "ans": 0,
-      "exp": "For high-risk labor: auscultate every 15 minutes during the first stage, and every 5 minutes during the second stage. (Book p347)",
-      "id": "OBG-C4-032"
-    },
-    {
-      "sec": "Intrapartum surveillance",
-      "page": 348,
-      "q": "When performing intermittent auscultation during labor, for how long should the fetal heart rate be counted, and when in relation to a contraction?",
-      "opts": [
-        "Counted for at least 1 full minute, continuing immediately after the end of a uterine contraction",
-        "Counted for 15 seconds during the peak of a contraction",
-        "Counted for 30 seconds before contractions begin",
-        "Counted only during uterine relaxation between contractions"
-      ],
-      "ans": 0,
-      "exp": "Auscultation is performed for 60 seconds immediately following a contraction to detect potential late decelerations. (Book p348)",
-      "id": "OBG-C4-033"
-    },
-    {
-      "sec": "CTG baseline and decelerations",
-      "page": 348,
-      "q": "What is the most common maternal cause of persistent baseline fetal tachycardia (>160 bpm) during active labor?",
-      "opts": [
-        "Maternal fever and intra-amniotic infection (chorioamnionitis)",
-        "Supine hypotensive syndrome",
-        "Epidural analgesia without epinephrine",
-        "Maternal hypocalcemia"
-      ],
-      "ans": 0,
-      "exp": "Maternal pyrexia and chorioamnionitis are the most frequent causes of intrapartum baseline fetal tachycardia. (Book p348)",
-      "id": "OBG-C4-034"
-    },
-    {
-      "sec": "CTG baseline and decelerations",
-      "page": 348,
-      "q": "Which parameter on cardiotocography is considered the single most reliable indicator of fetal normoxemia and absence of cerebral acidemia?",
-      "opts": [
-        "Moderate baseline variability (6 to 25 bpm)",
-        "Baseline FHR of exactly 140 bpm",
-        "Frequent early decelerations",
-        "Absence of any uterine contractions"
-      ],
-      "ans": 0,
-      "exp": "Moderate baseline variability (6-25 bpm) is the single most reliable sign of normal central fetal oxygenation and normal cord pH. (Book p348)",
-      "id": "OBG-C4-035"
-    },
-    {
-      "sec": "CTG baseline and decelerations",
-      "page": 349,
-      "q": "A prolonged deceleration on CTG is defined as a decrease in fetal heart rate of >= 15 bpm below baseline lasting for:",
-      "opts": [
-        "At least 2 minutes but less than 10 minutes",
-        "At least 30 seconds but less than 1 minute",
-        "Greater than 10 minutes continuously",
-        "Exactly 15 seconds"
-      ],
-      "ans": 0,
-      "exp": "A prolonged deceleration is a drop in FHR >=15 bpm lasting >=2 minutes but <10 minutes; if >=10 minutes, it is a baseline change. (Book p349)",
-      "id": "OBG-C4-036"
-    },
-    {
-      "sec": "CTG baseline and decelerations",
-      "page": 349,
-      "q": "What is the most frequent iatrogenic cause of acute prolonged fetal heart rate decelerations during induced labor?",
-      "opts": [
-        "Uterine hyperstimulation/tachysystole resulting from oxytocin or misoprostol administration",
-        "Administration of prophylactic ampicillin",
-        "Artificial rupture of membranes",
-        "Maternal oral hydration with water"
-      ],
-      "ans": 0,
-      "exp": "Excessive uterine activity (hyperstimulation/tachysystole) driven by oxytocin or prostaglandins is the most common cause of prolonged decelerations. (Book p349)",
-      "id": "OBG-C4-037"
-    },
-    {
-      "sec": "Deceleration classifications",
-      "page": 350,
-      "q": "Early decelerations on intrapartum CTG are characterized by a gradual decrease in FHR that mirrors the uterine contraction. What is their physiological cause?",
-      "opts": [
-        "Fetal head compression causing transient increased intracranial pressure and vagal stimulation",
-        "Umbilical vein compression",
-        "Uteroplacental insufficiency",
-        "Placental abruption"
-      ],
-      "ans": 0,
-      "exp": "Early decelerations result from fetal head compression during contractions, eliciting a benign vagal reflex; they are non-hypoxic. (Book p350)",
-      "id": "OBG-C4-038"
-    },
-    {
-      "sec": "Deceleration classifications",
-      "page": 350,
-      "q": "Why are late decelerations considered the most ominous deceleration pattern on cardiotocography?",
-      "opts": [
-        "Their nadir occurs after the peak of the contraction, reflecting uteroplacental insufficiency and fetal myocardial hypoxia",
-        "They indicate fetal head compression at the perineum",
-        "They reflect rapid cord prolapse through the cervix",
-        "They are caused by maternal sleep"
-      ],
-      "ans": 0,
-      "exp": "Late decelerations lag behind contractions, caused by chemo/baroreceptor triggering from transient hypoxemia in uteroplacental insufficiency. (Book p350)",
-      "id": "OBG-C4-039"
-    },
-    {
-      "sec": "Deceleration classifications",
-      "page": 351,
-      "q": "Variable decelerations exhibit an abrupt drop (<30 seconds to nadir) and vary in shape, depth, and duration. What is their primary cause?",
-      "opts": [
-        "Umbilical cord compression",
-        "Fetal head compression",
-        "Maternal hypothermia",
-        "Placental calcification"
-      ],
-      "ans": 0,
-      "exp": "Variable decelerations are triggered by umbilical cord occlusion/compression (transient umbilical vein and artery collapse). (Book p351)",
-      "id": "OBG-C4-040"
-    },
-    {
-      "sec": "Deceleration classifications",
-      "page": 351,
-      "q": "On a cardiotocograph showing variable decelerations, what are 'shoulders' (transient accelerations before and after the deceleration)?",
-      "opts": [
-        "A reassuring compensatory feature indicating healthy fetal autonomic response to transient cord occlusion",
-        "An ominous sign of impending cardiac arrest",
-        "Artifact produced by maternal coughing",
-        "Evidence of fetal seizure activity"
-      ],
-      "ans": 0,
-      "exp": "'Shoulders' represent initial venous and late release compensatory accelerations, signaling intact autonomic responsiveness and good prognosis. (Book p351)",
-      "id": "OBG-C4-041"
-    },
-    {
-      "sec": "CTG categories and resuscitation",
-      "page": 351,
-      "q": "Under the 3-tier ACOG/FIGO intrapartum CTG classification, what characterizes a Category 1 (Normal / Reassuring) tracing?",
-      "opts": [
-        "Baseline 110-160 bpm, moderate variability (6-25 bpm), no late or variable decelerations, early decelerations present or absent",
-        "Absence of any baseline variability with mild tachycardia",
-        "Presence of recurrent late decelerations with normal baseline",
-        "Sinusoidal pattern with accelerations"
-      ],
-      "ans": 0,
-      "exp": "Category 1 criteria: baseline 110-160 bpm, moderate variability (6-25 bpm), absence of late/variable decelerations, +/- early decelerations or accelerations. (Book p351)",
-      "id": "OBG-C4-042"
-    },
-    {
-      "sec": "CTG categories and resuscitation",
-      "page": 351,
-      "q": "Which of the following CTG abnormalities places a tracing into Category 3 (Abnormal / Non-reassuring)?",
-      "opts": [
-        "Absent baseline variability accompanied by recurrent late decelerations or a sinusoidal pattern",
-        "Early decelerations during the second stage of labor",
-        "Moderate variability with isolated acceleration",
-        "Baseline FHR of 150 bpm without decelerations"
-      ],
-      "ans": 0,
-      "exp": "Category 3 includes absent baseline variability with recurrent late decelerations, recurrent variable decelerations, bradycardia, or sinusoidal pattern. (Book p351)",
-      "id": "OBG-C4-043"
-    },
-    {
-      "sec": "CTG categories and resuscitation",
-      "page": 351,
-      "q": "What is the initial pharmacological step in intrauterine resuscitation when acute fetal decelerations occur in the presence of uterine hyperstimulation?",
-      "opts": [
-        "Immediately discontinue oxytocin infusion and administer terbutaline (0.25 mg SC) for acute tocolysis",
-        "Increase oxytocin infusion to accelerate delivery",
-        "Administer intravenous methylergometrine bolus",
-        "Administer high-dose magnesium sulfate bolus"
-      ],
-      "ans": 0,
-      "exp": "Immediate intrauterine resuscitation: stop oxytocin, turn to left lateral position, administer IV fluids and O2, and give terbutaline to relax the uterus. (Book p351)",
-      "id": "OBG-C4-044"
-    },
-    {
-      "sec": "Direct fetal assessment",
-      "page": 352,
-      "q": "What cervical dilatation and fetal station are prerequisite before attempting fetal scalp blood sampling?",
-      "opts": [
-        "Cervix dilated >= 4 to 5 cm with vertex at or below -1.5 station",
-        "Cervix dilated 1 cm with floating head",
-        "Fully dilated cervix with head on perineum",
-        "Cervix closed with intact membranes"
-      ],
-      "ans": 0,
-      "exp": "Prerequisites for scalp sampling: ruptured membranes, cervix dilated >=4-5 cm, and vertex engaged at least at -1.5 station. (Book p352)",
-      "id": "OBG-C4-045"
-    },
-    {
-      "sec": "Direct fetal assessment",
-      "page": 352,
-      "q": "What fetal scalp capillary blood pH cutoffs represent normal, pre-acidotic, and acidotic states?",
-      "opts": [
-        ">= 7.25 is normal; 7.20 to 7.24 is pre-acidotic (repeat in 20-30 mins); < 7.20 is acidotic (requires immediate delivery)",
-        ">= 7.40 is normal; 7.30 is pre-acidotic; < 7.25 is acidotic",
-        ">= 7.10 is normal; < 7.00 is acidotic",
-        ">= 7.00 is normal in all labors"
-      ],
-      "ans": 0,
-      "exp": "Scalp pH: >=7.25 is normal, 7.20-7.24 is borderline/pre-acidotic (repeat in 20-30m), and <7.20 indicates severe acidemia requiring immediate delivery. (Book p352)",
-      "id": "OBG-C4-046"
-    },
-    {
-      "sec": "Direct fetal assessment",
-      "page": 352,
-      "q": "During digital examination in labor, digital fetal scalp stimulation that elicits a fetal heart rate acceleration (>=15 bpm for >=15s) indicates:",
-      "opts": [
-        "Fetal scalp pH is >= 7.25 in 99-100% of cases, reliably ruling out significant acidemia and avoiding scalp sampling",
-        "Severe fetal hypoxia requiring immediate emergency C-section",
-        "Cord prolapse into the vagina",
-        "Impending uterine rupture"
-      ],
-      "ans": 0,
-      "exp": "An acceleration in response to scalp stimulation correlates with scalp pH >=7.25 in virtually 100% of cases, reliably excluding acidemia. (Book p352)",
-      "id": "OBG-C4-047"
-    },
-    {
-      "sec": "Direct fetal assessment",
-      "page": 352,
-      "q": "During intrapartum fetal pulse oximetry, a fetal arterial oxygen saturation (SpO2) falling below which threshold is strongly associated with fetal acidosis?",
-      "opts": [
-        "SpO2 < 30% for >= 2 minutes",
-        "SpO2 < 90% for 1 minute",
-        "SpO2 < 70% for 5 minutes",
-        "SpO2 < 50% for 10 minutes"
-      ],
-      "ans": 0,
-      "exp": "A fetal SpO2 < 30% for at least 2 minutes on continuous intrapartum pulse oximetry correlates with fetal metabolic acidosis. (Book p352)",
-      "id": "OBG-C4-048"
-    },
-    {
-      "sec": "Maternal anatomical adaptations",
-      "page": 353,
-      "q": "Gestational hyperpigmentation (linea nigra, chloasma/melasma) is primarily driven by elevated estrogen and progesterone stimulating:",
-      "opts": [
-        "Melanocyte-stimulating hormone (MSH) and melanocyte sensitivity",
-        "Maternal thyroid-stimulating hormone (TSH)",
-        "Prolactin receptor up-regulation",
-        "Cortisol degradation in the liver"
-      ],
-      "ans": 0,
-      "exp": "Estrogen and progesterone stimulate melanocytes and MSH release, producing hyperpigmentation along the midline (linea nigra) and face (chloasma). (Book p353)",
-      "id": "OBG-C4-049"
-    },
-    {
-      "sec": "Maternal anatomical adaptations",
-      "page": 353,
-      "q": "The non-pregnant uterus weighs approximately 50-60 g and enlarges to approximately 1100 g at term. What is the primary cellular mechanism driving this enlargement?",
-      "opts": [
-        "Myometrial hypertrophy (hyperplasia occurs only in the first trimester)",
-        "Myometrial hyperplasia throughout all three trimesters",
-        "Deposition of adipose tissue within the perimetrium",
-        "Endometrial stromal carcinoma"
-      ],
-      "ans": 0,
-      "exp": "Uterine enlargement is overwhelmingly due to hypertrophy of existing smooth muscle fibers (hyperplasia is limited to early first trimester). (Book p353)",
-      "id": "OBG-C4-050"
-    },
-    {
-      "sec": "Maternal anatomical adaptations",
-      "page": 354,
-      "q": "What are Montgomery's tubercles, which become prominent on the maternal breasts by 8-12 weeks of gestation?",
-      "opts": [
-        "Hypertrophied sebaceous glands located on the primary areola",
-        "Accessory lactiferous duct orifices",
-        "Superficial thrombosed veins of the breast",
-        "Ectopic apocrine sweat gland cysts"
-      ],
-      "ans": 0,
-      "exp": "Montgomery's tubercles are hypertrophic sebaceous glands on the areola that secrete a protective, lubricating lipoid fluid. (Book p354)",
-      "id": "OBG-C4-051"
-    },
-    {
-      "sec": "Maternal anatomical adaptations",
-      "page": 354,
-      "q": "A pregnant woman presents with painless, minor post-coital vaginal spotting. Speculum examination reveals a red, velvety, glandular outgrowth of endocervical mucosa onto the exocervix. What is the diagnosis?",
-      "opts": [
-        "Cervical ectropion / eversion (benign physiological adaptation; no biopsy required)",
-        "Cervical squamous cell carcinoma",
-        "Cervical intraepithelial neoplasia grade 3",
-        "Placenta accreta"
-      ],
-      "ans": 0,
-      "exp": "Eversion of the endocervical columnar epithelium (ectropion) is a physiological response to estrogen; it is benign and requires reassurance. (Book p354)",
-      "id": "OBG-C4-052"
-    },
-    {
-      "sec": "Vaginal pH, hormones & edema",
-      "page": 354,
-      "q": "During normal pregnancy, the vaginal pH becomes markedly acidic (pH 3.5 to 4.0) due to:",
-      "opts": [
-        "D\u00f6derlein's lactobacilli fermenting estrogen-induced mucosal glycogen into lactic acid",
-        "Direct transudation of amniotic fluid into the vaginal vault",
-        "Excess secretion of gastric hydrochloric acid",
-        "Secretion of acidic mucus from the Bartholin glands"
-      ],
-      "ans": 0,
-      "exp": "Estrogen increases epithelial glycogen, which D\u00f6derlein's bacilli ferment to lactic acid, creating an acidic pH (3.5) protective against pathogens. (Book p354)",
-      "id": "OBG-C4-053"
-    },
-    {
-      "sec": "Vaginal pH, hormones & edema",
-      "page": 354,
-      "q": "What is the most common form of infectious vaginitis encountered during pregnancy, thriving in the acidic vaginal microenvironment?",
-      "opts": [
-        "Candida albicans vulvovaginitis",
-        "Trichomonas vaginalis",
-        "Bacterial vaginosis (Gardnerella)",
-        "Chlamydia trachomatis"
-      ],
-      "ans": 0,
-      "exp": "Candida albicans thrives in the acidic, glycogen-rich environment of the pregnant vagina, making candidiasis the most common vaginitis. (Book p354)",
-      "id": "OBG-C4-054"
-    },
-    {
-      "sec": "Vaginal pH, hormones & edema",
-      "page": 355,
-      "q": "Why is lactation physiologically suppressed during pregnancy despite maternal prolactin levels rising up to 10-fold by term?",
-      "opts": [
-        "High circulating levels of placental estrogen and progesterone competitively block prolactin action at the breast alveolar receptors",
-        "The posterior pituitary fails to synthesize oxytocin",
-        "Maternal thyroid hormone inhibits milk synthesis",
-        "Prolactin in pregnancy is biologically inactive"
-      ],
-      "ans": 0,
-      "exp": "Placental estrogen and progesterone block prolactin's secretory effect on alveolar cells; rapid steroid decline after delivery unleashes lactation. (Book p355)",
-      "id": "OBG-C4-055"
-    },
-    {
-      "sec": "Vaginal pH, hormones & edema",
-      "page": 355,
-      "q": "How can an examiner clinically differentiate physiological dependent edema of pregnancy from pathological pre-eclamptic edema?",
-      "opts": [
-        "Physiological edema is restricted to dependent lower extremities and subsides with overnight recumbency; pathological edema involves face/hands and persists",
-        "Physiological edema is non-pitting, whereas pathological edema is pitting",
-        "Physiological edema is accompanied by marked proteinuria",
-        "Pathological edema always disappears after walking"
-      ],
-      "ans": 0,
-      "exp": "Physiological edema occurs in dependent areas (ankles) from IVC compression and resolves with rest; pathological edema is generalized (face, hands) and persists. (Book p355)",
-      "id": "OBG-C4-056"
-    },
-    {
-      "sec": "Maternal hematology",
-      "page": 356,
-      "q": "During normal singleton pregnancy, maternal plasma volume expands by 40-50%, whereas red blood cell volume increases by 20-30%. This physiological mismatch results in:",
-      "opts": [
-        "Physiological hemodilution ('physiological anemia of pregnancy') with decreased hematocrit and blood viscosity",
-        "Severe pathological polycythemia",
-        "Hemoconcentration predisposing to microvascular ischemia",
-        "Decreased cardiac output"
-      ],
-      "ans": 0,
-      "exp": "Greater expansion of plasma volume over red cell mass causes physiological hemodilution, reducing blood viscosity and cardiac workload. (Book p356)",
-      "id": "OBG-C4-057"
-    },
-    {
-      "sec": "Maternal hematology",
-      "page": 356,
-      "q": "Under standard WHO and CDC definitions, maternal hemoglobin concentration during pregnancy is considered abnormal (anemic) when it falls below:",
-      "opts": [
-        "< 11.0 g/dL in the first and third trimesters, or < 10.5 g/dL in the second trimester",
-        "< 12.0 g/dL in all trimesters",
-        "< 9.0 g/dL in the second trimester",
-        "< 13.0 g/dL at any stage"
-      ],
-      "ans": 0,
-      "exp": "Normal gestational Hb cutoff: <11.0 g/dL in T1 and T3, and <10.5 g/dL in T2 (accounting for maximal mid-trimester hemodilution). (Book p356)",
-      "id": "OBG-C4-058"
-    },
-    {
-      "sec": "Maternal hematology",
-      "page": 356,
-      "q": "What physiological changes occur in maternal leukocyte (WBC) and platelet counts during normal pregnancy and active labor?",
-      "opts": [
-        "Leukocytosis (up to 15,000/mcL in pregnancy, >=25,000/mcL in labor) and mild gestational thrombocytopenia (remains >=100,000/mcL)",
-        "Severe leukopenia and thrombocytosis",
-        "Pancytopenia across all trimesters",
-        "Marked basophilia and severe thrombocytopenia (<50,000/mcL)"
-      ],
-      "ans": 0,
-      "exp": "Neutrophilic leukocytosis rises up to 15,000 in pregnancy and >=25,000 in labor; benign gestational thrombocytopenia is mild (>=100,000). (Book p356)",
-      "id": "OBG-C4-059"
-    },
-    {
-      "sec": "Maternal hematology",
-      "page": 356,
-      "q": "Pregnancy is a markedly prothrombotic state. Which coagulation factors exhibit significant physiological increases?",
-      "opts": [
-        "Fibrinogen (Factor I increases by 50% to 400-600 mg/dL), Factors VII, VIII, IX, X, and von Willebrand factor",
-        "Only Factor XI and Factor XIII",
-        "Antithrombin III and Protein S",
-        "Tissue plasminogen activator (tPA)"
-      ],
-      "ans": 0,
-      "exp": "Fibrinogen doubles to 400-600 mg/dL, alongside increases in Factors VII, VIII, IX, X, and XII; Protein S and fibrinolysis decline, creating hypercoagulability. (Book p356)",
-      "id": "OBG-C4-060"
-    },
-    {
-      "sec": "Maternal hematology",
-      "page": 356,
-      "q": "Which of the following coagulation parameters remains physiologically UNCHANGED during normal pregnancy?",
-      "opts": [
-        "Bleeding time (BT) and Clotting time (CT)",
-        "Fibrinogen levels",
-        "Factor VIII activity",
-        "Plasma protein concentration"
-      ],
-      "ans": 0,
-      "exp": "Bleeding time, clotting time, and aPTT remain unchanged in normal pregnancy despite elevation of specific procoagulant factors. (Book p356)",
-      "id": "OBG-C4-061"
-    },
-    {
-      "sec": "Maternal renal and GI systems",
-      "page": 356,
-      "q": "Why is physiological hydroureter and hydronephrosis in pregnancy significantly more pronounced on the RIGHT kidney than the left?",
-      "opts": [
-        "Dextrorotation of the enlarging gravid uterus compresses the right ureter against the pelvic brim and crosses the right ovarian vein",
-        "The right ureter has thinner smooth muscle walls than the left",
-        "The right kidney produces three times more urine than the left",
-        "The left ureter is completely immune to progesterone"
-      ],
-      "ans": 0,
-      "exp": "Uterine dextrorotation places direct pressure on the right ureter at the pelvic brim, combined with right ovarian vein dilatation, making right dilatation marked. (Book p356)",
-      "id": "OBG-C4-062"
-    },
-    {
-      "sec": "Maternal renal and GI systems",
-      "page": 357,
-      "q": "In normal pregnancy, maternal Renal Blood Flow (RBF) increases by 70-80% and Glomerular Filtration Rate (GFR) increases by 50%. How does this alter normal serum creatinine levels?",
-      "opts": [
-        "Serum creatinine falls to a normal range of 0.4 to 0.6 mg/dL; a serum creatinine > 0.8 mg/dL is abnormal in pregnancy",
-        "Serum creatinine rises to 1.5-2.0 mg/dL",
-        "Serum creatinine remains fixed at 1.0 mg/dL",
-        "Serum creatinine is undetectable"
-      ],
-      "ans": 0,
-      "exp": "Elevated GFR enhances clearance, lowering normal serum creatinine to 0.4-0.6 mg/dL; a level >0.8 mg/dL indicates underlying renal impairment. (Book p357)",
-      "id": "OBG-C4-063"
-    },
-    {
-      "sec": "Maternal renal and GI systems",
-      "page": 357,
-      "q": "Asymptomatic bacteriuria (ASB) in pregnancy is defined as >= 10^5 CFU/mL of a single pathogen on midstream clean-catch urine. What is the most common causative organism and why is treatment mandatory?",
-      "opts": [
-        "Escherichia coli (80%); mandatory to prevent ascending acute pyelonephritis and preterm labor",
-        "Staphylococcus aureus; mandatory to prevent maternal sepsis",
-        "Group B Streptococcus; mandatory to prevent maternal liver failure",
-        "Proteus mirabilis; mandatory to prevent renal stone formation"
-      ],
-      "ans": 0,
-      "exp": "E. coli is most common; untreated ASB leads to acute pyelonephritis in 25-30% of pregnant women and increases preterm labor risks. (Book p357)",
-      "id": "OBG-C4-064"
-    },
-    {
-      "sec": "Maternal renal and GI systems",
-      "page": 357,
-      "q": "Why is serum alkaline phosphatase (ALP) physiologically elevated by two- to three-fold during the third trimester of pregnancy despite completely normal liver function?",
-      "opts": [
-        "Release of large quantities of heat-stable alkaline phosphatase produced by the placental syncytiotrophoblast",
-        "Maternal biliary duct obstruction by the gravid uterus",
-        "Severe maternal osteomalacia",
-        "Fetal bone demineralization"
-      ],
-      "ans": 0,
-      "exp": "The placenta synthesizes heat-stable ALP (distinguishable from bone/liver heat-labile isoenzymes), doubling or tripling total serum ALP near term. (Book p357)",
-      "id": "OBG-C4-065"
-    }
-  ]
+ "chapter": 4,
+ "title": "Fetal Surveillance and Maternal Adaptations",
+ "pageRange": "340-357",
+ "units": [
+  {
+   "id": "OBG-U4-1",
+   "ch": 4,
+   "n": 1,
+   "title": "Invasive Prenatal Diagnostic Procedures: CVS vs Amniocentesis",
+   "sec": "Invasive diagnostic tests · p340",
+   "guide": "Invasive prenatal diagnosis provides definitive karyotyping when screening indicates aneuploidy. Chorionic villus sampling (CVS) biopsies rapidly dividing cytotrophoblasts at 10-14 weeks, yielding swift results within 48 hours but carrying a 1% procedure-related loss rate and risk of confined placental mosaicism. Amniocentesis samples amniocytes between 15 and 20 weeks with a lower loss rate (<0.5%) and definitive cytogenetic accuracy.",
+   "qs": [
+    "OBG-C4-001",
+    "OBG-C4-002",
+    "OBG-C4-003",
+    "OBG-C4-004",
+    "OBG-C4-005",
+    "OBG-C4-006",
+    "OBG-C4-007"
+   ]
+  },
+  {
+   "id": "OBG-U4-2",
+   "ch": 4,
+   "n": 2,
+   "title": "Amniocentesis Technique, Cordocentesis & Fetal Blood",
+   "sec": "Specialized fetal procedures · p341",
+   "guide": "Amniocentesis is performed under continuous real-time ultrasound guidance using a 20-22G spinal needle, aspirating approximately 20 mL of amniotic fluid for cytogenetics, viral PCR, or fetal lung maturity testing. Percutaneous umbilical blood sampling (PUBS / cordocentesis) accesses the umbilical vein beyond 18 weeks to measure fetal hemoglobin in severe Rh alloimmunization or non-immune hydrops.",
+   "qs": [
+    "OBG-C4-008",
+    "OBG-C4-009",
+    "OBG-C4-010",
+    "OBG-C4-011",
+    "OBG-C4-012",
+    "OBG-C4-013"
+   ]
+  },
+  {
+   "id": "OBG-U4-3",
+   "ch": 4,
+   "n": 3,
+   "title": "Antepartum Fetal Surveillance Principles & Movement Counts",
+   "sec": "Surveillance and fetal movements · p342",
+   "guide": "Antepartum fetal surveillance is universally initiated at 32 weeks in high-risk pregnancies (or 2-4 weeks prior to a prior gestational demise). Maternal kick charts, such as the Cardiff 'count-to-10' (10 movements in 2 hours at rest or 12 hours during daily activity), provide a cost-free screening tool; diminished movement reflects early compensatory fetal motor quiescence to preserve central oxygenation.",
+   "qs": [
+    "OBG-C4-014",
+    "OBG-C4-015",
+    "OBG-C4-016",
+    "OBG-C4-017",
+    "OBG-C4-018"
+   ]
+  },
+  {
+   "id": "OBG-U4-4",
+   "ch": 4,
+   "n": 4,
+   "title": "Non-Stress Test (NST): Setup, Baseline & Accelerations",
+   "sec": "Cardiotocography principles · p343-344",
+   "guide": "The Non-Stress Test (NST) evaluates fetal autonomic integrity by recording fetal heart rate (FHR) responses to fetal movement with the mother in a left lateral tilt. A normal baseline FHR spans 110-160 bpm with moderate baseline variability (6-25 bpm). At >=32 weeks, a reactive acceleration requires a heart rate increase of >=15 bpm lasting >=15 seconds (15x15 rule).",
+   "qs": [
+    "OBG-C4-019",
+    "OBG-C4-020",
+    "OBG-C4-021",
+    "OBG-C4-022",
+    "OBG-C4-023",
+    "OBG-C4-024"
+   ]
+  },
+  {
+   "id": "OBG-U4-5",
+   "ch": 4,
+   "n": 5,
+   "title": "Sinusoidal FHR, Non-Reactive Tracings & Algorithm",
+   "sec": "Abnormal tracings and algorithm · p344-345",
+   "guide": "A sinusoidal heart rate pattern (smooth regular oscillations, 2-5 cycles/min, amplitude 5-15 bpm) is an ominous sign pathognomonic of severe fetal anemia or acute profound acidemia, demanding immediate delivery. Tracings lacking accelerations over 20 minutes are extended to 40 minutes to account for fetal sleep cycle, followed by acoustic stimulation or biophysical scoring if non-reactivity persists.",
+   "qs": [
+    "OBG-C4-025",
+    "OBG-C4-026",
+    "OBG-C4-027",
+    "OBG-C4-028",
+    "OBG-C4-029"
+   ]
+  },
+  {
+   "id": "OBG-U4-6",
+   "ch": 4,
+   "n": 6,
+   "title": "Biophysical Profile (BPP / Manning Score) & Modified BPS",
+   "sec": "Biophysical scoring · p345-346",
+   "guide": "Manning's Biophysical Profile combines four ultrasound dynamic variables (tone, gross movement, breathing movements, and single deepest pocket >=2 cm) with the NST, scoring each parameter as 0 or 2. Under progressive hypoxic acidemia, early-developing acute neurological centers (NST, breathing) fail first, while the primitive fetal tone center fails last. A score <=4/10 signals significant acidemia and mandates prompt delivery.",
+   "qs": [
+    "OBG-C4-030",
+    "OBG-C4-031",
+    "OBG-C4-032",
+    "OBG-C4-033",
+    "OBG-C4-034",
+    "OBG-C4-035"
+   ]
+  },
+  {
+   "id": "OBG-U4-7",
+   "ch": 4,
+   "n": 7,
+   "title": "Intrapartum Surveillance Principles & Intermittent Auscultation",
+   "sec": "Intrapartum surveillance · p347-348",
+   "guide": "Uterine contractions physiologically compress intramyometrial blood vessels, transiently reducing intervillous perfusion. While well-oxygenated fetuses tolerate this stress, compromised fetuses develop decelerations and progressive metabolic acidemia. Routine surveillance in low-risk labor utilizes intermittent auscultation (every 30 mins in first stage, every 15 mins in second stage), switching to continuous electronic monitoring for high-risk conditions.",
+   "qs": [
+    "OBG-C4-036",
+    "OBG-C4-037",
+    "OBG-C4-038",
+    "OBG-C4-039",
+    "OBG-C4-040"
+   ]
+  },
+  {
+   "id": "OBG-U4-8",
+   "ch": 4,
+   "n": 8,
+   "title": "Cardiotocography: Baseline, Variability & Prolonged Decelerations",
+   "sec": "CTG baseline and decelerations · p348-349",
+   "guide": "CTG interpretation assesses baseline rate (110-160 bpm), baseline variability (moderate 6-25 bpm), and decelerations. Absent variability is the most reliable single herald of fetal hypoxia. Prolonged decelerations (drop >=15 bpm lasting 2-10 minutes) commonly arise from uterine tachysystole induced by oxytocin, managed immediately by stopping uterotonics, lateral repositioning, and acute tocolysis.",
+   "qs": [
+    "OBG-C4-041",
+    "OBG-C4-042",
+    "OBG-C4-043",
+    "OBG-C4-044",
+    "OBG-C4-045"
+   ]
+  },
+  {
+   "id": "OBG-U4-9",
+   "ch": 4,
+   "n": 9,
+   "title": "Deceleration Morphologies: Early, Late & Variable Decelerations",
+   "sec": "Deceleration classifications · p350-351",
+   "guide": "Early decelerations mirror contractions with a nadir coinciding with the peak of the contraction, caused by vagal stimulation from fetal head compression (benign). Late decelerations lag behind contractions with a delayed nadir, reflecting uteroplacental insufficiency and fetal myocardial hypoxia. Variable decelerations exhibit an abrupt drop caused by umbilical cord compression.",
+   "qs": [
+    "OBG-C4-046",
+    "OBG-C4-047",
+    "OBG-C4-048",
+    "OBG-C4-049",
+    "OBG-C4-050"
+   ]
+  },
+  {
+   "id": "OBG-U4-10",
+   "ch": 4,
+   "n": 10,
+   "title": "CTG Categorization (ACOG/FIGO) & Intrauterine Resuscitation",
+   "sec": "CTG categories and resuscitation · p351",
+   "guide": "Cardiotocography tracings are stratified into Category 1 (Normal/reassuring), Category 2 (Suspicious/indeterminate), and Category 3 (Pathological/non-reassuring). Category 3 tracings (absent variability with late decelerations, severe variable decelerations, bradycardia, or sinusoidal wave) dictate urgent intrauterine resuscitation—discontinuing oxytocin, maternal left lateral positioning, high-flow oxygen, IV fluid bolus, and rapid delivery.",
+   "qs": [
+    "OBG-C4-051",
+    "OBG-C4-052",
+    "OBG-C4-053",
+    "OBG-C4-054"
+   ]
+  },
+  {
+   "id": "OBG-U4-11",
+   "ch": 4,
+   "n": 11,
+   "title": "Fetal Scalp Blood Sampling, Scalp Stimulation & Pulse Oximetry",
+   "sec": "Direct fetal assessment · p352",
+   "guide": "Fetal scalp blood sampling directly measures capillary pH when CTG is abnormal (>=7.25 normal, 7.20-7.24 pre-acidotic, <7.20 severe acidosis dictating immediate operative delivery). Prior to incision, fetal scalp stimulation that elicits an acceleration confirms a normal pH in virtually 100% of cases, avoiding unnecessary invasive blood sampling.",
+   "qs": [
+    "OBG-C4-055",
+    "OBG-C4-056",
+    "OBG-C4-057",
+    "OBG-C4-058",
+    "OBG-C4-059"
+   ]
+  },
+  {
+   "id": "OBG-U4-12",
+   "ch": 4,
+   "n": 12,
+   "title": "Maternal Adaptations: Cutaneous, Uterine & Cervical Shifts",
+   "sec": "Maternal anatomical adaptations · p353-354",
+   "guide": "Elevated estrogen and progesterone stimulate melanogenesis, producing linea nigra, melasma ('mask of pregnancy'), and palmar erythema. The uterus enlarges dramatically from 50 g to 1100 g, driven predominantly by myometrial hypertrophy. The cervix exhibits vascular engorgement (Chadwick/Goodell signs), glandular hyperplasia forming a protective mucus operculum, and benign columnar ectropion.",
+   "qs": [
+    "OBG-C4-060",
+    "OBG-C4-061",
+    "OBG-C4-062",
+    "OBG-C4-063",
+    "OBG-C4-064"
+   ]
+  },
+  {
+   "id": "OBG-U4-13",
+   "ch": 4,
+   "n": 13,
+   "title": "Vaginal Ecosystem, Endocrine Shifts & Fluid Retention",
+   "sec": "Vaginal pH, hormones & edema · p354-355",
+   "guide": "Lactobacilli ferment vaginal glycogen into lactic acid, dropping vaginal pH to 3.5-4.0; this acidic shield inhibits bacterial pathogens but predisposes to Candida vulvovaginitis. High placental steroids suppress gonadotropins and maintain decidual quiescence. Maternal fluid retention expands extracellular volume by 6.5-8.5 liters, producing benign dependent edema that readily resolves upon recumbency.",
+   "qs": [
+    "OBG-C4-065",
+    "OBG-C4-066",
+    "OBG-C4-067",
+    "OBG-C4-068",
+    "OBG-C4-069"
+   ]
+  },
+  {
+   "id": "OBG-U4-14",
+   "ch": 4,
+   "n": 14,
+   "title": "Maternal Hematological Adaptations & Hemodilution",
+   "sec": "Maternal hematology · p356",
+   "guide": "Maternal plasma volume expands by 40-50% while erythrocyte mass increases by only 20-30%, creating physiological hemodilution where hemoglobin normally remains >=11.0 g/dL. Pregnancy induces a marked prothrombotic state: fibrinogen doubles (to 400-600 mg/dL), Factors VII, VIII, IX, and X increase, and fibrinolysis is suppressed, while bleeding and clotting times remain unchanged.",
+   "qs": [
+    "OBG-C4-070",
+    "OBG-C4-071",
+    "OBG-C4-072",
+    "OBG-C4-073",
+    "OBG-C4-074",
+    "OBG-C4-075"
+   ]
+  },
+  {
+   "id": "OBG-U4-15",
+   "ch": 4,
+   "n": 15,
+   "title": "Maternal Renal, Urinary & Gastrointestinal Adaptations",
+   "sec": "Maternal renal and GI systems · p356-357",
+   "guide": "Progesterone relaxes smooth muscle, inducing physiological hydroureter (right > left due to dextrorotated uterine compression) and predisposing to ascending pyelonephritis from asymptomatic bacteriuria. Renal blood flow jumps by 70-80% and GFR by 50%, reducing normal serum creatinine to 0.4-0.6 mg/dL. Progesterone-mediated smooth muscle relaxation delays gallbladder emptying and relaxes the lower esophageal sphincter, exacerbating GERD.",
+   "qs": [
+    "OBG-C4-076",
+    "OBG-C4-077",
+    "OBG-C4-078",
+    "OBG-C4-079",
+    "OBG-C4-080"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "sec": "Invasive diagnostic tests",
+   "page": 340,
+   "q": "What fetal tissue is aspirated and cultured during Chorionic Villus Sampling (CVS)?",
+   "opts": [
+    "Rapidly dividing cytotrophoblast and mesenchyme of the chorion frondosum",
+    "Desquamated fibroblasts from the fetal dermis in the amniotic fluid",
+    "Epithelial cells shed from the amniotic membrane surface",
+    "Fetal nucleated red blood cells from the circulating blood"
+   ],
+   "ans": 0,
+   "exp": "CVS aspirates and cultures the rapidly dividing cytotrophoblast (and mesenchyme) of the chorion frondosum. (Book p340)",
+   "id": "OBG-C4-001"
+  },
+  {
+   "sec": "Invasive diagnostic tests",
+   "page": 340,
+   "q": "What is the optimal gestational age window for performing Chorionic Villus Sampling (CVS)?",
+   "opts": [
+    "10 to 14 weeks of gestation, ideally 11 to 13 weeks and 6 days",
+    "15 to 20 weeks of gestation, ideally 16 to 18 completed weeks",
+    "6 to 8 weeks of gestation, ideally at 7 completed weeks",
+    "18 to 22 weeks of gestation, ideally at 20 completed weeks"
+   ],
+   "ans": 0,
+   "exp": "The optimal window for chorionic villus sampling is 10 to 14 weeks, ideally 11 to 13 weeks and 6 days. (Book p340)",
+   "id": "OBG-C4-002"
+  },
+  {
+   "sec": "Invasive diagnostic tests",
+   "page": 340,
+   "q": "Why is Chorionic Villus Sampling (CVS) strictly contraindicated before 10 completed weeks of gestation?",
+   "opts": [
+    "It carries a substantial risk of severe fetal transverse limb reduction defects and oromandibular/omphalocele anomalies",
+    "It causes immediate maternal Rh sensitization in 100% of cases",
+    "It induces premature rupture of membranes in the first trimester",
+    "The placenta is not yet attached to the decidua"
+   ],
+   "ans": 0,
+   "exp": "CVS performed <10 weeks causes fetal vascular disruption, leading to severe limb reduction defects and micrognathia. (Book p340)",
+   "id": "OBG-C4-003"
+  },
+  {
+   "sec": "Invasive diagnostic tests",
+   "page": 340,
+   "q": "What is the primary cytogenetic diagnostic disadvantage of Chorionic Villus Sampling (CVS) compared to amniocentesis?",
+   "opts": [
+    "In 1-2% of cases confined placental mosaicism confounds the result",
+    "CVS cannot detect numerical aneuploidies such as trisomy 21",
+    "CVS takes at least 4 weeks to obtain the initial karyotype",
+    "Cytotrophoblast cells do not possess any nuclear chromosomes"
+   ],
+   "ans": 0,
+   "exp": "The main cytogenetic disadvantage of CVS is that in 1-2% of cases results are confounded by confined placental mosaicism, requiring confirmatory amniocentesis. (Book p340)",
+   "id": "OBG-C4-004"
+  },
+  {
+   "sec": "Invasive diagnostic tests",
+   "page": 340,
+   "q": "What is the standard gestational window for performing mid-trimester diagnostic amniocentesis, and what is its associated procedure-related fetal loss rate?",
+   "opts": [
+    "15 to 20 weeks of gestation (ideal 16-18 weeks); procedure loss rate < 0.5%",
+    "10 to 12 weeks of gestation; procedure loss rate 5%",
+    "24 to 28 weeks of gestation; procedure loss rate 2%",
+    "Any time in the first trimester; procedure loss rate 0%"
+   ],
+   "ans": 0,
+   "exp": "Amniocentesis is routinely performed between 15 and 20 weeks; the procedure-related loss rate is low (<0.5%). (Book p340)",
+   "id": "OBG-C4-005"
+  },
+  {
+   "sec": "Invasive diagnostic tests",
+   "page": 340,
+   "q": "Why is early amniocentesis (performed before 15 weeks of gestation) not clinically recommended?",
+   "opts": [
+    "Higher fetal loss, talipes equinovarus (clubfoot) and amniotic fluid leakage",
+    "Amniocytes cannot be karyotyped before 15 weeks of gestation",
+    "The fetal heart is arrested by the needle puncture in every case",
+    "Amniotic fluid is devoid of alpha-fetoprotein before 15 weeks"
+   ],
+   "ans": 0,
+   "exp": "Early amniocentesis before 15 weeks is not recommended because of significantly higher fetal loss rates, talipes equinovarus (clubfoot) and fluid leakage. (Book p340)",
+   "id": "OBG-C4-006"
+  },
+  {
+   "id": "OBG-C4-007",
+   "sec": "Invasive prenatal diagnostic procedures: CVS vs amniocentesis",
+   "page": 340,
+   "q": "Match the procedure with its timing and caveat — 1) Chorionic villus sampling 2) Early amniocentesis before 14 weeks 3) Standard amniocentesis … A) From 15 weeks, the safest window with the lowest loss and talipes risk B) 10-13 weeks, transabdominal or transcervical placental sampling C) Avoided, because it raises pregnancy loss and fetal talipes",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "CVS is the 10-13 week option, amniocentesis is best from 15 weeks, and amniocentesis before 14 weeks is linked to loss and talipes. (Book p340)",
+   "fmt": "match"
+  },
+  {
+   "sec": "Specialized fetal procedures",
+   "page": 341,
+   "q": "During diagnostic ultrasound-guided amniocentesis at 16 weeks, what size spinal needle is standardly utilized, and what volume of amniotic fluid is aspirated?",
+   "opts": [
+    "20 to 22-gauge spinal needle; approximately 20 mL of fluid",
+    "16-gauge Trocar needle; 50 mL of fluid",
+    "26-gauge butterfly needle; 5 mL of fluid",
+    "18-gauge bone marrow needle; 30 mL of fluid"
+   ],
+   "ans": 0,
+   "exp": "Amniocentesis uses a 20-22G spinal needle under continuous real-time USG guidance, discarding the first 1-2 mL and collecting ~20 mL. (Book p341)",
+   "id": "OBG-C4-008"
+  },
+  {
+   "sec": "Specialized fetal procedures",
+   "page": 341,
+   "q": "In the third trimester, what was the classic indication for performing diagnostic amniocentesis?",
+   "opts": [
+    "Assessing fetal lung maturity via the Lecithin-to-Sphingomyelin (L/S) ratio",
+    "Testing for sickle cell anemia carrier status",
+    "Measuring fetal head circumference",
+    "Assessing maternal alpha-fetoprotein"
+   ],
+   "ans": 0,
+   "exp": "In the third trimester, amniocentesis was historically performed to assess fetal pulmonary maturity via the L/S ratio (>=2.0 indicates mature lungs). (Book p341)",
+   "id": "OBG-C4-009"
+  },
+  {
+   "sec": "Specialized fetal procedures",
+   "page": 341,
+   "q": "Percutaneous Umbilical Blood Sampling (PUBS / Cordocentesis) is performed under ultrasound guidance starting at >= 18 weeks. Which umbilical vessel is specifically targeted for puncture?",
+   "opts": [
+    "The umbilical vein, near its placental insertion site",
+    "The right umbilical artery near the fetal abdominal wall",
+    "The ductus arteriosus",
+    "The vitelline vein"
+   ],
+   "ans": 0,
+   "exp": "Cordocentesis samples fetal blood by puncturing the umbilical vein approximately 1 cm from the placental insertion site. (Book p341)",
+   "id": "OBG-C4-010"
+  },
+  {
+   "sec": "Specialized fetal procedures",
+   "page": 341,
+   "q": "What is the primary contemporary clinical indication for performing cordocentesis?",
+   "opts": [
+    "Fetal hemoglobin and hematocrit assessment, and direct intrauterine transfusion",
+    "Routine first-line screening for Down syndrome in all pregnancies",
+    "Evaluation of the fetal risk of an open neural tube defect",
+    "Measurement of maternal serum human placental lactogen levels"
+   ],
+   "ans": 0,
+   "exp": "The primary contemporary indication for cordocentesis is direct assessment of fetal hemoglobin and hematocrit, with direct intrauterine transfusion in severe Rh isoimmunization. (Book p341)",
+   "id": "OBG-C4-011"
+  },
+  {
+   "sec": "Specialized fetal procedures",
+   "page": 341,
+   "q": "What is the most common congenital cardiovascular malformation diagnosed in infants with Down syndrome (Trisomy 21)?",
+   "opts": [
+    "Endocardial cushion defect / Atrioventricular septal defect (AVSD)",
+    "Tetralogy of Fallot",
+    "Coarctation of the aorta",
+    "Transposition of the great arteries"
+   ],
+   "ans": 0,
+   "exp": "Endocardial cushion defect (complete AV canal defect) is the most frequent cardiac lesion in Down syndrome, followed by VSD and ASD. (Book p341)",
+   "id": "OBG-C4-012"
+  },
+  {
+   "id": "OBG-C4-013",
+   "sec": "Amniocentesis technique, cordocentesis & fetal blood",
+   "page": 341,
+   "q": "Fill up: Cordocentesis is generally performed after ______ weeks and samples blood from the ______.",
+   "opts": [
+    "18; umbilical vein",
+    "18; umbilical artery",
+    "12; umbilical vein",
+    "24; uterine artery"
+   ],
+   "ans": 0,
+   "exp": "Cordocentesis (percutaneous umbilical blood sampling) is done after 18 weeks, usually from the umbilical vein. (Book p341)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Surveillance and fetal movements",
+   "page": 342,
+   "q": "In all high-risk pregnancies (e.g., pre-eclampsia, diabetes, IUGR), formal antepartum fetal surveillance is recommended to commence at:",
+   "opts": [
+    "32 weeks of gestation",
+    "24 weeks of gestation",
+    "28 weeks of gestation",
+    "37 weeks of gestation"
+   ],
+   "ans": 0,
+   "exp": "Formal antepartum fetal surveillance (NST, BPP) is routinely started at 32 weeks in high-risk pregnancies. (Book p342)",
+   "id": "OBG-C4-014"
+  },
+  {
+   "sec": "Surveillance and fetal movements",
+   "page": 342,
+   "q": "When a pregnant woman has a history of an unexplained stillbirth in a previous pregnancy, when should antepartum fetal surveillance begin in the index pregnancy?",
+   "opts": [
+    "2 to 4 weeks before the gestation of the previous adverse outcome",
+    "At 37 completed weeks of gestation, whatever the prior outcome",
+    "From the day the pregnancy test first becomes positive",
+    "Only once labour contractions have begun spontaneously"
+   ],
+   "ans": 0,
+   "exp": "After an unexplained stillbirth, antepartum fetal surveillance should begin 2 to 4 weeks prior to the gestational age at which the previous adverse outcome occurred. (Book p342)",
+   "id": "OBG-C4-015"
+  },
+  {
+   "sec": "Surveillance and fetal movements",
+   "page": 342,
+   "q": "Under the Cardiff 'Count-to-10' protocol for daily fetal movement assessment, fetal activity is considered normal when the mother perceives:",
+   "opts": [
+    "At least ten discrete movements within two hours while resting in the left lateral position",
+    "At least three discrete movements recorded in any twenty-four hour period",
+    "At least twenty discrete movements recorded within a single hour",
+    "At least one discrete movement every ten minutes, by day and by night"
+   ],
+   "ans": 0,
+   "exp": "The Cardiff count-to-ten asks the woman to note the time to ten movements; fewer than ten in 12 hours, or a clear slowing, warrants testing. (Book p342)",
+   "id": "OBG-C4-016"
+  },
+  {
+   "sec": "Surveillance and fetal movements",
+   "page": 342,
+   "q": "What is the primary physiological mechanism leading to decreased fetal movements in chronic placental insufficiency?",
+   "opts": [
+    "Fetal behavioural adaptation to hypoxemia, reducing energy and oxygen use",
+    "Complete motor paralysis of the fetal spinal cord from ischemia",
+    "Compression of the fetal brainstem by amniotic bands in utero",
+    "Maternal hypoglycaemia producing fetal lethargy and weakness"
+   ],
+   "ans": 0,
+   "exp": "Reduced fetal movements in chronic placental insufficiency reflect fetal compensatory behavioural adaptation to reduce energy and oxygen consumption in the face of hypoxemia. (Book p342)",
+   "id": "OBG-C4-017"
+  },
+  {
+   "id": "OBG-C4-018",
+   "sec": "Antepartum fetal surveillance principles & movement counts",
+   "page": 342,
+   "q": "Fill up: With the Cardiff count-to-ten chart, the woman reports if she feels fewer than ______ distinct movements in ______ hours.",
+   "opts": [
+    "10; 12",
+    "10; 24",
+    "4; 12",
+    "3; 1"
+   ],
+   "ans": 0,
+   "exp": "Fewer than ten fetal movements in 12 hours (or a marked fall from her own baseline) triggers further testing. (Book p342)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Cardiotocography principles",
+   "page": 343,
+   "q": "How does an external cardiotocography machine monitor and record fetal well-being during a Non-Stress Test (NST)?",
+   "opts": [
+    "An ultrasound Doppler transducer records the fetal heart rate and a tocodynamometer records contractions, with an event marker",
+    "A scalp electrode is attached directly to the fetal skull during the test",
+    "A pressure catheter is placed inside the amniotic cavity for the recording",
+    "Maternal pulse oximetry is recorded continuously alongside the fetal electrocardiogram"
+   ],
+   "ans": 0,
+   "exp": "External cardiotocography uses an abdominal Doppler transducer for the heart rate and a tocodynamometer for uterine activity. (Book p343)",
+   "id": "OBG-C4-019"
+  },
+  {
+   "id": "OBG-C4-020",
+   "sec": "Non-stress test (NST): setup, baseline & accelerations",
+   "page": 343,
+   "q": "At 40 weeks a non-stress test shows a baseline of 140 bpm, moderate variability, two accelerations of 15 bpm lasting 15 seconds in a 20-minute window and no decelerations. How is this tracing reported?",
+   "opts": [
+    "Reactive and reassuring — continue routine antenatal care",
+    "Non-reactive — extend for 40 minutes and use vibroacoustic stimulation",
+    "Equivalent to a positive contraction stress test — deliver the fetus",
+    "A sinusoidal pattern — proceed to immediate caesarean delivery"
+   ],
+   "ans": 0,
+   "exp": "Two accelerations of 15 bpm for 15 seconds in 20 minutes with moderate variability make the NST reactive, which is reassuring. (Book p343)",
+   "fmt": "scenario"
+  },
+  {
+   "sec": "Cardiotocography principles",
+   "page": 344,
+   "q": "What is the normal physiological baseline fetal heart rate (FHR) range on cardiotocography, evaluated over a minimum 10-minute window?",
+   "opts": [
+    "110 to 160 beats per minute",
+    "120 to 180 beats per minute",
+    "90 to 130 beats per minute",
+    "100 to 140 beats per minute"
+   ],
+   "ans": 0,
+   "exp": "The normal physiological baseline fetal heart rate on CTG is 110 to 160 bpm, evaluated over a minimum 10-minute window. (Book p344)",
+   "id": "OBG-C4-021"
+  },
+  {
+   "sec": "Cardiotocography principles",
+   "page": 344,
+   "q": "Normal baseline fetal heart rate variability represents healthy autonomic cardiac control and is quantified as:",
+   "opts": [
+    "Fluctuations of 6 to 25 bpm around the baseline",
+    "Fluctuations of < 5 bpm around the baseline",
+    "Fluctuations of > 30 bpm around the baseline",
+    "Completely flat, unvarying FHR"
+   ],
+   "ans": 0,
+   "exp": "Moderate (normal) baseline variability is 6-25 bpm, reflecting balanced sympathetic and parasympathetic autonomic inputs. (Book p344)",
+   "id": "OBG-C4-022"
+  },
+  {
+   "sec": "Cardiotocography principles",
+   "page": 344,
+   "q": "At >= 32 weeks of gestation, a reactive fetal heart rate acceleration is strictly defined as an increase in FHR above baseline of at least:",
+   "opts": [
+    "15 bpm lasting for at least 15 seconds (15x15 rule)",
+    "10 bpm lasting for at least 10 seconds (10x10 rule)",
+    "20 bpm lasting for at least 2 minutes",
+    "30 bpm lasting for at least 30 seconds"
+   ],
+   "ans": 0,
+   "exp": "At >=32 weeks, acceleration is defined as >=15 bpm above baseline lasting >=15 seconds from onset to return (15x15 rule). (Book p344)",
+   "id": "OBG-C4-023"
+  },
+  {
+   "sec": "Cardiotocography principles",
+   "page": 344,
+   "q": "If an NST is conducted in a preterm fetus between 28 and 31+6 weeks of gestation, what criteria define an acceleration?",
+   "opts": [
+    "An increase in FHR of >= 10 bpm above baseline lasting for >= 10 seconds (10x10 rule)",
+    "An increase in FHR of >= 15 bpm lasting >= 15 seconds",
+    "An increase of >= 25 bpm lasting >= 30 seconds",
+    "Accelerations are not evaluated before 34 weeks"
+   ],
+   "ans": 0,
+   "exp": "Before 32 weeks, immature autonomic innervation permits the 10x10 rule (>=10 bpm for >=10 seconds) to qualify as an acceleration. (Book p344)",
+   "id": "OBG-C4-024"
+  },
+  {
+   "sec": "Abnormal tracings and algorithm",
+   "page": 344,
+   "q": "A sinusoidal fetal heart rate pattern on cardiotocography is an ominous finding that characteristically indicates:",
+   "opts": [
+    "Severe fetal anaemia from isoimmunisation, parvovirus or vasa previa, or acute severe hypoxia",
+    "A benign physiological quiet sleep cycle in a healthy fetus",
+    "The normal fetal response to a meal eaten by the mother",
+    "Simple head compression as the head enters the pelvic inlet"
+   ],
+   "ans": 0,
+   "exp": "A sinusoidal pattern is ominous and points to severe anaemia or acute hypoxia, never to a benign sleep cycle. (Book p344)",
+   "id": "OBG-C4-025"
+  },
+  {
+   "id": "OBG-C4-026",
+   "sec": "Sinusoidal FHR, non-reactive tracings & algorithm",
+   "page": 344,
+   "q": "All of the following can produce a sinusoidal fetal heart rate pattern EXCEPT:",
+   "opts": [
+    "The fetal sleep cycle",
+    "Severe fetal anaemia from Rh isoimmunisation",
+    "Large feto-maternal haemorrhage",
+    "Severe fetal hypoxia preceding death"
+   ],
+   "ans": 0,
+   "exp": "A sinusoidal pattern signals severe anaemia or hypoxia; the fetal sleep cycle reduces variability but never produces a smooth sine wave. (Book p344)",
+   "fmt": "oddoneout"
+  },
+  {
+   "sec": "Abnormal tracings and algorithm",
+   "page": 345,
+   "q": "What criteria define a 'Reactive' (negative) Non-Stress Test over a 20-minute monitoring period at term?",
+   "opts": [
+    "At least 2 accelerations of 15 bpm for 15 seconds in 20 minutes, with variability",
+    "No accelerations at all, with a flat baseline over the full 20 minutes",
+    "One continuous acceleration lasting longer than 10 minutes throughout",
+    "Early decelerations with every contraction, with normal variability"
+   ],
+   "ans": 0,
+   "exp": "A reactive non-stress test over 20 minutes at term shows at least 2 qualifying accelerations of 15 bpm for 15 seconds, with normal baseline and moderate variability. (Book p345)",
+   "id": "OBG-C4-027"
+  },
+  {
+   "sec": "Abnormal tracings and algorithm",
+   "page": 345,
+   "q": "If an initial 20-minute NST demonstrates fewer than 2 accelerations, what is the mandatory immediate next step?",
+   "opts": [
+    "Extend the monitoring for a further 20 minutes to allow for the fetal sleep cycle",
+    "Perform an immediate emergency caesarean delivery for fetal distress",
+    "Administer a high-dose oxytocin infusion to stress the fetus",
+    "Discharge her with reassurance and repeat the test next week"
+   ],
+   "ans": 0,
+   "exp": "A non-reactive trace is extended to 40 minutes first, because the fetus may simply be asleep. (Book p345)",
+   "id": "OBG-C4-028"
+  },
+  {
+   "sec": "Abnormal tracings and algorithm",
+   "page": 345,
+   "q": "What is the diagnostic accuracy profile of a reactive NST versus a non-reactive NST?",
+   "opts": [
+    "A reactive NST has a very high negative predictive value; a non-reactive one has a false-positive rate near 50%",
+    "A non-reactive NST is completely specific for imminent fetal death",
+    "A reactive NST still carries a false-negative rate of about 50%",
+    "Both results carry an identical positive predictive value of 90%"
+   ],
+   "ans": 0,
+   "exp": "A reactive NST is excellent for ruling out compromise; a non-reactive trace is poorly predictive and needs further testing. (Book p345)",
+   "id": "OBG-C4-029"
+  },
+  {
+   "sec": "Biophysical scoring",
+   "page": 345,
+   "q": "In Manning's Biophysical Profile (BPP), how are each of the five biophysical parameters scored?",
+   "opts": [
+    "Either 0 (abnormal/absent) or 2 (normal/present), for a maximum composite score of 10",
+    "Scored from 0 to 4 based on gestational age",
+    "Scored 1, 2, or 3 based on duration",
+    "Scored 0 or 1, for a maximum score of 5"
+   ],
+   "ans": 0,
+   "exp": "BPP evaluates 5 parameters (NST, fetal breathing, gross movement, tone, amniotic fluid), scoring each as either 0 or 2 (maximum 10). (Book p345)",
+   "id": "OBG-C4-030"
+  },
+  {
+   "sec": "Biophysical scoring",
+   "page": 345,
+   "q": "To receive a normal score of 2 for 'Amniotic Fluid Volume' in the Biophysical Profile, what ultrasound criterion must be met?",
+   "opts": [
+    "At least one vertical pocket of amniotic fluid measuring 2.0 cm or more",
+    "An amniotic fluid index of 15 cm or more on the scan",
+    "A fluid pocket completely filled with fetal limbs throughout",
+    "A single fluid pocket measuring 8 cm or more in depth"
+   ],
+   "ans": 0,
+   "exp": "A score of 2 for amniotic fluid volume in the biophysical profile requires at least one vertical pocket measuring 2.0 cm or more (single deepest pocket). (Book p345)",
+   "id": "OBG-C4-031"
+  },
+  {
+   "id": "OBG-C4-032",
+   "sec": "Biophysical profile (BPP / Manning score) & modified BPS",
+   "page": 345,
+   "q": "Fill up: The full biophysical profile scores ______ components, and a total score of ______ or less is considered abnormal at term.",
+   "opts": [
+    "5; 4",
+    "5; 6",
+    "4; 2",
+    "5; 2"
+   ],
+   "ans": 0,
+   "exp": "Five components are scored out of two each; a score of 4 or less is abnormal, 6 is equivocal and 8-10 is reassuring. (Book p345)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Biophysical scoring",
+   "page": 346,
+   "q": "In progressive fetal hypoxemia and acidemia, in what order are the biophysical parameters compromised and lost?",
+   "opts": [
+    "NST and fetal breathing are lost earliest; gross body movements and fetal tone are lost latest",
+    "Fetal tone is lost first, followed by breathing and NST",
+    "Amniotic fluid volume is lost immediately within minutes",
+    "All parameters cease simultaneously at pH 7.30"
+   ],
+   "ans": 0,
+   "exp": "Under hypoxia, regulatory centers in the brainstem fail in reverse embryological order: NST and breathing disappear first; tone is lost last. (Book p346)",
+   "id": "OBG-C4-033"
+  },
+  {
+   "sec": "Biophysical scoring",
+   "page": 346,
+   "q": "A patient at 38 weeks of gestation undergoes a Biophysical Profile that yields a score of 8/10, but the 2 points lost are for decreased amniotic fluid volume (oligohydramnios). What is the management?",
+   "opts": [
+    "Delivery of the fetus, because oligohydramnios indicates chronic placental insufficiency",
+    "Reassurance and repeat BPP in 1 week",
+    "Bed rest and maternal IV hydration with discharge",
+    "Emergency Caesarean section under general anesthesia within 15 minutes"
+   ],
+   "ans": 0,
+   "exp": "An 8/10 score with oligohydramnios indicates chronic compromised placental perfusion; delivery is indicated if the pregnancy is >=36-37 weeks. (Book p346)",
+   "id": "OBG-C4-034"
+  },
+  {
+   "sec": "Biophysical scoring",
+   "page": 346,
+   "q": "What two components constitute the 'Modified Biophysical Profile' used as an efficient antenatal screening tool?",
+   "opts": [
+    "Non-stress test for acute oxygenation, plus amniotic fluid assessment for chronic function",
+    "Fetal breathing movements for tone, plus umbilical artery Doppler velocimetry",
+    "Fetal tone and body movement, plus maternal serum alpha-fetoprotein",
+    "Cardiotocography tracing, plus fetal scalp blood pH estimation"
+   ],
+   "ans": 0,
+   "exp": "The modified biophysical profile combines the non-stress test, reflecting acute oxygenation, with amniotic fluid assessment / single deepest pocket, reflecting chronic placental function. (Book p346)",
+   "id": "OBG-C4-035"
+  },
+  {
+   "sec": "Intrapartum surveillance",
+   "page": 347,
+   "q": "Why do normal uterine contractions during labor pose a physiological stress to fetal oxygenation?",
+   "opts": [
+    "Contractions raise intramural pressure and briefly compress the spiral vessels",
+    "Contractions raise the maternal blood pressure to pathological levels",
+    "Contractions trigger fetal hypothermia and shivering while in utero",
+    "Contractions cause permanent thrombosis of the umbilical vein and arteries"
+   ],
+   "ans": 0,
+   "exp": "Normal contractions raise intramyocardial or intramural pressure, temporarily compressing the spiral vessels and reducing intervillous blood flow. (Book p347)",
+   "id": "OBG-C4-036"
+  },
+  {
+   "sec": "Intrapartum surveillance",
+   "page": 347,
+   "q": "According to WHO recommendations for low-risk labor, what is the frequency of intermittent fetal heart sound auscultation during the first and second stages of labor?",
+   "opts": [
+    "Every 30 minutes in the first stage; every 15 minutes in the second stage",
+    "Every 15 minutes in the first stage; every 5 minutes in the second stage",
+    "Every 60 minutes in the first stage; every 30 minutes in the second stage",
+    "Continuous auscultation throughout both stages"
+   ],
+   "ans": 0,
+   "exp": "In low-risk labor: auscultate every 30 minutes in the first stage (active phase), and every 15 minutes in the second stage. (Book p347)",
+   "id": "OBG-C4-037"
+  },
+  {
+   "sec": "Intrapartum surveillance",
+   "page": 347,
+   "q": "In high-risk intrapartum cases monitored by intermittent auscultation, what is the required frequency of auscultation in the first and second stages of labor?",
+   "opts": [
+    "Every 15 minutes in the first stage; every 5 minutes in the second stage",
+    "Every 30 minutes in the first stage; every 15 minutes in the second stage",
+    "Every 5 minutes in the first stage; continuously in the second stage",
+    "Every 45 minutes in both stages"
+   ],
+   "ans": 0,
+   "exp": "For high-risk labor: auscultate every 15 minutes during the first stage, and every 5 minutes during the second stage. (Book p347)",
+   "id": "OBG-C4-038"
+  },
+  {
+   "id": "OBG-C4-039",
+   "sec": "Intrapartum surveillance principles & intermittent auscultation",
+   "page": 347,
+   "q": "Which of the following statements about intrapartum fetal surveillance is TRUE?",
+   "opts": [
+    "In low-risk labour, intermittent auscultation every 15 minutes in the first stage is an accepted alternative to continuous CTG",
+    "Continuous electronic monitoring is mandatory for every labour, whatever the risk status",
+    "Auscultation should be performed for a full minute before a contraction rather than after it",
+    "A handheld Doppler device cannot be used for intermittent auscultation in labour"
+   ],
+   "ans": 0,
+   "exp": "Low-risk labours may be monitored by intermittent auscultation, counting for at least a minute immediately after a contraction. (Book p347)",
+   "fmt": "truefalse"
+  },
+  {
+   "sec": "Intrapartum surveillance",
+   "page": 348,
+   "q": "When performing intermittent auscultation during labor, for how long should the fetal heart rate be counted, and when in relation to a contraction?",
+   "opts": [
+    "Counted for at least 1 full minute, continuing immediately after the end of a uterine contraction",
+    "Counted for 15 seconds during the peak of a contraction",
+    "Counted for 30 seconds before contractions begin",
+    "Counted only during uterine relaxation between contractions"
+   ],
+   "ans": 0,
+   "exp": "Auscultation is performed for 60 seconds immediately following a contraction to detect potential late decelerations. (Book p348)",
+   "id": "OBG-C4-040"
+  },
+  {
+   "sec": "CTG baseline and decelerations",
+   "page": 348,
+   "q": "What is the most common maternal cause of persistent baseline fetal tachycardia (>160 bpm) during active labor?",
+   "opts": [
+    "Maternal fever and intra-amniotic infection (chorioamnionitis)",
+    "Supine hypotensive syndrome",
+    "Epidural analgesia without epinephrine",
+    "Maternal hypocalcemia"
+   ],
+   "ans": 0,
+   "exp": "Maternal pyrexia and chorioamnionitis are the most frequent causes of intrapartum baseline fetal tachycardia. (Book p348)",
+   "id": "OBG-C4-041"
+  },
+  {
+   "sec": "CTG baseline and decelerations",
+   "page": 348,
+   "q": "Which parameter on cardiotocography is considered the single most reliable indicator of fetal normoxemia and absence of cerebral acidemia?",
+   "opts": [
+    "Moderate baseline variability (6 to 25 bpm)",
+    "Baseline FHR of exactly 140 bpm",
+    "Frequent early decelerations",
+    "Absence of any uterine contractions"
+   ],
+   "ans": 0,
+   "exp": "Moderate baseline variability (6-25 bpm) is the single most reliable sign of normal central fetal oxygenation and normal cord pH. (Book p348)",
+   "id": "OBG-C4-042"
+  },
+  {
+   "id": "OBG-C4-043",
+   "sec": "Cardiotocography: baseline, variability & prolonged decelerations",
+   "page": 348,
+   "q": "Match the CTG term with its definition — 1) Fetal tachycardia 2) Minimal variability 3) Prolonged deceleration … A) Amplitude range of 5 bpm or less persisting for 40 minutes or more B) Baseline above 160 bpm for 10 minutes or more C) A fall of 15 bpm or more lasting over 2 minutes but under 10 minutes",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Tachycardia exceeds 160 bpm for 10 minutes, minimal variability is an amplitude of 5 bpm or less, and a prolonged deceleration lasts 2 to 10 minutes. (Book p348)",
+   "fmt": "match"
+  },
+  {
+   "sec": "CTG baseline and decelerations",
+   "page": 349,
+   "q": "A prolonged deceleration on CTG is defined as a decrease in fetal heart rate of >= 15 bpm below baseline lasting for:",
+   "opts": [
+    "At least 2 minutes but less than 10 minutes",
+    "At least 30 seconds but less than 1 minute",
+    "Greater than 10 minutes continuously",
+    "Exactly 15 seconds"
+   ],
+   "ans": 0,
+   "exp": "A prolonged deceleration is a drop in FHR >=15 bpm lasting >=2 minutes but <10 minutes; if >=10 minutes, it is a baseline change. (Book p349)",
+   "id": "OBG-C4-044"
+  },
+  {
+   "sec": "CTG baseline and decelerations",
+   "page": 349,
+   "q": "What is the most frequent iatrogenic cause of acute prolonged fetal heart rate decelerations during induced labor?",
+   "opts": [
+    "Uterine hyperstimulation or tachysystole from oxytocin or misoprostol",
+    "Administration of prophylactic ampicillin during the induction",
+    "Artificial rupture of membranes performed to augment labour",
+    "Maternal oral hydration with plain water throughout the labour"
+   ],
+   "ans": 0,
+   "exp": "The most frequent iatrogenic cause of acute prolonged decelerations in induced labour is uterine hyperstimulation (tachysystole) from oxytocin or misoprostol. (Book p349)",
+   "id": "OBG-C4-045"
+  },
+  {
+   "sec": "Deceleration classifications",
+   "page": 350,
+   "q": "Early decelerations on intrapartum CTG are characterized by a gradual decrease in FHR that mirrors the uterine contraction. What is their physiological cause?",
+   "opts": [
+    "Fetal head compression, raising intracranial pressure and causing vagal stimulation",
+    "Umbilical vein compression, which reduces venous return to the fetal heart",
+    "Uteroplacental insufficiency, which reduces gas exchange at the villi",
+    "Placental abruption, which separates the placental bed from the uterus"
+   ],
+   "ans": 0,
+   "exp": "Early decelerations mirror contractions and are benign; late decelerations come from uteroplacental insufficiency and variable ones from cord compression. (Book p350)",
+   "id": "OBG-C4-046"
+  },
+  {
+   "sec": "Deceleration classifications",
+   "page": 350,
+   "q": "Why are late decelerations considered the most ominous deceleration pattern on cardiotocography?",
+   "opts": [
+    "Their nadir follows the contraction peak, reflecting uteroplacental insufficiency",
+    "They indicate fetal head compression against the pelvic floor and skull",
+    "They reflect rapid cord prolapse through the cervix with cord compression",
+    "They are caused by maternal sleep and the resulting reduced placental flow"
+   ],
+   "ans": 0,
+   "exp": "Late decelerations are the most ominous pattern because the nadir occurs after the peak of the contraction, reflecting uteroplacental insufficiency and fetal myocardial hypoxia. (Book p350)",
+   "id": "OBG-C4-047"
+  },
+  {
+   "id": "OBG-C4-048",
+   "sec": "Deceleration morphologies: early, late & variable decelerations",
+   "page": 350,
+   "q": "Match the deceleration with its cause and shape — 1) Early deceleration 2) Late deceleration 3) Variable deceleration … A) Uniform, mirrors the contraction, nadir at the peak, from head compression B) Uniform, nadir after the contraction peak, from uteroplacental insufficiency C) Abrupt V-shaped fall and recovery, from cord compression",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Early decelerations mirror contractions from head compression, late decelerations lag behind from placental insufficiency, and variable decelerations are abrupt from cord compression. (Book p350)",
+   "fmt": "match"
+  },
+  {
+   "sec": "Deceleration classifications",
+   "page": 351,
+   "q": "Variable decelerations exhibit an abrupt drop (<30 seconds to nadir) and vary in shape, depth, and duration. What is their primary cause?",
+   "opts": [
+    "Umbilical cord compression",
+    "Fetal head compression",
+    "Maternal hypothermia",
+    "Placental calcification"
+   ],
+   "ans": 0,
+   "exp": "Variable decelerations are triggered by umbilical cord occlusion/compression (transient umbilical vein and artery collapse). (Book p351)",
+   "id": "OBG-C4-049"
+  },
+  {
+   "sec": "Deceleration classifications",
+   "page": 351,
+   "q": "On a cardiotocograph showing variable decelerations, what are 'shoulders' (transient accelerations before and after the deceleration)?",
+   "opts": [
+    "A reassuring compensatory response of a healthy fetus to transient cord occlusion",
+    "An ominous sign of impending fetal cardiac arrest and hypoxic decompensation",
+    "An artifact produced by maternal coughing or movement during the recording",
+    "Evidence of fetal seizure activity from cortical irritation by hypoxia"
+   ],
+   "ans": 0,
+   "exp": "Shoulders are transient accelerations before and after a variable deceleration, a reassuring feature signalling intact fetal autonomic responsiveness and good prognosis. (Book p351)",
+   "id": "OBG-C4-050"
+  },
+  {
+   "sec": "CTG categories and resuscitation",
+   "page": 351,
+   "q": "Under the 3-tier ACOG/FIGO intrapartum CTG classification, what characterizes a Category 1 (Normal / Reassuring) tracing?",
+   "opts": [
+    "Baseline 110-160 bpm, moderate variability, no late or variable decelerations",
+    "Absent baseline variability with a mild fetal tachycardia",
+    "Recurrent late decelerations with a normal baseline fetal rate",
+    "A sinusoidal pattern with superimposed fetal heart accelerations"
+   ],
+   "ans": 0,
+   "exp": "A Category 1 intrapartum tracing has a baseline of 110-160 bpm, moderate variability (6-25 bpm), no late or variable decelerations, and early decelerations either present or absent. (Book p351)",
+   "id": "OBG-C4-051"
+  },
+  {
+   "sec": "CTG categories and resuscitation",
+   "page": 351,
+   "q": "Which of the following CTG abnormalities places a tracing into Category 3 (Abnormal / Non-reassuring)?",
+   "opts": [
+    "Absent baseline variability accompanied by recurrent late decelerations or a sinusoidal pattern",
+    "Early decelerations during the second stage of labor",
+    "Moderate variability with isolated acceleration",
+    "Baseline FHR of 150 bpm without decelerations"
+   ],
+   "ans": 0,
+   "exp": "Category 3 includes absent baseline variability with recurrent late decelerations, recurrent variable decelerations, bradycardia, or sinusoidal pattern. (Book p351)",
+   "id": "OBG-C4-052"
+  },
+  {
+   "sec": "CTG categories and resuscitation",
+   "page": 351,
+   "q": "What is the initial pharmacological step in intrauterine resuscitation when acute fetal decelerations occur in the presence of uterine hyperstimulation?",
+   "opts": [
+    "Stop the oxytocin infusion and give terbutaline 0.25 mg SC for acute tocolysis",
+    "Increase the oxytocin infusion to accelerate the delivery urgently",
+    "Give an intravenous bolus of methylergometrine to contract the uterus",
+    "Give a high-dose magnesium sulfate bolus for fetal neuroprotection"
+   ],
+   "ans": 0,
+   "exp": "For acute decelerations with uterine hyperstimulation, discontinue the oxytocin infusion immediately and give terbutaline 0.25 mg SC for acute tocolysis. (Book p351)",
+   "id": "OBG-C4-053"
+  },
+  {
+   "id": "OBG-C4-054",
+   "sec": "CTG categorization (ACOG/FIGO) & intrauterine resuscitation",
+   "page": 351,
+   "q": "A labouring woman's CTG shows a baseline of 110 bpm, minimal variability and recurrent late decelerations with no accelerations. How should this tracing be categorised and managed?",
+   "opts": [
+    "Category III — start intrauterine resuscitation and expedite delivery",
+    "Category I — normal tracing needing no intervention",
+    "Category II — continue monitoring and review again in 30 minutes",
+    "Category III — but delivery can safely wait two hours for a trial of rest"
+   ],
+   "ans": 0,
+   "exp": "Absent or minimal variability with recurrent late decelerations is a Category III tracing, requiring resuscitation and prompt delivery. (Book p351)",
+   "fmt": "scenario"
+  },
+  {
+   "sec": "Direct fetal assessment",
+   "page": 352,
+   "q": "What cervical dilatation and fetal station are prerequisite before attempting fetal scalp blood sampling?",
+   "opts": [
+    "Cervix dilated >= 4 to 5 cm with vertex at or below -1.5 station",
+    "Cervix dilated 1 cm with floating head",
+    "Fully dilated cervix with head on perineum",
+    "Cervix closed with intact membranes"
+   ],
+   "ans": 0,
+   "exp": "Prerequisites for scalp sampling: ruptured membranes, cervix dilated >=4-5 cm, and vertex engaged at least at -1.5 station. (Book p352)",
+   "id": "OBG-C4-055"
+  },
+  {
+   "sec": "Direct fetal assessment",
+   "page": 352,
+   "q": "What fetal scalp capillary blood pH cutoffs represent normal, pre-acidotic, and acidotic states?",
+   "opts": [
+    "7.25 or more normal; 7.20 to 7.24 pre-acidotic; under 7.20 acidotic",
+    "7.40 or more normal; 7.30 pre-acidotic; under 7.25 acidotic",
+    "7.10 or more normal; under 7.00 acidotic; nothing in between",
+    "7.00 or more is normal in every labour, whatever the trace"
+   ],
+   "ans": 0,
+   "exp": "Fetal scalp pH of 7.25 or more is normal, 7.20 to 7.24 is pre-acidotic and is repeated in 20-30 minutes, and under 7.20 is acidotic and requires immediate delivery. (Book p352)",
+   "id": "OBG-C4-056"
+  },
+  {
+   "sec": "Direct fetal assessment",
+   "page": 352,
+   "q": "During digital examination in labor, digital fetal scalp stimulation that elicits a fetal heart rate acceleration (>=15 bpm for >=15s) indicates:",
+   "opts": [
+    "Fetal scalp pH is >= 7.25 in 99-100% of cases, reliably ruling out significant acidemia and avoiding scalp sampling",
+    "Severe fetal hypoxia requiring immediate emergency C-section",
+    "Cord prolapse into the vagina",
+    "Impending uterine rupture"
+   ],
+   "ans": 0,
+   "exp": "An acceleration in response to scalp stimulation correlates with scalp pH >=7.25 in virtually 100% of cases, reliably excluding acidemia. (Book p352)",
+   "id": "OBG-C4-057"
+  },
+  {
+   "sec": "Direct fetal assessment",
+   "page": 352,
+   "q": "During intrapartum fetal pulse oximetry, a fetal arterial oxygen saturation (SpO2) falling below which threshold is strongly associated with fetal acidosis?",
+   "opts": [
+    "SpO2 < 30% for >= 2 minutes",
+    "SpO2 < 90% for 1 minute",
+    "SpO2 < 70% for 5 minutes",
+    "SpO2 < 50% for 10 minutes"
+   ],
+   "ans": 0,
+   "exp": "A fetal SpO2 < 30% for at least 2 minutes on continuous intrapartum pulse oximetry correlates with fetal metabolic acidosis. (Book p352)",
+   "id": "OBG-C4-058"
+  },
+  {
+   "id": "OBG-C4-059",
+   "sec": "Fetal scalp blood sampling, scalp stimulation & pulse oximetry",
+   "page": 352,
+   "q": "Fill up: Fetal scalp blood sampling is abnormal when the pH is below ______, while a value of 7.20 to 7.25 is ______.",
+   "opts": [
+    "7.20; borderline and repeated within 30 minutes",
+    "7.25; abnormal and needs immediate delivery",
+    "7.15; normal with no further action",
+    "7.30; abnormal and needs immediate delivery"
+   ],
+   "ans": 0,
+   "exp": "A pH below 7.20 is abnormal and 7.20-7.25 is borderline, so the sample is repeated after resuscitation. (Book p352)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Maternal anatomical adaptations",
+   "page": 353,
+   "q": "Gestational hyperpigmentation (linea nigra, chloasma/melasma) is primarily driven by elevated estrogen and progesterone stimulating:",
+   "opts": [
+    "Melanocyte-stimulating hormone (MSH) and melanocyte sensitivity",
+    "Maternal thyroid-stimulating hormone (TSH)",
+    "Prolactin receptor up-regulation",
+    "Cortisol degradation in the liver"
+   ],
+   "ans": 0,
+   "exp": "Estrogen and progesterone stimulate melanocytes and MSH release, producing hyperpigmentation along the midline (linea nigra) and face (chloasma). (Book p353)",
+   "id": "OBG-C4-060"
+  },
+  {
+   "sec": "Maternal anatomical adaptations",
+   "page": 353,
+   "q": "The non-pregnant uterus weighs approximately 50-60 g and enlarges to approximately 1100 g at term. What is the primary cellular mechanism driving this enlargement?",
+   "opts": [
+    "Myometrial hypertrophy (hyperplasia occurs only in the first trimester)",
+    "Myometrial hyperplasia throughout all three trimesters",
+    "Deposition of adipose tissue within the perimetrium",
+    "Endometrial stromal carcinoma"
+   ],
+   "ans": 0,
+   "exp": "Uterine enlargement is overwhelmingly due to hypertrophy of existing smooth muscle fibers (hyperplasia is limited to early first trimester). (Book p353)",
+   "id": "OBG-C4-061"
+  },
+  {
+   "id": "OBG-C4-062",
+   "sec": "Maternal adaptations: cutaneous, uterine & cervical shifts",
+   "page": 353,
+   "q": "All of the following are normal skin changes of pregnancy EXCEPT:",
+   "opts": [
+    "Generalised pruritus with jaundice and dark urine",
+    "Linea nigra over the lower abdomen",
+    "Chloasma or melasma over the cheeks",
+    "Striae gravidarum over the abdomen and thighs"
+   ],
+   "ans": 0,
+   "exp": "Pruritus with jaundice suggests intrahepatic cholestasis of pregnancy; linea nigra, chloasma and striae are normal. (Book p353)",
+   "fmt": "oddoneout"
+  },
+  {
+   "sec": "Maternal anatomical adaptations",
+   "page": 354,
+   "q": "What are Montgomery's tubercles, which become prominent on the maternal breasts by 8-12 weeks of gestation?",
+   "opts": [
+    "Hypertrophied sebaceous glands located on the primary areola",
+    "Accessory lactiferous duct orifices",
+    "Superficial thrombosed veins of the breast",
+    "Ectopic apocrine sweat gland cysts"
+   ],
+   "ans": 0,
+   "exp": "Montgomery's tubercles are hypertrophic sebaceous glands on the areola that secrete a protective, lubricating lipoid fluid. (Book p354)",
+   "id": "OBG-C4-063"
+  },
+  {
+   "sec": "Maternal anatomical adaptations",
+   "page": 354,
+   "q": "A pregnant woman presents with painless, minor post-coital vaginal spotting. Speculum examination reveals a red, velvety, glandular outgrowth of endocervical mucosa onto the exocervix. What is the diagnosis?",
+   "opts": [
+    "Cervical ectropion / eversion (benign physiological adaptation; no biopsy required)",
+    "Cervical squamous cell carcinoma",
+    "Cervical intraepithelial neoplasia grade 3",
+    "Placenta accreta"
+   ],
+   "ans": 0,
+   "exp": "Eversion of the endocervical columnar epithelium (ectropion) is a physiological response to estrogen; it is benign and requires reassurance. (Book p354)",
+   "id": "OBG-C4-064"
+  },
+  {
+   "sec": "Vaginal pH, hormones & edema",
+   "page": 354,
+   "q": "During normal pregnancy, the vaginal pH becomes markedly acidic (pH 3.5 to 4.0) due to:",
+   "opts": [
+    "Döderlein's lactobacilli fermenting estrogen-induced mucosal glycogen into lactic acid",
+    "Direct transudation of amniotic fluid into the vaginal vault",
+    "Excess secretion of gastric hydrochloric acid",
+    "Secretion of acidic mucus from the Bartholin glands"
+   ],
+   "ans": 0,
+   "exp": "Estrogen increases epithelial glycogen, which Döderlein's bacilli ferment to lactic acid, creating an acidic pH (3.5) protective against pathogens. (Book p354)",
+   "id": "OBG-C4-065"
+  },
+  {
+   "sec": "Vaginal pH, hormones & edema",
+   "page": 354,
+   "q": "What is the most common form of infectious vaginitis encountered during pregnancy, thriving in the acidic vaginal microenvironment?",
+   "opts": [
+    "Candida albicans vulvovaginitis",
+    "Trichomonas vaginalis",
+    "Bacterial vaginosis (Gardnerella)",
+    "Chlamydia trachomatis"
+   ],
+   "ans": 0,
+   "exp": "Candida albicans thrives in the acidic, glycogen-rich environment of the pregnant vagina, making candidiasis the most common vaginitis. (Book p354)",
+   "id": "OBG-C4-066"
+  },
+  {
+   "id": "OBG-C4-067",
+   "sec": "Vaginal ecosystem, endocrine shifts & fluid retention",
+   "page": 354,
+   "q": "Which of the following statements about the vaginal environment in pregnancy is TRUE?",
+   "opts": [
+    "Physiological leucorrhoea is increased cervical mucus from oestrogen, and the vaginal pH stays acidic",
+    "Vaginal pH rises above 6 in normal pregnancy, which is why bacterial vaginosis is so common",
+    "Progesterone dries and thins cervical mucus, reducing the discharge of normal pregnancy",
+    "Total body water falls in pregnancy despite the rise in aldosterone and renin"
+   ],
+   "ans": 0,
+   "exp": "Oestrogen increases cervical mucus and glycogen, keeping the vagina acidic; total body water rises by several litres in pregnancy. (Book p354)",
+   "fmt": "truefalse"
+  },
+  {
+   "sec": "Vaginal pH, hormones & edema",
+   "page": 355,
+   "q": "Why is lactation physiologically suppressed during pregnancy despite maternal prolactin levels rising up to 10-fold by term?",
+   "opts": [
+    "High placental oestrogen and progesterone block prolactin at the breast receptors",
+    "Low oxytocin from the posterior pituitary fails to trigger milk ejection",
+    "High maternal thyroid hormone inhibits milk synthesis within the alveoli",
+    "Prolactin secreted in pregnancy is biologically inactive at the receptor"
+   ],
+   "ans": 0,
+   "exp": "Lactation is held in check during pregnancy by high circulating placental estrogen and progesterone, which competitively block prolactin action at the breast alveolar receptors; delivery lifts the block and unleashes lactation. (Book p355)",
+   "id": "OBG-C4-068"
+  },
+  {
+   "sec": "Vaginal pH, hormones & edema",
+   "page": 355,
+   "q": "How can an examiner clinically differentiate physiological dependent edema of pregnancy from pathological pre-eclamptic edema?",
+   "opts": [
+    "Physiological is dependent and settles overnight; pathological involves the face and hands",
+    "Physiological edema is non-pitting on pressure, whereas pathological edema pits",
+    "Physiological edema is accompanied by marked proteinuria and hypertension",
+    "Pathological edema always disappears after walking about for a while"
+   ],
+   "ans": 0,
+   "exp": "Physiological edema is restricted to the dependent lower extremities and subsides with overnight recumbency; pathological edema involves the face and hands and persists. (Book p355)",
+   "id": "OBG-C4-069"
+  },
+  {
+   "sec": "Maternal hematology",
+   "page": 356,
+   "q": "During normal singleton pregnancy, maternal plasma volume expands by 40-50%, whereas red blood cell volume increases by 20-30%. This physiological mismatch results in:",
+   "opts": [
+    "Physiological hemodilution ('physiological anemia of pregnancy') with decreased hematocrit and blood viscosity",
+    "Severe pathological polycythemia",
+    "Hemoconcentration predisposing to microvascular ischemia",
+    "Decreased cardiac output"
+   ],
+   "ans": 0,
+   "exp": "Greater expansion of plasma volume over red cell mass causes physiological hemodilution, reducing blood viscosity and cardiac workload. (Book p356)",
+   "id": "OBG-C4-070"
+  },
+  {
+   "sec": "Maternal hematology",
+   "page": 356,
+   "q": "Under standard WHO and CDC definitions, maternal hemoglobin concentration during pregnancy is considered abnormal (anemic) when it falls below:",
+   "opts": [
+    "Below 11.0 g/dL in the first and third trimesters, below 10.5 g/dL in the second",
+    "Below 12.0 g/dL in the first and third trimesters, below 11.0 g/dL in the second",
+    "Below 10.0 g/dL in the first and third trimesters, below 9.0 g/dL in the second",
+    "Below 11.0 g/dL in the second trimester, below 10.5 g/dL in the first and third"
+   ],
+   "ans": 0,
+   "exp": "Under WHO and CDC definitions anemia in pregnancy is hemoglobin below 11.0 g/dL in the first and third trimesters, or below 10.5 g/dL in the second (reflecting mid-trimester hemodilution). (Book p356)",
+   "id": "OBG-C4-071"
+  },
+  {
+   "sec": "Maternal hematology",
+   "page": 356,
+   "q": "What physiological changes occur in maternal leukocyte (WBC) and platelet counts during normal pregnancy and active labor?",
+   "opts": [
+    "Leukocytosis up to 15,000/mcL in pregnancy and 25,000/mcL in labour, with mild thrombocytopenia",
+    "Severe leukopenia with a marked reactive thrombocytosis in pregnancy",
+    "Pancytopenia affecting all cell lines across every trimester",
+    "Marked basophilia with severe thrombocytopenia below 50,000/mcL"
+   ],
+   "ans": 0,
+   "exp": "Normal pregnancy shows leukocytosis (up to 15,000/mcL, or 25,000/mcL in labor) and mild gestational thrombocytopenia, with the count still at or above 100,000/mcL. (Book p356)",
+   "id": "OBG-C4-072"
+  },
+  {
+   "sec": "Maternal hematology",
+   "page": 356,
+   "q": "Pregnancy is a markedly prothrombotic state. Which coagulation factors exhibit significant physiological increases?",
+   "opts": [
+    "Fibrinogen, factors VII, VIII, IX and X, and von Willebrand factor",
+    "Only factor XI and factor XIII, both of which also rise markedly",
+    "Antithrombin III and protein S, the natural anticoagulants",
+    "Tissue plasminogen activator, which keeps the maternal circulation fluid"
+   ],
+   "ans": 0,
+   "exp": "Clotting factors and fibrinogen rise, while antithrombin and protein S fall — which is why pregnancy is prothrombotic. (Book p356)",
+   "id": "OBG-C4-073"
+  },
+  {
+   "sec": "Maternal hematology",
+   "page": 356,
+   "q": "Which of the following coagulation parameters remains physiologically UNCHANGED during normal pregnancy?",
+   "opts": [
+    "Bleeding time (BT) and Clotting time (CT)",
+    "Fibrinogen levels",
+    "Factor VIII activity",
+    "Plasma protein concentration"
+   ],
+   "ans": 0,
+   "exp": "Bleeding time, clotting time, and aPTT remain unchanged in normal pregnancy despite elevation of specific procoagulant factors. (Book p356)",
+   "id": "OBG-C4-074"
+  },
+  {
+   "id": "OBG-C4-075",
+   "sec": "Maternal hematological adaptations & hemodilution",
+   "page": 356,
+   "q": "Fill up: In pregnancy the plasma volume expands by about ______%, but the red cell mass rises by only about ______%, producing physiological anaemia.",
+   "opts": [
+    "45; 20",
+    "20; 45",
+    "45; 45",
+    "10; 30"
+   ],
+   "ans": 0,
+   "exp": "Greater plasma expansion than red cell expansion dilutes the haemoglobin, which is why the physiological nadir occurs around 30 weeks. (Book p356)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Maternal renal and GI systems",
+   "page": 356,
+   "q": "Why is physiological hydroureter and hydronephrosis in pregnancy significantly more pronounced on the RIGHT kidney than the left?",
+   "opts": [
+    "Dextrorotation of the gravid uterus compresses the right ureter at the pelvic brim",
+    "The right ureter has thinner smooth muscle walls than the left ureter does",
+    "The right kidney produces about three times more urine than the left",
+    "The left ureter is completely immune to the relaxant effect of progesterone"
+   ],
+   "ans": 0,
+   "exp": "Physiological hydroureter and hydronephrosis are worse on the right because dextrorotation of the gravid uterus compresses the right ureter against the pelvic brim and it crosses the right ovarian vein. (Book p356)",
+   "id": "OBG-C4-076"
+  },
+  {
+   "sec": "Maternal renal and GI systems",
+   "page": 357,
+   "q": "In normal pregnancy, maternal Renal Blood Flow (RBF) increases by 70-80% and Glomerular Filtration Rate (GFR) increases by 50%. How does this alter normal serum creatinine levels?",
+   "opts": [
+    "Creatinine falls to about 0.4-0.6 mg/dL, so a value above 0.8 mg/dL is abnormal in pregnancy",
+    "Creatinine rises to between 1.5 and 2.0 mg/dL from the increased filtration load",
+    "Creatinine stays fixed at about 1.0 mg/dL whatever the filtration rate",
+    "Creatinine becomes undetectable because filtration is so greatly increased"
+   ],
+   "ans": 0,
+   "exp": "With filtration up by half, creatinine falls; a value considered normal outside pregnancy is abnormal during it. (Book p357)",
+   "id": "OBG-C4-077"
+  },
+  {
+   "sec": "Maternal renal and GI systems",
+   "page": 357,
+   "q": "Asymptomatic bacteriuria (ASB) in pregnancy is defined as >= 10^5 CFU/mL of a single pathogen on midstream clean-catch urine. What is the most common causative organism and why is treatment mandatory?",
+   "opts": [
+    "Escherichia coli (80%); mandatory to prevent ascending acute pyelonephritis and preterm labor",
+    "Staphylococcus aureus; mandatory to prevent maternal sepsis",
+    "Group B Streptococcus; mandatory to prevent maternal liver failure",
+    "Proteus mirabilis; mandatory to prevent renal stone formation"
+   ],
+   "ans": 0,
+   "exp": "E. coli is most common; untreated ASB leads to acute pyelonephritis in 25-30% of pregnant women and increases preterm labor risks. (Book p357)",
+   "id": "OBG-C4-078"
+  },
+  {
+   "sec": "Maternal renal and GI systems",
+   "page": 357,
+   "q": "Why is serum alkaline phosphatase (ALP) physiologically elevated by two- to three-fold during the third trimester of pregnancy despite completely normal liver function?",
+   "opts": [
+    "Release of heat-stable alkaline phosphatase from the placental syncytiotrophoblast",
+    "Obstruction of the maternal biliary ducts by the gravid uterus",
+    "Severe maternal osteomalacia from calcium loss in pregnancy",
+    "Demineralisation of the fetal bones in the third trimester"
+   ],
+   "ans": 0,
+   "exp": "Serum ALP rises two- to three-fold in the third trimester because of release of large quantities of heat-stable alkaline phosphatase from the placental syncytiotrophoblast. (Book p357)",
+   "id": "OBG-C4-079"
+  },
+  {
+   "id": "OBG-C4-080",
+   "sec": "Maternal renal, urinary & gastrointestinal adaptations",
+   "page": 357,
+   "q": "Match the renal change with its direction in pregnancy — 1) Renal plasma flow and GFR 2) Serum creatinine 3) Ureteric and pelvic dilation … A) Falls to about 0.5-0.7 mg/dL, so a normal non-pregnant value may be abnormal B) Rises by 50-75% in the first half of pregnancy C) More marked on the right, from uterine compression of the ureter at the pelvic brim",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Filtration rises, creatinine falls and the right ureter dilates more, which is why pyelonephritis is commoner on the right. (Book p357)",
+   "fmt": "match"
+  }
+ ]
 }

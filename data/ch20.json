@@ -15,7 +15,8 @@
     "≥500 mL : ≥1500 mL : ≥2000 mL"
    ],
    "ans": 0,
-   "exp": "PPH ≥500 mL after vaginal delivery, ≥1000 mL after C-section; ACOG ≥1000 mL after any delivery. (Book p528)"
+   "exp": "PPH ≥500 mL after vaginal delivery, ≥1000 mL after C-section; ACOG ≥1000 mL after any delivery. (Book p528)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C20-002",
@@ -29,21 +30,23 @@
     "Fall in hematocrit by ≥10% between admission and postpartum period"
    ],
    "ans": 0,
-   "exp": "Clinical definitions: need for transfusion, hypovolemic signs, ≥10% hematocrit fall. Severe PPH (WHO) = ≥1000 mL. (Book p528)"
+   "exp": "Clinical definitions: need for transfusion, hypovolemic signs, ≥10% hematocrit fall. Severe PPH (WHO) = ≥1000 mL. (Book p528)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C20-003",
    "sec": "PPH: definitions, types & the 4 Ts",
    "page": 528,
-   "q": "Primary PPH occurs ______ and secondary PPH occurs ______.",
+   "q": "Fill up: Primary PPH occurs within ______ of delivery, and secondary PPH runs from 24 hours to ______ afterwards.",
    "opts": [
-    "Within 24 h of delivery; >24 h to 12 weeks after delivery",
-    "Within 6 h; 6–24 h",
-    "Within 1 h; 1–7 days",
-    "Within 48 h; 2–6 weeks"
+    "24 hours; 12 weeks",
+    "6 hours; 24 hours",
+    "1 hour; 7 days",
+    "48 hours; 6 weeks"
    ],
    "ans": 0,
-   "exp": "Primary <24 h; secondary >24 h up to 12 weeks. (Book p528)"
+   "exp": "Primary PPH is within 24 hours of birth and secondary PPH runs from 24 hours to 12 weeks postpartum. (Book p528)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C20-004",
@@ -51,13 +54,14 @@
    "page": 528,
    "q": "Match the 4 Ts with the m/c examples – Tone : Trauma : Thrombin : Tissue.",
    "opts": [
-    "Atonic uterus (m/c overall & m/c 1° PPH) : perineal/cervical tear, hematoma, rupture : bleeding disorders : retained placental tissue (m/c 2° PPH)",
-    "Retained tissue : atonic uterus : tears : bleeding disorders",
-    "Bleeding disorders : retained tissue : atony : trauma",
-    "Trauma : atony : tissue : thrombin"
+    "Atonic uterus : perineal tear or rupture : bleeding disorders : retained placental tissue",
+    "Retained placental tissue : atonic uterus : perineal tear or rupture : bleeding disorders",
+    "Bleeding disorders : retained placental tissue : atonic uterus : perineal tear or rupture",
+    "Perineal tear or rupture : bleeding disorders : atonic uterus : retained placental tissue"
    ],
    "ans": 0,
-   "exp": "Tone – atonic uterus (m/c overall, m/c primary); Trauma – tears/hematoma/rupture; Thrombin – bleeding disorders; Tissue – retained placenta (m/c secondary). (Book p528)"
+   "exp": "The 4 Ts: Tone – atonic uterus (commonest overall and commonest primary PPH); Trauma – perineal or cervical tear, hematoma, rupture; Thrombin – bleeding disorders; Tissue – retained placental tissue (commonest secondary PPH). (Book p528)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C20-005",
@@ -65,30 +69,46 @@
    "page": 528,
    "q": "The 'living ligature' of the uterus refers to:",
    "opts": [
-    "The middle layer of myometrium whose fibres compress vessels on contraction; atony → no compression → PPH",
-    "The round ligament",
-    "The cervical internal os",
-    "Decidua basalis"
+    "The interlacing middle layer of myometrium, whose fibres compress the vessels as the uterus contracts",
+    "The round ligament, which anchors the uterus and kinks the ovarian vessels after delivery",
+    "The internal cervical os, which closes and compresses the cervical branch of the uterine artery",
+    "The decidua basalis, whose spiral arteries thrombose spontaneously after separation of the placenta"
    ],
    "ans": 0,
-   "exp": "Living ligature = middle layer of myometrium; muscle fibres compress vessels on contraction; atonic uterus → PPH. (Book p528)"
+   "exp": "The middle myometrial fibres act as living ligatures; when they fail to contract and retract, the sinuses bleed and atonic PPH follows. (Book p528)"
   },
   {
    "id": "OBG-C20-006",
    "sec": "PPH: definitions, types & the 4 Ts",
    "page": 528,
-   "q": "Postpartum dilatation and curettage carries the highest risk for ______; the best method to prevent PPH is ______.",
+   "q": "A woman undergoes postpartum dilatation and curettage for retained products of conception. What is she at the highest risk of, and what best prevents PPH in the first place?",
    "opts": [
-    "Asherman syndrome; active management of third stage of labour",
-    "Uterine inversion; oxytocin bolus",
-    "Placenta accreta; misoprostol",
-    "Endometritis; early cord clamping"
+    "Asherman syndrome; active management of the third stage of labour",
+    "Uterine inversion; an oxytocin bolus given with the anterior shoulder",
+    "Placenta accreta spectrum; routine misoprostol in the third stage",
+    "Endometritis; early clamping of the umbilical cord"
    ],
    "ans": 0,
-   "exp": "Postpartum D&C → Asherman syndrome; best PPH prevention = AMTSL. (Book p528)"
+   "exp": "Postpartum D&C carries the highest risk of Asherman syndrome; the best method of preventing PPH is active management of the third stage of labour. (Book p528)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C20-007",
+   "sec": "PPH definitions, types & the 4 Ts",
+   "page": 528,
+   "q": "Fill up: Primary postpartum haemorrhage is blood loss of ______ mL or more within 24 hours of birth, and the four Ts are tone, trauma, tissue and ______.",
+   "opts": [
+    "500; thrombin",
+    "1000; thrombus",
+    "500; traction",
+    "1000; tone"
+   ],
+   "ans": 0,
+   "exp": "The four Ts are uterine tone, genital tract trauma, retained tissue and thrombin (coagulopathy); 500 mL defines PPH and 1000 mL severe PPH. (Book p528)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C20-008",
    "sec": "Risk factors for atonic & traumatic PPH",
    "page": 529,
    "q": "Maternal risk factors for PPH include all EXCEPT:",
@@ -99,66 +119,84 @@
     "H/O PIH in current pregnancy / anemia"
    ],
    "ans": 0,
-   "exp": "Maternal: previous PPH, advanced age, obesity, multigravida, PIH in current pregnancy, anemia. (Book p529)"
-  },
-  {
-   "id": "OBG-C20-008",
-   "sec": "Risk factors for atonic & traumatic PPH",
-   "page": 529,
-   "q": "Placental risk factors for PPH are:",
-   "opts": [
-    "Placenta previa, abruptio placentae (h/o APH), placenta accreta spectrum, chorioamnionitis",
-    "Succenturiate lobe only",
-    "Velamentous cord insertion",
-    "Circumvallate placenta"
-   ],
-   "ans": 0,
-   "exp": "Placental: previa, abruption (H/O antepartum haemorrhage), PAS, chorioamnionitis. (Book p529)"
+   "exp": "Maternal: previous PPH, advanced age, obesity, multigravida, PIH in current pregnancy, anemia. (Book p529)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C20-009",
    "sec": "Risk factors for atonic & traumatic PPH",
    "page": 529,
-   "q": "Uterine risk factors relate to overdistension, e.g.:",
+   "q": "Placental risk factors for PPH are:",
    "opts": [
-    "Twin pregnancy, gestational diabetes, polyhydramnios, macrosomia, fibroid uterus",
-    "Bicornuate uterus only",
-    "Cervical incompetence",
-    "Uterine septum"
+    "Placenta previa, abruptio placentae, placenta accreta spectrum and chorioamnionitis",
+    "A succenturiate lobe alone, which does not disturb the third stage",
+    "A velamentous cord insertion alone, which affects only the fetus",
+    "A circumvallate placenta alone, which is a harmless anatomical variant"
    ],
    "ans": 0,
-   "exp": "Uterine overdistension: twins, GDM, polyhydramnios, macrosomia, fibroid. (Book p529)"
+   "exp": "Placental causes of PPH are previa, abruption, morbid adherence and infection; the others are variants that do not themselves provoke bleeding. (Book p529)"
   },
   {
    "id": "OBG-C20-010",
    "sec": "Risk factors for atonic & traumatic PPH",
    "page": 529,
-   "q": "Intrapartum risk factors for PPH include:",
+   "q": "Uterine risk factors relate to overdistension, e.g.:",
    "opts": [
-    "Prolonged labour, precipitate labour (<3 h), induction/augmentation, instrumental delivery, overuse of tocolytics, general anaesthesia",
-    "Epidural analgesia, DCC",
-    "Left lateral position, ambulation",
-    "Companion presence, oral fluids"
+    "Twin pregnancy, gestational diabetes, polyhydramnios, macrosomia and a fibroid uterus",
+    "A bicornuate uterus, which overdistends and weakens the myometrium",
+    "Cervical incompetence with a short painless cervix in the second trimester",
+    "A uterine septum, which stretches the lower segment during pregnancy"
    ],
    "ans": 0,
-   "exp": "Intrapartum: prolonged/precipitate labour, IOL/augmentation, instrumental delivery, tocolytic overuse, GA. (Book p529)"
+   "exp": "Overdistension of the uterus exhausts the myometrium; congenital anomalies do not overdistend it, though they can predispose otherwise. (Book p529)"
   },
   {
    "id": "OBG-C20-011",
    "sec": "Risk factors for atonic & traumatic PPH",
    "page": 529,
-   "q": "Specific risk factors for TRAUMATIC PPH:",
+   "q": "Which statement about intrapartum risk factors for PPH is TRUE?",
    "opts": [
-    "Instrumental delivery, breech extraction, obstructed labour, tachysystole (>5 contractions/10 min), ↑ parity & maternal age",
-    "Anemia, GDM, twins",
-    "Placenta previa, PAS",
-    "Chorioamnionitis, tocolytics"
+    "Prolonged or precipitate labour, induction, instrumental delivery and general anaesthesia all raise the risk",
+    "Epidural analgesia and active management of the third stage raise the risk",
+    "Ambulation, continuous support and the left lateral position raise the risk",
+    "Oral fluids in labour and intermittent auscultation are intrapartum risk factors"
    ],
    "ans": 0,
-   "exp": "Traumatic PPH: instrumental delivery, breech extraction, obstructed labour, tachysystole, multiparity and age. (Book p529)"
+   "exp": "Intrapartum risk factors exhaust or damage the uterus and birth canal; the measures in the other options are neutral or protective. (Book p529)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C20-012",
+   "sec": "Risk factors for atonic & traumatic PPH",
+   "page": 529,
+   "q": "All of the following are specific risk factors for TRAUMATIC PPH EXCEPT:",
+   "opts": [
+    "Anaemia in the mother before delivery",
+    "Instrumental delivery",
+    "Breech extraction",
+    "Obstructed labour with tachysystole"
+   ],
+   "ans": 0,
+   "exp": "Traumatic PPH follows tears and lacerations from operative delivery, malpresentation, obstructed or very fast labour and high parity; anaemia is a maternal rather than a traumatic risk factor. (Book p529)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C20-013",
+   "sec": "Risk factors for atonic & traumatic PPH",
+   "page": 529,
+   "q": "All of the following predispose to uterine atony EXCEPT:",
+   "opts": [
+    "A short uncomplicated first stage in a multiparous woman",
+    "Overdistension of the uterus from twins or polyhydramnios",
+    "Prolonged or augmented labour with an exhausted myometrium",
+    "Grand multiparity with a fibroid uterus"
+   ],
+   "ans": 0,
+   "exp": "Atony follows overdistension, exhaustion, parity, fibroids, infection and anaesthesia; a quick uncomplicated labour does not exhaust the uterus. (Book p529)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C20-014",
    "sec": "Initial management: resuscitation & atonic vs traumatic PPH",
    "page": 529,
    "q": "First step in managing PPH (an obstetric emergency requiring a synchronised approach) is resuscitation, which includes all EXCEPT:",
@@ -169,10 +207,11 @@
     "Insert Foley's catheter"
    ],
    "ans": 0,
-   "exp": "Resuscitation: IV cannula, blood samples, arrange blood, crystalloids 1000 mL/min, ABC, Foley catheter. (Book p529)"
+   "exp": "Resuscitation: IV cannula, blood samples, arrange blood, crystalloids 1000 mL/min, ABC, Foley catheter. (Book p529)",
+   "fmt": "oddoneout"
   },
   {
-   "id": "OBG-C20-013",
+   "id": "OBG-C20-015",
    "sec": "Initial management: resuscitation & atonic vs traumatic PPH",
    "page": 529,
    "q": "After resuscitation, per-abdominal uterine massage finds a well-contracted uterus with normal tone. This:",
@@ -186,21 +225,36 @@
    "exp": "Normal tone → atonic PPH ruled out → traumatic PPH → P/V examination. (Book p529)"
   },
   {
-   "id": "OBG-C20-014",
+   "id": "OBG-C20-016",
    "sec": "Initial management: resuscitation & atonic vs traumatic PPH",
    "page": 529,
    "q": "If uterine tone is ↓ and maintained only by massage, this indicates ______; the next step is ______.",
    "opts": [
-    "Atonic PPH; P/V examination to rule out retained membranes/placental parts (which can induce contractions), then atonic PPH management",
-    "Traumatic PPH; suturing",
-    "Uterine inversion; replacement",
-    "AFE; ICU"
+    "Atonic PPH: look for retained products preventing contraction, then continue management of atony",
+    "Traumatic PPH: suture the cervical and vaginal lacerations under anaesthesia",
+    "Uterine inversion: replace the fundus back through the cervix under anaesthesia",
+    "Amniotic fluid embolism: transfer to intensive care for ventilatory support"
    ],
    "ans": 0,
-   "exp": "↓ tone = atonic PPH; P/V to rule out retained products, then manage atonic PPH. (Book p529)"
+   "exp": "A uterus that contracts only while being massaged is atonic; the next step is to exclude retained tissue that is sustaining the atony. (Book p529)"
   },
   {
-   "id": "OBG-C20-015",
+   "id": "OBG-C20-017",
+   "sec": "Initial management: resuscitation & atonic vs traumatic PPH",
+   "page": 529,
+   "q": "Immediately after delivery a woman loses 700 mL of blood. The uterus is boggy and reaches above the umbilicus, and the placenta has been expelled complete. What is the first step?",
+   "opts": [
+    "Call for help, rub up a contraction and give oxytocin while resuscitating with fluids and oxygen",
+    "Examine the genital tract under anaesthesia before doing anything else",
+    "Insert uterine balloon tamponade immediately",
+    "Perform a manual exploration of the uterus straight away"
+   ],
+   "ans": 0,
+   "exp": "A boggy uterus means atony, which is treated first by compression and uterotonics with simultaneous resuscitation; trauma is explored if bleeding persists. (Book p529)",
+   "fmt": "scenario"
+  },
+  {
+   "id": "OBG-C20-018",
    "sec": "Atonic PPH: three simultaneous steps & tranexamic acid",
    "page": 530,
    "q": "The three simultaneous steps in management of atonic PPH are:",
@@ -214,21 +268,21 @@
    "exp": "Bimanual massage (one hand on abdomen, one in vagina) + TXA + uterotonic. (Book p530)"
   },
   {
-   "id": "OBG-C20-016",
+   "id": "OBG-C20-019",
    "sec": "Atonic PPH: three simultaneous steps & tranexamic acid",
    "page": 530,
    "q": "Tranexamic acid in PPH – timing and dose:",
    "opts": [
-    "Within 3 h of PPH onset; 1 g in 100 mL NS IV over 20 min (fast rate → hypotension)",
-    "Within 24 h; 500 mg IM",
-    "Within 1 h; 2 g IV bolus",
-    "Any time; 1 g oral"
+    "Within 3 hours; 1 g in 100 mL of normal saline given intravenously over 20 minutes",
+    "Within 24 hours; 500 mg given by intramuscular injection",
+    "Within 1 hour; 2 g given as a rapid intravenous bolus",
+    "At any time after the bleed; 1 g given orally as a single dose"
    ],
    "ans": 0,
-   "exp": "TXA within 3 h of onset; 1 g in 100 mL NS over 20 min; rapid infusion causes hypotension. (Book p530)"
+   "exp": "Tranexamic acid 1 g in 100 mL saline over 20 minutes must be given within three hours; faster administration causes hypotension. (Book p530)"
   },
   {
-   "id": "OBG-C20-017",
+   "id": "OBG-C20-020",
    "sec": "Atonic PPH: three simultaneous steps & tranexamic acid",
    "page": 530,
    "q": "Tranexamic acid dose is repeated if bleeding:",
@@ -242,21 +296,21 @@
    "exp": "Repeat if bleeding persists ≥30 min or reappears within 24 h. (Book p530)"
   },
   {
-   "id": "OBG-C20-018",
+   "id": "OBG-C20-021",
    "sec": "Atonic PPH: three simultaneous steps & tranexamic acid",
    "page": 530,
    "q": "Oxytocin in atonic PPH – WHO status, dose and cautions:",
    "opts": [
-    "First drug recommended by WHO; 20–40 IU IM/IV infusion; avoid IV bolus (hypotension, arrhythmia, MI, arrest); not in 5% dextrose",
-    "Second-line; 10 IU IV bolus; in dextrose",
-    "Third-line; 5 IU IM; any diluent",
-    "Not used in PPH"
+    "First-line drug recommended by WHO; 20-40 IU by infusion; avoid a bolus and avoid dextrose",
+    "Second-line drug; 10 IU by intravenous bolus, diluted in dextrose",
+    "Third-line drug; 5 IU intramuscularly, diluted in whatever fluid is to hand",
+    "Not used in postpartum haemorrhage because of the risk of water intoxication"
    ],
    "ans": 0,
-   "exp": "Oxytocin first (WHO); 20–40 IU IM/IV infusion; no IV bolus; avoid 5% dextrose (water intoxication). (Book p530)"
+   "exp": "Oxytocin is the WHO first-line uterotonic, given as 20-40 IU by infusion; boluses cause hypotension and dextrose causes hyponatraemia. (Book p530)"
   },
   {
-   "id": "OBG-C20-019",
+   "id": "OBG-C20-022",
    "sec": "Atonic PPH: three simultaneous steps & tranexamic acid",
    "page": 530,
    "q": "Natural vs synthetic oxytocin:",
@@ -270,35 +324,50 @@
    "exp": "Natural: nonapeptide, paraventricular nucleus, posterior pituitary, pulsatile. Synthetic: octapeptide, 2–8 °C. (Book p530)"
   },
   {
-   "id": "OBG-C20-020",
+   "id": "OBG-C20-023",
    "sec": "Atonic PPH: three simultaneous steps & tranexamic acid",
    "page": 530,
    "q": "Mechanism, half-life and kinetics of IM oxytocin:",
    "opts": [
-    "↑ intracellular calcium and ↑ PGF2α from decidua; t½ 3–5 min; onset 3 min; duration 1 h; causes after-pains and milk ejection",
-    "↓ calcium; t½ 40 min; onset 10 min; duration 3 h",
-    "cAMP rise; t½ 1 h; onset 1 min; duration 30 min",
-    "Blocks progesterone; t½ 20 min; onset 5 min; duration 2 h"
+    "Raises intracellular calcium and decidual PGF2α; t½ 3-5 min; onset 3 min",
+    "Lowers intracellular calcium; t½ 40 min; onset 10 min",
+    "Raises cyclic AMP in the myometrium; t½ 1 h; onset 1 min",
+    "Blocks progesterone receptors; t½ 20 min; onset 5 min"
    ],
    "ans": 0,
-   "exp": "↑ intracellular Ca2+, ↑ PGF2α release; t½ 3–5 min; IM onset 3 min, duration 1 h; after-pains and milk ejection. (Book p530)"
+   "exp": "IM oxytocin raises intracellular calcium and decidual PGF2α; half-life 3-5 minutes, onset 3 minutes, duration 1 hour, and it causes after-pains and milk ejection. (Book p530)"
   },
   {
-   "id": "OBG-C20-021",
+   "id": "OBG-C20-024",
+   "sec": "Atonic PPH: three simultaneous steps & tranexamic acid",
+   "page": 530,
+   "q": "Fill up: Tranexamic acid is given as ______ g intravenously, and benefit is greatest when it is started within ______ hours of birth.",
+   "opts": [
+    "1; 3",
+    "0.5; 1",
+    "1; 6",
+    "2; 3"
+   ],
+   "ans": 0,
+   "exp": "The WOMAN trial showed that 1 g of tranexamic acid given early, within three hours, reduces death from bleeding. (Book p530)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C20-025",
    "sec": "Second-line uterotonics: methylergometrine, syntometrine, misoprostol & carboprost",
    "page": 531,
    "q": "Methylergometrine – effect and dose:",
    "opts": [
-    "Tetanic continuous contractions (cannot be used during pregnancy, may retain placenta); 0.2 mg IM repeated in 2–4 h; IV avoided (BP spike); brown vials (phototoxic)",
-    "Physiological contractions; 0.5 mg IV; clear vials",
-    "Tetanic; 1 mg oral 6-hourly; refrigerated",
-    "Relaxant; 0.2 mg SC once"
+    "Tetanic contractions, so it cannot be used before delivery; 0.2 mg intramuscularly, repeated in 2-4 hours",
+    "Physiological contractions; 0.5 mg intravenously, stored in clear glass vials",
+    "Tetanic contractions; 1 mg orally six-hourly, and requiring refrigeration",
+    "Uterine relaxation; 0.2 mg subcutaneously as a single dose"
    ],
    "ans": 0,
-   "exp": "ME: tetanic contractions; 0.2 mg IM repeat 2–4 h; IV avoided; brown vials due to phototoxicity; S/E hypertension. (Book p531)"
+   "exp": "Methylergometrine 0.2 mg intramuscularly gives a sustained tetanic contraction; it is avoided before delivery and given slowly, if at all, intravenously. (Book p531)"
   },
   {
-   "id": "OBG-C20-022",
+   "id": "OBG-C20-026",
    "sec": "Second-line uterotonics: methylergometrine, syntometrine, misoprostol & carboprost",
    "page": 531,
    "q": "Contraindications to methylergometrine include all EXCEPT:",
@@ -312,7 +381,7 @@
    "exp": "Asthma is a C/I to carboprost, not ME. ME C/I: after 1st twin, heart disease, PVD, pre-eclampsia/HELLP, Rh-negative, HIV on PIs. (Book p531)"
   },
   {
-   "id": "OBG-C20-023",
+   "id": "OBG-C20-027",
    "sec": "Second-line uterotonics: methylergometrine, syntometrine, misoprostol & carboprost",
    "page": 531,
    "q": "Syntometrine composition and note on carbetocin:",
@@ -326,91 +395,106 @@
    "exp": "Syntometrine = 5 U oxytocin + 0.5 mg ME (expensive, not readily available); carbetocin not for PPH treatment. (Book p531)"
   },
   {
-   "id": "OBG-C20-024",
+   "id": "OBG-C20-028",
    "sec": "Second-line uterotonics: methylergometrine, syntometrine, misoprostol & carboprost",
    "page": 531,
    "q": "Misoprostol in PPH – form, WHO strategy and dose:",
    "opts": [
-    "PGE1, the only uterotonic in tablet form; WHO recommends antenatal distribution in rural areas; WHO 800 mcg sublingual > oral; ACOG 600–1000 mcg SL/oral/PR; PV avoided in PPH (washed off)",
-    "PGE2 gel; 25 mcg vaginal",
-    "PGF2α tablet; 200 mcg PV",
-    "Oxytocin analogue; 100 mcg IV"
+    "Prostaglandin E1, the only uterotonic available as a tablet; WHO recommends 800 microgram sublingually",
+    "Prostaglandin E2, given as an intracervical gel in a dose of 0.5 mg for cervical ripening",
+    "Prostaglandin F2 alpha, given as 250 microgram intramuscularly every fifteen minutes",
+    "An oxytocin analogue, given as a 100 microgram slow intravenous bolus after delivery"
    ],
    "ans": 0,
-   "exp": "Misoprostol PGE1 tablet; WHO 800 mcg SL (> oral); ACOG 600–1000 mcg; avoid PV in PPH. (Book p531)"
+   "exp": "Misoprostol is PGE1 in tablet form; 800 microgram sublingually is the WHO regimen for prevention where oxytocin is unavailable. (Book p531)"
   },
   {
-   "id": "OBG-C20-025",
+   "id": "OBG-C20-029",
    "sec": "Second-line uterotonics: methylergometrine, syntometrine, misoprostol & carboprost",
    "page": 531,
    "q": "Side effects and contraindication of misoprostol:",
    "opts": [
-    "Hyperthermia & shivering, nausea & vomiting; C/I scarred uterus (m/c drug causing uterine rupture); safe in asthmatics",
-    "Hypertension; C/I heart disease",
-    "Bronchospasm; C/I asthma",
-    "Diarrhoea; C/I pulmonary hypertension"
+    "Hyperthermia and shivering with nausea and vomiting; contraindicated with a scarred uterus",
+    "Hypertension and headache; contraindicated in established maternal heart disease",
+    "Bronchospasm, since misoprostol provokes an attack in asthmatic women",
+    "Profuse watery diarrhoea; contraindicated in maternal pulmonary hypertension"
    ],
    "ans": 0,
-   "exp": "S/E: hyperthermia/shivering, nausea/vomiting; C/I scarred uterus (m/c drug causing rupture); can be given to asthmatics. (Book p531)"
+   "exp": "Misoprostol causes fever, shivering and gastrointestinal upset; unlike carboprost it is safe in asthma but risky with a uterine scar. (Book p531)"
   },
   {
-   "id": "OBG-C20-026",
+   "id": "OBG-C20-030",
    "sec": "Second-line uterotonics: methylergometrine, syntometrine, misoprostol & carboprost",
    "page": 531,
    "q": "Carboprost (Hemabate) – class, status and dose:",
    "opts": [
-    "PGF2α; gold standard for PPH management; 250 mcg IM every 15–40 min, max 8 doses (2 mg); S/E diarrhoea",
-    "PGE2; first line; 500 mcg IV; S/E fever",
-    "PGE1; second line; 1 mg IM; S/E hypertension",
-    "PGI2; adjunct; 100 mcg SC"
+    "PGF2α; gold standard for PPH; 250 mcg IM every 15-40 min, max 8 doses; diarrhoea",
+    "PGE2; first-line alternative; 500 mcg by slow IV injection; pyrexia",
+    "PGE1; second-line agent; 1 mg IM repeated four-hourly; hypertension",
+    "PGI2; adjunct only; 100 mcg subcutaneously six-hourly; flushing"
    ],
    "ans": 0,
-   "exp": "Carboprost PGF2α – gold standard; 250 mcg IM q15–40 min, max 8 doses; S/E diarrhoea. (Book p531)"
+   "exp": "Carboprost (Hemabate) is PGF2α, the gold standard for PPH management, given as 250 mcg IM every 15-40 minutes to a maximum of 8 doses (2 mg); diarrhoea is the classic side effect. (Book p531)"
   },
   {
-   "id": "OBG-C20-027",
+   "id": "OBG-C20-031",
    "sec": "Second-line uterotonics: methylergometrine, syntometrine, misoprostol & carboprost",
    "page": 531,
    "q": "Contraindications to carboprost and the status of dinoprostone:",
    "opts": [
-    "Asthma, pulmonary hypertension, suspected amniotic fluid embolism, PIH (relative); dinoprostone (PGE2) used off-label PV/PR/suppository 20 mg, not WHO-recommended",
-    "Heart disease, Rh-negative; dinoprostone first line",
-    "Scarred uterus; dinoprostone gold standard",
-    "Diabetes; dinoprostone IV"
+    "Asthma, pulmonary hypertension and suspected amniotic fluid embolism; dinoprostone is used off-label",
+    "Heart disease and Rh-negative status, with dinoprostone as the first-line drug",
+    "A scarred uterus only, with dinoprostone as the accepted gold standard",
+    "Diabetes mellitus, with dinoprostone given by intravenous infusion"
    ],
    "ans": 0,
-   "exp": "Carboprost C/I: asthma, pulmonary HTN, suspected AFE, PIH (relative). Dinoprostone off-label 20 mg, not recommended by WHO. (Book p531)"
+   "exp": "Carboprost is contraindicated in asthma and pulmonary hypertension; dinoprostone (PGE2) is used off-label per vaginam or rectum. (Book p531)"
   },
   {
-   "id": "OBG-C20-028",
+   "id": "OBG-C20-032",
+   "sec": "Second-line uterotonics",
+   "page": 531,
+   "q": "Match the second-line uterotonic with its dose and caveat — 1) Methylergometrine 2) Misoprostol 3) Carboprost … A) 800-1000 microgram rectally or sublingually, useful where injection or refrigeration is impractical B) 250 microgram intramuscularly every 15 minutes, contraindicated in asthma C) 0.2 mg intramuscularly, contraindicated in hypertension and pre-eclampsia",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Ergometrine raises blood pressure, misoprostol is the heat-stable standby, and carboprost is dangerous in asthma. (Book p531)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C20-033",
    "sec": "Management protocol: drugs → balloon tamponade → surgery",
    "page": 532,
    "q": "Sequence of uterotonics in the PPH management protocol:",
    "opts": [
-    "Bimanual massage + TXA + oxytocin → if unresponsive methylergometrine → if unresponsive carboprost; misoprostol is an add-on drug",
-    "Carboprost → oxytocin → ME",
-    "Misoprostol → oxytocin → carboprost",
-    "ME → misoprostol → oxytocin"
+    "Massage with tranexamic acid and oxytocin, then methylergometrine, then carboprost, with misoprostol as an add-on",
+    "Carboprost first, then oxytocin, then methylergometrine in that order",
+    "Misoprostol first, then oxytocin, then carboprost in that order",
+    "Methylergometrine first, then misoprostol, then oxytocin in that order"
    ],
    "ans": 0,
-   "exp": "Oxytocin (WHO first) → ME → carboprost; misoprostol as add-on. (Book p532)"
+   "exp": "Oxytocin with tranexamic acid and massage is first line; ergometrine and then carboprost follow, with misoprostol as an adjunct. (Book p532)"
   },
   {
-   "id": "OBG-C20-029",
+   "id": "OBG-C20-034",
    "sec": "Management protocol: drugs → balloon tamponade → surgery",
    "page": 532,
    "q": "If unresponsive to drugs for >30 min, mechanical compression is used (continuing uterotonics) – principle and catheters:",
    "opts": [
-    "Warm NS in a catheter inside the uterus presses on venous sinuses; Bakri balloon (max 500 mL), Sengstaken-Blakemore, EBB uterine tamponade system, condom catheter",
-    "Cold saline packing; Foley only",
-    "Air-filled balloon; Bakri 2000 mL",
-    "Gauze packing (current standard)"
+    "Warm saline in an intrauterine catheter compresses the venous sinuses; the Bakri balloon holds up to 500 mL",
+    "Cold saline packing through a Foley catheter is the only mechanical option available",
+    "An air-filled balloon inflated to 2000 mL in a Bakri catheter tamponades the uterus",
+    "Gauze packing of the uterine cavity is the current standard first-line technique"
    ],
    "ans": 0,
-   "exp": "Balloon tamponade with warm NS compresses venous sinuses; Bakri (max 500 mL), SB tube, EBB system, condom catheter; vaginal balloon controls vaginal oozing. (Book p532)"
+   "exp": "Intrauterine balloons tamponade by compressing the venous sinuses; the Bakri is filled with warm saline up to about 500 mL. (Book p532)"
   },
   {
-   "id": "OBG-C20-030",
+   "id": "OBG-C20-035",
    "sec": "Management protocol: drugs → balloon tamponade → surgery",
    "page": 532,
    "q": "If tamponade is responsive, the catheter is removed after ______; if bleeding continues with unstable vitals the next step is ______.",
@@ -424,105 +508,120 @@
    "exp": "Remove after 12–24 h if responsive; unstable vitals → uterine artery ligation. (Book p532)"
   },
   {
-   "id": "OBG-C20-031",
+   "id": "OBG-C20-036",
    "sec": "Management protocol: drugs → balloon tamponade → surgery",
    "page": 532,
    "q": "If bleeding continues but vitals are stable, the patient is shifted to OT with temporary measures such as:",
    "opts": [
-    "External aortic compression (at umbilicus, check ipsilateral femoral pulse) and military anti-shock garment",
-    "Trendelenburg position and cold packs",
-    "Vaginal packing and IV fluids only",
-    "Fundal pressure and oxytocin bolus"
+    "External aortic compression at the umbilicus, and a military anti-shock garment",
+    "The Trendelenburg position with cold packs applied to the abdomen",
+    "Vaginal packing with intravenous fluids and nothing further",
+    "Fundal pressure combined with an intravenous oxytocin bolus"
    ],
    "ans": 0,
-   "exp": "Temporary measures: external aortic compression at umbilical level (absent femoral pulse confirms) and MAST. (Book p532)"
+   "exp": "Aortic compression and a non-pneumatic anti-shock garment buy time while the woman is transferred to theatre. (Book p532)"
   },
   {
-   "id": "OBG-C20-032",
+   "id": "OBG-C20-037",
    "sec": "Management protocol: drugs → balloon tamponade → surgery",
    "page": 532,
    "q": "Compression sutures for PPH include (m/c first):",
    "opts": [
-    "B-Lynch/Brace (m/c), Hayman, Cho square, Pereira, Gunshella",
-    "McDonald, Shirodkar, Wurm",
-    "O'Leary, Burch, Kelly",
-    "Halsted, Lembert, Connell"
+    "B-Lynch or Brace, then Hayman, Cho square, Pereira, Gunshella",
+    "McDonald, then Shirodkar, then the Wurm modification",
+    "O'Leary, then the Burch procedure, then Kelly plication",
+    "Halsted stitch, then the Lembert stitch, then the Connell stitch"
    ],
    "ans": 0,
-   "exp": "B-Lynch (m/c), Hayman, Cho square, Pereira, Gunshella sutures. (Book p532)"
+   "exp": "Compression sutures for PPH are B-Lynch or Brace (commonest first), then Hayman, the Cho square sutures, Pereira and Gunshella. (Book p532)"
   },
   {
-   "id": "OBG-C20-033",
+   "id": "OBG-C20-038",
    "sec": "Management protocol: drugs → balloon tamponade → surgery",
    "page": 532,
    "q": "If bleeding continues after compression sutures – with radiointervention available : without radiointervention.",
    "opts": [
-    "Uterine artery embolization (if stable vitals) : stepwise devascularisation – unilateral UAL → bilateral UAL → unilateral ovarian anastomotic branch → bilateral ovarian branch ligation",
-    "Hysterectomy : embolization",
-    "Internal iliac ligation : embolization",
-    "Packing : hysterectomy"
+    "With radiology: uterine artery embolisation if she is stable — without: stepwise devascularisation through to hysterectomy",
+    "With radiology: immediate hysterectomy — without: embolisation performed by the obstetric team",
+    "With radiology: internal iliac artery ligation — without: embolisation by interventional radiology",
+    "With radiology: uterine packing — without: immediate hysterectomy for every woman"
    ],
    "ans": 0,
-   "exp": "Radiointervention → UAE; otherwise stepwise devascularisation: U/L UAL, B/L UAL, U/L then B/L ovarian anastomotic branch ligation. (Book p532)"
+   "exp": "Embolisation suits the stable woman where interventional radiology exists; otherwise stepwise devascularisation ends in hysterectomy. (Book p532)"
   },
   {
-   "id": "OBG-C20-034",
+   "id": "OBG-C20-039",
    "sec": "Management protocol: drugs → balloon tamponade → surgery",
    "page": 532,
    "q": "Final steps if bleeding still continues – stable : unstable; and if hysterectomy fails to stop bleeding:",
    "opts": [
-    "Ligation of anterior division of internal iliac artery : subtotal hysterectomy (cervix not removed); pelvic pressure packs – umbrella pack, parachute pack",
-    "Total hysterectomy : internal iliac ligation; gauze pack",
-    "Embolization : B-Lynch; Bakri",
-    "Aortic ligation : oophorectomy; vaginal pack"
+    "Stable: ligation of the anterior division of the internal iliac artery — unstable: subtotal hysterectomy; then pelvic pressure packing",
+    "Stable: total hysterectomy — unstable: internal iliac ligation; then a gauze pack",
+    "Stable: embolisation — unstable: a B-Lynch suture; then a Bakri balloon",
+    "Stable: aortic ligation — unstable: oophorectomy; then a vaginal pack"
    ],
    "ans": 0,
-   "exp": "Stable → anterior division internal iliac ligation (if fails → hysterectomy); unstable → subtotal hysterectomy; persistent bleeding → umbrella/parachute pelvic packs. (Book p532)"
+   "exp": "If she is stable, vessel ligation can preserve the uterus; if she is not, subtotal hysterectomy is faster and safer, with packing as a bridge. (Book p532)"
   },
   {
-   "id": "OBG-C20-035",
+   "id": "OBG-C20-040",
+   "sec": "Management protocol: drugs, balloon, then surgery",
+   "page": 532,
+   "q": "Bleeding continues in an atonic postpartum haemorrhage despite oxytocin, ergometrine and carboprost. The uterus is now contracted, the placenta was complete and the genital tract is intact. What is the next step?",
+   "opts": [
+    "Insert a uterine balloon tamponade and prepare for surgical haemostasis if bleeding continues",
+    "Proceed directly to hysterectomy without any further measure",
+    "Give repeated doses of oxytocin and wait two hours",
+    "Repeat a manual removal of the placenta to be certain nothing remains"
+   ],
+   "ans": 0,
+   "exp": "The escalation is balloon tamponade, then uterine compression sutures, vessel ligation and finally hysterectomy. (Book p532)",
+   "fmt": "scenario"
+  },
+  {
+   "id": "OBG-C20-041",
    "sec": "Uterine artery ligation, shock index & packing",
    "page": 533,
    "q": "Uterine artery ligation (O'Leary technique) is performed at:",
    "opts": [
-    "Site of upward turning of the artery in the broad ligament where the round ligament crosses; suture includes part of myometrium to prevent slipping; stay close to uterus to protect ureter",
-    "Origin from internal iliac artery",
-    "Level of cervix–vagina junction",
-    "Cornual end near ovarian ligament"
+    "Where the artery turns upwards in the broad ligament, taking a bite of myometrium and staying close to the uterus",
+    "At its origin from the internal iliac artery, before the vessel crosses the lateral pelvic wall",
+    "At the level of the cervicovaginal junction, below the point where the vessels enter the cervix",
+    "At the cornual end of the uterus, where it anastomoses with the ovarian artery near the fundus"
    ],
    "ans": 0,
-   "exp": "UAL at the upward turn in broad ligament where round ligament crosses; include myometrium; proximity to uterus protects ureter. (Book p533)"
+   "exp": "The O'Leary stitch is placed where the uterine artery turns up beside the uterus, including myometrium so the suture cannot slip and avoiding the ureter. (Book p533)"
   },
   {
-   "id": "OBG-C20-036",
+   "id": "OBG-C20-042",
    "sec": "Uterine artery ligation, shock index & packing",
    "page": 533,
    "q": "Success rate of bilateral uterine artery ligation:",
    "opts": [
-    "≈85% of cases",
-    "≈50%",
-    "≈99%",
-    "≈30%"
+    "About 85 per cent of cases, which is why it is attempted before hysterectomy",
+    "About 50 per cent of cases, so it is rarely worth attempting at all",
+    "About 99 per cent of cases, which makes hysterectomy almost unnecessary",
+    "About 30 per cent of cases, and only when performed before any drug"
    ],
    "ans": 0,
-   "exp": "B/L UAL controls bleeding in ~85%. (Book p533)"
+   "exp": "Bilateral uterine artery ligation controls bleeding in roughly 85 per cent of cases and preserves fertility, so it precedes hysterectomy. (Book p533)"
   },
   {
-   "id": "OBG-C20-037",
+   "id": "OBG-C20-043",
    "sec": "Uterine artery ligation, shock index & packing",
    "page": 533,
    "q": "Shock index (SI) = heart rate ÷ systolic BP. Normal range and significance of SI ≥0.9:",
    "opts": [
-    "0.5–0.7; ≥0.9 → blood transfusion indicated and ↑ risk of maternal mortality",
-    "0.9–1.2; ≥1.5 → transfusion",
-    "0.3–0.5; ≥0.7 → ICU",
-    "1.0–1.5; ≥2 → hysterectomy"
+    "Normal is 0.5-0.7; a value of 0.9 or more indicates transfusion need and higher mortality",
+    "Normal is 0.9-1.2; a value of 1.5 or more is the threshold for transfusion",
+    "Normal is 0.3-0.5; a value of 0.7 or more means she needs intensive care",
+    "Normal is 1.0-1.5; a value of 2.0 or more means hysterectomy is required"
    ],
    "ans": 0,
-   "exp": "Normal SI 0.5–0.7; SI ≥0.9 → transfuse, ↑ mortality risk. (Book p533)"
+   "exp": "The shock index is normally 0.5-0.7; 0.9 or above signals significant loss, the need for transfusion and raised mortality. (Book p533)"
   },
   {
-   "id": "OBG-C20-038",
+   "id": "OBG-C20-044",
    "sec": "Uterine artery ligation, shock index & packing",
    "page": 533,
    "q": "Packing of the uterus for PPH is:",
@@ -536,7 +635,22 @@
    "exp": "Uterine packing is outdated; balloon tamponade is used instead. (Book p533)"
   },
   {
-   "id": "OBG-C20-039",
+   "id": "OBG-C20-045",
+   "sec": "Uterine artery ligation, shock index & packing",
+   "page": 533,
+   "q": "Fill up: The shock index is calculated as ______ divided by ______, and a value above 0.9 suggests significant occult blood loss.",
+   "opts": [
+    "pulse rate; systolic blood pressure",
+    "systolic blood pressure; pulse rate",
+    "diastolic pressure; pulse rate",
+    "blood loss; body weight"
+   ],
+   "ans": 0,
+   "exp": "Heart rate and systolic pressure are the earliest vital signs to change in haemorrhage, so their ratio flags occult loss before hypotension appears. (Book p533)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C20-046",
    "sec": "Retained placenta: causes & management algorithm",
    "page": 534,
    "q": "Features of the human placenta and the plane of separation:",
@@ -550,49 +664,49 @@
    "exp": "Deciduate, discoid, hemochorial; uterine contraction is most important; plane = zona spongiosa. (Book p534)"
   },
   {
-   "id": "OBG-C20-040",
+   "id": "OBG-C20-047",
    "sec": "Retained placenta: causes & management algorithm",
    "page": 534,
    "q": "Retained placenta (prolonged third stage) is defined as placenta not delivered:",
    "opts": [
-    ">30 min after delivery of baby",
-    ">15 min",
-    ">60 min",
-    ">10 min"
+    "More than 30 minutes after the delivery of the baby",
+    "More than 15 minutes after the delivery of the baby",
+    "More than 60 minutes after the delivery of the baby",
+    "More than 10 minutes after the delivery of the baby"
    ],
    "ans": 0,
-   "exp": "Retained placenta = >30 min after delivery of baby. (Book p534)"
+   "exp": "A third stage longer than 30 minutes is a prolonged third stage, and active intervention is considered once that time has passed. (Book p534)"
   },
   {
-   "id": "OBG-C20-041",
+   "id": "OBG-C20-048",
    "sec": "Retained placenta: causes & management algorithm",
    "page": 534,
    "q": "Placenta separated but not expelled (signs of separation present) = trapped placenta. Management:",
    "opts": [
-    "Empty bladder → P/A exam; if uterus relaxed: oxytocin + CCT (if cord breaks → MRP under short GA); if uterus relaxed and internal os closed: MRP under short GA",
-    "Immediate hysterectomy",
-    "Wait 2 h",
-    "Misoprostol PV"
+    "Empty the bladder, give oxytocin and repeat controlled cord traction; if it fails, manual removal under short anaesthesia",
+    "Empty the bladder, give oxytocin and repeat controlled cord traction; if it fails, proceed straight to hysterectomy",
+    "Leave it with antibiotics for 24 hours and reassess the next morning before intervening",
+    "Give misoprostol into the vagina and wait for spontaneous expulsion over the next six hours"
    ],
    "ans": 0,
-   "exp": "Trapped placenta: empty bladder, oxytocin + CCT; if cord snaps or os closed → manual removal under short GA. (Book p534)"
+   "exp": "A trapped placenta needs a full bladder emptied, a uterotonic and controlled cord traction, escalating to manual removal if it is still retained. (Book p534)"
   },
   {
-   "id": "OBG-C20-042",
+   "id": "OBG-C20-049",
    "sec": "Retained placenta: causes & management algorithm",
    "page": 534,
    "q": "Placenta attached to uterus but not invading myometrium – management:",
    "opts": [
-    "Oxytocin + CCT; if no response → manual removal of placenta under GA",
-    "Hysterectomy",
-    "Methotrexate",
-    "Wait 24 h"
+    "Oxytocin with controlled cord traction, then manual removal under anaesthesia if the placenta is still retained",
+    "Oxytocin with controlled cord traction, then immediate hysterectomy if the placenta is still retained",
+    "Methotrexate to dissolve the adherent placenta, followed by surgical evacuation a week later",
+    "Conservative management with antibiotics and observation for 24 hours before any intervention"
    ],
    "ans": 0,
-   "exp": "Adherent non-invasive: oxytocin + CCT → MRP under GA if no response. (Book p534)"
+   "exp": "When the placenta is simply adherent and not bleeding, oxytocin and controlled cord traction come first, with manual removal as the next step. (Book p534)"
   },
   {
-   "id": "OBG-C20-043",
+   "id": "OBG-C20-050",
    "sec": "Retained placenta: causes & management algorithm",
    "page": 534,
    "q": "Placenta invading the myometrium (morbidly adherent) is called ______ and managed by ______.",
@@ -606,49 +720,79 @@
    "exp": "Morbidly adherent = placenta accreta spectrum → hysterectomy. (Book p534)"
   },
   {
-   "id": "OBG-C20-044",
+   "id": "OBG-C20-051",
+   "sec": "Retained placenta: causes & management algorithm",
+   "page": 534,
+   "q": "All of the following are recognised causes of retained placenta EXCEPT:",
+   "opts": [
+    "A cervical tear sustained during instrumental delivery",
+    "Morbid adherence of the placenta to the myometrium",
+    "Uterine atony with failure of placental separation",
+    "A constriction ring trapping an already separated placenta"
+   ],
+   "ans": 0,
+   "exp": "Retained placenta follows adherence, atony or entrapment; a cervical tear causes traumatic bleeding, not retention. (Book p534)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C20-052",
    "sec": "Placenta accreta spectrum",
    "page": 535,
    "q": "Match PAS types by depth of chorionic villi – Accreta : Increta : Percreta.",
    "opts": [
-    "Superficially attached to myometrium (m/c) : invade into myometrium : attached to/through serosa",
-    "Into myometrium : to serosa : superficial",
-    "To serosa : superficial : into myometrium",
-    "Into endometrium : into serosa : into bladder"
+    "Accreta attached to myometrium; increta into myometrium; percreta to or through serosa",
+    "Accreta invades the myometrium; increta reaches the serosa; percreta is superficial",
+    "Accreta reaches the serosa; increta is superficial; percreta invades myometrium",
+    "Accreta into endometrium; increta to serosa; percreta into the bladder"
    ],
    "ans": 0,
-   "exp": "Accreta (m/c) superficial attachment; increta invades myometrium; percreta reaches serosa. (Book p535)"
+   "exp": "By depth of chorionic villi: accreta is superficially attached to the myometrium (commonest), increta invades into the myometrium, and percreta is attached to or through the serosa. (Book p535)"
   },
   {
-   "id": "OBG-C20-045",
+   "id": "OBG-C20-053",
    "sec": "Placenta accreta spectrum",
    "page": 535,
    "q": "Risk factors and etiology of PAS:",
    "opts": [
-    "Placenta previa in current pregnancy; past C-section (most important), D&C, myomectomy; etiology – absent Nitabuch's layer / defective decidua basalis",
-    "Multiparity; etiology – excess decidua",
-    "Twins; etiology – thick Nitabuch layer",
-    "Anemia; etiology – hyperplastic endometrium"
+    "Placenta previa, a previous caesarean, curettage or myomectomy; the cause is defective decidua with absent Nitabuch's layer",
+    "Multiparity alone, through an excessively thick and vascular decidua basalis",
+    "A twin pregnancy alone, through an unusually thick Nitabuch layer",
+    "Maternal anaemia alone, through a hyperplastic and overactive endometrium"
    ],
    "ans": 0,
-   "exp": "Risk: previa now, prior C-section (most important), D&C, myomectomy. Etiology: absent Nitabuch's layer, defective decidua basalis. (Book p535)"
+   "exp": "Accreta spectrum follows endometrial damage: previa, scar, curettage or myomectomy, with loss of the Nitabuch layer and decidua basalis. (Book p535)"
   },
   {
-   "id": "OBG-C20-046",
+   "id": "OBG-C20-054",
    "sec": "Placenta accreta spectrum",
    "page": 535,
    "q": "Investigation of choice for PAS and its findings:",
    "opts": [
-    "Ultrasound with Doppler – heterogenous/moth-eaten placenta with placental lakes, loss of hypoechoic area below placenta (absent decidua basalis), interrupted white line of bladder–serosa interface",
-    "MRI – snowstorm appearance",
-    "CT – ring enhancement",
-    "Hysteroscopy – villi visualised"
+    "Ultrasound with Doppler: placental lakes, loss of the retroplacental clear zone and an interrupted bladder line",
+    "Magnetic resonance imaging: a snowstorm appearance filling the whole uterine cavity",
+    "Computed tomography: ring enhancement of the myometrium around the placental bed",
+    "Hysteroscopy: direct visualisation of chorionic villi inside the uterine cavity"
    ],
    "ans": 0,
-   "exp": "USG + Doppler (IOC): moth-eaten placenta/lakes, loss of retroplacental hypoechoic zone, interrupted bladder-serosa line. Management: hysterectomy. (Book p535)"
+   "exp": "Ultrasound with Doppler is the investigation of choice; the snowstorm appearance belongs to a molar pregnancy, not to accreta. (Book p535)"
   },
   {
-   "id": "OBG-C20-047",
+   "id": "OBG-C20-055",
+   "sec": "Placenta accreta spectrum",
+   "page": 535,
+   "q": "Which of the following statements about placenta accreta is TRUE?",
+   "opts": [
+    "Deficient decidua basalis prevents normal separation, so attempting manual removal causes torrential haemorrhage",
+    "Placenta accreta is commonest in a first pregnancy with no uterine surgery",
+    "Manual removal of the placenta is always safe and should be the first treatment",
+    "A normal third stage in a previous pregnancy rules out accreta in this one"
+   ],
+   "ans": 0,
+   "exp": "Accreta follows endometrial damage from surgery or curettage, and the correct management leaves the placenta in situ rather than forcing separation. (Book p535)",
+   "fmt": "truefalse"
+  },
+  {
+   "id": "OBG-C20-056",
    "sec": "Uterine inversion: definition, classification & clinical features",
    "page": 535,
    "q": "Uterine inversion is ______; on inspection the os is ______ in inversion and ______ in uterine prolapse.",
@@ -662,7 +806,7 @@
    "exp": "Inversion = fundus prolapses into cavity; os not visible in inversion but visible in prolapse. (Book p535)"
   },
   {
-   "id": "OBG-C20-048",
+   "id": "OBG-C20-057",
    "sec": "Uterine inversion: definition, classification & clinical features",
    "page": 536,
    "q": "Classification by time after delivery – Acute : Sub-acute : Chronic.",
@@ -676,105 +820,135 @@
    "exp": "Acute <24 h; sub-acute 24 h–4 wks; chronic ≥4 wks. (Book p536)"
   },
   {
-   "id": "OBG-C20-049",
+   "id": "OBG-C20-058",
    "sec": "Uterine inversion: definition, classification & clinical features",
    "page": 536,
    "q": "Classification by extent – 1st : 2nd : 3rd : 4th degree.",
    "opts": [
-    "Fundus into cavity not beyond os : fundus reaches os level, not protruding : fundus protrudes out of introitus : complete inversion of uterus and vagina",
-    "Fundus at os : fundus in vagina : fundus at introitus : vagina everted",
-    "Dimple in fundus : fundus at os : fundus in vagina : fundus outside",
-    "Fundus in vagina : at introitus : outside : with bladder"
+    "Fundus into the cavity not beyond the os : fundus at the os : fundus outside the introitus : complete inversion",
+    "Dimple in the fundus : fundus at the os : fundus in the vagina : fundus outside",
+    "Fundus at the os : fundus in the vagina : fundus at the introitus : vagina everted",
+    "Fundus in the vagina : at the introitus : outside : with the bladder drawn in"
    ],
    "ans": 0,
-   "exp": "1° within cavity; 2° reaches os; 3° protrudes out of introitus; 4° complete inversion of uterus and vagina. (Book p536)"
+   "exp": "By extent, inversion is graded: 1st the fundus dips into the cavity but not beyond the os; 2nd it reaches the os without protruding; 3rd it protrudes out of the introitus; 4th there is complete inversion of uterus and vagina. (Book p536)"
   },
   {
-   "id": "OBG-C20-050",
+   "id": "OBG-C20-059",
    "sec": "Uterine inversion: definition, classification & clinical features",
    "page": 536,
    "q": "The m/c cause of uterine inversion and the nature of shock:",
    "opts": [
-    "Iatrogenic (mismanaged 3rd stage); initial neurogenic shock (parasympathetic stretching) then hemorrhagic shock (cause of death)",
-    "Spontaneous; hemorrhagic only",
-    "Placenta previa; septic shock",
-    "Fibroid; cardiogenic shock"
+    "Iatrogenic from a mismanaged third stage; neurogenic shock first, then haemorrhagic shock",
+    "Spontaneous inversion with haemorrhagic shock alone and no neurogenic component at all",
+    "Associated with placenta previa, producing septic shock with rigors and hypotension",
+    "Caused by uterine fibroids, with cardiogenic shock from acute left ventricular failure"
    ],
    "ans": 0,
-   "exp": "M/c iatrogenic; shock immediately post-delivery – initially neurogenic, then hemorrhagic (cause of death). (Book p536)"
+   "exp": "The commonest cause is mismanaged third stage; the initial neurogenic shock from stretching the pedicles is followed by haemorrhagic shock. (Book p536)"
   },
   {
-   "id": "OBG-C20-051",
+   "id": "OBG-C20-060",
+   "sec": "Uterine inversion: definition, classification & features",
+   "page": 536,
+   "q": "Match the degree of uterine inversion with its extent — 1) First degree 2) Second degree 3) Third degree … A) The fundus turns inwards but does not pass through the cervix B) The inverted fundus passes through the cervix and lies in the vagina C) The whole inverted uterus lies outside the vulva",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Degrees are defined by how far the fundus has travelled: inside the cavity, through the cervix, or outside the vulva. (Book p536)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C20-061",
    "sec": "Uterine inversion: definition, classification & clinical features",
    "page": 537,
    "q": "Examination findings in uterine inversion – P/A : P/V; and the clinical clue:",
    "opts": [
-    "Cup-like depression below umbilicus or fundus not palpable : globular structure in vagina; shock immediately after birth out of proportion to blood loss",
-    "Hard contracted fundus : cervix visible; slow bleeding",
-    "Fundus above umbilicus : empty vagina; fever",
-    "Bandl's ring : bulging membranes; late shock"
+    "A cup-like depression below the umbilicus, with a globular mass in the vagina and immediate shock",
+    "A hard contracted fundus, with the cervix easily visible and only slow bleeding",
+    "The fundus high above the umbilicus, with an empty vagina and fever",
+    "A Bandl's ring across the abdomen, with bulging membranes and late shock"
    ],
    "ans": 0,
-   "exp": "P/A cup-like depression/absent fundus; P/V globular mass; shock out of proportion to bleeding suggests inversion. (Book p537)"
+   "exp": "The fundus is absent abdominally or dimpled, a globular mass fills the vagina, and shock is immediate and out of proportion. (Book p537)"
   },
   {
-   "id": "OBG-C20-052",
+   "id": "OBG-C20-062",
    "sec": "Uterine inversion: management",
    "page": 537,
    "q": "First steps in managing acute uterine inversion:",
    "opts": [
-    "Call for help + resuscitate → stop uterotonics (oxytocin) → manual replacement (Johnson's method)",
-    "Give oxytocin bolus → remove placenta → replace",
-    "Hysterectomy immediately",
-    "Pack vagina and wait"
+    "Call for help and resuscitate, stop uterotonics, then manual replacement",
+    "Give an oxytocin bolus, remove the placenta, then replace the uterus",
+    "Proceed to immediate hysterectomy through an abdominal incision",
+    "Pack the vagina firmly and wait for the uterus to contract"
    ],
    "ans": 0,
-   "exp": "Call for help, resuscitate, stop oxytocin, then Johnson's manual replacement. (Book p537)"
+   "exp": "The first steps in acute uterine inversion are to call for help and resuscitate, stop uterotonics such as oxytocin, then replace the uterus manually (Johnson's method). (Book p537)"
   },
   {
-   "id": "OBG-C20-053",
+   "id": "OBG-C20-063",
    "sec": "Uterine inversion: management",
    "page": 537,
    "q": "Principles of Johnson's method:",
    "opts": [
-    "The part that prolapsed first is repositioned last; do NOT separate the placenta (↑ hemorrhage)",
-    "Remove placenta first, then replace fundus",
-    "Push the cervix first",
-    "Apply traction to the cord"
+    "Reposition last what prolapsed first; do not separate the placenta",
+    "Remove the placenta first, then replace the fundus into the pelvis",
+    "Push the cervix upwards first, then replace the uterine fundus",
+    "Apply steady traction to the cord until the uterus is fully delivered"
    ],
    "ans": 0,
-   "exp": "First part to prolapse → last to be reposited; placenta not separated to avoid hemorrhage. (Book p537)"
+   "exp": "Johnson's method: the part that prolapsed first is repositioned last, and the placenta is not separated, since separation increases haemorrhage. (Book p537)"
   },
   {
-   "id": "OBG-C20-054",
+   "id": "OBG-C20-064",
    "sec": "Uterine inversion: management",
    "page": 537,
    "q": "If Johnson's method fails, the sequence is:",
    "opts": [
-    "Repeat manual replacement under GA/uterine relaxant (terbutaline) → abdominal surgery (Huntington's / Haultain's method)",
-    "Hysterectomy → embolization",
-    "Hydrostatic O'Sullivan → Spinelli",
-    "Vaginal packing → oxytocin"
+    "Repeat replacement under anaesthesia with a uterine relaxant, then Huntington's or Haultain's abdominal route",
+    "Immediate hysterectomy, since further attempts at replacement are futile",
+    "Hydrostatic reduction by O'Sullivan's method followed by Spinelli's vaginal repair",
+    "Vaginal packing with an oxytocin infusion to contract the uterus down"
    ],
    "ans": 0,
-   "exp": "Repeat under GA/terbutaline → failing that, Huntington's or Haultain's abdominal surgery. (Book p537)"
+   "exp": "If Johnson's vaginal replacement fails, the next attempt needs anaesthesia and a relaxant, with abdominal routes as the fallback. (Book p537)"
   },
   {
-   "id": "OBG-C20-055",
+   "id": "OBG-C20-065",
    "sec": "Uterine inversion: management",
    "page": 537,
    "q": "Match – Huntington's : Haultain's : outdated methods.",
    "opts": [
-    "Abdominal traction on the round ligaments/fundus : abdominal incision of the constriction ring : hydrostatic O'Sullivan, vaginal Spinelli and Kustner/Cascardi surgeries",
-    "Vaginal repair : hydrostatic : abdominal",
-    "Constriction ring incision : traction : embolization",
-    "Hydrostatic : Spinelli : Huntington"
+    "Huntington's: abdominal traction on the round ligaments — Haultain's: incising the constriction ring — outdated: O'Sullivan and Spinelli",
+    "Huntington's: vaginal repair — Haultain's: hydrostatic reduction — outdated: abdominal traction",
+    "Huntington's: incising the constriction ring — Haultain's: traction — outdated: embolisation",
+    "Huntington's: hydrostatic reduction — Haultain's: the Spinelli repair — outdated: abdominal traction"
    ],
    "ans": 0,
-   "exp": "Huntington's – abdominal replacement by traction; Haultain's – constriction ring incised; outdated: hydrostatic O'Sullivan, Spinelli and Cascardi vaginal surgeries. (Book p537)"
+   "exp": "Huntington's pulls the fundus up with traction on the round ligaments; Haultain's incises the constriction ring from behind; the hydrostatic and Spinelli methods are historical. (Book p537)"
   },
   {
-   "id": "OBG-C20-056",
+   "id": "OBG-C20-066",
+   "sec": "Uterine inversion: management",
+   "page": 537,
+   "q": "Immediately after delivery of the placenta the uterus inverts through the cervix and the woman collapses with a pulse of 130/min and a blood pressure of 70/40 mmHg. What is the correct sequence of management?",
+   "opts": [
+    "Resuscitate, replace the uterus at once by hydrostatic or manual reduction, then give a uterotonic once it is back",
+    "Give oxytocin first so that the uterus contracts, and only then attempt replacement",
+    "Remove the placenta if it is still attached before attempting any replacement",
+    "Proceed straight to hysterectomy without attempting replacement"
+   ],
+   "ans": 0,
+   "exp": "Replacement must not wait for the placenta or for uterotonics; shock is neurogenic as well as haemorrhagic and needs simultaneous resuscitation. (Book p537)",
+   "fmt": "scenario"
+  },
+  {
+   "id": "OBG-C20-067",
    "sec": "Uterine inversion: management",
    "page": 538,
    "q": "Post-replacement management (in order):",
@@ -788,49 +962,49 @@
    "exp": "1 stop relaxant, 2 remove placenta, 3 start oxytocin, 4 antibiotics. (Book p538)"
   },
   {
-   "id": "OBG-C20-057",
+   "id": "OBG-C20-068",
    "sec": "Amniotic fluid embolism & postpartum collapse",
    "page": 538,
    "q": "Amniotic fluid embolism (AFE) – alias and incidence:",
    "opts": [
-    "Anaphylactoid syndrome of pregnancy; 1 in 100,000 deliveries; catastrophic emergency",
-    "Sheehan syndrome; 1 in 1000",
-    "HELLP; 1 in 10,000",
-    "Mendelson syndrome; 1 in 500"
+    "Anaphylactoid syndrome of pregnancy, about 1 in 100,000 deliveries",
+    "Sheehan syndrome, occurring in about 1 in 1,000 deliveries",
+    "HELLP syndrome, occurring in about 1 in 10,000 deliveries",
+    "Mendelson syndrome, occurring in about 1 in 500 deliveries"
    ],
    "ans": 0,
-   "exp": "AFE = anaphylactoid syndrome of pregnancy, 1/100,000 deliveries. (Book p538)"
+   "exp": "Amniotic fluid embolism is also called anaphylactoid syndrome of pregnancy; it is rare at about 1 in 100,000 but catastrophic. (Book p538)"
   },
   {
-   "id": "OBG-C20-058",
+   "id": "OBG-C20-069",
    "sec": "Amniotic fluid embolism & postpartum collapse",
    "page": 538,
    "q": "Pathophysiology of AFE begins with ______ and the amniotic fluid (fetal skin cells, debris, antigens) produces three effects:",
    "opts": [
-    "Erratic uterine contractions → breach of maternal-fetal interface/open venous sinuses; pulmonary embolism symptoms (pathognomonic), factor VII & plasminogen activation → DIC, immunological reaction → SIRS",
-    "Hypotonic uterus; hemorrhage, sepsis, renal failure",
-    "Placental abruption; DIC only",
-    "Cord prolapse; hypoxia only"
+    "A breach of the maternal-fetal interface lets fluid into the circulation, causing pulmonary vasospasm and then coagulopathy",
+    "A hypotonic uterus fails to compress the placental bed, causing haemorrhage, sepsis and renal failure",
+    "Placental abruption releases thromboplastin into the circulation, producing coagulopathy alone",
+    "Cord prolapse compresses the umbilical vessels, producing fetal hypoxia with no maternal effects"
    ],
    "ans": 0,
-   "exp": "Erratic contractions → breach → fluid enters circulation → pulmonary symptoms (pathognomonic), DIC, systemic inflammatory response. (Book p538)"
+   "exp": "Erratic contractions breach the interface and open venous sinuses; the fluid then causes pulmonary vasospasm, cardiac failure and consumptive coagulopathy. (Book p538)"
   },
   {
-   "id": "OBG-C20-059",
+   "id": "OBG-C20-070",
    "sec": "Amniotic fluid embolism & postpartum collapse",
    "page": 538,
-   "q": "Clinical phases of AFE – Phase I : Phase II.",
+   "q": "Clinical phases of amniotic fluid embolism — Phase I : Phase II.",
    "opts": [
-    "During labour/<30 min of delivery: respiratory depression + unexplained shock + minimal bleeding, breathlessness, SpO2 <60%, hypoxia & metabolic acidosis : DIC with excessive bleeding",
-    "Bleeding : shock",
-    "Fever : DIC",
-    "Seizures : coma"
+    "Phase I: sudden hypoxia, hypotension and shock with little bleeding — Phase II: haemorrhage from disseminated intravascular coagulation",
+    "Phase I: heavy bleeding with an atonic uterus — Phase II: hypoxia from pulmonary vasospasm and right heart strain",
+    "Phase I: high fever with uterine tenderness — Phase II: septic shock with acute kidney injury",
+    "Phase I: severe hypertension and convulsions — Phase II: hepatic failure with profound hypoglycaemia"
    ],
    "ans": 0,
-   "exp": "Phase I respiratory depression, shock, minimal bleeding, SpO2 <60%; Phase II DIC → excessive bleeding. (Book p538)"
+   "exp": "Phase I is respiratory and cardiovascular collapse with little bleeding, and phase II is the haemorrhagic phase from consumptive coagulopathy. (Book p538)"
   },
   {
-   "id": "OBG-C20-060",
+   "id": "OBG-C20-071",
    "sec": "Amniotic fluid embolism & postpartum collapse",
    "page": 539,
    "q": "Clinical criteria for AFE diagnosis include all EXCEPT:",
@@ -844,7 +1018,7 @@
    "exp": "Criteria: unexplained shock, onset within 30 min, breathlessness/shock, overt DIC, NO fever; also pulmonary vessel catheterisation. Management is ICU care; ↑ mortality. (Book p539)"
   },
   {
-   "id": "OBG-C20-061",
+   "id": "OBG-C20-072",
    "sec": "Amniotic fluid embolism & postpartum collapse",
    "page": 539,
    "q": "Postpartum collapse – time of appearance: PPH : uterine inversion : AFE.",
@@ -858,18 +1032,33 @@
    "exp": "PPH and inversion within 24 h; AFE within 30 min. (Book p539)"
   },
   {
-   "id": "OBG-C20-062",
+   "id": "OBG-C20-073",
    "sec": "Amniotic fluid embolism & postpartum collapse",
    "page": 539,
    "q": "Postpartum collapse examination – P/A and P/V findings: PPH : uterine inversion : AFE.",
    "opts": [
-    "↓ tone, ↑ blood loss : cup-like depression below umbilicus, globular mass in vagina : normal, normal",
-    "Normal : ↓ tone : cup-like depression",
-    "Globular mass : ↑ blood loss : ↓ tone",
-    "All normal"
+    "PPH: poor tone and heavy loss — inversion: a cup-like depression and a vaginal mass — AFE: both examination findings normal",
+    "PPH: entirely normal findings — inversion: poor uterine tone — AFE: a cup-like depression",
+    "PPH: a globular vaginal mass — inversion: heavy bleeding — AFE: poor uterine tone",
+    "All three conditions give entirely normal findings on both examinations"
    ],
    "ans": 0,
-   "exp": "PPH: ↓ tone/↑ bleeding (m/c cause of collapse); inversion: cup depression/globular vaginal mass with shock + minimal bleeding; AFE: normal P/A and P/V. (Book p539)"
+   "exp": "Postpartum collapse is triaged by examination: bleeding with an atonic uterus, an inverted uterus felt in the vagina, or a normal examination with sudden collapse from embolism. (Book p539)"
+  },
+  {
+   "id": "OBG-C20-074",
+   "sec": "Amniotic fluid embolism & postpartum collapse",
+   "page": 539,
+   "q": "Fill up: Amniotic fluid embolism typically begins with sudden ______ and ______, and is followed rapidly by bleeding from disseminated intravascular coagulation.",
+   "opts": [
+    "dyspnoea with cyanosis; hypotension and shock",
+    "fever with rigor; severe hypertension",
+    "abdominal pain; progressive jaundice",
+    "headache; loss of vision"
+   ],
+   "ans": 0,
+   "exp": "The classic presentation is abrupt respiratory collapse and cardiovascular collapse during labour or soon after delivery, then coagulopathy. (Book p539)",
+   "fmt": "fillup"
   }
  ],
  "units": [
@@ -886,7 +1075,8 @@
     "OBG-C20-003",
     "OBG-C20-004",
     "OBG-C20-005",
-    "OBG-C20-006"
+    "OBG-C20-006",
+    "OBG-C20-007"
    ]
   },
   {
@@ -897,11 +1087,12 @@
    "sec": "PPH risk factors · p529",
    "guide": "Sort the maternal, placental, uterine and intrapartum risk factors, and recall the five specific risks for traumatic PPH. Focus for this checkpoint: Risk factors for atonic & traumatic PPH.",
    "qs": [
-    "OBG-C20-007",
     "OBG-C20-008",
     "OBG-C20-009",
     "OBG-C20-010",
-    "OBG-C20-011"
+    "OBG-C20-011",
+    "OBG-C20-012",
+    "OBG-C20-013"
    ]
   },
   {
@@ -912,9 +1103,10 @@
    "sec": "PPH first steps · p529",
    "guide": "Run the six-point resuscitation, then use per-abdominal massage to split atonic from traumatic PPH and decide the next examination. Focus for this checkpoint: Initial management: resuscitation & atonic vs traumatic PPH.",
    "qs": [
-    "OBG-C20-012",
-    "OBG-C20-013",
-    "OBG-C20-014"
+    "OBG-C20-014",
+    "OBG-C20-015",
+    "OBG-C20-016",
+    "OBG-C20-017"
    ]
   },
   {
@@ -925,12 +1117,13 @@
    "sec": "Atonic PPH first-line · p530",
    "guide": "Perform bimanual massage, give tranexamic acid at the right dose and timing, and start the WHO first-choice uterotonic. Focus for this checkpoint: Atonic PPH: three simultaneous steps & tranexamic acid.",
    "qs": [
-    "OBG-C20-015",
-    "OBG-C20-016",
-    "OBG-C20-017",
     "OBG-C20-018",
     "OBG-C20-019",
-    "OBG-C20-020"
+    "OBG-C20-020",
+    "OBG-C20-021",
+    "OBG-C20-022",
+    "OBG-C20-023",
+    "OBG-C20-024"
    ]
   },
   {
@@ -941,13 +1134,14 @@
    "sec": "Uterotonics in PPH · p531",
    "guide": "Dose each second-line drug, identify its unique contraindications and side effects, and know which is the gold standard. Focus for this checkpoint: Second-line uterotonics: methylergometrine, syntometrine, misoprostol & carboprost.",
    "qs": [
-    "OBG-C20-021",
-    "OBG-C20-022",
-    "OBG-C20-023",
-    "OBG-C20-024",
     "OBG-C20-025",
     "OBG-C20-026",
-    "OBG-C20-027"
+    "OBG-C20-027",
+    "OBG-C20-028",
+    "OBG-C20-029",
+    "OBG-C20-030",
+    "OBG-C20-031",
+    "OBG-C20-032"
    ]
   },
   {
@@ -958,13 +1152,14 @@
    "sec": "PPH stepwise protocol · p532",
    "guide": "Follow the escalation ladder from first-line uterotonics through balloon tamponade, compression sutures, devascularisation and hysterectomy. Focus for this checkpoint: Management protocol: drugs → balloon tamponade → surgery.",
    "qs": [
-    "OBG-C20-028",
-    "OBG-C20-029",
-    "OBG-C20-030",
-    "OBG-C20-031",
-    "OBG-C20-032",
     "OBG-C20-033",
-    "OBG-C20-034"
+    "OBG-C20-034",
+    "OBG-C20-035",
+    "OBG-C20-036",
+    "OBG-C20-037",
+    "OBG-C20-038",
+    "OBG-C20-039",
+    "OBG-C20-040"
    ]
   },
   {
@@ -975,10 +1170,11 @@
    "sec": "UAL & shock index · p533",
    "guide": "Place the O'Leary suture correctly, quote its success rate, compute the shock index and remember which old method is obsolete. Focus for this checkpoint: Uterine artery ligation, shock index & packing.",
    "qs": [
-    "OBG-C20-035",
-    "OBG-C20-036",
-    "OBG-C20-037",
-    "OBG-C20-038"
+    "OBG-C20-041",
+    "OBG-C20-042",
+    "OBG-C20-043",
+    "OBG-C20-044",
+    "OBG-C20-045"
    ]
   },
   {
@@ -989,11 +1185,12 @@
    "sec": "Retained placenta · p534",
    "guide": "Define retained placenta and manage each of its three causes – trapped, adherent-non-invasive and morbidly adherent. Focus for this checkpoint: Retained placenta: causes & management algorithm.",
    "qs": [
-    "OBG-C20-039",
-    "OBG-C20-040",
-    "OBG-C20-041",
-    "OBG-C20-042",
-    "OBG-C20-043"
+    "OBG-C20-046",
+    "OBG-C20-047",
+    "OBG-C20-048",
+    "OBG-C20-049",
+    "OBG-C20-050",
+    "OBG-C20-051"
    ]
   },
   {
@@ -1004,9 +1201,10 @@
    "sec": "PAS · p535",
    "guide": "Grade accreta, increta and percreta by depth, know the risk factors, etiology, Doppler signs and definitive treatment. Focus for this checkpoint: Placenta accreta spectrum.",
    "qs": [
-    "OBG-C20-044",
-    "OBG-C20-045",
-    "OBG-C20-046"
+    "OBG-C20-052",
+    "OBG-C20-053",
+    "OBG-C20-054",
+    "OBG-C20-055"
    ]
   },
   {
@@ -1017,11 +1215,12 @@
    "sec": "Uterine inversion · p535-536",
    "guide": "Distinguish inversion from prolapse, classify by time and degree, and recognise the neurogenic-then-hemorrhagic shock picture. Focus for this checkpoint: Uterine inversion: definition, classification & clinical features.",
    "qs": [
-    "OBG-C20-047",
-    "OBG-C20-048",
-    "OBG-C20-049",
-    "OBG-C20-050",
-    "OBG-C20-051"
+    "OBG-C20-056",
+    "OBG-C20-057",
+    "OBG-C20-058",
+    "OBG-C20-059",
+    "OBG-C20-060",
+    "OBG-C20-061"
    ]
   },
   {
@@ -1032,11 +1231,12 @@
    "sec": "Inversion management · p537-538",
    "guide": "Apply Johnson's manual replacement principles, know the surgical fall-backs and outdated methods, and the four post-replacement steps. Focus for this checkpoint: Uterine inversion: management.",
    "qs": [
-    "OBG-C20-052",
-    "OBG-C20-053",
-    "OBG-C20-054",
-    "OBG-C20-055",
-    "OBG-C20-056"
+    "OBG-C20-062",
+    "OBG-C20-063",
+    "OBG-C20-064",
+    "OBG-C20-065",
+    "OBG-C20-066",
+    "OBG-C20-067"
    ]
   },
   {
@@ -1047,12 +1247,13 @@
    "sec": "AFE & collapse · p538-539",
    "guide": "Explain AFE pathophysiology and its two clinical phases, the clinical diagnostic criteria, and differentiate the three causes of postpartum collapse. Focus for this checkpoint: Amniotic fluid embolism & postpartum collapse.",
    "qs": [
-    "OBG-C20-057",
-    "OBG-C20-058",
-    "OBG-C20-059",
-    "OBG-C20-060",
-    "OBG-C20-061",
-    "OBG-C20-062"
+    "OBG-C20-068",
+    "OBG-C20-069",
+    "OBG-C20-070",
+    "OBG-C20-071",
+    "OBG-C20-072",
+    "OBG-C20-073",
+    "OBG-C20-074"
    ]
   }
  ]

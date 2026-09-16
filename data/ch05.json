@@ -1,1239 +1,1527 @@
 {
-  "chapter": 5,
-  "title": "Medical Disorders: Anemia, Drugs and Heart Disease",
-  "pageRange": "358-374",
-  "units": [
-    {
-      "id": "OBG-U5-1",
-      "ch": 5,
-      "n": 1,
-      "title": "Maternal Respiratory Adaptations & Thoracic Anatomy",
-      "sec": "Respiratory physiology \u00b7 p358",
-      "guide": "The maternal respiratory system adapts through progesterone-mediated stimulation of the medullary respiratory center, increasing tidal volume by 30-50% while respiratory rate remains constant. Diaphragmatic elevation of 4 cm and subcostal widening decrease functional residual capacity by 20%, while chronic hyperventilation creates a compensated respiratory alkalosis facilitating fetal CO2 transfer.",
-      "qs": [
-        "OBG-C5-001",
-        "OBG-C5-002",
-        "OBG-C5-003",
-        "OBG-C5-004",
-        "OBG-C5-005"
-      ]
-    },
-    {
-      "id": "OBG-U5-2",
-      "ch": 5,
-      "n": 2,
-      "title": "Maternal Oxygen Dynamics, Endocrine & Visceral Changes",
-      "sec": "Systemic and visceral shifts \u00b7 p358",
-      "guide": "Total maternal oxygen consumption and binding capacity increase alongside a narrower arteriovenous oxygen gradient. The anterior pituitary gland enlarges by 135% with heightened vascularity, rendering it susceptible to ischemic necrosis (Sheehan syndrome) during postpartum hemorrhage. Fetal skeletal demands absorb 30 g of maternal calcium via enhanced active intestinal absorption.",
-      "qs": [
-        "OBG-C5-006",
-        "OBG-C5-007",
-        "OBG-C5-008"
-      ]
-    },
-    {
-      "id": "OBG-U5-3",
-      "ch": 5,
-      "n": 3,
-      "title": "Iron Requirements, Metabolism & Anemia Mukt Bharat / I-NIPI",
-      "sec": "Iron physiology and national programs \u00b7 p359-360",
-      "guide": "Total pregnancy iron requirement is 1000 mg (fetal/placental demands 300 mg, RBC expansion 500 mg, basal losses 200 mg), rising to 7.5 mg/day in the third trimester. Because anemia affects 50% of Indian mothers, the Anemia Mukt Bharat (I-NIPI 6x6x6) initiative distributes daily red IFA tablets (60 mg elemental iron + 500 mcg folic acid) paired with mid-trimester albendazole deworming.",
-      "qs": [
-        "OBG-C5-009",
-        "OBG-C5-010",
-        "OBG-C5-011",
-        "OBG-C5-012"
-      ]
-    },
-    {
-      "id": "OBG-U5-4",
-      "ch": 5,
-      "n": 4,
-      "title": "IFA Supplementation Rules & Anemia Definitions",
-      "sec": "IFA rules and severity grading \u00b7 p360-361",
-      "guide": "IFA tablets should be consumed 2 hours post-prandially with water or citrus juices, maintaining a 2-hour separation from calcium or tea to maximize absorption. WHO classifies anemia as <11 g/dL (Mild: 10-10.9, Moderate: 7-9.9, Severe: <7 g/dL), while ICMR designates <4.0 g/dL as very severe anemia. Nutritional iron deficiency accounts for 80% of pathological anemia.",
-      "qs": [
-        "OBG-C5-013",
-        "OBG-C5-014",
-        "OBG-C5-015",
-        "OBG-C5-016"
-      ]
-    },
-    {
-      "id": "OBG-U5-5",
-      "ch": 5,
-      "n": 5,
-      "title": "Maternal & Fetal Complications of Anemia in Pregnancy",
-      "sec": "Adverse effects of anemia \u00b7 p361-362",
-      "guide": "Severe maternal anemia impairs myometrial oxygenation leading to uterine inertia, postpartum hemorrhage, subinvolution, and heart failure (peaking immediately postpartum due to autotransfusion). While active placental transport shields the fetus from developing microcytic anemia, maternal hypoxemia triggers compensatory placentomegaly, preterm labor, and fetal growth restriction.",
-      "qs": [
-        "OBG-C5-017",
-        "OBG-C5-018",
-        "OBG-C5-019",
-        "OBG-C5-020"
-      ]
-    },
-    {
-      "id": "OBG-U5-6",
-      "ch": 5,
-      "n": 6,
-      "title": "Clinical Evaluation & Physical Workup of Gestational Anemia",
-      "sec": "Clinical assessment of anemia \u00b7 p362-363",
-      "guide": "Clinical history evaluates pica, menorrhagia, and worm infestation; physical examination inspects the conjunctiva, tongue, and palmar creases (pallor evident when Hb <7 g/dL). Severe deficiency produces platonychia, koilonychia (spoon nails), or angular cheilosis. Government guidelines mandate checking hemoglobin at all four routine antenatal visits.",
-      "qs": [
-        "OBG-C5-021",
-        "OBG-C5-022",
-        "OBG-C5-023",
-        "OBG-C5-024"
-      ]
-    },
-    {
-      "id": "OBG-U5-7",
-      "ch": 5,
-      "n": 7,
-      "title": "Diagnostic RBC Indices & Iron Profile Interpretation",
-      "sec": "Laboratory indices and iron panel \u00b7 p363-364",
-      "guide": "Peripheral blood smear demonstrates microcytic hypochromic red cells in iron deficiency anemia (MCV <75-80 fL, MCHC <30%). The Mentzer index (MCV/RBC count) cleanly differentiates IDA (>13) from beta-thalassemia trait (<13). Serum ferritin (<20-30 mcg/L) serves as the gold-standard biochemical marker of depleted iron stores, accompanied by elevated TIBC (>400 mcg/dL) and transferrin saturation <16%.",
-      "qs": [
-        "OBG-C5-025",
-        "OBG-C5-026",
-        "OBG-C5-027",
-        "OBG-C5-028"
-      ]
-    },
-    {
-      "id": "OBG-U5-8",
-      "ch": 5,
-      "n": 8,
-      "title": "Oral Iron Therapy & Assessing Treatment Response",
-      "sec": "Oral iron management \u00b7 p365",
-      "guide": "Treatment of mild-to-moderate anemia initiates with 2 IFA tablets daily (120 mg elemental iron). Therapeutic response is verified earliest by a reticulocyte surge within 5-7 days (peaking at 10 days), followed by a hemoglobin rise of 0.7-1.0 g/dL per month. Dark stools confirm medication compliance, and treatment continues until target hemoglobin is reached.",
-      "qs": [
-        "OBG-C5-029",
-        "OBG-C5-030",
-        "OBG-C5-031",
-        "OBG-C5-032"
-      ]
-    },
-    {
-      "id": "OBG-U5-9",
-      "ch": 5,
-      "n": 9,
-      "title": "Parenteral Iron Therapy, Ganzoni Formula & Blood Transfusion",
-      "sec": "Parenteral iron and transfusion \u00b7 p366-367",
-      "guide": "Parenteral iron (IV iron sucrose, max 200 mg/day; ferric carboxymaltose) is indicated for oral intolerance, malabsorption, or moderate anemia diagnosed beyond 30-34 weeks. Total deficit is calculated via the Ganzoni equation: Weight x (11 - Hb) x 2.4 + 500 mg. Packed red blood cell transfusion is reserved for acute hemorrhage, heart failure, Hb <5 g/dL at any gestation, or severe anemia near term.",
-      "qs": [
-        "OBG-C5-033",
-        "OBG-C5-034",
-        "OBG-C5-035",
-        "OBG-C5-036"
-      ]
-    },
-    {
-      "id": "OBG-U5-10",
-      "ch": 5,
-      "n": 10,
-      "title": "Trimester-Wise Gestational Management Protocol for Anemia",
-      "sec": "Anemia clinical algorithms \u00b7 p367",
-      "guide": "Anemia algorithms integrate gestational age and severity: before 34 weeks, mild-to-moderate anemia receives oral iron; beyond 34 weeks, moderate cases switch to parenteral iron to secure rapid replenishment. Severe anemia (<7 g/dL) near term warrants blood transfusion with furosemide diuresis, while extreme anemia (<5 g/dL) mandates immediate transfusion regardless of gestational age.",
-      "qs": [
-        "OBG-C5-037",
-        "OBG-C5-038",
-        "OBG-C5-039"
-      ]
-    },
-    {
-      "id": "OBG-U5-11",
-      "ch": 5,
-      "n": 11,
-      "title": "Antimicrobial Safety & Teratogenic Hazards in Pregnancy",
-      "sec": "Pharmacotherapy and antibiotics \u00b7 p368",
-      "guide": "Penicillins and cephalosporins remain safe throughout gestation, while nitrofurantoin serves as first-line therapy for asymptomatic bacteriuria. Tetracyclines (bone hypoplasia, permanent enamel discoloration), aminoglycosides (eighth cranial nerve ototoxicity), chloramphenicol (Gray baby syndrome), and fluoroquinolones (fetal arthropathy) are strictly avoided.",
-      "qs": [
-        "OBG-C5-040",
-        "OBG-C5-041",
-        "OBG-C5-042",
-        "OBG-C5-043"
-      ]
-    },
-    {
-      "id": "OBG-U5-12",
-      "ch": 5,
-      "n": 12,
-      "title": "Anticoagulation: LMWH, Warfarin & Mechanical Valves",
-      "sec": "Anticoagulation protocols \u00b7 p368-369",
-      "guide": "Low molecular weight heparin (LMWH) does not cross the placental barrier and serves as the anticoagulant of choice throughout gestation, monitored by anti-Factor Xa levels. Warfarin crosses the placenta, causing embryopathy and fetal intracranial hemorrhage. In women with mechanical prosthetic heart valves, warfarin <5 mg/day may be continued in early pregnancy or switched sequentially to LMWH/UFH prior to labor.",
-      "qs": [
-        "OBG-C5-044",
-        "OBG-C5-045",
-        "OBG-C5-046",
-        "OBG-C5-047"
-      ]
-    },
-    {
-      "id": "OBG-U5-13",
-      "ch": 5,
-      "n": 13,
-      "title": "Warfarin Embryopathy (DiSaia Syndrome) & Antiepileptics",
-      "sec": "Teratogenic syndromes and epilepsy \u00b7 p369",
-      "guide": "Warfarin exposure at 6-9 weeks produces DiSaia syndrome, featuring nasal hypoplasia, stippled epiphyses (chondrodysplasia punctata), microcephaly, and optic atrophy. Among antiepileptics, valproate is the most potent teratogen (neural tube and cardiac defects); levetiracetam and lamotrigine display the safest clinical profiles, always co-prescribed with high-dose folic acid.",
-      "qs": [
-        "OBG-C5-048",
-        "OBG-C5-049",
-        "OBG-C5-050"
-      ]
-    },
-    {
-      "id": "OBG-U5-14",
-      "ch": 5,
-      "n": 14,
-      "title": "Maternal Cardiovascular Hemodynamics & Peak Stress Periods",
-      "sec": "Cardiovascular hemodynamics \u00b7 p370",
-      "guide": "Maternal cardiac output surges by 40-50% while systemic vascular resistance declines, producing a mid-trimester blood pressure nadir. Peak cardiovascular decompensation risks concentrate at 28-32 weeks, during the second stage of labor, and immediately postpartum due to autotransfusion of 300-500 mL of blood from the contracted uterus.",
-      "qs": [
-        "OBG-C5-051",
-        "OBG-C5-052",
-        "OBG-C5-053",
-        "OBG-C5-054"
-      ]
-    },
-    {
-      "id": "OBG-U5-15",
-      "ch": 5,
-      "n": 15,
-      "title": "Heart Failure vs Pregnancy Signs, RHD & Congenital Lesions",
-      "sec": "Cardiac diagnostics and lesions \u00b7 p370-371",
-      "guide": "Physiological systolic flow murmurs (grade <=2/6) and an S3 gallop are benign in pregnancy, whereas any diastolic murmur, systolic murmur >=grade 3/6, or elevated JVP signifies structural heart disease. Rheumatic heart disease with mitral stenosis (MS) is the leading cause of maternal cardiac mortality in developing nations; atrial septal defect represents the most common acyanotic congenital lesion.",
-      "qs": [
-        "OBG-C5-055",
-        "OBG-C5-056",
-        "OBG-C5-057",
-        "OBG-C5-058"
-      ]
-    },
-    {
-      "id": "OBG-U5-16",
-      "ch": 5,
-      "n": 16,
-      "title": "Lesion Prognosis & WHO Class IV Contraindications",
-      "sec": "Cardiac risk stratification \u00b7 p371",
-      "guide": "Stenotic valvular lesions (MS, AS) poorly tolerate gestational tachycardia due to shortened diastolic filling times, precipitating pulmonary edema. Regurgitant lesions (MR, AR) improve due to reduced peripheral vascular resistance. Modified WHO Class IV conditions (Eisenmenger syndrome, severe pulmonary hypertension, severe MS, LVEF <30%, Marfan with aortic root >=45 mm) carry extreme maternal mortality (30-50%), contraindicating pregnancy.",
-      "qs": [
-        "OBG-C5-059",
-        "OBG-C5-060",
-        "OBG-C5-061",
-        "OBG-C5-062"
-      ]
-    },
-    {
-      "id": "OBG-U5-17",
-      "ch": 5,
-      "n": 17,
-      "title": "Intrapartum & Postpartum Management of Heart Disease",
-      "sec": "Cardiac intrapartum care \u00b7 p372",
-      "guide": "Vaginal delivery in a semi-recumbent left-lateral position with early epidural analgesia is preferred for cardiac patients, using vacuum or forceps to shorten second-stage pushing. Fluid infusion is restricted to 75 mL/hr. In the third stage, slow IV oxytocin is the agent of choice; methylergometrine is ABSOLUTELY CONTRAINDICATED because severe vasoconstriction triggers fatal pulmonary edema.",
-      "qs": [
-        "OBG-C5-063",
-        "OBG-C5-064",
-        "OBG-C5-065",
-        "OBG-C5-066"
-      ]
-    },
-    {
-      "id": "OBG-U5-18",
-      "ch": 5,
-      "n": 18,
-      "title": "Peripartum Cardiomyopathy & Mitral Stenosis Management",
-      "sec": "PPCM and mitral stenosis \u00b7 p373-374",
-      "guide": "Peripartum cardiomyopathy (PPCM) presents with heart failure (LVEF <45%) between 36 weeks and 5 months postpartum without prior cardiac disease, managed with diuretics, beta-blockers, and bromocriptine. Severe mitral stenosis (mitral valve area <1.5 cm^2) requires heart rate control with beta-blockers and diuretics, with percutaneous balloon mitral valvotomy performed in the second trimester if medical therapy fails.",
-      "qs": [
-        "OBG-C5-067",
-        "OBG-C5-068",
-        "OBG-C5-069",
-        "OBG-C5-070"
-      ]
-    }
-  ],
-  "questions": [
-    {
-      "sec": "Respiratory physiology",
-      "page": 358,
-      "q": "Which maternal lung volume or capacity exhibits a prominent 30% to 50% increase during normal singleton pregnancy?",
-      "opts": [
-        "Tidal volume (VT)",
-        "Residual volume (RV)",
-        "Functional residual capacity (FRC)",
-        "Expiratory reserve volume (ERV)"
-      ],
-      "ans": 0,
-      "exp": "Progesterone directly stimulates the medullary respiratory center to increase tidal volume by 30-50% (and minute ventilation by 40%). (Book p358)",
-      "id": "OBG-C5-001"
-    },
-    {
-      "sec": "Respiratory physiology",
-      "page": 358,
-      "q": "What happens to the maternal respiratory rate (breaths per minute) during normal pregnancy?",
-      "opts": [
-        "It remains essentially constant (or shows a negligible increase)",
-        "It doubles from 14 to 28 breaths per minute",
-        "It decreases significantly by 40%",
-        "It exhibits severe Cheyne-Stokes breathing"
-      ],
-      "ans": 0,
-      "exp": "The respiratory rate remains unchanged (or shows minimal increase); hyperventilation is achieved via increased tidal volume, not tachypnea. (Book p358)",
-      "id": "OBG-C5-002"
-    },
-    {
-      "sec": "Respiratory physiology",
-      "page": 358,
-      "q": "Due to upward displacement of the diaphragm by 4 cm by the enlarging uterus, which lung parameters DECREASE by approximately 20%?",
-      "opts": [
-        "Functional Residual Capacity (FRC) and Expiratory Reserve Volume (ERV)",
-        "Vital Capacity and Inspiratory Capacity",
-        "Tidal Volume and Minute Ventilation",
-        "Total Lung Capacity and Anatomical Dead Space"
-      ],
-      "ans": 0,
-      "exp": "Elevated diaphragm position reduces Functional Residual Capacity (FRC) and Expiratory Reserve Volume (ERV) by ~20%. (Book p358)",
-      "id": "OBG-C5-003"
-    },
-    {
-      "sec": "Respiratory physiology",
-      "page": 358,
-      "q": "What physiological acid-base state is characteristically observed on maternal arterial blood gas analysis during normal pregnancy?",
-      "opts": [
-        "Chronic compensated respiratory alkalosis (pCO2 28-32 mmHg, HCO3 18-22 mEq/L, pH 7.40-7.45)",
-        "Uncompensated metabolic acidosis",
-        "Severe acute respiratory acidosis",
-        "Metabolic alkalosis with hypokalemia"
-      ],
-      "ans": 0,
-      "exp": "Progesterone-induced hyperventilation blows off CO2 (pCO2 28-32 mmHg), compensated by renal bicarbonate wasting to maintain arterial pH 7.40-7.45. (Book p358)",
-      "id": "OBG-C5-004"
-    },
-    {
-      "sec": "Respiratory physiology",
-      "page": 358,
-      "q": "What is the biological advantage of maternal physiological respiratory alkalosis (low maternal pCO2 of 28-32 mmHg) for the fetus?",
-      "opts": [
-        "It establishes a favorable partial pressure gradient promoting rapid transfer of CO2 from fetal blood into maternal blood",
-        "It stimulates fetal renal surfactant synthesis",
-        "It prevents premature rupture of fetal membranes",
-        "It inhibits fetal cardiac output"
-      ],
-      "ans": 0,
-      "exp": "Low maternal pCO2 creates a transplacental concentration gradient that facilitates the diffusion of CO2 from the fetal circulation to maternal blood. (Book p358)",
-      "id": "OBG-C5-005"
-    },
-    {
-      "sec": "Systemic and visceral shifts",
-      "page": 358,
-      "q": "During pregnancy, maternal oxygen consumption increases by 20%, but the arteriovenous (A-V) oxygen gradient decreases. Why?",
-      "opts": [
-        "The disproportionate 40-50% surge in maternal cardiac output delivers oxygen far in excess of tissue extraction",
-        "Fetal tissue consumes zero oxygen",
-        "Maternal hemoglobin cannot bind oxygen",
-        "Maternal systemic vascular resistance increases"
-      ],
-      "ans": 0,
-      "exp": "Because cardiac output increases by 40-50% while O2 consumption increases by only 20%, uterine and systemic A-V O2 differences narrow. (Book p358)",
-      "id": "OBG-C5-006"
-    },
-    {
-      "sec": "Systemic and visceral shifts",
-      "page": 358,
-      "q": "During normal pregnancy, the maternal pituitary gland enlarges by approximately 135%, primarily due to hypertrophy of prolactin-secreting lactotrophs. If severe postpartum hemorrhage occurs, this enlarged gland is prone to ischemic necrosis known as:",
-      "opts": [
-        "Sheehan syndrome",
-        "Simmonds disease",
-        "Nelson syndrome",
-        "Schmidt syndrome"
-      ],
-      "ans": 0,
-      "exp": "Enlargement of the anterior pituitary makes it vulnerable to ischemic infarction during severe hypotension in PPH (Sheehan syndrome). (Book p358)",
-      "id": "OBG-C5-007"
-    },
-    {
-      "sec": "Systemic and visceral shifts",
-      "page": 358,
-      "q": "Approximately how much total elemental calcium does the developing fetal skeleton accumulate across pregnancy, and how does maternal physiology supply this?",
-      "opts": [
-        "Approximately 30 g; supplied by doubled maternal intestinal calcium absorption under active 1,25-(OH)2 Vitamin D",
-        "Approximately 500 g; supplied by maternal bone resorption",
-        "Approximately 5 g; supplied by passive renal retention",
-        "Approximately 100 g; supplied by amniotic fluid ingestion"
-      ],
-      "ans": 0,
-      "exp": "The fetus acquires ~30 g of calcium (mostly in T3), met by doubling maternal intestinal absorption stimulated by 1,25-dihydroxyvitamin D. (Book p358)",
-      "id": "OBG-C5-008"
-    },
-    {
-      "sec": "Iron physiology and national programs",
-      "page": 359,
-      "q": "What is the total cumulative elemental iron requirement throughout a normal singleton pregnancy?",
-      "opts": [
-        "Approximately 1000 mg (fetus/placenta: 300 mg, RBC expansion: 500 mg, basal excretion: 200 mg)",
-        "Approximately 300 mg",
-        "Approximately 2500 mg",
-        "Approximately 500 mg"
-      ],
-      "ans": 0,
-      "exp": "Total pregnancy iron requirement is 1000 mg: 300 mg to fetus and placenta, 500 mg for maternal RBC expansion, and 200 mg basal losses. (Book p359)",
-      "id": "OBG-C5-009"
-    },
-    {
-      "sec": "Iron physiology and national programs",
-      "page": 359,
-      "q": "How does iron transfer across the placenta from the maternal circulation into fetal blood?",
-      "opts": [
-        "Active transport via transferrin receptors against a concentration gradient",
-        "Simple passive diffusion through intercellular clefts",
-        "Facilitated diffusion via GLUT transporters",
-        "Pinocytosis of intact maternal erythrocytes"
-      ],
-      "ans": 0,
-      "exp": "Placental syncytiotrophoblasts extract iron via transferrin receptors and actively pump it to the fetus against a concentration gradient. (Book p359)",
-      "id": "OBG-C5-010"
-    },
-    {
-      "sec": "Iron physiology and national programs",
-      "page": 359,
-      "q": "What is the daily elemental iron requirement during the third trimester of pregnancy?",
-      "opts": [
-        "7.5 mg/day (compared to 0.8 mg/day in the first trimester)",
-        "1.0 mg/day",
-        "25 mg/day",
-        "0.5 mg/day"
-      ],
-      "ans": 0,
-      "exp": "Daily iron requirements rise sharply from 0.8 mg/day in T1 to 7.5 mg/day in T3 (average 4-6 mg/day across gestation). (Book p359)",
-      "id": "OBG-C5-011"
-    },
-    {
-      "sec": "Iron physiology and national programs",
-      "page": 359,
-      "q": "Under the Anemia Mukt Bharat (I-NIPI) programme, what deworming regimen is routinely administered to pregnant women?",
-      "opts": [
-        "Albendazole 400 mg single oral dose in the second trimester (after 14 weeks)",
-        "Albendazole 400 mg daily for 7 days in the first trimester",
-        "Mebendazole 100 mg weekly throughout pregnancy",
-        "Deworming is contraindicated throughout pregnancy"
-      ],
-      "ans": 0,
-      "exp": "Under Anemia Mukt Bharat, a single prophylactic dose of Albendazole 400 mg is administered during the 2nd trimester to treat hookworm infestation. (Book p359)",
-      "id": "OBG-C5-012"
-    },
-    {
-      "sec": "IFA rules and severity grading",
-      "page": 360,
-      "q": "What are the two active pharmacological ingredients in the prophylactic RED IFA tablet distributed under the national programme?",
-      "opts": [
-        "60 mg elemental iron (as ferrous sulfate) and 500 mcg folic acid",
-        "100 mg elemental iron and 1 mg folic acid",
-        "30 mg elemental iron and 400 mcg folic acid",
-        "200 mg elemental iron and 5 mg folic acid"
-      ],
-      "ans": 0,
-      "exp": "Each red IFA tablet contains 60 mg elemental iron (dried ferrous sulfate) and 500 mcg folic acid. (Book p360)",
-      "id": "OBG-C5-013"
-    },
-    {
-      "sec": "IFA rules and severity grading",
-      "page": 360,
-      "q": "When is the optimal time for a pregnant woman to consume her daily oral iron tablet to maximize bioavailability and reduce GI discomfort?",
-      "opts": [
-        "2 hours after meals (or at bedtime), avoiding co-ingestion with tea, milk, or calcium tablets",
-        "Immediately before breakfast with a large cup of milk",
-        "Simultaneously with calcium carbonate tablets",
-        "With hot black tea to stimulate gastric acidity"
-      ],
-      "ans": 0,
-      "exp": "Iron is best absorbed on an empty stomach or 2 hours post-meal; tannins in tea and calcium in milk inhibit iron absorption. (Book p360)",
-      "id": "OBG-C5-014"
-    },
-    {
-      "sec": "IFA rules and severity grading",
-      "page": 361,
-      "q": "According to World Health Organization (WHO) criteria, what hemoglobin cutoffs define mild, moderate, and severe anemia in pregnancy?",
-      "opts": [
-        "Mild: 10.0 to 10.9 g/dL; Moderate: 7.0 to 9.9 g/dL; Severe: < 7.0 g/dL",
-        "Mild: 11.0 to 11.9 g/dL; Moderate: 9.0 to 10.9 g/dL; Severe: < 9.0 g/dL",
-        "Mild: 9.0 to 10.0 g/dL; Moderate: 6.0 to 8.9 g/dL; Severe: < 6.0 g/dL",
-        "Mild: 10.5 to 11.0 g/dL; Moderate: 8.0 to 10.4 g/dL; Severe: < 8.0 g/dL"
-      ],
-      "ans": 0,
-      "exp": "WHO defines anemia in pregnancy as Hb <11.0 g/dL (Mild: 10-10.9; Moderate: 7-9.9; Severe: <7.0 g/dL; ICMR adds Very severe: <4.0 g/dL). (Book p361)",
-      "id": "OBG-C5-015"
-    },
-    {
-      "sec": "IFA rules and severity grading",
-      "page": 361,
-      "q": "What is the single most common pathological cause of anemia in pregnant women worldwide?",
-      "opts": [
-        "Nutritional iron deficiency anemia (IDA, ~80% of cases)",
-        "Megaloblastic folate deficiency",
-        "Beta-thalassemia major",
-        "Aplastic anemia"
-      ],
-      "ans": 0,
-      "exp": "Nutritional iron deficiency anemia accounts for approximately 80% of all pathological anemias encountered in pregnancy. (Book p361)",
-      "id": "OBG-C5-016"
-    },
-    {
-      "sec": "Adverse effects of anemia",
-      "page": 361,
-      "q": "Why does maternal severe anemia stimulate compensatory placentomegaly (abnormally large placenta)?",
-      "opts": [
-        "To increase the villous surface area in an attempt to compensate for decreased maternal oxygen-carrying capacity",
-        "Due to excessive deposition of fetal fat in the cotyledons",
-        "Because iron accumulates within chorionic villi",
-        "Secondary to cytomegalovirus infection"
-      ],
-      "ans": 0,
-      "exp": "In severe maternal anemia, chronic hypoxemia stimulates placental hypertrophy and capillary branching, causing placentomegaly. (Book p361)",
-      "id": "OBG-C5-017"
-    },
-    {
-      "sec": "Adverse effects of anemia",
-      "page": 362,
-      "q": "Why are severely anemic women at exceptionally high risk of developing postpartum hemorrhage (PPH) immediately following placental delivery?",
-      "opts": [
-        "Myometrial tissue hypoxia impairs smooth muscle contractility, resulting in severe uterine atony",
-        "Anemia causes disseminated intravascular coagulation in all patients",
-        "Anemia causes rapid cervical lacerations",
-        "Platelets cannot aggregate in anemic blood"
-      ],
-      "ans": 0,
-      "exp": "Severe tissue hypoxia prevents the living ligatures (interlacing myometrial fibers) from contracting effectively, precipitating atonic PPH. (Book p362)",
-      "id": "OBG-C5-018"
-    },
-    {
-      "sec": "Adverse effects of anemia",
-      "page": 362,
-      "q": "At what specific time point during childbirth is an anemic woman at the greatest risk of acute congestive heart failure and pulmonary edema?",
-      "opts": [
-        "Immediately postpartum, following placental delivery and uterine contraction",
-        "During the latent phase of the first stage of labor",
-        "At 20 weeks of gestation",
-        "During early lactation 2 weeks postpartum"
-      ],
-      "ans": 0,
-      "exp": "Immediately postpartum, uterine contraction autotransfuses 300-500 mL of blood into the systemic circulation, acutely overloading the compromised heart. (Book p362)",
-      "id": "OBG-C5-019"
-    },
-    {
-      "sec": "Adverse effects of anemia",
-      "page": 362,
-      "q": "Does moderate maternal iron deficiency anemia typically cause microcytic hypochromic anemia in the neonate at birth?",
-      "opts": [
-        "No, because the placenta actively extracts iron against a gradient, maintaining normal neonatal hemoglobin at the expense of maternal stores",
-        "Yes, the fetus always reflects the exact maternal hemoglobin concentration",
-        "Yes, fetal hemoglobin drops to zero",
-        "Only if the infant is male"
-      ],
-      "ans": 0,
-      "exp": "The placenta actively transports iron, preserving normal fetal/neonatal hemoglobin; however, neonatal iron stores are depleted. (Book p362)",
-      "id": "OBG-C5-020"
-    },
-    {
-      "sec": "Clinical assessment of anemia",
-      "page": 362,
-      "q": "A pregnant woman presents with an intense craving to eat non-food substances such as dirt, clay, raw rice, or ice. This symptom is known as:",
-      "opts": [
-        "Pica (a classic clinical manifestation of severe iron deficiency)",
-        "Bulimia nervosa",
-        "Hyperemesis gravidarum",
-        "Chorea gravidarum"
-      ],
-      "ans": 0,
-      "exp": "Pica (geophagia, pagophagia, amylophagia) is a classical neurobehavioral sign associated with severe iron deficiency anemia. (Book p362)",
-      "id": "OBG-C5-021"
-    },
-    {
-      "sec": "Clinical assessment of anemia",
-      "page": 363,
-      "q": "On physical examination of a pregnant female, clinical pallor becomes distinctly evident on inspection of the palmar creases when the hemoglobin level drops below:",
-      "opts": [
-        "< 7.0 g/dL",
-        "< 10.0 g/dL",
-        "< 11.0 g/dL",
-        "< 4.0 g/dL"
-      ],
-      "ans": 0,
-      "exp": "Pallor of the palmar creases is a reliable clinical sign indicating severe anemia with hemoglobin < 7.0 g/dL. (Book p363)",
-      "id": "OBG-C5-022"
-    },
-    {
-      "sec": "Clinical assessment of anemia",
-      "page": 363,
-      "q": "Koilonychia\u2014spoon-shaped concave nails with raised edges\u2014is a specific physical sign indicative of:",
-      "opts": [
-        "Chronic, severe iron deficiency anemia",
-        "Folate deficiency megaloblastic anemia",
-        "Hemolytic jaundice",
-        "Sickle cell disease"
-      ],
-      "ans": 0,
-      "exp": "Koilonychia (spooning of nails) and platonychia (flat nails) are pathognomonic physical signs of chronic tissue iron depletion. (Book p363)",
-      "id": "OBG-C5-023"
-    },
-    {
-      "sec": "Clinical assessment of anemia",
-      "page": 363,
-      "q": "According to Government of India (MOHFW) guidelines, how frequently should hemoglobin be screened during antenatal care?",
-      "opts": [
-        "At every routine antenatal visit (4 times during pregnancy)",
-        "Only once at the booking visit",
-        "Only in the third trimester at 36 weeks",
-        "Only if the patient appears visibly pale"
-      ],
-      "ans": 0,
-      "exp": "In India, MOHFW mandates checking hemoglobin at each of the 4 routine antenatal visits to detect and manage progressive anemia. (Book p363)",
-      "id": "OBG-C5-024"
-    },
-    {
-      "sec": "Laboratory indices and iron panel",
-      "page": 364,
-      "q": "What is the Mentzer Index formula, and what cutoffs differentiate Iron Deficiency Anemia from Beta-Thalassemia Trait?",
-      "opts": [
-        "Mentzer Index = MCV / RBC count; > 13 favors Iron Deficiency Anemia, < 13 favors Beta-Thalassemia Trait",
-        "Mentzer Index = Hb / MCV; > 20 favors IDA, < 20 favors Thalassemia",
-        "Mentzer Index = MCHC / Ferritin; > 5 favors IDA",
-        "Mentzer Index = Hematocrit / WBC; > 10 favors Thalassemia"
-      ],
-      "ans": 0,
-      "exp": "Mentzer index = MCV (fL) / RBC count (millions/mcL). In IDA, RBC count is low, giving index >13; in thalassemia trait, RBC count is high, giving index <13. (Book p364)",
-      "id": "OBG-C5-025"
-    },
-    {
-      "sec": "Laboratory indices and iron panel",
-      "page": 364,
-      "q": "What is considered the gold-standard, most sensitive non-invasive biochemical test to confirm depleted iron stores and diagnose Iron Deficiency Anemia?",
-      "opts": [
-        "Serum Ferritin (< 20 to 30 mcg/L)",
-        "Serum Iron alone",
-        "Total Iron Binding Capacity (TIBC) alone",
-        "Peripheral blood smear alone"
-      ],
-      "ans": 0,
-      "exp": "Serum ferritin <20-30 mcg/L is the single best, earliest, and most sensitive biochemical marker of iron deficiency (normal 20-200 mcg/L). (Book p364)",
-      "id": "OBG-C5-026"
-    },
-    {
-      "sec": "Laboratory indices and iron panel",
-      "page": 364,
-      "q": "In a patient with classical Iron Deficiency Anemia, what typical pattern of iron study parameters is expected?",
-      "opts": [
-        "Decreased serum iron (<40 mcg/dL), elevated TIBC (>400 mcg/dL), and decreased transferrin saturation (<16%)",
-        "Elevated serum iron, decreased TIBC, and elevated ferritin",
-        "Normal iron, normal TIBC, and elevated transferrin saturation",
-        "Decreased serum iron and decreased TIBC"
-      ],
-      "ans": 0,
-      "exp": "IDA is characterized by low serum ferritin, low serum iron (<40 mcg/dL), elevated TIBC (>400 mcg/dL), and transferrin saturation <10-16%. (Book p364)",
-      "id": "OBG-C5-027"
-    },
-    {
-      "sec": "Laboratory indices and iron panel",
-      "page": 364,
-      "q": "How does Total Iron Binding Capacity (TIBC) differ between Iron Deficiency Anemia and Anemia of Chronic Disease?",
-      "opts": [
-        "TIBC is elevated in Iron Deficiency Anemia, but decreased/normal in Anemia of Chronic Disease",
-        "TIBC is decreased in IDA, but elevated in chronic disease",
-        "TIBC is identical and zero in both conditions",
-        "TIBC is elevated in both conditions"
-      ],
-      "ans": 0,
-      "exp": "In IDA, transferrin synthesis rises, producing high TIBC (>400 mcg/dL); in chronic disease/inflammation, hepcidin and cytokines reduce TIBC. (Book p364)",
-      "id": "OBG-C5-028"
-    },
-    {
-      "sec": "Oral iron management",
-      "page": 365,
-      "q": "When initiating oral therapeutic iron for anemia in pregnancy, what is the standard recommended daily dose of IFA tablets?",
-      "opts": [
-        "2 IFA tablets per day (delivering 120 mg of elemental iron)",
-        "1 IFA tablet every alternate day",
-        "4 IFA tablets per day with meals",
-        "1 IFA tablet per week"
-      ],
-      "ans": 0,
-      "exp": "Therapeutic oral iron therapy requires 2 IFA tablets daily (total 120 mg elemental iron) until target hemoglobin is achieved. (Book p365)",
-      "id": "OBG-C5-029"
-    },
-    {
-      "sec": "Oral iron management",
-      "page": 365,
-      "q": "What is the EARLIEST objective hematological marker indicating an adequate therapeutic response to oral iron therapy?",
-      "opts": [
-        "An increase in reticulocyte count within 5 to 7 days (peaking at 10 days)",
-        "An increase in hemoglobin concentration within 24 hours",
-        "A drop in serum ferritin within 3 days",
-        "A sudden decrease in total iron binding capacity"
-      ],
-      "ans": 0,
-      "exp": "A reticulocyte surge beginning at 5-7 days and peaking at 10 days is the earliest and preferred proof of therapeutic bone marrow response. (Book p365)",
-      "id": "OBG-C5-030"
-    },
-    {
-      "sec": "Oral iron management",
-      "page": 365,
-      "q": "A pregnant woman taking oral iron therapy has a repeat hemoglobin checked after 1 month. What rise in hemoglobin defines an 'adequate' response?",
-      "opts": [
-        "A rise of >= 1.0 g/dL after 1 month of therapy",
-        "A rise of >= 4.0 g/dL after 1 month",
-        "A rise of 0.1 g/dL after 1 month",
-        "No change in hemoglobin is required"
-      ],
-      "ans": 0,
-      "exp": "An adequate response is defined as an increase in hemoglobin of >=1.0 g/dL after 3-4 weeks of compliant oral iron therapy. (Book p365)",
-      "id": "OBG-C5-031"
-    },
-    {
-      "sec": "Oral iron management",
-      "page": 365,
-      "q": "What is the most common reason for failure of oral iron therapy in a pregnant patient, and how can the clinician objectively verify adherence?",
-      "opts": [
-        "Patient non-compliance due to gastrointestinal side effects; confirmed by inquiring about dark/black stool discoloration",
-        "Severe intestinal malabsorption of iron",
-        "Bone marrow aplasia",
-        "Excessive urinary excretion of iron"
-      ],
-      "ans": 0,
-      "exp": "Non-compliance is the leading cause of oral iron failure; compliant patients pass characteristic dark/black stools from unabsorbed oxidized iron. (Book p365)",
-      "id": "OBG-C5-032"
-    },
-    {
-      "sec": "Parenteral iron and transfusion",
-      "page": 366,
-      "q": "Which of the following is a recognized clinical indication for administering parenteral (intravenous) iron therapy in pregnancy?",
-      "opts": [
-        "Severe gastrointestinal intolerance or non-compliance to oral iron, or moderate anemia diagnosed late in gestation (>30-34 weeks)",
-        "Mild anemia diagnosed at 8 weeks of gestation",
-        "Patient preference for intravenous injections in the first trimester",
-        "Hemochromatosis"
-      ],
-      "ans": 0,
-      "exp": "Parenteral iron is indicated for oral intolerance, non-compliance, malabsorption, or moderate anemia presenting beyond 30-34 weeks. (Book p366)",
-      "id": "OBG-C5-033"
-    },
-    {
-      "sec": "Parenteral iron and transfusion",
-      "page": 366,
-      "q": "What is the Ganzoni formula used to calculate total elemental iron deficit for parenteral iron therapy?",
-      "opts": [
-        "Total deficit (mg) = [Body weight (kg) x (Target Hb 11 - Actual Hb) x 2.4] + 500 mg (iron stores)",
-        "Total deficit (mg) = Body weight x Actual Hb x 10",
-        "Total deficit (mg) = Gestational age x (11 - Hb) x 100",
-        "Total deficit (mg) = [Height (cm) x Hb] + 1000 mg"
-      ],
-      "ans": 0,
-      "exp": "Ganzoni formula: Iron deficit (mg) = [Weight in kg x (Target Hb 11 - Patient's Hb) x 2.4] + 500 mg for storage replenishment. (Book p366)",
-      "id": "OBG-C5-034"
-    },
-    {
-      "sec": "Parenteral iron and transfusion",
-      "page": 366,
-      "q": "What is the maximum single daily dose and weekly ceiling for intravenous iron sucrose administration in pregnancy?",
-      "opts": [
-        "Maximum 200 mg per day (diluted in 100 mL NS over 15-30 mins); maximum 600 mg per week",
-        "Maximum 1000 mg per day",
-        "Maximum 50 mg per day",
-        "Maximum 2000 mg per week"
-      ],
-      "ans": 0,
-      "exp": "Iron sucrose is given at a maximum of 200 mg/day (2 vials in 100 mL NS) on alternate days up to a maximum of 600 mg/week. (Book p366)",
-      "id": "OBG-C5-035"
-    },
-    {
-      "sec": "Parenteral iron and transfusion",
-      "page": 366,
-      "q": "One unit of packed red blood cells (PRBC) typically elevates the maternal hemoglobin concentration by approximately:",
-      "opts": [
-        "1.0 g/dL (and hematocrit by 3%)",
-        "0.2 g/dL",
-        "3.0 g/dL",
-        "5.0 g/dL"
-      ],
-      "ans": 0,
-      "exp": "Transfusion of one standard unit of PRBC (~300 mL) raises maternal hemoglobin by ~1.0 g/dL and hematocrit by 3%. (Book p366)",
-      "id": "OBG-C5-036"
-    },
-    {
-      "sec": "Anemia clinical algorithms",
-      "page": 367,
-      "q": "A pregnant woman presents at 28 weeks of gestation with moderate anemia (Hb 8.5 g/dL). What is the appropriate initial management protocol?",
-      "opts": [
-        "Oral iron therapy (2 IFA tablets daily) with repeat hemoglobin assessment after 3-4 weeks",
-        "Immediate blood transfusion of 2 units of packed RBCs",
-        "Immediate parenteral iron sucrose infusion",
-        "Emergency induction of labor"
-      ],
-      "ans": 0,
-      "exp": "At <34 weeks with mild-to-moderate anemia, oral iron (2 tablets/day) is first line; parenteral iron is reserved for failures or late presentation. (Book p367)",
-      "id": "OBG-C5-037"
-    },
-    {
-      "sec": "Anemia clinical algorithms",
-      "page": 367,
-      "q": "A pregnant woman is first diagnosed with moderate anemia (Hb 8.0 g/dL) at 35 weeks of gestation. Why is parenteral iron preferred over oral iron?",
-      "opts": [
-        "Parenteral iron replenishes iron stores rapidly before delivery, whereas oral iron takes 4-6 weeks to achieve adequate hemoglobin rise",
-        "Oral iron is contraindicated after 34 weeks of gestation",
-        "Parenteral iron induces spontaneous cervical ripening",
-        "Parenteral iron crosses the placenta faster"
-      ],
-      "ans": 0,
-      "exp": "At >=34 weeks, delivery is imminent; parenteral iron rapidly delivers the calculated deficit, whereas oral iron is too slow. (Book p367)",
-      "id": "OBG-C5-038"
-    },
-    {
-      "sec": "Anemia clinical algorithms",
-      "page": 367,
-      "q": "A pregnant woman presents at 24 weeks of gestation with very severe, symptomatic anemia and a hemoglobin of 4.2 g/dL (< 5 g/dL). What is the immediate treatment of choice?",
-      "opts": [
-        "Packed red blood cell transfusion accompanied by IV furosemide, irrespective of gestational age",
-        "Double-dose oral iron therapy for 1 month",
-        "Intravenous iron sucrose 200 mg daily",
-        "Immediate termination of pregnancy"
-      ],
-      "ans": 0,
-      "exp": "A hemoglobin < 5.0 g/dL at ANY gestational age is a critical medical emergency carrying high risk of heart failure, dictating PRBC transfusion. (Book p367)",
-      "id": "OBG-C5-039"
-    },
-    {
-      "sec": "Pharmacotherapy and antibiotics",
-      "page": 368,
-      "q": "Which of the following antibiotic classes is considered SAFE and serves as first-line therapy across all trimesters of pregnancy?",
-      "opts": [
-        "Penicillins (e.g., Ampicillin, Amoxicillin) and Cephalosporins",
-        "Fluoroquinolones (e.g., Ciprofloxacin)",
-        "Tetracyclines (e.g., Doxycycline)",
-        "Aminoglycosides (e.g., Gentamicin)"
-      ],
-      "ans": 0,
-      "exp": "Beta-lactam antibiotics (penicillins and cephalosporins) do not interfere with fetal development and are safe throughout gestation. (Book p368)",
-      "id": "OBG-C5-040"
-    },
-    {
-      "sec": "Pharmacotherapy and antibiotics",
-      "page": 368,
-      "q": "Why are tetracyclines (e.g., doxycycline) strictly contraindicated after the 15th week of gestation?",
-      "opts": [
-        "They chelate with calcium in fetal bones and teeth, causing permanent yellowish-brown discoloration, enamel hypoplasia, and bone growth inhibition",
-        "They cause Gray baby syndrome",
-        "They cause congenital deafness due to 8th cranial nerve damage",
-        "They trigger fetal aplastic anemia"
-      ],
-      "ans": 0,
-      "exp": "Tetracyclines deposit in mineralizing fetal bone and tooth deciduous buds, causing permanent teeth staining and impaired bone growth. (Book p368)",
-      "id": "OBG-C5-041"
-    },
-    {
-      "sec": "Pharmacotherapy and antibiotics",
-      "page": 368,
-      "q": "What fetal adverse effect is specifically associated with maternal aminoglycoside (streptomycin, gentamicin) use during pregnancy?",
-      "opts": [
-        "Cranial nerve VIII damage leading to permanent sensorineural hearing loss and vestibular ototoxicity",
-        "Premature closure of the ductus arteriosus",
-        "Phocomelia and amelia",
-        "Epstein anomaly of the tricuspid valve"
-      ],
-      "ans": 0,
-      "exp": "Aminoglycosides cross the placenta and accumulate in fetal endolymph, damaging the 8th cranial nerve and causing congenital deafness. (Book p368)",
-      "id": "OBG-C5-042"
-    },
-    {
-      "sec": "Pharmacotherapy and antibiotics",
-      "page": 368,
-      "q": "Why is the administration of sulfonamides (e.g., sulfamethoxazole) contraindicated during the late third trimester near delivery?",
-      "opts": [
-        "They displace bilirubin from albumin binding sites, precipitating neonatal kernicterus",
-        "They induce maternal gestational diabetes",
-        "They cause Gray baby syndrome",
-        "They trigger fetal limb reduction defects"
-      ],
-      "ans": 0,
-      "exp": "Near term, sulfonamides compete for albumin binding sites, displacing unconjugated bilirubin into neonatal brain tissue and causing kernicterus. (Book p368)",
-      "id": "OBG-C5-043"
-    },
-    {
-      "sec": "Anticoagulation protocols",
-      "page": 368,
-      "q": "Why is Low Molecular Weight Heparin (LMWH, Enoxaparin) the anticoagulant of choice throughout pregnancy?",
-      "opts": [
-        "Because its large molecular weight and negative charge prevent it from crossing the placental syncytiotrophoblast barrier",
-        "Because it is an oral tablet with zero maternal bleeding risk",
-        "Because it permanently reverses prosthetic valve thrombosis",
-        "Because it accelerates fetal lung maturity"
-      ],
-      "ans": 0,
-      "exp": "Heparins (both LMWH and UFH) do not cross the placenta and are neither teratogenic nor cause fetal hemorrhage. (Book p368)",
-      "id": "OBG-C5-044"
-    },
-    {
-      "sec": "Anticoagulation protocols",
-      "page": 368,
-      "q": "What laboratory assay is standardly utilized to monitor the therapeutic efficacy and dosing of Low Molecular Weight Heparin (LMWH)?",
-      "opts": [
-        "Anti-Factor Xa assay (therapeutic target 0.8 to 1.2 IU/mL for mechanical valves)",
-        "International Normalized Ratio (INR)",
-        "Activated Partial Thromboplastin Time (aPTT)",
-        "Bleeding Time (BT)"
-      ],
-      "ans": 0,
-      "exp": "LMWH does not predictably prolong the aPTT; it is monitored using peak anti-Factor Xa levels (0.8-1.2 IU/mL for prosthetic valves). (Book p368)",
-      "id": "OBG-C5-045"
-    },
-    {
-      "sec": "Anticoagulation protocols",
-      "page": 368,
-      "q": "At what gestational age is the teratogenic risk of maternal Warfarin exposure at its absolute peak?",
-      "opts": [
-        "First trimester between 6 and 9 weeks of gestation",
-        "Second trimester between 18 and 22 weeks",
-        "Third trimester at 36 weeks",
-        "Immediately during active labor"
-      ],
-      "ans": 0,
-      "exp": "Warfarin teratogenicity is maximal between 6 and 9 weeks (critical window for nasal cartilage and epiphyseal development). (Book p368)",
-      "id": "OBG-C5-046"
-    },
-    {
-      "sec": "Anticoagulation protocols",
-      "page": 369,
-      "q": "A pregnant woman with a mechanical heart valve taking therapeutic Warfarin unexpectedly enters active labor at 37 weeks. What is the mandatory management?",
-      "opts": [
-        "Stop warfarin, perform Caesarean delivery, and administer Vitamin K to both mother and neonate to avoid fetal intracranial hemorrhage",
-        "Allow spontaneous vaginal delivery with vacuum extraction",
-        "Administer high-dose intravenous aspirin",
-        "Discharge the patient until warfarin washes out"
-      ],
-      "ans": 0,
-      "exp": "Vaginal delivery while anticoagulated with warfarin risks fatal fetal intracranial trauma; Caesarean section with Vitamin K is mandatory. (Book p369)",
-      "id": "OBG-C5-047"
-    },
-    {
-      "sec": "Teratogenic syndromes and epilepsy",
-      "page": 369,
-      "q": "DiSaia syndrome (Fetal Warfarin Syndrome), caused by early first-trimester coumarin exposure, is characterized by which classic triad?",
-      "opts": [
-        "Hypoplasia of the nasal bridge, stippled epiphyses (chondrodysplasia punctata), and CNS abnormalities (microcephaly, hydrocephalus)",
-        "Phocomelia, amelia, and ano-rectal atresia",
-        "Ebstein anomaly, goiter, and renal agenesis",
-        "Cleft lip, cleft palate, and polydactyly"
-      ],
-      "ans": 0,
-      "exp": "Warfarin embryopathy (DiSaia syndrome) features depressed nasal bridge, stippled calcification of epiphyses, and microcephaly. (Book p369)",
-      "id": "OBG-C5-048"
-    },
-    {
-      "sec": "Teratogenic syndromes and epilepsy",
-      "page": 369,
-      "q": "Which antiepileptic medication carries the HIGHEST risk of major congenital malformations (including neural tube defects, craniofacial, and cardiac anomalies)?",
-      "opts": [
-        "Valproic acid (Sodium valproate)",
-        "Levetiracetam",
-        "Lamotrigine",
-        "Carbamazepine"
-      ],
-      "ans": 0,
-      "exp": "Valproate is the most teratogenic antiepileptic (10% major malformation rate, including NTDs and developmental delay). (Book p369)",
-      "id": "OBG-C5-049"
-    },
-    {
-      "sec": "Teratogenic syndromes and epilepsy",
-      "page": 369,
-      "q": "If a woman with epilepsy conceives while on antiepileptic therapy, what is the recommended clinical management strategy?",
-      "opts": [
-        "Continue the same drug at the lowest effective dose as monotherapy, and prescribe high-dose folic acid (4 to 5 mg/day)",
-        "Immediately stop all antiepileptic drugs to prevent birth defects",
-        "Switch her to multiple high-dose antiepileptics",
-        "Terminate the pregnancy unconditionally"
-      ],
-      "ans": 0,
-      "exp": "Abrupt drug withdrawal triggers status epilepticus (fatal to fetus); maintain seizure control with lowest effective monotherapy + high-dose folic acid. (Book p369)",
-      "id": "OBG-C5-050"
-    },
-    {
-      "sec": "Cardiovascular hemodynamics",
-      "page": 370,
-      "q": "By how much does maternal cardiac output physiologically increase during normal singleton pregnancy, and when does this rise peak antenatally?",
-      "opts": [
-        "Increases by 40% to 50%, reaching its antenatal peak at 28 to 32 weeks of gestation",
-        "Increases by 10%, peaking at 12 weeks",
-        "Increases by 100%, peaking at 40 weeks",
-        "Decreases by 20% in the third trimester"
-      ],
-      "ans": 0,
-      "exp": "Cardiac output rises by 40-50% (driven by stroke volume early, heart rate late), peaking antenatally at 28-32 weeks. (Book p370)",
-      "id": "OBG-C5-051"
-    },
-    {
-      "sec": "Cardiovascular hemodynamics",
-      "page": 370,
-      "q": "During normal pregnancy, maternal systemic blood pressure drops to its nadir during which period, and what physiological mechanism is responsible?",
-      "opts": [
-        "Mid-second trimester (20-24 weeks); driven by progesterone- and nitric oxide-mediated systemic vasodilation lowering peripheral vascular resistance",
-        "First trimester at 6 weeks; driven by maternal dehydration",
-        "Third trimester at 38 weeks; driven by placental ischemia",
-        "Blood pressure never changes during normal pregnancy"
-      ],
-      "ans": 0,
-      "exp": "Systemic vascular resistance falls due to progesterone, relaxin, and nitric oxide, producing a blood pressure nadir at 20-24 weeks. (Book p370)",
-      "id": "OBG-C5-052"
-    },
-    {
-      "sec": "Cardiovascular hemodynamics",
-      "page": 370,
-      "q": "Which of the following cardiovascular physical findings is considered entirely PHYSIOLOGICAL during normal pregnancy and does not signify heart disease?",
-      "opts": [
-        "Grade 1-2/6 mid-systolic ejection murmur heard best at the left sternal border",
-        "Any diastolic murmur",
-        "Loud, prominent S4 gallop",
-        "Continuous machinery murmur over the left infraclavicular area"
-      ],
-      "ans": 0,
-      "exp": "A functional ejection systolic murmur (grade <=2/6) over the pulmonary area and an S3 are normal in >90% of pregnant women due to hyperdynamic flow. (Book p370)",
-      "id": "OBG-C5-053"
-    },
-    {
-      "sec": "Cardiovascular hemodynamics",
-      "page": 370,
-      "q": "What normal anatomical displacement of the heart occurs on chest X-ray and ECG during the third trimester as the uterus elevates the diaphragm?",
-      "opts": [
-        "The heart is displaced upward and laterally to the left, producing mild apparent cardiomegaly and left-axis deviation on ECG",
-        "The heart is pushed downward into the abdomen",
-        "The cardiac apex rotates to the right hemithorax (dextrocardia)",
-        "The heart becomes completely obscured by pleural effusion"
-      ],
-      "ans": 0,
-      "exp": "Diaphragmatic elevation pushes the apex beat to the 4th intercostal space lateral to the midclavicular line, simulating cardiomegaly and left axis shift. (Book p370)",
-      "id": "OBG-C5-054"
-    },
-    {
-      "sec": "Cardiac diagnostics and lesions",
-      "page": 371,
-      "q": "Which of the following physical signs or symptoms in a pregnant woman is unequivocally PATHOLOGICAL and diagnostic of organic cardiac disease?",
-      "opts": [
-        "Paroxysmal nocturnal dyspnea, hemoptysis, diastolic murmur, and persistent Jugular Venous Pressure > 8 cm H2O",
-        "Mild dependent ankle edema subsiding after night rest",
-        "Mild breathlessness when climbing two flights of stairs",
-        "Resting heart rate increase of 10-15 bpm"
-      ],
-      "ans": 0,
-      "exp": "Diastolic murmurs, hemoptysis, orthopnea, PND, clubbing, and elevated JVP (>8 cm H2O) are pathological signs of structural cardiac disease. (Book p371)",
-      "id": "OBG-C5-055"
-    },
-    {
-      "sec": "Cardiac diagnostics and lesions",
-      "page": 371,
-      "q": "What is the most common cause of heart disease in pregnancy in developing countries like India, and which specific valvular lesion is most frequently encountered?",
-      "opts": [
-        "Rheumatic Heart Disease (70-80%); Mitral Stenosis (80-90%)",
-        "Congenital Heart Disease; Coarctation of the aorta",
-        "Ischemic coronary heart disease; Myocardial infarction",
-        "Peripartum cardiomyopathy; Dilated cardiomyopathy"
-      ],
-      "ans": 0,
-      "exp": "Rheumatic heart disease accounts for the majority of maternal cardiac disease in developing nations, with mitral stenosis being the classic predominant lesion. (Book p371)",
-      "id": "OBG-C5-056"
-    },
-    {
-      "sec": "Cardiac diagnostics and lesions",
-      "page": 371,
-      "q": "What is the most common acyanotic congenital heart disease encountered in pregnant women?",
-      "opts": [
-        "Atrial Septal Defect (ASD, ostium secundum type)",
-        "Ventricular Septal Defect (VSD)",
-        "Patent Ductus Arteriosus (PDA)",
-        "Coarctation of the aorta"
-      ],
-      "ans": 0,
-      "exp": "Secundum ASD is the most common congenital cardiac lesion seen in adult pregnancy, generally well tolerated unless pulmonary hypertension develops. (Book p371)",
-      "id": "OBG-C5-057"
-    },
-    {
-      "sec": "Cardiac diagnostics and lesions",
-      "page": 371,
-      "q": "What is the most common cyanotic congenital heart disease encountered in pregnant women?",
-      "opts": [
-        "Tetralogy of Fallot (TOF)",
-        "Transposition of the great arteries (TGA)",
-        "Tricuspid atresia",
-        "Ebstein anomaly"
-      ],
-      "ans": 0,
-      "exp": "Tetralogy of Fallot is the most common cyanotic heart defect; uncorrected TOF carries high maternal mortality and fetal loss rates. (Book p371)",
-      "id": "OBG-C5-058"
-    },
-    {
-      "sec": "Cardiac risk stratification",
-      "page": 371,
-      "q": "Why do stenotic cardiac lesions (e.g., Mitral Stenosis, Aortic Stenosis) decompensate severely during pregnancy, whereas regurgitant lesions (Mitral Regurgitation) often improve?",
-      "opts": [
-        "Tachycardia shortens ventricular diastolic filling time in stenosis; in regurgitation, reduced systemic vascular resistance decreases backflow",
-        "Stenotic valves dilate under progesterone",
-        "Regurgitant valves close completely under estrogen",
-        "Stenotic lesions are immune to blood volume shifts"
-      ],
-      "ans": 0,
-      "exp": "Tachycardia impairs left ventricular filling through a stenotic mitral orifice, raising left atrial pressure and pulmonary edema; low SVR aids regurgitant runoff. (Book p371)",
-      "id": "OBG-C5-059"
-    },
-    {
-      "sec": "Cardiac risk stratification",
-      "page": 371,
-      "q": "Under the modified WHO classification of maternal cardiovascular risk, what is the defining feature of WHO Class IV conditions?",
-      "opts": [
-        "Pregnancy is strictly CONTRAINDICATED; maternal mortality is extremely high (up to 30-50%), and termination is advised if conception occurs",
-        "Pregnancy is completely safe with routine outpatient visits",
-        "Caesarean delivery must be performed at 28 weeks",
-        "Only oral iron therapy is needed"
-      ],
-      "ans": 0,
-      "exp": "mWHO Class IV carries prohibited risk of maternal mortality (up to 30-50%); pregnancy is contraindicated, and termination is recommended if pregnant. (Book p371)",
-      "id": "OBG-C5-060"
-    },
-    {
-      "sec": "Cardiac risk stratification",
-      "page": 371,
-      "q": "Which of the following maternal cardiac conditions is classified under WHO Class IV, carrying the HIGHEST risk of maternal mortality (30-50%)?",
-      "opts": [
-        "Pulmonary Arterial Hypertension / Eisenmenger syndrome",
-        "Repaired uncomplicated ventricular septal defect",
-        "Mild asymptomatic mitral regurgitation",
-        "Small patent ductus arteriosus"
-      ],
-      "ans": 0,
-      "exp": "Eisenmenger syndrome and severe pulmonary arterial hypertension carry a catastrophic 30-50% maternal mortality, primarily peripartum. (Book p371)",
-      "id": "OBG-C5-061"
-    },
-    {
-      "sec": "Cardiac risk stratification",
-      "page": 371,
-      "q": "A pregnant woman with Marfan syndrome undergoes echocardiographic evaluation of her ascending aorta. At what aortic root diameter is pregnancy strictly contraindicated or termination strongly advised?",
-      "opts": [
-        "Aortic root diameter >= 40 to 45 mm (due to high risk of fatal aortic dissection or rupture)",
-        "Aortic root diameter >= 20 mm",
-        "Aortic root diameter >= 30 mm",
-        "Aortic root diameter is irrelevant in Marfan syndrome"
-      ],
-      "ans": 0,
-      "exp": "An aortic root diameter >=40-45 mm in Marfan syndrome carries an extreme risk of lethal aortic dissection or rupture during pregnancy and labor. (Book p371)",
-      "id": "OBG-C5-062"
-    },
-    {
-      "sec": "Cardiac intrapartum care",
-      "page": 372,
-      "q": "In a pregnant woman with stable, compensated cardiac disease, what is the preferred mode of delivery?",
-      "opts": [
-        "Spontaneous or induced vaginal delivery, as Caesarean section entails greater blood loss, infection risk, and hemodynamic instability",
-        "Routine elective Caesarean section under general anesthesia at 34 weeks",
-        "Emergency vacuum extraction at 32 weeks",
-        "Home birth with water immersion"
-      ],
-      "ans": 0,
-      "exp": "Vaginal delivery is preferred for cardiac patients because Caesarean delivery produces twice the blood loss and dramatic hemodynamic shifts. (Book p372)",
-      "id": "OBG-C5-063"
-    },
-    {
-      "sec": "Cardiac intrapartum care",
-      "page": 372,
-      "q": "Why is an instrumental delivery (vacuum or low forceps) routinely planned to assist the second stage of labor in a patient with cardiac disease?",
-      "opts": [
-        "To cut short and eliminate strenuous maternal bearing-down efforts (Valsalva maneuvers), which produce sharp cardiac workload swings",
-        "To prevent fetal macrosomia",
-        "Because cardiac drugs cause complete uterine paralysis",
-        "Because cardiac patients cannot feel labor contractions"
-      ],
-      "ans": 0,
-      "exp": "Elective assistance with forceps or vacuum avoids prolonged maternal pushing and Valsalva efforts, protecting the heart from acute preload surges. (Book p372)",
-      "id": "OBG-C5-064"
-    },
-    {
-      "sec": "Cardiac intrapartum care",
-      "page": 372,
-      "q": "During the active management of the third stage of labor in a woman with heart disease, what is the drug of choice for uterotonic prophylaxis, and what drug is ABSOLUTELY CONTRAINDICATED?",
-      "opts": [
-        "Slow IV oxytocin infusion is the drug of choice; Methylergometrine is ABSOLUTELY CONTRAINDICATED",
-        "Methylergometrine is the drug of choice; Oxytocin is contraindicated",
-        "Carboprost is the drug of choice; Misoprostol is contraindicated",
-        "Ergometrine and oxytocin should be given simultaneously in high doses"
-      ],
-      "ans": 0,
-      "exp": "Oxytocin infusion is the drug of choice. Methylergometrine is contraindicated because it induces sustained vasoconstriction, hypertension, and pulmonary edema. (Book p372)",
-      "id": "OBG-C5-065"
-    },
-    {
-      "sec": "Cardiac intrapartum care",
-      "page": 372,
-      "q": "What intravenous fluid rate restriction is recommended during intrapartum care of a woman with cardiac disease to avoid volume overload?",
-      "opts": [
-        "Restrict total IV fluids to <= 75 mL/hour",
-        "Rapid bolus of 500 mL/hour normal saline",
-        "Total fluid restriction to 0 mL/hour",
-        "Continuous infusion of 250 mL/hour dextrose"
-      ],
-      "ans": 0,
-      "exp": "IV fluids are restricted to <=75 mL/hr to prevent iatrogenic circulatory overload and flash pulmonary edema in cardiac mothers. (Book p372)",
-      "id": "OBG-C5-066"
-    },
-    {
-      "sec": "PPCM and mitral stenosis",
-      "page": 373,
-      "q": "What clinical criteria define Peripartum Cardiomyopathy (PPCM)?",
-      "opts": [
-        "Development of heart failure secondary to left ventricular systolic dysfunction (LVEF < 45%) in the final month of pregnancy or up to 5 months postpartum, with no prior heart disease",
-        "Coronary artery dissection occurring at 20 weeks of gestation",
-        "Aortic valve vegetations appearing 1 year postpartum",
-        "Congenital ventricular septal defect detected in the third trimester"
-      ],
-      "ans": 0,
-      "exp": "PPCM is idiopathic heart failure with LVEF <45% arising between the last gestational month and 5 months postpartum in the absence of preexisting heart disease. (Book p373)",
-      "id": "OBG-C5-067"
-    },
-    {
-      "sec": "PPCM and mitral stenosis",
-      "page": 373,
-      "q": "In addition to standard heart failure pharmacotherapy, which novel drug targeting the 16-kDa prolactin cleavage fragment has shown therapeutic benefit in Peripartum Cardiomyopathy?",
-      "opts": [
-        "Bromocriptine (dopamine agonist that inhibits pituitary prolactin release)",
-        "Oxytocin antagonist (Atosiban)",
-        "Mifepristone",
-        "Carbergoline in high doses for lactation induction"
-      ],
-      "ans": 0,
-      "exp": "16-kDa prolactin promotes endothelial apoptosis in PPCM; bromocriptine blocks prolactin release and improves myocardial recovery. (Book p373)",
-      "id": "OBG-C5-068"
-    },
-    {
-      "sec": "PPCM and mitral stenosis",
-      "page": 374,
-      "q": "In a pregnant woman with moderate-to-severe Mitral Stenosis (valve area < 1.5 cm^2), what is the first-line medical therapy to prevent pulmonary edema?",
-      "opts": [
-        "Beta-blockers (e.g., Metoprolol) to control heart rate and prolong diastolic ventricular filling time",
-        "High-dose intravenous hydralazine to induce tachycardia",
-        "Digoxin monotherapy to increase heart rate",
-        "Atropine bolus to maintain pulse > 120 bpm"
-      ],
-      "ans": 0,
-      "exp": "Beta-blockers slow the heart rate, prolonging diastolic filling across the narrowed mitral valve and lowering left atrial pressure to prevent pulmonary edema. (Book p374)",
-      "id": "OBG-C5-069"
-    },
-    {
-      "sec": "PPCM and mitral stenosis",
-      "page": 374,
-      "q": "When medical therapy fails in a pregnant patient with severe, refractory symptomatic Mitral Stenosis, what surgical/interventional procedure is preferred, and in which trimester?",
-      "opts": [
-        "Percutaneous Transvenous Mitral Commissurotomy (PTMC / Balloon Valvotomy), ideally performed in the second trimester",
-        "Open cardiopulmonary bypass valve replacement in the first trimester",
-        "Emergency mechanical valve replacement during active labor",
-        "Transapical aortic valve implantation at 12 weeks"
-      ],
-      "ans": 0,
-      "exp": "PTMC (balloon mitral valvotomy) is the intervention of choice for refractory severe MS, ideally performed in the 2nd trimester after organogenesis. (Book p374)",
-      "id": "OBG-C5-070"
-    }
-  ]
+ "chapter": 5,
+ "title": "Medical Disorders: Anemia, Drugs and Heart Disease",
+ "pageRange": "358-374",
+ "units": [
+  {
+   "id": "OBG-U5-1",
+   "ch": 5,
+   "n": 1,
+   "title": "Maternal Respiratory Adaptations & Thoracic Anatomy",
+   "sec": "Respiratory physiology · p358",
+   "guide": "The maternal respiratory system adapts through progesterone-mediated stimulation of the medullary respiratory center, increasing tidal volume by 30-50% while respiratory rate remains constant. Diaphragmatic elevation of 4 cm and subcostal widening decrease functional residual capacity by 20%, while chronic hyperventilation creates a compensated respiratory alkalosis facilitating fetal CO2 transfer.",
+   "qs": [
+    "OBG-C5-001",
+    "OBG-C5-002",
+    "OBG-C5-003",
+    "OBG-C5-004",
+    "OBG-C5-005",
+    "OBG-C5-006"
+   ]
+  },
+  {
+   "id": "OBG-U5-2",
+   "ch": 5,
+   "n": 2,
+   "title": "Maternal Oxygen Dynamics, Endocrine & Visceral Changes",
+   "sec": "Systemic and visceral shifts · p358",
+   "guide": "Total maternal oxygen consumption and binding capacity increase alongside a narrower arteriovenous oxygen gradient. The anterior pituitary gland enlarges by 135% with heightened vascularity, rendering it susceptible to ischemic necrosis (Sheehan syndrome) during postpartum hemorrhage. Fetal skeletal demands absorb 30 g of maternal calcium via enhanced active intestinal absorption.",
+   "qs": [
+    "OBG-C5-007",
+    "OBG-C5-008",
+    "OBG-C5-009",
+    "OBG-C5-010"
+   ]
+  },
+  {
+   "id": "OBG-U5-3",
+   "ch": 5,
+   "n": 3,
+   "title": "Iron Requirements, Metabolism & Anemia Mukt Bharat / I-NIPI",
+   "sec": "Iron physiology and national programs · p359-360",
+   "guide": "Total pregnancy iron requirement is 1000 mg (fetal/placental demands 300 mg, RBC expansion 500 mg, basal losses 200 mg), rising to 7.5 mg/day in the third trimester. Because anemia affects 50% of Indian mothers, the Anemia Mukt Bharat (I-NIPI 6x6x6) initiative distributes daily red IFA tablets (60 mg elemental iron + 500 mcg folic acid) paired with mid-trimester albendazole deworming.",
+   "qs": [
+    "OBG-C5-011",
+    "OBG-C5-012",
+    "OBG-C5-013",
+    "OBG-C5-014",
+    "OBG-C5-015"
+   ]
+  },
+  {
+   "id": "OBG-U5-4",
+   "ch": 5,
+   "n": 4,
+   "title": "IFA Supplementation Rules & Anemia Definitions",
+   "sec": "IFA rules and severity grading · p360-361",
+   "guide": "IFA tablets should be consumed 2 hours post-prandially with water or citrus juices, maintaining a 2-hour separation from calcium or tea to maximize absorption. WHO classifies anemia as <11 g/dL (Mild: 10-10.9, Moderate: 7-9.9, Severe: <7 g/dL), while ICMR designates <4.0 g/dL as very severe anemia. Nutritional iron deficiency accounts for 80% of pathological anemia.",
+   "qs": [
+    "OBG-C5-016",
+    "OBG-C5-017",
+    "OBG-C5-018",
+    "OBG-C5-019",
+    "OBG-C5-020"
+   ]
+  },
+  {
+   "id": "OBG-U5-5",
+   "ch": 5,
+   "n": 5,
+   "title": "Maternal & Fetal Complications of Anemia in Pregnancy",
+   "sec": "Adverse effects of anemia · p361-362",
+   "guide": "Severe maternal anemia impairs myometrial oxygenation leading to uterine inertia, postpartum hemorrhage, subinvolution, and heart failure (peaking immediately postpartum due to autotransfusion). While active placental transport shields the fetus from developing microcytic anemia, maternal hypoxemia triggers compensatory placentomegaly, preterm labor, and fetal growth restriction.",
+   "qs": [
+    "OBG-C5-021",
+    "OBG-C5-022",
+    "OBG-C5-023",
+    "OBG-C5-024",
+    "OBG-C5-025"
+   ]
+  },
+  {
+   "id": "OBG-U5-6",
+   "ch": 5,
+   "n": 6,
+   "title": "Clinical Evaluation & Physical Workup of Gestational Anemia",
+   "sec": "Clinical assessment of anemia · p362-363",
+   "guide": "Clinical history evaluates pica, menorrhagia, and worm infestation; physical examination inspects the conjunctiva, tongue, and palmar creases (pallor evident when Hb <7 g/dL). Severe deficiency produces platonychia, koilonychia (spoon nails), or angular cheilosis. Government guidelines mandate checking hemoglobin at all four routine antenatal visits.",
+   "qs": [
+    "OBG-C5-026",
+    "OBG-C5-027",
+    "OBG-C5-028",
+    "OBG-C5-029",
+    "OBG-C5-030"
+   ]
+  },
+  {
+   "id": "OBG-U5-7",
+   "ch": 5,
+   "n": 7,
+   "title": "Diagnostic RBC Indices & Iron Profile Interpretation",
+   "sec": "Laboratory indices and iron panel · p363-364",
+   "guide": "Peripheral blood smear demonstrates microcytic hypochromic red cells in iron deficiency anemia (MCV <75-80 fL, MCHC <30%). The Mentzer index (MCV/RBC count) cleanly differentiates IDA (>13) from beta-thalassemia trait (<13). Serum ferritin (<20-30 mcg/L) serves as the gold-standard biochemical marker of depleted iron stores, accompanied by elevated TIBC (>400 mcg/dL) and transferrin saturation <16%.",
+   "qs": [
+    "OBG-C5-031",
+    "OBG-C5-032",
+    "OBG-C5-033",
+    "OBG-C5-034",
+    "OBG-C5-035"
+   ]
+  },
+  {
+   "id": "OBG-U5-8",
+   "ch": 5,
+   "n": 8,
+   "title": "Oral Iron Therapy & Assessing Treatment Response",
+   "sec": "Oral iron management · p365",
+   "guide": "Treatment of mild-to-moderate anemia initiates with 2 IFA tablets daily (120 mg elemental iron). Therapeutic response is verified earliest by a reticulocyte surge within 5-7 days (peaking at 10 days), followed by a hemoglobin rise of 0.7-1.0 g/dL per month. Dark stools confirm medication compliance, and treatment continues until target hemoglobin is reached.",
+   "qs": [
+    "OBG-C5-036",
+    "OBG-C5-037",
+    "OBG-C5-038",
+    "OBG-C5-039",
+    "OBG-C5-040"
+   ]
+  },
+  {
+   "id": "OBG-U5-9",
+   "ch": 5,
+   "n": 9,
+   "title": "Parenteral Iron Therapy, Ganzoni Formula & Blood Transfusion",
+   "sec": "Parenteral iron and transfusion · p366-367",
+   "guide": "Parenteral iron (IV iron sucrose, max 200 mg/day; ferric carboxymaltose) is indicated for oral intolerance, malabsorption, or moderate anemia diagnosed beyond 30-34 weeks. Total deficit is calculated via the Ganzoni equation: Weight x (11 - Hb) x 2.4 + 500 mg. Packed red blood cell transfusion is reserved for acute hemorrhage, heart failure, Hb <5 g/dL at any gestation, or severe anemia near term.",
+   "qs": [
+    "OBG-C5-041",
+    "OBG-C5-042",
+    "OBG-C5-043",
+    "OBG-C5-044",
+    "OBG-C5-045"
+   ]
+  },
+  {
+   "id": "OBG-U5-10",
+   "ch": 5,
+   "n": 10,
+   "title": "Trimester-Wise Gestational Management Protocol for Anemia",
+   "sec": "Anemia clinical algorithms · p367",
+   "guide": "Anemia algorithms integrate gestational age and severity: before 34 weeks, mild-to-moderate anemia receives oral iron; beyond 34 weeks, moderate cases switch to parenteral iron to secure rapid replenishment. Severe anemia (<7 g/dL) near term warrants blood transfusion with furosemide diuresis, while extreme anemia (<5 g/dL) mandates immediate transfusion regardless of gestational age.",
+   "qs": [
+    "OBG-C5-046",
+    "OBG-C5-047",
+    "OBG-C5-048",
+    "OBG-C5-049"
+   ]
+  },
+  {
+   "id": "OBG-U5-11",
+   "ch": 5,
+   "n": 11,
+   "title": "Antimicrobial Safety & Teratogenic Hazards in Pregnancy",
+   "sec": "Pharmacotherapy and antibiotics · p368",
+   "guide": "Penicillins and cephalosporins remain safe throughout gestation, while nitrofurantoin serves as first-line therapy for asymptomatic bacteriuria. Tetracyclines (bone hypoplasia, permanent enamel discoloration), aminoglycosides (eighth cranial nerve ototoxicity), chloramphenicol (Gray baby syndrome), and fluoroquinolones (fetal arthropathy) are strictly avoided.",
+   "qs": [
+    "OBG-C5-050",
+    "OBG-C5-051",
+    "OBG-C5-052",
+    "OBG-C5-053",
+    "OBG-C5-054"
+   ]
+  },
+  {
+   "id": "OBG-U5-12",
+   "ch": 5,
+   "n": 12,
+   "title": "Anticoagulation: LMWH, Warfarin & Mechanical Valves",
+   "sec": "Anticoagulation protocols · p368-369",
+   "guide": "Low molecular weight heparin (LMWH) does not cross the placental barrier and serves as the anticoagulant of choice throughout gestation, monitored by anti-Factor Xa levels. Warfarin crosses the placenta, causing embryopathy and fetal intracranial hemorrhage. In women with mechanical prosthetic heart valves, warfarin <5 mg/day may be continued in early pregnancy or switched sequentially to LMWH/UFH prior to labor.",
+   "qs": [
+    "OBG-C5-055",
+    "OBG-C5-056",
+    "OBG-C5-057",
+    "OBG-C5-058",
+    "OBG-C5-059"
+   ]
+  },
+  {
+   "id": "OBG-U5-13",
+   "ch": 5,
+   "n": 13,
+   "title": "Warfarin Embryopathy (DiSaia Syndrome) & Antiepileptics",
+   "sec": "Teratogenic syndromes and epilepsy · p369",
+   "guide": "Warfarin exposure at 6-9 weeks produces DiSaia syndrome, featuring nasal hypoplasia, stippled epiphyses (chondrodysplasia punctata), microcephaly, and optic atrophy. Among antiepileptics, valproate is the most potent teratogen (neural tube and cardiac defects); levetiracetam and lamotrigine display the safest clinical profiles, always co-prescribed with high-dose folic acid.",
+   "qs": [
+    "OBG-C5-060",
+    "OBG-C5-061",
+    "OBG-C5-062",
+    "OBG-C5-063"
+   ]
+  },
+  {
+   "id": "OBG-U5-14",
+   "ch": 5,
+   "n": 14,
+   "title": "Maternal Cardiovascular Hemodynamics & Peak Stress Periods",
+   "sec": "Cardiovascular hemodynamics · p370",
+   "guide": "Maternal cardiac output surges by 40-50% while systemic vascular resistance declines, producing a mid-trimester blood pressure nadir. Peak cardiovascular decompensation risks concentrate at 28-32 weeks, during the second stage of labor, and immediately postpartum due to autotransfusion of 300-500 mL of blood from the contracted uterus.",
+   "qs": [
+    "OBG-C5-064",
+    "OBG-C5-065",
+    "OBG-C5-066",
+    "OBG-C5-067",
+    "OBG-C5-068"
+   ]
+  },
+  {
+   "id": "OBG-U5-15",
+   "ch": 5,
+   "n": 15,
+   "title": "Heart Failure vs Pregnancy Signs, RHD & Congenital Lesions",
+   "sec": "Cardiac diagnostics and lesions · p370-371",
+   "guide": "Physiological systolic flow murmurs (grade <=2/6) and an S3 gallop are benign in pregnancy, whereas any diastolic murmur, systolic murmur >=grade 3/6, or elevated JVP signifies structural heart disease. Rheumatic heart disease with mitral stenosis (MS) is the leading cause of maternal cardiac mortality in developing nations; atrial septal defect represents the most common acyanotic congenital lesion.",
+   "qs": [
+    "OBG-C5-069",
+    "OBG-C5-070",
+    "OBG-C5-071",
+    "OBG-C5-072",
+    "OBG-C5-073"
+   ]
+  },
+  {
+   "id": "OBG-U5-16",
+   "ch": 5,
+   "n": 16,
+   "title": "Lesion Prognosis & WHO Class IV Contraindications",
+   "sec": "Cardiac risk stratification · p371",
+   "guide": "Stenotic valvular lesions (MS, AS) poorly tolerate gestational tachycardia due to shortened diastolic filling times, precipitating pulmonary edema. Regurgitant lesions (MR, AR) improve due to reduced peripheral vascular resistance. Modified WHO Class IV conditions (Eisenmenger syndrome, severe pulmonary hypertension, severe MS, LVEF <30%, Marfan with aortic root >=45 mm) carry extreme maternal mortality (30-50%), contraindicating pregnancy.",
+   "qs": [
+    "OBG-C5-074",
+    "OBG-C5-075",
+    "OBG-C5-076",
+    "OBG-C5-077",
+    "OBG-C5-078"
+   ]
+  },
+  {
+   "id": "OBG-U5-17",
+   "ch": 5,
+   "n": 17,
+   "title": "Intrapartum & Postpartum Management of Heart Disease",
+   "sec": "Cardiac intrapartum care · p372",
+   "guide": "Vaginal delivery in a semi-recumbent left-lateral position with early epidural analgesia is preferred for cardiac patients, using vacuum or forceps to shorten second-stage pushing. Fluid infusion is restricted to 75 mL/hr. In the third stage, slow IV oxytocin is the agent of choice; methylergometrine is ABSOLUTELY CONTRAINDICATED because severe vasoconstriction triggers fatal pulmonary edema.",
+   "qs": [
+    "OBG-C5-079",
+    "OBG-C5-080",
+    "OBG-C5-081",
+    "OBG-C5-082",
+    "OBG-C5-083"
+   ]
+  },
+  {
+   "id": "OBG-U5-18",
+   "ch": 5,
+   "n": 18,
+   "title": "Peripartum Cardiomyopathy & Mitral Stenosis Management",
+   "sec": "PPCM and mitral stenosis · p373-374",
+   "guide": "Peripartum cardiomyopathy (PPCM) presents with heart failure (LVEF <45%) between 36 weeks and 5 months postpartum without prior cardiac disease, managed with diuretics, beta-blockers, and bromocriptine. Severe mitral stenosis (mitral valve area <1.5 cm^2) requires heart rate control with beta-blockers and diuretics, with percutaneous balloon mitral valvotomy performed in the second trimester if medical therapy fails.",
+   "qs": [
+    "OBG-C5-084",
+    "OBG-C5-085",
+    "OBG-C5-086",
+    "OBG-C5-087",
+    "OBG-C5-088"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "sec": "Respiratory physiology",
+   "page": 358,
+   "q": "Which maternal lung volume or capacity exhibits a prominent 30% to 50% increase during normal singleton pregnancy?",
+   "opts": [
+    "Tidal volume (VT)",
+    "Residual volume (RV)",
+    "Functional residual capacity (FRC)",
+    "Expiratory reserve volume (ERV)"
+   ],
+   "ans": 0,
+   "exp": "Progesterone directly stimulates the medullary respiratory center to increase tidal volume by 30-50% (and minute ventilation by 40%). (Book p358)",
+   "id": "OBG-C5-001"
+  },
+  {
+   "sec": "Respiratory physiology",
+   "page": 358,
+   "q": "What happens to the maternal respiratory rate (breaths per minute) during normal pregnancy?",
+   "opts": [
+    "It remains essentially constant (or shows a negligible increase)",
+    "It doubles from 14 to 28 breaths per minute",
+    "It decreases significantly by 40%",
+    "It exhibits severe Cheyne-Stokes breathing"
+   ],
+   "ans": 0,
+   "exp": "The respiratory rate remains unchanged (or shows minimal increase); hyperventilation is achieved via increased tidal volume, not tachypnea. (Book p358)",
+   "id": "OBG-C5-002"
+  },
+  {
+   "sec": "Respiratory physiology",
+   "page": 358,
+   "q": "Due to upward displacement of the diaphragm by 4 cm by the enlarging uterus, which lung parameters DECREASE by approximately 20%?",
+   "opts": [
+    "Functional Residual Capacity (FRC) and Expiratory Reserve Volume (ERV)",
+    "Vital Capacity and Inspiratory Capacity",
+    "Tidal Volume and Minute Ventilation",
+    "Total Lung Capacity and Anatomical Dead Space"
+   ],
+   "ans": 0,
+   "exp": "Elevated diaphragm position reduces Functional Residual Capacity (FRC) and Expiratory Reserve Volume (ERV) by ~20%. (Book p358)",
+   "id": "OBG-C5-003"
+  },
+  {
+   "sec": "Respiratory physiology",
+   "page": 358,
+   "q": "What physiological acid-base state is characteristically observed on maternal arterial blood gas analysis during normal pregnancy?",
+   "opts": [
+    "Compensated respiratory alkalosis: pCO2 28-32, HCO3 18-22, pH 7.40-7.45",
+    "Uncompensated metabolic acidosis: pCO2 45-50, HCO3 12-16, pH 7.20-7.28",
+    "Acute respiratory acidosis: pCO2 55-60, HCO3 26-30, pH 7.22-7.30",
+    "Metabolic alkalosis with hypokalaemia: pCO2 45-50, HCO3 32-36, pH 7.50-7.55"
+   ],
+   "ans": 0,
+   "exp": "Normal pregnancy shows a chronic compensated respiratory alkalosis, with pCO2 28-32 mmHg, HCO3 18-22 mEq/L and arterial pH held at 7.40-7.45. (Book p358)",
+   "id": "OBG-C5-004"
+  },
+  {
+   "sec": "Respiratory physiology",
+   "page": 358,
+   "q": "What is the biological advantage of maternal physiological respiratory alkalosis (low maternal pCO2 of 28-32 mmHg) for the fetus?",
+   "opts": [
+    "It creates a gradient that drives CO2 rapidly from fetal blood into maternal blood",
+    "It stimulates fetal renal surfactant synthesis and accelerates lung maturity",
+    "It prevents premature rupture of membranes by lowering amniotic fluid pressure",
+    "It inhibits fetal cardiac output so that placental flow is preferentially raised"
+   ],
+   "ans": 0,
+   "exp": "Maternal physiological respiratory alkalosis (pCO2 28-32 mmHg) establishes a favourable partial pressure gradient promoting rapid transfer of CO2 from fetal circulation to maternal blood. (Book p358)",
+   "id": "OBG-C5-005"
+  },
+  {
+   "id": "OBG-C5-006",
+   "sec": "Maternal respiratory adaptations & thoracic anatomy",
+   "page": 358,
+   "q": "Fill up: In pregnancy, tidal volume increases by about ______%, which lowers maternal arterial PCO2 to roughly ______ mmHg.",
+   "opts": [
+    "40; 30-32",
+    "40; 40",
+    "10; 30-32",
+    "40; 45"
+   ],
+   "ans": 0,
+   "exp": "Progesterone-driven hyperventilation lowers PaCO2 to about 30-32 mmHg, creating the gradient for fetal carbon dioxide transfer. (Book p358)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Systemic and visceral shifts",
+   "page": 358,
+   "q": "During pregnancy, maternal oxygen consumption increases by 20%, but the arteriovenous (A-V) oxygen gradient decreases. Why?",
+   "opts": [
+    "The 40-50% rise in cardiac output far exceeds tissue oxygen extraction",
+    "Fetal tissues consume no oxygen at all throughout the pregnancy",
+    "Maternal hemoglobin loses its ability to bind and carry oxygen",
+    "Maternal systemic vascular resistance rises during pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Oxygen consumption rises 20% but the A-V gradient falls because the disproportionate 40-50% surge in maternal cardiac output delivers oxygen far in excess of tissue extraction. (Book p358)",
+   "id": "OBG-C5-007"
+  },
+  {
+   "sec": "Systemic and visceral shifts",
+   "page": 358,
+   "q": "During normal pregnancy, the maternal pituitary gland enlarges by approximately 135%, primarily due to hypertrophy of prolactin-secreting lactotrophs. If severe postpartum hemorrhage occurs, this enlarged gland is prone to ischemic necrosis known as:",
+   "opts": [
+    "Sheehan syndrome",
+    "Simmonds disease",
+    "Nelson syndrome",
+    "Schmidt syndrome"
+   ],
+   "ans": 0,
+   "exp": "Enlargement of the anterior pituitary makes it vulnerable to ischemic infarction during severe hypotension in PPH (Sheehan syndrome). (Book p358)",
+   "id": "OBG-C5-008"
+  },
+  {
+   "sec": "Systemic and visceral shifts",
+   "page": 358,
+   "q": "Approximately how much total elemental calcium does the developing fetal skeleton accumulate across pregnancy, and how does maternal physiology supply this?",
+   "opts": [
+    "Approximately 30 g; supplied by doubled maternal intestinal calcium absorption under active 1,25-(OH)2 Vitamin D",
+    "Approximately 500 g; supplied by maternal bone resorption",
+    "Approximately 5 g; supplied by passive renal retention",
+    "Approximately 100 g; supplied by amniotic fluid ingestion"
+   ],
+   "ans": 0,
+   "exp": "The fetus acquires ~30 g of calcium (mostly in T3), met by doubling maternal intestinal absorption stimulated by 1,25-dihydroxyvitamin D. (Book p358)",
+   "id": "OBG-C5-009"
+  },
+  {
+   "id": "OBG-C5-010",
+   "sec": "Maternal oxygen dynamics, endocrine & visceral changes",
+   "page": 358,
+   "q": "Which of the following statements about respiratory physiology in pregnancy is TRUE?",
+   "opts": [
+    "The fall in maternal PaCO2 is what allows fetal carbon dioxide to diffuse into maternal blood",
+    "Maternal arterial PO2 falls markedly because oxygen consumption outstrips the rise in ventilation",
+    "The gravid uterus pushes the diaphragm downwards, increasing the antero-posterior chest diameter",
+    "Functional residual capacity rises during pregnancy, giving the mother more oxygen reserve"
+   ],
+   "ans": 0,
+   "exp": "PaO2 is normal or slightly higher, the diaphragm rises (transverse diameter widens) and FRC falls, so the pregnant woman desaturates faster. (Book p358)",
+   "fmt": "truefalse"
+  },
+  {
+   "sec": "Iron physiology and national programs",
+   "page": 359,
+   "q": "What is the total cumulative elemental iron requirement throughout a normal singleton pregnancy?",
+   "opts": [
+    "About 1000 mg: 300 mg for the fetus and placenta, 500 mg for red cell expansion and 200 mg excreted",
+    "About 300 mg: 100 mg for the fetus and placenta, 150 mg for red cell expansion and 50 mg excreted",
+    "About 2500 mg: 1000 mg for the fetus and placenta, 1200 mg for red cell expansion and 300 mg excreted",
+    "About 500 mg: 200 mg for the fetus and placenta, 250 mg for red cell expansion and 50 mg excreted"
+   ],
+   "ans": 0,
+   "exp": "The total extra requirement is about 1000 mg of elemental iron, and the breakdown matters when explaining why supplementation is needed. (Book p359)",
+   "id": "OBG-C5-011"
+  },
+  {
+   "sec": "Iron physiology and national programs",
+   "page": 359,
+   "q": "How does iron transfer across the placenta from the maternal circulation into fetal blood?",
+   "opts": [
+    "Active transport via transferrin receptors against a concentration gradient",
+    "Simple passive diffusion through intercellular clefts",
+    "Facilitated diffusion via GLUT transporters",
+    "Pinocytosis of intact maternal erythrocytes"
+   ],
+   "ans": 0,
+   "exp": "Placental syncytiotrophoblasts extract iron via transferrin receptors and actively pump it to the fetus against a concentration gradient. (Book p359)",
+   "id": "OBG-C5-012"
+  },
+  {
+   "sec": "Iron physiology and national programs",
+   "page": 359,
+   "q": "What is the daily elemental iron requirement during the third trimester of pregnancy?",
+   "opts": [
+    "7.5 mg/day, compared with about 0.8 mg/day in the first trimester",
+    "1.0 mg/day, compared with about 0.8 mg/day in the first trimester",
+    "25 mg/day, compared with about 7.5 mg/day in the first trimester",
+    "0.5 mg/day, compared with about 7.5 mg/day in the first trimester"
+   ],
+   "ans": 0,
+   "exp": "Elemental iron needs rise steeply to about 7.5 mg/day in the third trimester, largely for the expanding red cell mass. (Book p359)",
+   "id": "OBG-C5-013"
+  },
+  {
+   "sec": "Iron physiology and national programs",
+   "page": 359,
+   "q": "Under the Anemia Mukt Bharat (I-NIPI) programme, what deworming regimen is routinely administered to pregnant women?",
+   "opts": [
+    "Albendazole 400 mg single oral dose in the second trimester (after 14 weeks)",
+    "Albendazole 400 mg daily for 7 days in the first trimester",
+    "Mebendazole 100 mg weekly throughout pregnancy",
+    "Deworming is contraindicated throughout pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Under Anemia Mukt Bharat, a single prophylactic dose of Albendazole 400 mg is administered during the 2nd trimester to treat hookworm infestation. (Book p359)",
+   "id": "OBG-C5-014"
+  },
+  {
+   "id": "OBG-C5-015",
+   "sec": "Iron requirements, metabolism & Anemia Mukt Bharat / I-NIPI",
+   "page": 359,
+   "q": "Fill up: The total extra iron requirement of a pregnancy is about ______ mg, of which roughly ______ mg goes to the fetus and placenta.",
+   "opts": [
+    "1000; 300",
+    "1000; 700",
+    "300; 1000",
+    "500; 300"
+   ],
+   "ans": 0,
+   "exp": "About 1000 mg extra iron is needed in total: the largest share expands the maternal red cell mass and about 300 mg goes to the fetus and placenta. (Book p359)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "IFA rules and severity grading",
+   "page": 360,
+   "q": "What are the two active pharmacological ingredients in the prophylactic RED IFA tablet distributed under the national programme?",
+   "opts": [
+    "60 mg elemental iron (as ferrous sulfate) and 500 mcg folic acid",
+    "100 mg elemental iron and 1 mg folic acid",
+    "30 mg elemental iron and 400 mcg folic acid",
+    "200 mg elemental iron and 5 mg folic acid"
+   ],
+   "ans": 0,
+   "exp": "Each red IFA tablet contains 60 mg elemental iron (dried ferrous sulfate) and 500 mcg folic acid. (Book p360)",
+   "id": "OBG-C5-016"
+  },
+  {
+   "sec": "IFA rules and severity grading",
+   "page": 360,
+   "q": "When is the optimal time for a pregnant woman to consume her daily oral iron tablet to maximize bioavailability and reduce GI discomfort?",
+   "opts": [
+    "2 hours after meals (or at bedtime), avoiding co-ingestion with tea, milk, or calcium tablets",
+    "Immediately before breakfast with a large cup of milk",
+    "Simultaneously with calcium carbonate tablets",
+    "With hot black tea to stimulate gastric acidity"
+   ],
+   "ans": 0,
+   "exp": "Iron is best absorbed on an empty stomach or 2 hours post-meal; tannins in tea and calcium in milk inhibit iron absorption. (Book p360)",
+   "id": "OBG-C5-017"
+  },
+  {
+   "id": "OBG-C5-018",
+   "sec": "IFA supplementation rules & anemia definitions",
+   "page": 360,
+   "q": "Fill up: Anaemia in pregnancy is diagnosed when the haemoglobin is below ______ g/dL, and severe anaemia when it is below ______ g/dL.",
+   "opts": [
+    "11; 7",
+    "10; 7",
+    "11; 9",
+    "12; 10"
+   ],
+   "ans": 0,
+   "exp": "WHO defines anaemia in pregnancy as haemoglobin below 11 g/dL, with severe anaemia below 7 g/dL and moderate between 7 and 9.9 g/dL. (Book p360)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "IFA rules and severity grading",
+   "page": 361,
+   "q": "According to World Health Organization (WHO) criteria, what hemoglobin cutoffs define mild, moderate, and severe anemia in pregnancy?",
+   "opts": [
+    "Mild: 10.0 to 10.9 g/dL; Moderate: 7.0 to 9.9 g/dL; Severe: < 7.0 g/dL",
+    "Mild: 11.0 to 11.9 g/dL; Moderate: 9.0 to 10.9 g/dL; Severe: < 9.0 g/dL",
+    "Mild: 9.0 to 10.0 g/dL; Moderate: 6.0 to 8.9 g/dL; Severe: < 6.0 g/dL",
+    "Mild: 10.5 to 11.0 g/dL; Moderate: 8.0 to 10.4 g/dL; Severe: < 8.0 g/dL"
+   ],
+   "ans": 0,
+   "exp": "WHO defines anemia in pregnancy as Hb <11.0 g/dL (Mild: 10-10.9; Moderate: 7-9.9; Severe: <7.0 g/dL; ICMR adds Very severe: <4.0 g/dL). (Book p361)",
+   "id": "OBG-C5-019"
+  },
+  {
+   "sec": "IFA rules and severity grading",
+   "page": 361,
+   "q": "What is the single most common pathological cause of anemia in pregnant women worldwide?",
+   "opts": [
+    "Nutritional iron deficiency anemia (IDA, ~80% of cases)",
+    "Megaloblastic folate deficiency",
+    "Beta-thalassemia major",
+    "Aplastic anemia"
+   ],
+   "ans": 0,
+   "exp": "Nutritional iron deficiency anemia accounts for approximately 80% of all pathological anemias encountered in pregnancy. (Book p361)",
+   "id": "OBG-C5-020"
+  },
+  {
+   "sec": "Adverse effects of anemia",
+   "page": 361,
+   "q": "Why does maternal severe anemia stimulate compensatory placentomegaly (abnormally large placenta)?",
+   "opts": [
+    "To increase the villous surface area in an attempt to compensate for decreased maternal oxygen-carrying capacity",
+    "Due to excessive deposition of fetal fat in the cotyledons",
+    "Because iron accumulates within chorionic villi",
+    "Secondary to cytomegalovirus infection"
+   ],
+   "ans": 0,
+   "exp": "In severe maternal anemia, chronic hypoxemia stimulates placental hypertrophy and capillary branching, causing placentomegaly. (Book p361)",
+   "id": "OBG-C5-021"
+  },
+  {
+   "id": "OBG-C5-022",
+   "sec": "Maternal & fetal complications of anemia in pregnancy",
+   "page": 361,
+   "q": "All of the following are recognised consequences of severe maternal anaemia EXCEPT:",
+   "opts": [
+    "Fetal macrosomia",
+    "Preterm labour and low birth weight",
+    "High-output cardiac failure",
+    "Postpartum haemorrhage from poor myometrial contractility"
+   ],
+   "ans": 0,
+   "exp": "Severe anaemia impairs oxygen transfer and myometrial function, so growth restriction and preterm birth occur; macrosomia does not. (Book p361)",
+   "fmt": "oddoneout"
+  },
+  {
+   "sec": "Adverse effects of anemia",
+   "page": 362,
+   "q": "Why are severely anemic women at exceptionally high risk of developing postpartum hemorrhage (PPH) immediately following placental delivery?",
+   "opts": [
+    "Myometrial tissue hypoxia impairs smooth muscle contractility, resulting in severe uterine atony",
+    "Anemia causes disseminated intravascular coagulation in all patients",
+    "Anemia causes rapid cervical lacerations",
+    "Platelets cannot aggregate in anemic blood"
+   ],
+   "ans": 0,
+   "exp": "Severe tissue hypoxia prevents the living ligatures (interlacing myometrial fibers) from contracting effectively, precipitating atonic PPH. (Book p362)",
+   "id": "OBG-C5-023"
+  },
+  {
+   "sec": "Adverse effects of anemia",
+   "page": 362,
+   "q": "At what specific time point during childbirth is an anemic woman at the greatest risk of acute congestive heart failure and pulmonary edema?",
+   "opts": [
+    "Immediately postpartum, following placental delivery and uterine contraction",
+    "During the latent phase of the first stage of labor",
+    "At 20 weeks of gestation",
+    "During early lactation 2 weeks postpartum"
+   ],
+   "ans": 0,
+   "exp": "Immediately postpartum, uterine contraction autotransfuses 300-500 mL of blood into the systemic circulation, acutely overloading the compromised heart. (Book p362)",
+   "id": "OBG-C5-024"
+  },
+  {
+   "sec": "Adverse effects of anemia",
+   "page": 362,
+   "q": "Does moderate maternal iron deficiency anemia typically cause microcytic hypochromic anemia in the neonate at birth?",
+   "opts": [
+    "No, because the placenta actively extracts iron against a gradient, maintaining normal neonatal hemoglobin at the expense of maternal stores",
+    "Yes, the fetus always reflects the exact maternal hemoglobin concentration",
+    "Yes, fetal hemoglobin drops to zero",
+    "Only if the infant is male"
+   ],
+   "ans": 0,
+   "exp": "The placenta actively transports iron, preserving normal fetal/neonatal hemoglobin; however, neonatal iron stores are depleted. (Book p362)",
+   "id": "OBG-C5-025"
+  },
+  {
+   "sec": "Clinical assessment of anemia",
+   "page": 362,
+   "q": "A pregnant woman presents with an intense craving to eat non-food substances such as dirt, clay, raw rice, or ice. This symptom is known as:",
+   "opts": [
+    "Pica, a classic clinical manifestation of severe iron deficiency",
+    "Bulimia nervosa, with repeated bingeing and purging behaviour",
+    "Hyperemesis gravidarum, with protracted vomiting and ketosis",
+    "Chorea gravidarum, with involuntary movements of the limbs"
+   ],
+   "ans": 0,
+   "exp": "Craving and chewing non-food substances such as clay, raw rice or ice is pica, and it accompanies severe iron deficiency. (Book p362)",
+   "id": "OBG-C5-026"
+  },
+  {
+   "id": "OBG-C5-027",
+   "sec": "Clinical evaluation & physical workup of gestational anemia",
+   "page": 362,
+   "q": "A 26-year-old at 30 weeks has a haemoglobin of 8.2 g/dL with pallor, koilonychia, a smooth sore tongue and pica. Which single investigation best confirms the underlying diagnosis?",
+   "opts": [
+    "Serum ferritin estimation",
+    "Serum vitamin B12 assay",
+    "Haemoglobin electrophoresis",
+    "Direct Coombs test"
+   ],
+   "ans": 0,
+   "exp": "Koilonychia, glossitis and pica point to iron deficiency, and serum ferritin is the most specific single test of iron stores. (Book p362)",
+   "fmt": "scenario"
+  },
+  {
+   "sec": "Clinical assessment of anemia",
+   "page": 363,
+   "q": "On physical examination of a pregnant female, clinical pallor becomes distinctly evident on inspection of the palmar creases when the hemoglobin level drops below:",
+   "opts": [
+    "< 7.0 g/dL",
+    "< 10.0 g/dL",
+    "< 11.0 g/dL",
+    "< 4.0 g/dL"
+   ],
+   "ans": 0,
+   "exp": "Pallor of the palmar creases is a reliable clinical sign indicating severe anemia with hemoglobin < 7.0 g/dL. (Book p363)",
+   "id": "OBG-C5-028"
+  },
+  {
+   "sec": "Clinical assessment of anemia",
+   "page": 363,
+   "q": "Koilonychia—spoon-shaped concave nails with raised edges—is a specific physical sign indicative of:",
+   "opts": [
+    "Chronic, severe iron deficiency anemia",
+    "Folate deficiency megaloblastic anemia",
+    "Hemolytic jaundice",
+    "Sickle cell disease"
+   ],
+   "ans": 0,
+   "exp": "Koilonychia (spooning of nails) and platonychia (flat nails) are pathognomonic physical signs of chronic tissue iron depletion. (Book p363)",
+   "id": "OBG-C5-029"
+  },
+  {
+   "sec": "Clinical assessment of anemia",
+   "page": 363,
+   "q": "According to Government of India (MOHFW) guidelines, how frequently should hemoglobin be screened during antenatal care?",
+   "opts": [
+    "At every routine antenatal visit (4 times during pregnancy)",
+    "Only once at the booking visit",
+    "Only in the third trimester at 36 weeks",
+    "Only if the patient appears visibly pale"
+   ],
+   "ans": 0,
+   "exp": "In India, MOHFW mandates checking hemoglobin at each of the 4 routine antenatal visits to detect and manage progressive anemia. (Book p363)",
+   "id": "OBG-C5-030"
+  },
+  {
+   "sec": "Laboratory indices and iron panel",
+   "page": 364,
+   "q": "What is the Mentzer Index formula, and what cutoffs differentiate Iron Deficiency Anemia from Beta-Thalassemia Trait?",
+   "opts": [
+    "Mentzer Index = MCV / RBC count; > 13 favors Iron Deficiency Anemia, < 13 favors Beta-Thalassemia Trait",
+    "Mentzer Index = Hb / MCV; > 20 favors IDA, < 20 favors Thalassemia",
+    "Mentzer Index = MCHC / Ferritin; > 5 favors IDA",
+    "Mentzer Index = Hematocrit / WBC; > 10 favors Thalassemia"
+   ],
+   "ans": 0,
+   "exp": "Mentzer index = MCV (fL) / RBC count (millions/mcL). In IDA, RBC count is low, giving index >13; in thalassemia trait, RBC count is high, giving index <13. (Book p364)",
+   "id": "OBG-C5-031"
+  },
+  {
+   "sec": "Laboratory indices and iron panel",
+   "page": 364,
+   "q": "What is considered the gold-standard, most sensitive non-invasive biochemical test to confirm depleted iron stores and diagnose Iron Deficiency Anemia?",
+   "opts": [
+    "Serum Ferritin (< 20 to 30 mcg/L)",
+    "Serum Iron alone",
+    "Total Iron Binding Capacity (TIBC) alone",
+    "Peripheral blood smear alone"
+   ],
+   "ans": 0,
+   "exp": "Serum ferritin <20-30 mcg/L is the single best, earliest, and most sensitive biochemical marker of iron deficiency (normal 20-200 mcg/L). (Book p364)",
+   "id": "OBG-C5-032"
+  },
+  {
+   "sec": "Laboratory indices and iron panel",
+   "page": 364,
+   "q": "In a patient with classical Iron Deficiency Anemia, what typical pattern of iron study parameters is expected?",
+   "opts": [
+    "Decreased serum iron (<40 mcg/dL), elevated TIBC (>400 mcg/dL), and decreased transferrin saturation (<16%)",
+    "Elevated serum iron, decreased TIBC, and elevated ferritin",
+    "Normal iron, normal TIBC, and elevated transferrin saturation",
+    "Decreased serum iron and decreased TIBC"
+   ],
+   "ans": 0,
+   "exp": "IDA is characterized by low serum ferritin, low serum iron (<40 mcg/dL), elevated TIBC (>400 mcg/dL), and transferrin saturation <10-16%. (Book p364)",
+   "id": "OBG-C5-033"
+  },
+  {
+   "sec": "Laboratory indices and iron panel",
+   "page": 364,
+   "q": "How does Total Iron Binding Capacity (TIBC) differ between Iron Deficiency Anemia and Anemia of Chronic Disease?",
+   "opts": [
+    "TIBC is elevated in Iron Deficiency Anemia, but decreased/normal in Anemia of Chronic Disease",
+    "TIBC is decreased in IDA, but elevated in chronic disease",
+    "TIBC is identical and zero in both conditions",
+    "TIBC is elevated in both conditions"
+   ],
+   "ans": 0,
+   "exp": "In IDA, transferrin synthesis rises, producing high TIBC (>400 mcg/dL); in chronic disease/inflammation, hepcidin and cytokines reduce TIBC. (Book p364)",
+   "id": "OBG-C5-034"
+  },
+  {
+   "id": "OBG-C5-035",
+   "sec": "Diagnostic RBC indices & iron profile interpretation",
+   "page": 364,
+   "q": "Match the laboratory pattern with the diagnosis — 1) Microcytic hypochromic cells with a low ferritin 2) Macrocytic cells with hypersegmented neutrophils 3) Microcytosis with a normal ferritin and a raised HbA2 … A) Beta thalassaemia trait B) Iron deficiency anaemia C) Folate or vitamin B12 deficiency",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Low ferritin confirms iron deficiency, macrocytosis with hypersegmented neutrophils means megaloblastosis, and a raised HbA2 with normal iron means thalassaemia trait. (Book p364)",
+   "fmt": "match"
+  },
+  {
+   "sec": "Oral iron management",
+   "page": 365,
+   "q": "When initiating oral therapeutic iron for anemia in pregnancy, what is the standard recommended daily dose of IFA tablets?",
+   "opts": [
+    "2 IFA tablets per day (delivering 120 mg of elemental iron)",
+    "1 IFA tablet every alternate day",
+    "4 IFA tablets per day with meals",
+    "1 IFA tablet per week"
+   ],
+   "ans": 0,
+   "exp": "Therapeutic oral iron therapy requires 2 IFA tablets daily (total 120 mg elemental iron) until target hemoglobin is achieved. (Book p365)",
+   "id": "OBG-C5-036"
+  },
+  {
+   "sec": "Oral iron management",
+   "page": 365,
+   "q": "What is the EARLIEST objective hematological marker indicating an adequate therapeutic response to oral iron therapy?",
+   "opts": [
+    "An increase in reticulocyte count within 5 to 7 days (peaking at 10 days)",
+    "An increase in hemoglobin concentration within 24 hours",
+    "A drop in serum ferritin within 3 days",
+    "A sudden decrease in total iron binding capacity"
+   ],
+   "ans": 0,
+   "exp": "A reticulocyte surge beginning at 5-7 days and peaking at 10 days is the earliest and preferred proof of therapeutic bone marrow response. (Book p365)",
+   "id": "OBG-C5-037"
+  },
+  {
+   "sec": "Oral iron management",
+   "page": 365,
+   "q": "A pregnant woman taking oral iron therapy has a repeat hemoglobin checked after 1 month. What rise in hemoglobin defines an 'adequate' response?",
+   "opts": [
+    "A rise of >= 1.0 g/dL after 1 month of therapy",
+    "A rise of >= 4.0 g/dL after 1 month",
+    "A rise of 0.1 g/dL after 1 month",
+    "No change in hemoglobin is required"
+   ],
+   "ans": 0,
+   "exp": "An adequate response is defined as an increase in hemoglobin of >=1.0 g/dL after 3-4 weeks of compliant oral iron therapy. (Book p365)",
+   "id": "OBG-C5-038"
+  },
+  {
+   "sec": "Oral iron management",
+   "page": 365,
+   "q": "What is the most common reason for failure of oral iron therapy in a pregnant patient, and how can the clinician objectively verify adherence?",
+   "opts": [
+    "Non-compliance from gastrointestinal side effects, which blackening of the stool can confirm",
+    "Severe intestinal malabsorption, demonstrated by a negative stool test",
+    "Bone marrow aplasia, which should always be excluded by aspiration",
+    "Excessive urinary excretion of iron, measured in a 24-hour collection"
+   ],
+   "ans": 0,
+   "exp": "The commonest reason is that she has stopped taking it because of nausea or constipation; asking about black stools is a simple objective check. (Book p365)",
+   "id": "OBG-C5-039"
+  },
+  {
+   "id": "OBG-C5-040",
+   "sec": "Oral iron therapy & assessing treatment response",
+   "page": 365,
+   "q": "Fill up: An adequate response to oral iron is a haemoglobin rise of about ______ g/dL over ______ weeks.",
+   "opts": [
+    "1; 3-4",
+    "2; 1",
+    "1; 8",
+    "3; 2"
+   ],
+   "ans": 0,
+   "exp": "A rise of roughly 1 g/dL in 3-4 weeks confirms adherence and absorption; failure prompts a search for malabsorption or non-iron causes. (Book p365)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Parenteral iron and transfusion",
+   "page": 366,
+   "q": "Which of the following is a recognized clinical indication for administering parenteral (intravenous) iron therapy in pregnancy?",
+   "opts": [
+    "Severe gastrointestinal intolerance or non-compliance to oral iron, or moderate anemia diagnosed late in gestation (>30-34 weeks)",
+    "Mild anemia diagnosed at 8 weeks of gestation",
+    "Patient preference for intravenous injections in the first trimester",
+    "Hemochromatosis"
+   ],
+   "ans": 0,
+   "exp": "Parenteral iron is indicated for oral intolerance, non-compliance, malabsorption, or moderate anemia presenting beyond 30-34 weeks. (Book p366)",
+   "id": "OBG-C5-041"
+  },
+  {
+   "sec": "Parenteral iron and transfusion",
+   "page": 366,
+   "q": "What is the Ganzoni formula used to calculate total elemental iron deficit for parenteral iron therapy?",
+   "opts": [
+    "Total deficit (mg) = [Body weight (kg) x (Target Hb 11 - Actual Hb) x 2.4] + 500 mg (iron stores)",
+    "Total deficit (mg) = Body weight x Actual Hb x 10",
+    "Total deficit (mg) = Gestational age x (11 - Hb) x 100",
+    "Total deficit (mg) = [Height (cm) x Hb] + 1000 mg"
+   ],
+   "ans": 0,
+   "exp": "Ganzoni formula: Iron deficit (mg) = [Weight in kg x (Target Hb 11 - Patient's Hb) x 2.4] + 500 mg for storage replenishment. (Book p366)",
+   "id": "OBG-C5-042"
+  },
+  {
+   "sec": "Parenteral iron and transfusion",
+   "page": 366,
+   "q": "What is the maximum single daily dose and weekly ceiling for intravenous iron sucrose administration in pregnancy?",
+   "opts": [
+    "Up to 200 mg per day diluted and infused over 15-30 minutes, and up to 600 mg per week",
+    "Up to 1000 mg per day diluted and infused over 15-30 minutes, with no weekly ceiling",
+    "Up to 50 mg per day diluted and infused over 15-30 minutes, and up to 200 mg per week",
+    "Up to 200 mg per day diluted and infused over 15-30 minutes, and up to 2000 mg per week"
+   ],
+   "ans": 0,
+   "exp": "Iron sucrose is given in divided doses: a maximum of 200 mg per day infused over 15-30 minutes and 600 mg per week. (Book p366)",
+   "id": "OBG-C5-043"
+  },
+  {
+   "sec": "Parenteral iron and transfusion",
+   "page": 366,
+   "q": "One unit of packed red blood cells (PRBC) typically elevates the maternal hemoglobin concentration by approximately:",
+   "opts": [
+    "About 1.0 g/dL, and the haematocrit by about three percentage points",
+    "About 0.2 g/dL, and the haematocrit by about one percentage point",
+    "About 3.0 g/dL, and the haematocrit by about nine percentage points",
+    "About 5.0 g/dL, and the haematocrit by about fifteen percentage points"
+   ],
+   "ans": 0,
+   "exp": "A rough rule is that one unit of packed cells raises the haemoglobin by about 1 g/dL and the haematocrit by about 3 per cent. (Book p366)",
+   "id": "OBG-C5-044"
+  },
+  {
+   "id": "OBG-C5-045",
+   "sec": "Parenteral iron therapy, Ganzoni formula & blood transfusion",
+   "page": 366,
+   "q": "Which of the following statements about parenteral iron in pregnancy is TRUE?",
+   "opts": [
+    "Iron sucrose is the preferred parenteral preparation; iron dextran needs a test dose because of anaphylaxis risk",
+    "Intramuscular iron into the gluteal region is the preferred parenteral route in the third trimester",
+    "Total-dose iron infusion is the treatment of choice in the first trimester for severe anaemia",
+    "Parenteral iron must never be given once the haemoglobin has fallen below 7 g/dL"
+   ],
+   "ans": 0,
+   "exp": "Iron sucrose and ferric carboxymaltose are safe after the first trimester; iron dextran risks anaphylaxis, and intramuscular iron is painful and stains the skin. (Book p366)",
+   "fmt": "truefalse"
+  },
+  {
+   "sec": "Anemia clinical algorithms",
+   "page": 367,
+   "q": "A pregnant woman presents at 28 weeks of gestation with moderate anemia (Hb 8.5 g/dL). What is the appropriate initial management protocol?",
+   "opts": [
+    "Oral iron therapy (2 IFA tablets daily) with repeat hemoglobin assessment after 3-4 weeks",
+    "Immediate blood transfusion of 2 units of packed RBCs",
+    "Immediate parenteral iron sucrose infusion",
+    "Emergency induction of labor"
+   ],
+   "ans": 0,
+   "exp": "At <34 weeks with mild-to-moderate anemia, oral iron (2 tablets/day) is first line; parenteral iron is reserved for failures or late presentation. (Book p367)",
+   "id": "OBG-C5-046"
+  },
+  {
+   "sec": "Anemia clinical algorithms",
+   "page": 367,
+   "q": "A pregnant woman is first diagnosed with moderate anemia (Hb 8.0 g/dL) at 35 weeks of gestation. Why is parenteral iron preferred over oral iron?",
+   "opts": [
+    "Parenteral iron replenishes stores rapidly, whereas oral iron takes 4-6 weeks",
+    "Oral iron is contraindicated in pregnancy after 34 weeks of gestation",
+    "Parenteral iron induces spontaneous cervical ripening before delivery",
+    "Parenteral iron crosses the placenta faster and corrects fetal anaemia"
+   ],
+   "ans": 0,
+   "exp": "Parenteral iron replenishes iron stores rapidly and covers the calculated deficit before delivery, whereas oral iron takes 4-6 weeks to achieve an adequate hemoglobin rise. (Book p367)",
+   "id": "OBG-C5-047"
+  },
+  {
+   "sec": "Anemia clinical algorithms",
+   "page": 367,
+   "q": "A pregnant woman presents at 24 weeks of gestation with very severe, symptomatic anemia and a hemoglobin of 4.2 g/dL (< 5 g/dL). What is the immediate treatment of choice?",
+   "opts": [
+    "Packed red cell transfusion with IV furosemide, at any gestational age",
+    "Double-dose oral iron therapy continued for a full month",
+    "Intravenous iron sucrose 200 mg given daily for a week",
+    "Immediate termination of pregnancy after stabilisation"
+   ],
+   "ans": 0,
+   "exp": "With very severe symptomatic anemia and Hb under 5 g/dL at 24 weeks, the immediate treatment is packed red blood cell transfusion with IV furosemide, irrespective of gestational age. (Book p367)",
+   "id": "OBG-C5-048"
+  },
+  {
+   "id": "OBG-C5-049",
+   "sec": "Trimester-wise gestational management protocol for anemia",
+   "page": 367,
+   "q": "A primigravida at 14 weeks has a haemoglobin of 7.8 g/dL with breathlessness on climbing one flight of stairs. What is the most appropriate plan?",
+   "opts": [
+    "Admit, start parenteral iron sucrose, continue oral iron to term and recheck the haemoglobin in four weeks",
+    "Transfuse packed cells immediately and deliver the pregnancy whatever the gestation",
+    "Continue oral iron alone and review the haemoglobin at 28 weeks",
+    "Recommend termination because severe anaemia before viability is unmanageable"
+   ],
+   "ans": 0,
+   "exp": "In the second trimester a symptomatic woman with severe anaemia needs parenteral iron; transfusion is reserved for decompensation or an imminent need for delivery. (Book p367)",
+   "fmt": "scenario"
+  },
+  {
+   "sec": "Pharmacotherapy and antibiotics",
+   "page": 368,
+   "q": "Which of the following antibiotic classes is considered SAFE and serves as first-line therapy across all trimesters of pregnancy?",
+   "opts": [
+    "Penicillins (e.g., Ampicillin, Amoxicillin) and Cephalosporins",
+    "Fluoroquinolones (e.g., Ciprofloxacin)",
+    "Tetracyclines (e.g., Doxycycline)",
+    "Aminoglycosides (e.g., Gentamicin)"
+   ],
+   "ans": 0,
+   "exp": "Beta-lactam antibiotics (penicillins and cephalosporins) do not interfere with fetal development and are safe throughout gestation. (Book p368)",
+   "id": "OBG-C5-050"
+  },
+  {
+   "sec": "Pharmacotherapy and antibiotics",
+   "page": 368,
+   "q": "Why are tetracyclines (e.g., doxycycline) strictly contraindicated after the 15th week of gestation?",
+   "opts": [
+    "They chelate calcium in fetal bones and teeth, causing discoloration and enamel hypoplasia",
+    "They cause Gray baby syndrome from impaired hepatic conjugation in the fetus",
+    "They cause congenital deafness from direct damage to the eighth cranial nerve",
+    "They trigger fetal aplastic anaemia through direct bone-marrow suppression"
+   ],
+   "ans": 0,
+   "exp": "After the 15th week tetracyclines chelate with calcium in fetal bones and teeth, causing permanent yellowish-brown discoloration, enamel hypoplasia and inhibition of bone growth. (Book p368)",
+   "id": "OBG-C5-051"
+  },
+  {
+   "sec": "Pharmacotherapy and antibiotics",
+   "page": 368,
+   "q": "What fetal adverse effect is specifically associated with maternal aminoglycoside (streptomycin, gentamicin) use during pregnancy?",
+   "opts": [
+    "Cranial nerve VIII damage causing permanent hearing loss and vestibular toxicity",
+    "Premature closure of the ductus arteriosus in the third trimester",
+    "Phocomelia and amelia from inhibition of early limb-bud development",
+    "Ebstein anomaly of the tricuspid valve with neonatal cyanosis"
+   ],
+   "ans": 0,
+   "exp": "Maternal aminoglycosides (streptomycin, gentamicin) damage the 8th cranial nerve, causing permanent sensorineural hearing loss and vestibular ototoxicity. (Book p368)",
+   "id": "OBG-C5-052"
+  },
+  {
+   "sec": "Pharmacotherapy and antibiotics",
+   "page": 368,
+   "q": "Why is the administration of sulfonamides (e.g., sulfamethoxazole) contraindicated during the late third trimester near delivery?",
+   "opts": [
+    "They displace bilirubin from albumin, precipitating neonatal kernicterus",
+    "They induce gestational diabetes in the mother towards term",
+    "They cause Gray baby syndrome in the exposed preterm neonate",
+    "They trigger fetal limb reduction defects in the third trimester"
+   ],
+   "ans": 0,
+   "exp": "Sulfonamides near delivery displace bilirubin from albumin binding sites, precipitating neonatal kernicterus. (Book p368)",
+   "id": "OBG-C5-053"
+  },
+  {
+   "id": "OBG-C5-054",
+   "sec": "Antimicrobial safety & teratogenic hazards in pregnancy",
+   "page": 368,
+   "q": "All of the following antimicrobials are regarded as safe in pregnancy EXCEPT:",
+   "opts": [
+    "Tetracyclines",
+    "Penicillins",
+    "Cephalosporins",
+    "Macrolides such as erythromycin"
+   ],
+   "ans": 0,
+   "exp": "Tetracyclines stain fetal teeth and bones and are avoided; penicillins, cephalosporins and macrolides are safe in pregnancy. (Book p368)",
+   "fmt": "oddoneout"
+  },
+  {
+   "sec": "Anticoagulation protocols",
+   "page": 368,
+   "q": "Why is Low Molecular Weight Heparin (LMWH, Enoxaparin) the anticoagulant of choice throughout pregnancy?",
+   "opts": [
+    "Because its large molecular weight and negative charge prevent it from crossing the placental syncytiotrophoblast barrier",
+    "Because it is an oral tablet with zero maternal bleeding risk",
+    "Because it permanently reverses prosthetic valve thrombosis",
+    "Because it accelerates fetal lung maturity"
+   ],
+   "ans": 0,
+   "exp": "Heparins (both LMWH and UFH) do not cross the placenta and are neither teratogenic nor cause fetal hemorrhage. (Book p368)",
+   "id": "OBG-C5-055"
+  },
+  {
+   "sec": "Anticoagulation protocols",
+   "page": 368,
+   "q": "What laboratory assay is standardly utilized to monitor the therapeutic efficacy and dosing of Low Molecular Weight Heparin (LMWH)?",
+   "opts": [
+    "Anti-Factor Xa assay (therapeutic target 0.8 to 1.2 IU/mL for mechanical valves)",
+    "International Normalized Ratio (INR)",
+    "Activated Partial Thromboplastin Time (aPTT)",
+    "Bleeding Time (BT)"
+   ],
+   "ans": 0,
+   "exp": "LMWH does not predictably prolong the aPTT; it is monitored using peak anti-Factor Xa levels (0.8-1.2 IU/mL for prosthetic valves). (Book p368)",
+   "id": "OBG-C5-056"
+  },
+  {
+   "sec": "Anticoagulation protocols",
+   "page": 368,
+   "q": "At what gestational age is the teratogenic risk of maternal Warfarin exposure at its absolute peak?",
+   "opts": [
+    "First trimester between 6 and 9 weeks of gestation",
+    "Second trimester between 18 and 22 weeks",
+    "Third trimester at 36 weeks",
+    "Immediately during active labor"
+   ],
+   "ans": 0,
+   "exp": "Warfarin teratogenicity is maximal between 6 and 9 weeks (critical window for nasal cartilage and epiphyseal development). (Book p368)",
+   "id": "OBG-C5-057"
+  },
+  {
+   "sec": "Anticoagulation protocols",
+   "page": 369,
+   "q": "A pregnant woman with a mechanical heart valve taking therapeutic Warfarin unexpectedly enters active labor at 37 weeks. What is the mandatory management?",
+   "opts": [
+    "Stop warfarin, deliver by caesarean, and give vitamin K to mother and neonate",
+    "Allow spontaneous vaginal delivery, shortened by vacuum extraction",
+    "Administer high-dose intravenous aspirin and continue warfarin",
+    "Discharge the patient until the warfarin has washed out completely"
+   ],
+   "ans": 0,
+   "exp": "With a mechanical valve on warfarin in active labour, stop warfarin, perform caesarean delivery and give vitamin K to both mother and neonate to avoid fetal intracranial hemorrhage. (Book p369)",
+   "id": "OBG-C5-058"
+  },
+  {
+   "id": "OBG-C5-059",
+   "sec": "Anticoagulation: LMWH, warfarin & mechanical valves",
+   "page": 369,
+   "q": "Match the exposure with its fetal consequence — 1) Warfarin between 6 and 12 weeks 2) Warfarin near term and in labour 3) Low molecular weight heparin … A) Does not cross the placenta and is the preferred agent B) Warfarin embryopathy with nasal hypoplasia and stippled epiphyses C) Fetal and neonatal intracranial haemorrhage during delivery",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Warfarin teratogenicity peaks in organogenesis, near-term use risks fetal bleeding, and heparin molecules do not cross the placenta. (Book p369)",
+   "fmt": "match"
+  },
+  {
+   "sec": "Teratogenic syndromes and epilepsy",
+   "page": 369,
+   "q": "DiSaia syndrome (Fetal Warfarin Syndrome), caused by early first-trimester coumarin exposure, is characterized by which classic triad?",
+   "opts": [
+    "Hypoplasia of the nasal bridge, stippled epiphyses and central nervous system abnormalities",
+    "Phocomelia, amelia and ano-rectal atresia in the affected infant",
+    "Ebstein anomaly, fetal goitre and bilateral renal agenesis",
+    "Cleft lip, cleft palate and postaxial polydactyly"
+   ],
+   "ans": 0,
+   "exp": "DiSaia syndrome is warfarin embryopathy: nasal hypoplasia, chondrodysplasia punctata and central nervous system defects. (Book p369)",
+   "id": "OBG-C5-060"
+  },
+  {
+   "sec": "Teratogenic syndromes and epilepsy",
+   "page": 369,
+   "q": "Which antiepileptic medication carries the HIGHEST risk of major congenital malformations (including neural tube defects, craniofacial, and cardiac anomalies)?",
+   "opts": [
+    "Valproic acid (sodium valproate)",
+    "Levetiracetam in monotherapy",
+    "Lamotrigine in monotherapy",
+    "Carbamazepine in monotherapy"
+   ],
+   "ans": 0,
+   "exp": "Valproic acid (sodium valproate) carries the highest risk of major congenital malformations, including neural tube defects, craniofacial and cardiac anomalies, and developmental delay. (Book p369)",
+   "id": "OBG-C5-061"
+  },
+  {
+   "sec": "Teratogenic syndromes and epilepsy",
+   "page": 369,
+   "q": "If a woman with epilepsy conceives while on antiepileptic therapy, what is the recommended clinical management strategy?",
+   "opts": [
+    "Continue the same drug at the lowest effective dose as monotherapy, and prescribe high-dose folic acid (4 to 5 mg/day)",
+    "Immediately stop all antiepileptic drugs to prevent birth defects",
+    "Switch her to multiple high-dose antiepileptics",
+    "Terminate the pregnancy unconditionally"
+   ],
+   "ans": 0,
+   "exp": "Abrupt drug withdrawal triggers status epilepticus (fatal to fetus); maintain seizure control with lowest effective monotherapy + high-dose folic acid. (Book p369)",
+   "id": "OBG-C5-062"
+  },
+  {
+   "id": "OBG-C5-063",
+   "sec": "Warfarin embryopathy (DiSaia syndrome) & antiepileptics",
+   "page": 369,
+   "q": "Fill up: The critical window for warfarin embryopathy is between ______ and ______ weeks of gestation.",
+   "opts": [
+    "6; 12",
+    "1; 4",
+    "14; 20",
+    "28; 34"
+   ],
+   "ans": 0,
+   "exp": "Exposure from 6 to 12 weeks produces nasal hypoplasia and chondrodysplasia punctata; later exposure mainly risks central nervous system and bleeding problems. (Book p369)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Cardiovascular hemodynamics",
+   "page": 370,
+   "q": "By how much does maternal cardiac output physiologically increase during normal singleton pregnancy, and when does this rise peak antenatally?",
+   "opts": [
+    "Rises by 40% to 50%, peaking antenatally at 28 to 32 weeks",
+    "Rises by about 10%, peaking antenatally at 12 weeks",
+    "Rises by about 100%, peaking antenatally at 40 weeks",
+    "Falls by about 20% during the course of the third trimester"
+   ],
+   "ans": 0,
+   "exp": "Maternal cardiac output increases by 40% to 50% in a normal singleton pregnancy, reaching its antenatal peak at 28 to 32 weeks of gestation. (Book p370)",
+   "id": "OBG-C5-064"
+  },
+  {
+   "sec": "Cardiovascular hemodynamics",
+   "page": 370,
+   "q": "During normal pregnancy, maternal systemic blood pressure drops to its nadir during which period, and what physiological mechanism is responsible?",
+   "opts": [
+    "20-24 weeks, from progesterone- and nitric oxide-mediated vasodilatation",
+    "6 weeks in the first trimester, from maternal dehydration and hypovolaemia",
+    "38 weeks in the third trimester, from placental ischaemia and vasospasm",
+    "Blood pressure never falls, as cardiac output matches vascular resistance"
+   ],
+   "ans": 0,
+   "exp": "Maternal systemic blood pressure reaches its nadir in the mid-second trimester (20-24 weeks), driven by progesterone- and nitric oxide-mediated systemic vasodilatation that lowers peripheral vascular resistance. (Book p370)",
+   "id": "OBG-C5-065"
+  },
+  {
+   "sec": "Cardiovascular hemodynamics",
+   "page": 370,
+   "q": "Which of the following cardiovascular physical findings is considered entirely PHYSIOLOGICAL during normal pregnancy and does not signify heart disease?",
+   "opts": [
+    "Grade 1-2/6 mid-systolic ejection murmur heard best at the left sternal border",
+    "Any diastolic murmur",
+    "Loud, prominent S4 gallop",
+    "Continuous machinery murmur over the left infraclavicular area"
+   ],
+   "ans": 0,
+   "exp": "A functional ejection systolic murmur (grade <=2/6) over the pulmonary area and an S3 are normal in >90% of pregnant women due to hyperdynamic flow. (Book p370)",
+   "id": "OBG-C5-066"
+  },
+  {
+   "sec": "Cardiovascular hemodynamics",
+   "page": 370,
+   "q": "What normal anatomical displacement of the heart occurs on chest X-ray and ECG during the third trimester as the uterus elevates the diaphragm?",
+   "opts": [
+    "The heart is displaced upward and laterally to the left, producing mild apparent cardiomegaly and left-axis deviation on ECG",
+    "The heart is pushed downward into the abdomen",
+    "The cardiac apex rotates to the right hemithorax (dextrocardia)",
+    "The heart becomes completely obscured by pleural effusion"
+   ],
+   "ans": 0,
+   "exp": "Diaphragmatic elevation pushes the apex beat to the 4th intercostal space lateral to the midclavicular line, simulating cardiomegaly and left axis shift. (Book p370)",
+   "id": "OBG-C5-067"
+  },
+  {
+   "id": "OBG-C5-068",
+   "sec": "Maternal cardiovascular hemodynamics & peak stress periods",
+   "page": 370,
+   "q": "Fill up: Maternal cardiac output rises by about ______% in pregnancy and peaks around ______ weeks.",
+   "opts": [
+    "40; 20-24",
+    "40; 8-12",
+    "15; 32",
+    "40; 38"
+   ],
+   "ans": 0,
+   "exp": "Output rises early and peaks at 20-24 weeks; further surges occur during labour and immediately after delivery. (Book p370)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Cardiac diagnostics and lesions",
+   "page": 371,
+   "q": "Which of the following physical signs or symptoms in a pregnant woman is unequivocally PATHOLOGICAL and diagnostic of organic cardiac disease?",
+   "opts": [
+    "Paroxysmal nocturnal dyspnea, hemoptysis, diastolic murmur, and persistent Jugular Venous Pressure > 8 cm H2O",
+    "Mild dependent ankle edema subsiding after night rest",
+    "Mild breathlessness when climbing two flights of stairs",
+    "Resting heart rate increase of 10-15 bpm"
+   ],
+   "ans": 0,
+   "exp": "Diastolic murmurs, hemoptysis, orthopnea, PND, clubbing, and elevated JVP (>8 cm H2O) are pathological signs of structural cardiac disease. (Book p371)",
+   "id": "OBG-C5-069"
+  },
+  {
+   "sec": "Cardiac diagnostics and lesions",
+   "page": 371,
+   "q": "What is the most common cause of heart disease in pregnancy in developing countries like India, and which specific valvular lesion is most frequently encountered?",
+   "opts": [
+    "Rheumatic Heart Disease (70-80%); Mitral Stenosis (80-90%)",
+    "Congenital Heart Disease; Coarctation of the aorta",
+    "Ischemic coronary heart disease; Myocardial infarction",
+    "Peripartum cardiomyopathy; Dilated cardiomyopathy"
+   ],
+   "ans": 0,
+   "exp": "Rheumatic heart disease accounts for the majority of maternal cardiac disease in developing nations, with mitral stenosis being the classic predominant lesion. (Book p371)",
+   "id": "OBG-C5-070"
+  },
+  {
+   "sec": "Cardiac diagnostics and lesions",
+   "page": 371,
+   "q": "What is the most common acyanotic congenital heart disease encountered in pregnant women?",
+   "opts": [
+    "Atrial Septal Defect (ASD, ostium secundum type)",
+    "Ventricular Septal Defect (VSD)",
+    "Patent Ductus Arteriosus (PDA)",
+    "Coarctation of the aorta"
+   ],
+   "ans": 0,
+   "exp": "Secundum ASD is the most common congenital cardiac lesion seen in adult pregnancy, generally well tolerated unless pulmonary hypertension develops. (Book p371)",
+   "id": "OBG-C5-071"
+  },
+  {
+   "sec": "Cardiac diagnostics and lesions",
+   "page": 371,
+   "q": "What is the most common cyanotic congenital heart disease encountered in pregnant women?",
+   "opts": [
+    "Tetralogy of Fallot (TOF)",
+    "Transposition of the great arteries (TGA)",
+    "Tricuspid atresia",
+    "Ebstein anomaly"
+   ],
+   "ans": 0,
+   "exp": "Tetralogy of Fallot is the most common cyanotic heart defect; uncorrected TOF carries high maternal mortality and fetal loss rates. (Book p371)",
+   "id": "OBG-C5-072"
+  },
+  {
+   "id": "OBG-C5-073",
+   "sec": "Heart failure vs pregnancy signs, RHD & congenital lesions",
+   "page": 371,
+   "q": "Which of the following best distinguishes pathological heart disease from the normal cardiovascular changes of pregnancy?",
+   "opts": [
+    "A loud P2, a third heart sound and persistent basal crepitations are pathological, while a soft systolic flow murmur is not",
+    "Exertional dyspnoea in a pregnant woman is always pathological and needs echocardiography",
+    "Any systolic murmur heard over the pulmonary area in pregnancy indicates organic valve disease",
+    "Pedal oedema in the third trimester always indicates incipient cardiac failure"
+   ],
+   "ans": 0,
+   "exp": "Breathlessness, a soft ejection murmur and ankle oedema are common in normal pregnancy; a loud P2, gallop rhythm and persistent crepitations are not. (Book p371)",
+   "fmt": "truefalse"
+  },
+  {
+   "sec": "Cardiac risk stratification",
+   "page": 371,
+   "q": "Why do stenotic cardiac lesions (e.g., Mitral Stenosis, Aortic Stenosis) decompensate severely during pregnancy, whereas regurgitant lesions (Mitral Regurgitation) often improve?",
+   "opts": [
+    "Tachycardia shortens diastolic filling in stenosis, while low resistance helps regurgitant lesions",
+    "Progesterone dilates stenotic valves and worsens the pressure gradient",
+    "Oestrogen closes regurgitant valves completely during pregnancy",
+    "Stenotic lesions are unaffected by the blood volume shifts of pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Stenotic lesions cannot increase output through a fixed orifice and tachycardia shortens filling; regurgitant lesions benefit from the fall in resistance. (Book p371)",
+   "id": "OBG-C5-074"
+  },
+  {
+   "sec": "Cardiac risk stratification",
+   "page": 371,
+   "q": "Under the modified WHO classification of maternal cardiovascular risk, what is the defining feature of WHO Class IV conditions?",
+   "opts": [
+    "Pregnancy contraindicated; mortality up to 30-50%, so termination is advised",
+    "Pregnancy is safe with routine outpatient visits; mortality under 1%",
+    "Caesarean delivery must be performed at 28 weeks; mortality 5-10%",
+    "Only oral iron therapy is needed; no excess maternal mortality"
+   ],
+   "ans": 0,
+   "exp": "In modified WHO class IV, pregnancy is strictly contraindicated, maternal mortality is extremely high (up to 30-50%), and termination is advised if conception occurs. (Book p371)",
+   "id": "OBG-C5-075"
+  },
+  {
+   "sec": "Cardiac risk stratification",
+   "page": 371,
+   "q": "Which of the following maternal cardiac conditions is classified under WHO Class IV, carrying the HIGHEST risk of maternal mortality (30-50%)?",
+   "opts": [
+    "Pulmonary Arterial Hypertension / Eisenmenger syndrome",
+    "Repaired uncomplicated ventricular septal defect",
+    "Mild asymptomatic mitral regurgitation",
+    "Small patent ductus arteriosus"
+   ],
+   "ans": 0,
+   "exp": "Eisenmenger syndrome and severe pulmonary arterial hypertension carry a catastrophic 30-50% maternal mortality, primarily peripartum. (Book p371)",
+   "id": "OBG-C5-076"
+  },
+  {
+   "sec": "Cardiac risk stratification",
+   "page": 371,
+   "q": "A pregnant woman with Marfan syndrome undergoes echocardiographic evaluation of her ascending aorta. At what aortic root diameter is pregnancy strictly contraindicated or termination strongly advised?",
+   "opts": [
+    "Aortic root diameter >= 40 to 45 mm (due to high risk of fatal aortic dissection or rupture)",
+    "Aortic root diameter >= 20 mm",
+    "Aortic root diameter >= 30 mm",
+    "Aortic root diameter is irrelevant in Marfan syndrome"
+   ],
+   "ans": 0,
+   "exp": "An aortic root diameter >=40-45 mm in Marfan syndrome carries an extreme risk of lethal aortic dissection or rupture during pregnancy and labor. (Book p371)",
+   "id": "OBG-C5-077"
+  },
+  {
+   "id": "OBG-C5-078",
+   "sec": "Lesion prognosis & WHO class IV contraindications",
+   "page": 371,
+   "q": "All of the following are WHO class IV lesions in which pregnancy is contraindicated EXCEPT:",
+   "opts": [
+    "Mild mitral stenosis in NYHA class I",
+    "Pulmonary arterial hypertension of any cause",
+    "Severe left ventricular dysfunction with an ejection fraction below 30%",
+    "Severe mitral stenosis with severe pulmonary hypertension"
+   ],
+   "ans": 0,
+   "exp": "Mild mitral stenosis with good functional class is a class II lesion with a small risk; the others carry prohibitive maternal mortality. (Book p371)",
+   "fmt": "oddoneout"
+  },
+  {
+   "sec": "Cardiac intrapartum care",
+   "page": 372,
+   "q": "In a pregnant woman with stable, compensated cardiac disease, what is the preferred mode of delivery?",
+   "opts": [
+    "Spontaneous or induced vaginal delivery, as Caesarean section entails greater blood loss, infection risk, and hemodynamic instability",
+    "Routine elective Caesarean section under general anesthesia at 34 weeks",
+    "Emergency vacuum extraction at 32 weeks",
+    "Home birth with water immersion"
+   ],
+   "ans": 0,
+   "exp": "Vaginal delivery is preferred for cardiac patients because Caesarean delivery produces twice the blood loss and dramatic hemodynamic shifts. (Book p372)",
+   "id": "OBG-C5-079"
+  },
+  {
+   "sec": "Cardiac intrapartum care",
+   "page": 372,
+   "q": "Why is an instrumental delivery (vacuum or low forceps) routinely planned to assist the second stage of labor in a patient with cardiac disease?",
+   "opts": [
+    "To cut short the maternal bearing-down efforts that cause cardiac workload swings",
+    "To prevent fetal macrosomia and the obstructed labour that it would cause",
+    "Because cardiac drugs cause complete paralysis of the uterine muscle",
+    "Because cardiac patients cannot feel uterine contractions at all"
+   ],
+   "ans": 0,
+   "exp": "Instrumental delivery is planned to cut short and eliminate strenuous maternal bearing-down (Valsalva) efforts, which produce sharp cardiac workload swings and protect the heart from acute preload surges. (Book p372)",
+   "id": "OBG-C5-080"
+  },
+  {
+   "sec": "Cardiac intrapartum care",
+   "page": 372,
+   "q": "During the active management of the third stage of labor in a woman with heart disease, what is the drug of choice for uterotonic prophylaxis, and what drug is ABSOLUTELY CONTRAINDICATED?",
+   "opts": [
+    "Slow IV oxytocin infusion is the drug of choice; Methylergometrine is ABSOLUTELY CONTRAINDICATED",
+    "Methylergometrine is the drug of choice; Oxytocin is contraindicated",
+    "Carboprost is the drug of choice; Misoprostol is contraindicated",
+    "Ergometrine and oxytocin should be given simultaneously in high doses"
+   ],
+   "ans": 0,
+   "exp": "Oxytocin infusion is the drug of choice. Methylergometrine is contraindicated because it induces sustained vasoconstriction, hypertension, and pulmonary edema. (Book p372)",
+   "id": "OBG-C5-081"
+  },
+  {
+   "sec": "Cardiac intrapartum care",
+   "page": 372,
+   "q": "What intravenous fluid rate restriction is recommended during intrapartum care of a woman with cardiac disease to avoid volume overload?",
+   "opts": [
+    "Restrict total IV fluids to <= 75 mL/hour",
+    "Rapid bolus of 500 mL/hour normal saline",
+    "Total fluid restriction to 0 mL/hour",
+    "Continuous infusion of 250 mL/hour dextrose"
+   ],
+   "ans": 0,
+   "exp": "IV fluids are restricted to <=75 mL/hr to prevent iatrogenic circulatory overload and flash pulmonary edema in cardiac mothers. (Book p372)",
+   "id": "OBG-C5-082"
+  },
+  {
+   "id": "OBG-C5-083",
+   "sec": "Intrapartum & postpartum management of heart disease",
+   "page": 372,
+   "q": "A primigravida with tight mitral stenosis reaches full cervical dilatation. Which intrapartum measure matters most for her safety?",
+   "opts": [
+    "Cut the second stage short with forceps or vacuum under epidural analgesia and avoid Valsalva pushing",
+    "Encourage a long second stage of spontaneous pushing to avoid any instrumentation",
+    "Give intramuscular ergometrine with the delivery of the anterior shoulder",
+    "Withhold analgesia so that warning symptoms of failure are not masked"
+   ],
+   "ans": 0,
+   "exp": "Epidural analgesia and instrumental shortening of the second stage blunt the dangerous cardiac output surges, and ergometrine is avoided. (Book p372)",
+   "fmt": "scenario"
+  },
+  {
+   "sec": "PPCM and mitral stenosis",
+   "page": 373,
+   "q": "What clinical criteria define Peripartum Cardiomyopathy (PPCM)?",
+   "opts": [
+    "Heart failure from left ventricular systolic dysfunction with an ejection fraction below 45% in the last month or first five months postpartum",
+    "Spontaneous coronary artery dissection presenting at 20 weeks of gestation",
+    "Aortic valve vegetations appearing during the first year after delivery",
+    "A congenital ventricular septal defect first detected in the third trimester"
+   ],
+   "ans": 0,
+   "exp": "Peripartum cardiomyopathy is defined by its timing, by systolic dysfunction and by the absence of another identifiable cause. (Book p373)",
+   "id": "OBG-C5-084"
+  },
+  {
+   "sec": "PPCM and mitral stenosis",
+   "page": 373,
+   "q": "In addition to standard heart failure pharmacotherapy, which novel drug targeting the 16-kDa prolactin cleavage fragment has shown therapeutic benefit in Peripartum Cardiomyopathy?",
+   "opts": [
+    "Bromocriptine (dopamine agonist that inhibits pituitary prolactin release)",
+    "Oxytocin antagonist (Atosiban)",
+    "Mifepristone",
+    "Carbergoline in high doses for lactation induction"
+   ],
+   "ans": 0,
+   "exp": "16-kDa prolactin promotes endothelial apoptosis in PPCM; bromocriptine blocks prolactin release and improves myocardial recovery. (Book p373)",
+   "id": "OBG-C5-085"
+  },
+  {
+   "id": "OBG-C5-086",
+   "sec": "Peripartum cardiomyopathy & mitral stenosis management",
+   "page": 373,
+   "q": "Match the lesion with its description — 1) Peripartum cardiomyopathy 2) Mitral stenosis 3) Severe aortic stenosis … A) Systolic dysfunction appearing in the last month of pregnancy or the first five months after delivery B) Diastolic murmur with a loud first sound and opening snap; tachycardia is poorly tolerated C) Fixed cardiac output, so obstruction makes labour and delivery extremely dangerous",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Peripartum cardiomyopathy is defined by its timing, mitral stenosis is a diastolic lesion that cannot raise output through tachycardia, and aortic stenosis fixes output. (Book p373)",
+   "fmt": "match"
+  },
+  {
+   "sec": "PPCM and mitral stenosis",
+   "page": 374,
+   "q": "In a pregnant woman with moderate-to-severe Mitral Stenosis (valve area < 1.5 cm^2), what is the first-line medical therapy to prevent pulmonary edema?",
+   "opts": [
+    "Beta-blockers (e.g., Metoprolol) to control heart rate and prolong diastolic ventricular filling time",
+    "High-dose intravenous hydralazine to induce tachycardia",
+    "Digoxin monotherapy to increase heart rate",
+    "Atropine bolus to maintain pulse > 120 bpm"
+   ],
+   "ans": 0,
+   "exp": "Beta-blockers slow the heart rate, prolonging diastolic filling across the narrowed mitral valve and lowering left atrial pressure to prevent pulmonary edema. (Book p374)",
+   "id": "OBG-C5-087"
+  },
+  {
+   "sec": "PPCM and mitral stenosis",
+   "page": 374,
+   "q": "When medical therapy fails in a pregnant patient with severe, refractory symptomatic Mitral Stenosis, what surgical/interventional procedure is preferred, and in which trimester?",
+   "opts": [
+    "Percutaneous Transvenous Mitral Commissurotomy (PTMC / Balloon Valvotomy), ideally performed in the second trimester",
+    "Open cardiopulmonary bypass valve replacement in the first trimester",
+    "Emergency mechanical valve replacement during active labor",
+    "Transapical aortic valve implantation at 12 weeks"
+   ],
+   "ans": 0,
+   "exp": "PTMC (balloon mitral valvotomy) is the intervention of choice for refractory severe MS, ideally performed in the 2nd trimester after organogenesis. (Book p374)",
+   "id": "OBG-C5-088"
+  }
+ ]
 }

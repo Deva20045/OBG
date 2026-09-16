@@ -1,0 +1,142 @@
+[
+  {
+    "op": "add", "unit": "OBG-U4-1", "page": 340, "fmt": "match",
+    "sec": "Invasive prenatal diagnostic procedures: CVS vs amniocentesis",
+    "q": "Match the procedure with its timing and caveat — 1) Chorionic villus sampling 2) Early amniocentesis before 14 weeks 3) Standard amniocentesis … A) From 15 weeks, the safest window with the lowest loss and talipes risk B) 10-13 weeks, transabdominal or transcervical placental sampling C) Avoided, because it raises pregnancy loss and fetal talipes",
+    "opts": ["1-B, 2-C, 3-A", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-A, 3-C"],
+    "ans": 0,
+    "exp": "CVS is the 10-13 week option, amniocentesis is best from 15 weeks, and amniocentesis before 14 weeks is linked to loss and talipes."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-2", "page": 341, "fmt": "fillup",
+    "sec": "Amniocentesis technique, cordocentesis & fetal blood",
+    "q": "Fill up: Cordocentesis is generally performed after ______ weeks and samples blood from the ______.",
+    "opts": ["18; umbilical vein", "18; umbilical artery", "12; umbilical vein", "24; uterine artery"],
+    "ans": 0,
+    "exp": "Cordocentesis (percutaneous umbilical blood sampling) is done after 18 weeks, usually from the umbilical vein."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-3", "page": 342, "fmt": "fillup",
+    "sec": "Antepartum fetal surveillance principles & movement counts",
+    "q": "Fill up: With the Cardiff count-to-ten chart, the woman reports if she feels fewer than ______ distinct movements in ______ hours.",
+    "opts": ["10; 12", "10; 24", "4; 12", "3; 1"],
+    "ans": 0,
+    "exp": "Fewer than ten fetal movements in 12 hours (or a marked fall from her own baseline) triggers further testing."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-4", "page": 343, "fmt": "scenario",
+    "sec": "Non-stress test (NST): setup, baseline & accelerations",
+    "q": "At 40 weeks a non-stress test shows a baseline of 140 bpm, moderate variability, two accelerations of 15 bpm lasting 15 seconds in a 20-minute window and no decelerations. How is this tracing reported?",
+    "opts": [
+      "Reactive and reassuring — continue routine antenatal care",
+      "Non-reactive — extend for 40 minutes and use vibroacoustic stimulation",
+      "Equivalent to a positive contraction stress test — deliver the fetus",
+      "A sinusoidal pattern — proceed to immediate caesarean delivery"
+    ],
+    "ans": 0,
+    "exp": "Two accelerations of 15 bpm for 15 seconds in 20 minutes with moderate variability make the NST reactive, which is reassuring."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-5", "page": 344, "fmt": "oddoneout",
+    "sec": "Sinusoidal FHR, non-reactive tracings & algorithm",
+    "q": "All of the following can produce a sinusoidal fetal heart rate pattern EXCEPT:",
+    "opts": ["The fetal sleep cycle", "Severe fetal anaemia from Rh isoimmunisation", "Large feto-maternal haemorrhage", "Severe fetal hypoxia preceding death"],
+    "ans": 0,
+    "exp": "A sinusoidal pattern signals severe anaemia or hypoxia; the fetal sleep cycle reduces variability but never produces a smooth sine wave."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-6", "page": 345, "fmt": "fillup",
+    "sec": "Biophysical profile (BPP / Manning score) & modified BPS",
+    "q": "Fill up: The full biophysical profile scores ______ components, and a total score of ______ or less is considered abnormal at term.",
+    "opts": ["5; 4", "5; 6", "4; 2", "5; 2"],
+    "ans": 0,
+    "exp": "Five components are scored out of two each; a score of 4 or less is abnormal, 6 is equivocal and 8-10 is reassuring."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-7", "page": 347, "fmt": "truefalse",
+    "sec": "Intrapartum surveillance principles & intermittent auscultation",
+    "q": "Which of the following statements about intrapartum fetal surveillance is TRUE?",
+    "opts": [
+      "In low-risk labour, intermittent auscultation every 15 minutes in the first stage is an accepted alternative to continuous CTG",
+      "Continuous electronic monitoring is mandatory for every labour, whatever the risk status",
+      "Auscultation should be performed for a full minute before a contraction rather than after it",
+      "A handheld Doppler device cannot be used for intermittent auscultation in labour"
+    ],
+    "ans": 0,
+    "exp": "Low-risk labours may be monitored by intermittent auscultation, counting for at least a minute immediately after a contraction."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-8", "page": 348, "fmt": "match",
+    "sec": "Cardiotocography: baseline, variability & prolonged decelerations",
+    "q": "Match the CTG term with its definition — 1) Fetal tachycardia 2) Minimal variability 3) Prolonged deceleration … A) Amplitude range of 5 bpm or less persisting for 40 minutes or more B) Baseline above 160 bpm for 10 minutes or more C) A fall of 15 bpm or more lasting over 2 minutes but under 10 minutes",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Tachycardia exceeds 160 bpm for 10 minutes, minimal variability is an amplitude of 5 bpm or less, and a prolonged deceleration lasts 2 to 10 minutes."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-9", "page": 350, "fmt": "match",
+    "sec": "Deceleration morphologies: early, late & variable decelerations",
+    "q": "Match the deceleration with its cause and shape — 1) Early deceleration 2) Late deceleration 3) Variable deceleration … A) Uniform, mirrors the contraction, nadir at the peak, from head compression B) Uniform, nadir after the contraction peak, from uteroplacental insufficiency C) Abrupt V-shaped fall and recovery, from cord compression",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Early decelerations mirror contractions from head compression, late decelerations lag behind from placental insufficiency, and variable decelerations are abrupt from cord compression."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-10", "page": 351, "fmt": "scenario",
+    "sec": "CTG categorization (ACOG/FIGO) & intrauterine resuscitation",
+    "q": "A labouring woman's CTG shows a baseline of 110 bpm, minimal variability and recurrent late decelerations with no accelerations. How should this tracing be categorised and managed?",
+    "opts": [
+      "Category III — start intrauterine resuscitation and expedite delivery",
+      "Category I — normal tracing needing no intervention",
+      "Category II — continue monitoring and review again in 30 minutes",
+      "Category III — but delivery can safely wait two hours for a trial of rest"
+    ],
+    "ans": 0,
+    "exp": "Absent or minimal variability with recurrent late decelerations is a Category III tracing, requiring resuscitation and prompt delivery."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-11", "page": 352, "fmt": "fillup",
+    "sec": "Fetal scalp blood sampling, scalp stimulation & pulse oximetry",
+    "q": "Fill up: Fetal scalp blood sampling is abnormal when the pH is below ______, while a value of 7.20 to 7.25 is ______.",
+    "opts": ["7.20; borderline and repeated within 30 minutes", "7.25; abnormal and needs immediate delivery", "7.15; normal with no further action", "7.30; abnormal and needs immediate delivery"],
+    "ans": 0,
+    "exp": "A pH below 7.20 is abnormal and 7.20-7.25 is borderline, so the sample is repeated after resuscitation."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-12", "page": 353, "fmt": "oddoneout",
+    "sec": "Maternal adaptations: cutaneous, uterine & cervical shifts",
+    "q": "All of the following are normal skin changes of pregnancy EXCEPT:",
+    "opts": ["Generalised pruritus with jaundice and dark urine", "Linea nigra over the lower abdomen", "Chloasma or melasma over the cheeks", "Striae gravidarum over the abdomen and thighs"],
+    "ans": 0,
+    "exp": "Pruritus with jaundice suggests intrahepatic cholestasis of pregnancy; linea nigra, chloasma and striae are normal."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-13", "page": 354, "fmt": "truefalse",
+    "sec": "Vaginal ecosystem, endocrine shifts & fluid retention",
+    "q": "Which of the following statements about the vaginal environment in pregnancy is TRUE?",
+    "opts": [
+      "Physiological leucorrhoea is increased cervical mucus from oestrogen, and the vaginal pH stays acidic",
+      "Vaginal pH rises above 6 in normal pregnancy, which is why bacterial vaginosis is so common",
+      "Progesterone dries and thins cervical mucus, reducing the discharge of normal pregnancy",
+      "Total body water falls in pregnancy despite the rise in aldosterone and renin"
+    ],
+    "ans": 0,
+    "exp": "Oestrogen increases cervical mucus and glycogen, keeping the vagina acidic; total body water rises by several litres in pregnancy."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-14", "page": 356, "fmt": "fillup",
+    "sec": "Maternal hematological adaptations & hemodilution",
+    "q": "Fill up: In pregnancy the plasma volume expands by about ______%, but the red cell mass rises by only about ______%, producing physiological anaemia.",
+    "opts": ["45; 20", "20; 45", "45; 45", "10; 30"],
+    "ans": 0,
+    "exp": "Greater plasma expansion than red cell expansion dilutes the haemoglobin, which is why the physiological nadir occurs around 30 weeks."
+  },
+  {
+    "op": "add", "unit": "OBG-U4-15", "page": 357, "fmt": "match",
+    "sec": "Maternal renal, urinary & gastrointestinal adaptations",
+    "q": "Match the renal change with its direction in pregnancy — 1) Renal plasma flow and GFR 2) Serum creatinine 3) Ureteric and pelvic dilation … A) Falls to about 0.5-0.7 mg/dL, so a normal non-pregnant value may be abnormal B) Rises by 50-75% in the first half of pregnancy C) More marked on the right, from uterine compression of the ureter at the pelvic brim",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-B, 3-A", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Filtration rises, creatinine falls and the right ureter dilates more, which is why pyelonephritis is commoner on the right."
+  }
+]

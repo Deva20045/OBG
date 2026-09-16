@@ -1,0 +1,296 @@
+[
+  {
+    "op": "add", "unit": "OBG-U10-1", "page": 428, "fmt": "match",
+    "sec": "Second-trimester abortion methods",
+    "q": "Match the method with its place today — 1) Dilatation and evacuation 2) Hysterotomy 3) Intra-amniotic instillation … A) Requires a laparotomy and is reserved for failed medical and surgical methods B) The safest second-trimester surgical method in trained hands after cervical preparation C) An older technique using hypertonic saline or prostaglandin injected into the amniotic sac",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-B, 3-A", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Dilatation and evacuation with prior cervical preparation is the standard; hysterotomy is now almost never indicated."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-2", "page": 428, "fmt": "fillup",
+    "sec": "Medical abortion protocol",
+    "q": "Fill up: The standard medical abortion regimen is ______ mg of mifepristone followed 24 to 48 hours later by ______ microgram of misoprostol.",
+    "opts": ["200; 800", "600; 400", "200; 200", "600; 800"],
+    "ans": 0,
+    "exp": "Mifepristone 200 mg blocks progesterone receptors and misoprostol 800 microgram is then given by the buccal, sublingual or vaginal route."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-3", "page": 429, "fmt": "oddoneout",
+    "sec": "Medical abortion contraindications",
+    "q": "All of the following are contraindications to medical abortion EXCEPT:",
+    "opts": [
+      "Well-controlled hypothyroidism on stable replacement therapy",
+      "Suspected ectopic pregnancy",
+      "Chronic adrenal failure or long-term corticosteroid therapy",
+      "Inherited porphyria or anticoagulant therapy"
+    ],
+    "ans": 0,
+    "exp": "Treated hypothyroidism is not a contraindication; adrenal failure, porphyria, anticoagulation, severe anaemia and suspected ectopic pregnancy are."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-4", "page": 429, "fmt": "truefalse",
+    "sec": "Medical abortion assessment",
+    "q": "Which of the following statements about medical abortion is TRUE?",
+    "opts": [
+      "Any intrauterine device must be removed before starting, and the woman must have access to emergency surgical care",
+      "Medical abortion is never offered beyond 63 days of gestation in any national guideline",
+      "Rh typing and anti-D are unnecessary before 12 weeks of gestation",
+      "Success exceeds 99 per cent, so no follow-up visit is needed"
+    ],
+    "ans": 0,
+    "exp": "An intrauterine device is removed first, anti-D is given to Rh-negative women, and a follow-up visit confirms complete expulsion."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-5", "page": 430, "fmt": "scenario",
+    "sec": "Suction evacuation procedure & endpoint",
+    "q": "During suction evacuation at 9 weeks the cavity feels empty, a gritty sensation is transmitted through the cannula and the aspirate becomes red and frothy. What does this mean?",
+    "opts": [
+      "The evacuation is complete — stop, to avoid perforation and cervical damage",
+      "The uterus has been perforated — proceed directly to laparotomy",
+      "Products remain — increase the suction pressure and aspirate again",
+      "A molar pregnancy is present — continue sharp curettage at once"
+    ],
+    "ans": 0,
+    "exp": "The gritty feel and red frothy aspirate are the signs that the cavity is empty, and continuing only risks perforation and Asherman syndrome."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-6", "page": 430, "fmt": "match",
+    "sec": "Uterine sound, Karman cannula & dilators",
+    "q": "Match the instrument with its role — 1) Uterine sound 2) Karman cannula 3) Hegar dilators … A) A flexible plastic cannula that allows manual vacuum aspiration, often without cervical dilatation B) A graduated metal rod used to confirm the length and direction of the uterine cavity first C) Graduated rigid instruments used to dilate the cervix before evacuation",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "The sound is always used first to establish the axis and depth, dilators prepare the cervix, and the Karman cannula allows gentle manual aspiration."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-7", "page": 430, "fmt": "fillup",
+    "sec": "Paracervical block",
+    "q": "Fill up: A paracervical block for suction evacuation is given by injecting local anaesthetic beside the cervix at the ______ and ______ o'clock positions.",
+    "opts": ["4; 8", "12; 6", "3; 9", "2; 10"],
+    "ans": 0,
+    "exp": "Infiltration at 4 and 8 o'clock beside the cervicovaginal junction blocks the paracervical plexus with a low risk of intravascular injection."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-8", "page": 431, "fmt": "scenario",
+    "sec": "Uterine perforation during S&E",
+    "q": "During suction evacuation the instrument passes well beyond the measured uterine length with a sudden loss of resistance, followed by lower abdominal pain and brisk bleeding. What is the next step?",
+    "opts": [
+      "Stop immediately, monitor vital signs and abdomen, and arrange laparoscopy if bleeding or organ injury is suspected",
+      "Complete the curettage before assessing any possible injury",
+      "Proceed to hysterectomy, since every suspected perforation requires one",
+      "Give oxytocin and finish the evacuation under ultrasound guidance without stopping"
+    ],
+    "ans": 0,
+    "exp": "The procedure is abandoned; most perforations are managed conservatively, but bleeding or suspected bowel or omental injury needs laparoscopy or laparotomy."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-9", "page": 432, "fmt": "oddoneout",
+    "sec": "Manual vacuum aspiration",
+    "q": "All of the following are advantages of manual vacuum aspiration EXCEPT:",
+    "opts": [
+      "It requires a general anaesthetic and a full operating theatre",
+      "It is quiet, so it is less frightening for the woman",
+      "It can be performed under paracervical block as an outpatient procedure",
+      "It gives the operator better tactile feedback about the cavity"
+    ],
+    "ans": 0,
+    "exp": "Manual vacuum aspiration is deliberately a simple, quiet, office-based technique that avoids the risks of general anaesthesia."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-10", "page": 432, "fmt": "fillup",
+    "sec": "Second-trimester medical abortion",
+    "q": "Fill up: For second-trimester medical abortion, misoprostol is repeated every ______ hours, and the dose is lower than in the first trimester because the uterus is more sensitive.",
+    "opts": ["3-6", "12", "1", "24"],
+    "ans": 0,
+    "exp": "Repeated doses of misoprostol every 3-6 hours are used until expulsion, with lower and less frequent dosing than in the first trimester."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-11", "page": 432, "fmt": "truefalse",
+    "sec": "Dilatation & evacuation",
+    "q": "Which of the following statements about dilatation and evacuation is TRUE?",
+    "opts": [
+      "Cervical preparation with osmotic dilators or mifepristone beforehand lowers the risk of cervical injury and makes the operation safer",
+      "It is a blind procedure that is safer without any cervical preparation",
+      "Ultrasound guidance is contraindicated during dilatation and evacuation",
+      "It is only suitable for pregnancies below 12 weeks of gestation"
+    ],
+    "ans": 0,
+    "exp": "Cervical priming the day before, plus ultrasound guidance by an experienced operator, is what makes dilatation and evacuation safe."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-12", "page": 433, "fmt": "fillup",
+    "sec": "Ectopic progesterone & fallopian tube anatomy",
+    "q": "Fill up: The commonest site of ectopic pregnancy is the ______ of the fallopian tube, and the interstitial portion runs within the ______ of the uterus.",
+    "opts": ["ampulla; myometrium", "isthmus; myometrium", "ampulla; broad ligament", "fimbria; ovary"],
+    "ans": 0,
+    "exp": "Most ectopics implant in the ampulla, while the interstitial segment is the tunnel through the myometrium and bleeds catastrophically late."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-13", "page": 433, "fmt": "match",
+    "sec": "Ectopic sites & timing of rupture",
+    "q": "Match the tubal site with its behaviour — 1) Ampullary ectopic 2) Isthmic ectopic 3) Interstitial ectopic … A) Ruptures early because the segment is narrow and thick-walled, with brisk bleeding B) Ruptures late, around 12-16 weeks, with catastrophic haemorrhage from myometrial vessels C) The commonest site, usually rupturing around 6-8 weeks",
+    "opts": ["1-C, 2-A, 3-B", "1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-B, 3-A"],
+    "ans": 0,
+    "exp": "Ampullary ectopics are commonest and rupture around 6-8 weeks; isthmic rupture is early and interstitial rupture is late and severe."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-14", "page": 434, "fmt": "oddoneout",
+    "sec": "Non-tubal ectopic criteria",
+    "q": "All of the following are Studdiford criteria for primary abdominal pregnancy EXCEPT:",
+    "opts": [
+      "A past history of pelvic inflammatory disease",
+      "Both tubes and ovaries appear normal with no evidence of a tubal pregnancy",
+      "There is no utero-peritoneal fistula",
+      "The pregnancy is related to the peritoneal surface rather than the tube"
+    ],
+    "ans": 0,
+    "exp": "Studdiford criteria define primary peritoneal implantation; previous pelvic infection is a risk factor for tubal ectopic, not a diagnostic criterion."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-15", "page": 434, "fmt": "fillup",
+    "sec": "Ectopic risk factors & contraception",
+    "q": "Fill up: The strongest risk factor for tubal ectopic pregnancy is ______, which produces the tubal damage that predisposes to implantation outside the uterus.",
+    "opts": ["previous pelvic inflammatory disease or tubal surgery", "increasing maternal age alone", "combined oral contraceptive use", "a previous caesarean section"],
+    "ans": 0,
+    "exp": "Salpingitis, previous tubal surgery, sterilisation and previous ectopic damage the tube; contraception changes the risk only if it fails."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-16", "page": 435, "fmt": "scenario",
+    "sec": "Ruptured ectopic presentation & resuscitation",
+    "q": "A 28-year-old with 7 weeks of amenorrhoea and a positive pregnancy test has sudden severe lower abdominal pain, shoulder-tip pain and a faint. Her pulse is 120/min and her blood pressure is 84/50 mmHg. What is the immediate management?",
+    "opts": [
+      "Resuscitate with intravenous fluids and blood and take her to theatre for urgent surgery",
+      "Obtain a formal ultrasound report before starting any resuscitation",
+      "Give intramuscular methotrexate and review her as an outpatient in 48 hours",
+      "Observe her for four hours and repeat the haemoglobin before deciding"
+    ],
+    "ans": 0,
+    "exp": "A ruptured ectopic with shock is a surgical emergency: resuscitation and laparoscopy or laparotomy come before imaging."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-17", "page": 435, "fmt": "match",
+    "sec": "Danforth sign & signs of intraperitoneal blood",
+    "q": "Match the sign with its meaning — 1) Danforth sign 2) Cullen's sign 3) Grey Turner sign … A) Bluish discolouration of the flanks from retroperitoneal blood B) Bluish discolouration around the umbilicus from intraperitoneal blood C) Shoulder pain on inspiration from blood irritating the diaphragm",
+    "opts": ["1-C, 2-B, 3-A", "1-A, 2-C, 3-B", "1-B, 2-A, 3-C", "1-C, 2-A, 3-B"],
+    "ans": 0,
+    "exp": "Danforth's sign is inspiratory shoulder pain, Cullen's is periumbilical bruising and Grey Turner's is flank bruising from tracking blood."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-18", "page": 436, "fmt": "truefalse",
+    "sec": "Ectopic pelvic examination findings",
+    "q": "Which of the following statements about examination findings in ectopic pregnancy is TRUE?",
+    "opts": [
+      "Cervical motion tenderness with an adnexal mass and a uterus smaller than dates is the classic triad",
+      "The uterus is always larger than the gestational age in ectopic pregnancy",
+      "A tense bulging posterior fornix is specific for interstitial pregnancy",
+      "Absent adnexal tenderness reliably excludes an ectopic pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Decidual reaction makes the uterus feel soft but it is usually smaller than dates; examination alone can never exclude ectopic pregnancy."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-19", "page": 436, "fmt": "fillup",
+    "sec": "Ruptured ectopic & culdocentesis",
+    "q": "Fill up: Culdocentesis is positive when ______ is aspirated from the pouch of Douglas, and it has largely been replaced by ______.",
+    "opts": ["non-clotting blood; ultrasound", "clotted blood; laparoscopy", "serous fluid; magnetic resonance imaging", "pus; computed tomography"],
+    "ans": 0,
+    "exp": "Defibrinated blood does not clot, which was the old bedside clue to haemoperitoneum; ultrasound now answers the question non-invasively."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-20", "page": 437, "fmt": "fillup",
+    "sec": "Unruptured ectopic ultrasound",
+    "q": "Fill up: The decisive ultrasound finding in unruptured ectopic pregnancy is an adnexal mass ______ together with an empty uterine cavity.",
+    "opts": [
+      "separate from the ovary, often with a tubal ring",
+      "fused to the ovary and containing the corpus luteum",
+      "with a fetal pole lying inside the endometrial cavity",
+      "with free fluid in the hepatorenal pouch as the only abnormality"
+    ],
+    "ans": 0,
+    "exp": "A tubal ring or gestational-sac-like mass that moves separately from the ovary, with an empty cavity, is the key sign of ectopic pregnancy."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-21", "page": 438, "fmt": "scenario",
+    "sec": "Beta-hCG trends & other investigations",
+    "q": "A woman at about 6 weeks with a pregnancy of unknown location has a beta-hCG of 1800 mIU/mL that rises to 2400 mIU/mL after 48 hours. How is this interpreted?",
+    "opts": [
+      "A subnormal rise below the expected 53 per cent in 48 hours, favouring ectopic or failing pregnancy",
+      "A normal rise, which effectively excludes an ectopic pregnancy",
+      "A falling level, which confirms that the pregnancy has already miscarried",
+      "A doubling within 24 hours, which is typical of a viable intrauterine pregnancy"
+    ],
+    "ans": 0,
+    "exp": "A rise below 53 per cent over 48 hours is abnormal; roughly half of such pregnancies are ectopic and the rest are failing intrauterine pregnancies."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-22", "page": 438, "fmt": "fillup",
+    "sec": "Serum progesterone & medical management prerequisites",
+    "q": "Fill up: A single serum progesterone below ______ nmol/L suggests a non-viable pregnancy, while a value above ______ nmol/L makes ectopic pregnancy unlikely.",
+    "opts": ["20; 60", "5; 20", "60; 20", "35; 80"],
+    "ans": 0,
+    "exp": "Progesterone below 20 nmol/L marks a failing pregnancy and above 60 nmol/L makes a viable intrauterine pregnancy very likely."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-23", "page": 438, "fmt": "fillup",
+    "sec": "Methotrexate protocol",
+    "q": "Fill up: The single-dose methotrexate regimen for ectopic pregnancy is ______ mg per square metre intramuscularly, with beta-hCG measured on days ______.",
+    "opts": ["50; 4 and 7", "50; 1 and 2", "1; 4 and 7", "75; 14 and 21"],
+    "ans": 0,
+    "exp": "The standard is 50 mg per square metre intramuscularly with beta-hCG on days 4 and 7 to judge the response."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-24", "page": 439, "fmt": "truefalse",
+    "sec": "Methotrexate response & linear salpingostomy",
+    "q": "Which of the following statements about monitoring methotrexate treatment is TRUE?",
+    "opts": [
+      "A fall of 15 per cent or more in beta-hCG between days 4 and 7 predicts success; otherwise a second dose or surgery is considered",
+      "The beta-hCG must rise before it falls, so a rise on day 7 confirms that treatment is working",
+      "A single beta-hCG measurement at three weeks is sufficient follow-up",
+      "Surgery is mandatory whenever the beta-hCG has not halved by day 4"
+    ],
+    "ans": 0,
+    "exp": "The day 4 to day 7 fall is the decision point: a fall of at least 15 per cent is reassuring, a lesser fall prompts a second dose or surgery."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-25", "page": 439, "fmt": "oddoneout",
+    "sec": "Ectopic surgery & heterotopic pregnancy",
+    "q": "All of the following favour salpingectomy over salpingostomy EXCEPT:",
+    "opts": [
+      "A first ectopic in a young woman with a healthy contralateral tube who wants children",
+      "A badly damaged or ruptured fallopian tube",
+      "Bleeding at the tubal site that cannot be controlled conservatively",
+      "A recurrent ectopic pregnancy in the same tube"
+    ],
+    "ans": 0,
+    "exp": "Salpingostomy is preferred when future fertility matters and the tube is salvageable; damage, bleeding or recurrence favour salpingectomy."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-26", "page": 440, "fmt": "match",
+    "sec": "Cornual vs angular & cervical ectopic",
+    "q": "Match the rare ectopic with its description — 1) Cornual or interstitial pregnancy 2) Angular pregnancy 3) Cervical ectopic pregnancy … A) Implantation in the lateral angle of the cavity medial to the round ligament, which may reach term B) Implantation in the interstitial tube surrounded by myometrium, with late catastrophic rupture C) Implantation in the endocervix giving a barrel-shaped cervix and painless brisk bleeding",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-B, 3-A", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Cornual pregnancy is surrounded by myometrium and ruptures late, angular pregnancy sits in the cavity angle, and cervical pregnancy bleeds painlessly."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-27", "page": 441, "fmt": "fillup",
+    "sec": "Ovarian ectopic & Spiegelberg criteria",
+    "q": "Fill up: Spiegelberg criteria for ovarian pregnancy require the gestational sac to lie within the ovary and the ______ on that side to be intact.",
+    "opts": ["fallopian tube", "round ligament", "ovarian ligament", "uterine artery"],
+    "ans": 0,
+    "exp": "An intact ipsilateral tube separates a primary ovarian pregnancy from a tubal pregnancy that has secondarily involved the ovary."
+  },
+  {
+    "op": "add", "unit": "OBG-U10-28", "page": 441, "fmt": "scenario",
+    "sec": "Molar pregnancy presentation & complications",
+    "q": "A 22-year-old at 14 weeks has vaginal bleeding and passage of grape-like vesicles. The uterus is larger than dates, no fetal parts are felt and the beta-hCG is 500,000 mIU/mL. What is the most likely diagnosis?",
+    "opts": [
+      "Complete hydatidiform mole",
+      "Partial hydatidiform mole",
+      "Missed abortion with a blighted ovum",
+      "Choriocarcinoma following a previous pregnancy"
+    ],
+    "ans": 0,
+    "exp": "A very high beta-hCG, a uterus larger than dates, absent fetal parts and classic vesicles point to a complete mole rather than a partial mole."
+  }
+]
