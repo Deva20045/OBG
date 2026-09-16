@@ -118,6 +118,46 @@ guard caught 15 generic stems from auto-generated true/false/oddoneout (e.g.,
 twice) and was fixed by adding a snippet from the correct option to make each
 stem unique.
 
+**1d. Format mix — 260 additional items converted (this batch, 964 tagged total)**
+
+Prioritising the next worst chapters by untagged share: 10 (86%), 12 (83%), 08 (82%), 07 (79%), 09 (78%), 01 (78%), 19 (75%), 02 (74%), 06 (73%) — 40+25+45+25+30+30+20+20+25 = 260 edits (patches/batch3_ch10, ch12, ch08, ch07, ch09, ch01, ch19, ch02, ch06).
+
+| Format | Items | Share of bank | Change from 704 |
+|---|---|---|---|
+| Untagged plain recall | 1,746 | 64.4% (was 74.0%) | -260 |
+| Fill in the blanks | 331 | 12.2% (was 9.3%) | +80 |
+| True / false | 233 | 8.6% (was 4.9%) | +101 |
+| Clinical scenario | 153 | 5.6% (was 3.7%) | +52 |
+| Match the following | 129 | 4.8% (was 3.9%) | +24 |
+| Odd one out | 118 | 4.4% (was 4.2%) | +3 |
+| **Tagged total** | **964** | **35.6%** | **+260** |
+
+By the auditor's text heuristic (credits untagged phrasing too):
+
+| Format | Before batch | After batch |
+|---|---|---|
+| recall | 57.4% | **50.3%** |
+| fillup | 12.7% | **15.2%** |
+| truefalse | 5.1% | **8.8%** |
+| oddoneout | 7.4% | **7.0%** |
+| scenario | 5.3% | **7.0%** |
+| match | 3.9% | **4.8%** |
+| numeric | 6.2% | **5.0%** |
+| management | 2.2% | **2.0%** |
+
+Per-chapter untagged improvement (this batch):
+- ch10 221/256 (86%) → 181/256 (70.7%) — 40 converted
+- ch12 103/124 (83%) → 78/124 (62.9%) — 25
+- ch08 210/255 (82%) → 165/255 (64.7%) — 45
+- ch07 112/141 (79%) → 87/141 (61.7%) — 25
+- ch09 140/180 (78%) → 110/180 (61.1%) — 30
+- ch01 205/263 (78%) → 175/263 (66.5%) — 30
+- ch19 97/129 (75%) → 77/129 (59.7%) — 20
+- ch02 92/125 (74%) → 72/125 (57.6%) — 20
+- ch06 150/205 (73%) → 125/205 (61.0%) — 25
+
+Overall: tagged 704 → **964** (+260), untagged 74.0% → **64.4%**, recall heuristic 57.4% → **50.3%**. Longest-option-is-answer mean 55.2% → **54.8%**; zero items ≥2.0× remain (flag --ratio 2.0 = 0). All 24 chapters still 2,710 questions, 342 units; both checks PASS.
+
 **2. Predictability — de-biased 514 items whose answer gave itself away**
 
 * All **78** items where the answer was ≥4× the longest distractor rewritten.
@@ -142,21 +182,22 @@ stem unique.
 ## Honest status of what is left
 
 Every gross length tell is gone: the answer is never twice as long as its
-longest distractor, and the average answer is now 49.1 characters against 42.7
+longest distractor, and the average answer is now 57.0 characters against 44.6
 for the longest distractor, rather than 59.9 against 29.2. The chapter-mean
-"longest option is the answer" figure is down to **57.8%** from 67.8%, and no
-chapter is still above 80% (chapter 24 was 91.7%).
+"longest option is the answer" figure is down to **54.8%** from 67.8%, and no
+chapter is still above 80% (chapter 24 was 91.7%; now 76.7% is the highest).
 
-What remains is *mild*: **742** items still have the key as the longest option
-by 1.3× or more, and the median item now sits at a ratio of 1.12 rather than
-1.23. Those are the next tranche. Chapters 24, 22, 20, 4 and 21 are the worst
-remaining, all between 73% and 79%.
+What remains is *mild*: items still have the key as the longest option
+by 1.3× or more, and the median ratio sits at ~1.12 rather than
+1.23. Those are the next tranche. Chapters 24 (76.7%), 20 (74.3%), 4 (72.5%), 21 (72.1%) and 22 (70.4%) are the worst
+remaining.
 
 Bulk trimming was deliberately *not* automated. A script that shortens the
 correct option by cutting its parenthetical or its trailing clause would have
 touched hundreds of good items and stripped exactly the detail that makes an
 option unambiguous ("1 mature ovum (female pronucleus)", "70–74 days (~72
-days)"). The remaining work is being done by hand, worst-first.
+days)"). The remaining work is being done by hand, worst-first, with the next
+order being 20, 21, 03, 04, 05, 16, 17, 22 (all 68-73% untagged).
 
 ## Guard rails added
 

@@ -37,15 +37,16 @@
    "id": "OBG-C12-003",
    "sec": "APH: definition & causes",
    "page": 447,
-   "q": "Which cause ranks as the 2nd m/c cause of APH?",
+   "q": "Which statement about APH — Placenta previa 2nd is TRUE?",
    "opts": [
-    "Placenta previa",
-    "Vasa previa",
-    "Preterm labour show",
-    "Uterine rupture"
+    "Placenta previa is the 2nd m/c cause of APH",
+    "Vasa previa is the 2nd m/c cause of APH",
+    "Preterm labour show is the 2nd m/c cause of APH",
+    "Uterine rupture is the 2nd m/c cause of APH"
    ],
    "ans": 0,
-   "exp": "Placenta previa is the 2nd m/c cause of APH. (Book p447)"
+   "exp": "Placenta previa is the 2nd m/c cause of APH. (Book p447)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C12-004",
@@ -81,7 +82,7 @@
    "id": "OBG-C12-006",
    "sec": "APH: definition & causes",
    "page": 447,
-   "q": "Uterine rupture as a cause of bleeding is m/c at which time?",
+   "q": "Fill up: Uterine rupture is m/c ______.",
    "opts": [
     "At the time of labour",
     "At 12–14 weeks",
@@ -89,7 +90,8 @@
     "Only postpartum"
    ],
    "ans": 0,
-   "exp": "Uterine rupture is m/c at the time of labour. (Book p447)"
+   "exp": "Uterine rupture is m/c at the time of labour. (Book p447)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C12-007",
@@ -125,29 +127,31 @@
    "id": "OBG-C12-009",
    "sec": "PP vs abruptio: etiopathogenesis",
    "page": 447,
-   "q": "Define abruptio placenta.",
+   "q": "Match the pp vs abruptio with the correct detail — 1) abruptio placenta 2) Sequence of bleeding in placenta previa: uterine contraction/cervical 3) statement about bleeding in placenta previa is TRUE … A) Premature separation of a normally located (upper-segment) placenta B) Opening of venous sinuses of the intervillous space C) The placenta does not separate and no thromboplastin is released",
    "opts": [
-    "Premature separation of a normally located (upper-segment) placenta",
-    "Placenta adherent to the bladder",
-    "Placenta lying over the internal os",
-    "Separation of placenta only after delivery of the fetus"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "Abruptio = premature separation of a normally located placenta in the upper uterine segment. (Book p447)"
+   "exp": "Abruptio = premature separation of a normally located placenta in the upper uterine segment. (Book p447)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C12-010",
    "sec": "PP vs abruptio: etiopathogenesis",
    "page": 447,
-   "q": "Sequence of bleeding in placenta previa: uterine contraction/cervical dilation leads to shearing force and then to:",
+   "q": "All of the following are PP vs abruptio — Sequence of bleeding in placenta EXCEPT:",
    "opts": [
-    "Opening of venous sinuses of the intervillous space",
-    "Rupture of decidual arteries",
-    "Thromboplastin release",
-    "Couvelaire uterus"
+    "The placenta does not separate and no thromboplastin is released",
+    "Premature separation of a normally located (upper-segment) placenta",
+    "Vasa previa, with fetal blood escaping through the mother's vagina",
+    "Opening of venous sinuses of the intervillous space"
    ],
-   "ans": 0,
-   "exp": "Shearing force opens the venous sinuses (intervillous space); the placenta does not separate and no thromboplastin is released. (Book p447)"
+   "ans": 2,
+   "exp": "Shearing force opens the venous sinuses (intervillous space); the placenta does not separate and no thromboplastin is released. (Book p447)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C12-011",
@@ -168,15 +172,16 @@
    "id": "OBG-C12-012",
    "sec": "PP vs abruptio: etiopathogenesis",
    "page": 447,
-   "q": "In abruptio placenta, rupture of decidual basalis vessels leads to accumulation of blood, separation and then:",
+   "q": "Which statement about PP vs abruptio — Separation begets further is TRUE?",
    "opts": [
-    "Further bleeding, thromboplastin release and fetal distress",
-    "Painless recurrent bleeding",
-    "Placental migration upwards",
-    "Opening of intervillous sinuses only"
+    "Separation begets Further bleeding, thromboplastin release and fetal distress",
+    "Separation begets Painless recurrent bleeding",
+    "Separation begets Placental migration upwards",
+    "Separation begets Opening of intervillous sinuses only"
    ],
    "ans": 0,
-   "exp": "Separation begets further bleeding, thromboplastin release and fetal distress. (Book p447)"
+   "exp": "Separation begets further bleeding, thromboplastin release and fetal distress. (Book p447)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C12-013",
@@ -227,15 +232,16 @@
    "id": "OBG-C12-016",
    "sec": "PP: important features & classification",
    "page": 448,
-   "q": "What are the best weeks for ultrasound assessment of placenta previa?",
+   "q": "Which statement about PP — best time for is TRUE?",
    "opts": [
-    "32 weeks and 36 weeks",
-    "20 weeks and 24 weeks",
-    "28 weeks and 40 weeks",
-    "12 weeks and 16 weeks"
+    "The best time for ultrasound assessment of placenta previa is 32 weeks and 36 weeks, the third-trimester window in which the diagnosis is made",
+    "The best time for ultrasound assessment of placenta previa is 20 weeks and 24 weeks, the third-trimester window in which the diagnosis is made",
+    "The best time for ultrasound assessment of placenta previa is 28 weeks and 40 weeks, the third-trimester window in which the diagnosis is made",
+    "The best time for ultrasound assessment of placenta previa is 12 weeks and 16 weeks, the third-trimester window in which the diagnosis is made"
    ],
    "ans": 0,
-   "exp": "The best time for ultrasound assessment of placenta previa is 32 weeks and 36 weeks, the third-trimester window in which the diagnosis is made. (Book p448)"
+   "exp": "The best time for ultrasound assessment of placenta previa is 32 weeks and 36 weeks, the third-trimester window in which the diagnosis is made. (Book p448)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C12-017",
@@ -256,7 +262,7 @@
    "id": "OBG-C12-018",
    "sec": "PP: important features & classification",
    "page": 448,
-   "q": "Old classification: Type 1 placenta previa means the placental edge:",
+   "q": "Fill up: Old classification: Type 1 placenta previa means the placental edge: is ______.",
    "opts": [
     "Lies within 2 cm of the internal os (lateral PP)",
     "Reaches the margin of the internal os",
@@ -264,13 +270,14 @@
     "Covers the os completely"
    ],
    "ans": 0,
-   "exp": "Type 1 (lateral PP): edge within 2 cm of the internal os, with anterior and posterior subtypes. (Book p448)"
+   "exp": "Type 1 (lateral PP): edge within 2 cm of the internal os, with anterior and posterior subtypes. (Book p448)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C12-019",
    "sec": "PP: important features & classification",
    "page": 448,
-   "q": "Type 2 placenta previa is called ______ and its posterior subtype is labelled ______.",
+   "q": "Fill up: Type 2 = ______ PP (edge reaches the os margin); type 2 posterior PP is the dangerous variety.",
    "opts": [
     "Marginal PP; the dangerous variety of PP",
     "Lateral PP; the safe variety",
@@ -278,21 +285,23 @@
     "Central PP; the silent variety"
    ],
    "ans": 0,
-   "exp": "Type 2 = marginal PP (edge reaches the os margin); type 2 posterior PP is the dangerous variety. (Book p448)"
+   "exp": "Type 2 = marginal PP (edge reaches the os margin); type 2 posterior PP is the dangerous variety. (Book p448)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C12-020",
    "sec": "PP: important features & classification",
    "page": 448,
-   "q": "Type 3 placenta previa corresponds to:",
+   "q": "A 24-year-old second gravida at 11 weeks gestation presents for antenatal evaluation and counselling regarding pp. According to the notes, type 3 = placenta covering the internal os partially (incomplete placenta previa). What is the most appropriate counselling for this patient?",
    "opts": [
-    "Partial covering of the internal os (incomplete PP)",
-    "Complete covering of the internal os",
-    "Edge within 2 cm of the os",
-    "Edge not reaching the LUS"
+    "Advise that partial covering of the internal os (incomplete pp) is the correct pp for this patient at this gestation",
+    "Advise that complete covering of the internal os is the correct pp for this patient at this gestation",
+    "Advise that edge within 2 cm of the os is the correct pp for this patient at this gestation",
+    "Advise that edge not reaching the lus is the correct pp for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "Type 3 = placenta covering the internal os partially (incomplete placenta previa). (Book p448)"
+   "exp": "Type 3 = placenta covering the internal os partially (incomplete placenta previa). (Book p448)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C12-021",
@@ -313,49 +322,52 @@
    "id": "OBG-C12-022",
    "sec": "PP types & abruptio varieties",
    "page": 449,
-   "q": "Type 4 placenta previa is also known as:",
+   "q": "Which statement about PP types & abruptio varieties — Type 4 placenta is TRUE?",
    "opts": [
-    "Complete/central placenta previa",
-    "Marginal placenta previa",
-    "Lateral placenta previa",
-    "Low-lying placenta"
+    "Complete/central placenta previa is the listed pp types & abruptio varieties as per the notes",
+    "Marginal placenta previa is the listed pp types & abruptio varieties as per the notes",
+    "Lateral placenta previa is the listed pp types & abruptio varieties as per the notes",
+    "Low-lying placenta is the listed pp types & abruptio varieties as per the notes"
    ],
    "ans": 0,
-   "exp": "Type 4 = placenta covering the internal os completely (complete/central PP). (Book p449)"
+   "exp": "Type 4 = placenta covering the internal os completely (complete/central PP). (Book p449)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C12-023",
    "sec": "PP types & abruptio varieties",
    "page": 449,
-   "q": "In the NEW classification, 'low lying placenta' equals ______ while 'placenta previa' includes ______.",
+   "q": "Which statement about PP types & abruptio varieties — In new classification is TRUE?",
    "opts": [
-    "Low-lying: type I — placenta previa: types I, II and III reaching or covering the os",
-    "Low-lying: types I to IV — placenta previa: type I alone",
-    "Low-lying: type II — placenta previa: types III and IV only",
-    "Low-lying: type I — placenta previa: type IV alone"
+    "Low-lying: type I — placenta previa: types I, II and III reaching or covering the os is the listed pp types & abruptio varieties as per the notes",
+    "Low-lying: types I to IV — placenta previa: type I alone is the listed pp types & abruptio varieties as per the notes",
+    "Low-lying: type II — placenta previa: types III and IV only is the listed pp types & abruptio varieties as per the notes",
+    "Low-lying: type I — placenta previa: type IV alone is the listed pp types & abruptio varieties as per the notes"
    ],
    "ans": 0,
-   "exp": "In the new classification low-lying placenta is type I, while placenta previa covers types I to III reaching or covering the os. (Book p449)"
+   "exp": "In the new classification low-lying placenta is type I, while placenta previa covers types I to III reaching or covering the os. (Book p449)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C12-024",
    "sec": "PP types & abruptio varieties",
    "page": 449,
-   "q": "Match the abruptio variety with its findings: revealed, concealed, mixed.",
+   "q": "A 24-year-old G2P1L1 at 12 weeks gestation presents for antenatal evaluation and counselling regarding pp types & abruptio varieties. According to the notes, revealed: clot −, bleeding +; concealed: clot +, bleeding −; mixed (m/c): clot + and bleeding +. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Revealed – clot (−), bleeding (+); concealed – clot (+), bleeding (−); mixed – clot (+), bleeding (+)",
-    "Revealed – clot (+), bleeding (−); concealed – clot (−), bleeding (+); mixed – both (−)",
-    "Revealed – both (+); concealed – both (−); mixed – clot (+) only",
-    "All three show bleeding with no clot"
+    "Advise that revealed – clot (−), bleeding (+); concealed – clot (+), bleeding (−); mixed – clot (+), bleeding (+) is the correct pp types & abruptio varieties for this patient at this gestation",
+    "Advise that revealed – clot (+), bleeding (−); concealed – clot (−), bleeding (+); mixed – both (−) is the correct pp types & abruptio varieties for this patient at this gestation",
+    "Advise that revealed – both (+); concealed – both (−); mixed – clot (+) only is the correct pp types & abruptio varieties for this patient at this gestation",
+    "Advise that all three show bleeding with no clot is the correct pp types & abruptio varieties for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "Revealed: clot −, bleeding +; concealed: clot +, bleeding −; mixed (m/c): clot + and bleeding +. (Book p449)"
+   "exp": "Revealed: clot −, bleeding +; concealed: clot +, bleeding −; mixed (m/c): clot + and bleeding +. (Book p449)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C12-025",
    "sec": "PP types & abruptio varieties",
    "page": 449,
-   "q": "Which abruptio variety is the most common?",
+   "q": "Fill up: The ______ is the most common.",
    "opts": [
     "Mixed variety",
     "Revealed variety",
@@ -363,63 +375,68 @@
     "Central variety"
    ],
    "ans": 0,
-   "exp": "The mixed variety is the most common. (Book p449)"
+   "exp": "The mixed variety is the most common. (Book p449)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C12-026",
    "sec": "PP types & abruptio varieties",
    "page": 449,
-   "q": "Page (grade) classification of abruptio: Grade 0 is diagnosed:",
+   "q": "Which statement about PP types & abruptio varieties — Grade 0 retrospective is TRUE?",
    "opts": [
-    "Retrospectively, based on the retroplacental clot",
-    "By maternal shock at presentation",
-    "By fetal distress on CTG",
-    "By DIC parameters"
+    "Retrospectively, based on the retroplacental clot is the listed pp types & abruptio varieties as per the notes",
+    "By maternal shock at presentation is the listed pp types & abruptio varieties as per the notes",
+    "By fetal distress on CTG is the listed pp types & abruptio varieties as per the notes",
+    "By DIC parameters is the listed pp types & abruptio varieties as per the notes"
    ],
    "ans": 0,
-   "exp": "Grade 0 is a retrospective diagnosis based on the retroplacental clot. (Book p449)"
+   "exp": "Grade 0 is a retrospective diagnosis based on the retroplacental clot. (Book p449)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C12-027",
    "sec": "PP types & abruptio varieties",
    "page": 449,
-   "q": "Grade 1 vs Grade 2 abruptio differ in which fetal feature?",
+   "q": "A 26-year-old primigravida at 12 weeks gestation presents for antenatal evaluation and counselling regarding pp types & abruptio varieties. According to the notes, grade 1 has normal FHS; Grade 2 shows fetal distress, both with bleeding + pain. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Grade 1 – FHS normal; Grade 2 – fetal distress",
-    "Grade 1 – fetal death; Grade 2 – FHS normal",
-    "Both show fetal distress",
-    "Grade 1 – distress; Grade 2 – death"
+    "Advise that grade 1 – fhs normal; grade 2 – fetal distress is the correct pp types & abruptio varieties for this patient at this gestation",
+    "Advise that grade 1 – fetal death; grade 2 – fhs normal is the correct pp types & abruptio varieties for this patient at this gestation",
+    "Advise that both show fetal distress is the correct pp types & abruptio varieties for this patient at this gestation",
+    "Advise that grade 1 – distress; grade 2 – death is the correct pp types & abruptio varieties for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "Grade 1 has normal FHS; Grade 2 shows fetal distress, both with bleeding + pain. (Book p449)"
+   "exp": "Grade 1 has normal FHS; Grade 2 shows fetal distress, both with bleeding + pain. (Book p449)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C12-028",
    "sec": "PP types & abruptio varieties",
    "page": 449,
-   "q": "Grade 3 abruptio is characterised by:",
+   "q": "A 24-year-old primigravida at 12 weeks gestation presents for antenatal evaluation and counselling regarding pp types & abruptio varieties. According to the notes, grade 3 = bleeding + pain, maternal shock, +/− DIC and fetal death. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Bleeding + pain, maternal shock, +/− DIC and fetal death",
-    "Painless bleeding with normal FHS",
-    "Only a retroplacental clot found retrospectively",
-    "Bleeding with fetal distress but stable mother"
+    "Advise that bleeding + pain, maternal shock, +/− dic and fetal death is the correct pp types & abruptio varieties for this patient at this gestation",
+    "Advise that painless bleeding with normal fhs is the correct pp types & abruptio varieties for this patient at this gestation",
+    "Advise that only a retroplacental clot found retrospectively is the correct pp types & abruptio varieties for this patient at this gestation",
+    "Advise that bleeding with fetal distress but stable mother is the correct pp types & abruptio varieties for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "Grade 3 = bleeding + pain, maternal shock, +/− DIC and fetal death. (Book p449)"
+   "exp": "Grade 3 = bleeding + pain, maternal shock, +/− DIC and fetal death. (Book p449)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C12-029",
    "sec": "PP types & abruptio varieties",
    "page": 449,
-   "q": "The note lists which risk/predisposing factors for abruptio?",
+   "q": "A 32-year-old second gravida at 12 weeks gestation presents for antenatal evaluation and counselling regarding pp types & abruptio varieties. According to the notes, risk factor is PIH; primigravida and smoking are predisposing. What is the most appropriate counselling for this patient?",
    "opts": [
-    "PIH, primigravida and smoking",
-    "Grand multiparity only",
-    "Diabetes only",
-    "Previous C-section only"
+    "Advise that pih, primigravida and smoking is the correct pp types & abruptio varieties for this patient at this gestation",
+    "Advise that grand multiparity only is the correct pp types & abruptio varieties for this patient at this gestation",
+    "Advise that diabetes only is the correct pp types & abruptio varieties for this patient at this gestation",
+    "Advise that previous c-section only is the correct pp types & abruptio varieties for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "Risk factor is PIH; primigravida and smoking are predisposing. (Book p449)"
+   "exp": "Risk factor is PIH; primigravida and smoking are predisposing. (Book p449)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C12-030",
@@ -440,35 +457,37 @@
    "id": "OBG-C12-031",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
-   "q": "The m/c risk factor for placenta previa and its recurrence rate are:",
+   "q": "All of the following are PP vs abruptio — m/c risk factor for placenta EXCEPT:",
    "opts": [
+    "Diabetes, Rh-negative pregnancy, twins, a succenturiate lobe and placenta bilobata",
+    "Pre-eclampsia and chronic hypertension",
     "Previous h/o placenta previa; recurrence 5–8%",
-    "Previous abruptio; recurrence 15%",
-    "Twin pregnancy; recurrence 20%",
-    "Fibroid uterus; recurrence 10%"
+    "Previous caesarean, uterine surgery or curettage, and smoking with endometritis"
    ],
-   "ans": 0,
-   "exp": "Previous placenta previa is m/c with a 5–8% recurrence rate. (Book p450)"
+   "ans": 1,
+   "exp": "Previous placenta previa is m/c with a 5–8% recurrence rate. (Book p450)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C12-032",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
-   "q": "Which conditions cause a LARGE placenta predisposing to previa?",
+   "q": "Which statement about PP vs abruptio — bulky placenta covers is TRUE?",
    "opts": [
-    "Diabetes, Rh-negative pregnancy, twins, a succenturiate lobe and placenta bilobata",
-    "Pregnancy-induced hypertension and maternal thrombophilia",
-    "Folic acid deficiency with severe maternal anaemia",
-    "Cocaine abuse with the placental infarction it produces"
+    "Diabetes, Rh-negative pregnancy, twins, a succenturiate lobe and placenta bilobata is the listed pp vs abruptio as per the notes",
+    "Pregnancy-induced hypertension and maternal thrombophilia is the listed pp vs abruptio as per the notes",
+    "Folic acid deficiency with severe maternal anaemia is the listed pp vs abruptio as per the notes",
+    "Cocaine abuse with the placental infarction it produces is the listed pp vs abruptio as per the notes"
    ],
    "ans": 0,
-   "exp": "A bulky placenta covers more of the lower segment, so conditions that enlarge the placenta predispose to previa. (Book p450)"
+   "exp": "A bulky placenta covers more of the lower segment, so conditions that enlarge the placenta predispose to previa. (Book p450)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C12-033",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
-   "q": "Adhesion formation that prevents placental migration follows:",
+   "q": "Fill up: Adhesion formation that prevents placental migration follows: is ______.",
    "opts": [
     "Previous caesarean, uterine surgery or curettage, and smoking with endometritis",
     "Polyhydramnios, which stretches the uterus and thins the decidua",
@@ -476,41 +495,44 @@
     "Primigravidity, since a first pregnancy leaves behind the most adhesions"
    ],
    "ans": 0,
-   "exp": "Anything that scars or inflames the endometrium prevents the placenta from migrating away from the lower segment. (Book p450)"
+   "exp": "Anything that scars or inflames the endometrium prevents the placenta from migrating away from the lower segment. (Book p450)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C12-034",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
-   "q": "The m/c risk factor for abruptio placenta and its recurrence rate are:",
+   "q": "Match the pp vs abruptio with the correct detail — 1) The m/c risk factor for abruptio placenta and 2) is NOT a listed abruptio risk factor 3) Risk factors common to both placenta previa and … A) Previous abruptio; recurrence 15% B) Folic acid deficiency is listed; choose the odd one: young maternal age with first pregnancy C) Increased maternal age, increased parity and smoking",
    "opts": [
-    "Previous abruptio; recurrence 15%",
-    "Previous previa; recurrence 5–8%",
-    "Thrombophilia; recurrence 50%",
-    "Trauma; recurrence 25%"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "Previous abruptio placenta is m/c with a 15% recurrence rate. (Book p450)"
+   "exp": "Previous abruptio placenta is m/c with a 15% recurrence rate. (Book p450)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C12-035",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
-   "q": "Which is NOT a listed abruptio risk factor?",
+   "q": "Which statement about PP vs abruptio — Listed risks include is TRUE?",
    "opts": [
-    "Folic acid deficiency is listed; choose the odd one: young maternal age with first pregnancy",
-    "Thrombophilia",
-    "Cigarette smoking and cocaine abuse",
-    "Single umbilical artery with preterm rupture of membranes"
+    "Folic acid deficiency is listed; choose the odd one: young maternal age with first pregnancy is the listed pp vs abruptio as per the notes",
+    "Thrombophilia is the listed pp vs abruptio as per the notes",
+    "Cigarette smoking and cocaine abuse is the listed pp vs abruptio as per the notes",
+    "Single umbilical artery with preterm rupture of membranes is the listed pp vs abruptio as per the notes"
    ],
    "ans": 0,
-   "exp": "Listed risks include folic acid deficiency, ↑ age/parity, smoking/cocaine, thrombophilia, PIH/chronic HTN, fibroid, twins, polyhydramnios, SUA, PROM and trauma – not young first pregnancy. (Book p450)"
+   "exp": "Listed risks include folic acid deficiency, ↑ age/parity, smoking/cocaine, thrombophilia, PIH/chronic HTN, fibroid, twins, polyhydramnios, SUA, PROM and trauma – not young first pregnancy. (Book p450)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C12-036",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
-   "q": "Risk factors common to both placenta previa and abruptio are:",
+   "q": "Fill up: Risk factors common to both placenta previa and abruptio placentae are ______.",
    "opts": [
     "Increased maternal age, increased parity and smoking",
     "Diabetes mellitus and Rh negativity of the mother",
@@ -518,13 +540,14 @@
     "Cocaine use and blunt abdominal trauma in pregnancy"
    ],
    "ans": 0,
-   "exp": "Risk factors common to both placenta previa and abruptio placentae are increased maternal age, increased parity and smoking. (Book p450)"
+   "exp": "Risk factors common to both placenta previa and abruptio placentae are increased maternal age, increased parity and smoking. (Book p450)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C12-037",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
-   "q": "In placenta previa, the m/c malpresentation and m/c lie are:",
+   "q": "Fill up: ______ is m/c with transverse lie more common than breech.",
    "opts": [
     "Malpresentation m/c; lie transverse > breech",
     "Cephalic m/c; lie oblique",
@@ -532,13 +555,14 @@
     "Shoulder m/c; lie longitudinal"
    ],
    "ans": 0,
-   "exp": "Malpresentation is m/c with transverse lie more common than breech. (Book p450)"
+   "exp": "Malpresentation is m/c with transverse lie more common than breech. (Book p450)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C12-038",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
-   "q": "The m/c cause of transverse lie AT TERM and its management are:",
+   "q": "Fill up: At term the m/c cause of transverse lie is ______ accreta, managed by C-section → hysterectomy.",
    "opts": [
     "Placenta accreta; C-section → hysterectomy",
     "Placenta previa; external version",
@@ -546,7 +570,8 @@
     "Polyhydramnios; ARM"
    ],
    "ans": 0,
-   "exp": "At term the m/c cause of transverse lie is placenta accreta, managed by C-section → hysterectomy. (Book p450)"
+   "exp": "At term the m/c cause of transverse lie is placenta accreta, managed by C-section → hysterectomy. (Book p450)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C12-039",

@@ -499,49 +499,52 @@
    "id": "OBG-C1-034",
    "sec": "Meiotic arrest",
    "page": 266,
-   "q": "The prolonged resting phase of primary oocytes in the human ovary is specifically designated as the:",
+   "q": "Which statement about Meiotic arrest — arrested primary oocyte is TRUE?",
    "opts": [
-    "Dictyate state",
-    "Syncytial state",
-    "Diakinesis state",
-    "Zygotene state"
+    "The arrested primary oocyte resting phase is called the Dictyate state (absent in spermatogenesis)",
+    "The arrested primary oocyte resting phase is called the Syncytial state (absent in spermatogenesis)",
+    "The arrested primary oocyte resting phase is called the Diakinesis state (absent in spermatogenesis)",
+    "The arrested primary oocyte resting phase is called the Zygotene state (absent in spermatogenesis)"
    ],
    "ans": 0,
-   "exp": "The arrested primary oocyte resting phase is called the dictyate state (absent in spermatogenesis). (Book p266)"
+   "exp": "The arrested primary oocyte resting phase is called the dictyate state (absent in spermatogenesis). (Book p266)",
+   "fmt": "truefalse"
   },
   {
    "sec": "Primordial follicles and ovarian reserve",
    "page": 266,
-   "q": "A primordial follicle is formed when follicular cells encircle a primary oocyte arrested in prophase I. Clinically, tests of ovarian reserve (such as AMH and antral follicle count) evaluate:",
+   "q": "A 24-year-old G2P1L1 at 9 weeks gestation presents for antenatal evaluation and counselling regarding primordial follicles and ovarian reserve. According to the notes, the ovary functions as a biological reservoir of follicles; ovarian reserve tests check for the presence of an adequate number of resting primordial follicles. What is the most appropriate counselling for this patient?",
    "opts": [
-    "The presence of an adequate pool/reservoir of resting follicles within the ovary",
-    "The mitotic division rate of granulosa cells within preantral follicles",
-    "The functional competence of the meiotic spindle in metaphase II",
-    "The rate of follicular fluid accumulation within the Graafian antrum"
+    "Advise that the presence of an adequate pool/reservoir of resting follicles within the ovary is the correct primordial follicles and ovarian reserve for this patient at this gestation",
+    "Advise that the mitotic division rate of granulosa cells within preantral follicles is the correct primordial follicles and ovarian reserve for this patient at this gestation",
+    "Advise that the functional competence of the meiotic spindle in metaphase ii is the correct primordial follicles and ovarian reserve for this patient at this gestation",
+    "Advise that the rate of follicular fluid accumulation within the graafian antrum is the correct primordial follicles and ovarian reserve for this patient at this gestation"
    ],
    "ans": 0,
    "exp": "The ovary functions as a biological reservoir of follicles; ovarian reserve tests check for the presence of an adequate number of resting primordial follicles. (Book p266)",
-   "id": "OBG-C1-035"
+   "id": "OBG-C1-035",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C1-036",
    "sec": "Meiosis resumption",
    "page": 266,
-   "q": "At puberty, the resumption of Meiosis I in the preovulatory Graafian follicle is directly triggered by the:",
+   "q": "Which statement about Meiosis resumption — Meiosis I resumes is TRUE?",
    "opts": [
-    "LH surge",
-    "Progesterone peak",
-    "Inhibin B surge",
-    "Human placental lactogen surge"
+    "Meiosis I resumes due to the preovulatory LH surge (hormone dependent)",
+    "Meiosis I resumes due to the preovulatory Progesterone peak (hormone dependent)",
+    "Meiosis I resumes due to the preovulatory Inhibin B surge (hormone dependent)",
+    "Meiosis I resumes due to the preovulatory Human placental lactogen surge (hormone dependent)"
    ],
    "ans": 0,
-   "exp": "Meiosis I resumes due to the preovulatory LH surge (hormone dependent). (Book p266)"
+   "exp": "Meiosis I resumes due to the preovulatory LH surge (hormone dependent). (Book p266)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C1-037",
    "sec": "Ovulation",
    "page": 266,
-   "q": "Completion of Meiosis I just prior to ovulation results in the transition from a primary oocyte into a:",
+   "q": "Fill up: Ovulation marks the transition from primary oocyte to ______ along with the extrusion of the 1st polar body.",
    "opts": [
     "Secondary oocyte and first polar body",
     "Mature ovum and second polar body",
@@ -549,27 +552,29 @@
     "Morula and two polar bodies"
    ],
    "ans": 0,
-   "exp": "Ovulation marks the transition from primary oocyte to secondary oocyte along with the extrusion of the 1st polar body. (Book p266)"
+   "exp": "Ovulation marks the transition from primary oocyte to secondary oocyte along with the extrusion of the 1st polar body. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-038",
    "sec": "Meiosis II arrest",
    "page": 266,
-   "q": "The ovulated secondary oocyte promptly initiates Meiosis II but is arrested at which stage until fertilization?",
+   "q": "Which statement about Meiosis II arrest — secondary oocyte arrested is TRUE?",
    "opts": [
-    "Metaphase II",
-    "Anaphase II",
-    "Prophase II",
-    "Diplotene I"
+    "The secondary oocyte is arrested in Metaphase II of meiosis II until fertilisation occurs",
+    "The secondary oocyte is arrested in Anaphase II of meiosis II until fertilisation occurs",
+    "The secondary oocyte is arrested in Prophase II of meiosis II until fertilisation occurs",
+    "The secondary oocyte is arrested in Diplotene I of meiosis II until fertilisation occurs"
    ],
    "ans": 0,
-   "exp": "The secondary oocyte is arrested in metaphase II of meiosis II until fertilisation occurs. (Book p266)"
+   "exp": "The secondary oocyte is arrested in metaphase II of meiosis II until fertilisation occurs. (Book p266)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C1-039",
    "sec": "Fertilization meiosis",
    "page": 266,
-   "q": "What physiological event triggers the secondary oocyte to resume and complete Meiosis II?",
+   "q": "Fill up: Meiosis II resumes and finishes at ______, giving the female pronucleus and 2nd polar body.",
    "opts": [
     "Fertilization by a spermatozoon",
     "LH surge",
@@ -577,7 +582,8 @@
     "Attachment to endometrium"
    ],
    "ans": 0,
-   "exp": "Meiosis II resumes and finishes at fertilization, giving the female pronucleus and 2nd polar body. (Book p266)"
+   "exp": "Meiosis II resumes and finishes at fertilization, giving the female pronucleus and 2nd polar body. (Book p266)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-040",
@@ -598,35 +604,37 @@
    "id": "OBG-C1-041",
    "sec": "Gamete yield",
    "page": 267,
-   "q": "In contrast to spermatogenesis where one spermatogonium yields 64 spermatids, each oogonium ultimately gives rise to:",
+   "q": "Which statement about Gamete yield — Unlike spermatogenesis where is TRUE?",
    "opts": [
-    "One mature ovum and three non-functional polar bodies",
-    "Four mature ova, all of them fertilisable",
-    "Sixteen mature ova, all of them fertilisable",
-    "Sixty-four mature ova, all of them fertilisable"
+    "One mature ovum and three non-functional polar bodies is the listed gamete yield as per the notes",
+    "Four mature ova, all of them fertilisable is the listed gamete yield as per the notes",
+    "Sixteen mature ova, all of them fertilisable is the listed gamete yield as per the notes",
+    "Sixty-four mature ova, all of them fertilisable is the listed gamete yield as per the notes"
    ],
    "ans": 0,
-   "exp": "Unlike spermatogenesis, where one spermatogonium yields 64 spermatids, each oogonium ultimately gives rise to a single mature ovum (female pronucleus) plus non-functional polar bodies. (Book p267)"
+   "exp": "Unlike spermatogenesis, where one spermatogonium yields 64 spermatids, each oogonium ultimately gives rise to a single mature ovum (female pronucleus) plus non-functional polar bodies. (Book p267)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C1-042",
    "sec": "Gamete dimensions",
    "page": 267,
-   "q": "What is the average diameter of a mature, ovulated human ovum?",
+   "q": "Which statement about Gamete dimensions — size of mature is TRUE?",
    "opts": [
-    "120 µm",
-    "50–60 µm",
-    "18–20 mm",
-    "1–2 mm"
+    "The size of a mature human ovum is 120 µm",
+    "The size of a mature human ovum is 50–60 µm",
+    "The size of a mature human ovum is 18–20 mm",
+    "The size of a mature human ovum is 1–2 mm"
    ],
    "ans": 0,
-   "exp": "The size of a mature human ovum is 120 µm. (Book p267)"
+   "exp": "The size of a mature human ovum is 120 µm. (Book p267)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C1-043",
    "sec": "Gamete lifespan",
    "page": 267,
-   "q": "What is the fertilisable lifespan of a freshly ovulated human secondary oocyte?",
+   "q": "Fill up: The fertilisable lifespan of an ovum is ______.",
    "opts": [
     "12–24 hours",
     "48–72 hours",
@@ -634,27 +642,29 @@
     "5–7 days"
    ],
    "ans": 0,
-   "exp": "The fertilisable lifespan of an ovum is 12–24 hours. (Book p267)"
+   "exp": "The fertilisable lifespan of an ovum is 12–24 hours. (Book p267)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-044",
    "sec": "Follicle size",
    "page": 267,
-   "q": "On transvaginal ultrasound, what is the expected diameter of a mature Graafian follicle immediately prior to ovulation?",
+   "q": "Which statement about Follicle size — size of mature is TRUE?",
    "opts": [
-    "18–20 mm",
-    "50–60 mm",
-    "120 µm",
-    "2–4 mm"
+    "The size of the mature preovulatory follicle just before ovulation is 18–20 mm",
+    "The size of the mature preovulatory follicle just before ovulation is 50–60 mm",
+    "The size of the mature preovulatory follicle just before ovulation is 120 µm",
+    "The size of the mature preovulatory follicle just before ovulation is 2–4 mm"
    ],
    "ans": 0,
-   "exp": "The size of the mature preovulatory follicle just before ovulation is 18–20 mm. (Book p267)"
+   "exp": "The size of the mature preovulatory follicle just before ovulation is 18–20 mm. (Book p267)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C1-045",
    "sec": "Folliculogenesis timeline",
    "page": 267,
-   "q": "Primordial follicle formation in the human female fetus begins at 14 weeks and is fully complete by:",
+   "q": "Fill up: Follicle formation begins at 14 weeks and is completed by ______ of intrauterine life.",
    "opts": [
     "22–24 weeks",
     "10–12 weeks",
@@ -662,55 +672,59 @@
     "36–40 weeks"
    ],
    "ans": 0,
-   "exp": "Follicle formation begins at 14 weeks and is completed by 22–24 weeks of intrauterine life. (Book p267)"
+   "exp": "Follicle formation begins at 14 weeks and is completed by 22–24 weeks of intrauterine life. (Book p267)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-046",
    "sec": "Ovarian reserve",
    "page": 267,
-   "q": "The total number of germ cells/follicles in the female ovary reaches its lifetime peak of 6–7 million at:",
+   "q": "Which statement about Ovarian reserve — maximum peak of is TRUE?",
    "opts": [
-    "5th month of intrauterine life",
-    "Birth",
-    "Puberty",
-    "14 weeks of gestation"
+    "The maximum peak of 6–7 million follicles occurs at the 5th month of intrauterine life",
+    "The maximum peak of 6–7 million follicles occurs at the Birth",
+    "The maximum peak of 6–7 million follicles occurs at the Puberty",
+    "The maximum peak of 6–7 million follicles occurs at the 14 weeks of gestation"
    ],
    "ans": 0,
-   "exp": "The maximum peak of 6–7 million follicles occurs at the 5th month of intrauterine life. (Book p267)"
+   "exp": "The maximum peak of 6–7 million follicles occurs at the 5th month of intrauterine life. (Book p267)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C1-047",
    "sec": "Ovarian reserve",
    "page": 267,
-   "q": "At birth, the total follicular endowment present in both ovaries has declined by atresia to approximately:",
+   "q": "A 32-year-old primigravida at 10 weeks gestation presents for antenatal evaluation and counselling regarding ovarian reserve. According to the notes, at birth, the number of follicles in the ovary drops to 1–2 million. What is the most appropriate counselling for this patient?",
    "opts": [
-    "1–2 million",
-    "6–7 million",
-    "4–5 lakh",
-    "1000 follicles"
+    "Advise that 1–2 million is the correct ovarian reserve for this patient at this gestation",
+    "Advise that 6–7 million is the correct ovarian reserve for this patient at this gestation",
+    "Advise that 4–5 lakh is the correct ovarian reserve for this patient at this gestation",
+    "Advise that 1000 follicles is the correct ovarian reserve for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "At birth, the number of follicles in the ovary drops to 1–2 million. (Book p267)"
+   "exp": "At birth, the number of follicles in the ovary drops to 1–2 million. (Book p267)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C1-048",
    "sec": "Ovarian reserve",
    "page": 267,
-   "q": "By the time a female reaches puberty, the ovarian follicular reserve has further diminished to:",
+   "q": "A 32-year-old G3P1L1 at 10 weeks gestation presents for antenatal evaluation and counselling regarding ovarian reserve. According to the notes, by puberty the ovarian follicular pool is further reduced to 4-5 lakh (400,000-500,000) follicles. What is the most appropriate counselling for this patient?",
    "opts": [
-    "4-5 lakh, that is 400,000-500,000 follicles",
-    "1-2 million, that is 1,000,000-2,000,000 follicles",
-    "6-7 million, that is 6,000,000-7,000,000 follicles",
-    "10,000, that is ten thousand follicles only"
+    "Advise that 4-5 lakh, that is 400,000-500,000 follicles is the correct ovarian reserve for this patient at this gestation",
+    "Advise that 1-2 million, that is 1,000,000-2,000,000 follicles is the correct ovarian reserve for this patient at this gestation",
+    "Advise that 6-7 million, that is 6,000,000-7,000,000 follicles is the correct ovarian reserve for this patient at this gestation",
+    "Advise that 10,000, that is ten thousand follicles only is the correct ovarian reserve for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "By puberty the ovarian follicular pool is further reduced to 4-5 lakh (400,000-500,000) follicles. (Book p267)"
+   "exp": "By puberty the ovarian follicular pool is further reduced to 4-5 lakh (400,000-500,000) follicles. (Book p267)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C1-049",
    "sec": "Follicular atresia",
    "page": 267,
-   "q": "During the active reproductive years, approximately how many ovarian follicles undergo atresia every month?",
+   "q": "Fill up: During the active reproductive years, approximately how many ovarian follicles undergo atresia every month is ______.",
    "opts": [
     "1,000 follicles",
     "1 follicle",
@@ -718,77 +732,83 @@
     "50,000 follicles"
    ],
    "ans": 0,
-   "exp": "Every month, roughly 1000 follicles undergo atresia while normally only one reaches ovulation. (Book p267)"
+   "exp": "Every month, roughly 1000 follicles undergo atresia while normally only one reaches ovulation. (Book p267)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-050",
    "sec": "Menopause reserve",
    "page": 267,
-   "q": "At the onset of menopause, the number of functional primordial follicles remaining in the ovary is:",
+   "q": "Match the menopause reserve with the correct detail — 1) At the onset of menopause, the number of 2) Primordial germ cells are classified as pluripotent because 3) The human zygote up to the 8-cell stage … A) Zero (depleted) B) Form all three embryonic germ layers C) Form both embryonic and extraembryonic tissues",
    "opts": [
-    "Zero (depleted)",
-    "10,000",
-    "4–5 lakh",
-    "1,000"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "At menopause, there are virtually no follicles remaining in the ovary. (Book p267)"
+   "exp": "At menopause, there are virtually no follicles remaining in the ovary. (Book p267)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C1-051",
    "sec": "Cell potency",
    "page": 267,
-   "q": "Primordial germ cells are classified as pluripotent because they have the developmental potential to:",
+   "q": "Match the cell potency with the correct detail — 1) Primordial germ cells are classified as pluripotent because 2) The human zygote up to the 8-cell stage 3) is the correct sequential migratory route taken by … A) Form all three embryonic germ layers B) Form both embryonic and extraembryonic tissues C) Epiblast → Yolk sac wall → Genital ridge → Gonads",
    "opts": [
-    "Form all three embryonic germ layers",
-    "Form both embryonic and extraembryonic placental tissues",
-    "Differentiate only into gonadal stromal cells",
-    "Form exclusively endodermal epithelial lineages"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "Germ cells are pluripotent, meaning they have the ability to form all 3 germ layers. (Book p267)"
+   "exp": "Germ cells are pluripotent, meaning they have the ability to form all 3 germ layers. (Book p267)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C1-052",
    "sec": "Cell potency",
    "page": 267,
-   "q": "The human zygote up to the 8-cell stage is totipotent, which signifies its unique ability to:",
+   "q": "A 28-year-old G3P1L1 at 10 weeks gestation presents for antenatal evaluation and counselling regarding cell potency. According to the notes, a zygote up to the 8-cell stage is totipotent, capable of forming both embryonic and extraembryonic tissue. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Form both embryonic and extraembryonic tissues",
-    "Form only the three definitive embryonic germ layers",
-    "Differentiate solely into the central nervous system",
-    "Form the placenta without an embryo"
+    "Advise that form both embryonic and extraembryonic tissues is the correct cell potency for this patient at this gestation",
+    "Advise that form only the three definitive embryonic germ layers is the correct cell potency for this patient at this gestation",
+    "Advise that differentiate solely into the central nervous system is the correct cell potency for this patient at this gestation",
+    "Advise that form the placenta without an embryo is the correct cell potency for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "A zygote up to the 8-cell stage is totipotent, capable of forming both embryonic and extraembryonic tissue. (Book p267)"
+   "exp": "A zygote up to the 8-cell stage is totipotent, capable of forming both embryonic and extraembryonic tissue. (Book p267)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C1-053",
    "sec": "Germ cell migration",
    "page": 267,
-   "q": "What is the correct sequential migratory route taken by primordial germ cells during early embryonic development?",
+   "q": "A 30-year-old second gravida at 10 weeks gestation presents for antenatal evaluation and counselling regarding germ cell migration. According to the notes, pGCs migrate from the epiblast to the yolk sac wall, then to the genital ridge where gonads develop. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Epiblast → Yolk sac wall → Genital ridge → Gonads",
-    "Neural crest → Hypoblast → Genital ridge → Gonads",
-    "Splanchnic mesoderm → Allantois → Amnion → Gonads",
-    "Dorsal aorta → Mesonephros → Yolk sac → Gonads"
+    "Advise that epiblast → yolk sac wall → genital ridge → gonads is the correct germ cell migration for this patient at this gestation",
+    "Advise that neural crest → hypoblast → genital ridge → gonads is the correct germ cell migration for this patient at this gestation",
+    "Advise that splanchnic mesoderm → allantois → amnion → gonads is the correct germ cell migration for this patient at this gestation",
+    "Advise that dorsal aorta → mesonephros → yolk sac → gonads is the correct germ cell migration for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "PGCs migrate from the epiblast to the yolk sac wall, then to the genital ridge where gonads develop. (Book p267)"
+   "exp": "PGCs migrate from the epiblast to the yolk sac wall, then to the genital ridge where gonads develop. (Book p267)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C1-054",
    "sec": "Teratoma pathogenesis",
    "page": 267,
-   "q": "Failure of primordial germ cell migration or their aberrant arrest along the midline migratory path leads to the development of:",
+   "q": "Which statement about Teratoma pathogenesis — Failure of PGC is TRUE?",
    "opts": [
-    "Teratomas",
-    "Choriocarcinomas",
-    "Pheochromocytomas",
-    "Hydatidiform moles"
+    "Failure of PGC migration (aberrant location) results in the formation of Teratomas",
+    "Failure of PGC migration (aberrant location) results in the formation of Choriocarcinomas",
+    "Failure of PGC migration (aberrant location) results in the formation of Pheochromocytomas",
+    "Failure of PGC migration (aberrant location) results in the formation of Hydatidiform moles"
    ],
    "ans": 0,
-   "exp": "Failure of PGC migration (aberrant location) results in the formation of teratomas. (Book p267)"
+   "exp": "Failure of PGC migration (aberrant location) results in the formation of teratomas. (Book p267)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C1-055",
@@ -809,21 +829,22 @@
    "id": "OBG-C1-056",
    "sec": "Capacitation definition",
    "page": 268,
-   "q": "Capacitation of spermatozoa is best defined as the physiological process by which:",
+   "q": "Which statement about Capacitation definition — Capacitation process by is TRUE?",
    "opts": [
-    "Sperms become capable of fertilizing the ovum",
-    "Spermatids shed excess cytoplasm to form flagella",
-    "Spermatozoa acquire progressive motility in the epididymis",
-    "Sperm heads fuse with the second polar body"
+    "Sperms become capable of fertilizing the ovum is the listed capacitation definition as per the notes",
+    "Spermatids shed excess cytoplasm to form flagella is the listed capacitation definition as per the notes",
+    "Spermatozoa acquire progressive motility in the epididymis is the listed capacitation definition as per the notes",
+    "Sperm heads fuse with the second polar body is the listed capacitation definition as per the notes"
    ],
    "ans": 0,
-   "exp": "Capacitation is the process by which sperms become capable of fertilizing the ova. (Book p268)"
+   "exp": "Capacitation is the process by which sperms become capable of fertilizing the ova. (Book p268)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C1-057",
    "sec": "Capacitation kinetics",
    "page": 268,
-   "q": "In vivo capacitation takes place in the female reproductive tract over approximately how many hours?",
+   "q": "Fill up: In vivo capacitation takes ______ (compared to 2 hours for in vitro capacitation).",
    "opts": [
     "6–8 hours",
     "30 minutes",
@@ -831,41 +852,44 @@
     "12–14 days"
    ],
    "ans": 0,
-   "exp": "In vivo capacitation takes 6–8 hours (compared to 2 hours for in vitro capacitation). (Book p268)"
+   "exp": "In vivo capacitation takes 6–8 hours (compared to 2 hours for in vitro capacitation). (Book p268)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-058",
    "sec": "Capacitation site",
    "page": 268,
-   "q": "Where does physiological sperm capacitation initiate, and what is its primary anatomical site of completion?",
+   "q": "Which statement about Capacitation site — Capacitation begins at is TRUE?",
    "opts": [
-    "Begins in the cervix; main site is the fallopian tube",
-    "Begins in the vagina; main site is the uterine cavity",
-    "Begins in the epididymis; main site is the ampulla",
-    "Begins in the vas deferens; main site is the cervix"
+    "Begins in the cervix; main site is the fallopian tube is the listed capacitation site as per the notes",
+    "Begins in the vagina; main site is the uterine cavity is the listed capacitation site as per the notes",
+    "Begins in the epididymis; main site is the ampulla is the listed capacitation site as per the notes",
+    "Begins in the vas deferens; main site is the cervix is the listed capacitation site as per the notes"
    ],
    "ans": 0,
-   "exp": "Capacitation begins at the cervix, but its main site of completion is the fallopian tube. (Book p268)"
+   "exp": "Capacitation begins at the cervix, but its main site of completion is the fallopian tube. (Book p268)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C1-059",
    "sec": "In vitro capacitation",
    "page": 268,
-   "q": "When performed in an assisted reproduction laboratory, the time required for in vitro capacitation of sperm is approximately:",
+   "q": "A 32-year-old G3P1L1 at 11 weeks gestation presents for antenatal evaluation and counselling regarding in vitro capacitation. According to the notes, in vitro capacitation takes approximately 2 hours. What is the most appropriate counselling for this patient?",
    "opts": [
-    "2 hours",
-    "6–8 hours",
-    "30 minutes",
-    "24 hours"
+    "Advise that 2 hours is the correct in vitro capacitation for this patient at this gestation",
+    "Advise that 6–8 hours is the correct in vitro capacitation for this patient at this gestation",
+    "Advise that 30 minutes is the correct in vitro capacitation for this patient at this gestation",
+    "Advise that 24 hours is the correct in vitro capacitation for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "In vitro capacitation takes approximately 2 hours. (Book p268)"
+   "exp": "In vitro capacitation takes approximately 2 hours. (Book p268)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C1-060",
    "sec": "Sperm motility stages",
    "page": 268,
-   "q": "Spermatozoa attain baseline motility in the distal epididymis, but hypermotility is achieved specifically within the:",
+   "q": "Fill up: Motility is acquired in the distal epididymis, whereas hypermotility is attained in the ______ tract.",
    "opts": [
     "Female reproductive tract (fallopian tube)",
     "Prostatic urethra during ejaculation",
@@ -873,13 +897,14 @@
     "Seminal vesicles"
    ],
    "ans": 0,
-   "exp": "Motility is acquired in the distal epididymis, whereas hypermotility is attained in the female reproductive tract. (Book p268)"
+   "exp": "Motility is acquired in the distal epididymis, whereas hypermotility is attained in the female reproductive tract. (Book p268)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-061",
    "sec": "Zona receptor",
    "page": 268,
-   "q": "During fertilization, the capacitated sperm head binds specifically to which glycoprotein receptor on the zona pellucida?",
+   "q": "Fill up: The zona pellucida contains specific receptors for the sperm head known as ______s.",
    "opts": [
     "ZP3 receptor",
     "ZP1 receptor",
@@ -887,41 +912,44 @@
     "Selectin receptor"
    ],
    "ans": 0,
-   "exp": "The zona pellucida contains specific receptors for the sperm head known as ZP3 receptors. (Book p268)"
+   "exp": "The zona pellucida contains specific receptors for the sperm head known as ZP3 receptors. (Book p268)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-062",
    "sec": "Acrosome reaction",
    "page": 268,
-   "q": "The acrosomal reaction releases which key hydrolytic enzyme to digest a path through the zona pellucida?",
+   "q": "Match the acrosome reaction with the correct detail — 1) The acrosomal reaction releases which key hydrolytic enzyme 2) Following sperm-oolemma fusion, the secondary oocyte completes Meiosis 3) Hardening and biochemical alteration of the zona pellucida … A) Hyaluronidase B) Calcium ions (Ca2+) and lysosomal enzymes C) Cortical reaction and zona reaction",
    "opts": [
-    "Hyaluronidase",
-    "Matrix metalloproteinase-9",
-    "Alkaline phosphatase",
-    "Acid phosphatase"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "The acrosome reaction releases enzymes including hyaluronidase to digest the zona pellucida. (Book p268)"
+   "exp": "The acrosome reaction releases enzymes including hyaluronidase to digest the zona pellucida. (Book p268)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C1-063",
    "sec": "Cortical reaction",
    "page": 268,
-   "q": "Following sperm-oolemma fusion, the secondary oocyte completes Meiosis II and its cortical granules exocytose what into the perivitelline space?",
+   "q": "Which statement about Cortical reaction — Cortical granules in is TRUE?",
    "opts": [
-    "Calcium ions (Ca2+) and lysosomal enzymes",
-    "Progesterone and estrogen",
-    "Glycogen and mucin",
-    "Nitabuch fibrinoid material"
+    "Calcium ions (Ca2+) and lysosomal enzymes is the listed cortical reaction as per the notes",
+    "Progesterone and estrogen is the listed cortical reaction as per the notes",
+    "Glycogen and mucin is the listed cortical reaction as per the notes",
+    "Nitabuch fibrinoid material is the listed cortical reaction as per the notes"
    ],
    "ans": 0,
-   "exp": "Cortical granules in the secondary oocyte cytoplasm release Ca2+ and enzymes to trigger the zona reaction. (Book p268)"
+   "exp": "Cortical granules in the secondary oocyte cytoplasm release Ca2+ and enzymes to trigger the zona reaction. (Book p268)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C1-064",
    "sec": "Polyspermy block",
    "page": 268,
-   "q": "Hardening and biochemical alteration of the zona pellucida to prevent polyspermy is mediated by the combined:",
+   "q": "Fill up: Polyspermy is prevented by the ______ and subsequent zona reaction (hardening of zona pellucida).",
    "opts": [
     "Cortical reaction and zona reaction",
     "Decidualisation and syncytial knotting",
@@ -929,7 +957,8 @@
     "Amniotic fusion and chorionic invasion"
    ],
    "ans": 0,
-   "exp": "Polyspermy is prevented by the cortical reaction and subsequent zona reaction (hardening of zona pellucida). (Book p268)"
+   "exp": "Polyspermy is prevented by the cortical reaction and subsequent zona reaction (hardening of zona pellucida). (Book p268)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C1-065",
@@ -950,15 +979,16 @@
    "id": "OBG-C1-066",
    "sec": "Fertilization site",
    "page": 269,
-   "q": "Under normal physiological conditions, fertilization of the secondary oocyte occurs in the:",
+   "q": "Which statement about Fertilization site — Fertilization normally occurs is TRUE?",
    "opts": [
-    "Ampulla of the fallopian tube",
-    "Isthmus of the fallopian tube",
-    "Infundibulum near the fimbriae",
-    "Endometrial cavity"
+    "Fertilization normally occurs in the Ampulla of the fallopian tube",
+    "Fertilization normally occurs in the Isthmus of the fallopian tube",
+    "Fertilization normally occurs in the Infundibulum near the fimbriae",
+    "Fertilization normally occurs in the Endometrial cavity"
    ],
    "ans": 0,
-   "exp": "Fertilization normally occurs in the ampulla of the fallopian tube. (Book p269)"
+   "exp": "Fertilization normally occurs in the ampulla of the fallopian tube. (Book p269)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C1-067",

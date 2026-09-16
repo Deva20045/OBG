@@ -1,0 +1,327 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C6-035",
+    "q": "Which statement about GDM follow-up — source directs confirmation is TRUE?",
+    "opts": [
+      "Urine dipstick at 12 months is the listed gdm follow-up as per the notes",
+      "Fetal echocardiography at 6 weeks postpartum is the listed gdm follow-up as per the notes",
+      "A glucose test at 6 weeks postpartum is the listed gdm follow-up as per the notes",
+      "HbA1c on the day of delivery only is the listed gdm follow-up as per the notes"
+    ],
+    "ans": 2,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-036",
+    "q": "Which statement about Diabetes imaging — TIFFA done for is TRUE?",
+    "opts": [
+      "Only diet-controlled GDM at 10 weeks is the listed diabetes imaging as per the notes",
+      "Only pregestational diabetes after 34 weeks is the listed diabetes imaging as per the notes",
+      "Only women with fetal macrosomia in labor is the listed diabetes imaging as per the notes",
+      "All GDM and pregestational diabetes pregnancies at 18–20 weeks is the listed diabetes imaging as per the notes"
+    ],
+    "ans": 3,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-037",
+    "q": "Which statement about Diabetes management — 2 hour PP is TRUE?",
+    "opts": [
+      "Give 8 units of insulin is the listed diabetes management as per the notes",
+      "Start aspirin only is the listed diabetes management as per the notes",
+      "Repeat the test after six weeks is the listed diabetes management as per the notes",
+      "Give oral calcium only is the listed diabetes management as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-039",
+    "q": "Fill up: A fasting blood sugar of 126 mg/dL or gre______er meets the listed criterion.",
+    "opts": [
+      "At least 126 mg/dL",
+      "At least 95 mg/dL",
+      "At least 110 mg/dL",
+      "At least 70 mg/dL"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-040",
+    "q": "Which statement about Pregestational diabetes — 2 hour PPBS is TRUE?",
+    "opts": [
+      "At least 180 mg/dL is the listed pregestational diabetes as per the notes",
+      "At least 200 mg/dL is the listed pregestational diabetes as per the notes",
+      "At least 120 mg/dL is the listed pregestational diabetes as per the notes",
+      "At least 140 mg/dL is the listed pregestational diabetes as per the notes"
+    ],
+    "ans": 1,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-041",
+    "q": "Fill up: A random blood sugar of 200 mg/dL or gre______er is one of the clinical criteria.",
+    "opts": [
+      "At least 140 mg/dL",
+      "At least 160 mg/dL",
+      "At least 200 mg/dL",
+      "At least 95 mg/dL"
+    ],
+    "ans": 2,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-042",
+    "q": "Fill up: HbA1c of ______ is a listed criterion for pregestational diabetes.",
+    "opts": [
+      "At least 5.0%",
+      "At least 7.5% only",
+      "At least 10% only",
+      "At least 6.5%"
+    ],
+    "ans": 3,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-043",
+    "q": "Which statement about HbA1c and anomalies — stated HbA1c band is TRUE?",
+    "opts": [
+      "No risk is the listed hba1c and anomalies as per the notes",
+      "About 3% risk is the listed hba1c and anomalies as per the notes",
+      "About 15–20% risk is the listed hba1c and anomalies as per the notes",
+      "A certain 50% risk is the listed hba1c and anomalies as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-044",
+    "q": "A 24-year-old primigravida at 11 weeks gestation presents for antenatal evaluation and counselling regarding hba1c and anomalies. According to the notes, the notes assign a 15–20% GCA risk to HbA1c of at least 10%. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that less than 0.5% is the correct hba1c and anomalies for this patient at this gestation",
+      "Advise that 15–20% is the correct hba1c and anomalies for this patient at this gestation",
+      "Advise that no risk is the correct hba1c and anomalies for this patient at this gestation",
+      "Advise that 1–3% is the correct hba1c and anomalies for this patient at this gestation"
+    ],
+    "ans": 1,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-045",
+    "q": "Which statement about HbA1c and anomalies — stated therapeutic goal is TRUE?",
+    "opts": [
+      "The stated therapeutic goal is HbA1c Exactly 6.5%",
+      "The stated therapeutic goal is HbA1c Below 10%",
+      "The stated therapeutic goal is HbA1c Below 6%",
+      "The stated therapeutic goal is HbA1c Below 8%"
+    ],
+    "ans": 2,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-047",
+    "q": "A 32-year-old G3P1L1 at 11 weeks gestation presents for antenatal evaluation and counselling regarding diabetes imaging. According to the notes, tIFFA is listed as the diagnostic tool for fetal congenital anomalies. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that level i ultrasound alone is the correct diabetes imaging for this patient at this gestation",
+      "Advise that karyotyping is the correct diabetes imaging for this patient at this gestation",
+      "Advise that a nonstress test is the correct diabetes imaging for this patient at this gestation",
+      "Advise that tiffa is the correct diabetes imaging for this patient at this gestation"
+    ],
+    "ans": 3,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-048",
+    "q": "Fill up: Routine karyotyping is not used for diabetic congenital-anomaly assessment because ______ is gross congenital anomalies, whereas karyotyping detects chromosomal abnormalities.",
+    "opts": [
+      "The concern is gross anomalies, whereas karyotyping detects chromosomal abnormalities",
+      "Karyotyping detects maternal diabetes and no other fetal condition",
+      "Karyotyping cannot technically be performed at all during pregnancy",
+      "Karyotyping is the definitive diagnostic test for a fetal VSD"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-049",
+    "q": "A 26-year-old G2P1L1 at 11 weeks gestation presents for antenatal evaluation and counselling regarding congenital anomalies. According to the notes, the cardiovascular system is the most commonly involved system, ahead of the CNS. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that gastrointestinal system only is the correct congenital anomalies for this patient at this gestation",
+      "Advise that cardiovascular system, more than cns is the correct congenital anomalies for this patient at this gestation",
+      "Advise that renal system, more than cardiovascular is the correct congenital anomalies for this patient at this gestation",
+      "Advise that musculoskeletal system only is the correct congenital anomalies for this patient at this gestation"
+    ],
+    "ans": 1,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-050",
+    "q": "Fill up: Is the most common congenital malformation in pregestational diabetes is ______.",
+    "opts": [
+      "Transposition of the great arteries",
+      "Coarctation of the aorta",
+      "Ventricular septal defect (VSD)",
+      "Neural tube defect"
+    ],
+    "ans": 2,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-051",
+    "q": "A 28-year-old G2P1L1 at 11 weeks gestation presents for antenatal evaluation and counselling regarding congenital anomalies. According to the notes, transposition of the great arteries is the most specific cardiac anomaly. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that ventricular septal defect is the correct congenital anomalies for this patient at this gestation",
+      "Advise that tetralogy of fallot is the correct congenital anomalies for this patient at this gestation",
+      "Advise that patent ductus arteriosus is the correct congenital anomalies for this patient at this gestation",
+      "Advise that transposition of the great arteries is the correct congenital anomalies for this patient at this gestation"
+    ],
+    "ans": 3,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-052",
+    "q": "Which statement about Congenital anomalies — Hypertrophic obstructive cardiomyopathy is TRUE?",
+    "opts": [
+      "Hypertrophic obstructive cardiomyopathy is listed as the most common cardiac finding",
+      "Complete heart block is listed as the most common cardiac finding",
+      "Atrial myxoma is listed as the most common cardiac finding",
+      "Mitral valve prolapse is listed as the most common cardiac finding"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-053",
+    "q": "Which statement about Preconception prevention — To reduce gross is TRUE?",
+    "opts": [
+      "To reduce gross congenital anomalies in pregestational diabetes, Wait until fetal movements begin before acting",
+      "To reduce gross congenital anomalies in pregestational diabetes, Switch to insulin before conception or once pregnancy is confirmed",
+      "To reduce gross congenital anomalies in pregestational diabetes, Stop all glucose monitoring before conception",
+      "To reduce gross congenital anomalies in pregestational diabetes, Start radioactive iodine ablation of the thyroid"
+    ],
+    "ans": 1,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-054",
+    "q": "A 24-year-old G2P1L1 at 11 weeks gestation presents for antenatal evaluation and counselling regarding preconception prevention. According to the notes, for prevention of diabetic congenital anomalies the listed schedule is 400 micrograms of folic acid daily, from 1 month before conception through 3 months after conception. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that 400 micrograms daily started at 20 weeks and continued until delivery is the correct preconception prevention for this patient at this gestation",
+      "Advise that no folic acid is advised, since diet alone supplies enough in diabetic pregnancy is the correct preconception prevention for this patient at this gestation",
+      "Advise that 400 micrograms daily from 1 month before conception to 3 months after is the correct preconception prevention for this patient at this gestation",
+      "Advise that 5 mg daily given only during labour and the immediate postpartum period is the correct preconception prevention for this patient at this gestation"
+    ],
+    "ans": 2,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-056",
+    "q": "Which statement about Pre-GDM complications — Pre GDM associated is TRUE?",
+    "opts": [
+      "Persistent maternal hypoglycemia only is the listed pre-gdm complications as per the notes",
+      "Decreased insulin resistance throughout pregnancy is the listed pre-gdm complications as per the notes",
+      "Pregnancy-induced hypertension is the listed pre-gdm complications as per the notes",
+      "Complete protection from infection is the listed pre-gdm complications as per the notes"
+    ],
+    "ans": 2,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-057",
+    "q": "Match the pre-gdm complications with the correct detail — 1) infection is specifically highlighted as an increased risk 2) happens to insulin resistance in pregestational diabetes across 3) of the following statements about antenatal surveillance in … A) Asymptomatic bacteriuria B) It remains increased throughout pregnancy C) Serial growth scans and antepartum testing from 32-34 weeks are standard when control is poor or vasculopathy is present",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-A, 2-C, 3-B",
+      "1-B, 2-A, 3-C",
+      "1-C, 2-B, 3-A"
+    ],
+    "ans": 0,
+    "fmt": "match"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-058",
+    "q": "Match the pre-gdm complications with the correct detail — 1) happens to insulin resistance in pregestational diabetes across 2) of the following statements about antenatal surveillance in 3) is a listed increased-risk complication in pregestational diabetes … A) It remains increased throughout pregnancy B) Serial growth scans and antepartum testing from 32-34 weeks are standard when control is poor or vasculopathy is present C) Pregnancy-induced hypertension",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-A, 2-C, 3-B",
+      "1-B, 2-A, 3-C",
+      "1-C, 2-B, 3-A"
+    ],
+    "ans": 0,
+    "fmt": "match"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-059",
+    "q": "Fill up: Each antenatal visit includes ______ screening for proteinuria.",
+    "opts": [
+      "Urine culture is never considered",
+      "Urine dipstick for proteinuria",
+      "Urine ketones only once",
+      "Urine pregnancy test"
+    ],
+    "ans": 1,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-060",
+    "q": "Which statement about Antenatal surveillance — Second trimester blood is TRUE?",
+    "opts": [
+      "Second-trimester blood-glucose monitoring is Every 6 weeks",
+      "Second-trimester blood-glucose monitoring is Only at delivery",
+      "Second-trimester blood-glucose monitoring is Every 2 weeks",
+      "Second-trimester blood-glucose monitoring is Daily"
+    ],
+    "ans": 2,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-061",
+    "q": "Fill up: Third-trimester glucose monitoring is ______.",
+    "opts": [
+      "Every 2 weeks",
+      "Monthly only",
+      "Never after 32 weeks",
+      "Weekly"
+    ],
+    "ans": 3,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C6-062",
+    "q": "Fill up: Fundal examination is used ______.",
+    "opts": [
+      "To rule out diabetic retinopathy",
+      "To diagnose placenta previa",
+      "To measure cervical length",
+      "To diagnose fetal anemia"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  }
+]
