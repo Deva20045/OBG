@@ -709,21 +709,22 @@
    "id": "OBG-C9-021",
    "sec": "Recurrent abortion",
    "page": 419,
-   "q": "What ASRM definition of recurrent pregnancy loss is stated?",
+   "q": "Which statement about Recurrent abortion — ASRM defines recurrent is TRUE?",
    "opts": [
-    "At least 2 confirmed pregnancy losses",
-    "At least 3 consecutive unconfirmed losses",
-    "At least 4 losses after 20 weeks",
-    "One biochemical pregnancy"
+    "ASRM defines recurrent loss as At least 2 confirmed pregnancy losses",
+    "ASRM defines recurrent loss as At least 3 consecutive unconfirmed losses",
+    "ASRM defines recurrent loss as At least 4 losses after 20 weeks",
+    "ASRM defines recurrent loss as One biochemical pregnancy"
    ],
    "ans": 0,
-   "exp": "ASRM defines recurrent loss as at least 2 confirmed pregnancy losses. (Book p419)"
+   "exp": "ASRM defines recurrent loss as at least 2 confirmed pregnancy losses. (Book p419)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-022",
    "sec": "Recurrent abortion",
    "page": 419,
-   "q": "How can pregnancy loss be confirmed for the ASRM recurrent-loss definition?",
+   "q": "Fill up: Can pregnancy loss be confirmed for the ASRM recurrent-loss definition is ______.",
    "opts": [
     "Fetal movement count",
     "Histopathology or ultrasound",
@@ -731,27 +732,29 @@
     "Maternal symptoms only"
    ],
    "ans": 1,
-   "exp": "Confirmation is by histopathological examination or USG. (Book p419)"
+   "exp": "Confirmation is by histopathological examination or USG. (Book p419)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-023",
    "sec": "Recurrent abortion causes",
    "page": 419,
-   "q": "What is the most common group of causes of recurrent abortion?",
+   "q": "Match the recurrent abortion causes with the correct detail — 1) is the most common group of causes of 2) is the most common individual cause of recurrent 3) Fill up: Recurrent abortion is defined as at … A) Endocrine causes B) APLA syndrome C) 3; 20",
    "opts": [
-    "Infections",
-    "Thrombophilia testing abnormalities",
-    "Endocrine causes",
-    "Uterine causes"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
-   "ans": 2,
-   "exp": "Endocrine causes are the most common group, ahead of uterine causes. (Book p419)"
+   "ans": 0,
+   "exp": "Endocrine causes are the most common group, ahead of uterine causes. (Book p419)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C9-024",
    "sec": "Recurrent abortion causes",
    "page": 419,
-   "q": "What is the most common individual cause of recurrent abortion?",
+   "q": "Fill up: ______ is the most common individual cause.",
    "opts": [
     "Cervical incompetence",
     "Hypothyroidism",
@@ -759,7 +762,8 @@
     "APLA syndrome"
    ],
    "ans": 3,
-   "exp": "APLA syndrome is the most common individual cause. (Book p419)"
+   "exp": "APLA syndrome is the most common individual cause. (Book p419)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-025",
@@ -780,21 +784,22 @@
    "id": "OBG-C9-026",
    "sec": "Endocrine causes",
    "page": 419,
-   "q": "What is the most common endocrine cause of recurrent abortion?",
+   "q": "A 32-year-old G2P1L1 at 12 weeks gestation presents for antenatal evaluation and counselling regarding endocrine causes. According to the notes, hypothyroidism is the most common endocrine cause. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Hypothyroidism",
-    "PCOS",
-    "Hyperprolactinemia",
-    "Uncontrolled diabetes"
+    "Advise that hypothyroidism is the correct endocrine causes for this patient at this gestation",
+    "Advise that pcos is the correct endocrine causes for this patient at this gestation",
+    "Advise that hyperprolactinemia is the correct endocrine causes for this patient at this gestation",
+    "Advise that uncontrolled diabetes is the correct endocrine causes for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "Hypothyroidism is the most common endocrine cause. (Book p419)"
+   "exp": "Hypothyroidism is the most common endocrine cause. (Book p419)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C9-027",
    "sec": "Endocrine causes",
    "page": 419,
-   "q": "Which endocrine conditions are listed among recurrent-abortion causes?",
+   "q": "Fill up: ______ PCOS, and increased prolactin are listed endocrine causes.",
    "opts": [
     "Only growth hormone deficiency",
     "Uncontrolled diabetes, PCOS, and raised prolactin",
@@ -802,27 +807,29 @@
     "Only low calcium"
    ],
    "ans": 1,
-   "exp": "Uncontrolled diabetes, PCOS, and increased prolactin are listed endocrine causes. (Book p419)"
+   "exp": "Uncontrolled diabetes, PCOS, and increased prolactin are listed endocrine causes. (Book p419)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-028",
    "sec": "Uterine causes",
    "page": 419,
-   "q": "What is the most common uterine cause of recurrent first-trimester abortion?",
+   "q": "A 32-year-old G3P1L1 at 12 weeks gestation presents for antenatal evaluation and counselling regarding uterine causes. According to the notes, septate uterus is the most common uterine cause of first-trimester abortion. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Cervical incompetence",
-    "Submucous fibroid",
-    "Septate uterus",
-    "Bicornuate uterus"
+    "Advise that cervical incompetence is the correct uterine causes for this patient at this gestation",
+    "Advise that submucous fibroid is the correct uterine causes for this patient at this gestation",
+    "Advise that septate uterus is the correct uterine causes for this patient at this gestation",
+    "Advise that bicornuate uterus is the correct uterine causes for this patient at this gestation"
    ],
    "ans": 2,
-   "exp": "Septate uterus is the most common uterine cause of first-trimester abortion. (Book p419)"
+   "exp": "Septate uterus is the most common uterine cause of first-trimester abortion. (Book p419)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C9-029",
    "sec": "Uterine causes",
    "page": 419,
-   "q": "Which congenital uterine anomaly is next in frequency after septate uterus in the source list?",
+   "q": "Fill up: The source ranks septate uterus above ______.",
    "opts": [
     "Unicornuate uterus",
     "Didelphys",
@@ -830,27 +837,29 @@
     "Bicornuate uterus"
    ],
    "ans": 3,
-   "exp": "The source ranks septate uterus above bicornuate uterus. (Book p419)"
+   "exp": "The source ranks septate uterus above bicornuate uterus. (Book p419)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-030",
    "sec": "Uterine causes",
    "page": 419,
-   "q": "Which acquired uterine causes are listed for recurrent abortion?",
+   "q": "A 30-year-old G2P1L1 at 12 weeks gestation presents for antenatal evaluation and counselling regarding uterine causes. According to the notes, acquired uterine causes of recurrent loss are cervical weakness, cavity-distorting fibroids and intrauterine adhesions. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Cervical incompetence, a submucous fibroid and Asherman syndrome",
-    "Placenta previa, which implants low and bleeds repeatedly",
-    "A previous ectopic pregnancy, which scars the uterine cavity",
-    "An ovarian cyst, which distorts the outline of the uterus"
+    "Advise that cervical incompetence, a submucous fibroid and asherman syndrome is the correct uterine causes for this patient at this gestation",
+    "Advise that placenta previa, which implants low and bleeds repeatedly is the correct uterine causes for this patient at this gestation",
+    "Advise that a previous ectopic pregnancy, which scars the uterine cavity is the correct uterine causes for this patient at this gestation",
+    "Advise that an ovarian cyst, which distorts the outline of the uterus is the correct uterine causes for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "Acquired uterine causes of recurrent loss are cervical weakness, cavity-distorting fibroids and intrauterine adhesions. (Book p419)"
+   "exp": "Acquired uterine causes of recurrent loss are cervical weakness, cavity-distorting fibroids and intrauterine adhesions. (Book p419)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C9-031",
    "sec": "Chromosomal recurrent loss",
    "page": 419,
-   "q": "What proportion of recurrent abortions can be due to chromosomal abnormalities?",
+   "q": "Fill up: Chromosomal abnormalities may account for ______ of recurrent abortions.",
    "opts": [
     "0%",
     "2–5%",
@@ -858,21 +867,23 @@
     "80–90%"
    ],
    "ans": 1,
-   "exp": "Chromosomal abnormalities may account for 2–5% of recurrent abortions. (Book p419)"
+   "exp": "Chromosomal abnormalities may account for 2–5% of recurrent abortions. (Book p419)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-032",
    "sec": "Chromosomal recurrent loss",
    "page": 419,
-   "q": "What is the most common chromosomal abnormality in recurrent abortion?",
+   "q": "Which statement about Chromosomal recurrent loss — most common chromosomal is TRUE?",
    "opts": [
-    "Turner syndrome (45,X monosomy)",
-    "Triploidy with a 69,XXX karyotype",
-    "Balanced chromosomal translocation",
-    "Trisomy 16 with a full autosomal trisomy"
+    "The most common chromosomal abnormality in recurrent abortion is a Turner syndrome (45,X monosomy)",
+    "The most common chromosomal abnormality in recurrent abortion is a Triploidy with a 69,XXX karyotype",
+    "The most common chromosomal abnormality in recurrent abortion is a Balanced chromosomal translocation",
+    "The most common chromosomal abnormality in recurrent abortion is a Trisomy 16 with a full autosomal trisomy"
    ],
    "ans": 2,
-   "exp": "The most common chromosomal abnormality in recurrent abortion is a balanced chromosomal translocation. (Book p419)"
+   "exp": "The most common chromosomal abnormality in recurrent abortion is a balanced chromosomal translocation. (Book p419)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-033",
@@ -893,7 +904,7 @@
    "id": "OBG-C9-034",
    "sec": "Recurrent-loss investigation",
    "page": 419,
-   "q": "When should recurrent-abortion investigations begin according to the notes?",
+   "q": "Fill up: The source says investigations should begin ______ two abortions.",
    "opts": [
     "Only after 5 abortions",
     "After the first biochemical pregnancy",
@@ -901,63 +912,68 @@
     "After 2 abortions"
    ],
    "ans": 3,
-   "exp": "The source says investigations should begin after two abortions. (Book p419)"
+   "exp": "The source says investigations should begin after two abortions. (Book p419)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-035",
    "sec": "Recurrent-loss investigation",
    "page": 419,
-   "q": "Which targeted investigation is used when an endocrine cause of recurrent abortion is suspected?",
+   "q": "Match the recurrent-loss investigation with the correct detail — 1) targeted investigation is used when an endocrine cause 2) targeted investigation is used when a uterine cause 3) two etiologic tests are routinely included after recurrent … A) TSH B) TVS C) APLA antibody testing and parental karyotyping",
    "opts": [
-    "TSH",
-    "TORCH panel",
-    "VDRL in every patient",
-    "Thrombophilia screen in every patient"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "TSH is performed if an endocrine cause is suspected. (Book p419)"
+   "exp": "TSH is performed if an endocrine cause is suspected. (Book p419)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C9-036",
    "sec": "Recurrent-loss investigation",
    "page": 419,
-   "q": "Which targeted investigation is used when a uterine cause of recurrent abortion is suspected?",
+   "q": "Which statement about Recurrent-loss investigation — TVS performed if is TRUE?",
    "opts": [
-    "MCA Doppler",
-    "TVS",
-    "OGTT",
-    "ICT"
+    "MCA Doppler is performed if a uterine cause is suspected",
+    "TVS is performed if a uterine cause is suspected",
+    "OGTT is performed if a uterine cause is suspected",
+    "ICT is performed if a uterine cause is suspected"
    ],
    "ans": 1,
-   "exp": "TVS is performed if a uterine cause is suspected. (Book p419)"
+   "exp": "TVS is performed if a uterine cause is suspected. (Book p419)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-037",
    "sec": "Recurrent-loss investigation",
    "page": 419,
-   "q": "Which two etiologic tests are routinely included after recurrent losses in the source plan?",
+   "q": "Which statement about Recurrent-loss investigation — After recurrent losses is TRUE?",
    "opts": [
-    "Serum bile acids and HbA1c estimation",
-    "DIPSI testing and fetal echocardiography",
-    "APLA antibody testing and parental karyotyping",
-    "TORCH screening and VDRL serology"
+    "After recurrent losses the source plan routinely includes the etiologic tests Serum bile acids and HbA1c estimation",
+    "After recurrent losses the source plan routinely includes the etiologic tests DIPSI testing and fetal echocardiography",
+    "After recurrent losses the source plan routinely includes the etiologic tests APLA antibody testing and parental karyotyping",
+    "After recurrent losses the source plan routinely includes the etiologic tests TORCH screening and VDRL serology"
    ],
    "ans": 2,
-   "exp": "After recurrent losses the source plan routinely includes the etiologic tests APLA antibody testing and parental karyotyping. (Book p419)"
+   "exp": "After recurrent losses the source plan routinely includes the etiologic tests APLA antibody testing and parental karyotyping. (Book p419)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-038",
    "sec": "Recurrent-loss investigation",
    "page": 419,
-   "q": "Which test is specifically not done for recurrent abortion in the source notes?",
+   "q": "A 32-year-old second gravida at 12 weeks gestation presents for antenatal evaluation and counselling regarding recurrent-loss investigation. According to the notes, tORCH testing, VDRL, and thrombophilia testing are listed as not done. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Parental karyotyping",
-    "APLA antibody testing",
-    "TVS when uterine cause is suspected",
-    "TORCH testing"
+    "Advise that parental karyotyping is the correct recurrent-loss investigation for this patient at this gestation",
+    "Advise that apla antibody testing is the correct recurrent-loss investigation for this patient at this gestation",
+    "Advise that tvs when uterine cause is suspected is the correct recurrent-loss investigation for this patient at this gestation",
+    "Advise that torch testing is the correct recurrent-loss investigation for this patient at this gestation"
    ],
    "ans": 3,
-   "exp": "TORCH testing, VDRL, and thrombophilia testing are listed as not done. (Book p419)"
+   "exp": "TORCH testing, VDRL, and thrombophilia testing are listed as not done. (Book p419)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C9-039",
@@ -978,7 +994,7 @@
    "id": "OBG-C9-040",
    "sec": "Cervical incompetence",
    "page": 420,
-   "q": "What is cervical incompetence by definition?",
+   "q": "Fill up: Cervical incompetence is ______ internal-os dilatation causing painless second-trimester loss.",
    "opts": [
     "Painful first-trimester abortion from uterine contractions",
     "Any open external os at delivery",
@@ -986,91 +1002,98 @@
     "Spontaneous dilatation of an incompetent internal os causing painless second-trimester abortion"
    ],
    "ans": 3,
-   "exp": "Cervical incompetence is spontaneous internal-os dilatation causing painless second-trimester loss. (Book p420)"
+   "exp": "Cervical incompetence is spontaneous internal-os dilatation causing painless second-trimester loss. (Book p420)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-041",
    "sec": "Cervical incompetence",
    "page": 420,
-   "q": "What history supports cervical incompetence?",
+   "q": "Match the cervical incompetence with the correct detail — 1) history supports cervical incompetence 2) nonpregnant test can support cervical incompetence by showing 3) Foley catheter finding supports cervical incompetence in a … A) At least 3 painless second-trimester abortions B) Hegar dilator number 8 C) No. 16 Foley with a 1-mL inflated bulb passes without resistance",
    "opts": [
-    "At least 3 painless second-trimester abortions",
-    "Three painful first-trimester abortions",
-    "One ectopic pregnancy",
-    "Only postpartum hemorrhage"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "A history of recurrent (at least 3) painless second-trimester abortions supports cervical incompetence. (Book p420)"
+   "exp": "A history of recurrent (at least 3) painless second-trimester abortions supports cervical incompetence. (Book p420)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C9-042",
    "sec": "Cervical incompetence",
    "page": 420,
-   "q": "Which nonpregnant test can support cervical incompetence by showing passage without resistance?",
+   "q": "Which statement about Cervical incompetence — In nonpregnant women is TRUE?",
    "opts": [
-    "MVA syringe",
-    "Hegar dilator number 8",
-    "Karman cannula number 16",
-    "Foley catheter number 4"
+    "MVA syringe is the listed cervical incompetence as per the notes",
+    "Hegar dilator number 8 is the listed cervical incompetence as per the notes",
+    "Karman cannula number 16 is the listed cervical incompetence as per the notes",
+    "Foley catheter number 4 is the listed cervical incompetence as per the notes"
    ],
    "ans": 1,
-   "exp": "In nonpregnant women, passage of Hegar dilator no. 8 without resistance is a diagnostic clue. (Book p420)"
+   "exp": "In nonpregnant women, passage of Hegar dilator no. 8 without resistance is a diagnostic clue. (Book p420)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-043",
    "sec": "Cervical incompetence",
    "page": 420,
-   "q": "Which Foley catheter finding supports cervical incompetence in a nonpregnant woman?",
+   "q": "Which statement about Cervical incompetence — Passage of no is TRUE?",
    "opts": [
-    "Any Foley insertion after labor",
-    "A balloon in the ureter",
-    "No. 16 Foley with a 1-mL inflated bulb passes without resistance",
-    "No. 8 Foley with 10 mL inflated bulb cannot pass"
+    "Any Foley insertion after labor is the listed cervical incompetence as per the notes",
+    "A balloon in the ureter is the listed cervical incompetence as per the notes",
+    "No. 16 Foley with a 1-mL inflated bulb passes without resistance is the listed cervical incompetence as per the notes",
+    "No. 8 Foley with 10 mL inflated bulb cannot pass is the listed cervical incompetence as per the notes"
    ],
    "ans": 2,
-   "exp": "Passage of no. 16 Foley with bulb filled with 1 mL water without resistance supports the diagnosis. (Book p420)"
+   "exp": "Passage of no. 16 Foley with bulb filled with 1 mL water without resistance supports the diagnosis. (Book p420)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-044",
    "sec": "Cervical incompetence diagnosis",
    "page": 420,
-   "q": "What is the investigation of choice for cervical incompetence during pregnancy?",
+   "q": "Which statement about Cervical incompetence diagnosis — TVS investigation of is TRUE?",
    "opts": [
-    "Hysteroscopy",
-    "HSG",
-    "Abdominal X-ray",
-    "Transvaginal scan"
+    "Hysteroscopy is the listed cervical incompetence diagnosis as per the notes",
+    "HSG is the listed cervical incompetence diagnosis as per the notes",
+    "Abdominal X-ray is the listed cervical incompetence diagnosis as per the notes",
+    "Transvaginal scan is the listed cervical incompetence diagnosis as per the notes"
    ],
    "ans": 3,
-   "exp": "TVS is the investigation of choice in pregnancy. (Book p420)"
+   "exp": "TVS is the investigation of choice in pregnancy. (Book p420)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-045",
    "sec": "Cervical length",
    "page": 420,
-   "q": "What cervical length is normal in pregnancy according to the source table?",
+   "q": "A 32-year-old second gravida at 8 weeks gestation presents for antenatal evaluation and counselling regarding cervical length. According to the notes, the normal pregnancy cervical length is 4–5 cm. What is the most appropriate counselling for this patient?",
    "opts": [
-    "4–5 cm",
-    "Less than 1 cm",
-    "2–2.5 cm",
-    "More than 8 cm"
+    "Advise that 4–5 cm is the correct cervical length for this patient at this gestation",
+    "Advise that less than 1 cm is the correct cervical length for this patient at this gestation",
+    "Advise that 2–2.5 cm is the correct cervical length for this patient at this gestation",
+    "Advise that more than 8 cm is the correct cervical length for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "The normal pregnancy cervical length is 4–5 cm. (Book p420)"
+   "exp": "The normal pregnancy cervical length is 4–5 cm. (Book p420)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C9-046",
    "sec": "Cervical length",
    "page": 420,
-   "q": "What TVS cervical-length value supports cervical incompetence?",
+   "q": "Which statement about Cervical length — Cervical length 2 is TRUE?",
    "opts": [
-    "Exactly 3.5 cm",
-    "2.5 cm or less",
-    "4–5 cm",
-    "More than 6 cm"
+    "Exactly 3.5 cm is the listed cervical length as per the notes",
+    "2.5 cm or less is the listed cervical length as per the notes",
+    "4–5 cm is the listed cervical length as per the notes",
+    "More than 6 cm is the listed cervical length as per the notes"
    ],
    "ans": 1,
-   "exp": "Cervical length ≤2.5 cm supports cervical incompetence. (Book p420)"
+   "exp": "Cervical length ≤2.5 cm supports cervical incompetence. (Book p420)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-047",
@@ -1091,21 +1114,22 @@
    "id": "OBG-C9-048",
    "sec": "Cervical shape",
    "page": 420,
-   "q": "What is the normal cervical shape on TVS in pregnancy?",
+   "q": "Which statement about Cervical shape — normal cervical shape is TRUE?",
    "opts": [
-    "V shape",
-    "U shape",
-    "T shape",
-    "Y shape"
+    "A normal cervical shape is V shaped",
+    "A normal cervical shape is U shaped",
+    "A normal cervical shape is T shaped",
+    "A normal cervical shape is Y shaped"
    ],
    "ans": 2,
-   "exp": "A normal cervical shape is T shaped. (Book p420)"
+   "exp": "A normal cervical shape is T shaped. (Book p420)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-049",
    "sec": "Cervical shape",
    "page": 420,
-   "q": "Which funneling progression is characteristic of cervical incompetence?",
+   "q": "Fill up: Cervical incompetence shows ______→V→U funneling.",
    "opts": [
     "T to I to L",
     "U to V to Y",
@@ -1113,41 +1137,44 @@
     "Y to V to U"
    ],
    "ans": 3,
-   "exp": "Cervical incompetence shows Y→V→U funneling. (Book p420)"
+   "exp": "Cervical incompetence shows Y→V→U funneling. (Book p420)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-050",
    "sec": "Cervical incompetence",
    "page": 420,
-   "q": "Why is cervical length inversely related to cervical dilatation?",
+   "q": "A 30-year-old G3P1L1 at 8 weeks gestation presents for antenatal evaluation and counselling regarding cervical incompetence. According to the notes, as the cervix dilates, it is taken up, so length falls. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Dilatation takes up/effaces the cervix",
-    "The cervix grows with dilatation",
-    "Fetal growth directly lengthens cervix",
-    "The internal os closes the cervix"
+    "Advise that dilatation takes up/effaces the cervix is the correct cervical incompetence for this patient at this gestation",
+    "Advise that the cervix grows with dilatation is the correct cervical incompetence for this patient at this gestation",
+    "Advise that fetal growth directly lengthens cervix is the correct cervical incompetence for this patient at this gestation",
+    "Advise that the internal os closes the cervix is the correct cervical incompetence for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "As the cervix dilates, it is taken up, so length falls. (Book p420)"
+   "exp": "As the cervix dilates, it is taken up, so length falls. (Book p420)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C9-051",
    "sec": "Cerclage principle",
    "page": 420,
-   "q": "What is the principle of cervical cerclage?",
+   "q": "Which statement about Cerclage principle — Cerclage places sutures is TRUE?",
    "opts": [
-    "Apply fundal pressure",
-    "Place sutures around the internal os",
-    "Remove the entire cervix",
-    "Dilate the internal os"
+    "Apply fundal pressure is the listed cerclage principle as per the notes",
+    "Place sutures around the internal os is the listed cerclage principle as per the notes",
+    "Remove the entire cervix is the listed cerclage principle as per the notes",
+    "Dilate the internal os is the listed cerclage principle as per the notes"
    ],
    "ans": 1,
-   "exp": "Cerclage places sutures around the internal os. (Book p420)"
+   "exp": "Cerclage places sutures around the internal os. (Book p420)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-052",
    "sec": "Cerclage indications",
    "page": 420,
-   "q": "What is the history-based indication for cervical cerclage?",
+   "q": "Fill up: A history-based indic______ion is recurrent painless mid-trimester loss, typically two or more, and it applies whatever the cervical length shows.",
    "opts": [
     "A normal cervix on transvaginal scan with no history of any pregnancy loss",
     "Maternal age above forty alone, even with no previous pregnancy loss",
@@ -1155,35 +1182,38 @@
     "Any single first-trimester loss, since one loss reliably predicts another"
    ],
    "ans": 2,
-   "exp": "A history-based indication is recurrent painless mid-trimester loss, typically two or more, and it applies whatever the cervical length shows. (Book p420)"
+   "exp": "A history-based indication is recurrent painless mid-trimester loss, typically two or more, and it applies whatever the cervical length shows. (Book p420)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C9-053",
    "sec": "Cerclage indications",
    "page": 420,
-   "q": "What ultrasound-based history indication for cerclage is listed after one painless second-trimester loss?",
+   "q": "Which statement about Cerclage indications — One painless T2 is TRUE?",
    "opts": [
-    "Cervical length 4–5 cm",
-    "Positive ICT",
-    "Bile acid level above 10",
-    "Cervical length less than 2.5 cm"
+    "Cervical length 4–5 cm is the listed cerclage indications as per the notes",
+    "Positive ICT is the listed cerclage indications as per the notes",
+    "Bile acid level above 10 is the listed cerclage indications as per the notes",
+    "Cervical length less than 2.5 cm is the listed cerclage indications as per the notes"
    ],
    "ans": 3,
-   "exp": "One painless T2 abortion plus cervical length <2.5 cm is ultrasound-based indication. (Book p420)"
+   "exp": "One painless T2 abortion plus cervical length <2.5 cm is ultrasound-based indication. (Book p420)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-054",
    "sec": "Cerclage indications",
    "page": 420,
-   "q": "What history plus TVS finding supports cerclage after early preterm labor?",
+   "q": "Which statement about Cerclage indications — Early PTL plus is TRUE?",
    "opts": [
-    "Early PTL history with cervical length less than 2.5 cm",
-    "Early PTL with cervical length over 5 cm",
-    "Only a positive urine pregnancy test",
-    "Any post-term labor"
+    "Early PTL history with cervical length less than 2.5 cm is the listed cerclage indications as per the notes",
+    "Early PTL with cervical length over 5 cm is the listed cerclage indications as per the notes",
+    "Only a positive urine pregnancy test is the listed cerclage indications as per the notes",
+    "Any post-term labor is the listed cerclage indications as per the notes"
    ],
    "ans": 0,
-   "exp": "Early PTL plus cervical length <2.5 cm is an indication. (Book p420)"
+   "exp": "Early PTL plus cervical length <2.5 cm is an indication. (Book p420)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C9-055",

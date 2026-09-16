@@ -1,0 +1,327 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C7-001",
+    "q": "Fill up: Blood-pressure finding defines hypertension in pregnancy in the notes is ______.",
+    "opts": [
+      "At least 130/80 mmHg on one occasion",
+      "At least 160/110 mmHg on two occasions 24 hours apart",
+      "At least 150/100 mmHg after delivery only",
+      "At least 140/90 mmHg on two occasions 4 hours apart"
+    ],
+    "ans": 3,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-002",
+    "q": "Fill up: For BP ≥160/110 mmHg, the exception is repeat measurement ______.",
+    "opts": [
+      "After 15 minutes",
+      "After 4 hours only",
+      "After 24 hours",
+      "After 1 week"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-003",
+    "q": "A 26-year-old primigravida at 8 weeks gestation presents for antenatal evaluation and counselling regarding pih definition. According to the notes, persistent severe BP after the 15-minute repeat requires antihypertensives. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that give only dietary salt restriction is the correct pih definition for this patient at this gestation",
+      "Advise that start antihypertensive treatment is the correct pih definition for this patient at this gestation",
+      "Advise that wait for a 24-hour urine result before action is the correct pih definition for this patient at this gestation",
+      "Advise that classify it as normal pregnancy is the correct pih definition for this patient at this gestation"
+    ],
+    "ans": 1,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-004",
+    "q": "Fill up: Chronic hypertension is present from day 1 in ______ who was hypertensive when she conceived.",
+    "opts": [
+      "BP elevation begins only after delivery",
+      "BP is elevated only during labor",
+      "A woman with hypertension conceives and BP is high from day 1",
+      "A normotensive woman first develops BP elevation after 20 weeks"
+    ],
+    "ans": 2,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-005",
+    "q": "Fill up: PIH begins after 20 weeks in ______ normotensive woman and is related to placental pathology.",
+    "opts": [
+      "BP is high before conception",
+      "Hypertension occurs only during the first trimester",
+      "It is caused by maternal TSH transfer",
+      "A previously normotensive woman develops hypertension after 20 weeks due to placental pathology"
+    ],
+    "ans": 3,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-007",
+    "q": "Which statement about Chronic hypertension — BP that remains is TRUE?",
+    "opts": [
+      "A BP that remains raised at 12 weeks postpartum is reclassified as Transient hypertension only",
+      "A BP that remains raised at 12 weeks postpartum is reclassified as Chronic hypertension",
+      "A BP that remains raised at 12 weeks postpartum is reclassified as Gestational hypertension",
+      "A BP that remains raised at 12 weeks postpartum is reclassified as Mild pre-eclampsia"
+    ],
+    "ans": 1,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-009",
+    "q": "Fill up: In the source comparison, ______ signs of end-organ damage distinguish pre-eclampsia from gestational hypertension.",
+    "opts": [
+      "Elevated blood pressure alone, above 140/90 mmHg",
+      "A history of a prior pregnancy affected by hypertension",
+      "Proteinuria and/or signs of maternal end-organ damage",
+      "Onset of the hypertension after 20 weeks of gestation"
+    ],
+    "ans": 2,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-011",
+    "q": "Which statement about Proteinuria — urine protein creatinine is TRUE?",
+    "opts": [
+      "At least 0.03 is the listed proteinuria as per the notes",
+      "At least 3.0 is the listed proteinuria as per the notes",
+      "At least 30 is the listed proteinuria as per the notes",
+      "At least 0.3 is the listed proteinuria as per the notes"
+    ],
+    "ans": 3,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-012",
+    "q": "A 32-year-old G3P1L1 at 9 weeks gestation presents for antenatal evaluation and counselling regarding proteinuria. According to the notes, urine dipstick of +1 or more is the stated OPD screening threshold; the notes also flag stricter NICE/ACOG use. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that at least +1 is the correct proteinuria for this patient at this gestation",
+      "Advise that trace only is the correct proteinuria for this patient at this gestation",
+      "Advise that at least +4 only is the correct proteinuria for this patient at this gestation",
+      "Advise that any negative value is the correct proteinuria for this patient at this gestation"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-013",
+    "q": "Which statement about Proteinuria — Twenty four hour is TRUE?",
+    "opts": [
+      "Serum uric acid only is the listed proteinuria as per the notes",
+      "24-hour urinary protein excretion is the listed proteinuria as per the notes",
+      "Urine dipstick is the listed proteinuria as per the notes",
+      "Fundus examination is the listed proteinuria as per the notes"
+    ],
+    "ans": 1,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-015",
+    "q": "Which statement about End-organ damage — Serum creatinine 1 is TRUE?",
+    "opts": [
+      "At least 0.3 mg/dL is the listed end-organ damage as per the notes",
+      "At least 0.8 mg/dL only is the listed end-organ damage as per the notes",
+      "At least 5 mg/dL only is the listed end-organ damage as per the notes",
+      "At least 1.1 mg/dL is the listed end-organ damage as per the notes"
+    ],
+    "ans": 3,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-016",
+    "q": "A 32-year-old primigravida at 9 weeks gestation presents for antenatal evaluation and counselling regarding end-organ damage. According to the notes, transaminases at least two times normal are a severe feature; placental ALP normally rises in pregnancy. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that transaminases at least twice normal is the correct end-organ damage for this patient at this gestation",
+      "Advise that any rise in alkaline phosphatase is the correct end-organ damage for this patient at this gestation",
+      "Advise that low bilirubin only is the correct end-organ damage for this patient at this gestation",
+      "Advise that low ldh only is the correct end-organ damage for this patient at this gestation"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-017",
+    "q": "Which statement about End-organ damage — Pulmonary edema and is TRUE?",
+    "opts": [
+      "Rh negativity and proteinuria alone is the listed end-organ damage as per the notes",
+      "Pulmonary edema and cerebral/visual symptoms is the listed end-organ damage as per the notes",
+      "Physiological pedal edema and glycosuria is the listed end-organ damage as per the notes",
+      "Anemia and hyperemesis is the listed end-organ damage as per the notes"
+    ],
+    "ans": 1,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-019",
+    "q": "Match the superimposed pre-eclampsia with the correct detail — 1) is aspirin considered in a woman with chronic 2) urine protein:creatinine ratio meets the listed proteinuria threshold 3) dipstick protein result is the OPD screening threshold … A) To prevent superimposed pre-eclampsia B) At least 0.3 C) At least +1",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-A, 2-C, 3-B",
+      "1-B, 2-A, 3-C",
+      "1-C, 2-B, 3-A"
+    ],
+    "ans": 0,
+    "fmt": "match"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-022",
+    "q": "Fill up: Severe PE is defined by ______ ≥160/110 or severe features/end-organ damage.",
+    "opts": [
+      "BP at least 160/110 mmHg or any severe feature",
+      "Any proteinuria with BP below 140/90",
+      "Any edema with normal BP",
+      "Only 4+ dipstick protein"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-024",
+    "q": "Which statement about Severity assessment — Oliguria listed as is TRUE?",
+    "opts": [
+      "Visual symptoms is listed as non-differentiating because reduced renal perfusion may occur in both",
+      "End-organ damage is listed as non-differentiating because reduced renal perfusion may occur in both",
+      "Oliguria is listed as non-differentiating because reduced renal perfusion may occur in both",
+      "Severe BP elevation is listed as non-differentiating because reduced renal perfusion may occur in both"
+    ],
+    "ans": 2,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-025",
+    "q": "A 24-year-old G2P1L1 at 10 weeks gestation presents for antenatal evaluation and counselling regarding severity assessment. According to the notes, iUGR is a non-differentiating feature in the source table. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that bp ≥160/110 mmhg is the correct severity assessment for this patient at this gestation",
+      "Advise that pulmonary edema is the correct severity assessment for this patient at this gestation",
+      "Advise that severe headache is the correct severity assessment for this patient at this gestation",
+      "Advise that iugr is the correct severity assessment for this patient at this gestation"
+    ],
+    "ans": 3,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-030",
+    "q": "Fill up: Fundus examination is part of evaluating visual symp______ms in PIH.",
+    "opts": [
+      "To assess hypertensive retinal involvement",
+      "To diagnose GDM",
+      "To measure cervical length",
+      "To quantify fetomaternal hemorrhage"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-035",
+    "q": "Which statement about Eclampsia — Eclampsia severe PE is TRUE?",
+    "opts": [
+      "Proteinuria without hypertension is the listed eclampsia as per the notes",
+      "Chronic hypertension with edema only is the listed eclampsia as per the notes",
+      "Severe pre-eclampsia with generalized tonic-clonic seizures is the listed eclampsia as per the notes",
+      "Any seizure in a pregnant woman with normal BP is the listed eclampsia as per the notes"
+    ],
+    "ans": 2,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-037",
+    "q": "Fill up: Postpartum eclampsia occurs after delivery ______.",
+    "opts": [
+      "Within 48 hours",
+      "Within 12 weeks",
+      "Within 7 days only",
+      "After 6 months"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-038",
+    "q": "Match the atypical eclampsia with the correct detail — 1) seizure timing is atypical for eclampsia 2) antenatal seizure timing should be considered atypical eclampsia 3) is the investigation of choice for atypical eclampsia … A) More than 48 hours after delivery B) Before 20 weeks of pregnancy C) MRI",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-A, 2-C, 3-B",
+      "1-B, 2-A, 3-C",
+      "1-C, 2-B, 3-A"
+    ],
+    "ans": 0,
+    "fmt": "match"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-039",
+    "q": "Which statement about Atypical eclampsia — seizure before 20 is TRUE?",
+    "opts": [
+      "During the second stage of labor is the listed atypical eclampsia as per the notes",
+      "At 40 weeks only is the listed atypical eclampsia as per the notes",
+      "Before 20 weeks of pregnancy is the listed atypical eclampsia as per the notes",
+      "After 37 weeks is the listed atypical eclampsia as per the notes"
+    ],
+    "ans": 2,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-040",
+    "q": "Which statement about Atypical eclampsia — MRI investigation of is TRUE?",
+    "opts": [
+      "Plain abdominal X-ray is the investigation of choice for atypical eclampsia",
+      "DIPSI is the investigation of choice for atypical eclampsia",
+      "Kleihauer–Betke test is the investigation of choice for atypical eclampsia",
+      "MRI is the investigation of choice for atypical eclampsia"
+    ],
+    "ans": 3,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-041",
+    "q": "A 30-year-old G3P1L1 at 11 weeks gestation presents for antenatal evaluation and counselling regarding pres. According to the notes, pRES is described as edema localized to the posterior cerebral hemisphere. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that posterior cerebral hemisphere is the correct pres for this patient at this gestation",
+      "Advise that pituitary gland is the correct pres for this patient at this gestation",
+      "Advise that cerebellar vermis only is the correct pres for this patient at this gestation",
+      "Advise that frontal sinus is the correct pres for this patient at this gestation"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C7-042",
+    "q": "Which statement about Gestational hypertension — source states that is TRUE?",
+    "opts": [
+      "The source states that about 0% of gestational hypertension cases evolve to PE",
+      "The source states that about 50% of gestational hypertension cases evolve to PE",
+      "The source states that about 5% of gestational hypertension cases evolve to PE",
+      "The source states that about 100% of gestational hypertension cases evolve to PE"
+    ],
+    "ans": 1,
+    "fmt": "truefalse"
+  }
+]

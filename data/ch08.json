@@ -769,15 +769,16 @@
    "id": "OBG-C8-014",
    "sec": "Visual symptoms in PE",
    "page": 402,
-   "q": "Which retinal cause of visual loss is termed Purtscher retinopathy?",
+   "q": "A 28-year-old G3P1L1 at 10 weeks gestation presents for antenatal evaluation and counselling regarding visual symptoms in pe. According to the notes, retinal infarction is termed Purtscher retinopathy. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Retinal ischemia alone",
-    "Retinal artery occlusion",
-    "Macular degeneration",
-    "Retinal infarction"
+    "Advise that retinal ischemia alone is the correct visual symptoms in pe for this patient at this gestation",
+    "Advise that retinal artery occlusion is the correct visual symptoms in pe for this patient at this gestation",
+    "Advise that macular degeneration is the correct visual symptoms in pe for this patient at this gestation",
+    "Advise that retinal infarction is the correct visual symptoms in pe for this patient at this gestation"
    ],
    "ans": 3,
-   "exp": "Retinal infarction is termed Purtscher retinopathy in the notes. (Book p402)"
+   "exp": "Retinal infarction is termed Purtscher retinopathy in the notes. (Book p402)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C8-015",
@@ -828,29 +829,31 @@
    "id": "OBG-C8-018",
    "sec": "Eclampsia and FHS",
    "page": 402,
-   "q": "If fetal distress persists after an eclamptic seizure, what must be ruled out before/with cesarean consideration?",
+   "q": "Which statement about Eclampsia and FHS — With persistent fetal is TRUE?",
    "opts": [
-    "Cervical incompetence",
-    "Thyroid storm",
-    "Abruptio placentae",
-    "GDM"
+    "With persistent fetal distress, the source directs clinicians to rule out Cervical incompetence and consider cesarean",
+    "With persistent fetal distress, the source directs clinicians to rule out Thyroid storm and consider cesarean",
+    "With persistent fetal distress, the source directs clinicians to rule out Abruptio placentae and consider cesarean",
+    "With persistent fetal distress, the source directs clinicians to rule out GDM and consider cesarean"
    ],
    "ans": 2,
-   "exp": "With persistent fetal distress, the source directs clinicians to rule out abruptio placentae and consider cesarean. (Book p402)"
+   "exp": "With persistent fetal distress, the source directs clinicians to rule out abruptio placentae and consider cesarean. (Book p402)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-019",
    "sec": "Eclampsia and FHS",
    "page": 402,
-   "q": "If fetal heart sound becomes normal after an eclamptic seizure, what is the next step?",
+   "q": "A 28-year-old G3P1L1 at 10 weeks gestation presents for antenatal evaluation and counselling regarding eclampsia and fhs. According to the notes, normalization of FHS directs continuation of eclampsia management. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Perform immediate cesarean solely for the prior tracing",
-    "Stop magnesium sulfate",
-    "Discharge immediately",
-    "Continue eclampsia management"
+    "Advise that perform immediate cesarean solely for the prior tracing is the correct eclampsia and fhs for this patient at this gestation",
+    "Advise that stop magnesium sulfate is the correct eclampsia and fhs for this patient at this gestation",
+    "Advise that discharge immediately is the correct eclampsia and fhs for this patient at this gestation",
+    "Advise that continue eclampsia management is the correct eclampsia and fhs for this patient at this gestation"
    ],
    "ans": 3,
-   "exp": "Normalization of FHS directs continuation of eclampsia management. (Book p402)"
+   "exp": "Normalization of FHS directs continuation of eclampsia management. (Book p402)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C8-020",
@@ -871,7 +874,7 @@
    "id": "OBG-C8-021",
    "sec": "Antihypertensive indications",
    "page": 403,
-   "q": "What persistent BP threshold is cited from NICE for starting antihypertensive therapy in PIH?",
+   "q": "Fill up: The source cites NICE tre______ment for persistent BP ≥150/100 mmHg.",
    "opts": [
     "At least 120/80 mmHg",
     "At least 140/90 mmHg after one reading only",
@@ -879,13 +882,14 @@
     "At least 150/100 mmHg"
    ],
    "ans": 3,
-   "exp": "The source cites NICE treatment for persistent BP ≥150/100 mmHg. (Book p403)"
+   "exp": "The source cites NICE treatment for persistent BP ≥150/100 mmHg. (Book p403)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-022",
    "sec": "Antihypertensive targets",
    "page": 403,
-   "q": "What systolic target range is stated while treating hypertension in pregnancy?",
+   "q": "Fill up: The stated systolic treatment target is ______.",
    "opts": [
     "130–140 mmHg",
     "90–100 mmHg",
@@ -893,41 +897,44 @@
     "170–180 mmHg"
    ],
    "ans": 0,
-   "exp": "The stated systolic treatment target is 130–140 mmHg. (Book p403)"
+   "exp": "The stated systolic treatment target is 130–140 mmHg. (Book p403)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-023",
    "sec": "Antihypertensive targets",
    "page": 403,
-   "q": "What diastolic target range is stated while treating hypertension in pregnancy?",
+   "q": "Which statement about Antihypertensive targets — stated diastolic treatment is TRUE?",
    "opts": [
-    "120–130 mmHg",
-    "80–90 mmHg",
-    "50–60 mmHg",
-    "100–110 mmHg"
+    "The stated diastolic treatment target is 120–130 mmHg",
+    "The stated diastolic treatment target is 80–90 mmHg",
+    "The stated diastolic treatment target is 50–60 mmHg",
+    "The stated diastolic treatment target is 100–110 mmHg"
    ],
    "ans": 1,
-   "exp": "The stated diastolic treatment target is 80–90 mmHg. (Book p403)"
+   "exp": "The stated diastolic treatment target is 80–90 mmHg. (Book p403)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-024",
    "sec": "Antihypertensive safety",
    "page": 403,
-   "q": "Why should BP not be overcorrected in pregnancy?",
+   "q": "Which statement about Antihypertensive safety — Overcorrection can lower is TRUE?",
    "opts": [
-    "It prevents magnesium excretion",
-    "It causes fetal macrosomia",
-    "It can reduce uteroplacental perfusion and cause fetal distress",
-    "It inevitably causes maternal hyperglycemia"
+    "It prevents magnesium excretion is the listed antihypertensive safety as per the notes",
+    "It causes fetal macrosomia is the listed antihypertensive safety as per the notes",
+    "It can reduce uteroplacental perfusion and cause fetal distress is the listed antihypertensive safety as per the notes",
+    "It inevitably causes maternal hyperglycemia is the listed antihypertensive safety as per the notes"
    ],
    "ans": 2,
-   "exp": "Overcorrection can lower uteroplacental perfusion and precipitate fetal distress. (Book p403)"
+   "exp": "Overcorrection can lower uteroplacental perfusion and precipitate fetal distress. (Book p403)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-025",
    "sec": "First-line PE drugs",
    "page": 403,
-   "q": "Which trio is listed as first-line antihypertensive drugs for pre-eclampsia?",
+   "q": "Fill up: ______ are the first-line drugs.",
    "opts": [
     "Methyldopa, ACE inhibitor, and losartan",
     "Nitroprusside, diazoxide, and ARB",
@@ -935,13 +942,14 @@
     "Labetalol, hydralazine, and nifedipine"
    ],
    "ans": 3,
-   "exp": "Labetalol, hydralazine, and nifedipine are the first-line drugs. (Book p403)"
+   "exp": "Labetalol, hydralazine, and nifedipine are the first-line drugs. (Book p403)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-026",
    "sec": "Other PE drugs",
    "page": 403,
-   "q": "Which drug is listed as least preferred among other antihypertensive options?",
+   "q": "Fill up: ______ is noted as least preferred.",
    "opts": [
     "Nitroprusside",
     "Nicardipine",
@@ -949,13 +957,14 @@
     "Nitroglycerine"
    ],
    "ans": 0,
-   "exp": "Nitroprusside is noted as least preferred. (Book p403)"
+   "exp": "Nitroprusside is noted as least preferred. (Book p403)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-027",
    "sec": "Hypertensive crisis",
    "page": 403,
-   "q": "What BP threshold defines severe PE/hypertensive crisis requiring IV antihypertensive therapy?",
+   "q": "Fill up: BP ≥160/110 mmHg is tre______ed as hypertensive crisis with IV antihypertensives.",
    "opts": [
     "At least 100/60 mmHg",
     "At least 160/110 mmHg",
@@ -963,7 +972,8 @@
     "At least 130/80 mmHg"
    ],
    "ans": 1,
-   "exp": "BP ≥160/110 mmHg is treated as hypertensive crisis with IV antihypertensives. (Book p403)"
+   "exp": "BP ≥160/110 mmHg is treated as hypertensive crisis with IV antihypertensives. (Book p403)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-028",
@@ -984,49 +994,52 @@
    "id": "OBG-C8-029",
    "sec": "Labetalol regimen",
    "page": 403,
-   "q": "What is the first IV labetalol dose in the severe-PE sequence?",
+   "q": "Match the labetalol regimen with the correct detail — 1) is the first IV labetalol dose in the 2) sequence correctly describes escalation of IV labetalol in 3) is the maximum IV labetalol dose in the … A) 20 mg IV B) 20 mg, then 40 mg, then 80 mg, then 80 mg at 15-minute checks C) 220 mg",
    "opts": [
-    "40 mg IV",
-    "80 mg IV",
-    "20 mg IV",
-    "5 mg IV"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
-   "ans": 2,
-   "exp": "The IV labetalol sequence starts with 20 mg. (Book p403)"
+   "ans": 0,
+   "exp": "The IV labetalol sequence starts with 20 mg. (Book p403)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C8-030",
    "sec": "Labetalol regimen",
    "page": 403,
-   "q": "Which sequence correctly describes escalation of IV labetalol in the notes?",
+   "q": "Which statement about Labetalol regimen — stated labetalol escalation is TRUE?",
    "opts": [
-    "5 mg, then 10 mg every 20 minutes",
-    "20 mg every hour indefinitely",
-    "50 mg then 100 mg once",
-    "20 mg, then 40 mg, then 80 mg, then 80 mg at 15-minute checks"
+    "5 mg, then 10 mg every 20 minutes is the listed labetalol regimen as per the notes",
+    "20 mg every hour indefinitely is the listed labetalol regimen as per the notes",
+    "50 mg then 100 mg once is the listed labetalol regimen as per the notes",
+    "20 mg, then 40 mg, then 80 mg, then 80 mg at 15-minute checks is the listed labetalol regimen as per the notes"
    ],
    "ans": 3,
-   "exp": "The stated labetalol escalation is 20→40→80→80 mg, checking BP every 15 minutes. (Book p403)"
+   "exp": "The stated labetalol escalation is 20→40→80→80 mg, checking BP every 15 minutes. (Book p403)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-031",
    "sec": "Labetalol regimen",
    "page": 403,
-   "q": "What is the maximum IV labetalol dose in the source algorithm?",
+   "q": "Which statement about Labetalol regimen — maximum labetalol dose is TRUE?",
    "opts": [
-    "220 mg",
-    "30 mg",
-    "80 mg",
-    "500 mg"
+    "The maximum labetalol dose is 220 mg",
+    "The maximum labetalol dose is 30 mg",
+    "The maximum labetalol dose is 80 mg",
+    "The maximum labetalol dose is 500 mg"
    ],
    "ans": 0,
-   "exp": "The maximum labetalol dose is 220 mg. (Book p403)"
+   "exp": "The maximum labetalol dose is 220 mg. (Book p403)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-032",
    "sec": "Labetalol safety",
    "page": 403,
-   "q": "In whom is labetalol contraindicated according to the notes?",
+   "q": "Fill up: L______betalol is contraindicated in bradycardia and asthma.",
    "opts": [
     "A patient with fetal growth restriction",
     "A patient with bradycardia or asthma",
@@ -1034,13 +1047,14 @@
     "A patient with proteinuria"
    ],
    "ans": 1,
-   "exp": "Labetalol is contraindicated in bradycardia and asthma. (Book p403)"
+   "exp": "Labetalol is contraindicated in bradycardia and asthma. (Book p403)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-033",
    "sec": "Hydralazine regimen",
    "page": 403,
-   "q": "What is the IV hydralazine sequence for hypertensive crisis?",
+   "q": "Fill up: Hydralazine is ______ IV followed by 10 mg IV after 20 minutes if required.",
    "opts": [
     "5 mg IM every 4 hours",
     "50 mg orally once daily",
@@ -1048,35 +1062,38 @@
     "20 mg, then 40 mg after 15 minutes"
    ],
    "ans": 2,
-   "exp": "Hydralazine is 5 mg IV followed by 10 mg IV after 20 minutes if required. (Book p403)"
+   "exp": "Hydralazine is 5 mg IV followed by 10 mg IV after 20 minutes if required. (Book p403)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-034",
    "sec": "Hydralazine regimen",
    "page": 403,
-   "q": "What is the maximum hydralazine dose in the source algorithm?",
+   "q": "Match the hydralazine regimen with the correct detail — 1) is the maximum hydralazine dose in the source 2) should nifedipine be given for severe PIH according 3) oral drugs are first-line options for chronic hypertension … A) 30 mg B) Orally, not sublingually C) Methyldopa, labetalol, and nifedipine",
    "opts": [
-    "220 mg",
-    "5 mg",
-    "100 mg",
-    "30 mg"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
-   "ans": 3,
-   "exp": "The maximum hydralazine dose is 30 mg. (Book p403)"
+   "ans": 0,
+   "exp": "The maximum hydralazine dose is 30 mg. (Book p403)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C8-035",
    "sec": "Nifedipine",
    "page": 403,
-   "q": "How should nifedipine be given for severe PIH according to the notes?",
+   "q": "Which statement about Nifedipine — source explicitly states is TRUE?",
    "opts": [
-    "Orally, not sublingually",
-    "Only sublingually",
-    "Only by IV route",
-    "It is contraindicated in all PE"
+    "Orally, not sublingually is the listed nifedipine as per the notes",
+    "Only sublingually is the listed nifedipine as per the notes",
+    "Only by IV route is the listed nifedipine as per the notes",
+    "It is contraindicated in all PE is the listed nifedipine as per the notes"
    ],
    "ans": 0,
-   "exp": "The source explicitly states oral nifedipine, not sublingual nifedipine. (Book p403)"
+   "exp": "The source explicitly states oral nifedipine, not sublingual nifedipine. (Book p403)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-036",
@@ -1097,7 +1114,7 @@
    "id": "OBG-C8-037",
    "sec": "Chronic hypertension",
    "page": 403,
-   "q": "Which oral drugs are first-line options for chronic hypertension in pregnancy?",
+   "q": "Fill up: ______ are listed oral first-line drugs for chronic HTN.",
    "opts": [
     "PTU, carbimazole, and propranolol",
     "Methyldopa, labetalol, and nifedipine",
@@ -1105,13 +1122,14 @@
     "Warfarin, heparin, and aspirin"
    ],
    "ans": 1,
-   "exp": "Methyldopa, labetalol, and nifedipine are listed oral first-line drugs for chronic HTN. (Book p403)"
+   "exp": "Methyldopa, labetalol, and nifedipine are listed oral first-line drugs for chronic HTN. (Book p403)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-038",
    "sec": "Methyldopa",
    "page": 403,
-   "q": "Why is alpha-methyldopa not used as first-line therapy for severe PE?",
+   "q": "Fill up: Is alpha-methyldopa not used as first-line therapy for severe PE is ______.",
    "opts": [
     "It raises BP",
     "It is a diuretic",
@@ -1119,7 +1137,8 @@
     "It causes inevitable fetal anomalies"
    ],
    "ans": 2,
-   "exp": "Alpha-methyldopa is slow acting and therefore not first line for severe PE. (Book p403)"
+   "exp": "Alpha-methyldopa is slow acting and therefore not first line for severe PE. (Book p403)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-039",
@@ -1140,21 +1159,22 @@
    "id": "OBG-C8-040",
    "sec": "Contraindicated antihypertensives",
    "page": 404,
-   "q": "Which medication class is contraindicated as an antihypertensive in pregnancy?",
+   "q": "A 26-year-old primigravida at 12 weeks gestation presents for antenatal evaluation and counselling regarding contraindicated antihypertensives. According to the notes, aCE inhibitors are listed as contraindicated in pregnancy. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Oral nifedipine",
-    "Hydralazine",
-    "ACE inhibitors",
-    "Labetalol"
+    "Advise that oral nifedipine is the correct contraindicated antihypertensives for this patient at this gestation",
+    "Advise that hydralazine is the correct contraindicated antihypertensives for this patient at this gestation",
+    "Advise that ace inhibitors is the correct contraindicated antihypertensives for this patient at this gestation",
+    "Advise that labetalol is the correct contraindicated antihypertensives for this patient at this gestation"
    ],
    "ans": 2,
-   "exp": "ACE inhibitors are listed as contraindicated in pregnancy. (Book p404)"
+   "exp": "ACE inhibitors are listed as contraindicated in pregnancy. (Book p404)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C8-041",
    "sec": "Contraindicated antihypertensives",
    "page": 404,
-   "q": "Which antihypertensive receptor-blocking class, exemplified by losartan, is contraindicated in pregnancy?",
+   "q": "Fill up: Antihypertensive receptor-blocking class, exemplified by losartan, is contraindicated in pregnancy is ______.",
    "opts": [
     "Calcium-channel blockers",
     "Alpha-methyldopa",
@@ -1162,125 +1182,134 @@
     "Angiotensin receptor blockers"
    ],
    "ans": 3,
-   "exp": "ARBs such as losartan are contraindicated. (Book p404)"
+   "exp": "ARBs such as losartan are contraindicated. (Book p404)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-042",
    "sec": "Contraindicated antihypertensives",
    "page": 404,
-   "q": "Which beta-blocker statement is correct in pregnancy according to the source?",
+   "q": "Which statement about Contraindicated antihypertensives — notes list beta is TRUE?",
    "opts": [
-    "Beta-blockers are contraindicated except labetalol",
-    "All beta-blockers including labetalol are mandatory",
-    "Beta-blockers are never relevant",
-    "Propranolol is first-line for PE"
+    "Beta-blockers are contraindicated except labetalol is the listed contraindicated antihypertensives as per the notes",
+    "All beta-blockers including labetalol are mandatory is the listed contraindicated antihypertensives as per the notes",
+    "Beta-blockers are never relevant is the listed contraindicated antihypertensives as per the notes",
+    "Propranolol is first-line for PE is the listed contraindicated antihypertensives as per the notes"
    ],
    "ans": 0,
-   "exp": "The notes list beta-blockers as contraindicated with the exception of labetalol. (Book p404)"
+   "exp": "The notes list beta-blockers as contraindicated with the exception of labetalol. (Book p404)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-043",
    "sec": "Contraindicated antihypertensives",
    "page": 404,
-   "q": "Why are diuretics contraindicated in pre-eclampsia?",
+   "q": "Which statement about Contraindicated antihypertensives — Diuretics contraindicated in is TRUE?",
    "opts": [
-    "They increase fetal surfactant",
-    "They worsen hemoconcentration",
-    "They cause thyroid storm",
-    "They cause Rh sensitization"
+    "They increase fetal surfactant is the listed contraindicated antihypertensives as per the notes",
+    "They worsen hemoconcentration is the listed contraindicated antihypertensives as per the notes",
+    "They cause thyroid storm is the listed contraindicated antihypertensives as per the notes",
+    "They cause Rh sensitization is the listed contraindicated antihypertensives as per the notes"
    ],
    "ans": 1,
-   "exp": "Diuretics are contraindicated in PE because of hemoconcentration. (Book p404)"
+   "exp": "Diuretics are contraindicated in PE because of hemoconcentration. (Book p404)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-044",
    "sec": "Diuretics",
    "page": 404,
-   "q": "In which setting can a diuretic be used despite its contraindication in PE?",
+   "q": "A 24-year-old G2P1L1 at 20 weeks gestation presents for antenatal evaluation and counselling regarding diuretics. According to the notes, diuretics may be used for pulmonary edema and congestive heart failure; in chronic HTN they are not first line and should be used before 20 weeks. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Routine PIH prevention",
-    "All normal pregnancies",
-    "Pulmonary edema or congestive heart failure",
-    "Mild PE managed on OPD"
+    "Advise that routine pih prevention is the correct diuretics for this patient at this gestation",
+    "Advise that all normal pregnancies is the correct diuretics for this patient at this gestation",
+    "Advise that pulmonary edema or congestive heart failure is the correct diuretics for this patient at this gestation",
+    "Advise that mild pe managed on opd is the correct diuretics for this patient at this gestation"
    ],
    "ans": 2,
-   "exp": "Diuretics may be used for pulmonary edema and congestive heart failure; in chronic HTN they are not first line and should be used before 20 weeks. (Book p404)"
+   "exp": "Diuretics may be used for pulmonary edema and congestive heart failure; in chronic HTN they are not first line and should be used before 20 weeks. (Book p404)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C8-045",
    "sec": "Magnesium sulfate",
    "page": 404,
-   "q": "What is the primary use of magnesium sulfate in a hypertensive pregnant woman?",
+   "q": "Which statement about Magnesium sulfate — MgSO4 used for is TRUE?",
    "opts": [
-    "Primary control of blood glucose",
-    "Treatment of Rh sensitization",
-    "Induction of labor in all pregnancies",
-    "Prevention and treatment of seizures"
+    "MgSO4 is used for Primary control of blood glucose in hypertensive pregnancy",
+    "MgSO4 is used for Treatment of Rh sensitization in hypertensive pregnancy",
+    "MgSO4 is used for Induction of labor in all pregnancies in hypertensive pregnancy",
+    "MgSO4 is used for Prevention and treatment of seizures in hypertensive pregnancy"
    ],
    "ans": 3,
-   "exp": "MgSO4 is used for prevention and treatment of seizures in hypertensive pregnancy. (Book p404)"
+   "exp": "MgSO4 is used for prevention and treatment of seizures in hypertensive pregnancy. (Book p404)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-046",
    "sec": "Magnesium sulfate mechanism",
    "page": 404,
-   "q": "How is magnesium sulfate described pharmacologically in the notes?",
+   "q": "Which statement about Magnesium sulfate mechanism — MgSO4 centrally acting is TRUE?",
    "opts": [
-    "A centrally acting drug acting on NMDA receptors",
-    "A peripheral ACE inhibitor",
-    "An oral anticoagulant",
-    "A fetal surfactant"
+    "A centrally acting drug acting on NMDA receptors is the listed magnesium sulfate mechanism as per the notes",
+    "A peripheral ACE inhibitor is the listed magnesium sulfate mechanism as per the notes",
+    "An oral anticoagulant is the listed magnesium sulfate mechanism as per the notes",
+    "A fetal surfactant is the listed magnesium sulfate mechanism as per the notes"
    ],
    "ans": 0,
-   "exp": "MgSO4 is centrally acting and acts on NMDA receptors. (Book p404)"
+   "exp": "MgSO4 is centrally acting and acts on NMDA receptors. (Book p404)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-047",
    "sec": "Magnesium sulfate mechanism",
    "page": 404,
-   "q": "Which effect of MgSO4 helps protect the brain in eclampsia?",
+   "q": "Which statement about Magnesium sulfate mechanism — MgSO4 protects brain is TRUE?",
    "opts": [
-    "Loss of the neuronal membrane potential in the cerebral cortex",
-    "Reduced cerebral edema and oxidative stress, with membrane stabilisation",
-    "Increased cerebral edema, which lowers the seizure threshold",
-    "Increased free-radical production within the cerebral cortex"
+    "Loss of the neuronal membrane potential in the cerebral cortex is the listed magnesium sulfate mechanism as per the notes",
+    "Reduced cerebral edema and oxidative stress, with membrane stabilisation is the listed magnesium sulfate mechanism as per the notes",
+    "Increased cerebral edema, which lowers the seizure threshold is the listed magnesium sulfate mechanism as per the notes",
+    "Increased free-radical production within the cerebral cortex is the listed magnesium sulfate mechanism as per the notes"
    ],
    "ans": 1,
-   "exp": "MgSO4 protects the brain in eclampsia by reducing cerebral edema and oxidative stress and by stabilising membranes. (Book p404)"
+   "exp": "MgSO4 protects the brain in eclampsia by reducing cerebral edema and oxidative stress and by stabilising membranes. (Book p404)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-048",
    "sec": "Magnesium sulfate",
    "page": 404,
-   "q": "What therapeutic range is stated for magnesium sulfate in the source notes?",
+   "q": "A 24-year-old primigravida at 12 weeks gestation presents for antenatal evaluation and counselling regarding magnesium sulfate. According to the notes, the notes state a narrow therapeutic range of 4–7 mg. What is the most appropriate counselling for this patient?",
    "opts": [
-    "20–30 mg",
-    "50–70 mg",
-    "4–7 mg",
-    "0–1 mg"
+    "Advise that 20–30 mg is the correct magnesium sulfate for this patient at this gestation",
+    "Advise that 50–70 mg is the correct magnesium sulfate for this patient at this gestation",
+    "Advise that 4–7 mg is the correct magnesium sulfate for this patient at this gestation",
+    "Advise that 0–1 mg is the correct magnesium sulfate for this patient at this gestation"
    ],
    "ans": 2,
-   "exp": "The notes state a narrow therapeutic range of 4–7 mg. (Book p404)"
+   "exp": "The notes state a narrow therapeutic range of 4–7 mg. (Book p404)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C8-049",
    "sec": "Pritchard regimen",
    "page": 404,
-   "q": "Which MgSO4 regimen is followed in India according to the notes?",
+   "q": "Which statement about Pritchard regimen — Pritchard regimen stated is TRUE?",
    "opts": [
-    "Zuspan regimen only",
-    "GTN multidose regimen",
-    "Sibai regimen only",
-    "Pritchard regimen"
+    "The Zuspan regimen only is stated as followed in India",
+    "The GTN multidose regimen is stated as followed in India",
+    "The Sibai regimen only is stated as followed in India",
+    "The Pritchard regimen is stated as followed in India"
    ],
    "ans": 3,
-   "exp": "The Pritchard regimen is stated as followed in India. (Book p404)"
+   "exp": "The Pritchard regimen is stated as followed in India. (Book p404)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-050",
    "sec": "Pritchard loading",
    "page": 404,
-   "q": "What IM component is given in the Pritchard loading dose?",
+   "q": "Fill up: Pritchard loading includes ______ 50% MgSO4 IM, divided as 5 g per buttock.",
    "opts": [
     "10 g of 50% MgSO4, 5 g in each buttock",
     "4 g of 20% MgSO4 in each buttock",
@@ -1288,21 +1317,23 @@
     "1–2 g/hour infusion only"
    ],
    "ans": 0,
-   "exp": "Pritchard loading includes 10 g 50% MgSO4 IM, divided as 5 g per buttock. (Book p404)"
+   "exp": "Pritchard loading includes 10 g 50% MgSO4 IM, divided as 5 g per buttock. (Book p404)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-051",
    "sec": "Pritchard loading",
    "page": 404,
-   "q": "What IV component is given in the Pritchard loading dose?",
+   "q": "Which statement about Pritchard loading — Pritchard loading dose is TRUE?",
    "opts": [
-    "1 g/kg of MgSO4",
-    "4 g of 20% MgSO4",
-    "10 g of 50% MgSO4",
-    "5 g of 50% MgSO4 every 4 hours"
+    "The Pritchard loading dose also includes 1 g/kg of MgSO4 IV",
+    "The Pritchard loading dose also includes 4 g of 20% MgSO4 IV",
+    "The Pritchard loading dose also includes 10 g of 50% MgSO4 IV",
+    "The Pritchard loading dose also includes 5 g of 50% MgSO4 every 4 hours IV"
    ],
    "ans": 1,
-   "exp": "The Pritchard loading dose also includes 4 g of 20% MgSO4 IV. (Book p404)"
+   "exp": "The Pritchard loading dose also includes 4 g of 20% MgSO4 IV. (Book p404)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-052",
@@ -1323,7 +1354,7 @@
    "id": "OBG-C8-053",
    "sec": "Pritchard preparation",
    "page": 404,
-   "q": "In the source preparation note, one 2-mL ampoule of 50% MgSO4 contains how much MgSO4?",
+   "q": "Fill up: One 2-mL ampoule of 50% MgSO4 contains ______.",
    "opts": [
     "4 g",
     "10 g",
@@ -1331,35 +1362,38 @@
     "2 g"
    ],
    "ans": 2,
-   "exp": "One 2-mL ampoule of 50% MgSO4 contains 1 g. (Book p404)"
+   "exp": "One 2-mL ampoule of 50% MgSO4 contains 1 g. (Book p404)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-054",
    "sec": "Pritchard preparation",
    "page": 404,
-   "q": "How many 2-mL 50% MgSO4 ampoules are needed for the 10-g IM loading component?",
+   "q": "A 30-year-old G2P1L1 at 12 weeks gestation presents for antenatal evaluation and counselling regarding pritchard preparation. According to the notes, ten 1-g ampoules are required for the 10-g IM loading dose. What is the most appropriate counselling for this patient?",
    "opts": [
-    "4 ampoules",
-    "2 ampoules",
-    "20 ampoules",
-    "10 ampoules"
+    "Advise that 4 ampoules is the correct pritchard preparation for this patient at this gestation",
+    "Advise that 2 ampoules is the correct pritchard preparation for this patient at this gestation",
+    "Advise that 20 ampoules is the correct pritchard preparation for this patient at this gestation",
+    "Advise that 10 ampoules is the correct pritchard preparation for this patient at this gestation"
    ],
    "ans": 3,
-   "exp": "Ten 1-g ampoules are required for the 10-g IM loading dose. (Book p404)"
+   "exp": "Ten 1-g ampoules are required for the 10-g IM loading dose. (Book p404)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C8-055",
    "sec": "Pritchard preparation",
    "page": 404,
-   "q": "How is the 4-g IV Pritchard loading dose prepared in the source notes?",
+   "q": "Which statement about Pritchard preparation — Four ampoules with is TRUE?",
    "opts": [
-    "Four ampoules plus 12 mL normal saline to make 20 mL of about 20% solution",
-    "One ampoule in 100 mL dextrose",
-    "Ten ampoules undiluted IM",
-    "Four ampoules in 500 mL Ringer lactate"
+    "Four ampoules plus 12 mL normal saline to make 20 mL of about 20% solution is the listed pritchard preparation as per the notes",
+    "One ampoule in 100 mL dextrose is the listed pritchard preparation as per the notes",
+    "Ten ampoules undiluted IM is the listed pritchard preparation as per the notes",
+    "Four ampoules in 500 mL Ringer lactate is the listed pritchard preparation as per the notes"
    ],
    "ans": 0,
-   "exp": "Four ampoules with 12 mL NS make 20 mL containing 4 g, approximately 20% MgSO4. (Book p404)"
+   "exp": "Four ampoules with 12 mL NS make 20 mL containing 4 g, approximately 20% MgSO4. (Book p404)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-056",
@@ -1380,105 +1414,112 @@
    "id": "OBG-C8-057",
    "sec": "Pritchard loading",
    "page": 405,
-   "q": "Is renal function checked before the Pritchard loading dose according to the notes?",
+   "q": "Which statement about Pritchard loading — notes state renal is TRUE?",
    "opts": [
-    "No; loading is given irrespective of renal status",
-    "Yes; a normal creatinine is required",
-    "Only in labor",
-    "Only if hypertension is mild"
+    "No; loading is given irrespective of renal status is the listed pritchard loading as per the notes",
+    "Yes; a normal creatinine is required is the listed pritchard loading as per the notes",
+    "Only in labor is the listed pritchard loading as per the notes",
+    "Only if hypertension is mild is the listed pritchard loading as per the notes"
    ],
    "ans": 0,
-   "exp": "The notes state renal function is not checked before loading; loading is given irrespective of renal status. (Book p405)"
+   "exp": "The notes state renal function is not checked before loading; loading is given irrespective of renal status. (Book p405)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-058",
    "sec": "Pritchard loading",
    "page": 405,
-   "q": "What maternal parameter should be monitored while giving IV MgSO4?",
+   "q": "Which statement about Pritchard loading — Maternal heart rate is TRUE?",
    "opts": [
-    "Maternal Rh type only",
-    "Maternal heart rate",
-    "Fundal height only",
-    "HbA1c only"
+    "Maternal Rh type only is monitored during IV administration",
+    "Maternal heart rate is monitored during IV administration",
+    "Fundal height only is monitored during IV administration",
+    "HbA1c only is monitored during IV administration"
    ],
    "ans": 1,
-   "exp": "Maternal heart rate is monitored during IV administration. (Book p405)"
+   "exp": "Maternal heart rate is monitored during IV administration. (Book p405)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-059",
    "sec": "Pritchard maintenance",
    "page": 405,
-   "q": "What is the Pritchard IM maintenance dose and schedule?",
+   "q": "Which statement about Pritchard maintenance — Maintenance 5 g is TRUE?",
    "opts": [
-    "4 g IV every hour",
-    "1 g orally twice daily",
-    "5 g of 50% solution IM every 4 hours in alternate buttocks",
-    "10 g IM once daily in the same buttock"
+    "4 g IV every hour is the listed pritchard maintenance as per the notes",
+    "1 g orally twice daily is the listed pritchard maintenance as per the notes",
+    "5 g of 50% solution IM every 4 hours in alternate buttocks is the listed pritchard maintenance as per the notes",
+    "10 g IM once daily in the same buttock is the listed pritchard maintenance as per the notes"
    ],
    "ans": 2,
-   "exp": "Maintenance is 5 g of 50% MgSO4 IM every 4 hours in alternate buttocks. (Book p405)"
+   "exp": "Maintenance is 5 g of 50% MgSO4 IM every 4 hours in alternate buttocks. (Book p405)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-060",
    "sec": "Pritchard maintenance",
    "page": 405,
-   "q": "How long is Pritchard maintenance continued?",
+   "q": "Which statement about Pritchard maintenance — Maintenance continues for is TRUE?",
    "opts": [
-    "Only until the seizure stops, after which the magnesium is discontinued",
-    "For seven days after delivery, to cover the late risk of seizures",
-    "Until 20 weeks of gestation in cases of early severe disease",
-    "Until 24 hours after delivery or 24 hours after the last convulsion, whichever is later"
+    "Only until the seizure stops, after which the magnesium is discontinued is the listed pritchard maintenance as per the notes",
+    "For seven days after delivery, to cover the late risk of seizures is the listed pritchard maintenance as per the notes",
+    "Until 20 weeks of gestation in cases of early severe disease is the listed pritchard maintenance as per the notes",
+    "Until 24 hours after delivery or 24 hours after the last convulsion, whichever is later is the listed pritchard maintenance as per the notes"
    ],
    "ans": 3,
-   "exp": "Maintenance continues for 24 hours after delivery or 24 hours after the last convulsion, whichever comes later. (Book p405)"
+   "exp": "Maintenance continues for 24 hours after delivery or 24 hours after the last convulsion, whichever comes later. (Book p405)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C8-061",
    "sec": "MgSO4 monitoring",
    "page": 405,
-   "q": "Which deep-tendon-reflex finding is required before each MgSO4 maintenance dose?",
+   "q": "A 24-year-old G2P1L1 at 8 weeks gestation presents for antenatal evaluation and counselling regarding mgso4 monitoring. According to the notes, a present knee jerk/deep tendon reflex is required before maintenance. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Knee jerk/deep tendon reflex present",
-    "Absent knee jerk",
-    "Hyperreflexia is mandatory",
-    "Reflexes are irrelevant"
+    "Advise that knee jerk/deep tendon reflex present is the correct mgso4 monitoring for this patient at this gestation",
+    "Advise that absent knee jerk is the correct mgso4 monitoring for this patient at this gestation",
+    "Advise that hyperreflexia is mandatory is the correct mgso4 monitoring for this patient at this gestation",
+    "Advise that reflexes are irrelevant is the correct mgso4 monitoring for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "A present knee jerk/deep tendon reflex is required before maintenance. (Book p405)"
+   "exp": "A present knee jerk/deep tendon reflex is required before maintenance. (Book p405)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C8-062",
    "sec": "MgSO4 monitoring",
    "page": 405,
-   "q": "What minimum respiratory rate is required before MgSO4 maintenance?",
+   "q": "A 32-year-old G2P1L1 at 8 weeks gestation presents for antenatal evaluation and counselling regarding mgso4 monitoring. According to the notes, respiratory rate must be at least 12/min. What is the most appropriate counselling for this patient?",
    "opts": [
-    "No rate assessment is needed",
-    "At least 12 per minute",
-    "At least 6 per minute",
-    "At least 30 per minute"
+    "Advise that no rate assessment is needed is the correct mgso4 monitoring for this patient at this gestation",
+    "Advise that at least 12 per minute is the correct mgso4 monitoring for this patient at this gestation",
+    "Advise that at least 6 per minute is the correct mgso4 monitoring for this patient at this gestation",
+    "Advise that at least 30 per minute is the correct mgso4 monitoring for this patient at this gestation"
    ],
    "ans": 1,
-   "exp": "Respiratory rate must be at least 12/min. (Book p405)"
+   "exp": "Respiratory rate must be at least 12/min. (Book p405)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C8-063",
    "sec": "MgSO4 monitoring",
    "page": 405,
-   "q": "What minimum urine output is required before MgSO4 maintenance?",
+   "q": "Match the mgso4 monitoring with the correct detail — 1) minimum urine output is required before MgSO4 maintenance 2) is the first clinical sign of magnesium sulfate 3) At approximately what serum magnesium level is loss … A) At least 100 cc in 4 hours B) Loss of knee jerk C) 9–10 mEq/L",
    "opts": [
-    "At least 1 L in 1 hour",
-    "No urine output is needed",
-    "At least 100 cc in 4 hours",
-    "At least 10 cc in 24 hours"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
-   "ans": 2,
-   "exp": "Urine output must be at least 100 cc over 4 hours. (Book p405)"
+   "ans": 0,
+   "exp": "Urine output must be at least 100 cc over 4 hours. (Book p405)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C8-064",
    "sec": "Zuspan/Sibai regimen",
    "page": 405,
-   "q": "Which MgSO4 regimen is recommended by ACOG in the notes?",
+   "q": "Fill up: The notes identify ______ as ACOG recommended.",
    "opts": [
     "Pritchard IM regimen only",
     "Mississippi regimen",
@@ -1486,27 +1527,29 @@
     "Zuspan/Sibai regimen"
    ],
    "ans": 3,
-   "exp": "The notes identify Zuspan/Sibai as ACOG recommended. (Book p405)"
+   "exp": "The notes identify Zuspan/Sibai as ACOG recommended. (Book p405)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-065",
    "sec": "Zuspan/Sibai regimen",
    "page": 405,
-   "q": "What is the IV loading dose in the Zuspan/Sibai regimen?",
+   "q": "Match the zuspan/sibai regimen with the correct detail — 1) is the IV loading dose in the Zuspan/Sibai 2) is the IV maintenance infusion rate in the 3) MgSO4 regimen is recommended by ACOG in the … A) 4–6 g in 100 mL IV fluid over 15–20 minutes B) 1–2 g/hour in 100 mL IV infusion C) Zuspan/Sibai regimen",
    "opts": [
-    "4–6 g in 100 mL IV fluid over 15–20 minutes",
-    "10 g IM in each buttock",
-    "5 g IV push without dilution",
-    "20 g oral dose"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "Zuspan/Sibai loading is 4–6 g in 100 mL IV fluid over 15–20 minutes. (Book p405)"
+   "exp": "Zuspan/Sibai loading is 4–6 g in 100 mL IV fluid over 15–20 minutes. (Book p405)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C8-066",
    "sec": "Zuspan/Sibai regimen",
    "page": 405,
-   "q": "What is the IV maintenance infusion rate in the Zuspan/Sibai regimen?",
+   "q": "Fill up: Zuspan/Sibai maintenance is ______ in IV infusion.",
    "opts": [
     "No maintenance treatment",
     "1–2 g/hour in 100 mL IV infusion",
@@ -1514,21 +1557,23 @@
     "10 g/hour"
    ],
    "ans": 1,
-   "exp": "Zuspan/Sibai maintenance is 1–2 g/hour in IV infusion. (Book p405)"
+   "exp": "Zuspan/Sibai maintenance is 1–2 g/hour in IV infusion. (Book p405)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C8-067",
    "sec": "MgSO4 toxicity",
    "page": 405,
-   "q": "What is the first clinical sign of magnesium sulfate toxicity?",
+   "q": "A 26-year-old second gravida at 8 weeks gestation presents for antenatal evaluation and counselling regarding mgso4 toxicity. According to the notes, loss of the knee jerk is the first toxicity sign. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Pulmonary edema",
-    "Oliguria",
-    "Loss of knee jerk",
-    "Cardiac arrest"
+    "Advise that pulmonary edema is the correct mgso4 toxicity for this patient at this gestation",
+    "Advise that oliguria is the correct mgso4 toxicity for this patient at this gestation",
+    "Advise that loss of knee jerk is the correct mgso4 toxicity for this patient at this gestation",
+    "Advise that cardiac arrest is the correct mgso4 toxicity for this patient at this gestation"
    ],
    "ans": 2,
-   "exp": "Loss of the knee jerk is the first toxicity sign. (Book p405)"
+   "exp": "Loss of the knee jerk is the first toxicity sign. (Book p405)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C8-068",

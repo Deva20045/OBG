@@ -1,0 +1,262 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C19-017",
+    "q": "Fill up: Palpable ______ mmHg, painful 15 mmHg, cervical dilatation 20–25 mmHg.",
+    "opts": [
+      "10 mmHg; 15 mmHg; 20–25 mmHg",
+      "15 mmHg; 10 mmHg; 40 mmHg",
+      "20 mmHg; 25 mmHg; 50 mmHg",
+      "5 mmHg; 10 mmHg; 15 mmHg"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-018",
+    "q": "A 28-year-old second gravida at 12 weeks gestation presents for antenatal evaluation and counselling regarding the 3 ps & physiology of uterine contractions. According to the notes, 1st stage 40–50 mmHg; 2nd/3rd stage 100–120 mmHg; basal tone 10–20 mmHg; monitored every 30 min. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that 40–50 mmhg : 100–120 mmhg : 10–20 mmhg is the correct the 3 ps & physiology of uterine contractions for this patient at this gestation",
+      "Advise that 100–120 : 40–50 : 5 mmhg is the correct the 3 ps & physiology of uterine contractions for this patient at this gestation",
+      "Advise that 20–25 : 40–50 : 10 mmhg is the correct the 3 ps & physiology of uterine contractions for this patient at this gestation",
+      "Advise that 60–75 : 120–150 : 20–30 is the correct the 3 ps & physiology of uterine contractions for this patient at this gestation"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-019",
+    "q": "Fill up: 1 MVU = ______ (mmHg) × number of contractions in 10 min; adequate = 200–220 MVU.",
+    "opts": [
+      "Strength of contraction (mmHg) × number of contractions in 10 min",
+      "Duration (sec) × number in 10 min",
+      "Strength (mmHg) ÷ duration",
+      "Number of contractions per hour × 10"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-020",
+    "q": "Fill up: Upper segment = ______ uterus (contracts); lower segment = isthmus (passively dilates); effaced cervix becomes part of LUS. Blood flow to uterus ↓ during contractions.",
+    "opts": [
+      "Entire uterus; contracts; isthmus; passively dilates; lower uterine segment",
+      "Isthmus; dilates; fundus; contracts; upper segment",
+      "Fundus; relaxes; cervix; contracts; vagina",
+      "Corpus; dilates; isthmus; contracts; fundus"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-022",
+    "q": "Fill up: Tachysystole = ______/10 min; m/c cause misoprostol > oxytocin.",
+    "opts": [
+      ">5 contractions in 10 min; misoprostol (> oxytocin)",
+      ">3 in 10 min; oxytocin",
+      "Contractions >60 sec; dinoprostone",
+      ">7 in 10 min; Foley catheter"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-023",
+    "q": "Match the tachysystole, precipitate labour & hypotonic contractions with the correct detail — 1) The consequence of tachysystole and its CTG picture 2) Management sequence of tachysystole: 3) Precipitate labour is defined as completion of the … A) Fetal distress due to ↓ blood supply; prolonged deceleration B) Stop the oxytocin, turn her to the left, give oxygen, fluids if needed, then terbutaline C) <3 hours; perineal tear, hematoma, PPH",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-A, 2-C, 3-B",
+      "1-B, 2-A, 3-C",
+      "1-C, 2-B, 3-A"
+    ],
+    "ans": 0,
+    "fmt": "match"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-024",
+    "q": "All of the following are Tachysystole, precipitate labour & hypotonic contractions — Management sequence of tachysystole: EXCEPT:",
+    "opts": [
+      "Fetal distress due to ↓ blood supply; prolonged deceleration",
+      ">5 contractions in 10 min; misoprostol (> oxytocin)",
+      "Push (contractions), Passage (pelvis), Passenger (baby)",
+      "Stop the oxytocin, turn her to the left, give oxygen, fluids if needed, then terbutaline"
+    ],
+    "ans": 2,
+    "fmt": "oddoneout"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-025",
+    "q": "Fill up: Precipitate labour: entire process ______ h → perineal tear, hematoma, PPH.",
+    "opts": [
+      "<3 hours; perineal tear, hematoma, PPH",
+      "<1 hour; uterine inversion only",
+      "<6 hours; retained placenta",
+      "<12 hours; fetal distress"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-026",
+    "q": "A 30-year-old G3P1L1 at 12 weeks gestation presents for antenatal evaluation and counselling regarding tachysystole, precipitate labour & hypotonic contractions. According to the notes, hypotonic contractions lead to prolonged or slow progress of labour and are managed by augmentation with artificial rupture of membranes and oxytocin. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that prolonged slow progress of labour; augmentation with arm and oxytocin is the correct tachysystole, precipitate labour & hypotonic contractions for this patient at this gestation",
+      "Advise that fetal distress from reduced perfusion; tocolysis with terbutaline is the correct tachysystole, precipitate labour & hypotonic contractions for this patient at this gestation",
+      "Advise that precipitate labour with rapid delivery; tocolysis and bed rest is the correct tachysystole, precipitate labour & hypotonic contractions for this patient at this gestation",
+      "Advise that uterine rupture with severe pain; immediate caesarean section is the correct tachysystole, precipitate labour & hypotonic contractions for this patient at this gestation"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-028",
+    "q": "Which statement about Augmentation of labour — Kocher s forceps is TRUE?",
+    "opts": [
+      "Kocher's forceps, with a single tooth, rat-like teeth, a ratchet lock and transverse serrations is the listed augmentation of labour as per the notes",
+      "Allis forceps, which are identified by several fine teeth on the jaws is the listed augmentation of labour as per the notes",
+      "A sponge holder, which is identified by its smooth, atraumatic jaws is the listed augmentation of labour as per the notes",
+      "An amnihook, which is identified by its single plastic hook is the listed augmentation of labour as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-029",
+    "q": "Fill up: Rupture of membranes releases ______ which augments labour.",
+    "opts": [
+      "PGE2",
+      "Oxytocin",
+      "PGF2α",
+      "Estrogen"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-030",
+    "q": "Match the augmentation of labour with the correct detail — 1) Absolute contraindications to ARM are: 2) In abruptio placentae, ARM is beneficial because it: 3) Indication for augmentation is slow progress (dilatation <1 … A) Maternal HIV, genital herpes infection, IUD of fetus B) Confirms the diagnosis and accelerates the process of labour C) Engaged: ARM → 30 min → oxytocin; not engaged: oxytocin followed by ARM (↑ cord prolapse risk)",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-A, 2-C, 3-B",
+      "1-B, 2-A, 3-C",
+      "1-C, 2-B, 3-A"
+    ],
+    "ans": 0,
+    "fmt": "match"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-031",
+    "q": "Which statement about Augmentation of labour — ARM in abruptio is TRUE?",
+    "opts": [
+      "Confirms the diagnosis and accelerates the process of labour is the listed augmentation of labour as per the notes",
+      "Stops the bleeding by tamponade is the listed augmentation of labour as per the notes",
+      "Reduces risk of DIC directly is the listed augmentation of labour as per the notes",
+      "Allows external cephalic version is the listed augmentation of labour as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-032",
+    "q": "Which statement about Augmentation of labour — Head engaged ARM is TRUE?",
+    "opts": [
+      "Engaged: ARM → 30 min → oxytocin; not engaged: oxytocin followed by ARM (↑ cord prolapse risk) is the listed augmentation of labour as per the notes",
+      "Engaged: oxytocin → ARM; not engaged: ARM → oxytocin is the listed augmentation of labour as per the notes",
+      "Both: ARM immediately followed by oxytocin is the listed augmentation of labour as per the notes",
+      "Both: oxytocin only is the listed augmentation of labour as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-034",
+    "q": "Which statement about Cardinal movements & the process of labour — Engagement descent flexion is TRUE?",
+    "opts": [
+      "Engagement → descent → flexion → internal rotation & crowning → extension → external rotation (restitution) → expulsion is the listed cardinal movements & the process of labour as per the notes",
+      "Descent → engagement → extension → flexion → internal rotation → expulsion → restitution is the listed cardinal movements & the process of labour as per the notes",
+      "Engagement → flexion → descent → extension → internal rotation → restitution → expulsion is the listed cardinal movements & the process of labour as per the notes",
+      "Flexion → engagement → descent → crowning → internal rotation → expulsion → extension is the listed cardinal movements & the process of labour as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-035",
+    "q": "Which statement about Cardinal movements & the process of labour — Normal delivery longitudinal is TRUE?",
+    "opts": [
+      "Longitudinal; cephalic; vertex is the listed cardinal movements & the process of labour as per the notes",
+      "Longitudinal; breech; sacrum is the listed cardinal movements & the process of labour as per the notes",
+      "Oblique; cephalic; brow is the listed cardinal movements & the process of labour as per the notes",
+      "Transverse; shoulder; acromion is the listed cardinal movements & the process of labour as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-036",
+    "q": "A 32-year-old primigravida at 9 weeks gestation presents for antenatal evaluation and counselling regarding cardinal movements & the process of labour. According to the notes, occiput rotates 2/8th of a circle (90°) at the ischial spine level: 45° by neck + 45° by shoulders. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that 2/8th; ischial spine; 45°; 45° is the correct cardinal movements & the process of labour for this patient at this gestation",
+      "Advise that 1/8th; ischial tuberosity; 45°; 0° is the correct cardinal movements & the process of labour for this patient at this gestation",
+      "Advise that 3/8th; pelvic brim; 90°; 45° is the correct cardinal movements & the process of labour for this patient at this gestation",
+      "Advise that 2/8th; pelvic outlet; 60°; 30° is the correct cardinal movements & the process of labour for this patient at this gestation"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-037",
+    "q": "A 26-year-old primigravida at 9 weeks gestation presents for antenatal evaluation and counselling regarding cardinal movements & the process of labour. According to the notes, crowning is the head seen at the labia irrespective of contractions, with episiotomy only if required. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that head seen at the labia irrespective of contractions, episiotomy only if needed is the correct cardinal movements & the process of labour for this patient at this gestation",
+      "Advise that head visible at the labia only during a contraction is the correct cardinal movements & the process of labour for this patient at this gestation",
+      "Advise that descent of the head down onto the pelvic levator ani muscle is the correct cardinal movements & the process of labour for this patient at this gestation",
+      "Advise that delivery of the head by extension over the stretched perineum is the correct cardinal movements & the process of labour for this patient at this gestation"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-038",
+    "q": "Which statement about Cardinal movements & the process of labour — Restitution untwists neck is TRUE?",
+    "opts": [
+      "Restitution: the neck untwists after delivery — external rotation: the shoulders turn one eighth of a circle is the listed cardinal movements & the process of labour as per the notes",
+      "Restitution: the shoulders rotate one eighth — external rotation: the neck untwists is the listed cardinal movements & the process of labour as per the notes",
+      "Restitution: the head extends as it is born — external rotation: the head flexes back is the listed cardinal movements & the process of labour as per the notes",
+      "Restitution: descent through the cavity — external rotation: expulsion of the body is the listed cardinal movements & the process of labour as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C19-039",
+    "q": "Which statement about Cardinal movements & the process of labour — WHO recommends perineal is TRUE?",
+    "opts": [
+      "Perineal massage, warm towel, support the perineum, flex then extend the head is the listed cardinal movements & the process of labour as per the notes",
+      "Routine episiotomy, fundal pressure, and early maternal pushing efforts is the listed cardinal movements & the process of labour as per the notes",
+      "Lithotomy position, the Kristeller manoeuvre, and perineal shaving is the listed cardinal movements & the process of labour as per the notes",
+      "Vacuum extraction, perineal shaving, and routine episiotomy in all is the listed cardinal movements & the process of labour as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  }
+]

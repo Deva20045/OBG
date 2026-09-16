@@ -1,0 +1,262 @@
+[
+  {
+    "op": "edit",
+    "id": "OBG-C2-018",
+    "q": "Match the dating and fetal demise with the correct detail — 1) A patient with a confirmed IUD retained for 2) A 28-year-old woman at 20 weeks with dating 3) Fill up: While idiopathic is common overall, ______ … A) Disseminated intravascular coagulation (DIC) B) >= 20 weeks of gestation (or birth weight >= 500 g) C) Unrecognized intrauterine growth restriction (IUGR)",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-A, 2-C, 3-B",
+      "1-B, 2-A, 3-C",
+      "1-C, 2-B, 3-A"
+    ],
+    "ans": 0,
+    "fmt": "match"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-019",
+    "q": "Fill up: Gravida ______ the total number of times a woman has been pregnant, including the current pregnancy regardless of gestational age.",
+    "opts": [
+      "Is always included in the gravidity count",
+      "Is excluded from gravidity until viability is reached",
+      "Is only included if it has progressed past the first trimester",
+      "Is counted as parity, not gravidity"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-020",
+    "q": "Which statement about Obstetrical terminology — In India period is TRUE?",
+    "opts": [
+      "28 completed weeks of gestation is the listed obstetrical terminology as per the notes",
+      "20 completed weeks of gestation is the listed obstetrical terminology as per the notes",
+      "24 completed weeks of gestation is the listed obstetrical terminology as per the notes",
+      "22 completed weeks of gestation is the listed obstetrical terminology as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-021",
+    "q": "Which statement about Obstetrical terminology — In GTPAL term is TRUE?",
+    "opts": [
+      "Number of preterm deliveries (20-36w6d) and number of abortions (<20w) is the listed obstetrical terminology as per the notes",
+      "Number of living children and number of abortions is the listed obstetrical terminology as per the notes",
+      "Number of term deliveries and number of preterm deliveries is the listed obstetrical terminology as per the notes",
+      "Number of stillbirths and number of ectopic gestations is the listed obstetrical terminology as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-022",
+    "q": "Fill up: She conceived 3 times (G3). Deliveries: 1 term (a=1), 1 twin delivery at 34w (counts as 1 preterm birth, b=1), 1 abortion (c=1), and 3 living children (d=3): ______.",
+    "opts": [
+      "G3 P 1+1+1+3",
+      "G4 P 1+2+1+3",
+      "G3 P 1+2+1+2",
+      "G4 P 2+1+1+3"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-024",
+    "q": "Which statement about Obstetrical terminology — multipara has given is TRUE?",
+    "opts": [
+      "Given birth 5 or more times is the listed obstetrical terminology as per the notes",
+      "Given birth 2 or more times is the listed obstetrical terminology as per the notes",
+      "Conceived 5 or more times regardless of outcome is the listed obstetrical terminology as per the notes",
+      "Conceived 3 or more times is the listed obstetrical terminology as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-025",
+    "q": "A 26-year-old second gravida at 10 weeks gestation presents for antenatal evaluation and counselling regarding obstetrical terminology. According to the notes, an elderly primigravida is a woman who is pregnant for the very first time at >=35 years of age. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that conceives for the first time at or above 35 years of age is the correct obstetrical terminology for this patient at this gestation",
+      "Advise that conceives for the first time at or above 30 years of age is the correct obstetrical terminology for this patient at this gestation",
+      "Advise that delivers for the second time above 40 years of age is the correct obstetrical terminology for this patient at this gestation",
+      "Advise that conceives via art above 32 years of age is the correct obstetrical terminology for this patient at this gestation"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-026",
+    "q": "A 24-year-old G3P1L1 at 6 weeks gestation presents for antenatal evaluation and counselling regarding clinical signs of pregnancy. According to the notes, goodell's sign is the earliest probable sign on bimanual examination; Hegar's and Piskacek's follow a little later. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that goodell's sign, softening of the cervix felt from about six weeks is the correct clinical signs of pregnancy for this patient at this gestation",
+      "Advise that hegar's sign, softening of the lower uterine segment is the correct clinical signs of pregnancy for this patient at this gestation",
+      "Advise that piskacek's sign, asymmetrical softening of the uterine cornu is the correct clinical signs of pregnancy for this patient at this gestation",
+      "Advise that palmer's sign, rhythmic contraction of the uterus felt on examination is the correct clinical signs of pregnancy for this patient at this gestation"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-027",
+    "q": "Which statement about Clinical signs of pregnancy — Piskacek s sign is TRUE?",
+    "opts": [
+      "Asymmetrical enlargement of the uterus due to eccentric implantation is the listed clinical signs of pregnancy as per the notes",
+      "Softening of the lower uterine segment/isthmus is the listed clinical signs of pregnancy as per the notes",
+      "Pulsations felt in the lateral vaginal fornix is the listed clinical signs of pregnancy as per the notes",
+      "Violet discoloration of the vulva is the listed clinical signs of pregnancy as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-028",
+    "q": "A 32-year-old G3P1L1 at 8 weeks gestation presents for antenatal evaluation and counselling regarding clinical signs of pregnancy. According to the notes, osiander's sign refers to marked pulsations felt in the lateral vaginal fornices due to increased blood flow in the descending vaginal branches of the uterine arteries. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that osiander's sign is the correct clinical signs of pregnancy for this patient at this gestation",
+      "Advise that chadwick's sign is the correct clinical signs of pregnancy for this patient at this gestation",
+      "Advise that goodell's sign is the correct clinical signs of pregnancy for this patient at this gestation",
+      "Advise that palmer's sign is the correct clinical signs of pregnancy for this patient at this gestation"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-029",
+    "q": "Fill up: Hegar's sign is present when bimanual examination detects a soft, compressible, and empty lower uterine isthmus between ______ cervix and the uterine corpus.",
+    "opts": [
+      "The abdominal and vaginal examining fingers easily approximate each other through the softened, empty lower uterine isthmus",
+      "The cervix exhibits a velvety softening and purplish coloration",
+      "Rhythmic, painless uterine contractions are palpated",
+      "The uterine body can be separated from the adnexa on deep palpation"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-030",
+    "q": "Match the clinical signs of pregnancy with the correct detail — 1) of the following signs or symptoms provides definitive 2) Quickening—the maternal perception of initial fetal movements—is typically 3) At approximately 12 weeks of gestation, the uterine … A) Demonstration of fetal cardiac activity on ultrasound B) 18-20 weeks and 16-18 weeks, respectively C) At the upper border of the pubic symphysis",
+    "opts": [
+      "1-A, 2-B, 3-C",
+      "1-A, 2-C, 3-B",
+      "1-B, 2-A, 3-C",
+      "1-C, 2-B, 3-A"
+    ],
+    "ans": 0,
+    "fmt": "match"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-031",
+    "q": "Which statement about Clinical signs of pregnancy — Quickening perceived around is TRUE?",
+    "opts": [
+      "18-20 weeks and 16-18 weeks, respectively is the listed clinical signs of pregnancy as per the notes",
+      "14-16 weeks and 12-14 weeks, respectively is the listed clinical signs of pregnancy as per the notes",
+      "20-22 weeks and 18-20 weeks, respectively is the listed clinical signs of pregnancy as per the notes",
+      "16-18 weeks and 18-20 weeks, respectively is the listed clinical signs of pregnancy as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-033",
+    "q": "Fill up: Hand-held Doppler detects FHS at ______, whereas a Pinard fetoscope/stethoscope detects FHS by 18-20 weeks.",
+    "opts": [
+      "10-12 weeks by Doppler and 18-20 weeks by stethoscope",
+      "6 weeks by Doppler and 12 weeks by stethoscope",
+      "14 weeks by Doppler and 24 weeks by stethoscope",
+      "16 weeks by Doppler and 20 weeks by stethoscope"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-034",
+    "q": "A 32-year-old G2P1L1 at 16 weeks gestation presents for antenatal evaluation and counselling regarding clinical signs of pregnancy. According to the notes, internal ballottement is elicited per vaginam from 16 weeks, while external abdominal ballottement is evident by 20 weeks. What is the most appropriate counselling for this patient?",
+    "opts": [
+      "Advise that 20 weeks of gestation is the correct clinical signs of pregnancy for this patient at this gestation",
+      "Advise that 12 weeks of gestation is the correct clinical signs of pregnancy for this patient at this gestation",
+      "Advise that 28 weeks of gestation is the correct clinical signs of pregnancy for this patient at this gestation",
+      "Advise that 32 weeks of gestation is the correct clinical signs of pregnancy for this patient at this gestation"
+    ],
+    "ans": 0,
+    "fmt": "scenario"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-035",
+    "q": "Which statement about Fundal height landmarks — At 12 weeks is TRUE?",
+    "opts": [
+      "At the upper border of the pubic symphysis is the listed fundal height landmarks as per the notes",
+      "Midway between pubic symphysis and umbilicus is the listed fundal height landmarks as per the notes",
+      "At the lower border of the umbilicus is the listed fundal height landmarks as per the notes",
+      "It remains entirely an intrapelvic organ and cannot be felt is the listed fundal height landmarks as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-036",
+    "q": "Fill up: The fundus reaches the lower border of the umbilicus at 20 weeks and the upper border of the umbilicus at ______.",
+    "opts": [
+      "24 weeks",
+      "20 weeks",
+      "16 weeks",
+      "28 weeks"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-037",
+    "q": "Which statement about Fundal height landmarks — fundal height reaches is TRUE?",
+    "opts": [
+      "The fundal height reaches the Xiphisternum at 36 weeks, causing maximal maternal breathlessness",
+      "The fundal height reaches the Costal margin at 36 weeks, causing maximal maternal breathlessness",
+      "The fundal height reaches the Umbilicus at 36 weeks, causing maximal maternal breathlessness",
+      "The fundal height reaches the Two-thirds distance between umbilicus and xiphisternum at 36 weeks, causing maximal maternal breathlessness"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-038",
+    "q": "Which statement about Fundal height landmarks — When fundal height is TRUE?",
+    "opts": [
+      "Lightening, or the welcome sign, from engagement of the head is the listed fundal height landmarks as per the notes",
+      "Uteroplacental insufficiency with a falling fundal height is the listed fundal height landmarks as per the notes",
+      "Pathological oligohydramnios with reduced fetal growth is the listed fundal height landmarks as per the notes",
+      "Arrest of engagement with a persistently floating head is the listed fundal height landmarks as per the notes"
+    ],
+    "ans": 0,
+    "fmt": "truefalse"
+  },
+  {
+    "op": "edit",
+    "id": "OBG-C2-039",
+    "q": "Fill up: ______ weeks, the fetal head is engaged/felt on deep pelvic palpation and flanks are full; at 32 weeks the head is not engaged and flanks are empty.",
+    "opts": [
+      "At 40 weeks the fetal head is engaged in the pelvis and the flanks are full",
+      "At 32 weeks the fetal head is deeply engaged in the pelvis",
+      "At 40 weeks the flanks are entirely empty and narrow",
+      "At 32 weeks there is marked pelvic lightening"
+    ],
+    "ans": 0,
+    "fmt": "fillup"
+  }
+]

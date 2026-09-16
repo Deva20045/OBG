@@ -560,7 +560,7 @@
    "id": "OBG-C10-002",
    "sec": "Abortion methods",
    "page": 428,
-   "q": "What setting is stated for first-trimester medical abortion?",
+   "q": "Fill up: First-trimester medical abortion is managed on an ______.",
    "opts": [
     "Operating theatre only",
     "No clinical follow-up",
@@ -568,13 +568,14 @@
     "Mandatory ICU admission"
    ],
    "ans": 2,
-   "exp": "First-trimester medical abortion is managed on an OPD basis. (Book p428)"
+   "exp": "First-trimester medical abortion is managed on an OPD basis. (Book p428)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-003",
    "sec": "Abortion methods",
    "page": 428,
-   "q": "Which surgical method is listed for first-trimester abortion?",
+   "q": "Fill up: ______ is a listed first-trimester method.",
    "opts": [
     "Hysterotomy only",
     "Dilatation and evacuation only",
@@ -582,27 +583,29 @@
     "Suction evacuation"
    ],
    "ans": 3,
-   "exp": "Suction evacuation is a listed first-trimester method. (Book p428)"
+   "exp": "Suction evacuation is a listed first-trimester method. (Book p428)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-004",
    "sec": "Abortion methods",
    "page": 428,
-   "q": "Which method is especially listed for rural areas in the first trimester?",
+   "q": "Which statement about Abortion methods — MVA listed for is TRUE?",
    "opts": [
-    "Manual vacuum aspiration",
-    "Hysterotomy",
-    "Intra-amniotic saline",
-    "Dilatation and evacuation only"
+    "Manual vacuum aspiration is the listed abortion methods as per the notes",
+    "Hysterotomy is the listed abortion methods as per the notes",
+    "Intra-amniotic saline is the listed abortion methods as per the notes",
+    "Dilatation and evacuation only is the listed abortion methods as per the notes"
    ],
    "ans": 0,
-   "exp": "MVA is listed for rural areas. (Book p428)"
+   "exp": "MVA is listed for rural areas. (Book p428)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-005",
    "sec": "Abortion methods",
    "page": 428,
-   "q": "Which first-trimester method is described as outdated?",
+   "q": "Fill up: ______ is marked outdated.",
    "opts": [
     "Medical abortion",
     "Menstrual regulation",
@@ -610,13 +613,14 @@
     "MVA"
    ],
    "ans": 1,
-   "exp": "Menstrual regulation is marked outdated. (Book p428)"
+   "exp": "Menstrual regulation is marked outdated. (Book p428)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-006",
    "sec": "Abortion methods",
    "page": 428,
-   "q": "What setting is stated for second-trimester medical abortion?",
+   "q": "Fill up: Setting is stated for second-trimester medical abortion is ______.",
    "opts": [
     "Home treatment only",
     "No medical option exists",
@@ -624,77 +628,83 @@
     "OPD without observation"
    ],
    "ans": 2,
-   "exp": "Second-trimester medical abortion is an inpatient procedure. (Book p428)"
+   "exp": "Second-trimester medical abortion is an inpatient procedure. (Book p428)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-007",
    "sec": "Second-trimester abortion",
    "page": 428,
-   "q": "Which prostaglandin is listed as an option for second-trimester medical abortion?",
+   "q": "Which statement about Second-trimester abortion — Misoprostol listed among is TRUE?",
    "opts": [
-    "Levothyroxine",
-    "Anti-D",
-    "Warfarin",
-    "Misoprostol"
+    "Levothyroxine is listed among second-trimester prostaglandin options",
+    "Anti-D is listed among second-trimester prostaglandin options",
+    "Warfarin is listed among second-trimester prostaglandin options",
+    "Misoprostol is listed among second-trimester prostaglandin options"
    ],
    "ans": 3,
-   "exp": "Misoprostol is listed among second-trimester prostaglandin options. (Book p428)"
+   "exp": "Misoprostol is listed among second-trimester prostaglandin options. (Book p428)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-008",
    "sec": "Second-trimester abortion",
    "page": 428,
-   "q": "Which non-prostaglandin medication is listed for second-trimester medical abortion?",
+   "q": "Which statement about Second-trimester abortion — Oxytocin listed second is TRUE?",
    "opts": [
-    "Oxytocin",
-    "Insulin",
-    "Aspirin",
-    "Propranolol"
+    "Oxytocin is a listed second-trimester medical-abortion option",
+    "Insulin is a listed second-trimester medical-abortion option",
+    "Aspirin is a listed second-trimester medical-abortion option",
+    "Propranolol is a listed second-trimester medical-abortion option"
    ],
    "ans": 0,
-   "exp": "Oxytocin is a listed second-trimester medical-abortion option. (Book p428)"
+   "exp": "Oxytocin is a listed second-trimester medical-abortion option. (Book p428)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-009",
    "sec": "Second-trimester abortion",
    "page": 428,
-   "q": "Which instillation method is listed for second-trimester abortion?",
+   "q": "A 32-year-old G3P1L1 at 11 weeks gestation presents for antenatal evaluation and counselling regarding second-trimester abortion. According to the notes, extra-amniotic ethacridine instillation is listed. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Cervical MgSO4 instillation",
-    "Extra-amniotic ethacridine instillation",
-    "Intravascular anti-D instillation",
-    "Intrauterine insulin instillation"
+    "Advise that cervical mgso4 instillation is the correct second-trimester abortion for this patient at this gestation",
+    "Advise that extra-amniotic ethacridine instillation is the correct second-trimester abortion for this patient at this gestation",
+    "Advise that intravascular anti-d instillation is the correct second-trimester abortion for this patient at this gestation",
+    "Advise that intrauterine insulin instillation is the correct second-trimester abortion for this patient at this gestation"
    ],
    "ans": 1,
-   "exp": "Extra-amniotic ethacridine instillation is listed. (Book p428)"
+   "exp": "Extra-amniotic ethacridine instillation is listed. (Book p428)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C10-010",
    "sec": "Second-trimester abortion",
    "page": 428,
-   "q": "Which intra-amniotic procedure is listed for second-trimester abortion?",
+   "q": "Which statement about Second-trimester abortion — Intra amniotic saline is TRUE?",
    "opts": [
-    "Intra-amniotic anti-D",
-    "Intra-amniotic heparin",
-    "Intra-amniotic saline",
-    "Intra-amniotic insulin"
+    "Intra-amniotic anti-D is listed as a second-trimester option",
+    "Intra-amniotic heparin is listed as a second-trimester option",
+    "Intra-amniotic saline is listed as a second-trimester option",
+    "Intra-amniotic insulin is listed as a second-trimester option"
    ],
    "ans": 2,
-   "exp": "Intra-amniotic saline is listed as a second-trimester option. (Book p428)"
+   "exp": "Intra-amniotic saline is listed as a second-trimester option. (Book p428)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-011",
    "sec": "Second-trimester abortion",
    "page": 428,
-   "q": "Which surgical methods are listed for second-trimester abortion?",
+   "q": "Match the second-trimester abortion with the correct detail — 1) surgical methods are listed for second-trimester abortion 2) prostaglandin is listed as an option for second-trimester 3) non-prostaglandin medication is listed for second-trimester medical abortion … A) Suction evacuation and dilatation & evacuation B) Misoprostol C) Oxytocin",
    "opts": [
-    "Only menstrual regulation",
-    "Only MVA",
-    "Only expectant management",
-    "Suction evacuation and dilatation & evacuation"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
-   "ans": 3,
-   "exp": "Suction evacuation and D&E are listed surgical options in the second trimester. (Book p428)"
+   "ans": 0,
+   "exp": "Suction evacuation and D&E are listed surgical options in the second trimester. (Book p428)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C10-012",
@@ -745,15 +755,16 @@
    "id": "OBG-C10-015",
    "sec": "Medical abortion",
    "page": 428,
-   "q": "What route is used for mifepristone in the source protocol?",
+   "q": "Which statement about Medical abortion — Mifepristone administered orally is TRUE?",
    "opts": [
-    "Intravenous only",
-    "Intra-amniotic only",
-    "Oral",
-    "Intramuscular only"
+    "Mifepristone is administered Intravenous onlyly",
+    "Mifepristone is administered Intra-amniotic onlyly",
+    "Mifepristone is administered Orally",
+    "Mifepristone is administered Intramuscular onlyly"
    ],
    "ans": 2,
-   "exp": "Mifepristone is administered orally. (Book p428)"
+   "exp": "Mifepristone is administered orally. (Book p428)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-016",
@@ -774,43 +785,46 @@
    "id": "OBG-C10-017",
    "sec": "Mifepristone mechanism",
    "page": 428,
-   "q": "What is the mechanism of mifepristone (RU-486) in medical abortion?",
+   "q": "A 32-year-old G3P1L1 at 11 weeks gestation presents for antenatal evaluation and counselling regarding mifepristone mechanism. According to the notes, mifepristone is a progesterone antagonist that detaches the implanted embryo. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Progesterone antagonism causing detachment of implanted embryo",
-    "Oxytocin agonism causing uterine contractions only",
-    "Direct fetal hemolysis",
-    "Insulin antagonism"
+    "Advise that progesterone antagonism causing detachment of implanted embryo is the correct mifepristone mechanism for this patient at this gestation",
+    "Advise that oxytocin agonism causing uterine contractions only is the correct mifepristone mechanism for this patient at this gestation",
+    "Advise that direct fetal hemolysis is the correct mifepristone mechanism for this patient at this gestation",
+    "Advise that insulin antagonism is the correct mifepristone mechanism for this patient at this gestation"
    ],
    "ans": 0,
-   "exp": "Mifepristone is a progesterone antagonist that detaches the implanted embryo. (Book p428)"
+   "exp": "Mifepristone is a progesterone antagonist that detaches the implanted embryo. (Book p428)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C10-018",
    "sec": "Misoprostol mechanism",
    "page": 428,
-   "q": "What is the mechanism of misoprostol in medical abortion?",
+   "q": "Which statement about Misoprostol mechanism — Misoprostol promotes uterine is TRUE?",
    "opts": [
-    "It is an anti-D antibody that blocks fetal red-cell sensitisation",
-    "It promotes uterine contractions and cervical ripening to expel the embryo",
-    "It blocks progesterone receptors only, leaving the cervix unchanged",
-    "It prevents all uterine contraction until the cervix is fully dilated"
+    "It is an anti-D antibody that blocks fetal red-cell sensitisation is the listed misoprostol mechanism as per the notes",
+    "It promotes uterine contractions and cervical ripening to expel the embryo is the listed misoprostol mechanism as per the notes",
+    "It blocks progesterone receptors only, leaving the cervix unchanged is the listed misoprostol mechanism as per the notes",
+    "It prevents all uterine contraction until the cervix is fully dilated is the listed misoprostol mechanism as per the notes"
    ],
    "ans": 1,
-   "exp": "Misoprostol promotes uterine contractions and cervical ripening or softening, expelling the detached embryo. (Book p428)"
+   "exp": "Misoprostol promotes uterine contractions and cervical ripening or softening, expelling the detached embryo. (Book p428)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-019",
    "sec": "Medical abortion",
    "page": 428,
-   "q": "After which drug does bleeding occur in the first-trimester medical-abortion protocol?",
+   "q": "Which statement about Medical abortion — Bleeding occurs after is TRUE?",
    "opts": [
-    "Folic acid",
-    "Anti-D",
-    "Misoprostol",
-    "Mifepristone only"
+    "Bleeding occurs after Folic acid",
+    "Bleeding occurs after Anti-D",
+    "Bleeding occurs after Misoprostol",
+    "Bleeding occurs after Mifepristone only"
    ],
    "ans": 2,
-   "exp": "Bleeding occurs after misoprostol. (Book p428)"
+   "exp": "Bleeding occurs after misoprostol. (Book p428)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-020",
@@ -831,35 +845,37 @@
    "id": "OBG-C10-021",
    "sec": "Medical abortion protocol",
    "page": 428,
-   "q": "What is the day-3 drug and dose in the source protocol?",
+   "q": "Match the medical abortion protocol with the correct detail — 1) is the day-3 drug and dose in the 2) route order is preferred for 800-microgram misoprostol in 3) does bleeding usually occur after the day-3 misoprostol … A) Misoprostol 800 micrograms B) Vaginal, then sublingual, then oral C) Within 4–6 hours",
    "opts": [
-    "Misoprostol 800 micrograms",
-    "Mifepristone 200 mg",
-    "Methotrexate 1 mg/kg",
-    "Anti-D 300 micrograms"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "Day 3 is misoprostol 800 micrograms. (Book p428)"
+   "exp": "Day 3 is misoprostol 800 micrograms. (Book p428)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C10-022",
    "sec": "Medical abortion protocol",
    "page": 428,
-   "q": "Which route order is preferred for 800-microgram misoprostol in the source protocol?",
+   "q": "A 26-year-old second gravida at 11 weeks gestation presents for antenatal evaluation and counselling regarding medical abortion protocol. According to the notes, the source gives vaginal > sublingual > oral; oral has more side effects. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Only intravenous",
-    "Vaginal, then sublingual, then oral",
-    "Oral, then vaginal, then sublingual",
-    "Only intramuscular"
+    "Advise that only intravenous is the correct medical abortion protocol for this patient at this gestation",
+    "Advise that vaginal, then sublingual, then oral is the correct medical abortion protocol for this patient at this gestation",
+    "Advise that oral, then vaginal, then sublingual is the correct medical abortion protocol for this patient at this gestation",
+    "Advise that only intramuscular is the correct medical abortion protocol for this patient at this gestation"
    ],
    "ans": 1,
-   "exp": "The source gives vaginal > sublingual > oral; oral has more side effects. (Book p428)"
+   "exp": "The source gives vaginal > sublingual > oral; oral has more side effects. (Book p428)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C10-023",
    "sec": "Medical abortion protocol",
    "page": 428,
-   "q": "When does bleeding usually occur after the day-3 misoprostol dose?",
+   "q": "Fill up: Does bleeding usually occur after the day-3 misoprostol dose is ______.",
    "opts": [
     "Only after 6 weeks",
     "Before mifepristone",
@@ -867,7 +883,8 @@
     "Within 4–6 days"
    ],
    "ans": 2,
-   "exp": "Bleeding generally occurs 4–6 hours after misoprostol. (Book p428)"
+   "exp": "Bleeding generally occurs 4–6 hours after misoprostol. (Book p428)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-024",
@@ -888,15 +905,16 @@
    "id": "OBG-C10-025",
    "sec": "Medical abortion protocol",
    "page": 428,
-   "q": "When is follow-up scheduled to ensure complete abortion in the source protocol?",
+   "q": "A 30-year-old G2P1L1 at 11 weeks gestation presents for antenatal evaluation and counselling regarding medical abortion protocol. According to the notes, follow-up is on day 15 to ensure complete abortion. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Day 1",
-    "Day 3 only",
-    "At 6 months",
-    "Day 15"
+    "Advise that day 1 is the correct medical abortion protocol for this patient at this gestation",
+    "Advise that day 3 only is the correct medical abortion protocol for this patient at this gestation",
+    "Advise that at 6 months is the correct medical abortion protocol for this patient at this gestation",
+    "Advise that day 15 is the correct medical abortion protocol for this patient at this gestation"
    ],
    "ans": 3,
-   "exp": "Follow-up is on day 15 to ensure complete abortion. (Book p428)"
+   "exp": "Follow-up is on day 15 to ensure complete abortion. (Book p428)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C10-026",
@@ -917,7 +935,7 @@
    "id": "OBG-C10-027",
    "sec": "Medical abortion ultrasound",
    "page": 428,
-   "q": "When is ultrasound indicated before/around medical abortion?",
+   "q": "Fill up: USG is indicated if LMP is ______ or uterine size does not match gestational age.",
    "opts": [
     "No patient ever",
     "Uncertain LMP or uterine size not matching period of gestation",
@@ -925,27 +943,29 @@
     "Normal planned follow-up only"
    ],
    "ans": 1,
-   "exp": "USG is indicated if LMP is uncertain or uterine size does not match gestational age. (Book p428)"
+   "exp": "USG is indicated if LMP is uncertain or uterine size does not match gestational age. (Book p428)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-028",
    "sec": "Medical abortion ultrasound",
    "page": 428,
-   "q": "Which symptom is an ultrasound indication in medical abortion?",
+   "q": "Which statement about Medical abortion ultrasound — Abdominal pain indication is TRUE?",
    "opts": [
-    "Mild appetite change",
-    "Routine fetal movement at term",
-    "Abdominal pain",
-    "Normal daily activity"
+    "Mild appetite change is an indication for USG",
+    "Routine fetal movement at term is an indication for USG",
+    "Abdominal pain is an indication for USG",
+    "Normal daily activity is an indication for USG"
    ],
    "ans": 2,
-   "exp": "Abdominal pain is an indication for USG. (Book p428)"
+   "exp": "Abdominal pain is an indication for USG. (Book p428)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-029",
    "sec": "Medical abortion ultrasound",
    "page": 428,
-   "q": "Which day-15 finding is an ultrasound indication in medical abortion?",
+   "q": "Fill up: ______ spotting P/V with an open os on day 15 prompts USG.",
    "opts": [
     "No symptoms with a closed internal os",
     "Normal day-3 bleeding alone",
@@ -953,7 +973,8 @@
     "Continuous P/V spotting with an open internal os"
    ],
    "ans": 3,
-   "exp": "Continuous spotting P/V with an open os on day 15 prompts USG. (Book p428)"
+   "exp": "Continuous spotting P/V with an open os on day 15 prompts USG. (Book p428)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-030",
@@ -974,7 +995,7 @@
    "id": "OBG-C10-031",
    "sec": "Medical abortion contraindications",
    "page": 429,
-   "q": "Why is inability to comply with follow-up a contraindication to medical abortion?",
+   "q": "Fill up: Medical abortion needs assessment that expulsion is complete and timely management of failure, so ______ woman must be able to comply with follow-up.",
    "opts": [
     "The regimen requires assessment of completion and timely management of failure",
     "Follow-up visits make mifepristone act faster and shorten the bleeding",
@@ -982,13 +1003,14 @@
     "Follow-up attendance is what confirms the pregnancy is still live"
    ],
    "ans": 0,
-   "exp": "Medical abortion needs assessment that expulsion is complete and timely management of failure, so the woman must be able to comply with follow-up. (Book p429)"
+   "exp": "Medical abortion needs assessment that expulsion is complete and timely management of failure, so the woman must be able to comply with follow-up. (Book p429)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-032",
    "sec": "Medical abortion contraindications",
    "page": 429,
-   "q": "Which blood-pressure state is a listed contraindication to medical abortion?",
+   "q": "Fill up: ______ HTN ≥160/100 mmHg is listed as a contraindication.",
    "opts": [
     "Normal BP in every patient",
     "Uncontrolled hypertension at or above 160/100 mmHg",
@@ -996,35 +1018,38 @@
     "Physiological midtrimester BP fall"
    ],
    "ans": 1,
-   "exp": "Uncontrolled HTN ≥160/100 mmHg is listed as a contraindication. (Book p429)"
+   "exp": "Uncontrolled HTN ≥160/100 mmHg is listed as a contraindication. (Book p429)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-033",
    "sec": "Medical abortion contraindications",
    "page": 429,
-   "q": "Which neurological condition is a listed contraindication to medical abortion?",
+   "q": "A 28-year-old G3P1L1 at 12 weeks gestation presents for antenatal evaluation and counselling regarding medical abortion contraindications. According to the notes, uncontrolled seizures are a listed contraindication. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Normal vision",
-    "Mild fatigue",
-    "Uncontrolled seizures",
-    "Controlled migraine only"
+    "Advise that normal vision is the correct medical abortion contraindications for this patient at this gestation",
+    "Advise that mild fatigue is the correct medical abortion contraindications for this patient at this gestation",
+    "Advise that uncontrolled seizures is the correct medical abortion contraindications for this patient at this gestation",
+    "Advise that controlled migraine only is the correct medical abortion contraindications for this patient at this gestation"
    ],
    "ans": 2,
-   "exp": "Uncontrolled seizures are a listed contraindication. (Book p429)"
+   "exp": "Uncontrolled seizures are a listed contraindication. (Book p429)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C10-034",
    "sec": "Medical abortion contraindications",
    "page": 429,
-   "q": "Which endocrine/metabolic disorder is a listed contraindication to medical abortion?",
+   "q": "Which statement about Medical abortion contraindications — Chronic adrenal failure is TRUE?",
    "opts": [
-    "Well-controlled GDM",
-    "Normal thyroid physiology",
-    "Rh-negative status alone",
-    "Chronic adrenal failure"
+    "Well-controlled GDM is listed as a contraindication",
+    "Normal thyroid physiology is listed as a contraindication",
+    "Rh-negative status alone is listed as a contraindication",
+    "Chronic adrenal failure is listed as a contraindication"
    ],
    "ans": 3,
-   "exp": "Chronic adrenal failure is listed as a contraindication. (Book p429)"
+   "exp": "Chronic adrenal failure is listed as a contraindication. (Book p429)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-035",
@@ -1045,21 +1070,22 @@
    "id": "OBG-C10-036",
    "sec": "Medical abortion contraindications",
    "page": 429,
-   "q": "Which two conditions are listed as contraindications to medical abortion?",
+   "q": "Match the medical abortion contraindications with the correct detail — 1) two conditions are listed as contraindications to medical 2) pre-assessment test is included before medical abortion 3) blood test/grouping is included in pre-assessment for medical … A) Porphyria and glaucoma B) Hemoglobin C) ABO/Rh grouping",
    "opts": [
-    "Porphyria and glaucoma",
-    "Anemia and hypothyroidism",
-    "Rh negativity and hypertension controlled on medication",
-    "Asymptomatic bacteriuria and obesity"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
    "ans": 0,
-   "exp": "Porphyria and glaucoma are listed contraindications. (Book p429)"
+   "exp": "Porphyria and glaucoma are listed contraindications. (Book p429)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C10-037",
    "sec": "Medical-abortion outcome",
    "page": 429,
-   "q": "What complication may require surgical MTP after medical abortion?",
+   "q": "Fill up: ______ and incomplete abortion can require surgical MTP.",
    "opts": [
     "A normal day-15 check",
     "Excessive bleeding or incomplete abortion",
@@ -1067,41 +1093,44 @@
     "A normal negative UPT only"
    ],
    "ans": 1,
-   "exp": "Excessive bleeding and incomplete abortion can require surgical MTP. (Book p429)"
+   "exp": "Excessive bleeding and incomplete abortion can require surgical MTP. (Book p429)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-038",
    "sec": "Medical-abortion failure",
    "page": 429,
-   "q": "If no bleeding occurs within 24 hours after misoprostol, what is the next assessment?",
+   "q": "Which statement about Medical-abortion failure — No bleeding after is TRUE?",
    "opts": [
-    "Start anti-D regardless of status",
-    "Give aspirin only",
-    "Ultrasound for cardiac activity",
-    "Ignore the result and discharge"
+    "Start anti-D regardless of status is the listed medical-abortion failure as per the notes",
+    "Give aspirin only is the listed medical-abortion failure as per the notes",
+    "Ultrasound for cardiac activity is the listed medical-abortion failure as per the notes",
+    "Ignore the result and discharge is the listed medical-abortion failure as per the notes"
    ],
    "ans": 2,
-   "exp": "No bleeding after 24 hours prompts USG to assess cardiac activity. (Book p429)"
+   "exp": "No bleeding after 24 hours prompts USG to assess cardiac activity. (Book p429)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-039",
    "sec": "Medical-abortion failure",
    "page": 429,
-   "q": "If cardiac activity is present after a nonbleeding medical-abortion course, what is the management?",
+   "q": "A 24-year-old primigravida at 12 weeks gestation presents for antenatal evaluation and counselling regarding medical-abortion failure. According to the notes, if cardiac activity is present, it is a live pregnancy and S&E is performed. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Repeat misoprostol indefinitely",
-    "No intervention",
-    "Cerclage",
-    "Suction and evacuation"
+    "Advise that repeat misoprostol indefinitely is the correct medical-abortion failure for this patient at this gestation",
+    "Advise that no intervention is the correct medical-abortion failure for this patient at this gestation",
+    "Advise that cerclage is the correct medical-abortion failure for this patient at this gestation",
+    "Advise that suction and evacuation is the correct medical-abortion failure for this patient at this gestation"
    ],
    "ans": 3,
-   "exp": "If cardiac activity is present, it is a live pregnancy and S&E is performed. (Book p429)"
+   "exp": "If cardiac activity is present, it is a live pregnancy and S&E is performed. (Book p429)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C10-040",
    "sec": "Medical-abortion failure",
    "page": 429,
-   "q": "If cardiac activity is absent after a nonbleeding medical-abortion course, what is the next step?",
+   "q": "Fill up: If cardiac activity is absent after a nonbleeding medical-abortion course, what is the next step is ______.",
    "opts": [
     "Repeat 400-800 microgram of misoprostol and review her after seven days",
     "Give anti-D immunoglobulin and take no further action at all",
@@ -1109,35 +1138,38 @@
     "Discharge her immediately, since no follow-up is required"
    ],
    "ans": 0,
-   "exp": "If cardiac activity persists or expulsion is incomplete without bleeding, a further dose of misoprostol is given and she is reviewed in a week. (Book p429)"
+   "exp": "If cardiac activity persists or expulsion is incomplete without bleeding, a further dose of misoprostol is given and she is reviewed in a week. (Book p429)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-041",
    "sec": "Medical abortion assessment",
    "page": 429,
-   "q": "Which pre-assessment test is included before medical abortion?",
+   "q": "Match the medical abortion assessment with the correct detail — 1) pre-assessment test is included before medical abortion 2) blood test/grouping is included in pre-assessment for medical 3) of the following statements about medical abortion is … A) Hemoglobin B) ABO/Rh grouping C) Any intrauterine device must be removed before starting, and the woman must have access to emergency surgical care",
    "opts": [
-    "Swansea criteria",
-    "Hemoglobin",
-    "MCA peak systolic velocity",
-    "Fetal echocardiography in every case"
+    "1-A, 2-B, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
    ],
-   "ans": 1,
-   "exp": "Pre-assessment includes hemoglobin, urine routine/microscopy, ABO/Rh group, and pregnancy test if not already done. (Book p429)"
+   "ans": 0,
+   "exp": "Pre-assessment includes hemoglobin, urine routine/microscopy, ABO/Rh group, and pregnancy test if not already done. (Book p429)",
+   "fmt": "match"
   },
   {
    "id": "OBG-C10-042",
    "sec": "Medical abortion assessment",
    "page": 429,
-   "q": "Which blood test/grouping is included in pre-assessment for medical abortion?",
+   "q": "Which statement about Medical abortion assessment — ABO Rh grouping is TRUE?",
    "opts": [
-    "TSH only",
-    "Serum bile acid only",
-    "ABO/Rh grouping",
-    "Lupus anticoagulant only"
+    "TSH only is part of the pre-assessment",
+    "Serum bile acid only is part of the pre-assessment",
+    "ABO/Rh grouping is part of the pre-assessment",
+    "Lupus anticoagulant only is part of the pre-assessment"
    ],
    "ans": 2,
-   "exp": "ABO/Rh grouping is part of the pre-assessment. (Book p429)"
+   "exp": "ABO/Rh grouping is part of the pre-assessment. (Book p429)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-043",
@@ -1158,77 +1190,82 @@
    "id": "OBG-C10-044",
    "sec": "Suction evacuation",
    "page": 429,
-   "q": "What is the best method of MTP between 9 and 12 weeks according to the notes?",
+   "q": "A 28-year-old G2P1L1 at 12 weeks gestation presents for antenatal evaluation and counselling regarding suction evacuation. According to the notes, suction evacuation is described as the best MTP method at 9–12 weeks. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Medical abortion only",
-    "Dilatation and evacuation",
-    "Hysterotomy",
-    "Suction evacuation"
+    "Advise that medical abortion only is the correct suction evacuation for this patient at this gestation",
+    "Advise that dilatation and evacuation is the correct suction evacuation for this patient at this gestation",
+    "Advise that hysterotomy is the correct suction evacuation for this patient at this gestation",
+    "Advise that suction evacuation is the correct suction evacuation for this patient at this gestation"
    ],
    "ans": 3,
-   "exp": "Suction evacuation is described as the best MTP method at 9–12 weeks. (Book p429)"
+   "exp": "Suction evacuation is described as the best MTP method at 9–12 weeks. (Book p429)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C10-045",
    "sec": "Suction evacuation",
    "page": 429,
-   "q": "Up to what gestation can suction evacuation be performed according to the notes?",
+   "q": "Which statement about Suction evacuation — Suction evacuation can is TRUE?",
    "opts": [
-    "16 weeks",
-    "9 weeks only",
-    "24 weeks",
-    "28 weeks"
+    "Suction evacuation can be done up to 16 weeks",
+    "Suction evacuation can be done up to 9 weeks only",
+    "Suction evacuation can be done up to 24 weeks",
+    "Suction evacuation can be done up to 28 weeks"
    ],
    "ans": 0,
-   "exp": "Suction evacuation can be done up to 16 weeks. (Book p429)"
+   "exp": "Suction evacuation can be done up to 16 weeks. (Book p429)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-046",
    "sec": "Suction evacuation",
    "page": 429,
-   "q": "What instrument is used to dilate the internal os before suction evacuation?",
+   "q": "A 32-year-old G2P1L1 at 12 weeks gestation presents for antenatal evaluation and counselling regarding suction evacuation. According to the notes, hegar's dilators are used to dilate the internal os. What is the most appropriate counselling for this patient?",
    "opts": [
-    "Ovum forceps",
-    "Hegar's dilator",
-    "Sim's speculum",
-    "Vulsellum"
+    "Advise that ovum forceps is the correct suction evacuation for this patient at this gestation",
+    "Advise that hegar's dilator is the correct suction evacuation for this patient at this gestation",
+    "Advise that sim's speculum is the correct suction evacuation for this patient at this gestation",
+    "Advise that vulsellum is the correct suction evacuation for this patient at this gestation"
    ],
    "ans": 1,
-   "exp": "Hegar's dilators are used to dilate the internal os. (Book p429)"
+   "exp": "Hegar's dilators are used to dilate the internal os. (Book p429)",
+   "fmt": "scenario"
   },
   {
    "id": "OBG-C10-047",
    "sec": "Suction evacuation",
    "page": 429,
-   "q": "What instrument evacuates products of conception during suction evacuation?",
+   "q": "Which statement about Suction evacuation — Karman s cannula is TRUE?",
    "opts": [
-    "MVA syringe alone in all settings",
-    "Uterine sound",
-    "Karman's cannula attached to a suction machine",
-    "Ovum forceps only"
+    "MVA syringe alone in all settings is the listed suction evacuation as per the notes",
+    "Uterine sound is the listed suction evacuation as per the notes",
+    "Karman's cannula attached to a suction machine is the listed suction evacuation as per the notes",
+    "Ovum forceps only is the listed suction evacuation as per the notes"
    ],
    "ans": 2,
-   "exp": "Karman's cannula is attached to the suction machine to evacuate products of conception. (Book p429)"
+   "exp": "Karman's cannula is attached to the suction machine to evacuate products of conception. (Book p429)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-048",
    "sec": "Suction evacuation procedure",
    "page": 429,
-   "q": "What is the first procedural step in suction evacuation?",
+   "q": "Which statement about Suction evacuation procedure — first procedural step is TRUE?",
    "opts": [
-    "Insert Karman cannula before examination",
-    "Apply suction first",
-    "Perform curettage first",
-    "Empty the bladder"
+    "The first procedural step is to Insert Karman cannula before examination",
+    "The first procedural step is to Apply suction first",
+    "The first procedural step is to Perform curettage first",
+    "The first procedural step is to Empty the bladder"
    ],
    "ans": 3,
-   "exp": "The first procedural step is to empty the bladder. (Book p429)"
+   "exp": "The first procedural step is to empty the bladder. (Book p429)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-049",
    "sec": "Suction evacuation procedure",
    "page": 429,
-   "q": "Why is P/V examination performed in lithotomy before suction evacuation?",
+   "q": "Fill up: Before suction evacuation a P/V examination in litho______my confirms uterine size and position, whether anteverted or retroverted.",
    "opts": [
     "To confirm uterine size and whether it is anteverted or retroverted",
     "To diagnose fetal anaemia before the evacuation begins",
@@ -1236,35 +1273,38 @@
     "To measure serum bile acids from a swab taken at the os"
    ],
    "ans": 0,
-   "exp": "Before suction evacuation a P/V examination in lithotomy confirms uterine size and position, whether anteverted or retroverted. (Book p429)"
+   "exp": "Before suction evacuation a P/V examination in lithotomy confirms uterine size and position, whether anteverted or retroverted. (Book p429)",
+   "fmt": "fillup"
   },
   {
    "id": "OBG-C10-050",
    "sec": "Suction evacuation procedure",
    "page": 429,
-   "q": "Which instrument retracts the posterior vaginal wall during suction evacuation?",
+   "q": "Which statement about Suction evacuation procedure — Sim s speculum is TRUE?",
    "opts": [
-    "Hegar dilator",
-    "Sim's speculum",
-    "Anterior vaginal-wall retractor",
-    "Karman cannula"
+    "Hegar dilator retracts the posterior vaginal wall",
+    "Sim's speculum retracts the posterior vaginal wall",
+    "Anterior vaginal-wall retractor retracts the posterior vaginal wall",
+    "Karman cannula retracts the posterior vaginal wall"
    ],
    "ans": 1,
-   "exp": "Sim's speculum retracts the posterior vaginal wall. (Book p429)"
+   "exp": "Sim's speculum retracts the posterior vaginal wall. (Book p429)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-051",
    "sec": "Suction evacuation procedure",
    "page": 429,
-   "q": "Which instrument retracts the anterior vaginal wall during suction evacuation?",
+   "q": "Which statement about Suction evacuation procedure — anterior vaginal wall is TRUE?",
    "opts": [
-    "Uterine sound",
-    "Sponge holding forceps only",
-    "Anterior vaginal-wall retractor",
-    "Sim's speculum"
+    "An Uterine sound is used for the anterior wall",
+    "An Sponge holding forceps only is used for the anterior wall",
+    "An Anterior vaginal-wall retractor is used for the anterior wall",
+    "An Sim's speculum is used for the anterior wall"
    ],
    "ans": 2,
-   "exp": "An anterior vaginal-wall retractor is used for the anterior wall. (Book p429)"
+   "exp": "An anterior vaginal-wall retractor is used for the anterior wall. (Book p429)",
+   "fmt": "truefalse"
   },
   {
    "id": "OBG-C10-052",

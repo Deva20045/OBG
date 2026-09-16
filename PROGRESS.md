@@ -293,7 +293,7 @@ lives in `AUDIT.md`; the headline numbers are:
   weeks. The answer key now points at 32 and 36 weeks, which is also consistent
   with the neighbouring item on third-trimester placental migration.
 
-#### Batch 2 — 265 items across 16 untouched chapters (this PR)
+#### Batch 2 — 265 items across 16 untouched chapters
 
 - **265 additional recall items converted** into the five requested formats and
   tagged with explicit `fmt` (patches/fmt_11, fmt_13, fmt_14, fmt_15, fmt_23,
@@ -332,6 +332,41 @@ lives in `AUDIT.md`; the headline numbers are:
   from the correct option.
 - All 24 chapters remain live, 2,710 questions, 342 units, 308 book pages
   represented; check_integrity.py and check_app_smoke.js both PASS.
+
+#### Batch 3 — 260 items across 9 worst-remaining chapters (this PR)
+
+- **260 additional recall items converted** into the five requested formats and
+  tagged with explicit `fmt` (patches/batch3_ch10, ch12, ch08, ch07, ch09, ch01, ch19, ch02, ch06 — 40+25+45+25+30+30+20+20+25),
+  prioritising the next worst chapters by untagged share: 10 (86%), 12 (83%), 08 (82%), 07 (79%), 09 (78%), 01 (78%), 19 (75%), 02 (74%), 06 (73%).
+- Tagged items rose from **704 to 964**; untagged plain recall fell from **2,006 to 1,746** (74.0% to **64.4%** of the bank) — now **<65%** as requested.
+- Per-format tag counts after batch 3:
+  - fillup **331** (was 251) — 12.2% — +80
+  - truefalse **233** (was 132) — 8.6% — +101
+  - scenario **153** (was 101) — 5.6% — +52
+  - match **129** (was 105) — 4.8% — +24
+  - oddoneout **118** (was 115) — 4.4% — +3 (strict same-sec filter limited oddoneout; next tranche will target 20,21,03,04,05,16,17,22)
+  - **Tagged total 964 (35.6%)**, untagged 1,746 (64.4%)
+- By audit_variety.py heuristic:
+  - recall **57.4% → 50.3%** (-7.1 pp)
+  - fillup **12.7% → 15.2%**
+  - truefalse **5.1% → 8.8%**
+  - oddoneout **7.4% → 7.0%**
+  - scenario **5.3% → 7.0%**
+  - match **3.9% → 4.8%**
+  - numeric **6.2% → 5.0%**
+- Per-chapter untagged improvement (this batch):
+  - ch10 221/256 (86%) → 181/256 (70.7%)
+  - ch12 103/124 (83%) → 78/124 (62.9%)
+  - ch08 210/255 (82%) → 165/255 (64.7%)
+  - ch07 112/141 (79%) → 87/141 (61.7%)
+  - ch09 140/180 (78%) → 110/180 (61.1%)
+  - ch01 205/263 (78%) → 175/263 (66.5%)
+  - ch19 97/129 (75%) → 77/129 (59.7%)
+  - ch02 92/125 (74%) → 72/125 (57.6%)
+  - ch06 150/205 (73%) → 125/205 (61.0%)
+- Predictability: longest-option-is-answer mean 55.2% → **54.8%**; zero items ≥2.0× (flag --ratio 2.0 = 0); avg ans 57.0 / distractor 44.6.
+- Both checks still PASS; 2710 questions, 342 units, 308 pages.
+- Next order: 20,21,03,04,05,16,17,22 (all 68-73% untagged) — oddoneout-heavy.
 
 **Guard rails**
 - `check_integrity.py` now fails when an answer can be guessed from option
