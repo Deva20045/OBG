@@ -75,6 +75,21 @@
   },
   {
    "id": "OBG-C18-006",
+   "sec": "Types of partogram",
+   "page": 506,
+   "q": "Fill up: The Friedman curve plots cervical dilatation against time, while the modified WHO partograph adds the ______ line and the ______ line to it.",
+   "opts": [
+    "alert; action",
+    "latent; active",
+    "upper; lower",
+    "baseline; threshold"
+   ],
+   "ans": 0,
+   "exp": "The alert line shows the expected rate of progress and the action line, four hours to its right, is the point at which intervention is required. (Book p506)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C18-007",
    "sec": "Modified WHO partograph: upper (fetal) parameters",
    "page": 506,
    "q": "On the modified WHO partograph, fetal heart rate is recorded every ______ (every ______ in high risk) and the normal range is ______.",
@@ -88,7 +103,7 @@
    "exp": "FHR normal 110–160 bpm, recorded every 30 min (every 15 min for high risk). (Book p506)"
   },
   {
-   "id": "OBG-C18-007",
+   "id": "OBG-C18-008",
    "sec": "Modified WHO partograph: upper (fetal) parameters",
    "page": 506,
    "q": "Match the amniotic fluid code – I : C : M : B.",
@@ -102,7 +117,7 @@
    "exp": "I = intact membrane; C = colourless; M = meconium stained; B = blood stained. (Book p506)"
   },
   {
-   "id": "OBG-C18-008",
+   "id": "OBG-C18-009",
    "sec": "Modified WHO partograph: upper (fetal) parameters",
    "page": 506,
    "q": "Moulding on the partograph is denoted as:",
@@ -116,7 +131,22 @@
    "exp": "Moulding = overlapping of cranial bones; 0/× no moulding; +1, +2, +3 moulding. (Book p506)"
   },
   {
-   "id": "OBG-C18-009",
+   "id": "OBG-C18-010",
+   "sec": "Modified WHO partograph: upper (fetal) parameters",
+   "page": 506,
+   "q": "All of the following are recorded in the upper part of the modified WHO partograph EXCEPT:",
+   "opts": [
+    "Maternal pulse and blood pressure",
+    "Fetal heart rate",
+    "Colour and character of the amniotic fluid",
+    "Degree of moulding of the fetal skull"
+   ],
+   "ans": 0,
+   "exp": "The upper part follows the fetus — heart rate, membranes, liquor and moulding; maternal observations belong to the lower part. (Book p506)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C18-011",
    "sec": "Modified WHO partograph: upper (fetal) parameters",
    "page": 507,
    "q": "In the modified WHO partograph, the interval for fetal parameters is represented by one small box equal to ______, and the three parts of the sheet are ______.",
@@ -130,7 +160,7 @@
    "exp": "One small box = 30 min for fetal parameters; upper part fetal, middle part cervicograph, lower part maternal condition. (Book p507)"
   },
   {
-   "id": "OBG-C18-010",
+   "id": "OBG-C18-012",
    "sec": "Cervicograph: alert & action lines and colour zones",
    "page": 507,
    "q": "The middle part of the modified WHO partograph, plotting cervical dilatation (×) and descent (O) against time (1 box = 1 hr), is called the:",
@@ -144,21 +174,21 @@
    "exp": "Middle part = cervicograph (cervix plotted as X, descent as O; 1 box = 1 hour). (Book p507)"
   },
   {
-   "id": "OBG-C18-011",
+   "id": "OBG-C18-013",
    "sec": "Cervicograph: alert & action lines and colour zones",
    "page": 507,
-   "q": "Match the cervicograph zone to its meaning – Green : Yellow : Pink.",
+   "q": "Match the cervicograph zone to its meaning — green : yellow (alert) : pink (action).",
    "opts": [
-    "Normal progress : alert (shift to tertiary centre) : intervention on touching action line",
-    "Alert : normal : intervention",
-    "Intervention : alert : normal",
-    "Normal : intervention : referral"
+    "Normal progress : alert, so shift her to a tertiary centre : intervene once the action line is touched",
+    "Alert, so shift her : normal progress : intervene on touching the action line",
+    "Intervene at once : alert, so shift her : entirely normal progress",
+    "Normal progress : intervene at once : refer her to a tertiary centre"
    ],
    "ans": 0,
-   "exp": "Green = normal progress; yellow = alert zone → shift to 3° centre; pink = intervention when action line touched. (Book p507)"
+   "exp": "Green means progress is normal, the alert zone means prepare for transfer, and touching the action line means intervention is required. (Book p507)"
   },
   {
-   "id": "OBG-C18-012",
+   "id": "OBG-C18-014",
    "sec": "Cervicograph: alert & action lines and colour zones",
    "page": 507,
    "q": "The colour-coded zones form the basis of the ______ WHO partogram.",
@@ -172,7 +202,7 @@
    "exp": "The zones are the basis for the simplified WHO partogram. (Book p507)"
   },
   {
-   "id": "OBG-C18-013",
+   "id": "OBG-C18-015",
    "sec": "Cervicograph: alert & action lines and colour zones",
    "page": 507,
    "q": "The first plotting of cervical dilatation is always made:",
@@ -186,7 +216,7 @@
    "exp": "First plot is always on the alert line > left of alert line. (Book p507)"
   },
   {
-   "id": "OBG-C18-014",
+   "id": "OBG-C18-016",
    "sec": "Cervicograph: alert & action lines and colour zones",
    "page": 507,
    "q": "Worked example from the notes: a G2P woman at 4 cm at 4 pm is plotted on the alert line; at 6 pm she is 6 cm and at 8 pm 8 cm. Her progress is:",
@@ -200,7 +230,22 @@
    "exp": "4 → 6 → 8 cm over 4 hours = 1 cm/hr, plotted on/left of the alert line = normal progress. (Book p507)"
   },
   {
-   "id": "OBG-C18-015",
+   "id": "OBG-C18-017",
+   "sec": "Cervicograph: alert & action lines and colour zones",
+   "page": 507,
+   "q": "Fill up: The alert line on the cervicograph is drawn at a dilatation rate of ______ cm per hour from the point of admission, and the action line lies ______ hours to its right.",
+   "opts": [
+    "1; 4",
+    "1; 2",
+    "0.5; 4",
+    "1; 8"
+   ],
+   "ans": 0,
+   "exp": "Crossing the action line means slow progress has persisted for four hours and transfers, augmentation or operative delivery must be considered. (Book p507)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C18-018",
    "sec": "Lower part: maternal parameters & uterine contractions",
    "page": 508,
    "q": "Which patient parameters are NOT recorded on the modified WHO partograph?",
@@ -214,21 +259,21 @@
    "exp": "Not recorded: respiratory rate, SpO2, oral fluids consumed. (Book p508)"
   },
   {
-   "id": "OBG-C18-016",
+   "id": "OBG-C18-019",
    "sec": "Lower part: maternal parameters & uterine contractions",
    "page": 508,
    "q": "Adequate uterine contractions are defined as:",
    "opts": [
-    "≥3 contractions in 10 min, each lasting 45 sec, raising intrauterine pressure by 65–75 mmHg (200–220 MVU)",
-    "≥5 in 10 min, each 60 sec, 100 mmHg",
-    "≥2 in 10 min, each 20 sec, 30 mmHg",
-    "≥3 in 15 min, each 30 sec, 50 mmHg"
+    "At least three in 10 minutes, each lasting 45 seconds and raising pressure by 65-75 mmHg",
+    "At least five in 10 minutes, each lasting 60 seconds at 100 mmHg",
+    "At least two in 10 minutes, each lasting 20 seconds at 30 mmHg",
+    "At least three in 15 minutes, each lasting 30 seconds at 50 mmHg"
    ],
    "ans": 0,
-   "exp": "Adequate: ≥3 in 10 min, 45 sec each, ↑ intrauterine pressure 65–75 mmHg (MVU 200–220). (Book p508)"
+   "exp": "Adequate contractions are three or more in ten minutes, each lasting about 45 seconds with an amplitude of 65-75 mmHg. (Book p508)"
   },
   {
-   "id": "OBG-C18-017",
+   "id": "OBG-C18-020",
    "sec": "Lower part: maternal parameters & uterine contractions",
    "page": 508,
    "q": "Contractions are measured by observation over the uterine fundus for ______ every ______.",
@@ -242,7 +287,7 @@
    "exp": "Observed over fundus for 10 minutes every 30 minutes. (Book p508)"
   },
   {
-   "id": "OBG-C18-018",
+   "id": "OBG-C18-021",
    "sec": "Lower part: maternal parameters & uterine contractions",
    "page": 508,
    "q": "More than 5 contractions in 10 min is termed:",
@@ -256,7 +301,7 @@
    "exp": ">5 contractions in 10 min = tachysystole. (Book p508)"
   },
   {
-   "id": "OBG-C18-019",
+   "id": "OBG-C18-022",
    "sec": "Lower part: maternal parameters & uterine contractions",
    "page": 508,
    "q": "Match the shading of contraction duration boxes – dotted : hatched/oblique lines : solid fill.",
@@ -270,21 +315,36 @@
    "exp": "Dotted <20 sec; hatched 20–40 sec; solid >40 sec (each box = 1 contraction). (Book p508)"
   },
   {
-   "id": "OBG-C18-020",
+   "id": "OBG-C18-023",
    "sec": "Lower part: maternal parameters & uterine contractions",
    "page": 508,
    "q": "A contraction lasting ≥60 sec indicates ______; management is ______.",
    "opts": [
-    "Hypertonic contraction due to oxytocin; stop oxytocin, left lateral position, ± terbutaline",
-    "Adequate contraction; continue",
-    "Tachysystole; increase oxytocin",
-    "Bandl's ring; C-section"
+    "A hypertonic contraction from oxytocin; stop the oxytocin, turn her to the left, consider terbutaline",
+    "An entirely adequate contraction, so the infusion should be continued unchanged",
+    "Tachysystole, for which the rate of oxytocin should be increased",
+    "A Bandl's ring forming, which requires immediate caesarean section"
    ],
    "ans": 0,
-   "exp": "≥60 sec = hypertonic contraction d/t oxytocin → stop oxytocin, left lateral, ± uterine relaxant (terbutaline). (Book p508)"
+   "exp": "A contraction lasting 60 seconds or more is hypertonic and usually drug-induced: stop the infusion, turn her and give a tocolytic if needed. (Book p508)"
   },
   {
-   "id": "OBG-C18-021",
+   "id": "OBG-C18-024",
+   "sec": "Lower part: maternal parameters & uterine contractions",
+   "page": 508,
+   "q": "Match the lower-part observation with how it is recorded — 1) Uterine contractions 2) Maternal pulse 3) Urine … A) Five squares per hour shaded according to the duration and strength of each contraction B) Recorded hourly and entered as a dot on the chart C) Recorded at each voiding, with the volume and any protein or acetone noted",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Contractions fill five squares an hour, the pulse is plotted hourly, and urine is checked at each void for volume, protein and ketones. (Book p508)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C18-025",
    "sec": "Labour Care Guide: sections, supportive care & alert column",
    "page": 508,
    "q": "Arrange the seven sections of the Labour Care Guide in order (Sections 1–7):",
@@ -298,7 +358,7 @@
    "exp": "1 details, 2 supportive care, 3 baby, 4 woman, 5 labour progress, 6 medication, 7 plan of action. (Book p508)"
   },
   {
-   "id": "OBG-C18-022",
+   "id": "OBG-C18-026",
    "sec": "Labour Care Guide: sections, supportive care & alert column",
    "page": 509,
    "q": "The mnemonic for the LCG sections given in the notes is:",
@@ -312,7 +372,7 @@
    "exp": "Mnemonic: Smart Beautiful WOMEN Love Me. (Book p509)"
   },
   {
-   "id": "OBG-C18-023",
+   "id": "OBG-C18-027",
    "sec": "Labour Care Guide: sections, supportive care & alert column",
    "page": 509,
    "q": "Which statements describe the Labour Care Guide layout and applicability?",
@@ -326,7 +386,7 @@
    "exp": "LCG has an alert box before each parameter, is used for all women in labour and at all levels of care. (Book p509)"
   },
   {
-   "id": "OBG-C18-024",
+   "id": "OBG-C18-028",
    "sec": "Labour Care Guide: sections, supportive care & alert column",
    "page": 509,
    "q": "Section 2 (Supportive care) of the LCG includes:",
@@ -340,7 +400,22 @@
    "exp": "Supportive care: companion, posture, oral fluid (solids not advisable) and pain relief. (Book p509)"
   },
   {
-   "id": "OBG-C18-025",
+   "id": "OBG-C18-029",
+   "sec": "Labour Care Guide: supportive care & alert column",
+   "page": 509,
+   "q": "Using the WHO Labour Care Guide, a woman at 6 cm moves into the alert column because dilatation has slowed. Contractions are adequate and the fetal heart is normal. What does the guide advise?",
+   "opts": [
+    "Document the deviation, look for and treat the cause, and continue supportive care with closer monitoring",
+    "Immediate caesarean section for every entry into the alert column",
+    "Reassurance only, because the alert column carries no clinical meaning",
+    "Stop monitoring and transfer her out of the labour ward"
+   ],
+   "ans": 0,
+   "exp": "The alert column is a prompt to reassess and respond to the underlying cause rather than a trigger for automatic surgery. (Book p509)",
+   "fmt": "scenario"
+  },
+  {
+   "id": "OBG-C18-030",
    "sec": "Labour Care Guide: sections, supportive care & alert column",
    "page": 510,
    "q": "Coding for companion, oral fluid and pain relief in the LCG – Y : N : D; which one is an alert feature?",
@@ -354,7 +429,7 @@
    "exp": "Y = yes, N = no (alert), D = denied. (Book p510)"
   },
   {
-   "id": "OBG-C18-026",
+   "id": "OBG-C18-031",
    "sec": "Labour Care Guide: sections, supportive care & alert column",
    "page": 510,
    "q": "Posture coding in the LCG – MO : SP : L/L; the alert feature is:",
@@ -368,7 +443,7 @@
    "exp": "MO mobile, SP supine (alert), L/L left lateral. (Book p510)"
   },
   {
-   "id": "OBG-C18-027",
+   "id": "OBG-C18-032",
    "sec": "LCG Section 3: care of baby",
    "page": 510,
    "q": "In LCG Section 3, baseline FHR normal is ______, abnormal (alert) is ______, documented every ______.",
@@ -382,7 +457,7 @@
    "exp": "Normal 110–160; alert <110 or >160; documented every 30 min as per WHO guideline. (Book p510)"
   },
   {
-   "id": "OBG-C18-028",
+   "id": "OBG-C18-033",
    "sec": "LCG Section 3: care of baby",
    "page": 510,
    "q": "FHR deceleration codes – N : E : L : V; which is the alert feature?",
@@ -396,7 +471,7 @@
    "exp": "N no, E early, L late (alert), V variable. (Book p510)"
   },
   {
-   "id": "OBG-C18-029",
+   "id": "OBG-C18-034",
    "sec": "LCG Section 3: care of baby",
    "page": 510,
    "q": "Amniotic fluid codes in the LCG and alert features:",
@@ -410,7 +485,7 @@
    "exp": "I intact membrane, C clear fluid; M meconium and B blood-stained are alert features. (Book p510)"
   },
   {
-   "id": "OBG-C18-030",
+   "id": "OBG-C18-035",
    "sec": "LCG Section 3: care of baby",
    "page": 510,
    "q": "Fetal position codes – A : P : T; alerts are:",
@@ -424,7 +499,7 @@
    "exp": "A = OA; P = OP (alert); T = OT (alert). (Book p510)"
   },
   {
-   "id": "OBG-C18-031",
+   "id": "OBG-C18-036",
    "sec": "LCG Section 3: care of baby",
    "page": 510,
    "q": "Caput and moulding are coded as +/++/+++; the alert feature is:",
@@ -438,7 +513,22 @@
    "exp": "Caput/moulding +++ is the alert feature. (Book p510)"
   },
   {
-   "id": "OBG-C18-032",
+   "id": "OBG-C18-037",
+   "sec": "LCG Section 3: care of the baby",
+   "page": 510,
+   "q": "Which of the following statements about the WHO Labour Care Guide is TRUE?",
+   "opts": [
+    "It records fetal heart rate, liquor, caput and moulding in the section on the baby, and its alert column prompts a clinical response",
+    "It replaces the partograph and no longer records the fetal heart rate",
+    "It is intended only for women with obstructed labour or ruptured uterus",
+    "It recommends routine amniotomy for every woman as soon as she reaches 4 cm"
+   ],
+   "ans": 0,
+   "exp": "The Labour Care Guide keeps continuous fetal and maternal observation but replaces rigid time limits with alert thresholds and individualised care. (Book p510)",
+   "fmt": "truefalse"
+  },
+  {
+   "id": "OBG-C18-038",
    "sec": "LCG Sections 4–7: woman, progress, medication & plan",
    "page": 511,
    "q": "Section 4 (care of woman) records pulse, temperature, BP and urine (protein, acetone). Match the alert thresholds – pulse : systolic BP : diastolic BP : temperature.",
@@ -452,7 +542,7 @@
    "exp": "Alerts: pulse <60/≥120; SBP <80/≥140; DBP ≥90; temp <35.0/≥37.5 °C; urine P++/A++. (Book p511)"
   },
   {
-   "id": "OBG-C18-033",
+   "id": "OBG-C18-039",
    "sec": "LCG Sections 4–7: woman, progress, medication & plan",
    "page": 511,
    "q": "Section 5 (progress of labour) – contraction alerts: number in 10 min ______ and duration ______.",
@@ -466,7 +556,7 @@
    "exp": "Alert: ≤2 or >5 contractions per 10 min; duration <20 or >60 seconds (checked every 30 min). (Book p511)"
   },
   {
-   "id": "OBG-C18-034",
+   "id": "OBG-C18-040",
    "sec": "LCG Sections 4–7: woman, progress, medication & plan",
    "page": 511,
    "q": "Time-bound alert figures for cervical dilatation in the LCG – at 5 cm : 6 cm : 7 cm : 8 cm : 9 cm.",
@@ -480,7 +570,7 @@
    "exp": "Time-bound alerts: 5 cm → 6 h, 6 → 5, 7 → 3, 8 → 2.5, 9 → 2 h (mnemonic 6-5-3-2.5-2); at 10 cm second stage, P = time of pushing. (Book p511)"
   },
   {
-   "id": "OBG-C18-035",
+   "id": "OBG-C18-041",
    "sec": "LCG Sections 4–7: woman, progress, medication & plan",
    "page": 511,
    "q": "WHO maximum duration of second stage – primi without epidural : multi without epidural : with epidural.",
@@ -494,7 +584,7 @@
    "exp": "Primi 3 h, multi 2 h; add 1 h with epidural. (Book p511)"
   },
   {
-   "id": "OBG-C18-036",
+   "id": "OBG-C18-042",
    "sec": "LCG Sections 4–7: woman, progress, medication & plan",
    "page": 511,
    "q": "Section 6 (medication) of the LCG records ______ and Section 7 is ______.",
@@ -506,6 +596,21 @@
    ],
    "ans": 0,
    "exp": "Section 6: oxytocin, IV fluids, drugs. Section 7: shared decision making – assessment and plan. (Book p511)"
+  },
+  {
+   "id": "OBG-C18-043",
+   "sec": "LCG Sections 4-7",
+   "page": 511,
+   "q": "All of the following are recorded in the WHO Labour Care Guide EXCEPT:",
+   "opts": [
+    "A postnatal follow-up plan for six weeks after delivery",
+    "Maternal position, mobility, hydration and pain relief",
+    "Progress of labour with dilatation, descent and contractions",
+    "Medications given and the plan for the next review"
+   ],
+   "ans": 0,
+   "exp": "The guide covers the woman, the baby, progress, medication and the plan for labour itself; postpartum follow-up is a separate schedule. (Book p511)",
+   "fmt": "oddoneout"
   }
  ],
  "units": [
@@ -521,7 +626,8 @@
     "OBG-C18-002",
     "OBG-C18-003",
     "OBG-C18-004",
-    "OBG-C18-005"
+    "OBG-C18-005",
+    "OBG-C18-006"
    ]
   },
   {
@@ -532,10 +638,11 @@
    "sec": "Fetal parameters · p506-507",
    "guide": "Record FHR, amniotic fluid codes and moulding grades exactly as they appear in the fetal section of the modified WHO partograph. Focus for this checkpoint: Modified WHO partograph: upper (fetal) parameters.",
    "qs": [
-    "OBG-C18-006",
     "OBG-C18-007",
     "OBG-C18-008",
-    "OBG-C18-009"
+    "OBG-C18-009",
+    "OBG-C18-010",
+    "OBG-C18-011"
    ]
   },
   {
@@ -546,11 +653,12 @@
    "sec": "Cervicograph · p507",
    "guide": "Interpret the green–yellow–pink zones of the cervicograph and apply the rule that the first plot always goes on the alert line. Focus for this checkpoint: Cervicograph: alert & action lines and colour zones.",
    "qs": [
-    "OBG-C18-010",
-    "OBG-C18-011",
     "OBG-C18-012",
     "OBG-C18-013",
-    "OBG-C18-014"
+    "OBG-C18-014",
+    "OBG-C18-015",
+    "OBG-C18-016",
+    "OBG-C18-017"
    ]
   },
   {
@@ -561,12 +669,13 @@
    "sec": "Contractions & maternal record · p508",
    "guide": "Know what the lower part records, what it omits, and how adequate contractions are counted, timed, shaded and rescued when hypertonic. Focus for this checkpoint: Lower part: maternal parameters & uterine contractions.",
    "qs": [
-    "OBG-C18-015",
-    "OBG-C18-016",
-    "OBG-C18-017",
     "OBG-C18-018",
     "OBG-C18-019",
-    "OBG-C18-020"
+    "OBG-C18-020",
+    "OBG-C18-021",
+    "OBG-C18-022",
+    "OBG-C18-023",
+    "OBG-C18-024"
    ]
   },
   {
@@ -577,12 +686,13 @@
    "sec": "LCG sections 1–2 · p508-510",
    "guide": "Memorise the seven LCG sections with the mnemonic, the alert-box concept, and how companion, pain relief, fluids and posture are coded. Focus for this checkpoint: Labour Care Guide: sections, supportive care & alert column.",
    "qs": [
-    "OBG-C18-021",
-    "OBG-C18-022",
-    "OBG-C18-023",
-    "OBG-C18-024",
     "OBG-C18-025",
-    "OBG-C18-026"
+    "OBG-C18-026",
+    "OBG-C18-027",
+    "OBG-C18-028",
+    "OBG-C18-029",
+    "OBG-C18-030",
+    "OBG-C18-031"
    ]
   },
   {
@@ -593,11 +703,12 @@
    "sec": "Care of baby · p510",
    "guide": "Code every fetal parameter of Section 3 and identify which values trigger the red alert box. Focus for this checkpoint: LCG Section 3: care of baby.",
    "qs": [
-    "OBG-C18-027",
-    "OBG-C18-028",
-    "OBG-C18-029",
-    "OBG-C18-030",
-    "OBG-C18-031"
+    "OBG-C18-032",
+    "OBG-C18-033",
+    "OBG-C18-034",
+    "OBG-C18-035",
+    "OBG-C18-036",
+    "OBG-C18-037"
    ]
   },
   {
@@ -608,11 +719,12 @@
    "sec": "Woman & progress · p511",
    "guide": "Fix the maternal alert thresholds, the contraction and time-bound dilatation alerts, the WHO second-stage limits and the final sections. Focus for this checkpoint: LCG Sections 4–7: woman, progress, medication & plan.",
    "qs": [
-    "OBG-C18-032",
-    "OBG-C18-033",
-    "OBG-C18-034",
-    "OBG-C18-035",
-    "OBG-C18-036"
+    "OBG-C18-038",
+    "OBG-C18-039",
+    "OBG-C18-040",
+    "OBG-C18-041",
+    "OBG-C18-042",
+    "OBG-C18-043"
    ]
   }
  ]

@@ -1,0 +1,181 @@
+[
+  {
+    "op": "add", "unit": "OBG-U19-1", "page": 512, "fmt": "fillup",
+    "sec": "Definition, criteria & phases of labour",
+    "q": "Fill up: Labour is defined by painful uterine contractions that produce progressive ______ and ______ of the cervix.",
+    "opts": ["effacement; dilatation", "rupture; descent", "descent; expulsion", "softening; shortening of the lower segment"],
+    "ans": 0,
+    "exp": "Contractions alone are not enough; the cervix must show progressive effacement and dilatation for the diagnosis of true labour."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-2", "page": 513, "fmt": "match",
+    "sec": "Pre-labour state & true vs false labour pain",
+    "q": "Match the pattern with its meaning — 1) True labour 2) False labour 3) Pre-labour or prodromal phase … A) Irregular contractions that do not intensify and settle with rest or sedation B) Regular contractions increasing in frequency and intensity with cervical change C) Cervical ripening with a show and irregular pains before active labour begins",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "False labour settles with rest and does not change the cervix; the prodromal phase is the uncomfortable run-up to real labour."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-3", "page": 514, "fmt": "fillup",
+    "sec": "The 3 Ps & physiology of uterine contractions",
+    "q": "Fill up: The three Ps that determine the outcome of labour are ______.",
+    "opts": ["powers, passenger and passage", "powers, placenta and pelvis", "pressure, position and placenta", "powers, prostaglandins and progesterone"],
+    "ans": 0,
+    "exp": "Uterine powers, the fetus as passenger and the maternal bony passage together decide whether labour will be normal or obstructed."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-4", "page": 514, "fmt": "oddoneout",
+    "sec": "Tachysystole, precipitate labour & hypotonic contractions",
+    "q": "All of the following are features of precipitate labour EXCEPT:",
+    "opts": [
+      "A latent phase lasting more than twenty hours",
+      "Delivery completed within about three hours of the first contraction",
+      "A higher risk of cervical, vaginal and perineal lacerations",
+      "A higher risk of postpartum haemorrhage from uterine atony"
+    ],
+    "ans": 0,
+    "exp": "Precipitate labour is abnormally fast, so it tears the birth canal and leaves an exhausted uterus; a long latent phase is its opposite."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-5", "page": 515, "fmt": "scenario",
+    "sec": "Augmentation of labour: ARM & sequence",
+    "q": "A primigravida at 4 cm has contractions every six minutes lasting 25 seconds, with no cervical change over four hours, intact membranes and a normal CTG. What is the next step?",
+    "opts": [
+      "Amniotomy, reassess progress, then add oxytocin if contractions stay inadequate",
+      "Immediate caesarean section for failure to progress",
+      "Sedation and rest for twelve hours before any reassessment",
+      "Discharge home, because she cannot be in labour without cervical change"
+    ],
+    "ans": 0,
+    "exp": "Inadequate contractions with intact membranes are augmented by amniotomy first, with oxytocin added only if contractions remain poor."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-6", "page": 516, "fmt": "match",
+    "sec": "Cardinal movements & the process of labour",
+    "q": "Match the cardinal movement with its description — 1) Engagement 2) Internal rotation 3) Extension … A) The occiput rotates anteriorly through about 45 degrees to lie behind the symphysis pubis B) The head is born by extending as it pivots under the symphysis pubis C) The biparietal diameter passes through the plane of the pelvic inlet",
+    "opts": ["1-C, 2-A, 3-B", "1-A, 2-C, 3-B", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A"],
+    "ans": 0,
+    "exp": "The sequence is engagement, descent, flexion, internal rotation, extension, then restitution, external rotation and expulsion."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-7", "page": 517, "fmt": "fillup",
+    "sec": "Engagement: definition, signs & engaging diameters",
+    "q": "Fill up: The head is engaged when the ______ has passed through the pelvic inlet, after which only ______ of the head is palpable abdominally.",
+    "opts": ["biparietal diameter; two-fifths or less", "suboccipito-bregmatic diameter; three-fifths", "biparietal diameter; four-fifths", "occipito-frontal diameter; none at all"],
+    "ans": 0,
+    "exp": "With the biparietal diameter through the brim, the sinciput is the only part easily felt above the symphysis."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-8", "page": 517, "fmt": "truefalse",
+    "sec": "Synclitic & asynclitic engagement",
+    "q": "Which of the following statements about asynclitism is TRUE?",
+    "opts": [
+      "The sagittal suture is deflected towards the sacrum or the symphysis so that one parietal bone leads, and mild degrees usually correct with good contractions",
+      "Asynclitism means the head is deflexed, so that the brow presents instead of the vertex",
+      "Every case of asynclitism needs caesarean section, since the head cannot negotiate the pelvis",
+      "In anterior asynclitism the posterior parietal bone always presents and always obstructs labour"
+    ],
+    "ans": 0,
+    "exp": "Anterior asynclitism is Naegele obliquity and posterior is Litzmann obliquity; both usually correct with effective contractions and decent pelvis."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-9", "page": 518, "fmt": "fillup",
+    "sec": "Pain pathways of labour & epidural analgesia",
+    "q": "Fill up: First-stage labour pain is visceral and enters the cord at ______, while second-stage somatic perineal pain travels mainly in ______.",
+    "opts": ["T10 to L1; the pudendal nerve (S2 to S4)", "S2 to S4; T10 to L1", "T6 to T8; the femoral nerve", "L1 to L2; the obturator nerve"],
+    "ans": 0,
+    "exp": "This is why an epidural covering T10 to L1 relieves contraction pain and a pudendal or low block is enough for the second stage."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-10", "page": 519, "fmt": "oddoneout",
+    "sec": "Pudendal & paracervical blocks and prostaglandins",
+    "q": "All of the following statements about pudendal nerve block are true EXCEPT:",
+    "opts": [
+      "It abolishes the pain of uterine contractions in the first stage",
+      "It is given transvaginally with the needle directed just below the ischial spine",
+      "It provides perineal analgesia for an instrumental delivery",
+      "It does not relieve the pain of the contracting uterus"
+    ],
+    "ans": 0,
+    "exp": "Pudendal block anaesthetises the perineum only; first-stage visceral pain needs a paracervical block or regional analgesia."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-11", "page": 520, "fmt": "fillup",
+    "sec": "Induction of labour: Bishop score",
+    "q": "Fill up: A Bishop score of ______ or more predicts a favourable induction, whereas a score of ______ or less means the cervix needs ripening first.",
+    "opts": ["8; 4", "5; 2", "8; 6", "6; 2"],
+    "ans": 0,
+    "exp": "The score combines dilatation, effacement, station, consistency and position; a low score needs prostaglandin or mechanical ripening."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-12", "page": 521, "fmt": "match",
+    "sec": "Methods of induction: sweeping & mechanical methods",
+    "q": "Match the method of induction with its description — 1) Membrane sweeping 2) Foley catheter with extra-amniotic saline infusion 3) Intracervical prostaglandin … A) A mechanical method that dilates the cervix and stimulates endogenous prostaglandin release B) A pharmacological ripening agent that also works when membranes have already ruptured C) A simple outpatient method that reduces the need for formal induction but may cause bleeding and discomfort",
+    "opts": ["1-C, 2-A, 3-B", "1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-B, 3-A"],
+    "ans": 0,
+    "exp": "Sweeping is the simplest, mechanical methods suit women where prostaglandins are risky, and prostaglandins are the pharmacological ripeners."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-13", "page": 522, "fmt": "fillup",
+    "sec": "Prostaglandins & oxytocin for induction",
+    "q": "Fill up: Vaginal misoprostol for induction is used in low doses of about ______ microgram, and an oxytocin infusion is started at about ______ mU per minute.",
+    "opts": ["25; 1-2", "200; 10", "25; 10", "50; 20"],
+    "ans": 0,
+    "exp": "Low-dose misoprostol and a low-dose oxytocin infusion that is titrated every 30 minutes minimise uterine hyperstimulation."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-14", "page": 522, "fmt": "oddoneout",
+    "sec": "Contraindications to IOL & IOL in special cases",
+    "q": "All of the following are contraindications to induction of labour EXCEPT:",
+    "opts": [
+      "A previous uncomplicated vaginal delivery at term",
+      "Placenta previa with the placenta covering the internal os",
+      "A previous classical caesarean section with a vertical uterine scar",
+      "Cord presentation or vasa previa"
+    ],
+    "ans": 0,
+    "exp": "An uncomplicated previous vaginal delivery is not a contraindication; anything that obstructs the canal or risks scar rupture or cord compression is."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-15", "page": 523, "fmt": "match",
+    "sec": "Third stage of labour & active management",
+    "q": "Match the component of active management with its purpose — 1) Uterotonic within one minute of birth 2) Controlled cord traction 3) Delayed cord clamping … A) The single most effective step for preventing postpartum haemorrhage B) Shortens the third stage when combined with suprapubic counter-pressure, while guarding against cord avulsion C) Allows placental transfusion for 1-3 minutes and improves neonatal iron stores",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Active management of the third stage is a package: uterotonic, traction with counter-pressure, and delayed clamping when the baby is well."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-16", "page": 524, "fmt": "fillup",
+    "sec": "Step 1: uterotonics – oxytocin & alternatives",
+    "q": "Fill up: Oxytocin 10 IU is the first-line uterotonic, while carboprost (15-methyl prostaglandin F2 alpha) is given as ______ microgram and must be avoided in ______.",
+    "opts": ["250; asthma", "125; hypertension", "250; diabetes mellitus", "500; epilepsy"],
+    "ans": 0,
+    "exp": "Carboprost 250 microgram every 15 minutes up to eight doses is second line, but it can provoke severe bronchospasm in asthmatics."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-17", "page": 525, "fmt": "truefalse",
+    "sec": "Step 2: delayed cord clamping",
+    "q": "Which of the following statements about delayed cord clamping is TRUE?",
+    "opts": [
+      "It is delayed for at least one to three minutes in babies who do not need resuscitation, and it does not raise the risk of postpartum haemorrhage",
+      "The cord must be clamped immediately in every birth to prevent postpartum haemorrhage",
+      "Delayed clamping is contraindicated in all preterm infants",
+      "Delayed clamping means waiting half an hour before clamping the cord"
+    ],
+    "ans": 0,
+    "exp": "Delayed clamping improves neonatal iron stores and is especially valuable in preterm babies; it is combined with, not a substitute for, a uterotonic."
+  },
+  {
+    "op": "add", "unit": "OBG-U19-18", "page": 526, "fmt": "scenario",
+    "sec": "Steps 3 & 4: controlled cord traction & the fourth stage",
+    "q": "Thirty minutes after a normal delivery the placenta is still undelivered, there is no bleeding and the uterus is well contracted. What is the diagnosis and next step?",
+    "opts": [
+      "Retained placenta without haemorrhage — empty the bladder, wait up to 60 minutes and prepare for manual removal if it is still retained",
+      "Immediate manual removal of the placenta under general anaesthesia",
+      "Emergency hysterectomy, because this must be placenta accreta",
+      "Give ergometrine and apply strong traction to the cord to pull the placenta out"
+    ],
+    "ans": 0,
+    "exp": "Without bleeding the third stage may safely be allowed up to an hour; traction beyond control risks cord avulsion and uterine inversion."
+  }
+]

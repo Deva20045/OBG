@@ -9,13 +9,13 @@
    "page": 550,
    "q": "Breech is the m/c malpresentation with longitudinal lie and breech/podalic presentation. Match incidence – 28 wks : 34 wks : term.",
    "opts": [
-    "25–28% : 5% (baby rotates spontaneously) : 3–4%",
-    "3–4% : 5% : 25%",
-    "50% : 25% : 10%",
-    "10% : 3% : 1%"
+    "About 25% at 28 weeks, 5% at 34 weeks and 3-4% at term, as most turn spontaneously",
+    "About 3-4% at 28 weeks, 5% at 34 weeks and 25% at term, as more turn with time",
+    "About 50% at 28 weeks, 25% at 34 weeks and 10% at term in most series",
+    "About 10% at 28 weeks, 3% at 34 weeks and 1% at term after routine version"
    ],
    "ans": 0,
-   "exp": "28 wks 25–28%; 34 wks 5%; term 3–4%. (Book p550)"
+   "exp": "Breech is common early and uncommon at term because most babies turn by themselves as gestation advances. (Book p550)"
   },
   {
    "id": "OBG-C22-002",
@@ -49,15 +49,15 @@
    "id": "OBG-C22-004",
    "sec": "Breech: features, incidence, causes & types",
    "page": 550,
-   "q": "Structures felt on P/V – complete breech : frank breech : knee : footling.",
+   "q": "Structures felt on vaginal examination — complete breech : frank breech : knee : footling.",
    "opts": [
-    "Heel + anal opening + ischial tuberosities + external genitalia : anal opening + ischial tuberosities + genitalia : knees : feet",
-    "Feet : knees : heel : anus",
-    "Anus only : feet : heel : knees",
-    "Sacrum : feet : anus : knees"
+    "Complete: heel, anus and ischial tuberosities — frank: anus and tuberosities — knee: knees — footling: feet",
+    "Complete: feet only — frank: knees — knee: heel and anus — footling: anus and tuberosities",
+    "Complete: anus only — frank: feet — knee: heel — footling: knees",
+    "Complete: sacrum and anus — frank: feet — knee: anus — footling: knees"
    ],
    "ans": 0,
-   "exp": "Complete: heel + anus + tuberosities + genitalia; frank: anus + tuberosities + genitalia (no heel); knee: knees; footling: feet. (Book p550)"
+   "exp": "The more the legs are extended, the less is felt: complete breech gives heel, anus and tuberosities, footling breech gives only the feet. (Book p550)"
   },
   {
    "id": "OBG-C22-005",
@@ -79,16 +79,31 @@
    "page": 550,
    "q": "Risk of cord prolapse across breech types:",
    "opts": [
-    "Complete less, frank least (bitrochanteric 10 cm covers fully dilated cervix), knee (+), footling highest",
-    "Frank highest, footling least",
-    "All equal",
-    "Complete highest, knee least"
+    "Frank breech lowest, complete breech low, knee presentation higher and footling highest",
+    "Frank breech highest, complete breech next, knee lower and footling presentation lowest",
+    "The risk of cord prolapse is identical for all four types of breech presentation",
+    "Complete breech highest, footling next, knee lower and frank breech lowest"
    ],
    "ans": 0,
-   "exp": "Frank least (bitrochanteric 10 cm plugs the cervix), complete less, knee +, footling highest. (Book p550)"
+   "exp": "Cord prolapse risk rises as the presenting part fits the cervix less well: frank breech is snug, footling breech is not. (Book p550)"
   },
   {
    "id": "OBG-C22-007",
+   "sec": "Breech: features, incidence, causes & types",
+   "page": 550,
+   "q": "Match the type of breech with its posture — 1) Frank breech 2) Complete breech 3) Footling breech … A) Hips and knees both flexed, so the feet lie beside the buttocks B) Hips flexed with both knees extended, so the feet lie up beside the head C) One or both legs extended below the buttocks, carrying the highest risk of cord prolapse",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Frank breech has extended legs, complete breech is the fully flexed 'cannonball' posture, and footling breech risks cord prolapse. (Book p550)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C22-008",
    "sec": "Breech: features, incidence, causes & types",
    "page": 551,
    "q": "Overall ranking of cord prolapse risk and the m/c position in breech:",
@@ -102,35 +117,35 @@
    "exp": "Cord prolapse: transverse lie > footling > knee; m/c breech position dorso-anterior. (Book p551)"
   },
   {
-   "id": "OBG-C22-008",
+   "id": "OBG-C22-009",
    "sec": "Management of breech: USG, ECV & mode of delivery",
    "page": 551,
    "q": "USG in breech is used to confirm diagnosis, assess type (rule out ECV C/I) and to rule out:",
    "opts": [
-    "Gross congenital anomalies (15% incidence in breech; ECV C/I) and hyperextension of neck (stargazer breech); estimate weight (ECV C/I if ≥4 kg)",
-    "Placenta previa only",
-    "Twins only",
-    "Oligohydramnios only"
+    "Gross congenital anomalies, hyperextension of the fetal neck and an estimated fetal weight at or above 4 kg",
+    "Placenta previa, oligohydramnios and a single loop of cord around the fetal neck",
+    "Cord presentation, vasa previa and a velamentous insertion of the umbilical cord",
+    "Fetal hydrocephalus, duodenal atresia and bilateral renal agenesis"
    ],
    "ans": 0,
-   "exp": "Rule out anomalies (15%, ECV C/I), stargazer breech (hyperextended neck), estimate weight (≥4 kg C/I), check prerequisites. (Book p551)"
+   "exp": "Ultrasound looks for the three findings that contraindicate external cephalic version: anomalies, a stargazer neck and a heavy fetus. (Book p551)"
   },
   {
-   "id": "OBG-C22-009",
+   "id": "OBG-C22-010",
    "sec": "Management of breech: USG, ECV & mode of delivery",
    "page": 551,
    "q": "ECV flowchart for breech at term with no C/I (done in OPD at >37 weeks) – successful : unsuccessful : fetal distress.",
    "opts": [
-    "Send patient home (await labour) : try 2nd attempt – if successful start oxytocin/induce, if unsuccessful elective C-section at 39 wks : stop, revert to original position, emergency C-section",
-    "Induce immediately : C-section : continue",
-    "C-section : retry : oxytocin",
-    "Home : C-section at 37 wks : retry"
+    "Successful: send her home to await labour — unsuccessful: a second attempt, else elective caesarean — fetal distress: stop and deliver",
+    "Successful: induce labour immediately — unsuccessful: caesarean section — fetal distress: continue the attempt",
+    "Successful: caesarean at 39 weeks — unsuccessful: retry later the same day — fetal distress: give oxytocin",
+    "Successful: send her home — unsuccessful: caesarean at 37 weeks — fetal distress: retry the version"
    ],
    "ans": 0,
-   "exp": "Success → home; failure → 2nd attempt (success → induce; failure → elective CS at 39 wks); distress → stop, revert, emergency CS. (Book p551)"
+   "exp": "After a successful version the woman goes home to labour; a failed attempt is retried, and any fetal distress ends the procedure. (Book p551)"
   },
   {
-   "id": "OBG-C22-010",
+   "id": "OBG-C22-011",
    "sec": "Management of breech: USG, ECV & mode of delivery",
    "page": 551,
    "q": "Modes of delivery in breech and preference:",
@@ -144,7 +159,22 @@
    "exp": "C-section is strongly preferred over assisted breech delivery. (Book p551)"
   },
   {
-   "id": "OBG-C22-011",
+   "id": "OBG-C22-012",
+   "sec": "Management of breech: USG, ECV & mode of delivery",
+   "page": 551,
+   "q": "Which of the following statements about the management of breech presentation is TRUE?",
+   "opts": [
+    "External cephalic version from 36-37 weeks with tocolysis reduces the chance of caesarean section in suitable women",
+    "External cephalic version should be attempted during labour after the membranes have ruptured",
+    "Every breech at term must be delivered by caesarean section without offering version",
+    "Planned vaginal breech delivery is recommended for all women who request it, whatever the fetal size or position"
+   ],
+   "ans": 0,
+   "exp": "External cephalic version before labour improves the chance of cephalic birth; vaginal breech is limited to strict criteria and skilled attendance. (Book p551)",
+   "fmt": "truefalse"
+  },
+  {
+   "id": "OBG-C22-013",
    "sec": "Management of breech: USG, ECV & mode of delivery",
    "page": 552,
    "q": "Absolute indications for C-section in breech include all EXCEPT:",
@@ -158,7 +188,7 @@
    "exp": "Primigravida with breech is a relative indication; the others are absolute. (Book p552)"
   },
   {
-   "id": "OBG-C22-012",
+   "id": "OBG-C22-014",
    "sec": "Management of breech: USG, ECV & mode of delivery",
    "page": 552,
    "q": "Protracted active phase (delay in 1st/2nd stage) in a breech is considered as ______ and managed by ______.",
@@ -172,7 +202,7 @@
    "exp": "Delay in breech labour = CPD → immediate C-section. (Book p552)"
   },
   {
-   "id": "OBG-C22-013",
+   "id": "OBG-C22-015",
    "sec": "Assisted breech delivery: features, complication, C/I & prerequisites",
    "page": 552,
    "q": "Assisted breech delivery – denominator : engaging diameter : m/c position.",
@@ -186,35 +216,35 @@
    "exp": "Denominator sacrum; bitrochanteric 10 cm; LSA m/c. (Book p552)"
   },
   {
-   "id": "OBG-C22-014",
+   "id": "OBG-C22-016",
    "sec": "Assisted breech delivery: features, complication, C/I & prerequisites",
    "page": 552,
    "q": "Main complication of vaginal breech delivery:",
    "opts": [
-    "Head (last part to be delivered) can get stuck → fetal hypoxic injury/intracranial haemorrhage",
-    "Shoulder dystocia",
-    "Uterine inversion",
-    "Cord avulsion"
+    "The after-coming head becomes trapped, causing fetal hypoxia and intracranial haemorrhage",
+    "Shoulder dystocia with brachial plexus injury from traction on the extended arms",
+    "Uterine inversion from traction on the cord during delivery of the placenta",
+    "Cord avulsion with fetal exsanguination before the trunk has been delivered"
    ],
    "ans": 0,
-   "exp": "Entrapped after-coming head → hypoxia/ICH. (Book p552)"
+   "exp": "The deadly complication of breech delivery is entrapment of the after-coming head, which is why the head must never be rushed. (Book p552)"
   },
   {
-   "id": "OBG-C22-015",
+   "id": "OBG-C22-017",
    "sec": "Assisted breech delivery: features, complication, C/I & prerequisites",
    "page": 552,
    "q": "Contraindications in assisted breech (and all malpresentations):",
    "opts": [
-    "Induction and augmentation of labour – abnormalities can rupture membranes → cord prolapse",
-    "Epidural analgesia",
-    "Continuous CTG",
-    "Episiotomy"
+    "Induction and augmentation of labour, since rupturing the membranes invites cord prolapse",
+    "Epidural analgesia, which abolishes the urge to push and prevents descent",
+    "Continuous cardiotocography, which alarms and forces unnecessary intervention",
+    "An episiotomy, which risks extending into the anal sphincter during a breech birth"
    ],
    "ans": 0,
-   "exp": "IOL/augmentation avoided in all malpresentations (membrane rupture → cord prolapse). (Book p552)"
+   "exp": "An intact sac protects against cord prolapse in malpresentation, so induction and augmentation are avoided; analgesia and monitoring are not contraindications. (Book p552)"
   },
   {
-   "id": "OBG-C22-016",
+   "id": "OBG-C22-018",
    "sec": "Assisted breech delivery: features, complication, C/I & prerequisites",
    "page": 552,
    "q": "Prerequisites for assisted breech delivery:",
@@ -228,63 +258,93 @@
    "exp": "Emergency CS facility, senior doctor, weight <4 kg, NPO + IV fluids, continuous CTG. (Book p552)"
   },
   {
-   "id": "OBG-C22-017",
-   "sec": "Mechanism of breech delivery & manoeuvres for buttocks",
-   "page": 553,
-   "q": "Mechanism of breech delivery in RSA – engagement and descent:",
-   "opts": [
-    "Buttocks engage in right oblique diameter; anterior buttock touches levator ani and (Hart's rule) rotates forward and medially – buttock and sacrum rotate 1/8th of a circle",
-    "Buttocks engage in AP diameter and rotate 2/8th",
-    "Sacrum engages transverse and rotates 3/8th",
-    "Buttocks engage left oblique, no rotation"
-   ],
-   "ans": 0,
-   "exp": "Engagement in right oblique; Hart's rule – part touching levator ani rotates forward/medially; 1/8th rotation. (Book p553)"
-  },
-  {
-   "id": "OBG-C22-018",
-   "sec": "Mechanism of breech delivery & manoeuvres for buttocks",
-   "page": 553,
-   "q": "In breech, which part lies directly behind the pubic symphysis, and what is unique about the denominator?",
-   "opts": [
-    "Anterior buttock; breech is the only exception where the denominator (sacrum) does not lie behind the pubic symphysis",
-    "Sacrum; denominator behind symphysis as usual",
-    "Posterior buttock; sacrum anterior",
-    "Feet; no denominator"
-   ],
-   "ans": 0,
-   "exp": "Anterior buttock lies behind symphysis; breech is the only presentation where the denominator (sacrum) is not behind symphysis. Buttocks then clear the perineum (± episiotomy). (Book p553)"
-  },
-  {
    "id": "OBG-C22-019",
-   "sec": "Mechanism of breech delivery & manoeuvres for buttocks",
-   "page": 553,
-   "q": "When spontaneous delivery of buttocks does not occur – match manoeuvre to breech type: complete breech : frank breech.",
+   "sec": "Assisted breech delivery: prerequisites",
+   "page": 552,
+   "q": "All of the following are prerequisites for assisted breech delivery EXCEPT:",
    "opts": [
-    "Groin traction : Pinard manoeuvre (unlocking the popliteal fossa)",
-    "Pinard : groin traction",
-    "Lovset : Pinard",
-    "Bracht : groin traction"
+    "Intact membranes with the forewaters bulging",
+    "Full cervical dilatation with an empty bladder and rectum",
+    "A flexed head confirmed by ultrasound before the attempt",
+    "Continuous fetal heart monitoring and an experienced operator in theatre"
    ],
    "ans": 0,
-   "exp": "Groin traction for complete breech; Pinard's manoeuvre (pressure in popliteal fossa to flex knee) for frank breech. (Book p553)"
+   "exp": "Ruptured membranes are the rule in established labour and are not a contraindication; the other conditions must all be met. (Book p552)",
+   "fmt": "oddoneout"
   },
   {
    "id": "OBG-C22-020",
    "sec": "Mechanism of breech delivery & manoeuvres for buttocks",
    "page": 553,
-   "q": "The Savage technique in breech delivery:",
+   "q": "Mechanism of breech delivery in RSA – engagement and descent:",
    "opts": [
-    "Warm moist towel wrapped around baby's lower body to prevent cord exposure (precedes shoulder delivery); touching the cord → vasospasm → fetal distress",
-    "Suprapubic pressure to flex the head",
-    "Fundal pressure to deliver shoulders",
-    "Rotation of trunk to free arms"
+    "The buttocks engage in the right oblique diameter and the anterior buttock rotates forward under Hart's rule",
+    "The buttocks engage in the antero-posterior diameter and rotate through two-eighths of a circle",
+    "The sacrum engages transversely and rotates through three-eighths of a circle",
+    "The buttocks engage in the left oblique diameter and descend without any rotation"
    ],
    "ans": 0,
-   "exp": "Savage technique: warm moist towel around lower body to avoid cord handling (vasospasm). (Book p553)"
+   "exp": "With the sacrum anterior the buttocks engage in the right oblique diameter and the anterior buttock descends and rotates forwards. (Book p553)"
   },
   {
    "id": "OBG-C22-021",
+   "sec": "Mechanism of breech delivery & manoeuvres for buttocks",
+   "page": 553,
+   "q": "In breech, which part lies directly behind the pubic symphysis, and what is unique about the denominator?",
+   "opts": [
+    "The anterior buttock; breech is the exception where the denominator does not lie behind the symphysis",
+    "The sacrum itself, with the denominator behind the symphysis as it is in vertex",
+    "The posterior buttock, with the sacrum pointing anteriorly",
+    "The feet, which is why a breech has no denominator at all"
+   ],
+   "ans": 0,
+   "exp": "In breech the anterior buttock lies behind the symphysis, and the sacrum as denominator is the exception to the general rule. (Book p553)"
+  },
+  {
+   "id": "OBG-C22-022",
+   "sec": "Mechanism of breech delivery & manoeuvres for buttocks",
+   "page": 553,
+   "q": "When spontaneous delivery of the buttocks does not occur — match the manoeuvre to the breech type: complete breech : frank breech.",
+   "opts": [
+    "Complete breech: groin traction — frank breech: Pinard's manoeuvre in the popliteal fossa",
+    "Complete breech: Pinard's manoeuvre — frank breech: groin traction",
+    "Complete breech: Lovset's manoeuvre — frank breech: Pinard's manoeuvre",
+    "Complete breech: Bracht's manoeuvre — frank breech: groin traction"
+   ],
+   "ans": 0,
+   "exp": "A complete breech is delivered by traction in the groin; with extended legs the knees must be unlocked first by Pinard's manoeuvre. (Book p553)"
+  },
+  {
+   "id": "OBG-C22-023",
+   "sec": "Mechanism of breech delivery & manoeuvres for buttocks",
+   "page": 553,
+   "q": "The Savage technique in breech delivery:",
+   "opts": [
+    "Wrapping the baby's lower body in a warm moist towel so the cord is not handled and vasospasm is avoided",
+    "Suprapubic pressure applied to the fetal head to keep it flexed during delivery of the after-coming head",
+    "Fundal pressure applied by an assistant to push the shoulders down through the pelvic brim",
+    "Rotating the fetal trunk through 180 degrees to bring the shoulders into the oblique diameter"
+   ],
+   "ans": 0,
+   "exp": "The Savage technique keeps the baby warm and prevents handling of the cord, since touching it provokes vasospasm and fetal distress. (Book p553)"
+  },
+  {
+   "id": "OBG-C22-024",
+   "sec": "Mechanism of breech delivery & manoeuvres for buttocks",
+   "page": 553,
+   "q": "Fill up: With the sacrum anterior, the breech engages in the oblique diameter of the inlet with the ______ diameter leading.",
+   "opts": [
+    "bitrochanteric",
+    "bisacromial",
+    "biparietal",
+    "submento-bregmatic"
+   ],
+   "ans": 0,
+   "exp": "The bitrochanteric diameter (about 10 cm) is the engaging diameter of the breech, just as the bisacromial diameter serves the shoulders. (Book p553)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C22-025",
    "sec": "Shoulder delivery in breech & Lovset's manoeuvre",
    "page": 554,
    "q": "Shoulder delivery in breech – the bisacromial diameter (12 cm) engages along the ______; the anterior shoulder touches levator ani and rotates ______.",
@@ -298,35 +358,35 @@
    "exp": "Bisacromial 12 cm along right oblique; anterior shoulder rotates anteriorly 1/8th; anterior shoulder then posterior shoulder/arm deliver. (Book p554)"
   },
   {
-   "id": "OBG-C22-022",
+   "id": "OBG-C22-026",
    "sec": "Shoulder delivery in breech & Lovset's manoeuvre",
    "page": 554,
    "q": "If the shoulders are not along the AP diameter, the first step is:",
    "opts": [
-    "Hold the baby's back and turn shoulders into the AP diameter → await spontaneous delivery",
-    "Immediate Lovset's manoeuvre",
-    "Fundal pressure",
-    "Piper's forceps"
+    "Hold the baby's back and rotate the shoulders into the antero-posterior diameter, then await spontaneous delivery",
+    "Perform Lovset's manoeuvre immediately without first rotating the shoulders",
+    "Apply fundal pressure to push the shoulders down through the pelvic brim",
+    "Apply Piper's forceps to deliver the head before the shoulders are released"
    ],
    "ans": 0,
-   "exp": "Back held and shoulders turned into AP diameter; if spontaneous delivery fails → Lovset's. (Book p554)"
+   "exp": "If the shoulders are not in the antero-posterior diameter, rotate them there first; only if that fails move to Lovset's manoeuvre. (Book p554)"
   },
   {
-   "id": "OBG-C22-023",
+   "id": "OBG-C22-027",
    "sec": "Shoulder delivery in breech & Lovset's manoeuvre",
    "page": 554,
    "q": "Lovset's manoeuvre involves:",
    "opts": [
-    "Fingers on baby's back rotating the trunk so the posterior shoulder becomes anterior → arm and shoulder deliver spontaneously; then anterior shoulder delivered the same way",
-    "Traction on the groin",
-    "Pressure in popliteal fossa",
-    "Suprapubic pressure with hanging baby"
+    "Fingers over the baby's back rotate the trunk so the posterior shoulder comes forward and delivers",
+    "Traction on the groin to bring the breech down onto the pelvic floor",
+    "Pressure in the popliteal fossa to flex the knee and deliver the leg",
+    "Suprapubic pressure while the baby hangs by its own weight to deliver the head"
    ],
    "ans": 0,
-   "exp": "Lovset's: rotate so posterior shoulder becomes anterior, deliver, repeat for other shoulder. (Book p554)"
+   "exp": "Lovset's manoeuvre rotates the trunk through 180 degrees so that first the posterior and then the anterior shoulder is released. (Book p554)"
   },
   {
-   "id": "OBG-C22-024",
+   "id": "OBG-C22-028",
    "sec": "Shoulder delivery in breech & Lovset's manoeuvre",
    "page": 554,
    "q": "If Lovset's manoeuvre fails:",
@@ -340,7 +400,22 @@
    "exp": "Failure of Lovset's → reach cubital fossa with 2 fingers and sweep the arm down. (Book p554)"
   },
   {
-   "id": "OBG-C22-025",
+   "id": "OBG-C22-029",
+   "sec": "Shoulder delivery in breech & Lovset's manoeuvre",
+   "page": 554,
+   "q": "Which of the following statements about delivering the shoulders in a breech birth is TRUE?",
+   "opts": [
+    "Lovset's manoeuvre rotates the trunk so that the shoulders lie in the oblique diameter and the anterior shoulder is delivered first",
+    "Lovset's manoeuvre is used to flex and deliver the after-coming head",
+    "The bisacromial diameter normally engages in the antero-posterior diameter of the outlet",
+    "The arms should be pulled down as soon as the axilla becomes visible, without rotating the trunk"
+   ],
+   "ans": 0,
+   "exp": "Lovset's manoeuvre turns the posterior shoulder to the front through 180 degrees so that the anterior shoulder slips under the symphysis. (Book p554)",
+   "fmt": "truefalse"
+  },
+  {
+   "id": "OBG-C22-030",
    "sec": "After-coming head of breech: manoeuvres",
    "page": 554,
    "q": "The after-coming head of breech is the ______ part delivered and is delivered by ______.",
@@ -354,21 +429,21 @@
    "exp": "Head is the last part, delivered by flexion (opposite to vertex which delivers by extension). (Book p554)"
   },
   {
-   "id": "OBG-C22-026",
+   "id": "OBG-C22-031",
    "sec": "After-coming head of breech: manoeuvres",
    "page": 554,
    "q": "Burns-Marshall technique sequence:",
    "opts": [
-    "When nape of neck visible baby hangs by its own weight → suprapubic pressure (promotes neck flexion) and feet swung towards mother's abdomen → head delivered",
-    "Fingers in mouth and shoulder traction",
-    "Forceps to after-coming head",
-    "Baby's back held and rotated"
+    "The baby hangs by its own weight, then suprapubic pressure with the feet swung towards the mother's abdomen delivers the head",
+    "Two fingers are placed in the baby's mouth and traction is applied to the shoulders to flex the head",
+    "Piper's forceps are applied to the after-coming head while the body rests along the operator's arm",
+    "The baby's back is held upwards and the trunk is rotated to bring the head into the transverse diameter"
    ],
    "ans": 0,
-   "exp": "Burns-Marshall: baby hangs → suprapubic pressure + feet toward maternal abdomen → head delivers. (Book p554)"
+   "exp": "Burns-Marshall relies on controlled hanging with suprapubic pressure and swinging the body upwards to deliver the head by flexion. (Book p554)"
   },
   {
-   "id": "OBG-C22-027",
+   "id": "OBG-C22-032",
    "sec": "After-coming head of breech: manoeuvres",
    "page": 555,
    "q": "Bracht technique differs from Burns-Marshall in that:",
@@ -382,35 +457,35 @@
    "exp": "Bracht = Burns-Marshall without suprapubic pressure. (Book p555)"
   },
   {
-   "id": "OBG-C22-028",
+   "id": "OBG-C22-033",
    "sec": "After-coming head of breech: manoeuvres",
    "page": 555,
    "q": "Mauriceau-Smellie-Veit technique combines:",
    "opts": [
-    "Shoulder traction + malar flexion (fingers on malar bones, baby astride the forearm)",
-    "Groin traction + neck flexion",
-    "Fundal pressure + jaw traction",
-    "Rotation + suprapubic pressure"
+    "Traction on the shoulders with malar flexion, the baby astride the operator's forearm",
+    "Traction in the groin with flexion of the neck from above",
+    "Fundal pressure from an assistant combined with jaw traction",
+    "Rotation of the trunk with suprapubic pressure applied to the head"
    ],
    "ans": 0,
-   "exp": "MSV = shoulder traction with malar flexion. (Book p555)"
+   "exp": "The Mauriceau-Smellie-Veit manoeuvre rests the baby on the forearm, flexes the head with fingers on the malar bones and applies shoulder traction. (Book p555)"
   },
   {
-   "id": "OBG-C22-029",
+   "id": "OBG-C22-034",
    "sec": "After-coming head of breech: manoeuvres",
    "page": 555,
    "q": "Piper's forceps are:",
    "opts": [
-    "Long forceps – best method for delivering the after-coming head; have pelvic, cephalic and perineal/reverse pelvic curves",
-    "Short outlet forceps",
-    "Rotational forceps with sliding lock",
-    "Solid-blade forceps"
+    "Long forceps with pelvic, cephalic and perineal curves, used for the after-coming head",
+    "Short outlet forceps used for a head already on the pelvic floor",
+    "Rotational forceps with a sliding lock for a transverse head",
+    "Solid-blade forceps designed for a preterm after-coming head"
    ],
    "ans": 0,
-   "exp": "Piper's: long forceps, best for after-coming head; pelvic, cephalic and reverse pelvic (perineal) curve. (Book p555)"
+   "exp": "Piper's forceps are long, with a perineal curve, and are applied to the after-coming head while an assistant holds the body up. (Book p555)"
   },
   {
-   "id": "OBG-C22-030",
+   "id": "OBG-C22-035",
    "sec": "After-coming head of breech: manoeuvres",
    "page": 555,
    "q": "Prague manoeuvre is used for delivery of the head in ______ position, where the head is delivered by ______; the m/c position is ______ (head by flexion).",
@@ -424,35 +499,50 @@
    "exp": "Dorso-posterior → Prague manoeuvre (head by extension); dorso-anterior m/c (head by flexion). Head occupies opposite oblique to shoulders/buttocks. (Book p555)"
   },
   {
-   "id": "OBG-C22-031",
+   "id": "OBG-C22-036",
+   "sec": "After-coming head of breech: manoeuvres",
+   "page": 555,
+   "q": "Match the manoeuvre with how the after-coming head is delivered — 1) Burns-Marshall technique 2) Mauriceau-Smellie-Veit manoeuvre 3) Piper's forceps … A) Two fingers on the maxilla flex the head while an assistant holds the body up and applies suprapubic pressure B) The baby is allowed to hang by its own weight so that the head flexes and delivers spontaneously C) Forceps are applied to the after-coming head while an assistant holds the baby's body out of the way",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Burns-Marshall uses controlled hanging, Mauriceau-Smellie-Veit uses jaw flexion and suprapubic pressure, and Piper's forceps rescue a trapped head. (Book p555)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C22-037",
    "sec": "Complications of breech delivery & breech extraction",
    "page": 555,
    "q": "Entrapped after-coming head – preterm breech : term breech.",
    "opts": [
-    "Dührssen's incisions on cervix at 2 and 10 o'clock → deliver head : entire body pushed back into uterus and C-section (Zavanelli technique)",
-    "Zavanelli : Dührssen's",
-    "Symphysiotomy : forceps",
-    "Cleidotomy : craniotomy"
+    "Preterm: Duhrssen incisions in the cervix at 2 and 10 o'clock — term: push the body back and deliver by caesarean",
+    "Preterm: push the body back and deliver by caesarean — term: Duhrssen incisions in the cervix at 2 and 10 o'clock",
+    "Preterm: immediate craniotomy to allow vaginal delivery — term: Zavanelli manoeuvre then caesarean section",
+    "Both preterm and term: Piper's forceps are the first and only option for the trapped head"
    ],
    "ans": 0,
-   "exp": "Preterm: Dührssen's cervical incisions at 2 & 10 o'clock; term: Zavanelli (replace and C-section). (Book p555)"
+   "exp": "Before viability the cervix is incised to release the head; at term the body is pushed back and the baby is delivered by caesarean. (Book p555)"
   },
   {
-   "id": "OBG-C22-032",
+   "id": "OBG-C22-038",
    "sec": "Complications of breech delivery & breech extraction",
    "page": 555,
    "q": "Complications of breech delivery and the m/c cause of death:",
    "opts": [
-    "Intracranial haemorrhage (m/c death), fetal asphyxia, hypoxic ischemic encephalopathy, abdominal injuries",
-    "Shoulder dystocia (m/c death)",
-    "Erb's palsy (m/c death)",
-    "Fracture femur (m/c death)"
+    "Intracranial haemorrhage is the commonest cause of death, with asphyxia and intra-abdominal injury",
+    "Shoulder dystocia is the commonest cause of death, with brachial plexus injury",
+    "Erb's palsy is the commonest cause of death, from traction on the extended arms",
+    "Fracture of the femur is the commonest cause of death in vaginal breech delivery"
    ],
    "ans": 0,
-   "exp": "ICH is m/c cause of death; also asphyxia, HIE, abdominal injuries. (Book p555)"
+   "exp": "Rapid decompression and trapping of the after-coming head cause intracranial haemorrhage, the leading cause of death in breech. (Book p555)"
   },
   {
-   "id": "OBG-C22-033",
+   "id": "OBG-C22-039",
    "sec": "Complications of breech delivery & breech extraction",
    "page": 556,
    "q": "Breech extraction is indicated in:",
@@ -466,35 +556,50 @@
    "exp": "Indication: 2nd twin in transverse lie after vaginal delivery of cephalic 1st twin. (Book p556)"
   },
   {
-   "id": "OBG-C22-034",
+   "id": "OBG-C22-040",
    "sec": "Complications of breech delivery & breech extraction",
    "page": 556,
    "q": "Method of breech extraction:",
    "opts": [
-    "Vaginal delivery of 1st twin → shift to OT → internal podalic version under GA → breech delivery under GA; all manoeuvres without maternal effort",
-    "External cephalic version → oxytocin",
-    "Immediate C-section for 2nd twin",
-    "Await spontaneous delivery"
+    "Deliver the first twin vaginally, then internal podalic version followed by breech extraction under anaesthesia in theatre",
+    "External cephalic version of the second twin, then an oxytocin infusion to deliver vaginally",
+    "Immediate caesarean section for the second twin as soon as the first twin has been born",
+    "Wait for spontaneous delivery of the second twin without any intervention for up to two hours"
    ],
    "ans": 0,
-   "exp": "After 1st twin: OT, internal podalic version under GA, breech delivery under GA, no maternal effort. (Book p556)"
+   "exp": "Breech extraction is performed in theatre under anaesthesia, because all the manoeuvres are done by the operator with no maternal effort. (Book p556)"
   },
   {
-   "id": "OBG-C22-035",
+   "id": "OBG-C22-041",
+   "sec": "Complications of breech delivery & breech extraction",
+   "page": 556,
+   "q": "All of the following are recognised fetal complications of vaginal breech delivery EXCEPT:",
+   "opts": [
+    "Neonatal hypoglycaemia from maternal diabetes",
+    "Erb's palsy from traction on the extended arms",
+    "Intracranial haemorrhage from rapid decompression of the after-coming head",
+    "Fracture of the humerus, femur or clavicle during manipulation"
+   ],
+   "ans": 0,
+   "exp": "Neonatal hypoglycaemia is a metabolic complication of diabetic pregnancy, not a mechanical complication of breech delivery. (Book p556)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C22-042",
    "sec": "Instrumental delivery: indications, prerequisites & choice",
    "page": 557,
    "q": "Indications for instrumental delivery (with station ≥ +2):",
    "opts": [
-    "Prolonged 2nd stage, fetal distress, prophylactic shortening of 2nd stage in maternal exhaustion, heart disease, PIH",
-    "Prolonged 1st stage, CPD",
-    "Breech, transverse lie",
-    "Placenta previa, cord prolapse at 4 cm"
+    "Prolonged second stage, fetal distress, and shortening the second stage for maternal disease",
+    "A prolonged first stage, and cephalopelvic disproportion in established labour",
+    "Breech presentation, and a transverse lie with the arm prolapsed",
+    "Placenta previa, and cord prolapse with the cervix only 4 cm dilated"
    ],
    "ans": 0,
-   "exp": "Prolonged 2nd stage, fetal distress, prophylactic use (exhaustion, heart disease, PIH); station ≥ +2. (Book p557)"
+   "exp": "Instrumental delivery is for the second stage: delay, fetal distress, or a maternal indication to avoid pushing. (Book p557)"
   },
   {
-   "id": "OBG-C22-036",
+   "id": "OBG-C22-043",
    "sec": "Instrumental delivery: indications, prerequisites & choice",
    "page": 557,
    "q": "Prerequisites mnemonic FORCEPS – expand it:",
@@ -508,7 +613,7 @@
    "exp": "F full dilatation, O favourable position, R rotated head/ruptured membranes, C consent/contracting uterus, E episiotomy/engaged/empty bladder, P pelvis adequate, S (CPD) absent. (Book p557)"
   },
   {
-   "id": "OBG-C22-037",
+   "id": "OBG-C22-044",
    "sec": "Instrumental delivery: indications, prerequisites & choice",
    "page": 557,
    "q": "Favourable position for instrumental delivery:",
@@ -522,175 +627,205 @@
    "exp": "Sagittal suture AP, ≤45° rotation (DOA, DOP, ROA, LOA), station ≥ +2. (Book p557)"
   },
   {
-   "id": "OBG-C22-038",
+   "id": "OBG-C22-045",
    "sec": "Instrumental delivery: indications, prerequisites & choice",
    "page": 557,
    "q": "Forceps vs vacuum – prerequisites differ how?",
    "opts": [
-    "Forceps need all prerequisites; vacuum can be used with incomplete cervical dilatation ≥6 cm and a non-rotated head",
-    "Vacuum needs all; forceps allow 6 cm",
-    "Both need full dilatation",
-    "Forceps allow unengaged head"
+    "Forceps require every prerequisite; vacuum may be used from 6 cm dilatation with an unrotated head",
+    "Vacuum requires every prerequisite; forceps may be used from 6 cm dilatation",
+    "Both instruments require full cervical dilatation before they can be applied",
+    "Forceps may be applied to an unengaged head, but the vacuum may never be"
    ],
    "ans": 0,
-   "exp": "Vacuum may be applied at ≥6 cm and to an unrotated head; forceps require all prerequisites. (Book p557)"
+   "exp": "Vacuum extraction is more forgiving: it can be used before full dilatation and does not require the head to be rotated. (Book p557)"
   },
   {
-   "id": "OBG-C22-039",
+   "id": "OBG-C22-046",
    "sec": "Instrumental delivery: indications, prerequisites & choice",
    "page": 557,
    "q": "Best-suited case for vacuum and the choice in maternal heart disease:",
    "opts": [
-    "Vertex presentation with fully dilated cervix and rotated head; heart disease → forceps (↓ maternal efforts) > vacuum",
-    "Face presentation; heart disease → vacuum",
-    "Breech; heart disease → vacuum",
-    "Brow; heart disease → forceps"
+    "A vertex with a fully dilated cervix and a rotated head; forceps are preferred in heart disease",
+    "A face presentation with the chin anterior; vacuum is preferred in heart disease",
+    "A breech presentation, where vacuum is preferred in maternal heart disease",
+    "A brow presentation, where forceps are preferred in maternal heart disease"
    ],
    "ans": 0,
-   "exp": "Vacuum ideal for vertex, full dilatation, rotated head; heart disease → forceps to reduce maternal effort. (Book p557)"
+   "exp": "Vacuum suits a rotated vertex at full dilatation; when maternal effort must be minimised, as in heart disease, forceps are preferred. (Book p557)"
   },
   {
-   "id": "OBG-C22-040",
+   "id": "OBG-C22-047",
+   "sec": "Instrumental delivery: indications, prerequisites & choice",
+   "page": 557,
+   "q": "Fill up: Prerequisites for instrumental delivery include full cervical dilatation, ruptured membranes, an empty bladder and a head at or below the level of the ______.",
+   "opts": [
+    "ischial spines",
+    "pelvic inlet",
+    "sacral promontory",
+    "pelvic floor"
+   ],
+   "ans": 0,
+   "exp": "The head must be at station zero or below, with the position known, the pelvis adequate and no disproportion before any instrument is applied. (Book p557)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C22-048",
    "sec": "Contraindications & vacuum delivery technique",
    "page": 558,
    "q": "Contraindications specific to VACUUM:",
    "opts": [
-    "Preterm babies (ICH risk), intrauterine death (macerated head), after-coming head of breech, face presentation (mento-anterior)",
-    "Maternal heart disease, PIH",
-    "Occipito-anterior position",
-    "Multigravida"
+    "A preterm fetus, intrauterine death with a macerated head, the after-coming head and face presentation",
+    "Maternal heart disease, pregnancy-induced hypertension and a previous caesarean scar",
+    "An occipito-anterior position with the head already on the pelvic floor at full dilatation",
+    "A multiparous woman with a previously normal vaginal delivery at term"
    ],
    "ans": 0,
-   "exp": "Vacuum C/I: preterm, IUD, after-coming head, face presentation. (Book p558)"
+   "exp": "Vacuum-specific contraindications reflect scalp injury risk: prematurity, a macerated head, the after-coming head and malpresentation. (Book p558)"
   },
   {
-   "id": "OBG-C22-041",
+   "id": "OBG-C22-049",
    "sec": "Contraindications & vacuum delivery technique",
    "page": 558,
    "q": "Absolute contraindications to any instrumental delivery:",
    "opts": [
-    "CPD, inadequate/contracted pelvis, fetal bony deformities (osteogenesis imperfecta), fetal coagulopathy; avoided in HIV-positive women",
-    "Prolonged 2nd stage",
-    "Maternal exhaustion",
-    "Epidural in situ"
+    "Cephalopelvic disproportion, an unengaged head, and a fetus with a bleeding disorder or bone demineralisation",
+    "Prolonged second stage, maternal exhaustion and an epidural already sited for pain relief",
+    "Maternal cardiac disease, pregnancy-induced hypertension and one previous caesarean section",
+    "Occipito-posterior position, a loose nuchal cord and lightly stained meconium liquor"
    ],
    "ans": 0,
-   "exp": "Absolute: CPD, contracted pelvis, OI, fetal coagulopathy; avoid in HIV-positive. (Book p558)"
+   "exp": "Absolute contraindications reflect disproportion, an unengaged head and fetal fragility; exhaustion and a long second stage are indications, not contraindications. (Book p558)"
   },
   {
-   "id": "OBG-C22-042",
+   "id": "OBG-C22-050",
    "sec": "Contraindications & vacuum delivery technique",
    "page": 558,
    "q": "Silastic cups – advantages and pressures:",
    "opts": [
-    "Safer/less traumatic, easy to apply, bell/mushroom shaped; initial 0.2 kg/cm², maximum 0.8 kg/cm² (600 mmHg) generated in 2 min (used in fetal distress)",
-    "Metal, traumatic; 1.5 kg/cm² over 10 min",
-    "Rigid; 0.5 kg/cm² instantly",
-    "Disposable; 0.1 kg/cm² max"
+    "Safer and easier to apply; pressure starts at 0.2 kg/cm2 and is raised to 0.8 kg/cm2 over about two minutes",
+    "Metal cups that are more traumatic, built up to 1.5 kg/cm2 over ten minutes",
+    "Rigid cups applied to a pressure of 0.5 kg/cm2 reached instantly",
+    "Disposable cups with the maximum pressure limited to 0.1 kg/cm2"
    ],
    "ans": 0,
-   "exp": "Silastic: safer, bell/mushroom; 0.2 → 0.8 kg/cm² (600 mmHg) within 2 min in fetal distress. (Book p558)"
+   "exp": "Silastic cups cause less scalp trauma and are applied with negative pressure rising gradually to 0.8 kg/cm2 (600 mmHg). (Book p558)"
   },
   {
-   "id": "OBG-C22-043",
+   "id": "OBG-C22-051",
    "sec": "Contraindications & vacuum delivery technique",
    "page": 558,
    "q": "Correct application of the vacuum cup:",
    "opts": [
-    "Centre of cup at the flexion point on sagittal suture – 6 cm posterior to anterior fontanelle / 3 cm anterior to posterior fontanelle; rim touches posterior fontanelle; cup diameter 6 cm",
-    "Centre over anterior fontanelle",
-    "Centre over posterior fontanelle",
-    "Over the parietal eminence"
+    "Centre the cup over the flexion point, about 6 cm behind the anterior fontanelle and 3 cm in front of the posterior one",
+    "Centre the cup over the anterior fontanelle, so the head deflexes as traction is applied to the skull",
+    "Centre the cup over the posterior fontanelle, which is the flexion point for vacuum application",
+    "Centre the cup over the parietal eminence on whichever side of the head lies against the sacrum"
    ],
    "ans": 0,
-   "exp": "Flexion point: 6 cm behind anterior fontanelle (cup edge 3 cm), rim touches posterior fontanelle; anterior placement → extension → trauma. (Book p558)"
+   "exp": "Correct placement is over the flexion point on the sagittal suture, which promotes flexion and minimises scalp trauma and cup detachment. (Book p558)"
   },
   {
-   "id": "OBG-C22-044",
+   "id": "OBG-C22-052",
+   "sec": "Contraindications & vacuum delivery technique",
+   "page": 558,
+   "q": "All of the following are contraindications to vacuum extraction EXCEPT:",
+   "opts": [
+    "A cephalic presentation at full dilatation with the head engaged in the occipito-anterior position",
+    "Gestational age below 34 weeks, because of the risk of scalp and intracranial injury",
+    "A known fetal bleeding disorder or bone demineralisation",
+    "A face or brow presentation with an ill-defined flexion point"
+   ],
+   "ans": 0,
+   "exp": "An engaged cephalic presentation at full dilatation is the indication for vacuum extraction; prematurity, coagulopathy and malpresentation are not. (Book p558)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C22-053",
    "sec": "Contraindications & vacuum delivery technique",
    "page": 559,
    "q": "The Omnicup is:",
    "opts": [
-    "A newer, smaller, portable, disposable vacuum device indicated for OA and OP deliveries",
-    "A metal cup for face presentation",
-    "A rotational forceps",
-    "A fetal scalp electrode"
+    "A newer, smaller, portable disposable vacuum device used for occipito-anterior and posterior positions",
+    "A metal cup designed for delivery of the face presentation",
+    "A rotational forceps with a sliding lock for the transverse head",
+    "A fetal scalp electrode used to monitor the heart rate in labour"
    ],
    "ans": 0,
-   "exp": "Omnicup: newer, small, portable, disposable; OA and OP deliveries. (Book p559)"
+   "exp": "The Omnicup is a modern handheld vacuum device suitable for both occipito-anterior and occipito-posterior positions. (Book p559)"
   },
   {
-   "id": "OBG-C22-045",
+   "id": "OBG-C22-054",
    "sec": "Forceps: parts, locks, handedness & types",
    "page": 559,
    "q": "Parts of obstetric forceps include:",
    "opts": [
-    "Handles, finger guards, lock, shanks, heel, blade with window (fenestration), pelvic curve, cephalic curve",
-    "Cup, chain, handle, pump",
-    "Blade, ratchet, teeth, serrations",
-    "Handle, spring, hook"
+    "Handle, finger guard, lock, shank, heel and a fenestrated blade with pelvic and cephalic curves",
+    "Cup, chain, handle and hand pump for generating negative pressure",
+    "Blade, ratchet, teeth and serrations for gripping the fetal head firmly",
+    "Handle, spring and hook for applying traction to the fetal scalp"
    ],
    "ans": 0,
-   "exp": "Handles, finger guards, lock, shanks, heel, fenestrated blade, pelvic and cephalic curves. (Book p559)"
+   "exp": "Each blade has a handle with finger guard, a lock, a shank, a heel and a fenestrated blade with pelvic and cephalic curves. (Book p559)"
   },
   {
-   "id": "OBG-C22-046",
+   "id": "OBG-C22-055",
    "sec": "Forceps: parts, locks, handedness & types",
    "page": 559,
    "q": "Advantages of fenestrations (windows) in the blade:",
    "opts": [
-    "Light weight, less traumatic, ↓ risk of head compression",
-    "Stronger traction",
-    "Allows rotation",
-    "Better grip on scalp"
+    "Lighter blades that grip well while compressing the fetal head less",
+    "Stronger traction through a wider surface of metal on the head",
+    "Rotation of the head by allowing the blades to slide independently",
+    "A better grip on the fetal scalp to prevent the blades slipping"
    ],
    "ans": 0,
-   "exp": "Fenestration: lighter, less traumatic, less head compression. (Book p559)"
+   "exp": "Fenestration lightens the blade and reduces the compressive force transmitted to the fetal head without losing grip. (Book p559)"
   },
   {
-   "id": "OBG-C22-047",
+   "id": "OBG-C22-056",
    "sec": "Forceps: parts, locks, handedness & types",
    "page": 559,
-   "q": "Types of lock – English lock (m/c) : sliding lock.",
+   "q": "Types of lock — English lock (most common) : sliding lock.",
    "opts": [
-    "Two sockets (one on each handle), closes only when left blade introduced first : single socket",
-    "Single socket : two sockets",
-    "Screw : pivot",
-    "No lock : ratchet"
+    "English: two sockets, with the left blade introduced first — sliding: one socket that lets the blades slide",
+    "English: a single socket — sliding: two sockets with the right blade introduced first",
+    "English: a screw mechanism — sliding: a pivot joint between the two shanks",
+    "English: no lock at all — sliding: a ratchet that locks at fixed intervals"
    ],
    "ans": 0,
-   "exp": "English lock: 2 sockets, left blade first; sliding lock: single socket (Kielland). (Book p559)"
+   "exp": "The English lock has a socket on each handle and closes only when the left blade goes in first; the sliding lock corrects asynclitism. (Book p559)"
   },
   {
-   "id": "OBG-C22-048",
+   "id": "OBG-C22-057",
    "sec": "Forceps: parts, locks, handedness & types",
    "page": 560,
    "q": "Left/right forceps identification:",
    "opts": [
-    "'Left' and 'right' are with respect to the mother; correctly held left forceps – socket faces upwards; right – socket faces downwards; pelvic curve faces upwards",
-    "With respect to the operator; both sockets up",
-    "By blade length",
-    "By colour coding"
+    "Named for the mother's left and right; held correctly the left socket faces up and the right socket faces down",
+    "Named for the operator's hands, with both sockets facing upwards when applied",
+    "Identified by blade length, since the left blade is noticeably longer",
+    "Identified by colour coding on the handle of each blade"
    ],
    "ans": 0,
-   "exp": "Named w.r.t. mother; left blade socket up, right socket down; pelvic curve upward. (Book p560)"
+   "exp": "Forceps blades are named for the side of the mother's pelvis; held correctly, the left blade's socket faces upwards. (Book p560)"
   },
   {
-   "id": "OBG-C22-049",
+   "id": "OBG-C22-058",
    "sec": "Forceps: parts, locks, handedness & types",
    "page": 560,
    "q": "Correctly applied forceps are identified by:",
    "opts": [
-    "Lock closes properly and both blades equidistant from the sagittal suture (applied along occipito-mental diameter)",
-    "Blades overlapping",
-    "One blade over the face",
-    "Handles at 90° to each other"
+    "The lock closes easily and both blades lie equidistant from the sagittal suture along the occipito-mental diameter",
+    "The blades overlap slightly in the midline over the region of the anterior fontanelle",
+    "One blade lies over the face and the other over the occiput to grip the head firmly",
+    "The handles sit at 90 degrees to each other because the head is lying transversely"
    ],
    "ans": 0,
-   "exp": "Lock closes; blades equidistant from sagittal suture; along occipito-mental diameter. (Book p560)"
+   "exp": "Correct application means the lock closes without force, the blades sit symmetrically along the occipito-mental diameter and the sagittal suture is midway. (Book p560)"
   },
   {
-   "id": "OBG-C22-050",
+   "id": "OBG-C22-059",
    "sec": "Forceps: parts, locks, handedness & types",
    "page": 560,
    "q": "Wrigley forceps:",
@@ -704,7 +839,7 @@
    "exp": "Wrigley: outlet, short, light, 27.5 cm total, 2.5 cm shank. (Book p560)"
   },
   {
-   "id": "OBG-C22-051",
+   "id": "OBG-C22-060",
    "sec": "Forceps: parts, locks, handedness & types",
    "page": 560,
    "q": "Kielland forceps:",
@@ -718,35 +853,50 @@
    "exp": "Kielland: long, rotational, sliding lock, outdated. (Book p560)"
   },
   {
-   "id": "OBG-C22-052",
+   "id": "OBG-C22-061",
    "sec": "Forceps: parts, locks, handedness & types",
    "page": 560,
-   "q": "Match – Piper's forceps : Tucker-McLane forceps.",
+   "q": "Match — Piper's forceps : Tucker-McLane forceps.",
    "opts": [
-    "Longest forceps (English lock) for after-coming head of breech : only forceps with a solid blade",
-    "Solid blade : after-coming head",
-    "Outlet forceps : rotational",
-    "Sliding lock : shortest forceps"
+    "Piper's: the longest forceps, for the after-coming head — Tucker-McLane: the only forceps with a solid blade",
+    "Piper's: a solid blade for the head — Tucker-McLane: for the after-coming head",
+    "Piper's: a short outlet forceps — Tucker-McLane: the rotational forceps",
+    "Piper's: a sliding lock — Tucker-McLane: the shortest forceps available"
    ],
    "ans": 0,
-   "exp": "Piper's – longest, English lock, after-coming head; Tucker-McLane – solid blade. (Book p560)"
+   "exp": "Piper's are long forceps with a perineal curve for the after-coming head; Tucker-McLane are the only forceps with solid blades. (Book p560)"
   },
   {
-   "id": "OBG-C22-053",
+   "id": "OBG-C22-062",
+   "sec": "Forceps: parts, locks, handedness & types",
+   "page": 560,
+   "q": "Match the forceps with its distinguishing feature — 1) Kielland's forceps 2) Piper's forceps 3) Simpson's forceps … A) A sliding lock with almost no pelvic curve, designed for rotation of the head B) Long forceps with a perineal curve for the after-coming head in a breech delivery C) Standard outlet forceps with both a pelvic and a cephalic curve for the flexed head",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Kielland's slides to correct asynclitism and rotates, Piper's reaches the after-coming head, and Simpson's follows the curves of the pelvis and head. (Book p560)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C22-063",
    "sec": "Forceps application, direction of pull & complications",
    "page": 561,
    "q": "Low forceps (m/c type) vs outlet (Wrigley) forceps criteria:",
    "opts": [
-    "Low: station ≥ +2 without touching perineum; outlet: head at perineum, scalp visible at introitus, skull at pelvic floor, sagittal suture in AP (ideal)",
-    "Low: station 0; outlet: station +1",
-    "Low: −ve station; outlet: 0 station",
-    "Low: crowning; outlet: station +1"
+    "Low forceps: station +2 or more without reaching the perineum — outlet forceps: scalp visible at the introitus with the skull on the pelvic floor",
+    "Low forceps: at the level of the ischial spines — outlet forceps: station +1 with the head still above the pelvic floor",
+    "Low forceps: crowning with the head distending the perineum — outlet forceps: station +2 or lower inside the cavity",
+    "Low forceps: any station with the head not yet engaged — outlet forceps: the head still above the level of the ischial spines"
    ],
    "ans": 0,
-   "exp": "Low ≥ +2 not touching perineum; outlet: head at perineum, scalp visible, skull on pelvic floor, sagittal suture AP. (Book p561)"
+   "exp": "Low forceps are the commonest type and are applied at station +2 or more; outlet forceps are only used when the scalp is visible. (Book p561)"
   },
   {
-   "id": "OBG-C22-054",
+   "id": "OBG-C22-064",
    "sec": "Forceps application, direction of pull & complications",
    "page": 561,
    "q": "Mid-cavity forceps (0/+1 station) and high forceps (−ve station) are:",
@@ -760,7 +910,7 @@
    "exp": "Mid-cavity and high forceps are obsolete. (Book p561)"
   },
   {
-   "id": "OBG-C22-055",
+   "id": "OBG-C22-065",
    "sec": "Forceps application, direction of pull & complications",
    "page": 561,
    "q": "Direction of pull – ideal position and basis; low forceps pulls : outlet forceps pulls.",
@@ -774,7 +924,7 @@
    "exp": "Lithotomy; directions relative to maternal abdomen. Low: down+back, down, down+forward. Outlet: down, down+forward. (Book p561)"
   },
   {
-   "id": "OBG-C22-056",
+   "id": "OBG-C22-066",
    "sec": "Forceps application, direction of pull & complications",
    "page": 561,
    "q": "Prior to forceps delivery:",
@@ -788,7 +938,22 @@
    "exp": "Consent, epidural/pudendal analgesia, episiotomy. (Book p561)"
   },
   {
-   "id": "OBG-C22-057",
+   "id": "OBG-C22-067",
+   "sec": "Forceps application, direction of pull & complications",
+   "page": 561,
+   "q": "Fill up: Low forceps are applied when the leading point of the fetal skull is at station ______ or lower, while outlet forceps are applied when the scalp is visible at the introitus.",
+   "opts": [
+    "+2",
+    "0",
+    "-1",
+    "+4"
+   ],
+   "ans": 0,
+   "exp": "Low forceps means station +2 or more; outlet forceps are applied only when the scalp is visible without separating the labia. (Book p561)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C22-068",
    "sec": "Forceps application, direction of pull & complications",
    "page": 562,
    "q": "Traction force for forceps – primigravida : multigravida.",
@@ -802,7 +967,7 @@
    "exp": "Primi 16–18 kg; multi 12–13 kg. (Book p562)"
   },
   {
-   "id": "OBG-C22-058",
+   "id": "OBG-C22-069",
    "sec": "Forceps application, direction of pull & complications",
    "page": 562,
    "q": "M/c complication – forceps : vacuum; ease of use:",
@@ -816,21 +981,21 @@
    "exp": "Forceps → maternal injury; vacuum → fetal injury; vacuum easier and m/c used. (Book p562)"
   },
   {
-   "id": "OBG-C22-059",
+   "id": "OBG-C22-070",
    "sec": "Forceps application, direction of pull & complications",
    "page": 562,
    "q": "Fetal complications – forceps : vacuum.",
    "opts": [
-    "Facial (VII) nerve palsy, brachial plexus injury, corneal injury : VI nerve palsy, shoulder dystocia, cephalhematoma, subgaleal haemorrhage, retinal injury",
-    "VI nerve palsy : VII nerve palsy",
-    "Cephalhematoma : corneal injury",
-    "Subgaleal bleed : brachial plexus"
+    "Forceps: facial nerve palsy and corneal injury — vacuum: cephalhaematoma and subgaleal haemorrhage",
+    "Forceps: sixth nerve palsy and subgaleal bleed — vacuum: facial nerve palsy and corneal injury",
+    "Forceps: cephalhaematoma only — vacuum: corneal abrasion only",
+    "Forceps: subgaleal haemorrhage — vacuum: brachial plexus injury from the shoulders"
    ],
    "ans": 0,
-   "exp": "Forceps: VII palsy, brachial plexus, corneal injury. Vacuum: VI palsy, shoulder dystocia, cephalhematoma, subgaleal bleed, retinal injury. (Book p562)"
+   "exp": "Forceps injure the face and skull base; the vacuum produces scalp injuries, notably cephalhaematoma and subgaleal haemorrhage. (Book p562)"
   },
   {
-   "id": "OBG-C22-060",
+   "id": "OBG-C22-071",
    "sec": "Forceps application, direction of pull & complications",
    "page": 562,
    "q": "Failed forceps/vacuum is defined as ______ and managed by ______.",
@@ -859,7 +1024,8 @@
     "OBG-C22-004",
     "OBG-C22-005",
     "OBG-C22-006",
-    "OBG-C22-007"
+    "OBG-C22-007",
+    "OBG-C22-008"
    ]
   },
   {
@@ -870,11 +1036,12 @@
    "sec": "Breech management · p551-552",
    "guide": "Use USG to screen for ECV, follow the ECV flowchart, and apply the absolute and relative indications for caesarean section. Focus for this checkpoint: Management of breech: USG, ECV & mode of delivery.",
    "qs": [
-    "OBG-C22-008",
     "OBG-C22-009",
     "OBG-C22-010",
     "OBG-C22-011",
-    "OBG-C22-012"
+    "OBG-C22-012",
+    "OBG-C22-013",
+    "OBG-C22-014"
    ]
   },
   {
@@ -885,10 +1052,11 @@
    "sec": "Assisted breech · p552",
    "guide": "Know the denominator, engaging diameter and m/c position of breech, the deadly complication of the after-coming head, and the safety prerequisites. Focus for this checkpoint: Assisted breech delivery: features, complication, C/I & prerequisites.",
    "qs": [
-    "OBG-C22-013",
-    "OBG-C22-014",
     "OBG-C22-015",
-    "OBG-C22-016"
+    "OBG-C22-016",
+    "OBG-C22-017",
+    "OBG-C22-018",
+    "OBG-C22-019"
    ]
   },
   {
@@ -899,10 +1067,11 @@
    "sec": "Breech mechanism · p553",
    "guide": "Follow the RSA mechanism from oblique engagement to spontaneous buttock delivery, and apply groin traction, Pinard's manoeuvre and the Savage technique. Focus for this checkpoint: Mechanism of breech delivery & manoeuvres for buttocks.",
    "qs": [
-    "OBG-C22-017",
-    "OBG-C22-018",
-    "OBG-C22-019",
-    "OBG-C22-020"
+    "OBG-C22-020",
+    "OBG-C22-021",
+    "OBG-C22-022",
+    "OBG-C22-023",
+    "OBG-C22-024"
    ]
   },
   {
@@ -913,10 +1082,11 @@
    "sec": "Shoulder delivery · p554",
    "guide": "Trace the bisacromial diameter through the pelvis and rescue extended arms with Lovset's manoeuvre or cubital fossa delivery. Focus for this checkpoint: Shoulder delivery in breech & Lovset's manoeuvre.",
    "qs": [
-    "OBG-C22-021",
-    "OBG-C22-022",
-    "OBG-C22-023",
-    "OBG-C22-024"
+    "OBG-C22-025",
+    "OBG-C22-026",
+    "OBG-C22-027",
+    "OBG-C22-028",
+    "OBG-C22-029"
    ]
   },
   {
@@ -927,12 +1097,13 @@
    "sec": "After-coming head · p554-555",
    "guide": "Deliver the after-coming head with Burns-Marshall, Bracht, Mauriceau-Smellie-Veit, Piper's forceps and Prague manoeuvre – and know when each applies. Focus for this checkpoint: After-coming head of breech: manoeuvres.",
    "qs": [
-    "OBG-C22-025",
-    "OBG-C22-026",
-    "OBG-C22-027",
-    "OBG-C22-028",
-    "OBG-C22-029",
-    "OBG-C22-030"
+    "OBG-C22-030",
+    "OBG-C22-031",
+    "OBG-C22-032",
+    "OBG-C22-033",
+    "OBG-C22-034",
+    "OBG-C22-035",
+    "OBG-C22-036"
    ]
   },
   {
@@ -943,10 +1114,11 @@
    "sec": "Entrapped head & extraction · p555-556",
    "guide": "Manage the entrapped head differently in preterm and term breech, recall the m/c cause of death, and define breech extraction for the second twin. Focus for this checkpoint: Complications of breech delivery & breech extraction.",
    "qs": [
-    "OBG-C22-031",
-    "OBG-C22-032",
-    "OBG-C22-033",
-    "OBG-C22-034"
+    "OBG-C22-037",
+    "OBG-C22-038",
+    "OBG-C22-039",
+    "OBG-C22-040",
+    "OBG-C22-041"
    ]
   },
   {
@@ -957,11 +1129,12 @@
    "sec": "Instrumental delivery basics · p557",
    "guide": "Learn the indications, the FORCEPS mnemonic of prerequisites, the favourable positions, and when vacuum can replace forceps. Focus for this checkpoint: Instrumental delivery: indications, prerequisites & choice.",
    "qs": [
-    "OBG-C22-035",
-    "OBG-C22-036",
-    "OBG-C22-037",
-    "OBG-C22-038",
-    "OBG-C22-039"
+    "OBG-C22-042",
+    "OBG-C22-043",
+    "OBG-C22-044",
+    "OBG-C22-045",
+    "OBG-C22-046",
+    "OBG-C22-047"
    ]
   },
   {
@@ -972,11 +1145,12 @@
    "sec": "Vacuum delivery · p558-559",
    "guide": "Recall the vacuum-specific and absolute contraindications, then set up the silastic cup pressures and the flexion-point application. Focus for this checkpoint: Contraindications & vacuum delivery technique.",
    "qs": [
-    "OBG-C22-040",
-    "OBG-C22-041",
-    "OBG-C22-042",
-    "OBG-C22-043",
-    "OBG-C22-044"
+    "OBG-C22-048",
+    "OBG-C22-049",
+    "OBG-C22-050",
+    "OBG-C22-051",
+    "OBG-C22-052",
+    "OBG-C22-053"
    ]
   },
   {
@@ -987,14 +1161,15 @@
    "sec": "Forceps anatomy & types · p559-560",
    "guide": "Name the parts of the obstetric forceps, the two lock types, how to identify left from right, and the four classic forceps with their unique features. Focus for this checkpoint: Forceps: parts, locks, handedness & types.",
    "qs": [
-    "OBG-C22-045",
-    "OBG-C22-046",
-    "OBG-C22-047",
-    "OBG-C22-048",
-    "OBG-C22-049",
-    "OBG-C22-050",
-    "OBG-C22-051",
-    "OBG-C22-052"
+    "OBG-C22-054",
+    "OBG-C22-055",
+    "OBG-C22-056",
+    "OBG-C22-057",
+    "OBG-C22-058",
+    "OBG-C22-059",
+    "OBG-C22-060",
+    "OBG-C22-061",
+    "OBG-C22-062"
    ]
   },
   {
@@ -1005,14 +1180,15 @@
    "sec": "Forceps technique · p561-562",
    "guide": "Classify low vs outlet forceps, pull in the correct sequence of directions, quote traction forces, and compare complications of forceps and vacuum. Focus for this checkpoint: Forceps application, direction of pull & complications.",
    "qs": [
-    "OBG-C22-053",
-    "OBG-C22-054",
-    "OBG-C22-055",
-    "OBG-C22-056",
-    "OBG-C22-057",
-    "OBG-C22-058",
-    "OBG-C22-059",
-    "OBG-C22-060"
+    "OBG-C22-063",
+    "OBG-C22-064",
+    "OBG-C22-065",
+    "OBG-C22-066",
+    "OBG-C22-067",
+    "OBG-C22-068",
+    "OBG-C22-069",
+    "OBG-C22-070",
+    "OBG-C22-071"
    ]
   }
  ]

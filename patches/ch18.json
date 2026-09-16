@@ -1,0 +1,78 @@
+[
+  {
+    "op": "add", "unit": "OBG-U18-1", "page": 506, "fmt": "fillup",
+    "sec": "Types of partogram",
+    "q": "Fill up: The Friedman curve plots cervical dilatation against time, while the modified WHO partograph adds the ______ line and the ______ line to it.",
+    "opts": ["alert; action", "latent; active", "upper; lower", "baseline; threshold"],
+    "ans": 0,
+    "exp": "The alert line shows the expected rate of progress and the action line, four hours to its right, is the point at which intervention is required."
+  },
+  {
+    "op": "add", "unit": "OBG-U18-2", "page": 506, "fmt": "oddoneout",
+    "sec": "Modified WHO partograph: upper (fetal) parameters",
+    "q": "All of the following are recorded in the upper part of the modified WHO partograph EXCEPT:",
+    "opts": [
+      "Maternal pulse and blood pressure",
+      "Fetal heart rate",
+      "Colour and character of the amniotic fluid",
+      "Degree of moulding of the fetal skull"
+    ],
+    "ans": 0,
+    "exp": "The upper part follows the fetus — heart rate, membranes, liquor and moulding; maternal observations belong to the lower part."
+  },
+  {
+    "op": "add", "unit": "OBG-U18-3", "page": 507, "fmt": "fillup",
+    "sec": "Cervicograph: alert & action lines and colour zones",
+    "q": "Fill up: The alert line on the cervicograph is drawn at a dilatation rate of ______ cm per hour from the point of admission, and the action line lies ______ hours to its right.",
+    "opts": ["1; 4", "1; 2", "0.5; 4", "1; 8"],
+    "ans": 0,
+    "exp": "Crossing the action line means slow progress has persisted for four hours and transfers, augmentation or operative delivery must be considered."
+  },
+  {
+    "op": "add", "unit": "OBG-U18-4", "page": 508, "fmt": "match",
+    "sec": "Lower part: maternal parameters & uterine contractions",
+    "q": "Match the lower-part observation with how it is recorded — 1) Uterine contractions 2) Maternal pulse 3) Urine … A) Five squares per hour shaded according to the duration and strength of each contraction B) Recorded hourly and entered as a dot on the chart C) Recorded at each voiding, with the volume and any protein or acetone noted",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Contractions fill five squares an hour, the pulse is plotted hourly, and urine is checked at each void for volume, protein and ketones."
+  },
+  {
+    "op": "add", "unit": "OBG-U18-5", "page": 509, "fmt": "scenario",
+    "sec": "Labour Care Guide: supportive care & alert column",
+    "q": "Using the WHO Labour Care Guide, a woman at 6 cm moves into the alert column because dilatation has slowed. Contractions are adequate and the fetal heart is normal. What does the guide advise?",
+    "opts": [
+      "Document the deviation, look for and treat the cause, and continue supportive care with closer monitoring",
+      "Immediate caesarean section for every entry into the alert column",
+      "Reassurance only, because the alert column carries no clinical meaning",
+      "Stop monitoring and transfer her out of the labour ward"
+    ],
+    "ans": 0,
+    "exp": "The alert column is a prompt to reassess and respond to the underlying cause rather than a trigger for automatic surgery."
+  },
+  {
+    "op": "add", "unit": "OBG-U18-6", "page": 510, "fmt": "truefalse",
+    "sec": "LCG Section 3: care of the baby",
+    "q": "Which of the following statements about the WHO Labour Care Guide is TRUE?",
+    "opts": [
+      "It records fetal heart rate, liquor, caput and moulding in the section on the baby, and its alert column prompts a clinical response",
+      "It replaces the partograph and no longer records the fetal heart rate",
+      "It is intended only for women with obstructed labour or ruptured uterus",
+      "It recommends routine amniotomy for every woman as soon as she reaches 4 cm"
+    ],
+    "ans": 0,
+    "exp": "The Labour Care Guide keeps continuous fetal and maternal observation but replaces rigid time limits with alert thresholds and individualised care."
+  },
+  {
+    "op": "add", "unit": "OBG-U18-7", "page": 511, "fmt": "oddoneout",
+    "sec": "LCG Sections 4-7",
+    "q": "All of the following are recorded in the WHO Labour Care Guide EXCEPT:",
+    "opts": [
+      "A postnatal follow-up plan for six weeks after delivery",
+      "Maternal position, mobility, hydration and pain relief",
+      "Progress of labour with dilatation, descent and contractions",
+      "Medications given and the plan for the next review"
+    ],
+    "ans": 0,
+    "exp": "The guide covers the woman, the baby, progress, medication and the plan for labour itself; postpartum follow-up is a separate schedule."
+  }
+]

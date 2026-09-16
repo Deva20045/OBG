@@ -1,1794 +1,2082 @@
 {
-  "chapter": 2,
-  "title": "Normal Pregnancy and Antenatal Care",
-  "pageRange": "302-326",
-  "units": [
-    {
-      "id": "OBG-U2-1",
-      "ch": 2,
-      "n": 1,
-      "title": "Gestational Age, Trimesters & Naegele's Rule",
-      "sec": "Basics of pregnancy \u00b7 p302-303",
-      "guide": "Gestational age is calculated from the first day of the last menstrual period (LMP), while fetal age is reckoned from fertilization, creating a 2-week difference. Naegele's rule calculates the EDD by adding 9 months and 7 days to the LMP, adjusting for variations in cycle length. Pregnancy spans three trimesters: T1 (up to 13w6d), T2 (14w to 27w6d), and T3 (28w to delivery).",
-      "qs": [
-        "OBG-C2-001",
-        "OBG-C2-002",
-        "OBG-C2-003",
-        "OBG-C2-004",
-        "OBG-C2-005",
-        "OBG-C2-006",
-        "OBG-C2-007",
-        "OBG-C2-008"
-      ]
-    },
-    {
-      "id": "OBG-U2-2",
-      "ch": 2,
-      "n": 2,
-      "title": "ART Dating, Preterm Categories & Fetal Death / IUD",
-      "sec": "Dating and fetal demise \u00b7 p304-305",
-      "guide": "In assisted reproduction, EDD is calculated from the embryo transfer date (+263 days for Day 3, +261 days for Day 5 blastocyst). Preterm delivery is classified by ACOG into early (<34w) and late (34w-36w6d), and by WHO into extreme (<28w), very (<32w), and moderate-to-late. Intrauterine fetal death (demise at >=20 weeks or >=500g) presents with lost movements and characteristic imaging signs like Spalding's and Robert's.",
-      "qs": [
-        "OBG-C2-009",
-        "OBG-C2-010",
-        "OBG-C2-011",
-        "OBG-C2-012",
-        "OBG-C2-013",
-        "OBG-C2-014",
-        "OBG-C2-015",
-        "OBG-C2-016"
-      ]
-    },
-    {
-      "id": "OBG-U2-3",
-      "ch": 2,
-      "n": 3,
-      "title": "Obstetrical Score (GTPAL) & Gravidity / Parity",
-      "sec": "Obstetrical terminology \u00b7 p306-307",
-      "guide": "Obstetrical history uses the GTPAL system: Gravida, Term (>=37w), Preterm (20-36w6d), Abortions (<20w), and Living children. Multiple gestations (twins/triplets) count as a single gravidity and parity event, but count individually as living children. Viability in India is defined at 28 weeks, and an elderly primigravida is defined as a woman conceiving for the first time at 35 years or older.",
-      "qs": [
-        "OBG-C2-017",
-        "OBG-C2-018",
-        "OBG-C2-019",
-        "OBG-C2-020",
-        "OBG-C2-021",
-        "OBG-C2-022"
-      ]
-    },
-    {
-      "id": "OBG-U2-4",
-      "ch": 2,
-      "n": 4,
-      "title": "Symptoms, Pelvic Signs & Diagnostic Signs of Pregnancy",
-      "sec": "Clinical signs of pregnancy \u00b7 p307-309",
-      "guide": "Pregnancy manifestations are categorized into presumptive symptoms (amenorrhea, morning sickness, quickening), probable pelvic signs, and positive/definitive signs. Classical probable signs include Goodell's (cervical softening), Hegar's (isthmic softening), Chadwick's (bluish mucosal vascularity), Palmer's (rhythmic uterine contractions), and Osiander's sign (lateral fornix pulsations). Definitive proof requires sonographic cardiac activity, auscultated FHS, or palpated fetal parts.",
-      "qs": [
-        "OBG-C2-023",
-        "OBG-C2-024",
-        "OBG-C2-025",
-        "OBG-C2-026",
-        "OBG-C2-027",
-        "OBG-C2-028",
-        "OBG-C2-029",
-        "OBG-C2-030"
-      ]
-    },
-    {
-      "id": "OBG-U2-5",
-      "ch": 2,
-      "n": 5,
-      "title": "Uterine Growth, Fundal Height & Discrepancies",
-      "sec": "Fundal height landmarks \u00b7 p308, 310",
-      "guide": "The gravid uterus ascends from a pelvic organ at 12 weeks (pubic symphysis) to midway at 16 weeks, umbilicus at 24 weeks, and xiphisternum at 36 weeks before descending at 40 weeks due to fetal head engagement (lightening). Fundal height in centimeters matches gestational age in weeks between 20 and 36 weeks. A discrepancy of >=3 weeks/cm warrants urgent sonographic evaluation for polyhydramnios, twins, IUGR, or erroneous dates.",
-      "qs": [
-        "OBG-C2-031",
-        "OBG-C2-032",
-        "OBG-C2-033",
-        "OBG-C2-034",
-        "OBG-C2-035",
-        "OBG-C2-036",
-        "OBG-C2-037"
-      ]
-    },
-    {
-      "id": "OBG-U2-6",
-      "ch": 2,
-      "n": 6,
-      "title": "Umbilical Cord Architecture & Doppler Waveforms",
-      "sec": "Cord anatomy and hemodynamics \u00b7 p311-312",
-      "guide": "The normal umbilical cord measures 40-70 cm, wrapped in Wharton's jelly, and contains 2 umbilical arteries carrying deoxygenated blood to the placenta and 1 left umbilical vein delivering oxygenated blood to the fetus. Umbilical artery Doppler shows forward flow in both systole and diastole with progressively decreasing vascular resistance and an S/D ratio normally <3 as pregnancy advances.",
-      "qs": [
-        "OBG-C2-038",
-        "OBG-C2-039",
-        "OBG-C2-040",
-        "OBG-C2-041",
-        "OBG-C2-042",
-        "OBG-C2-043"
-      ]
-    },
-    {
-      "id": "OBG-U2-7",
-      "ch": 2,
-      "n": 7,
-      "title": "Abnormal Doppler: UPI, AEDF, REDF & MCA Doppler",
-      "sec": "Doppler abnormalities \u00b7 p312-314",
-      "guide": "In uteroplacental insufficiency, increased placental resistance elevates the S/D ratio (>=3), progressing to absent end-diastolic flow (AEDF) and reversed end-diastolic flow (REDF). Delivery is indicated at 33-34 weeks for AEDF and 30-32 weeks for REDF after corticosteroids. Middle cerebral artery (MCA) Doppler peak systolic velocity (PSV >=1.5 MoM) is the gold standard for non-invasive diagnosis of fetal anemia.",
-      "qs": [
-        "OBG-C2-044",
-        "OBG-C2-045",
-        "OBG-C2-046",
-        "OBG-C2-047",
-        "OBG-C2-048",
-        "OBG-C2-049"
-      ]
-    },
-    {
-      "id": "OBG-U2-8",
-      "ch": 2,
-      "n": 8,
-      "title": "Single Umbilical Artery & Fetal Surveillance",
-      "sec": "Cord abnormalities & monitoring \u00b7 p314",
-      "guide": "Single umbilical artery (SUA) is the most common vascular abnormality of the umbilical cord, strongly associated with renal and cardiovascular malformations; finding an associated anomaly necessitates fetal karyotyping. High-risk pregnancies require surveillance from 32 weeks with NST and biophysical scoring. Characteristic CTG signatures include late decelerations in UPI, variable decelerations in cord compression, and sinusoidal patterns in fetal anemia.",
-      "qs": [
-        "OBG-C2-050",
-        "OBG-C2-051",
-        "OBG-C2-052",
-        "OBG-C2-053",
-        "OBG-C2-054"
-      ]
-    },
-    {
-      "id": "OBG-U2-9",
-      "ch": 2,
-      "n": 9,
-      "title": "Antenatal Care Schedules, Mandatory & Optional Labs",
-      "sec": "Antenatal schedule and workup \u00b7 p315-316",
-      "guide": "Antenatal care guidelines mandate a minimum of 8 contacts by WHO and 4 visits by the Government of India (<12w, 14-26w, 28-34w, and 36w to term). Essential initial investigations include ABO/Rh typing, complete blood count, urine microscopy/culture, opt-out HIV screening, HBsAg, and VDRL/syphilis serology. Optional tests comprise maternal TSH, aneuploidy screening, rubella IgG/IgM susceptibility, and Group B Streptococcus swabs at 35-37 weeks.",
-      "qs": [
-        "OBG-C2-055",
-        "OBG-C2-056",
-        "OBG-C2-057",
-        "OBG-C2-058",
-        "OBG-C2-059",
-        "OBG-C2-060"
-      ]
-    },
-    {
-      "id": "OBG-U2-10",
-      "ch": 2,
-      "n": 10,
-      "title": "Td/Tdap Vaccines, Risk Coding & Alert Signs",
-      "sec": "Immunization & risk stratification \u00b7 p316-317",
-      "guide": "Pregnant women receive two doses of Td vaccine 4 weeks apart (or a single booster if fully vaccinated within 3 years), alongside Tdap between 27-37 weeks for neonatal pertussis protection. The Mother and Child Protection card and PMSMA utilize color stickers (Green for low risk, Red for high risk requiring 3 additional visits). Critical alert signs demanding emergency evaluation include fever >=38\u00b0C for >=24 hours, persistent vomiting, severe headache, bleeding, and decreased fetal movements.",
-      "qs": [
-        "OBG-C2-061",
-        "OBG-C2-062",
-        "OBG-C2-063",
-        "OBG-C2-064",
-        "OBG-C2-065",
-        "OBG-C2-066"
-      ]
-    },
-    {
-      "id": "OBG-U2-11",
-      "ch": 2,
-      "n": 11,
-      "title": "Folic Acid Prophylaxis & IFA / Anemia Mukt Bharat",
-      "sec": "Nutritional supplementation \u00b7 p317",
-      "guide": "Periconceptional folic acid (400 mcg/day for low-risk, 4-5 mg/day for women with previous NTD) is initiated at least 1-3 months before conception through the first trimester. From the 4th month onwards, the Anemia Mukt Bharat programme provides daily red IFA tablets (60 mg elemental iron + 500 mcg folic acid) for 180 days during pregnancy and continued for 180 days postpartum.",
-      "qs": [
-        "OBG-C2-067",
-        "OBG-C2-068",
-        "OBG-C2-069",
-        "OBG-C2-070",
-        "OBG-C2-071"
-      ]
-    },
-    {
-      "id": "OBG-U2-12",
-      "ch": 2,
-      "n": 12,
-      "title": "Antenatal Monitoring, Caloric & Nutrient Demands",
-      "sec": "Nutritional guidelines \u00b7 p318-319",
-      "guide": "Recommended gestational weight gain is scaled to pre-pregnancy BMI: 11.5-16 kg for normal BMI, 12.5-18 kg for underweight, and 5-9 kg for obese mothers. Daily maternal energy demands increase by an average of +350 kcal/day (National guidelines: +85 in T1, +280 in T2, +470 in T3), accompanied by 1000 mg/day elemental calcium, 250 mcg/day iodine, and additional protein (+9.5g in T2, +22g in T3).",
-      "qs": [
-        "OBG-C2-072",
-        "OBG-C2-073",
-        "OBG-C2-074",
-        "OBG-C2-075",
-        "OBG-C2-076"
-      ]
-    },
-    {
-      "id": "OBG-U2-13",
-      "ch": 2,
-      "n": 13,
-      "title": "Vaccines, Air Travel & Exercise in Pregnancy",
-      "sec": "Lifestyle and immunization rules \u00b7 p319",
-      "guide": "Live attenuated vaccines (MMR, chickenpox, BCG) are contraindicated during pregnancy, with conception advised at least 1 month post-immunization; killed and mRNA vaccines are safe. Commercial air travel is generally safe up to 36 weeks of gestation in uncomplicated pregnancies. Moderate exercise (30-45 minutes walking daily) is recommended, while vigorous exertion is contraindicated in placenta previa, pre-eclampsia, and heart disease.",
-      "qs": [
-        "OBG-C2-077",
-        "OBG-C2-078",
-        "OBG-C2-079",
-        "OBG-C2-080"
-      ]
-    },
-    {
-      "id": "OBG-U2-14",
-      "ch": 2,
-      "n": 14,
-      "title": "Morning Sickness, Hyperemesis Gravidarum & PUQE",
-      "sec": "Nausea, vomiting & PUQE score \u00b7 p320-321",
-      "guide": "Morning sickness typically resolves by 12-16 weeks; first-line therapy is doxylamine (10 mg) combined with pyridoxine (10 mg). Hyperemesis gravidarum is characterized by intractable vomiting, >5% pre-pregnancy weight loss, ketonuria, and electrolyte disturbances. The Pregnancy-Unique Quantification of Emesis (PUQE) score stratifies severity; management centers on fluid resuscitation, antiemetics, and mandatory thiamine (vitamin B1) supplementation to prevent Wernicke's encephalopathy.",
-      "qs": [
-        "OBG-C2-081",
-        "OBG-C2-082",
-        "OBG-C2-083",
-        "OBG-C2-084",
-        "OBG-C2-085"
-      ]
-    },
-    {
-      "id": "OBG-U2-15",
-      "ch": 2,
-      "n": 15,
-      "title": "Minor Ailments: Supine Hypotension, Varices & Neuropathies",
-      "sec": "Physiological complaints \u00b7 p321-323",
-      "guide": "Supine hypotensive syndrome results from IVC compression by the gravid uterus causing reduced venous return, maternal hypotension, and tachycardia, promptly corrected by left lateral positioning. Progesterone-mediated smooth muscle relaxation and increased venous pressure produce lower limb varices, vulval varicosities, and hemorrhoids. Gestational fluid retention predisposes to compression neuropathies like carpal tunnel syndrome and Bell's palsy.",
-      "qs": [
-        "OBG-C2-086",
-        "OBG-C2-087",
-        "OBG-C2-088",
-        "OBG-C2-089",
-        "OBG-C2-090",
-        "OBG-C2-091"
-      ]
-    },
-    {
-      "id": "OBG-U2-16",
-      "ch": 2,
-      "n": 16,
-      "title": "Early Ultrasound Landmarks & Gestational Structures",
-      "sec": "First trimester ultrasound \u00b7 p324-325",
-      "guide": "Transvaginal sonography (TVS, 5-10 MHz) identifies gestational landmarks approximately one week earlier than transabdominal scans. The gestational sac appears as an eccentric, fluid-filled rim at 4.5-5 weeks, followed by the yolk sac at 5-5.5 weeks (mean sac diameter 10 mm), which definitively confirms intrauterine pregnancy and excludes an ectopic pseudogestational sac.",
-      "qs": [
-        "OBG-C2-092",
-        "OBG-C2-093",
-        "OBG-C2-094",
-        "OBG-C2-095",
-        "OBG-C2-096"
-      ]
-    },
-    {
-      "id": "OBG-U2-17",
-      "ch": 2,
-      "n": 17,
-      "title": "Fetal Pole, Cardiac Activity & Missed Abortion Criteria",
-      "sec": "Embryonic landmarks & viability \u00b7 p325-326",
-      "guide": "The embryonic fetal pole is visible by TVS at 5.5-6 weeks with cardiac flicker evident on M-mode (normal baseline 110-130 bpm at 6 weeks, peaking at 160-170 bpm at 8 weeks; <85 bpm signifies poor prognosis). Definitive criteria for missed abortion include a CRL >=7 mm without cardiac activity or a mean sac diameter (MSD) >=25 mm without an visible embryo.",
-      "qs": [
-        "OBG-C2-097",
-        "OBG-C2-098",
-        "OBG-C2-099",
-        "OBG-C2-100",
-        "OBG-C2-101",
-        "OBG-C2-102"
-      ]
-    },
-    {
-      "id": "OBG-U2-18",
-      "ch": 2,
-      "n": 18,
-      "title": "Discriminatory hCG Titer & True vs Pseudogestational Sac",
-      "sec": "Biochemical and sonographic discrimination \u00b7 p326",
-      "guide": "The discriminatory zone of beta-hCG is 1500-2000 mIU/mL for TVS and 6000-6500 mIU/mL for TAS; absence of an intrauterine sac above these titers strongly indicates an ectopic pregnancy. A true gestational sac is eccentrically located, exhibits a double decidual sign, and grows 1 mm/day, whereas a pseudogestational sac is centrally located, devoid of a yolk sac or double bleb sign, and lacks a double decidual contour.",
-      "qs": [
-        "OBG-C2-103",
-        "OBG-C2-104",
-        "OBG-C2-105",
-        "OBG-C2-106",
-        "OBG-C2-107"
-      ]
-    }
-  ],
-  "questions": [
-    {
-      "sec": "Basics of pregnancy",
-      "page": 302,
-      "q": "In an obstetric patient with regular 28-day menstrual cycles, the clinical gestational age (menstrual age) of the pregnancy is calculated from:",
-      "opts": [
-        "The first day of the last menstrual period (LMP)",
-        "The estimated date of ovulation",
-        "The date of fertilization",
-        "The day of implantation"
-      ],
-      "ans": 0,
-      "exp": "Gestational age is calculated from the first day of the last normal menstrual period (LMP). (Book p302)",
-      "id": "OBG-C2-001"
-    },
-    {
-      "sec": "Basics of pregnancy",
-      "page": 302,
-      "q": "What is the standard numerical difference between gestational age (calculated from LMP) and true fertilization/fetal age?",
-      "opts": [
-        "Gestational age is 2 weeks greater than fetal age",
-        "Gestational age is 2 weeks less than fetal age",
-        "Gestational age is 1 week greater than fetal age",
-        "Gestational age is identical to fetal age"
-      ],
-      "ans": 0,
-      "exp": "Because fertilization typically occurs 2 weeks after the LMP in a 28-day cycle, gestational age = fetal age + 2 weeks. (Book p302)",
-      "id": "OBG-C2-002"
-    },
-    {
-      "sec": "Basics of pregnancy",
-      "page": 302,
-      "q": "Cardiac activity in the human conceptus typically initiates at 3 weeks after fertilization, which corresponds to which week of clinical gestational age?",
-      "opts": [
-        "5th week of gestational age",
-        "3rd week of gestational age",
-        "4th week of gestational age",
-        "6th week of gestational age"
-      ],
-      "ans": 0,
-      "exp": "Cardiac activity starts 3 weeks after fertilization, corresponding to the 5th week of gestational age (fetal age + 2 weeks). (Book p302)",
-      "id": "OBG-C2-003"
-    },
-    {
-      "sec": "Basics of pregnancy",
-      "page": 302,
-      "q": "According to standard obstetric definitions, the second trimester of pregnancy spans from:",
-      "opts": [
-        "14 weeks to 27 weeks + 6 days",
-        "12 weeks to 24 weeks",
-        "13 weeks to 26 weeks",
-        "16 weeks to 28 weeks + 6 days"
-      ],
-      "ans": 0,
-      "exp": "Trimester 1 spans LMP to 13 weeks + 6 days, Trimester 2 spans 14 weeks to 27 weeks + 6 days, and Trimester 3 spans 28 weeks to delivery. (Book p302)",
-      "id": "OBG-C2-004"
-    },
-    {
-      "sec": "Basics of pregnancy",
-      "page": 303,
-      "q": "Which of the following pregnancy milestones is calculated from the day of fertilization rather than the first day of the LMP?",
-      "opts": [
-        "Fetal growth periods (period of fertilized ovum, embryo, and fetus)",
-        "Estimated date of delivery (EDD) by Naegele's rule",
-        "First trimester ultrasound dating",
-        "Obstetrical score and viability assessment"
-      ],
-      "ans": 0,
-      "exp": "Fetal growth periods are the only pregnancy events calculated from the day of fertilization rather than the first day of the LMP. (Book p303)",
-      "id": "OBG-C2-005"
-    },
-    {
-      "sec": "Basics of pregnancy",
-      "page": 303,
-      "q": "In embryology, the embryonic period of development is strictly defined as spanning from:",
-      "opts": [
-        "3rd week to the end of the 8th/9th week after fertilization",
-        "Day of fertilization up to 2 weeks",
-        "9th week after fertilization up to birth",
-        "12th week to 24th week of gestational age"
-      ],
-      "ans": 0,
-      "exp": "The embryonic period extends from the 3rd week to the end of the 8th/9th week after fertilization, preceded by the period of the fertilized ovum (up to 2 weeks). (Book p303)",
-      "id": "OBG-C2-006"
-    },
-    {
-      "sec": "Basics of pregnancy",
-      "page": 303,
-      "q": "According to Naegele's formula for calculating the estimated date of delivery (EDD) in a regular 28-day cycle, one should add:",
-      "opts": [
-        "7 days to the first day of the LMP and add 9 calendar months",
-        "7 days to the last day of the LMP and add 9 calendar months",
-        "14 days to the first day of the LMP and add 9 calendar months",
-        "280 days from the day of missed period"
-      ],
-      "ans": 0,
-      "exp": "Naegele's formula adds 7 days to the 1st day of the LMP and then adds 9 months (or subtracts 3 months and adds 1 year and 7 days). (Book p303)",
-      "id": "OBG-C2-007"
-    },
-    {
-      "sec": "Basics of pregnancy",
-      "page": 303,
-      "q": "A pregnant woman reports an LMP of January 10th and has a regular menstrual cycle length of 35 days. What is her corrected EDD?",
-      "opts": [
-        "October 24th",
-        "October 17th",
-        "October 10th",
-        "November 7th"
-      ],
-      "ans": 0,
-      "exp": "For a 28-day cycle, EDD = Jan 10 + 7 days + 9 months = Oct 17. The cycle difference is 35 - 28 = +7 days. Adding 7 days gives October 24th. (Book p303)",
-      "id": "OBG-C2-008"
-    },
-    {
-      "sec": "Dating and fetal demise",
-      "page": 304,
-      "q": "In a pregnancy achieved via in vitro fertilization (IVF) with a Day 5 blastocyst embryo transfer, how is the EDD calculated?",
-      "opts": [
-        "Date of Day 5 transfer + 261 days",
-        "Date of Day 5 transfer + 263 days",
-        "Date of Day 5 transfer + 266 days",
-        "Date of Day 5 transfer + 280 days"
-      ],
-      "ans": 0,
-      "exp": "For Day 5 transfer, EDD = Date of transfer + 261 days (for Day 3 transfer, EDD = Date of transfer + 263 days; conception + 266 days). (Book p304)",
-      "id": "OBG-C2-009"
-    },
-    {
-      "sec": "Dating and fetal demise",
-      "page": 304,
-      "q": "According to ACOG definitions of term pregnancy, an infant delivered at 37 weeks + 4 days of gestation is classified as:",
-      "opts": [
-        "Early term",
-        "Full term",
-        "Late term",
-        "Preterm"
-      ],
-      "ans": 0,
-      "exp": "Early term is 37w0d to 38w6d; Full term is 39w0d to 40w6d; Late term is 41w0d to 41w6d; Post-term is >=42 weeks. (Book p304)",
-      "id": "OBG-C2-010"
-    },
-    {
-      "sec": "Dating and fetal demise",
-      "page": 304,
-      "q": "Under the WHO classification of preterm birth, a neonate born at 26 weeks of gestation is categorized as:",
-      "opts": [
-        "Extreme preterm birth (<28 weeks)",
-        "Very preterm birth (28 to <32 weeks)",
-        "Moderate preterm birth (32 to 33+6 weeks)",
-        "Late preterm birth (34 to 36+6 weeks)"
-      ],
-      "ans": 0,
-      "exp": "Extreme preterm is <28 weeks, very preterm is <32 weeks (or 28-31+6 wks), moderate PTB is 32-33+6 wks, and late PTB is 34-36+6 weeks. (Book p304)",
-      "id": "OBG-C2-011"
-    },
-    {
-      "sec": "Dating and fetal demise",
-      "page": 305,
-      "q": "Intrauterine fetal death (IUD) / stillbirth is defined under standard obstetric criteria as fetal demise occurring at or beyond:",
-      "opts": [
-        ">= 20 weeks of gestation (or birth weight >= 500 g)",
-        ">= 12 weeks of gestation",
-        ">= 16 weeks of gestation",
-        ">= 24 weeks of gestation without weight criteria"
-      ],
-      "ans": 0,
-      "exp": "IUD/stillbirth is pregnancy loss at >=20 weeks (or birth weight >=500 g by WHO criteria; stillbirth >=28 weeks in India/WHO international comparisons). (Book p305)",
-      "id": "OBG-C2-012"
-    },
-    {
-      "sec": "Dating and fetal demise",
-      "page": 305,
-      "q": "What is the single most common identifiable cause of intrauterine fetal death (IUD)?",
-      "opts": [
-        "Unrecognized intrauterine growth restriction (IUGR)",
-        "Chromosomal trisomy 16",
-        "Rh isoimmunization",
-        "Gestational diabetes mellitus"
-      ],
-      "ans": 0,
-      "exp": "While idiopathic is common overall, unrecognized IUGR is the most common single identifiable cause of IUD. (Book p305)",
-      "id": "OBG-C2-013"
-    },
-    {
-      "sec": "Dating and fetal demise",
-      "page": 305,
-      "q": "On fetal ultrasound, the earliest sonographic sign of intrauterine fetal death is Robert's sign, which represents:",
-      "opts": [
-        "Gas/bubbles within the fetal great vessels and heart",
-        "Overlapping of skull bones due to cerebral liquefaction",
-        "Hyperflexion or hyperextension of the fetal spine",
-        "Crowding of the fetal ribs"
-      ],
-      "ans": 0,
-      "exp": "Robert's sign is the earliest sign of IUD, characterized by radiolucent gas bubbles in the fetal cardiac chambers and great vessels. (Book p305)",
-      "id": "OBG-C2-014"
-    },
-    {
-      "sec": "Dating and fetal demise",
-      "page": 305,
-      "q": "Spalding's sign on ultrasound or abdominal X-ray indicates fetal death and is characterized by:",
-      "opts": [
-        "Overlapping of the cranial vault bones due to liquefaction of brain tissue",
-        "Gas within the fetal abdominal wall",
-        "Abnormal angulation of the fetal extremities",
-        "Spine hyperextension in a circular configuration"
-      ],
-      "ans": 0,
-      "exp": "Spalding's sign is the collapse and overlapping of fetal skull bones occurring after intrauterine death due to loss of intracranial pressure. (Book p305)",
-      "id": "OBG-C2-015"
-    },
-    {
-      "sec": "Dating and fetal demise",
-      "page": 305,
-      "q": "A patient with a confirmed IUD retained for >4 weeks is at significant risk of developing which maternal complication?",
-      "opts": [
-        "Disseminated intravascular coagulation (DIC)",
-        "Uterine rupture",
-        "Amniotic fluid embolism",
-        "Septic pelvic thrombophlebitis"
-      ],
-      "ans": 0,
-      "exp": "Retention of a dead fetus for >=4 weeks releases thromboplastin from degenerating fetal-placental tissues into maternal circulation, precipitating DIC. (Book p305)",
-      "id": "OBG-C2-016"
-    },
-    {
-      "sec": "Obstetrical terminology",
-      "page": 306,
-      "q": "Gravidity is defined as the total number of times a female has conceived. In recording obstetrical history, the current pregnancy:",
-      "opts": [
-        "Is always included in the gravidity count",
-        "Is excluded from gravidity until viability is reached",
-        "Is only included if it has progressed past the first trimester",
-        "Is counted as parity, not gravidity"
-      ],
-      "ans": 0,
-      "exp": "Gravida is the total number of times a woman has been pregnant, including the current pregnancy regardless of gestational age. (Book p306)",
-      "id": "OBG-C2-017"
-    },
-    {
-      "sec": "Obstetrical terminology",
-      "page": 306,
-      "q": "In India, the legal/clinical threshold for the period of fetal viability is officially designated as:",
-      "opts": [
-        "28 completed weeks of gestation",
-        "20 completed weeks of gestation",
-        "24 completed weeks of gestation",
-        "22 completed weeks of gestation"
-      ],
-      "ans": 0,
-      "exp": "In India, the period of viability (beyond which a fetus is capable of independent extrauterine life) is designated as 28 weeks. (Book p306)",
-      "id": "OBG-C2-018"
-    },
-    {
-      "sec": "Obstetrical terminology",
-      "page": 306,
-      "q": "In the GTPAL obstetrical recording system (G-P a+b+c+d), the letters 'b' and 'c' represent:",
-      "opts": [
-        "Number of preterm deliveries (20-36w6d) and number of abortions (<20w)",
-        "Number of living children and number of abortions",
-        "Number of term deliveries and number of preterm deliveries",
-        "Number of stillbirths and number of ectopic gestations"
-      ],
-      "ans": 0,
-      "exp": "In GTPAL: a = term deliveries (>=37w), b = preterm deliveries (20-36w6d), c = abortions (<20w), and d = living children. (Book p306)",
-      "id": "OBG-C2-019"
-    },
-    {
-      "sec": "Obstetrical terminology",
-      "page": 306,
-      "q": "A woman has a history of one singleton delivery at 39 weeks, one twin delivery at 34 weeks (both babies healthy and alive), and one miscarriage at 8 weeks. What is her obstetrical score?",
-      "opts": [
-        "G3 P 1+1+1+3",
-        "G4 P 1+2+1+3",
-        "G3 P 1+2+1+2",
-        "G4 P 2+1+1+3"
-      ],
-      "ans": 0,
-      "exp": "She conceived 3 times (G3). Deliveries: 1 term (a=1), 1 twin delivery at 34w (counts as 1 preterm birth, b=1), 1 abortion (c=1), and 3 living children (d=3): G3 P 1+1+1+3. (Book p306)",
-      "id": "OBG-C2-020"
-    },
-    {
-      "sec": "Obstetrical terminology",
-      "page": 307,
-      "q": "By definition, a 'Grand multipara' is a woman who has:",
-      "opts": [
-        "Given birth 5 or more times",
-        "Given birth 2 or more times",
-        "Conceived 5 or more times regardless of outcome",
-        "Conceived 3 or more times"
-      ],
-      "ans": 0,
-      "exp": "A multipara has given birth >=2 times; a grand multipara has given birth >=5 times beyond the age of viability. (Book p307)",
-      "id": "OBG-C2-021"
-    },
-    {
-      "sec": "Obstetrical terminology",
-      "page": 307,
-      "q": "The term 'Elderly primigravida' is applied to a woman who:",
-      "opts": [
-        "Conceives for the first time at or above 35 years of age",
-        "Conceives for the first time at or above 30 years of age",
-        "Delivers for the second time above 40 years of age",
-        "Conceives via ART above 32 years of age"
-      ],
-      "ans": 0,
-      "exp": "An elderly primigravida is a woman who is pregnant for the very first time at >=35 years of age. (Book p307)",
-      "id": "OBG-C2-022"
-    },
-    {
-      "sec": "Clinical signs of pregnancy",
-      "page": 307,
-      "q": "Which of the following is considered the earliest probable sign of pregnancy detected on bimanual pelvic examination at 6 weeks?",
-      "opts": [
-        "Goodell's sign (softening of the cervix)",
-        "Hegar's sign",
-        "Piskacek's sign",
-        "Palmer's sign"
-      ],
-      "ans": 0,
-      "exp": "Goodell's sign (marked softening of the cervix) is the first probable sign to become positive at around 6 weeks of gestation. (Book p307)",
-      "id": "OBG-C2-023"
-    },
-    {
-      "sec": "Clinical signs of pregnancy",
-      "page": 307,
-      "q": "Piskacek's sign observed during early pregnancy examination refers to:",
-      "opts": [
-        "Asymmetrical enlargement of the uterus due to eccentric implantation",
-        "Softening of the lower uterine segment/isthmus",
-        "Pulsations felt in the lateral vaginal fornix",
-        "Violet discoloration of the vulva"
-      ],
-      "ans": 0,
-      "exp": "Piskacek's sign is an asymmetrical enlargement and prominence of one uterine cornu due to eccentric blastocyst implantation. (Book p307)",
-      "id": "OBG-C2-024"
-    },
-    {
-      "sec": "Clinical signs of pregnancy",
-      "page": 307,
-      "q": "On pelvic examination at 8 weeks, palpation of pronounced vascular pulsations in the lateral vaginal fornices is known as:",
-      "opts": [
-        "Osiander's sign",
-        "Chadwick's sign",
-        "Goodell's sign",
-        "Palmer's sign"
-      ],
-      "ans": 0,
-      "exp": "Osiander's sign refers to marked pulsations felt in the lateral vaginal fornices due to increased blood flow in the descending vaginal branches of the uterine arteries. (Book p307)",
-      "id": "OBG-C2-025"
-    },
-    {
-      "sec": "Clinical signs of pregnancy",
-      "page": 307,
-      "q": "Hegar's sign, positive between 6 and 10 weeks of gestation, is elicited when:",
-      "opts": [
-        "The abdominal and vaginal examining fingers easily approximate each other through the softened, empty lower uterine isthmus",
-        "The cervix exhibits a velvety softening and purplish coloration",
-        "Rhythmic, painless uterine contractions are palpated",
-        "The uterine body can be separated from the adnexa on deep palpation"
-      ],
-      "ans": 0,
-      "exp": "Hegar's sign is present when bimanual examination detects a soft, compressible, and empty lower uterine isthmus between the cervix and the uterine corpus. (Book p307)",
-      "id": "OBG-C2-026"
-    },
-    {
-      "sec": "Clinical signs of pregnancy",
-      "page": 308,
-      "q": "Which of the following signs or symptoms provides definitive (positive) objective proof of pregnancy?",
-      "opts": [
-        "Demonstration of fetal cardiac activity on ultrasound",
-        "Amenorrhea accompanied by elevated serum beta-hCG",
-        "Maternal sensation of quickening at 18 weeks",
-        "Jacquemier's bluish mucosal discoloration"
-      ],
-      "ans": 0,
-      "exp": "Definitive/positive signs diagnostic of pregnancy include sonographic fetal cardiac activity, fetal heart sounds on auscultation, and palpable fetal parts by the examiner. (Book p308)",
-      "id": "OBG-C2-027"
-    },
-    {
-      "sec": "Clinical signs of pregnancy",
-      "page": 308,
-      "q": "Quickening\u2014the maternal perception of initial fetal movements\u2014is typically felt by a primigravida and a multigravida at:",
-      "opts": [
-        "18-20 weeks and 16-18 weeks, respectively",
-        "14-16 weeks and 12-14 weeks, respectively",
-        "20-22 weeks and 18-20 weeks, respectively",
-        "16-18 weeks and 18-20 weeks, respectively"
-      ],
-      "ans": 0,
-      "exp": "Quickening is perceived around 18-20 weeks in primigravidae and 16-18 weeks in multigravidae. (Book p308)",
-      "id": "OBG-C2-028"
-    },
-    {
-      "sec": "Clinical signs of pregnancy",
-      "page": 309,
-      "q": "At what gestational age can fetal heart sounds (FHS) be reliably detected using a hand-held Doppler device versus a conventional Pinard stethoscope?",
-      "opts": [
-        "10-12 weeks by Doppler and 18-20 weeks by stethoscope",
-        "6 weeks by Doppler and 12 weeks by stethoscope",
-        "14 weeks by Doppler and 24 weeks by stethoscope",
-        "16 weeks by Doppler and 20 weeks by stethoscope"
-      ],
-      "ans": 0,
-      "exp": "Hand-held Doppler detects FHS at 10-12 weeks, whereas a Pinard fetoscope/stethoscope detects FHS by 18-20 weeks. (Book p309)",
-      "id": "OBG-C2-029"
-    },
-    {
-      "sec": "Clinical signs of pregnancy",
-      "page": 309,
-      "q": "Internal ballottement can be elicited on vaginal examination starting at 16 weeks of gestation, whereas external ballottement becomes clinically apparent by:",
-      "opts": [
-        "20 weeks of gestation",
-        "12 weeks of gestation",
-        "28 weeks of gestation",
-        "32 weeks of gestation"
-      ],
-      "ans": 0,
-      "exp": "Internal ballottement is elicited per vaginam from 16 weeks, while external abdominal ballottement is evident by 20 weeks. (Book p309)",
-      "id": "OBG-C2-030"
-    },
-    {
-      "sec": "Fundal height landmarks",
-      "page": 308,
-      "q": "At approximately 12 weeks of gestation, the uterine fundus is palpated at which anatomical landmark?",
-      "opts": [
-        "At the upper border of the pubic symphysis",
-        "Midway between pubic symphysis and umbilicus",
-        "At the lower border of the umbilicus",
-        "It remains entirely an intrapelvic organ and cannot be felt"
-      ],
-      "ans": 0,
-      "exp": "At 12 weeks, the uterus ascends out of the pelvis and its fundus is palpable at the pubic symphysis. (Book p308)",
-      "id": "OBG-C2-031"
-    },
-    {
-      "sec": "Fundal height landmarks",
-      "page": 310,
-      "q": "On abdominal palpation of a pregnant woman, the uterine fundus is palpable precisely at the level of the umbilicus. What is the expected gestational age?",
-      "opts": [
-        "24 weeks",
-        "20 weeks",
-        "16 weeks",
-        "28 weeks"
-      ],
-      "ans": 0,
-      "exp": "The fundus reaches the lower border of the umbilicus at 20 weeks and the upper border of the umbilicus at 24 weeks. (Book p310)",
-      "id": "OBG-C2-032"
-    },
-    {
-      "sec": "Fundal height landmarks",
-      "page": 310,
-      "q": "At 36 weeks of gestation, the fundus of the uterus reaches its highest anatomical level at the:",
-      "opts": [
-        "Xiphisternum",
-        "Costal margin",
-        "Umbilicus",
-        "Two-thirds distance between umbilicus and xiphisternum"
-      ],
-      "ans": 0,
-      "exp": "The fundal height reaches the xiphisternum at 36 weeks, causing maximal maternal breathlessness. (Book p310)",
-      "id": "OBG-C2-033"
-    },
-    {
-      "sec": "Fundal height landmarks",
-      "page": 310,
-      "q": "At 40 weeks of gestation, the fundal height appears identical to that at 32 weeks (two-thirds between umbilicus and xiphisternum). This phenomenon is termed:",
-      "opts": [
-        "Lightening ('welcome sign') due to engagement of the fetal head",
-        "Uteroplacental insufficiency",
-        "Pathological oligohydramnios",
-        "Engagement arrest"
-      ],
-      "ans": 0,
-      "exp": "At 40 weeks, descent and engagement of the fetal head into the maternal pelvic inlet lowers the fundal height to 32-week level, providing respiratory relief (lightening). (Book p310)",
-      "id": "OBG-C2-034"
-    },
-    {
-      "sec": "Fundal height landmarks",
-      "page": 310,
-      "q": "How can an examiner clinically differentiate a 40-week pregnancy from a 32-week pregnancy when both present with the fundus at the same anatomical level?",
-      "opts": [
-        "At 40 weeks the fetal head is engaged in the pelvis and the flanks are full",
-        "At 32 weeks the fetal head is deeply engaged in the pelvis",
-        "At 40 weeks the flanks are entirely empty and narrow",
-        "At 32 weeks there is marked pelvic lightening"
-      ],
-      "ans": 0,
-      "exp": "At 40 weeks, the fetal head is engaged/felt on deep pelvic palpation and flanks are full; at 32 weeks the head is not engaged and flanks are empty. (Book p310)",
-      "id": "OBG-C2-035"
-    },
-    {
-      "sec": "Fundal height landmarks",
-      "page": 310,
-      "q": "A discrepancy between fundal height and gestational age is considered clinically significant and warrants ultrasound evaluation when it equals or exceeds:",
-      "opts": [
-        ">= 3 cm or >= 3 weeks",
-        ">= 1 cm or >= 1 week",
-        ">= 5 cm or >= 5 weeks",
-        ">= 6 cm or >= 6 weeks"
-      ],
-      "ans": 0,
-      "exp": "A discrepancy of >=3 cm (or >=3 weeks) between fundal height and period of gestation indicates a pathological cause and mandates ultrasound. (Book p310)",
-      "id": "OBG-C2-036"
-    },
-    {
-      "sec": "Fundal height landmarks",
-      "page": 310,
-      "q": "Which of the following clinical conditions causes fundal height to be significantly LESS than the calculated gestational age?",
-      "opts": [
-        "Intrauterine growth restriction (IUGR)",
-        "Multiple twin gestation",
-        "Polyhydramnios",
-        "Concealed variety of abruptio placentae"
-      ],
-      "ans": 0,
-      "exp": "Fundal height < gestational age is seen in IUGR, oligohydramnios, transverse lie, wrong dates, and IUD. (Book p310)",
-      "id": "OBG-C2-037"
-    },
-    {
-      "sec": "Cord anatomy and hemodynamics",
-      "page": 311,
-      "q": "What is the normal average length and physiological range of the human umbilical cord at term?",
-      "opts": [
-        "Average 55 cm (range 40-70 cm)",
-        "Average 30 cm (range 20-40 cm)",
-        "Average 85 cm (range 70-110 cm)",
-        "Average 100 cm (range 80-120 cm)"
-      ],
-      "ans": 0,
-      "exp": "Normal cord length is 40-70 cm (average ~55 cm); <30-32 cm is short cord, and >70-100 cm is long cord. (Book p311)",
-      "id": "OBG-C2-038"
-    },
-    {
-      "sec": "Cord anatomy and hemodynamics",
-      "page": 311,
-      "q": "At term, the umbilical cord normally contains which vascular arrangement enclosed within Wharton's jelly?",
-      "opts": [
-        "Two umbilical arteries and one left umbilical vein",
-        "One umbilical artery and two umbilical veins",
-        "Two umbilical arteries and two umbilical veins",
-        "One umbilical artery and one left umbilical vein"
-      ],
-      "ans": 0,
-      "exp": "The term cord contains 3 vessels: two umbilical arteries carrying deoxygenated blood to the placenta, and one left umbilical vein. (Book p311)",
-      "id": "OBG-C2-039"
-    },
-    {
-      "sec": "Cord anatomy and hemodynamics",
-      "page": 311,
-      "q": "The anatomical anastomosis that connects the two umbilical arteries just prior to their placental insertion is named the:",
-      "opts": [
-        "Hyrtl anastomosis",
-        "Arantius anastomosis",
-        "Vieussens anastomosis",
-        "Botallo shunt"
-      ],
-      "ans": 0,
-      "exp": "The Hyrtl anastomosis connects the two umbilical arteries approximately 1-2 cm from the placental insertion, equalizing pressures. (Book p311)",
-      "id": "OBG-C2-040"
-    },
-    {
-      "sec": "Cord anatomy and hemodynamics",
-      "page": 311,
-      "q": "Which vessel in the feto-placental circulation carries fully oxygenated blood from the placenta to the developing fetus?",
-      "opts": [
-        "Umbilical vein (low resistance, low pressure)",
-        "Umbilical artery (high resistance, high pressure)",
-        "Ductus arteriosus",
-        "Vitelline artery"
-      ],
-      "ans": 0,
-      "exp": "The umbilical vein carries oxygenated blood from the placenta to the fetus under low resistance and low pressure. (Book p311)",
-      "id": "OBG-C2-041"
-    },
-    {
-      "sec": "Cord anatomy and hemodynamics",
-      "page": 312,
-      "q": "As normal gestation advances towards term, how do the resistance and diastolic flow within the umbilical artery Doppler waveform evolve?",
-      "opts": [
-        "Placental vascular resistance decreases and end-diastolic flow increases",
-        "Placental vascular resistance increases and end-diastolic flow decreases",
-        "Systolic-to-diastolic (S/D) ratio progressively increases",
-        "Pulsatility index steadily rises above 4.0"
-      ],
-      "ans": 0,
-      "exp": "With advancing gestation, tertiary villous branching lowers placental vascular resistance, causing diastolic flow to increase and S/D ratio to decrease. (Book p312)",
-      "id": "OBG-C2-042"
-    },
-    {
-      "sec": "Cord anatomy and hemodynamics",
-      "page": 312,
-      "q": "In normal third-trimester pregnancies, the umbilical artery systolic-to-diastolic (S/D) ratio should normally measure:",
-      "opts": [
-        "< 3.0",
-        "> 4.0",
-        "Between 4.5 and 5.5",
-        "> 6.0"
-      ],
-      "ans": 0,
-      "exp": "A normal umbilical artery S/D ratio at and beyond 30 weeks is <3.0; an S/D ratio >=3.0 indicates increased placental vascular resistance. (Book p312)",
-      "id": "OBG-C2-043"
-    },
-    {
-      "sec": "Doppler abnormalities",
-      "page": 312,
-      "q": "In uteroplacental insufficiency (UPI) associated with pre-eclampsia, what primary hemodynamic change occurs in the umbilical artery Doppler?",
-      "opts": [
-        "Vasoconstriction raises resistance, resulting in decreased end-diastolic flow and S/D ratio >= 3",
-        "Vasodilation increases end-diastolic flow and lowers resistance",
-        "Complete absence of systolic forward flow",
-        "Sudden reversal of flow within the umbilical vein"
-      ],
-      "ans": 0,
-      "exp": "Placental vasoconstriction and obliterative vasculopathy increase resistance, reducing diastolic flow and elevating S/D ratio >=3. (Book p312)",
-      "id": "OBG-C2-044"
-    },
-    {
-      "sec": "Doppler abnormalities",
-      "page": 313,
-      "q": "When absent end-diastolic flow (AEDF) is identified on umbilical artery Doppler in a growth-restricted fetus, delivery is recommended at:",
-      "opts": [
-        "33 to 34 weeks of gestation (after steroid coverage)",
-        "37 to 38 weeks of gestation",
-        "30 to 32 weeks of gestation",
-        "Immediate termination irrespective of gestational age"
-      ],
-      "ans": 0,
-      "exp": "AEDF warrants admission, steroid coverage, close monitoring, and planned delivery at 33-34 weeks of gestation. (Book p313)",
-      "id": "OBG-C2-045"
-    },
-    {
-      "sec": "Doppler abnormalities",
-      "page": 313,
-      "q": "When reversed end-diastolic flow (REDF) is detected on umbilical artery Doppler, pregnancy termination/delivery is recommended at:",
-      "opts": [
-        "30 to 32 weeks of gestation",
-        "34 to 36 weeks of gestation",
-        "37 to 38 weeks of gestation",
-        "26 to 28 weeks without steroid therapy"
-      ],
-      "ans": 0,
-      "exp": "REDF indicates extreme placental resistance with impending fetal death; delivery is indicated at 30-32 weeks following corticosteroid administration. (Book p313)",
-      "id": "OBG-C2-046"
-    },
-    {
-      "sec": "Doppler abnormalities",
-      "page": 313,
-      "q": "Why is Middle Cerebral Artery (MCA) Doppler NOT utilized to diagnose intrauterine growth restriction (IUGR)?",
-      "opts": [
-        "Due to the 'brain-sparing effect' which causes compensatory cerebral vasodilation",
-        "Because MCA blood flow is absent in early pregnancy",
-        "Because MCA resistance always equals umbilical artery resistance",
-        "Because fetal movements prevent MCA insonation"
-      ],
-      "ans": 0,
-      "exp": "In hypoxia, the brain-sparing effect vasodilates the MCA to protect vital cerebral circulation; thus MCA Doppler is normal or hyperdynamic in early UPI. (Book p313)",
-      "id": "OBG-C2-047"
-    },
-    {
-      "sec": "Doppler abnormalities",
-      "page": 313,
-      "q": "What is the primary clinical indication for measuring the Middle Cerebral Artery (MCA) Peak Systolic Velocity (PSV)?",
-      "opts": [
-        "Non-invasive detection of moderate-to-severe fetal anemia (PSV >= 1.5 MoM)",
-        "Assessment of fetal renal agenesis",
-        "Diagnosis of macrosomia in diabetic mothers",
-        "Measurement of maternal pre-eclampsia severity"
-      ],
-      "ans": 0,
-      "exp": "In fetal anemia (Rh alloimmunization, Parvovirus B19), hyperdynamic circulation increases MCA-PSV >=1.5 MoM, making it the non-invasive test of choice. (Book p313)",
-      "id": "OBG-C2-048"
-    },
-    {
-      "sec": "Doppler abnormalities",
-      "page": 314,
-      "q": "In severe fetal anemia due to Rh isoimmunization or Parvovirus B19, which heart rate pattern is characteristically observed on cardiotocography (CTG)?",
-      "opts": [
-        "Sinusoidal fetal heart rate pattern",
-        "Severe variable decelerations with shoulders",
-        "Early decelerations coinciding with contractions",
-        "Persistent marked tachycardia without loss of variability"
-      ],
-      "ans": 0,
-      "exp": "A sinusoidal heart rate pattern (smooth sine wave with 2-5 cycles/min, amplitude 5-15 bpm) is pathognomonic of severe fetal anemia. (Book p314)",
-      "id": "OBG-C2-049"
-    },
-    {
-      "sec": "Cord abnormalities & monitoring",
-      "page": 314,
-      "q": "Single umbilical artery (SUA) is the most common vascular anomaly of the cord. The most commonly associated fetal organ systems affected are:",
-      "opts": [
-        "Renal (genitourinary) and cardiovascular systems",
-        "Central nervous system and musculoskeletal",
-        "Gastrointestinal and pulmonary systems",
-        "Integumentary and ophthalmic systems"
-      ],
-      "ans": 0,
-      "exp": "SUA is most frequently associated with renal malformations, followed by major cardiovascular anomalies. (Book p314)",
-      "id": "OBG-C2-050"
-    },
-    {
-      "sec": "Cord abnormalities & monitoring",
-      "page": 314,
-      "q": "When a single umbilical artery (SUA) is diagnosed on prenatal ultrasound, what is the protocol regarding fetal karyotyping?",
-      "opts": [
-        "Karyotyping is indicated only if associated gross congenital anomalies are present",
-        "Karyotyping is mandatory in every isolated SUA",
-        "Immediate chorionic villus sampling is required in all cases",
-        "Karyotyping is never indicated for cord vascular defects"
-      ],
-      "ans": 0,
-      "exp": "If gross congenital anomalies (GCA) are detected alongside SUA, karyotyping is indicated; isolated SUA does not require karyotyping. (Book p314)",
-      "id": "OBG-C2-051"
-    },
-    {
-      "sec": "Cord abnormalities & monitoring",
-      "page": 314,
-      "q": "Which of the following maternal factors significantly predisposes to the development of a single umbilical artery (SUA)?",
-      "opts": [
-        "Twin pregnancy and maternal diabetes mellitus",
-        "Multiparity and low socioeconomic status",
-        "Hypothyroidism and teenage pregnancy",
-        "Maternal asthma and Rh negativity"
-      ],
-      "ans": 0,
-      "exp": "Twin pregnancy and pre-existing maternal diabetes mellitus are established predisposing factors for single umbilical artery. (Book p314)",
-      "id": "OBG-C2-052"
-    },
-    {
-      "sec": "Cord abnormalities & monitoring",
-      "page": 314,
-      "q": "In all high-risk pregnancies, routine antepartum fetal surveillance (NST, BPP, growth scans) should routinely be initiated at:",
-      "opts": [
-        "32 weeks of gestation",
-        "24 weeks of gestation",
-        "28 weeks of gestation",
-        "37 weeks of gestation"
-      ],
-      "ans": 0,
-      "exp": "In high-risk pregnancies, antepartum fetal monitoring with NST and BPP is recommended starting from 32 weeks of gestation. (Book p314)",
-      "id": "OBG-C2-053"
-    },
-    {
-      "sec": "Cord abnormalities & monitoring",
-      "page": 314,
-      "q": "On CTG interpretation, late decelerations reflect uteroplacental insufficiency, whereas variable decelerations characteristically indicate:",
-      "opts": [
-        "Umbilical cord compression",
-        "Fetal head compression by the cervix",
-        "Maternal hypotension from supine positioning",
-        "Fetal sleep state"
-      ],
-      "ans": 0,
-      "exp": "Variable decelerations are triggered by umbilical cord compression, whereas early decelerations reflect head compression and late decelerations reflect UPI. (Book p314)",
-      "id": "OBG-C2-054"
-    },
-    {
-      "sec": "Antenatal schedule and workup",
-      "page": 315,
-      "q": "What is the minimum number of antenatal contacts recommended by the World Health Organization (WHO 2016 model) for a positive pregnancy experience?",
-      "opts": [
-        "8 visits/contacts",
-        "4 visits/contacts",
-        "6 visits/contacts",
-        "12 to 15 visits/contacts"
-      ],
-      "ans": 0,
-      "exp": "The WHO recommends a minimum of 8 antenatal contacts (1 in T1, 2 in T2, and 5 in T3). (Book p315)",
-      "id": "OBG-C2-055"
-    },
-    {
-      "sec": "Antenatal schedule and workup",
-      "page": 315,
-      "q": "According to the Government of India (RCH) guidelines, what is the minimum mandatory number and schedule of antenatal visits?",
-      "opts": [
-        "4 visits: 1st <12w, 2nd 14-26w, 3rd 28-34w, 4th 36w to term",
-        "3 visits: one in each trimester",
-        "6 visits: every 6 weeks starting at 12 weeks",
-        "5 visits: 1st <10w, 2nd 16w, 3rd 24w, 4th 32w, 5th 38w"
-      ],
-      "ans": 0,
-      "exp": "The GOI mandates at least 4 visits: 1st within 12w, 2nd at 14-26w, 3rd at 28-34w, and 4th at 36w to term. (Book p315)",
-      "id": "OBG-C2-056"
-    },
-    {
-      "sec": "Antenatal schedule and workup",
-      "page": 315,
-      "q": "At the first antenatal visit, HIV screening is conducted under an 'opt-out' approach. What are the screening and confirmatory tests, respectively?",
-      "opts": [
-        "Screening by ELISA, confirmatory by Western blot",
-        "Screening by Western blot, confirmatory by PCR",
-        "Screening by rapid card test, confirmatory by CD4 count",
-        "Screening by PCR, confirmatory by ELISA"
-      ],
-      "ans": 0,
-      "exp": "HIV screening is done with ELISA/rapid immunoassay; confirmatory testing is performed with Western blot or second dual ELISA. (Book p315)",
-      "id": "OBG-C2-057"
-    },
-    {
-      "sec": "Antenatal schedule and workup",
-      "page": 315,
-      "q": "Hepatitis B surface antigen (HBsAg) testing is performed at the initial antenatal booking visit:",
-      "opts": [
-        "In all pregnant women, regardless of prior vaccination status",
-        "Only in women with a history of jaundice or tattooing",
-        "Only if the partner is known to be HBsAg positive",
-        "Only in unvaccinated women"
-      ],
-      "ans": 0,
-      "exp": "Universal screening for HBsAg is mandatory in every pregnant woman regardless of her previous Hepatitis B vaccination status. (Book p315)",
-      "id": "OBG-C2-058"
-    },
-    {
-      "sec": "Antenatal schedule and workup",
-      "page": 316,
-      "q": "Rubella susceptibility screening in pregnancy checks for IgG and IgM antibodies. If a woman is found to be IgG-negative and IgM-negative, the correct management is:",
-      "opts": [
-        "Vaccinate with MMR immediately after delivery, as the live vaccine is contraindicated in pregnancy",
-        "Administer MMR vaccine immediately in the first trimester",
-        "Administer rubella vaccine at 28 weeks of gestation",
-        "Reassure that she is immune and no action is required"
-      ],
-      "ans": 0,
-      "exp": "Negative IgG and IgM indicate susceptibility. MMR is a live attenuated vaccine contraindicated in pregnancy; immunization is given postpartum. (Book p316)",
-      "id": "OBG-C2-059"
-    },
-    {
-      "sec": "Antenatal schedule and workup",
-      "page": 316,
-      "q": "According to ACOG guidelines, universal screening for Group B Streptococcus (GBS) colonization is performed using a rectovaginal swab at:",
-      "opts": [
-        "35 to 37 weeks of gestation",
-        "24 to 28 weeks of gestation",
-        "First antenatal visit",
-        "During active labor only"
-      ],
-      "ans": 0,
-      "exp": "Universal GBS screening is performed at 35-37 weeks using a lower vaginal and rectal swab to direct intrapartum antibiotic prophylaxis. (Book p316)",
-      "id": "OBG-C2-060"
-    },
-    {
-      "sec": "Immunization & risk stratification",
-      "page": 316,
-      "q": "Under the National Immunization Schedule in India, the recommended tetanus and adult diphtheria (Td) toxoid schedule in pregnancy is:",
-      "opts": [
-        "Td-1 at first contact, followed by Td-2 after 4 weeks",
-        "Single dose of Td at 36 weeks",
-        "Three doses of Td spaced 1 month apart",
-        "Td-1 at 20 weeks and Td-2 at 36 weeks"
-      ],
-      "ans": 0,
-      "exp": "Two doses of Td are given 4 weeks apart (Td-1 as early as possible, Td-2 four weeks later). (Book p316)",
-      "id": "OBG-C2-061"
-    },
-    {
-      "sec": "Immunization & risk stratification",
-      "page": 316,
-      "q": "If a pregnant woman received full, documented Td immunization during a previous pregnancy 2 years ago, what is indicated in her current pregnancy?",
-      "opts": [
-        "Only a single Td booster dose during the current pregnancy",
-        "Two complete doses of Td spaced 4 weeks apart",
-        "No tetanus immunization is needed for 5 years",
-        "Administration of tetanus immunoglobulin (TIG) only"
-      ],
-      "ans": 0,
-      "exp": "If a woman received complete Td vaccination within the preceding 3 years, only a single Td booster dose is required. (Book p316)",
-      "id": "OBG-C2-062"
-    },
-    {
-      "sec": "Immunization & risk stratification",
-      "page": 316,
-      "q": "According to ACOG guidelines, a single dose of Tdap (tetanus, reduced diphtheria, and acellular pertussis) vaccine should be administered during:",
-      "opts": [
-        "27 to 36 weeks of gestation in every pregnancy",
-        "First trimester before 12 weeks",
-        "Immediately postpartum",
-        "Only if the mother has an open dirty wound"
-      ],
-      "ans": 0,
-      "exp": "Tdap is recommended between 27 and 36 weeks of gestation in each pregnancy to optimize transplacental maternal pertussis antibody transfer. (Book p316)",
-      "id": "OBG-C2-063"
-    },
-    {
-      "sec": "Immunization & risk stratification",
-      "page": 316,
-      "q": "On the antenatal Mother and Child Protection (MCP) card, what color sticker represents high risk factors present?",
-      "opts": [
-        "Red",
-        "Green",
-        "Blue",
-        "Yellow"
-      ],
-      "ans": 0,
-      "exp": "Under MCP card color-coding: Green = no risk factors, Red = high risk factors present (Blue = PIH, Yellow = GDM/comorbidity). (Book p316)",
-      "id": "OBG-C2-064"
-    },
-    {
-      "sec": "Immunization & risk stratification",
-      "page": 317,
-      "q": "Under the Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA, held on the 9th of every month), pregnant women flagged with a RED sticker are advised:",
-      "opts": [
-        "At least 3 additional specialist antenatal visits",
-        "Immediate hospitalization until delivery",
-        "Elective Caesarean section at 36 weeks",
-        "No further routine visits"
-      ],
-      "ans": 0,
-      "exp": "PMSMA flags high-risk pregnancies with a red sticker and advises 3 additional antenatal visits by obstetricians. (Book p317)",
-      "id": "OBG-C2-065"
-    },
-    {
-      "sec": "Immunization & risk stratification",
-      "page": 317,
-      "q": "Which of the following maternal complaints is recognized as an obstetric alert symptom requiring emergency hospital evaluation?",
-      "opts": [
-        "Fever >= 38\u00b0C for >= 24 hours or sudden blurring of vision",
-        "Mild morning nausea subsiding by noon",
-        "Increased urinary frequency in the first trimester",
-        "Pigmentation along the linea alba"
-      ],
-      "ans": 0,
-      "exp": "Alert danger signs include fever >=38\u00b0C for >=24h, persistent vomiting, severe headache/blurring of vision, vaginal bleeding/fluid leak, and reduced fetal movement. (Book p317)",
-      "id": "OBG-C2-066"
-    },
-    {
-      "sec": "Nutritional supplementation",
-      "page": 317,
-      "q": "To prevent primary neural tube defects (NTD), the recommended periconceptional prophylactic dose of folic acid for a low-risk woman is:",
-      "opts": [
-        "400 mcg/day starting at least 1 month before conception through the first trimester",
-        "4 mg/day starting at 12 weeks of gestation",
-        "5 mg/day throughout all three trimesters",
-        "100 mcg/day starting after positive urine pregnancy test"
-      ],
-      "ans": 0,
-      "exp": "Low-risk women require 400 mcg/day of folic acid starting at least 1 month prior to conception and continued through the first 3 months. (Book p317)",
-      "id": "OBG-C2-067"
-    },
-    {
-      "sec": "Nutritional supplementation",
-      "page": 317,
-      "q": "A woman with a history of a previous infant affected by spina bifida desires another pregnancy. What dose of folic acid should she receive?",
-      "opts": [
-        "4 mg/day (therapeutic dose) starting >=3 months before conception through the first trimester",
-        "400 mcg/day starting from the day of missed period",
-        "1 mg/day starting from 14 weeks",
-        "500 mcg/day taken with breakfast"
-      ],
-      "ans": 0,
-      "exp": "To prevent recurrence of NTD, high-risk women should take 4-5 mg/day of folic acid starting at least 3 months pre-conceptually through 12 weeks. (Book p317)",
-      "id": "OBG-C2-068"
-    },
-    {
-      "sec": "Nutritional supplementation",
-      "page": 317,
-      "q": "Under the Anemia Mukt Bharat programme (I-NIPI), what are the constituents of the daily red IFA tablet provided to pregnant women from the 4th month?",
-      "opts": [
-        "60 mg elemental iron + 500 mcg folic acid",
-        "100 mg elemental iron + 1 mg folic acid",
-        "30 mg elemental iron + 400 mcg folic acid",
-        "200 mg elemental iron + 5 mg folic acid"
-      ],
-      "ans": 0,
-      "exp": "The red IFA tablet contains 60 mg elemental iron (as ferrous sulfate) and 500 mcg folic acid. (Book p317)",
-      "id": "OBG-C2-069"
-    },
-    {
-      "sec": "Nutritional supplementation",
-      "page": 317,
-      "q": "For how long should prophylactic IFA supplementation be continued during pregnancy and after childbirth?",
-      "opts": [
-        "For at least 180 days during pregnancy plus 180 days postpartum",
-        "For 90 days during pregnancy only",
-        "From 20 weeks until delivery only",
-        "Until the hemoglobin reaches 12 g/dL"
-      ],
-      "ans": 0,
-      "exp": "IFA is taken for 180 days during pregnancy (from the 2nd trimester) and continued for 180 days postpartum to replenish iron stores. (Book p317)",
-      "id": "OBG-C2-070"
-    },
-    {
-      "sec": "Nutritional supplementation",
-      "page": 317,
-      "q": "What is the recommended therapeutic dosage of IFA tablets for a pregnant female diagnosed with nutritional iron deficiency anemia?",
-      "opts": [
-        "2 IFA tablets per day (120 mg elemental iron)",
-        "1 IFA tablet every alternate day",
-        "4 IFA tablets per day with meals",
-        "1 IFA tablet per week"
-      ],
-      "ans": 0,
-      "exp": "For treating established anemia in pregnancy, the dose is doubled to 2 IFA tablets daily (total 120 mg elemental iron). (Book p317)",
-      "id": "OBG-C2-071"
-    },
-    {
-      "sec": "Nutritional guidelines",
-      "page": 318,
-      "q": "Between 24 and 28 weeks of gestation, which laboratory investigations are specifically recommended for repeat screening?",
-      "opts": [
-        "Hemoglobin/hematocrit, GDM screening (DIPSI), and Indirect Coombs test if Rh-negative",
-        "Thyroid profile, rubella IgG, and toxoplasma serology",
-        "Triple test and Quadruple test",
-        "Nuchal translucency and ductus venosus Doppler"
-      ],
-      "ans": 0,
-      "exp": "Between 24-28 weeks: repeat Hb/Hct, oral glucose tolerance test (DIPSI) for GDM, and Indirect Coombs test in Rh-negative mothers at 28w. (Book p318)",
-      "id": "OBG-C2-072"
-    },
-    {
-      "sec": "Nutritional guidelines",
-      "page": 318,
-      "q": "According to the Institute of Medicine (IOM) guidelines, what is the recommended total gestational weight gain for a woman with a normal pre-pregnancy BMI (18.5-24.9)?",
-      "opts": [
-        "11.5 to 16 kg",
-        "12.5 to 18 kg",
-        "7 to 11.5 kg",
-        "5 to 9 kg"
-      ],
-      "ans": 0,
-      "exp": "Recommended weight gain: Underweight (<18.5) = 12.5-18 kg; Normal (18.5-24.9) = 11.5-16 kg; Overweight (25-29.9) = 7-11.5 kg; Obese (>=30) = 5-9 kg. (Book p318)",
-      "id": "OBG-C2-073"
-    },
-    {
-      "sec": "Nutritional guidelines",
-      "page": 318,
-      "q": "What is the average recommended additional caloric requirement per day for a pregnant woman in India?",
-      "opts": [
-        "+350 kcal/day on average (National: +85 in T1, +280 in T2, +470 in T3)",
-        "+100 kcal/day in all trimesters",
-        "+800 kcal/day from the first trimester",
-        "+500 kcal/day exclusively in the first trimester"
-      ],
-      "ans": 0,
-      "exp": "ICMR recommends an average additional +350 kcal/day (trimester-wise: T1 +85, T2 +280, T3 +470 kcal/day). (Book p318)",
-      "id": "OBG-C2-074"
-    },
-    {
-      "sec": "Nutritional guidelines",
-      "page": 319,
-      "q": "What is the recommended daily dietary allowance (RDA) for elemental calcium in pregnancy, and what is the rule regarding its co-administration with iron?",
-      "opts": [
-        "1000 mg/day, taken with a minimum 2-hour interval from iron tablets",
-        "500 mg/day, taken simultaneously with iron tablets to enhance absorption",
-        "2000 mg/day, administered only in the first trimester",
-        "1200 mg/day, taken exclusively with tea or milk"
-      ],
-      "ans": 0,
-      "exp": "RDA for calcium is 1000 mg/day (started from 14 weeks); calcium and iron compete for absorption and must be spaced at least 2 hours apart. (Book p319)",
-      "id": "OBG-C2-075"
-    },
-    {
-      "sec": "Nutritional guidelines",
-      "page": 319,
-      "q": "What is the daily recommended dietary allowance (RDA) for iodine during pregnancy to prevent fetal cretinism and neurodevelopmental delay?",
-      "opts": [
-        "250 mcg/day",
-        "150 mcg/day",
-        "50 mcg/day",
-        "500 mcg/day"
-      ],
-      "ans": 0,
-      "exp": "The RDA for iodine increases to 250 mcg/day in pregnancy (compared to 150 mcg/day in non-pregnant adults). (Book p319)",
-      "id": "OBG-C2-076"
-    },
-    {
-      "sec": "Lifestyle and immunization rules",
-      "page": 319,
-      "q": "Which of the following vaccines is absolutely CONTRAINDICATED during pregnancy due to the risk of live viral transmission to the fetus?",
-      "opts": [
-        "MMR (Measles, Mumps, Rubella) vaccine",
-        "Inactivated Hepatitis B vaccine",
-        "Inactivated Influenza vaccine",
-        "Inactivated COVID-19 vaccine"
-      ],
-      "ans": 0,
-      "exp": "Live attenuated vaccines (MMR, varicella, BCG, yellow fever, oral polio) are contraindicated during pregnancy. (Book p319)",
-      "id": "OBG-C2-077"
-    },
-    {
-      "sec": "Lifestyle and immunization rules",
-      "page": 319,
-      "q": "If a woman accidentally receives a live attenuated rubella vaccine, she should be advised to avoid conception for at least:",
-      "opts": [
-        "1 month (4 weeks)",
-        "6 months",
-        "1 year",
-        "2 weeks"
-      ],
-      "ans": 0,
-      "exp": "Conception should be deferred for at least 1 month (4 weeks) following administration of a live attenuated vaccine. (Book p319)",
-      "id": "OBG-C2-078"
-    },
-    {
-      "sec": "Lifestyle and immunization rules",
-      "page": 319,
-      "q": "Up to what gestational age is commercial air travel considered generally safe for an uncomplicated singleton pregnancy?",
-      "opts": [
-        "Up to 36 weeks of gestation",
-        "Up to 28 weeks of gestation",
-        "Up to 32 weeks of gestation",
-        "Up to 40 weeks of gestation"
-      ],
-      "ans": 0,
-      "exp": "Commercial flying is safe up to 36 weeks in uncomplicated singleton pregnancies (32 weeks for multiples) before airline restrictions apply. (Book p319)",
-      "id": "OBG-C2-079"
-    },
-    {
-      "sec": "Lifestyle and immunization rules",
-      "page": 319,
-      "q": "Moderate aerobic exercise such as 30-45 minutes of brisk walking daily is encouraged in pregnancy, but vigorous physical exertion is contraindicated in:",
-      "opts": [
-        "Placenta previa, pre-eclampsia, and maternal heart disease",
-        "Mild morning sickness and nausea",
-        "Physiological dependent ankle edema",
-        "Controlled hypothyroidism on levothyroxine"
-      ],
-      "ans": 0,
-      "exp": "Strenuous physical exercise is contraindicated in pre-eclampsia/PIH, placenta previa, patients at risk of preterm labor, and heart disease. (Book p319)",
-      "id": "OBG-C2-080"
-    },
-    {
-      "sec": "Nausea, vomiting & PUQE score",
-      "page": 320,
-      "q": "What is the first-line pharmacotherapy recommended by ACOG for mild-to-moderate nausea and vomiting of pregnancy (morning sickness)?",
-      "opts": [
-        "Doxylamine (10 mg) + Pyridoxine / Vitamin B6 (10 mg)",
-        "Ondansetron (8 mg) orally",
-        "Metoclopramide (10 mg) IV",
-        "Promethazine (25 mg) orally"
-      ],
-      "ans": 0,
-      "exp": "The combination of doxylamine (antihistamine, 10 mg) and pyridoxine (vitamin B6, 10 mg) is the first-line drug of choice for nausea and vomiting of pregnancy. (Book p320)",
-      "id": "OBG-C2-081"
-    },
-    {
-      "sec": "Nausea, vomiting & PUQE score",
-      "page": 320,
-      "q": "Hyperemesis gravidarum is characterized by severe vomiting leading to ketonuria and >5% weight loss. What is its primary hormonal driver?",
-      "opts": [
-        "Rapidly rising peak levels of human chorionic gonadotropin (hCG)",
-        "Excess human placental lactogen (hPL)",
-        "Progesterone deficiency",
-        "High prolactin levels"
-      ],
-      "ans": 0,
-      "exp": "Hyperemesis gravidarum correlates with peak serum hCG levels (hence increased incidence in twin and molar pregnancies). (Book p320)",
-      "id": "OBG-C2-082"
-    },
-    {
-      "sec": "Nausea, vomiting & PUQE score",
-      "page": 320,
-      "q": "A pregnant patient with severe hyperemesis gravidarum develops intractable vomiting and confusion. What critical nutrient must be given BEFORE administering IV dextrose fluids?",
-      "opts": [
-        "Thiamine (Vitamin B1) 100 mg IV to prevent Wernicke's encephalopathy",
-        "Folic acid 5 mg IV",
-        "Vitamin K 10 mg IV",
-        "Vitamin C 500 mg IV"
-      ],
-      "ans": 0,
-      "exp": "IV dextrose infusing into a thiamine-deficient state precipitates acute Wernicke's encephalopathy; parenteral thiamine must precede dextrose. (Book p320)",
-      "id": "OBG-C2-083"
-    },
-    {
-      "sec": "Nausea, vomiting & PUQE score",
-      "page": 321,
-      "q": "Why is the use of ondansetron generally avoided during early organogenesis (<10 weeks of gestation) unless other therapies fail?",
-      "opts": [
-        "Possible association with a small increased risk of oral clefts (cleft lip/palate)",
-        "High incidence of neural tube defects",
-        "Induction of fetal renal agenesis",
-        "Risk of phocomelia"
-      ],
-      "ans": 0,
-      "exp": "Early first-trimester exposure to ondansetron (<10 weeks) carries a controversial slight risk of fetal cleft lip and cleft palate. (Book p321)",
-      "id": "OBG-C2-084"
-    },
-    {
-      "sec": "Nausea, vomiting & PUQE score",
-      "page": 321,
-      "q": "The PUQE (Pregnancy-Unique Quantification of Emesis) scoring system classifies the severity of nausea and vomiting into mild, moderate, and severe using cutoffs of:",
-      "opts": [
-        "<=6 is mild, 7 to 12 is moderate, and >=13 is severe",
-        "<=3 is mild, 4 to 8 is moderate, and >=9 is severe",
-        "<=10 is mild, 11 to 20 is moderate, and >=21 is severe",
-        "<=5 is mild, 6 to 15 is moderate, and >=16 is severe"
-      ],
-      "ans": 0,
-      "exp": "PUQE score: 4 to 6 indicates mild emesis, 7 to 12 indicates moderate emesis, and >=13 indicates severe hyperemesis gravidarum. (Book p321)",
-      "id": "OBG-C2-085"
-    },
-    {
-      "sec": "Physiological complaints",
-      "page": 321,
-      "q": "A pregnant woman in the late third trimester experiences dizziness, nausea, and pallor when lying flat on her back. What is the initial compensatory sign?",
-      "opts": [
-        "Maternal tachycardia, followed by a fall in blood pressure",
-        "Sudden maternal bradycardia without blood pressure change",
-        "Immediate fetal bradycardia with hypertension",
-        "Rapid increase in systemic vascular resistance"
-      ],
-      "ans": 0,
-      "exp": "In supine hypotension syndrome, compression of the IVC reduces venous return; maternal tachycardia is the first compensatory response before BP crashes. (Book p321)",
-      "id": "OBG-C2-086"
-    },
-    {
-      "sec": "Physiological complaints",
-      "page": 321,
-      "q": "What is the immediate, life-saving corrective maneuver for supine hypotensive syndrome in pregnancy?",
-      "opts": [
-        "Turning the patient into the left lateral tilt position",
-        "Placing the patient in reverse Trendelenburg position",
-        "Administering IV bolus of 50% dextrose",
-        "Rapid infusion of ephedrine in the supine position"
-      ],
-      "ans": 0,
-      "exp": "Turning the patient onto her left side displaces the gravid uterus off the inferior vena cava, instantly restoring venous return and cardiac output. (Book p321)",
-      "id": "OBG-C2-087"
-    },
-    {
-      "sec": "Physiological complaints",
-      "page": 322,
-      "q": "Why is elective medical or surgical excision of varicose veins and hemorrhoids strictly avoided during pregnancy?",
-      "opts": [
-        "Most pregnancy-induced varicosities regress spontaneously within 6-12 weeks postpartum",
-        "They carry a 100% recurrence rate during labor",
-        "Anesthetics induce fetal macrosomia",
-        "Varices protect against deep vein thrombosis"
-      ],
-      "ans": 0,
-      "exp": "Varicose veins and hemorrhoids in pregnancy are managed conservatively (elevation, stockings, fiber) as they typically regress postpartum. (Book p322)",
-      "id": "OBG-C2-088"
-    },
-    {
-      "sec": "Physiological complaints",
-      "page": 322,
-      "q": "When a pregnant patient develops acute, painful nocturnal calf muscle cramps, the immediate relieving physical maneuver is to:",
-      "opts": [
-        "Extend the knee and strongly dorsiflex the foot/toes",
-        "Flex the knee and plantarflex the toes",
-        "Apply an ice pack to the popliteal fossa",
-        "Walk vigorously on tiptoes"
-      ],
-      "ans": 0,
-      "exp": "During an acute calf cramp, extending the knee and forcibly dorsiflexing the toes stretches the gastrocnemius, immediately relieving the spasm. (Book p322)",
-      "id": "OBG-C2-089"
-    },
-    {
-      "sec": "Physiological complaints",
-      "page": 322,
-      "q": "Carpal tunnel syndrome during pregnancy presents with tingling and numbness in the lateral three and a half digits due to compression of which nerve?",
-      "opts": [
-        "Median nerve at the wrist",
-        "Ulnar nerve at the cubital tunnel",
-        "Radial nerve in the spiral groove",
-        "Musculocutaneous nerve"
-      ],
-      "ans": 0,
-      "exp": "Gestational fluid retention and perineural edema compress the median nerve under the flexor retinaculum, treated conservatively with wrist splints. (Book p322)",
-      "id": "OBG-C2-090"
-    },
-    {
-      "sec": "Physiological complaints",
-      "page": 323,
-      "q": "Bell's palsy (idiopathic facial nerve paralysis) occurring during the third trimester is primarily attributed to:",
-      "opts": [
-        "Perineural edema, hypercoagulability, and physiological immunosuppression",
-        "Direct herpes zoster encephalitis",
-        "Intracranial aneurysm compression",
-        "Cerebral venous sinus thrombosis"
-      ],
-      "ans": 0,
-      "exp": "Bell's palsy in pregnancy is linked to perineural edema and fluid retention compressing the 7th cranial nerve; short-course steroids are used. (Book p323)",
-      "id": "OBG-C2-091"
-    },
-    {
-      "sec": "First trimester ultrasound",
-      "page": 324,
-      "q": "In early pregnancy ultrasound, what are the characteristic transducer probe frequencies utilized for transabdominal scan (TAS) and transvaginal scan (TVS)?",
-      "opts": [
-        "3-5 MHz for TAS and 5-10 MHz for TVS",
-        "7-12 MHz for TAS and 2-3 MHz for TVS",
-        "1-2 MHz for TAS and 3-5 MHz for TVS",
-        "10-15 MHz for both scans"
-      ],
-      "ans": 0,
-      "exp": "TAS utilizes 3-5 MHz probes for deeper penetration, whereas TVS uses higher frequency 5-10 MHz probes for superior near-field resolution. (Book p324)",
-      "id": "OBG-C2-092"
-    },
-    {
-      "sec": "First trimester ultrasound",
-      "page": 324,
-      "q": "What is the earliest anatomical structure identifiable within the uterus on transvaginal sonography (TVS) at 4.5 to 5 weeks?",
-      "opts": [
-        "Gestational sac (symmetrical fluid-filled area with echogenic rim)",
-        "Secondary yolk sac",
-        "Embryonic fetal pole",
-        "Amniotic membrane"
-      ],
-      "ans": 0,
-      "exp": "The gestational sac is the very first structure visualized on TVS at 4.5-5 weeks of gestation (MSD ~2-3 mm). (Book p324)",
-      "id": "OBG-C2-093"
-    },
-    {
-      "sec": "First trimester ultrasound",
-      "page": 324,
-      "q": "The visualization of an isolated fluid-filled sac in the uterine cavity on ultrasound does NOT definitively confirm intrauterine pregnancy because:",
-      "opts": [
-        "An ectopic pregnancy can produce a central decidual pseudogestational sac",
-        "The yolk sac may be outside the uterus",
-        "Molar pregnancy always mimics a gestational sac",
-        "Blighted ovum never forms a gestational sac"
-      ],
-      "ans": 0,
-      "exp": "A pseudogestational sac (blood/fluid within decidual reaction) occurs in 10-20% of ectopic pregnancies; true IUP requires yolk sac or embryo. (Book p324)",
-      "id": "OBG-C2-094"
-    },
-    {
-      "sec": "First trimester ultrasound",
-      "page": 324,
-      "q": "The secondary yolk sac appears as a distinct circular echogenic bleb within the gestational sac on TVS when the Mean Sac Diameter (MSD) reaches:",
-      "opts": [
-        "10 mm (around 5 to 5.5 weeks)",
-        "3 mm (at 4 weeks)",
-        "20 mm (at 7 weeks)",
-        "25 mm (at 8 weeks)"
-      ],
-      "ans": 0,
-      "exp": "The yolk sac is visualized on TVS when the mean sac diameter reaches 10 mm (at approximately 5-5.5 weeks of gestation). (Book p324)",
-      "id": "OBG-C2-095"
-    },
-    {
-      "sec": "First trimester ultrasound",
-      "page": 325,
-      "q": "The presence of a definite yolk sac within an intrauterine gestational sac provides definitive sonographic confirmation of:",
-      "opts": [
-        "An authentic intrauterine pregnancy, ruling out a pseudogestational sac",
-        "Immediate fetal viability and normal karyotype",
-        "Exclusion of any possibility of miscarriage",
-        "Chorionicity in multiple gestations"
-      ],
-      "ans": 0,
-      "exp": "Seeing a yolk sac definitively confirms a true intrauterine gestational sac and excludes an ectopic pseudogestational sac. (Book p325)",
-      "id": "OBG-C2-096"
-    },
-    {
-      "sec": "Embryonic landmarks & viability",
-      "page": 325,
-      "q": "On transvaginal sonography, the fetal pole and embryonic cardiac flicker (M-mode) are normally detectable by:",
-      "opts": [
-        "5.5 to 6.5 weeks of gestation (CRL 1-5 mm, MSD 13-18 mm)",
-        "4.0 to 4.5 weeks of gestation",
-        "8.0 to 9.0 weeks of gestation",
-        "10.0 to 11.0 weeks of gestation"
-      ],
-      "ans": 0,
-      "exp": "The fetal pole with cardiac flicker is detected on TVS at 5.5-6.5 weeks (CRL 1-5 mm, MSD 13-18 mm). (Book p325)",
-      "id": "OBG-C2-097"
-    },
-    {
-      "sec": "Embryonic landmarks & viability",
-      "page": 325,
-      "q": "What is the normal baseline fetal heart rate at 6 weeks versus 8 weeks of gestation, and what cutoff indicates a poor prognosis?",
-      "opts": [
-        "110-130 bpm at 6w, 160-170 bpm at 8w; <85 bpm indicates poor prognosis",
-        "70-90 bpm at 6w, 120 bpm at 8w; <100 bpm is normal",
-        "160-180 bpm at 6w, 110 bpm at 8w; >200 bpm is normal",
-        "140 bpm throughout; any variation indicates demise"
-      ],
-      "ans": 0,
-      "exp": "Embryonic FHR rises from 110-130 bpm at 6 weeks to 160-170 bpm at 8 weeks; an embryonic FHR <85 bpm signifies high risk of demise. (Book p325)",
-      "id": "OBG-C2-098"
-    },
-    {
-      "sec": "Embryonic landmarks & viability",
-      "page": 325,
-      "q": "According to established sonographic guidelines, an anembryonic pregnancy (blighted ovum / missed abortion) is definitively diagnosed when:",
-      "opts": [
-        "The Mean Sac Diameter (MSD) is >= 25 mm with no visible embryo/fetal pole",
-        "The MSD is >= 15 mm without a yolk sac",
-        "The CRL is >= 3 mm without cardiac motion",
-        "The gestational sac is irregularly contoured at 4 weeks"
-      ],
-      "ans": 0,
-      "exp": "An MSD >=25 mm with no embryo on TVS is a definitive criterion for non-viable/missed abortion (blighted ovum). (Book p325)",
-      "id": "OBG-C2-099"
-    },
-    {
-      "sec": "Embryonic landmarks & viability",
-      "page": 326,
-      "q": "Which of the following is a definitive sonographic criterion for diagnosing a missed abortion on transvaginal ultrasound?",
-      "opts": [
-        "A Crown-Rump Length (CRL) of >= 7 mm with absence of cardiac activity",
-        "A CRL of >= 4 mm with absence of cardiac activity",
-        "An MSD of >= 16 mm without a fetal pole",
-        "Absence of yolk sac when MSD is 8 mm"
-      ],
-      "ans": 0,
-      "exp": "A CRL >=7 mm without cardiac motion is a major definitive criterion for missed abortion. (Book p326)",
-      "id": "OBG-C2-100"
-    },
-    {
-      "sec": "Embryonic landmarks & viability",
-      "page": 326,
-      "q": "If an initial ultrasound demonstrates a gestational sac without a yolk sac, after how many days must a repeat scan without cardiac activity be observed to confirm non-viability?",
-      "opts": [
-        ">= 14 days",
-        ">= 7 days",
-        ">= 3 days",
-        ">= 21 days"
-      ],
-      "ans": 0,
-      "exp": "Absence of an embryo with cardiac activity >=14 days after a scan that showed a gestational sac without a yolk sac definitively confirms missed abortion. (Book p326)",
-      "id": "OBG-C2-101"
-    },
-    {
-      "sec": "Embryonic landmarks & viability",
-      "page": 326,
-      "q": "If an initial scan shows a gestational sac WITH a yolk sac, missed abortion is confirmed if cardiac activity is absent on a repeat scan performed after at least:",
-      "opts": [
-        ">= 11 days",
-        ">= 5 days",
-        ">= 14 days",
-        ">= 21 days"
-      ],
-      "ans": 0,
-      "exp": "Absence of cardiac activity >=11 days after a scan that demonstrated a gestational sac with a yolk sac is diagnostic of pregnancy failure. (Book p326)",
-      "id": "OBG-C2-102"
-    },
-    {
-      "sec": "Biochemical and sonographic discrimination",
-      "page": 326,
-      "q": "What is the discriminatory zone (critical titer) of serum beta-hCG above which an intrauterine gestational sac must be visualized on TVS and TAS, respectively?",
-      "opts": [
-        "1500-2000 IU/L for TVS and 6000-6500 IU/L for TAS",
-        "500-1000 IU/L for TVS and 2000-3000 IU/L for TAS",
-        "3000-4000 IU/L for TVS and 8000-10000 IU/L for TAS",
-        "1000 IU/L for both TVS and TAS"
-      ],
-      "ans": 0,
-      "exp": "The discriminatory zone of beta-hCG is 1500-2000 IU/L for TVS and 6000-6500 IU/L for TAS; empty uterus above this strongly indicates ectopic. (Book p326)",
-      "id": "OBG-C2-103"
-    },
-    {
-      "sec": "Biochemical and sonographic discrimination",
-      "page": 326,
-      "q": "A hemodynamically stable patient has a serum beta-hCG of 2500 IU/L, but no intrauterine gestational sac is seen on TVS. What is the presumptive diagnosis?",
-      "opts": [
-        "Ectopic pregnancy until proven otherwise",
-        "Normal early intrauterine pregnancy",
-        "Complete hydatidiform mole",
-        "Blighted ovum within the endometrial cavity"
-      ],
-      "ans": 0,
-      "exp": "When serum beta-hCG exceeds the TVS discriminatory threshold (1500-2000 IU/L) and the endometrial cavity is empty, ectopic pregnancy must be presumed. (Book p326)",
-      "id": "OBG-C2-104"
-    },
-    {
-      "sec": "Biochemical and sonographic discrimination",
-      "page": 326,
-      "q": "In a healthy, viable early intrauterine pregnancy, repeat serum beta-hCG titers measured 48 hours apart should normally demonstrate:",
-      "opts": [
-        "A doubling of titer (or an increase of at least 66%)",
-        "A modest increase of 10-20%",
-        "A stable plateau of titer",
-        "A decline of 50%"
-      ],
-      "ans": 0,
-      "exp": "In a viable early intrauterine pregnancy, serum beta-hCG approximately doubles every 48 hours (minimum 66% rise). (Book p326)",
-      "id": "OBG-C2-105"
-    },
-    {
-      "sec": "Biochemical and sonographic discrimination",
-      "page": 326,
-      "q": "A 48-hour serial beta-hCG that rises suboptimally (increases but does not double) is highly suspicious of:",
-      "opts": [
-        "Ectopic pregnancy (or non-viable intrauterine pregnancy)",
-        "Multiple gestations",
-        "Gestational choriocarcinoma",
-        "Normal late blastocyst implantation"
-      ],
-      "ans": 0,
-      "exp": "An increase that fails to double (suboptimal rise) is characteristic of an ectopic pregnancy or failing intrauterine gestation. (Book p326)",
-      "id": "OBG-C2-106"
-    },
-    {
-      "sec": "Biochemical and sonographic discrimination",
-      "page": 326,
-      "q": "Which of the following sonographic features definitively distinguishes a true intrauterine gestational sac from an ectopic pseudogestational sac?",
-      "opts": [
-        "Eccentric location within decidua with double decidual sac sign",
-        "Central location within the endometrial cavity",
-        "Absence of yolk sac or double bleb sign",
-        "Lack of progressive growth on serial scans"
-      ],
-      "ans": 0,
-      "exp": "A true gestational sac implants eccentrically within the decidua, displays a double decidual sign, contains a yolk sac, and grows ~1 mm/day. (Book p326)",
-      "id": "OBG-C2-107"
-    }
-  ]
+ "chapter": 2,
+ "title": "Normal Pregnancy and Antenatal Care",
+ "pageRange": "302-326",
+ "units": [
+  {
+   "id": "OBG-U2-1",
+   "ch": 2,
+   "n": 1,
+   "title": "Gestational Age, Trimesters & Naegele's Rule",
+   "sec": "Basics of pregnancy · p302-303",
+   "guide": "Gestational age is calculated from the first day of the last menstrual period (LMP), while fetal age is reckoned from fertilization, creating a 2-week difference. Naegele's rule calculates the EDD by adding 9 months and 7 days to the LMP, adjusting for variations in cycle length. Pregnancy spans three trimesters: T1 (up to 13w6d), T2 (14w to 27w6d), and T3 (28w to delivery).",
+   "qs": [
+    "OBG-C2-001",
+    "OBG-C2-002",
+    "OBG-C2-003",
+    "OBG-C2-004",
+    "OBG-C2-005",
+    "OBG-C2-006",
+    "OBG-C2-007",
+    "OBG-C2-008",
+    "OBG-C2-009"
+   ]
+  },
+  {
+   "id": "OBG-U2-2",
+   "ch": 2,
+   "n": 2,
+   "title": "ART Dating, Preterm Categories & Fetal Death / IUD",
+   "sec": "Dating and fetal demise · p304-305",
+   "guide": "In assisted reproduction, EDD is calculated from the embryo transfer date (+263 days for Day 3, +261 days for Day 5 blastocyst). Preterm delivery is classified by ACOG into early (<34w) and late (34w-36w6d), and by WHO into extreme (<28w), very (<32w), and moderate-to-late. Intrauterine fetal death (demise at >=20 weeks or >=500g) presents with lost movements and characteristic imaging signs like Spalding's and Robert's.",
+   "qs": [
+    "OBG-C2-010",
+    "OBG-C2-011",
+    "OBG-C2-012",
+    "OBG-C2-013",
+    "OBG-C2-014",
+    "OBG-C2-015",
+    "OBG-C2-016",
+    "OBG-C2-017",
+    "OBG-C2-018"
+   ]
+  },
+  {
+   "id": "OBG-U2-3",
+   "ch": 2,
+   "n": 3,
+   "title": "Obstetrical Score (GTPAL) & Gravidity / Parity",
+   "sec": "Obstetrical terminology · p306-307",
+   "guide": "Obstetrical history uses the GTPAL system: Gravida, Term (>=37w), Preterm (20-36w6d), Abortions (<20w), and Living children. Multiple gestations (twins/triplets) count as a single gravidity and parity event, but count individually as living children. Viability in India is defined at 28 weeks, and an elderly primigravida is defined as a woman conceiving for the first time at 35 years or older.",
+   "qs": [
+    "OBG-C2-019",
+    "OBG-C2-020",
+    "OBG-C2-021",
+    "OBG-C2-022",
+    "OBG-C2-023",
+    "OBG-C2-024",
+    "OBG-C2-025"
+   ]
+  },
+  {
+   "id": "OBG-U2-4",
+   "ch": 2,
+   "n": 4,
+   "title": "Symptoms, Pelvic Signs & Diagnostic Signs of Pregnancy",
+   "sec": "Clinical signs of pregnancy · p307-309",
+   "guide": "Pregnancy manifestations are categorized into presumptive symptoms (amenorrhea, morning sickness, quickening), probable pelvic signs, and positive/definitive signs. Classical probable signs include Goodell's (cervical softening), Hegar's (isthmic softening), Chadwick's (bluish mucosal vascularity), Palmer's (rhythmic uterine contractions), and Osiander's sign (lateral fornix pulsations). Definitive proof requires sonographic cardiac activity, auscultated FHS, or palpated fetal parts.",
+   "qs": [
+    "OBG-C2-026",
+    "OBG-C2-027",
+    "OBG-C2-028",
+    "OBG-C2-029",
+    "OBG-C2-030",
+    "OBG-C2-031",
+    "OBG-C2-032",
+    "OBG-C2-033",
+    "OBG-C2-034"
+   ]
+  },
+  {
+   "id": "OBG-U2-5",
+   "ch": 2,
+   "n": 5,
+   "title": "Uterine Growth, Fundal Height & Discrepancies",
+   "sec": "Fundal height landmarks · p308, 310",
+   "guide": "The gravid uterus ascends from a pelvic organ at 12 weeks (pubic symphysis) to midway at 16 weeks, umbilicus at 24 weeks, and xiphisternum at 36 weeks before descending at 40 weeks due to fetal head engagement (lightening). Fundal height in centimeters matches gestational age in weeks between 20 and 36 weeks. A discrepancy of >=3 weeks/cm warrants urgent sonographic evaluation for polyhydramnios, twins, IUGR, or erroneous dates.",
+   "qs": [
+    "OBG-C2-035",
+    "OBG-C2-036",
+    "OBG-C2-037",
+    "OBG-C2-038",
+    "OBG-C2-039",
+    "OBG-C2-040",
+    "OBG-C2-041",
+    "OBG-C2-042"
+   ]
+  },
+  {
+   "id": "OBG-U2-6",
+   "ch": 2,
+   "n": 6,
+   "title": "Umbilical Cord Architecture & Doppler Waveforms",
+   "sec": "Cord anatomy and hemodynamics · p311-312",
+   "guide": "The normal umbilical cord measures 40-70 cm, wrapped in Wharton's jelly, and contains 2 umbilical arteries carrying deoxygenated blood to the placenta and 1 left umbilical vein delivering oxygenated blood to the fetus. Umbilical artery Doppler shows forward flow in both systole and diastole with progressively decreasing vascular resistance and an S/D ratio normally <3 as pregnancy advances.",
+   "qs": [
+    "OBG-C2-043",
+    "OBG-C2-044",
+    "OBG-C2-045",
+    "OBG-C2-046",
+    "OBG-C2-047",
+    "OBG-C2-048",
+    "OBG-C2-049"
+   ]
+  },
+  {
+   "id": "OBG-U2-7",
+   "ch": 2,
+   "n": 7,
+   "title": "Abnormal Doppler: UPI, AEDF, REDF & MCA Doppler",
+   "sec": "Doppler abnormalities · p312-314",
+   "guide": "In uteroplacental insufficiency, increased placental resistance elevates the S/D ratio (>=3), progressing to absent end-diastolic flow (AEDF) and reversed end-diastolic flow (REDF). Delivery is indicated at 33-34 weeks for AEDF and 30-32 weeks for REDF after corticosteroids. Middle cerebral artery (MCA) Doppler peak systolic velocity (PSV >=1.5 MoM) is the gold standard for non-invasive diagnosis of fetal anemia.",
+   "qs": [
+    "OBG-C2-050",
+    "OBG-C2-051",
+    "OBG-C2-052",
+    "OBG-C2-053",
+    "OBG-C2-054",
+    "OBG-C2-055",
+    "OBG-C2-056"
+   ]
+  },
+  {
+   "id": "OBG-U2-8",
+   "ch": 2,
+   "n": 8,
+   "title": "Single Umbilical Artery & Fetal Surveillance",
+   "sec": "Cord abnormalities & monitoring · p314",
+   "guide": "Single umbilical artery (SUA) is the most common vascular abnormality of the umbilical cord, strongly associated with renal and cardiovascular malformations; finding an associated anomaly necessitates fetal karyotyping. High-risk pregnancies require surveillance from 32 weeks with NST and biophysical scoring. Characteristic CTG signatures include late decelerations in UPI, variable decelerations in cord compression, and sinusoidal patterns in fetal anemia.",
+   "qs": [
+    "OBG-C2-057",
+    "OBG-C2-058",
+    "OBG-C2-059",
+    "OBG-C2-060",
+    "OBG-C2-061",
+    "OBG-C2-062"
+   ]
+  },
+  {
+   "id": "OBG-U2-9",
+   "ch": 2,
+   "n": 9,
+   "title": "Antenatal Care Schedules, Mandatory & Optional Labs",
+   "sec": "Antenatal schedule and workup · p315-316",
+   "guide": "Antenatal care guidelines mandate a minimum of 8 contacts by WHO and 4 visits by the Government of India (<12w, 14-26w, 28-34w, and 36w to term). Essential initial investigations include ABO/Rh typing, complete blood count, urine microscopy/culture, opt-out HIV screening, HBsAg, and VDRL/syphilis serology. Optional tests comprise maternal TSH, aneuploidy screening, rubella IgG/IgM susceptibility, and Group B Streptococcus swabs at 35-37 weeks.",
+   "qs": [
+    "OBG-C2-063",
+    "OBG-C2-064",
+    "OBG-C2-065",
+    "OBG-C2-066",
+    "OBG-C2-067",
+    "OBG-C2-068",
+    "OBG-C2-069"
+   ]
+  },
+  {
+   "id": "OBG-U2-10",
+   "ch": 2,
+   "n": 10,
+   "title": "Td/Tdap Vaccines, Risk Coding & Alert Signs",
+   "sec": "Immunization & risk stratification · p316-317",
+   "guide": "Pregnant women receive two doses of Td vaccine 4 weeks apart (or a single booster if fully vaccinated within 3 years), alongside Tdap between 27-37 weeks for neonatal pertussis protection. The Mother and Child Protection card and PMSMA utilize color stickers (Green for low risk, Red for high risk requiring 3 additional visits). Critical alert signs demanding emergency evaluation include fever >=38°C for >=24 hours, persistent vomiting, severe headache, bleeding, and decreased fetal movements.",
+   "qs": [
+    "OBG-C2-070",
+    "OBG-C2-071",
+    "OBG-C2-072",
+    "OBG-C2-073",
+    "OBG-C2-074",
+    "OBG-C2-075",
+    "OBG-C2-076"
+   ]
+  },
+  {
+   "id": "OBG-U2-11",
+   "ch": 2,
+   "n": 11,
+   "title": "Folic Acid Prophylaxis & IFA / Anemia Mukt Bharat",
+   "sec": "Nutritional supplementation · p317",
+   "guide": "Periconceptional folic acid (400 mcg/day for low-risk, 4-5 mg/day for women with previous NTD) is initiated at least 1-3 months before conception through the first trimester. From the 4th month onwards, the Anemia Mukt Bharat programme provides daily red IFA tablets (60 mg elemental iron + 500 mcg folic acid) for 180 days during pregnancy and continued for 180 days postpartum.",
+   "qs": [
+    "OBG-C2-077",
+    "OBG-C2-078",
+    "OBG-C2-079",
+    "OBG-C2-080",
+    "OBG-C2-081",
+    "OBG-C2-082"
+   ]
+  },
+  {
+   "id": "OBG-U2-12",
+   "ch": 2,
+   "n": 12,
+   "title": "Antenatal Monitoring, Caloric & Nutrient Demands",
+   "sec": "Nutritional guidelines · p318-319",
+   "guide": "Recommended gestational weight gain is scaled to pre-pregnancy BMI: 11.5-16 kg for normal BMI, 12.5-18 kg for underweight, and 5-9 kg for obese mothers. Daily maternal energy demands increase by an average of +350 kcal/day (National guidelines: +85 in T1, +280 in T2, +470 in T3), accompanied by 1000 mg/day elemental calcium, 250 mcg/day iodine, and additional protein (+9.5g in T2, +22g in T3).",
+   "qs": [
+    "OBG-C2-083",
+    "OBG-C2-084",
+    "OBG-C2-085",
+    "OBG-C2-086",
+    "OBG-C2-087",
+    "OBG-C2-088"
+   ]
+  },
+  {
+   "id": "OBG-U2-13",
+   "ch": 2,
+   "n": 13,
+   "title": "Vaccines, Air Travel & Exercise in Pregnancy",
+   "sec": "Lifestyle and immunization rules · p319",
+   "guide": "Live attenuated vaccines (MMR, chickenpox, BCG) are contraindicated during pregnancy, with conception advised at least 1 month post-immunization; killed and mRNA vaccines are safe. Commercial air travel is generally safe up to 36 weeks of gestation in uncomplicated pregnancies. Moderate exercise (30-45 minutes walking daily) is recommended, while vigorous exertion is contraindicated in placenta previa, pre-eclampsia, and heart disease.",
+   "qs": [
+    "OBG-C2-089",
+    "OBG-C2-090",
+    "OBG-C2-091",
+    "OBG-C2-092",
+    "OBG-C2-093"
+   ]
+  },
+  {
+   "id": "OBG-U2-14",
+   "ch": 2,
+   "n": 14,
+   "title": "Morning Sickness, Hyperemesis Gravidarum & PUQE",
+   "sec": "Nausea, vomiting & PUQE score · p320-321",
+   "guide": "Morning sickness typically resolves by 12-16 weeks; first-line therapy is doxylamine (10 mg) combined with pyridoxine (10 mg). Hyperemesis gravidarum is characterized by intractable vomiting, >5% pre-pregnancy weight loss, ketonuria, and electrolyte disturbances. The Pregnancy-Unique Quantification of Emesis (PUQE) score stratifies severity; management centers on fluid resuscitation, antiemetics, and mandatory thiamine (vitamin B1) supplementation to prevent Wernicke's encephalopathy.",
+   "qs": [
+    "OBG-C2-094",
+    "OBG-C2-095",
+    "OBG-C2-096",
+    "OBG-C2-097",
+    "OBG-C2-098",
+    "OBG-C2-099"
+   ]
+  },
+  {
+   "id": "OBG-U2-15",
+   "ch": 2,
+   "n": 15,
+   "title": "Minor Ailments: Supine Hypotension, Varices & Neuropathies",
+   "sec": "Physiological complaints · p321-323",
+   "guide": "Supine hypotensive syndrome results from IVC compression by the gravid uterus causing reduced venous return, maternal hypotension, and tachycardia, promptly corrected by left lateral positioning. Progesterone-mediated smooth muscle relaxation and increased venous pressure produce lower limb varices, vulval varicosities, and hemorrhoids. Gestational fluid retention predisposes to compression neuropathies like carpal tunnel syndrome and Bell's palsy.",
+   "qs": [
+    "OBG-C2-100",
+    "OBG-C2-101",
+    "OBG-C2-102",
+    "OBG-C2-103",
+    "OBG-C2-104",
+    "OBG-C2-105",
+    "OBG-C2-106"
+   ]
+  },
+  {
+   "id": "OBG-U2-16",
+   "ch": 2,
+   "n": 16,
+   "title": "Early Ultrasound Landmarks & Gestational Structures",
+   "sec": "First trimester ultrasound · p324-325",
+   "guide": "Transvaginal sonography (TVS, 5-10 MHz) identifies gestational landmarks approximately one week earlier than transabdominal scans. The gestational sac appears as an eccentric, fluid-filled rim at 4.5-5 weeks, followed by the yolk sac at 5-5.5 weeks (mean sac diameter 10 mm), which definitively confirms intrauterine pregnancy and excludes an ectopic pseudogestational sac.",
+   "qs": [
+    "OBG-C2-107",
+    "OBG-C2-108",
+    "OBG-C2-109",
+    "OBG-C2-110",
+    "OBG-C2-111",
+    "OBG-C2-112"
+   ]
+  },
+  {
+   "id": "OBG-U2-17",
+   "ch": 2,
+   "n": 17,
+   "title": "Fetal Pole, Cardiac Activity & Missed Abortion Criteria",
+   "sec": "Embryonic landmarks & viability · p325-326",
+   "guide": "The embryonic fetal pole is visible by TVS at 5.5-6 weeks with cardiac flicker evident on M-mode (normal baseline 110-130 bpm at 6 weeks, peaking at 160-170 bpm at 8 weeks; <85 bpm signifies poor prognosis). Definitive criteria for missed abortion include a CRL >=7 mm without cardiac activity or a mean sac diameter (MSD) >=25 mm without an visible embryo.",
+   "qs": [
+    "OBG-C2-113",
+    "OBG-C2-114",
+    "OBG-C2-115",
+    "OBG-C2-116",
+    "OBG-C2-117",
+    "OBG-C2-118",
+    "OBG-C2-119"
+   ]
+  },
+  {
+   "id": "OBG-U2-18",
+   "ch": 2,
+   "n": 18,
+   "title": "Discriminatory hCG Titer & True vs Pseudogestational Sac",
+   "sec": "Biochemical and sonographic discrimination · p326",
+   "guide": "The discriminatory zone of beta-hCG is 1500-2000 mIU/mL for TVS and 6000-6500 mIU/mL for TAS; absence of an intrauterine sac above these titers strongly indicates an ectopic pregnancy. A true gestational sac is eccentrically located, exhibits a double decidual sign, and grows 1 mm/day, whereas a pseudogestational sac is centrally located, devoid of a yolk sac or double bleb sign, and lacks a double decidual contour.",
+   "qs": [
+    "OBG-C2-120",
+    "OBG-C2-121",
+    "OBG-C2-122",
+    "OBG-C2-123",
+    "OBG-C2-124",
+    "OBG-C2-125"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "sec": "Basics of pregnancy",
+   "page": 302,
+   "q": "In an obstetric patient with regular 28-day menstrual cycles, the clinical gestational age (menstrual age) of the pregnancy is calculated from:",
+   "opts": [
+    "The first day of the last menstrual period (LMP)",
+    "The estimated date of ovulation",
+    "The date of fertilization",
+    "The day of implantation"
+   ],
+   "ans": 0,
+   "exp": "Gestational age is calculated from the first day of the last normal menstrual period (LMP). (Book p302)",
+   "id": "OBG-C2-001"
+  },
+  {
+   "sec": "Basics of pregnancy",
+   "page": 302,
+   "q": "What is the standard numerical difference between gestational age (calculated from LMP) and true fertilization/fetal age?",
+   "opts": [
+    "Gestational age is 2 weeks greater than fetal age",
+    "Gestational age is 2 weeks less than fetal age",
+    "Gestational age is 1 week greater than fetal age",
+    "Gestational age is identical to fetal age"
+   ],
+   "ans": 0,
+   "exp": "Because fertilization typically occurs 2 weeks after the LMP in a 28-day cycle, gestational age = fetal age + 2 weeks. (Book p302)",
+   "id": "OBG-C2-002"
+  },
+  {
+   "sec": "Basics of pregnancy",
+   "page": 302,
+   "q": "Cardiac activity in the human conceptus typically initiates at 3 weeks after fertilization, which corresponds to which week of clinical gestational age?",
+   "opts": [
+    "5th week of gestational age",
+    "3rd week of gestational age",
+    "4th week of gestational age",
+    "6th week of gestational age"
+   ],
+   "ans": 0,
+   "exp": "Cardiac activity starts 3 weeks after fertilization, corresponding to the 5th week of gestational age (fetal age + 2 weeks). (Book p302)",
+   "id": "OBG-C2-003"
+  },
+  {
+   "sec": "Basics of pregnancy",
+   "page": 302,
+   "q": "According to standard obstetric definitions, the second trimester of pregnancy spans from:",
+   "opts": [
+    "14 weeks to 27 weeks + 6 days",
+    "12 weeks to 24 weeks",
+    "13 weeks to 26 weeks",
+    "16 weeks to 28 weeks + 6 days"
+   ],
+   "ans": 0,
+   "exp": "Trimester 1 spans LMP to 13 weeks + 6 days, Trimester 2 spans 14 weeks to 27 weeks + 6 days, and Trimester 3 spans 28 weeks to delivery. (Book p302)",
+   "id": "OBG-C2-004"
+  },
+  {
+   "id": "OBG-C2-005",
+   "sec": "Gestational age, trimesters & Naegele's rule",
+   "page": 302,
+   "q": "A 24-year-old woman with regular 28-day cycles is sure her last menstrual period started on 12 March 2026. Using Naegele's rule, what is her expected date of delivery?",
+   "opts": [
+    "19 December 2026",
+    "19 September 2026",
+    "5 December 2026",
+    "19 January 2027"
+   ],
+   "ans": 0,
+   "exp": "Naegele's rule adds 9 months and 7 days to the first day of the LMP: 12 March 2026 + 9 months + 7 days = 19 December 2026. (Book p302)",
+   "fmt": "scenario"
+  },
+  {
+   "sec": "Basics of pregnancy",
+   "page": 303,
+   "q": "Which of the following pregnancy milestones is calculated from the day of fertilization rather than the first day of the LMP?",
+   "opts": [
+    "Fetal growth periods (period of fertilized ovum, embryo, and fetus)",
+    "Estimated date of delivery (EDD) by Naegele's rule",
+    "First trimester ultrasound dating",
+    "Obstetrical score and viability assessment"
+   ],
+   "ans": 0,
+   "exp": "Fetal growth periods are the only pregnancy events calculated from the day of fertilization rather than the first day of the LMP. (Book p303)",
+   "id": "OBG-C2-006"
+  },
+  {
+   "sec": "Basics of pregnancy",
+   "page": 303,
+   "q": "In embryology, the embryonic period of development is strictly defined as spanning from:",
+   "opts": [
+    "3rd week to the end of the 8th/9th week after fertilization",
+    "Day of fertilization up to 2 weeks",
+    "9th week after fertilization up to birth",
+    "12th week to 24th week of gestational age"
+   ],
+   "ans": 0,
+   "exp": "The embryonic period extends from the 3rd week to the end of the 8th/9th week after fertilization, preceded by the period of the fertilized ovum (up to 2 weeks). (Book p303)",
+   "id": "OBG-C2-007"
+  },
+  {
+   "sec": "Basics of pregnancy",
+   "page": 303,
+   "q": "According to Naegele's formula for calculating the estimated date of delivery (EDD) in a regular 28-day cycle, one should add:",
+   "opts": [
+    "7 days to the first day of the LMP and add 9 calendar months",
+    "7 days to the last day of the LMP and add 9 calendar months",
+    "14 days to the first day of the LMP and add 9 calendar months",
+    "280 days from the day of missed period"
+   ],
+   "ans": 0,
+   "exp": "Naegele's formula adds 7 days to the 1st day of the LMP and then adds 9 months (or subtracts 3 months and adds 1 year and 7 days). (Book p303)",
+   "id": "OBG-C2-008"
+  },
+  {
+   "sec": "Basics of pregnancy",
+   "page": 303,
+   "q": "A pregnant woman reports an LMP of January 10th and has a regular menstrual cycle length of 35 days. What is her corrected EDD?",
+   "opts": [
+    "October 24th",
+    "October 17th",
+    "October 10th",
+    "November 7th"
+   ],
+   "ans": 0,
+   "exp": "For a 28-day cycle, EDD = Jan 10 + 7 days + 9 months = Oct 17. The cycle difference is 35 - 28 = +7 days. Adding 7 days gives October 24th. (Book p303)",
+   "id": "OBG-C2-009"
+  },
+  {
+   "sec": "Dating and fetal demise",
+   "page": 304,
+   "q": "In a pregnancy achieved via in vitro fertilization (IVF) with a Day 5 blastocyst embryo transfer, how is the EDD calculated?",
+   "opts": [
+    "Date of Day 5 transfer + 261 days",
+    "Date of Day 5 transfer + 263 days",
+    "Date of Day 5 transfer + 266 days",
+    "Date of Day 5 transfer + 280 days"
+   ],
+   "ans": 0,
+   "exp": "For Day 5 transfer, EDD = Date of transfer + 261 days (for Day 3 transfer, EDD = Date of transfer + 263 days; conception + 266 days). (Book p304)",
+   "id": "OBG-C2-010"
+  },
+  {
+   "sec": "Dating and fetal demise",
+   "page": 304,
+   "q": "According to ACOG definitions of term pregnancy, an infant delivered at 37 weeks + 4 days of gestation is classified as:",
+   "opts": [
+    "Early term",
+    "Full term",
+    "Late term",
+    "Preterm"
+   ],
+   "ans": 0,
+   "exp": "Early term is 37w0d to 38w6d; Full term is 39w0d to 40w6d; Late term is 41w0d to 41w6d; Post-term is >=42 weeks. (Book p304)",
+   "id": "OBG-C2-011"
+  },
+  {
+   "sec": "Dating and fetal demise",
+   "page": 304,
+   "q": "Under the WHO classification of preterm birth, a neonate born at 26 weeks of gestation is categorized as:",
+   "opts": [
+    "Extreme preterm birth (<28 weeks)",
+    "Very preterm birth (28 to <32 weeks)",
+    "Moderate preterm birth (32 to 33+6 weeks)",
+    "Late preterm birth (34 to 36+6 weeks)"
+   ],
+   "ans": 0,
+   "exp": "Extreme preterm is <28 weeks, very preterm is <32 weeks (or 28-31+6 wks), moderate PTB is 32-33+6 wks, and late PTB is 34-36+6 weeks. (Book p304)",
+   "id": "OBG-C2-012"
+  },
+  {
+   "id": "OBG-C2-013",
+   "sec": "ART dating, preterm categories & fetal death / IUD",
+   "page": 304,
+   "q": "Match the gestational band with its label — 1) Below 28 weeks 2) 34+0 to 36+6 weeks 3) 32+0 to 33+6 weeks … A) Late preterm (ACOG) B) Extreme preterm (WHO) C) Moderate preterm (WHO)",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "WHO calls <28 weeks extreme and 32-33 weeks moderate, while ACOG splits preterm into early (<34 weeks) and late (34+0 to 36+6 weeks). (Book p304)",
+   "fmt": "match"
+  },
+  {
+   "sec": "Dating and fetal demise",
+   "page": 305,
+   "q": "Intrauterine fetal death (IUD) / stillbirth is defined under standard obstetric criteria as fetal demise occurring at or beyond:",
+   "opts": [
+    ">= 20 weeks of gestation (or birth weight >= 500 g)",
+    ">= 12 weeks of gestation",
+    ">= 16 weeks of gestation",
+    ">= 24 weeks of gestation without weight criteria"
+   ],
+   "ans": 0,
+   "exp": "IUD/stillbirth is pregnancy loss at >=20 weeks (or birth weight >=500 g by WHO criteria; stillbirth >=28 weeks in India/WHO international comparisons). (Book p305)",
+   "id": "OBG-C2-014"
+  },
+  {
+   "sec": "Dating and fetal demise",
+   "page": 305,
+   "q": "What is the single most common identifiable cause of intrauterine fetal death (IUD)?",
+   "opts": [
+    "Unrecognized intrauterine growth restriction (IUGR)",
+    "Chromosomal trisomy 16",
+    "Rh isoimmunization",
+    "Gestational diabetes mellitus"
+   ],
+   "ans": 0,
+   "exp": "While idiopathic is common overall, unrecognized IUGR is the most common single identifiable cause of IUD. (Book p305)",
+   "id": "OBG-C2-015"
+  },
+  {
+   "sec": "Dating and fetal demise",
+   "page": 305,
+   "q": "On fetal ultrasound, the earliest sonographic sign of intrauterine fetal death is Robert's sign, which represents:",
+   "opts": [
+    "Gas/bubbles within the fetal great vessels and heart",
+    "Overlapping of skull bones due to cerebral liquefaction",
+    "Hyperflexion or hyperextension of the fetal spine",
+    "Crowding of the fetal ribs"
+   ],
+   "ans": 0,
+   "exp": "Robert's sign is the earliest sign of IUD, characterized by radiolucent gas bubbles in the fetal cardiac chambers and great vessels. (Book p305)",
+   "id": "OBG-C2-016"
+  },
+  {
+   "sec": "Dating and fetal demise",
+   "page": 305,
+   "q": "Spalding's sign on ultrasound or abdominal X-ray indicates fetal death and is characterized by:",
+   "opts": [
+    "Overlapping of the cranial vault bones due to liquefaction of brain tissue",
+    "Gas within the fetal abdominal wall",
+    "Abnormal angulation of the fetal extremities",
+    "Spine hyperextension in a circular configuration"
+   ],
+   "ans": 0,
+   "exp": "Spalding's sign is the collapse and overlapping of fetal skull bones occurring after intrauterine death due to loss of intracranial pressure. (Book p305)",
+   "id": "OBG-C2-017"
+  },
+  {
+   "sec": "Dating and fetal demise",
+   "page": 305,
+   "q": "A patient with a confirmed IUD retained for >4 weeks is at significant risk of developing which maternal complication?",
+   "opts": [
+    "Disseminated intravascular coagulation (DIC)",
+    "Uterine rupture",
+    "Amniotic fluid embolism",
+    "Septic pelvic thrombophlebitis"
+   ],
+   "ans": 0,
+   "exp": "Retention of a dead fetus for >=4 weeks releases thromboplastin from degenerating fetal-placental tissues into maternal circulation, precipitating DIC. (Book p305)",
+   "id": "OBG-C2-018"
+  },
+  {
+   "sec": "Obstetrical terminology",
+   "page": 306,
+   "q": "Gravidity is defined as the total number of times a female has conceived. In recording obstetrical history, the current pregnancy:",
+   "opts": [
+    "Is always included in the gravidity count",
+    "Is excluded from gravidity until viability is reached",
+    "Is only included if it has progressed past the first trimester",
+    "Is counted as parity, not gravidity"
+   ],
+   "ans": 0,
+   "exp": "Gravida is the total number of times a woman has been pregnant, including the current pregnancy regardless of gestational age. (Book p306)",
+   "id": "OBG-C2-019"
+  },
+  {
+   "sec": "Obstetrical terminology",
+   "page": 306,
+   "q": "In India, the legal/clinical threshold for the period of fetal viability is officially designated as:",
+   "opts": [
+    "28 completed weeks of gestation",
+    "20 completed weeks of gestation",
+    "24 completed weeks of gestation",
+    "22 completed weeks of gestation"
+   ],
+   "ans": 0,
+   "exp": "In India, the period of viability (beyond which a fetus is capable of independent extrauterine life) is designated as 28 weeks. (Book p306)",
+   "id": "OBG-C2-020"
+  },
+  {
+   "sec": "Obstetrical terminology",
+   "page": 306,
+   "q": "In the GTPAL obstetrical recording system (G-P a+b+c+d), the letters 'b' and 'c' represent:",
+   "opts": [
+    "Number of preterm deliveries (20-36w6d) and number of abortions (<20w)",
+    "Number of living children and number of abortions",
+    "Number of term deliveries and number of preterm deliveries",
+    "Number of stillbirths and number of ectopic gestations"
+   ],
+   "ans": 0,
+   "exp": "In GTPAL: a = term deliveries (>=37w), b = preterm deliveries (20-36w6d), c = abortions (<20w), and d = living children. (Book p306)",
+   "id": "OBG-C2-021"
+  },
+  {
+   "sec": "Obstetrical terminology",
+   "page": 306,
+   "q": "A woman has a history of one singleton delivery at 39 weeks, one twin delivery at 34 weeks (both babies healthy and alive), and one miscarriage at 8 weeks. What is her obstetrical score?",
+   "opts": [
+    "G3 P 1+1+1+3",
+    "G4 P 1+2+1+3",
+    "G3 P 1+2+1+2",
+    "G4 P 2+1+1+3"
+   ],
+   "ans": 0,
+   "exp": "She conceived 3 times (G3). Deliveries: 1 term (a=1), 1 twin delivery at 34w (counts as 1 preterm birth, b=1), 1 abortion (c=1), and 3 living children (d=3): G3 P 1+1+1+3. (Book p306)",
+   "id": "OBG-C2-022"
+  },
+  {
+   "id": "OBG-C2-023",
+   "sec": "Obstetrical score (GTPAL) & gravidity / parity",
+   "page": 306,
+   "q": "A woman's obstetric history is: one delivery at 39 weeks, one delivery at 33 weeks, two first-trimester miscarriages, and three living children because the term delivery was a twin pregnancy. How is she recorded?",
+   "opts": [
+    "G4 P1+1+2+3",
+    "G3 P1+1+1+3",
+    "G4 P2+1+1+3",
+    "G5 P1+1+2+3"
+   ],
+   "ans": 0,
+   "exp": "Gravidity counts every pregnancy (4); T counts term births (1, the twins count once), P counts the 33-week birth, A counts the two losses, and L counts three living children. (Book p306)",
+   "fmt": "scenario"
+  },
+  {
+   "sec": "Obstetrical terminology",
+   "page": 307,
+   "q": "By definition, a 'Grand multipara' is a woman who has:",
+   "opts": [
+    "Given birth 5 or more times",
+    "Given birth 2 or more times",
+    "Conceived 5 or more times regardless of outcome",
+    "Conceived 3 or more times"
+   ],
+   "ans": 0,
+   "exp": "A multipara has given birth >=2 times; a grand multipara has given birth >=5 times beyond the age of viability. (Book p307)",
+   "id": "OBG-C2-024"
+  },
+  {
+   "sec": "Obstetrical terminology",
+   "page": 307,
+   "q": "The term 'Elderly primigravida' is applied to a woman who:",
+   "opts": [
+    "Conceives for the first time at or above 35 years of age",
+    "Conceives for the first time at or above 30 years of age",
+    "Delivers for the second time above 40 years of age",
+    "Conceives via ART above 32 years of age"
+   ],
+   "ans": 0,
+   "exp": "An elderly primigravida is a woman who is pregnant for the very first time at >=35 years of age. (Book p307)",
+   "id": "OBG-C2-025"
+  },
+  {
+   "sec": "Clinical signs of pregnancy",
+   "page": 307,
+   "q": "Which of the following is considered the earliest probable sign of pregnancy detected on bimanual pelvic examination at 6 weeks?",
+   "opts": [
+    "Goodell's sign, softening of the cervix felt from about six weeks",
+    "Hegar's sign, softening of the lower uterine segment",
+    "Piskacek's sign, asymmetrical softening of the uterine cornu",
+    "Palmer's sign, rhythmic contraction of the uterus felt on examination"
+   ],
+   "ans": 0,
+   "exp": "Goodell's sign is the earliest probable sign on bimanual examination; Hegar's and Piskacek's follow a little later. (Book p307)",
+   "id": "OBG-C2-026"
+  },
+  {
+   "sec": "Clinical signs of pregnancy",
+   "page": 307,
+   "q": "Piskacek's sign observed during early pregnancy examination refers to:",
+   "opts": [
+    "Asymmetrical enlargement of the uterus due to eccentric implantation",
+    "Softening of the lower uterine segment/isthmus",
+    "Pulsations felt in the lateral vaginal fornix",
+    "Violet discoloration of the vulva"
+   ],
+   "ans": 0,
+   "exp": "Piskacek's sign is an asymmetrical enlargement and prominence of one uterine cornu due to eccentric blastocyst implantation. (Book p307)",
+   "id": "OBG-C2-027"
+  },
+  {
+   "sec": "Clinical signs of pregnancy",
+   "page": 307,
+   "q": "On pelvic examination at 8 weeks, palpation of pronounced vascular pulsations in the lateral vaginal fornices is known as:",
+   "opts": [
+    "Osiander's sign",
+    "Chadwick's sign",
+    "Goodell's sign",
+    "Palmer's sign"
+   ],
+   "ans": 0,
+   "exp": "Osiander's sign refers to marked pulsations felt in the lateral vaginal fornices due to increased blood flow in the descending vaginal branches of the uterine arteries. (Book p307)",
+   "id": "OBG-C2-028"
+  },
+  {
+   "sec": "Clinical signs of pregnancy",
+   "page": 307,
+   "q": "Hegar's sign, positive between 6 and 10 weeks of gestation, is elicited when:",
+   "opts": [
+    "The abdominal and vaginal examining fingers easily approximate each other through the softened, empty lower uterine isthmus",
+    "The cervix exhibits a velvety softening and purplish coloration",
+    "Rhythmic, painless uterine contractions are palpated",
+    "The uterine body can be separated from the adnexa on deep palpation"
+   ],
+   "ans": 0,
+   "exp": "Hegar's sign is present when bimanual examination detects a soft, compressible, and empty lower uterine isthmus between the cervix and the uterine corpus. (Book p307)",
+   "id": "OBG-C2-029"
+  },
+  {
+   "sec": "Clinical signs of pregnancy",
+   "page": 308,
+   "q": "Which of the following signs or symptoms provides definitive (positive) objective proof of pregnancy?",
+   "opts": [
+    "Demonstration of fetal cardiac activity on ultrasound",
+    "Amenorrhea accompanied by elevated serum beta-hCG",
+    "Maternal sensation of quickening at 18 weeks",
+    "Jacquemier's bluish mucosal discoloration"
+   ],
+   "ans": 0,
+   "exp": "Definitive/positive signs diagnostic of pregnancy include sonographic fetal cardiac activity, fetal heart sounds on auscultation, and palpable fetal parts by the examiner. (Book p308)",
+   "id": "OBG-C2-030"
+  },
+  {
+   "sec": "Clinical signs of pregnancy",
+   "page": 308,
+   "q": "Quickening—the maternal perception of initial fetal movements—is typically felt by a primigravida and a multigravida at:",
+   "opts": [
+    "18-20 weeks and 16-18 weeks, respectively",
+    "14-16 weeks and 12-14 weeks, respectively",
+    "20-22 weeks and 18-20 weeks, respectively",
+    "16-18 weeks and 18-20 weeks, respectively"
+   ],
+   "ans": 0,
+   "exp": "Quickening is perceived around 18-20 weeks in primigravidae and 16-18 weeks in multigravidae. (Book p308)",
+   "id": "OBG-C2-031"
+  },
+  {
+   "id": "OBG-C2-032",
+   "sec": "Symptoms, pelvic signs & diagnostic signs of pregnancy",
+   "page": 308,
+   "q": "Match the probable sign of pregnancy with what is felt or seen — 1) Goodell's sign 2) Hegar's sign 3) Palmer's sign … A) Softening of the uterus at the isthmus, so the cervix and body feel separate B) Rhythmic uterine contraction felt on bimanual examination C) Softening of the cervix, like touching the lips rather than the nose",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Goodell is cervical softening, Hegar is isthmic softening, and Palmer is the rhythmic contraction felt during bimanual examination. (Book p308)",
+   "fmt": "match"
+  },
+  {
+   "sec": "Clinical signs of pregnancy",
+   "page": 309,
+   "q": "At what gestational age can fetal heart sounds (FHS) be reliably detected using a hand-held Doppler device versus a conventional Pinard stethoscope?",
+   "opts": [
+    "10-12 weeks by Doppler and 18-20 weeks by stethoscope",
+    "6 weeks by Doppler and 12 weeks by stethoscope",
+    "14 weeks by Doppler and 24 weeks by stethoscope",
+    "16 weeks by Doppler and 20 weeks by stethoscope"
+   ],
+   "ans": 0,
+   "exp": "Hand-held Doppler detects FHS at 10-12 weeks, whereas a Pinard fetoscope/stethoscope detects FHS by 18-20 weeks. (Book p309)",
+   "id": "OBG-C2-033"
+  },
+  {
+   "sec": "Clinical signs of pregnancy",
+   "page": 309,
+   "q": "Internal ballottement can be elicited on vaginal examination starting at 16 weeks of gestation, whereas external ballottement becomes clinically apparent by:",
+   "opts": [
+    "20 weeks of gestation",
+    "12 weeks of gestation",
+    "28 weeks of gestation",
+    "32 weeks of gestation"
+   ],
+   "ans": 0,
+   "exp": "Internal ballottement is elicited per vaginam from 16 weeks, while external abdominal ballottement is evident by 20 weeks. (Book p309)",
+   "id": "OBG-C2-034"
+  },
+  {
+   "sec": "Fundal height landmarks",
+   "page": 308,
+   "q": "At approximately 12 weeks of gestation, the uterine fundus is palpated at which anatomical landmark?",
+   "opts": [
+    "At the upper border of the pubic symphysis",
+    "Midway between pubic symphysis and umbilicus",
+    "At the lower border of the umbilicus",
+    "It remains entirely an intrapelvic organ and cannot be felt"
+   ],
+   "ans": 0,
+   "exp": "At 12 weeks, the uterus ascends out of the pelvis and its fundus is palpable at the pubic symphysis. (Book p308)",
+   "id": "OBG-C2-035"
+  },
+  {
+   "sec": "Fundal height landmarks",
+   "page": 310,
+   "q": "On abdominal palpation of a pregnant woman, the uterine fundus is palpable precisely at the level of the umbilicus. What is the expected gestational age?",
+   "opts": [
+    "24 weeks",
+    "20 weeks",
+    "16 weeks",
+    "28 weeks"
+   ],
+   "ans": 0,
+   "exp": "The fundus reaches the lower border of the umbilicus at 20 weeks and the upper border of the umbilicus at 24 weeks. (Book p310)",
+   "id": "OBG-C2-036"
+  },
+  {
+   "sec": "Fundal height landmarks",
+   "page": 310,
+   "q": "At 36 weeks of gestation, the fundus of the uterus reaches its highest anatomical level at the:",
+   "opts": [
+    "Xiphisternum",
+    "Costal margin",
+    "Umbilicus",
+    "Two-thirds distance between umbilicus and xiphisternum"
+   ],
+   "ans": 0,
+   "exp": "The fundal height reaches the xiphisternum at 36 weeks, causing maximal maternal breathlessness. (Book p310)",
+   "id": "OBG-C2-037"
+  },
+  {
+   "sec": "Fundal height landmarks",
+   "page": 310,
+   "q": "At 40 weeks of gestation, the fundal height appears identical to that at 32 weeks (two-thirds between umbilicus and xiphisternum). This phenomenon is termed:",
+   "opts": [
+    "Lightening ('welcome sign') due to engagement of the fetal head",
+    "Uteroplacental insufficiency",
+    "Pathological oligohydramnios",
+    "Engagement arrest"
+   ],
+   "ans": 0,
+   "exp": "At 40 weeks, descent and engagement of the fetal head into the maternal pelvic inlet lowers the fundal height to 32-week level, providing respiratory relief (lightening). (Book p310)",
+   "id": "OBG-C2-038"
+  },
+  {
+   "sec": "Fundal height landmarks",
+   "page": 310,
+   "q": "How can an examiner clinically differentiate a 40-week pregnancy from a 32-week pregnancy when both present with the fundus at the same anatomical level?",
+   "opts": [
+    "At 40 weeks the fetal head is engaged in the pelvis and the flanks are full",
+    "At 32 weeks the fetal head is deeply engaged in the pelvis",
+    "At 40 weeks the flanks are entirely empty and narrow",
+    "At 32 weeks there is marked pelvic lightening"
+   ],
+   "ans": 0,
+   "exp": "At 40 weeks, the fetal head is engaged/felt on deep pelvic palpation and flanks are full; at 32 weeks the head is not engaged and flanks are empty. (Book p310)",
+   "id": "OBG-C2-039"
+  },
+  {
+   "sec": "Fundal height landmarks",
+   "page": 310,
+   "q": "A discrepancy between fundal height and gestational age is considered clinically significant and warrants ultrasound evaluation when it equals or exceeds:",
+   "opts": [
+    ">= 3 cm or >= 3 weeks",
+    ">= 1 cm or >= 1 week",
+    ">= 5 cm or >= 5 weeks",
+    ">= 6 cm or >= 6 weeks"
+   ],
+   "ans": 0,
+   "exp": "A discrepancy of >=3 cm (or >=3 weeks) between fundal height and period of gestation indicates a pathological cause and mandates ultrasound. (Book p310)",
+   "id": "OBG-C2-040"
+  },
+  {
+   "sec": "Fundal height landmarks",
+   "page": 310,
+   "q": "Which of the following clinical conditions causes fundal height to be significantly LESS than the calculated gestational age?",
+   "opts": [
+    "Intrauterine growth restriction (IUGR)",
+    "Multiple twin gestation",
+    "Polyhydramnios",
+    "Concealed variety of abruptio placentae"
+   ],
+   "ans": 0,
+   "exp": "Fundal height < gestational age is seen in IUGR, oligohydramnios, transverse lie, wrong dates, and IUD. (Book p310)",
+   "id": "OBG-C2-041"
+  },
+  {
+   "id": "OBG-C2-042",
+   "sec": "Uterine growth, fundal height & discrepancies",
+   "page": 310,
+   "q": "Fill up: The uterine fundus reaches the umbilicus at about ______ weeks and the xiphisternum at about ______ weeks.",
+   "opts": [
+    "24; 36",
+    "20; 36",
+    "24; 40",
+    "16; 32"
+   ],
+   "ans": 0,
+   "exp": "The fundus is at the umbilicus around 24 weeks and at the xiphisternum around 36 weeks, then drops as the head engages. (Book p310)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Cord anatomy and hemodynamics",
+   "page": 311,
+   "q": "What is the normal average length and physiological range of the human umbilical cord at term?",
+   "opts": [
+    "Average 55 cm (range 40-70 cm)",
+    "Average 30 cm (range 20-40 cm)",
+    "Average 85 cm (range 70-110 cm)",
+    "Average 100 cm (range 80-120 cm)"
+   ],
+   "ans": 0,
+   "exp": "Normal cord length is 40-70 cm (average ~55 cm); <30-32 cm is short cord, and >70-100 cm is long cord. (Book p311)",
+   "id": "OBG-C2-043"
+  },
+  {
+   "sec": "Cord anatomy and hemodynamics",
+   "page": 311,
+   "q": "At term, the umbilical cord normally contains which vascular arrangement enclosed within Wharton's jelly?",
+   "opts": [
+    "Two umbilical arteries and one left umbilical vein",
+    "One umbilical artery and two umbilical veins",
+    "Two umbilical arteries and two umbilical veins",
+    "One umbilical artery and one left umbilical vein"
+   ],
+   "ans": 0,
+   "exp": "The term cord contains 3 vessels: two umbilical arteries carrying deoxygenated blood to the placenta, and one left umbilical vein. (Book p311)",
+   "id": "OBG-C2-044"
+  },
+  {
+   "sec": "Cord anatomy and hemodynamics",
+   "page": 311,
+   "q": "The anatomical anastomosis that connects the two umbilical arteries just prior to their placental insertion is named the:",
+   "opts": [
+    "Hyrtl anastomosis",
+    "Arantius anastomosis",
+    "Vieussens anastomosis",
+    "Botallo shunt"
+   ],
+   "ans": 0,
+   "exp": "The Hyrtl anastomosis connects the two umbilical arteries approximately 1-2 cm from the placental insertion, equalizing pressures. (Book p311)",
+   "id": "OBG-C2-045"
+  },
+  {
+   "sec": "Cord anatomy and hemodynamics",
+   "page": 311,
+   "q": "Which vessel in the feto-placental circulation carries fully oxygenated blood from the placenta to the developing fetus?",
+   "opts": [
+    "Umbilical vein (low resistance, low pressure)",
+    "Umbilical artery (high resistance, high pressure)",
+    "Ductus arteriosus",
+    "Vitelline artery"
+   ],
+   "ans": 0,
+   "exp": "The umbilical vein carries oxygenated blood from the placenta to the fetus under low resistance and low pressure. (Book p311)",
+   "id": "OBG-C2-046"
+  },
+  {
+   "id": "OBG-C2-047",
+   "sec": "Umbilical cord architecture & Doppler waveforms",
+   "page": 311,
+   "q": "Which of the following statements about the umbilical cord and its Doppler waveform is TRUE?",
+   "opts": [
+    "Two arteries carry deoxygenated fetal blood away, and the single vein returns oxygenated blood to the fetus",
+    "Two veins carry oxygenated blood to the fetus, and the single artery returns deoxygenated blood",
+    "End-diastolic flow is normally absent in the umbilical artery until about 28 weeks of gestation",
+    "The umbilical artery Doppler systolic-diastolic ratio falls steadily because placental resistance rises with gestation"
+   ],
+   "ans": 0,
+   "exp": "The cord has two umbilical arteries and one vein; end-diastolic flow appears well before 28 weeks and placental resistance falls with gestation. (Book p311)",
+   "fmt": "truefalse"
+  },
+  {
+   "sec": "Cord anatomy and hemodynamics",
+   "page": 312,
+   "q": "As normal gestation advances towards term, how do the resistance and diastolic flow within the umbilical artery Doppler waveform evolve?",
+   "opts": [
+    "Placental vascular resistance decreases and end-diastolic flow increases",
+    "Placental vascular resistance increases and end-diastolic flow decreases",
+    "Systolic-to-diastolic (S/D) ratio progressively increases",
+    "Pulsatility index steadily rises above 4.0"
+   ],
+   "ans": 0,
+   "exp": "With advancing gestation, tertiary villous branching lowers placental vascular resistance, causing diastolic flow to increase and S/D ratio to decrease. (Book p312)",
+   "id": "OBG-C2-048"
+  },
+  {
+   "sec": "Cord anatomy and hemodynamics",
+   "page": 312,
+   "q": "In normal third-trimester pregnancies, the umbilical artery systolic-to-diastolic (S/D) ratio should normally measure:",
+   "opts": [
+    "< 3.0",
+    "> 4.0",
+    "Between 4.5 and 5.5",
+    "> 6.0"
+   ],
+   "ans": 0,
+   "exp": "A normal umbilical artery S/D ratio at and beyond 30 weeks is <3.0; an S/D ratio >=3.0 indicates increased placental vascular resistance. (Book p312)",
+   "id": "OBG-C2-049"
+  },
+  {
+   "sec": "Doppler abnormalities",
+   "page": 312,
+   "q": "In uteroplacental insufficiency (UPI) associated with pre-eclampsia, what primary hemodynamic change occurs in the umbilical artery Doppler?",
+   "opts": [
+    "Vasoconstriction raises resistance, resulting in decreased end-diastolic flow and S/D ratio >= 3",
+    "Vasodilation increases end-diastolic flow and lowers resistance",
+    "Complete absence of systolic forward flow",
+    "Sudden reversal of flow within the umbilical vein"
+   ],
+   "ans": 0,
+   "exp": "Placental vasoconstriction and obliterative vasculopathy increase resistance, reducing diastolic flow and elevating S/D ratio >=3. (Book p312)",
+   "id": "OBG-C2-050"
+  },
+  {
+   "sec": "Doppler abnormalities",
+   "page": 313,
+   "q": "When absent end-diastolic flow (AEDF) is identified on umbilical artery Doppler in a growth-restricted fetus, delivery is recommended at:",
+   "opts": [
+    "33 to 34 weeks of gestation (after steroid coverage)",
+    "37 to 38 weeks of gestation",
+    "30 to 32 weeks of gestation",
+    "Immediate termination irrespective of gestational age"
+   ],
+   "ans": 0,
+   "exp": "AEDF warrants admission, steroid coverage, close monitoring, and planned delivery at 33-34 weeks of gestation. (Book p313)",
+   "id": "OBG-C2-051"
+  },
+  {
+   "sec": "Doppler abnormalities",
+   "page": 313,
+   "q": "When reversed end-diastolic flow (REDF) is detected on umbilical artery Doppler, pregnancy termination/delivery is recommended at:",
+   "opts": [
+    "30 to 32 weeks of gestation",
+    "34 to 36 weeks of gestation",
+    "37 to 38 weeks of gestation",
+    "26 to 28 weeks without steroid therapy"
+   ],
+   "ans": 0,
+   "exp": "REDF indicates extreme placental resistance with impending fetal death; delivery is indicated at 30-32 weeks following corticosteroid administration. (Book p313)",
+   "id": "OBG-C2-052"
+  },
+  {
+   "sec": "Doppler abnormalities",
+   "page": 313,
+   "q": "Why is Middle Cerebral Artery (MCA) Doppler NOT utilized to diagnose intrauterine growth restriction (IUGR)?",
+   "opts": [
+    "Due to the 'brain-sparing effect' which causes compensatory cerebral vasodilation",
+    "Because MCA blood flow is absent in early pregnancy",
+    "Because MCA resistance always equals umbilical artery resistance",
+    "Because fetal movements prevent MCA insonation"
+   ],
+   "ans": 0,
+   "exp": "In hypoxia, the brain-sparing effect vasodilates the MCA to protect vital cerebral circulation; thus MCA Doppler is normal or hyperdynamic in early UPI. (Book p313)",
+   "id": "OBG-C2-053"
+  },
+  {
+   "sec": "Doppler abnormalities",
+   "page": 313,
+   "q": "What is the primary clinical indication for measuring the Middle Cerebral Artery (MCA) Peak Systolic Velocity (PSV)?",
+   "opts": [
+    "Non-invasive detection of moderate-to-severe fetal anemia (PSV >= 1.5 MoM)",
+    "Assessment of fetal renal agenesis",
+    "Diagnosis of macrosomia in diabetic mothers",
+    "Measurement of maternal pre-eclampsia severity"
+   ],
+   "ans": 0,
+   "exp": "In fetal anemia (Rh alloimmunization, Parvovirus B19), hyperdynamic circulation increases MCA-PSV >=1.5 MoM, making it the non-invasive test of choice. (Book p313)",
+   "id": "OBG-C2-054"
+  },
+  {
+   "id": "OBG-C2-055",
+   "sec": "Abnormal Doppler: UPI, AEDF, REDF & MCA Doppler",
+   "page": 313,
+   "q": "At 34 weeks a growth-restricted fetus has absent end-diastolic flow in the umbilical artery, a middle cerebral artery Doppler showing brain sparing and a normal CTG. What is the appropriate next step?",
+   "opts": [
+    "Give antenatal corticosteroids and plan delivery, as absent end-diastolic flow at 34 weeks is an indication",
+    "Repeat the Doppler in two weeks and continue the pregnancy to 38 weeks",
+    "Perform immediate caesarean section within thirty minutes for suspected fetal acidosis",
+    "Admit for bed rest and discharge once the middle cerebral artery Doppler normalises"
+   ],
+   "ans": 0,
+   "exp": "Absent end-diastolic flow at or beyond 34 weeks is an indication for delivery after steroids; reversal of end-diastolic flow is even more urgent. (Book p313)",
+   "fmt": "scenario"
+  },
+  {
+   "sec": "Doppler abnormalities",
+   "page": 314,
+   "q": "In severe fetal anemia due to Rh isoimmunization or Parvovirus B19, which heart rate pattern is characteristically observed on cardiotocography (CTG)?",
+   "opts": [
+    "Sinusoidal fetal heart rate pattern",
+    "Severe variable decelerations with shoulders",
+    "Early decelerations coinciding with contractions",
+    "Persistent marked tachycardia without loss of variability"
+   ],
+   "ans": 0,
+   "exp": "A sinusoidal heart rate pattern (smooth sine wave with 2-5 cycles/min, amplitude 5-15 bpm) is pathognomonic of severe fetal anemia. (Book p314)",
+   "id": "OBG-C2-056"
+  },
+  {
+   "sec": "Cord abnormalities & monitoring",
+   "page": 314,
+   "q": "Single umbilical artery (SUA) is the most common vascular anomaly of the cord. The most commonly associated fetal organ systems affected are:",
+   "opts": [
+    "Renal (genitourinary) and cardiovascular systems",
+    "Central nervous system and musculoskeletal",
+    "Gastrointestinal and pulmonary systems",
+    "Integumentary and ophthalmic systems"
+   ],
+   "ans": 0,
+   "exp": "SUA is most frequently associated with renal malformations, followed by major cardiovascular anomalies. (Book p314)",
+   "id": "OBG-C2-057"
+  },
+  {
+   "sec": "Cord abnormalities & monitoring",
+   "page": 314,
+   "q": "When a single umbilical artery (SUA) is diagnosed on prenatal ultrasound, what is the protocol regarding fetal karyotyping?",
+   "opts": [
+    "Karyotyping is indicated only if associated gross congenital anomalies are present",
+    "Karyotyping is mandatory in every isolated SUA",
+    "Immediate chorionic villus sampling is required in all cases",
+    "Karyotyping is never indicated for cord vascular defects"
+   ],
+   "ans": 0,
+   "exp": "If gross congenital anomalies (GCA) are detected alongside SUA, karyotyping is indicated; isolated SUA does not require karyotyping. (Book p314)",
+   "id": "OBG-C2-058"
+  },
+  {
+   "sec": "Cord abnormalities & monitoring",
+   "page": 314,
+   "q": "Which of the following maternal factors significantly predisposes to the development of a single umbilical artery (SUA)?",
+   "opts": [
+    "Twin pregnancy and maternal diabetes mellitus",
+    "Multiparity and low socioeconomic status",
+    "Hypothyroidism and teenage pregnancy",
+    "Maternal asthma and Rh negativity"
+   ],
+   "ans": 0,
+   "exp": "Twin pregnancy and pre-existing maternal diabetes mellitus are established predisposing factors for single umbilical artery. (Book p314)",
+   "id": "OBG-C2-059"
+  },
+  {
+   "sec": "Cord abnormalities & monitoring",
+   "page": 314,
+   "q": "In all high-risk pregnancies, routine antepartum fetal surveillance (NST, BPP, growth scans) should routinely be initiated at:",
+   "opts": [
+    "32 weeks of gestation",
+    "24 weeks of gestation",
+    "28 weeks of gestation",
+    "37 weeks of gestation"
+   ],
+   "ans": 0,
+   "exp": "In high-risk pregnancies, antepartum fetal monitoring with NST and BPP is recommended starting from 32 weeks of gestation. (Book p314)",
+   "id": "OBG-C2-060"
+  },
+  {
+   "sec": "Cord abnormalities & monitoring",
+   "page": 314,
+   "q": "On CTG interpretation, late decelerations reflect uteroplacental insufficiency, whereas variable decelerations characteristically indicate:",
+   "opts": [
+    "Umbilical cord compression",
+    "Fetal head compression by the cervix",
+    "Maternal hypotension from supine positioning",
+    "Fetal sleep state"
+   ],
+   "ans": 0,
+   "exp": "Variable decelerations are triggered by umbilical cord compression, whereas early decelerations reflect head compression and late decelerations reflect UPI. (Book p314)",
+   "id": "OBG-C2-061"
+  },
+  {
+   "id": "OBG-C2-062",
+   "sec": "Single umbilical artery & fetal surveillance",
+   "page": 314,
+   "q": "All of the following are classically associated with a single umbilical artery EXCEPT:",
+   "opts": [
+    "Trisomy 21",
+    "Trisomy 18",
+    "Renal agenesis",
+    "Fetal growth restriction"
+   ],
+   "ans": 0,
+   "exp": "A single umbilical artery is linked to trisomy 18, renal and cardiac anomalies and growth restriction; the association with trisomy 21 is weak. (Book p314)",
+   "fmt": "oddoneout"
+  },
+  {
+   "sec": "Antenatal schedule and workup",
+   "page": 315,
+   "q": "What is the minimum number of antenatal contacts recommended by the World Health Organization (WHO 2016 model) for a positive pregnancy experience?",
+   "opts": [
+    "8 visits/contacts",
+    "4 visits/contacts",
+    "6 visits/contacts",
+    "12 to 15 visits/contacts"
+   ],
+   "ans": 0,
+   "exp": "The WHO recommends a minimum of 8 antenatal contacts (1 in T1, 2 in T2, and 5 in T3). (Book p315)",
+   "id": "OBG-C2-063"
+  },
+  {
+   "sec": "Antenatal schedule and workup",
+   "page": 315,
+   "q": "According to the Government of India (RCH) guidelines, what is the minimum mandatory number and schedule of antenatal visits?",
+   "opts": [
+    "4 visits: 1st <12w, 2nd 14-26w, 3rd 28-34w, 4th 36w to term",
+    "3 visits: one in each trimester",
+    "6 visits: every 6 weeks starting at 12 weeks",
+    "5 visits: 1st <10w, 2nd 16w, 3rd 24w, 4th 32w, 5th 38w"
+   ],
+   "ans": 0,
+   "exp": "The GOI mandates at least 4 visits: 1st within 12w, 2nd at 14-26w, 3rd at 28-34w, and 4th at 36w to term. (Book p315)",
+   "id": "OBG-C2-064"
+  },
+  {
+   "sec": "Antenatal schedule and workup",
+   "page": 315,
+   "q": "At the first antenatal visit, HIV screening is conducted under an 'opt-out' approach. What are the screening and confirmatory tests, respectively?",
+   "opts": [
+    "Screening by ELISA, confirmatory by Western blot",
+    "Screening by Western blot, confirmatory by PCR",
+    "Screening by rapid card test, confirmatory by CD4 count",
+    "Screening by PCR, confirmatory by ELISA"
+   ],
+   "ans": 0,
+   "exp": "HIV screening is done with ELISA/rapid immunoassay; confirmatory testing is performed with Western blot or second dual ELISA. (Book p315)",
+   "id": "OBG-C2-065"
+  },
+  {
+   "sec": "Antenatal schedule and workup",
+   "page": 315,
+   "q": "Hepatitis B surface antigen (HBsAg) testing is performed at the initial antenatal booking visit:",
+   "opts": [
+    "In all pregnant women, regardless of prior vaccination status",
+    "Only in women with a history of jaundice or tattooing",
+    "Only if the partner is known to be HBsAg positive",
+    "Only in unvaccinated women"
+   ],
+   "ans": 0,
+   "exp": "Universal screening for HBsAg is mandatory in every pregnant woman regardless of her previous Hepatitis B vaccination status. (Book p315)",
+   "id": "OBG-C2-066"
+  },
+  {
+   "id": "OBG-C2-067",
+   "sec": "Antenatal care schedules, mandatory & optional labs",
+   "page": 315,
+   "q": "Which of the following statements about antenatal laboratory testing is TRUE?",
+   "opts": [
+    "Blood grouping with Rh typing and an indirect Coombs test at booking identify who needs anti-D prophylaxis",
+    "A 75 g oral glucose tolerance test is mandatory at the first visit in every pregnancy",
+    "Serum alpha-fetoprotein at 16 weeks is a mandatory investigation in every antenatal clinic",
+    "Urine culture is recommended at every antenatal visit for all pregnant women"
+   ],
+   "ans": 0,
+   "exp": "Grouping, Rh typing and the indirect Coombs test are mandatory at booking; the GTT is done at 24-28 weeks and AFP screening is optional. (Book p315)",
+   "fmt": "truefalse"
+  },
+  {
+   "sec": "Antenatal schedule and workup",
+   "page": 316,
+   "q": "Rubella susceptibility screening in pregnancy checks for IgG and IgM antibodies. If a woman is found to be IgG-negative and IgM-negative, the correct management is:",
+   "opts": [
+    "Vaccinate with MMR immediately after delivery, as the live vaccine is contraindicated in pregnancy",
+    "Administer MMR vaccine immediately in the first trimester",
+    "Administer rubella vaccine at 28 weeks of gestation",
+    "Reassure that she is immune and no action is required"
+   ],
+   "ans": 0,
+   "exp": "Negative IgG and IgM indicate susceptibility. MMR is a live attenuated vaccine contraindicated in pregnancy; immunization is given postpartum. (Book p316)",
+   "id": "OBG-C2-068"
+  },
+  {
+   "sec": "Antenatal schedule and workup",
+   "page": 316,
+   "q": "According to ACOG guidelines, universal screening for Group B Streptococcus (GBS) colonization is performed using a rectovaginal swab at:",
+   "opts": [
+    "35 to 37 weeks of gestation",
+    "24 to 28 weeks of gestation",
+    "First antenatal visit",
+    "During active labor only"
+   ],
+   "ans": 0,
+   "exp": "Universal GBS screening is performed at 35-37 weeks using a lower vaginal and rectal swab to direct intrapartum antibiotic prophylaxis. (Book p316)",
+   "id": "OBG-C2-069"
+  },
+  {
+   "sec": "Immunization & risk stratification",
+   "page": 316,
+   "q": "Under the National Immunization Schedule in India, the recommended tetanus and adult diphtheria (Td) toxoid schedule in pregnancy is:",
+   "opts": [
+    "Td-1 at first contact, followed by Td-2 after 4 weeks",
+    "Single dose of Td at 36 weeks",
+    "Three doses of Td spaced 1 month apart",
+    "Td-1 at 20 weeks and Td-2 at 36 weeks"
+   ],
+   "ans": 0,
+   "exp": "Two doses of Td are given 4 weeks apart (Td-1 as early as possible, Td-2 four weeks later). (Book p316)",
+   "id": "OBG-C2-070"
+  },
+  {
+   "sec": "Immunization & risk stratification",
+   "page": 316,
+   "q": "If a pregnant woman received full, documented Td immunization during a previous pregnancy 2 years ago, what is indicated in her current pregnancy?",
+   "opts": [
+    "Only a single Td booster dose during the current pregnancy",
+    "Two complete doses of Td spaced 4 weeks apart",
+    "No tetanus immunization is needed for 5 years",
+    "Administration of tetanus immunoglobulin (TIG) only"
+   ],
+   "ans": 0,
+   "exp": "If a woman received complete Td vaccination within the preceding 3 years, only a single Td booster dose is required. (Book p316)",
+   "id": "OBG-C2-071"
+  },
+  {
+   "sec": "Immunization & risk stratification",
+   "page": 316,
+   "q": "According to ACOG guidelines, a single dose of Tdap (tetanus, reduced diphtheria, and acellular pertussis) vaccine should be administered during:",
+   "opts": [
+    "27 to 36 weeks of gestation in every pregnancy",
+    "First trimester before 12 weeks",
+    "Immediately postpartum",
+    "Only if the mother has an open dirty wound"
+   ],
+   "ans": 0,
+   "exp": "Tdap is recommended between 27 and 36 weeks of gestation in each pregnancy to optimize transplacental maternal pertussis antibody transfer. (Book p316)",
+   "id": "OBG-C2-072"
+  },
+  {
+   "sec": "Immunization & risk stratification",
+   "page": 316,
+   "q": "On the antenatal Mother and Child Protection (MCP) card, what color sticker represents high risk factors present?",
+   "opts": [
+    "Red",
+    "Green",
+    "Blue",
+    "Yellow"
+   ],
+   "ans": 0,
+   "exp": "Under MCP card color-coding: Green = no risk factors, Red = high risk factors present (Blue = PIH, Yellow = GDM/comorbidity). (Book p316)",
+   "id": "OBG-C2-073"
+  },
+  {
+   "id": "OBG-C2-074",
+   "sec": "Td/Tdap vaccines, risk coding & alert signs",
+   "page": 316,
+   "q": "Match the vaccine with its recommendation in pregnancy — 1) MMR 2) Tdap 3) Yellow fever … A) Contraindicated, being live attenuated B) Given once in every pregnancy, preferably 27-36 weeks C) Avoided in pregnancy unless travel to an endemic area is unavoidable",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Live vaccines such as MMR are contraindicated, Tdap is given once each pregnancy, and yellow fever is only used when travel risk outweighs fetal risk. (Book p316)",
+   "fmt": "match"
+  },
+  {
+   "sec": "Immunization & risk stratification",
+   "page": 317,
+   "q": "Under the Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA, held on the 9th of every month), pregnant women flagged with a RED sticker are advised:",
+   "opts": [
+    "At least 3 additional specialist antenatal visits",
+    "Immediate hospitalization until delivery",
+    "Elective Caesarean section at 36 weeks",
+    "No further routine visits"
+   ],
+   "ans": 0,
+   "exp": "PMSMA flags high-risk pregnancies with a red sticker and advises 3 additional antenatal visits by obstetricians. (Book p317)",
+   "id": "OBG-C2-075"
+  },
+  {
+   "sec": "Immunization & risk stratification",
+   "page": 317,
+   "q": "Which of the following maternal complaints is recognized as an obstetric alert symptom requiring emergency hospital evaluation?",
+   "opts": [
+    "Fever >= 38°C for >= 24 hours or sudden blurring of vision",
+    "Mild morning nausea subsiding by noon",
+    "Increased urinary frequency in the first trimester",
+    "Pigmentation along the linea alba"
+   ],
+   "ans": 0,
+   "exp": "Alert danger signs include fever >=38°C for >=24h, persistent vomiting, severe headache/blurring of vision, vaginal bleeding/fluid leak, and reduced fetal movement. (Book p317)",
+   "id": "OBG-C2-076"
+  },
+  {
+   "sec": "Nutritional supplementation",
+   "page": 317,
+   "q": "To prevent primary neural tube defects (NTD), the recommended periconceptional prophylactic dose of folic acid for a low-risk woman is:",
+   "opts": [
+    "400 mcg/day starting at least 1 month before conception through the first trimester",
+    "4 mg/day starting at 12 weeks of gestation",
+    "5 mg/day throughout all three trimesters",
+    "100 mcg/day starting after positive urine pregnancy test"
+   ],
+   "ans": 0,
+   "exp": "Low-risk women require 400 mcg/day of folic acid starting at least 1 month prior to conception and continued through the first 3 months. (Book p317)",
+   "id": "OBG-C2-077"
+  },
+  {
+   "sec": "Nutritional supplementation",
+   "page": 317,
+   "q": "A woman with a history of a previous infant affected by spina bifida desires another pregnancy. What dose of folic acid should she receive?",
+   "opts": [
+    "4 mg/day (therapeutic dose) starting >=3 months before conception through the first trimester",
+    "400 mcg/day starting from the day of missed period",
+    "1 mg/day starting from 14 weeks",
+    "500 mcg/day taken with breakfast"
+   ],
+   "ans": 0,
+   "exp": "To prevent recurrence of NTD, high-risk women should take 4-5 mg/day of folic acid starting at least 3 months pre-conceptually through 12 weeks. (Book p317)",
+   "id": "OBG-C2-078"
+  },
+  {
+   "sec": "Nutritional supplementation",
+   "page": 317,
+   "q": "Under the Anemia Mukt Bharat programme (I-NIPI), what are the constituents of the daily red IFA tablet provided to pregnant women from the 4th month?",
+   "opts": [
+    "60 mg elemental iron + 500 mcg folic acid",
+    "100 mg elemental iron + 1 mg folic acid",
+    "30 mg elemental iron + 400 mcg folic acid",
+    "200 mg elemental iron + 5 mg folic acid"
+   ],
+   "ans": 0,
+   "exp": "The red IFA tablet contains 60 mg elemental iron (as ferrous sulfate) and 500 mcg folic acid. (Book p317)",
+   "id": "OBG-C2-079"
+  },
+  {
+   "sec": "Nutritional supplementation",
+   "page": 317,
+   "q": "For how long should prophylactic IFA supplementation be continued during pregnancy and after childbirth?",
+   "opts": [
+    "For at least 180 days during pregnancy plus 180 days postpartum",
+    "For 90 days during pregnancy only",
+    "From 20 weeks until delivery only",
+    "Until the hemoglobin reaches 12 g/dL"
+   ],
+   "ans": 0,
+   "exp": "IFA is taken for 180 days during pregnancy (from the 2nd trimester) and continued for 180 days postpartum to replenish iron stores. (Book p317)",
+   "id": "OBG-C2-080"
+  },
+  {
+   "sec": "Nutritional supplementation",
+   "page": 317,
+   "q": "What is the recommended therapeutic dosage of IFA tablets for a pregnant female diagnosed with nutritional iron deficiency anemia?",
+   "opts": [
+    "2 IFA tablets per day (120 mg elemental iron)",
+    "1 IFA tablet every alternate day",
+    "4 IFA tablets per day with meals",
+    "1 IFA tablet per week"
+   ],
+   "ans": 0,
+   "exp": "For treating established anemia in pregnancy, the dose is doubled to 2 IFA tablets daily (total 120 mg elemental iron). (Book p317)",
+   "id": "OBG-C2-081"
+  },
+  {
+   "id": "OBG-C2-082",
+   "sec": "Folic acid prophylaxis & IFA / Anemia Mukt Bharat",
+   "page": 317,
+   "q": "Fill up: Periconceptional folic acid ______ mg daily reduces neural tube defects and should be started ______.",
+   "opts": [
+    "5; at the first antenatal visit",
+    "0.4; only after 12 weeks",
+    "0.4; at least three months before conception",
+    "5; from 20 weeks onwards"
+   ],
+   "ans": 2,
+   "exp": "Standard prophylaxis is 0.4 mg (400 microgram) started at least three months before conception; 4-5 mg is reserved for women with a previously affected child. (Book p317)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Nutritional guidelines",
+   "page": 318,
+   "q": "Between 24 and 28 weeks of gestation, which laboratory investigations are specifically recommended for repeat screening?",
+   "opts": [
+    "Hemoglobin/hematocrit, GDM screening (DIPSI), and Indirect Coombs test if Rh-negative",
+    "Thyroid profile, rubella IgG, and toxoplasma serology",
+    "Triple test and Quadruple test",
+    "Nuchal translucency and ductus venosus Doppler"
+   ],
+   "ans": 0,
+   "exp": "Between 24-28 weeks: repeat Hb/Hct, oral glucose tolerance test (DIPSI) for GDM, and Indirect Coombs test in Rh-negative mothers at 28w. (Book p318)",
+   "id": "OBG-C2-083"
+  },
+  {
+   "sec": "Nutritional guidelines",
+   "page": 318,
+   "q": "According to the Institute of Medicine (IOM) guidelines, what is the recommended total gestational weight gain for a woman with a normal pre-pregnancy BMI (18.5-24.9)?",
+   "opts": [
+    "11.5 to 16 kg",
+    "12.5 to 18 kg",
+    "7 to 11.5 kg",
+    "5 to 9 kg"
+   ],
+   "ans": 0,
+   "exp": "Recommended weight gain: Underweight (<18.5) = 12.5-18 kg; Normal (18.5-24.9) = 11.5-16 kg; Overweight (25-29.9) = 7-11.5 kg; Obese (>=30) = 5-9 kg. (Book p318)",
+   "id": "OBG-C2-084"
+  },
+  {
+   "sec": "Nutritional guidelines",
+   "page": 318,
+   "q": "What is the average recommended additional caloric requirement per day for a pregnant woman in India?",
+   "opts": [
+    "+350 kcal/day on average (National: +85 in T1, +280 in T2, +470 in T3)",
+    "+100 kcal/day in all trimesters",
+    "+800 kcal/day from the first trimester",
+    "+500 kcal/day exclusively in the first trimester"
+   ],
+   "ans": 0,
+   "exp": "ICMR recommends an average additional +350 kcal/day (trimester-wise: T1 +85, T2 +280, T3 +470 kcal/day). (Book p318)",
+   "id": "OBG-C2-085"
+  },
+  {
+   "id": "OBG-C2-086",
+   "sec": "Antenatal monitoring, caloric & nutrient demands",
+   "page": 318,
+   "q": "Which of the following statements about gestational weight gain is TRUE?",
+   "opts": [
+    "Recommended total gain is higher for underweight women and lower for women with obesity",
+    "Every woman should gain exactly 11 to 12 kg irrespective of her pre-pregnancy body mass index",
+    "Weight loss is recommended in pregnancy for women whose body mass index exceeds 30",
+    "Most of the maternal weight gain of pregnancy occurs during the first trimester"
+   ],
+   "ans": 0,
+   "exp": "Institute of Medicine targets vary with pre-pregnancy BMI; weight loss is never advised and most gain occurs in the second and third trimesters. (Book p318)",
+   "fmt": "truefalse"
+  },
+  {
+   "sec": "Nutritional guidelines",
+   "page": 319,
+   "q": "What is the recommended daily dietary allowance (RDA) for elemental calcium in pregnancy, and what is the rule regarding its co-administration with iron?",
+   "opts": [
+    "1000 mg/day, taken with a minimum 2-hour interval from iron tablets",
+    "500 mg/day, taken simultaneously with iron tablets to enhance absorption",
+    "2000 mg/day, administered only in the first trimester",
+    "1200 mg/day, taken exclusively with tea or milk"
+   ],
+   "ans": 0,
+   "exp": "RDA for calcium is 1000 mg/day (started from 14 weeks); calcium and iron compete for absorption and must be spaced at least 2 hours apart. (Book p319)",
+   "id": "OBG-C2-087"
+  },
+  {
+   "sec": "Nutritional guidelines",
+   "page": 319,
+   "q": "What is the daily recommended dietary allowance (RDA) for iodine during pregnancy to prevent fetal cretinism and neurodevelopmental delay?",
+   "opts": [
+    "250 mcg/day",
+    "150 mcg/day",
+    "50 mcg/day",
+    "500 mcg/day"
+   ],
+   "ans": 0,
+   "exp": "The RDA for iodine increases to 250 mcg/day in pregnancy (compared to 150 mcg/day in non-pregnant adults). (Book p319)",
+   "id": "OBG-C2-088"
+  },
+  {
+   "sec": "Lifestyle and immunization rules",
+   "page": 319,
+   "q": "Which of the following vaccines is absolutely CONTRAINDICATED during pregnancy due to the risk of live viral transmission to the fetus?",
+   "opts": [
+    "MMR (Measles, Mumps, Rubella) vaccine",
+    "Inactivated Hepatitis B vaccine",
+    "Inactivated Influenza vaccine",
+    "Inactivated COVID-19 vaccine"
+   ],
+   "ans": 0,
+   "exp": "Live attenuated vaccines (MMR, varicella, BCG, yellow fever, oral polio) are contraindicated during pregnancy. (Book p319)",
+   "id": "OBG-C2-089"
+  },
+  {
+   "sec": "Lifestyle and immunization rules",
+   "page": 319,
+   "q": "If a woman accidentally receives a live attenuated rubella vaccine, she should be advised to avoid conception for at least:",
+   "opts": [
+    "1 month (4 weeks)",
+    "6 months",
+    "1 year",
+    "2 weeks"
+   ],
+   "ans": 0,
+   "exp": "Conception should be deferred for at least 1 month (4 weeks) following administration of a live attenuated vaccine. (Book p319)",
+   "id": "OBG-C2-090"
+  },
+  {
+   "sec": "Lifestyle and immunization rules",
+   "page": 319,
+   "q": "Up to what gestational age is commercial air travel considered generally safe for an uncomplicated singleton pregnancy?",
+   "opts": [
+    "Up to 36 weeks of gestation",
+    "Up to 28 weeks of gestation",
+    "Up to 32 weeks of gestation",
+    "Up to 40 weeks of gestation"
+   ],
+   "ans": 0,
+   "exp": "Commercial flying is safe up to 36 weeks in uncomplicated singleton pregnancies (32 weeks for multiples) before airline restrictions apply. (Book p319)",
+   "id": "OBG-C2-091"
+  },
+  {
+   "sec": "Lifestyle and immunization rules",
+   "page": 319,
+   "q": "Moderate aerobic exercise such as 30-45 minutes of brisk walking daily is encouraged in pregnancy, but vigorous physical exertion is contraindicated in:",
+   "opts": [
+    "Placenta previa, pre-eclampsia, and maternal heart disease",
+    "Mild morning sickness and nausea",
+    "Physiological dependent ankle edema",
+    "Controlled hypothyroidism on levothyroxine"
+   ],
+   "ans": 0,
+   "exp": "Strenuous physical exercise is contraindicated in pre-eclampsia/PIH, placenta previa, patients at risk of preterm labor, and heart disease. (Book p319)",
+   "id": "OBG-C2-092"
+  },
+  {
+   "id": "OBG-C2-093",
+   "sec": "Vaccines, air travel & exercise in pregnancy",
+   "page": 319,
+   "q": "All of the following are reasons to stop exercise in pregnancy EXCEPT:",
+   "opts": [
+    "Mild fatigue during the first trimester",
+    "Vaginal bleeding or fluid leak",
+    "Calf pain and swelling suggesting thrombosis",
+    "Dyspnoea or dizziness before exertion"
+   ],
+   "ans": 0,
+   "exp": "Bleeding, thromboembolic symptoms, presyncope and chest pain are red flags; first-trimester tiredness alone merely calls for a gentler routine. (Book p319)",
+   "fmt": "oddoneout"
+  },
+  {
+   "sec": "Nausea, vomiting & PUQE score",
+   "page": 320,
+   "q": "What is the first-line pharmacotherapy recommended by ACOG for mild-to-moderate nausea and vomiting of pregnancy (morning sickness)?",
+   "opts": [
+    "Doxylamine (10 mg) + Pyridoxine / Vitamin B6 (10 mg)",
+    "Ondansetron (8 mg) orally",
+    "Metoclopramide (10 mg) IV",
+    "Promethazine (25 mg) orally"
+   ],
+   "ans": 0,
+   "exp": "The combination of doxylamine (antihistamine, 10 mg) and pyridoxine (vitamin B6, 10 mg) is the first-line drug of choice for nausea and vomiting of pregnancy. (Book p320)",
+   "id": "OBG-C2-094"
+  },
+  {
+   "sec": "Nausea, vomiting & PUQE score",
+   "page": 320,
+   "q": "Hyperemesis gravidarum is characterized by severe vomiting leading to ketonuria and >5% weight loss. What is its primary hormonal driver?",
+   "opts": [
+    "Rapidly rising peak levels of human chorionic gonadotropin (hCG)",
+    "Excess human placental lactogen (hPL)",
+    "Progesterone deficiency",
+    "High prolactin levels"
+   ],
+   "ans": 0,
+   "exp": "Hyperemesis gravidarum correlates with peak serum hCG levels (hence increased incidence in twin and molar pregnancies). (Book p320)",
+   "id": "OBG-C2-095"
+  },
+  {
+   "sec": "Nausea, vomiting & PUQE score",
+   "page": 320,
+   "q": "A pregnant patient with severe hyperemesis gravidarum develops intractable vomiting and confusion. What critical nutrient must be given BEFORE administering IV dextrose fluids?",
+   "opts": [
+    "Thiamine 100 mg intravenously, to prevent Wernicke's encephalopathy",
+    "Folic acid 5 mg intravenously, to prevent a megaloblastic crisis",
+    "Vitamin K 10 mg intravenously, to correct the coagulopathy",
+    "Vitamin C 500 mg intravenously, to hasten tissue healing"
+   ],
+   "ans": 0,
+   "exp": "Prolonged vomiting with confusion means thiamine must be given before any glucose, or Wernicke's encephalopathy follows. (Book p320)",
+   "id": "OBG-C2-096"
+  },
+  {
+   "sec": "Nausea, vomiting & PUQE score",
+   "page": 321,
+   "q": "Why is the use of ondansetron generally avoided during early organogenesis (<10 weeks of gestation) unless other therapies fail?",
+   "opts": [
+    "Possible association with a small increased risk of oral clefts (cleft lip/palate)",
+    "High incidence of neural tube defects",
+    "Induction of fetal renal agenesis",
+    "Risk of phocomelia"
+   ],
+   "ans": 0,
+   "exp": "Early first-trimester exposure to ondansetron (<10 weeks) carries a controversial slight risk of fetal cleft lip and cleft palate. (Book p321)",
+   "id": "OBG-C2-097"
+  },
+  {
+   "sec": "Nausea, vomiting & PUQE score",
+   "page": 321,
+   "q": "The PUQE (Pregnancy-Unique Quantification of Emesis) scoring system classifies the severity of nausea and vomiting into mild, moderate, and severe using cutoffs of:",
+   "opts": [
+    "<=6 is mild, 7 to 12 is moderate, and >=13 is severe",
+    "<=3 is mild, 4 to 8 is moderate, and >=9 is severe",
+    "<=10 is mild, 11 to 20 is moderate, and >=21 is severe",
+    "<=5 is mild, 6 to 15 is moderate, and >=16 is severe"
+   ],
+   "ans": 0,
+   "exp": "PUQE score: 4 to 6 indicates mild emesis, 7 to 12 indicates moderate emesis, and >=13 indicates severe hyperemesis gravidarum. (Book p321)",
+   "id": "OBG-C2-098"
+  },
+  {
+   "id": "OBG-C2-099",
+   "sec": "Morning sickness, hyperemesis gravidarum & PUQE",
+   "page": 321,
+   "q": "A 26-year-old at 9 weeks vomits five times a day, retches through most of the day and has kept nothing down for twelve hours. Pulse 108/min, BP 96/60 mmHg, urine ketones 3+. What is the most appropriate initial management?",
+   "opts": [
+    "Admit, give intravenous saline with thiamine and potassium, and start parenteral antiemetics",
+    "Reassure her and advise small frequent dry meals at home with oral antacids",
+    "Start total parenteral nutrition immediately because oral intake has failed",
+    "Recommend termination of pregnancy because the condition is intractable"
+   ],
+   "ans": 0,
+   "exp": "Ketosis with tachycardia and orthostasis means hyperemesis needing admission, thiamine-supplemented rehydration and antiemetics before any enteral feeding. (Book p321)",
+   "fmt": "scenario"
+  },
+  {
+   "sec": "Physiological complaints",
+   "page": 321,
+   "q": "A pregnant woman in the late third trimester experiences dizziness, nausea, and pallor when lying flat on her back. What is the initial compensatory sign?",
+   "opts": [
+    "Maternal tachycardia, followed by a fall in blood pressure",
+    "Sudden maternal bradycardia without blood pressure change",
+    "Immediate fetal bradycardia with hypertension",
+    "Rapid increase in systemic vascular resistance"
+   ],
+   "ans": 0,
+   "exp": "In supine hypotension syndrome, compression of the IVC reduces venous return; maternal tachycardia is the first compensatory response before BP crashes. (Book p321)",
+   "id": "OBG-C2-100"
+  },
+  {
+   "sec": "Physiological complaints",
+   "page": 321,
+   "q": "What is the immediate, life-saving corrective maneuver for supine hypotensive syndrome in pregnancy?",
+   "opts": [
+    "Turning the patient into the left lateral tilt position",
+    "Placing the patient in reverse Trendelenburg position",
+    "Administering IV bolus of 50% dextrose",
+    "Rapid infusion of ephedrine in the supine position"
+   ],
+   "ans": 0,
+   "exp": "Turning the patient onto her left side displaces the gravid uterus off the inferior vena cava, instantly restoring venous return and cardiac output. (Book p321)",
+   "id": "OBG-C2-101"
+  },
+  {
+   "sec": "Physiological complaints",
+   "page": 322,
+   "q": "Why is elective medical or surgical excision of varicose veins and hemorrhoids strictly avoided during pregnancy?",
+   "opts": [
+    "Most pregnancy-induced varicosities regress spontaneously within 6-12 weeks postpartum",
+    "They carry a 100% recurrence rate during labor",
+    "Anesthetics induce fetal macrosomia",
+    "Varices protect against deep vein thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Varicose veins and hemorrhoids in pregnancy are managed conservatively (elevation, stockings, fiber) as they typically regress postpartum. (Book p322)",
+   "id": "OBG-C2-102"
+  },
+  {
+   "sec": "Physiological complaints",
+   "page": 322,
+   "q": "When a pregnant patient develops acute, painful nocturnal calf muscle cramps, the immediate relieving physical maneuver is to:",
+   "opts": [
+    "Extend the knee and strongly dorsiflex the foot/toes",
+    "Flex the knee and plantarflex the toes",
+    "Apply an ice pack to the popliteal fossa",
+    "Walk vigorously on tiptoes"
+   ],
+   "ans": 0,
+   "exp": "During an acute calf cramp, extending the knee and forcibly dorsiflexing the toes stretches the gastrocnemius, immediately relieving the spasm. (Book p322)",
+   "id": "OBG-C2-103"
+  },
+  {
+   "sec": "Physiological complaints",
+   "page": 322,
+   "q": "Carpal tunnel syndrome during pregnancy presents with tingling and numbness in the lateral three and a half digits due to compression of which nerve?",
+   "opts": [
+    "Median nerve at the wrist",
+    "Ulnar nerve at the cubital tunnel",
+    "Radial nerve in the spiral groove",
+    "Musculocutaneous nerve"
+   ],
+   "ans": 0,
+   "exp": "Gestational fluid retention and perineural edema compress the median nerve under the flexor retinaculum, treated conservatively with wrist splints. (Book p322)",
+   "id": "OBG-C2-104"
+  },
+  {
+   "id": "OBG-C2-105",
+   "sec": "Minor ailments: supine hypotension, varices & neuropathies",
+   "page": 322,
+   "q": "Match the complaint with its mechanism or remedy — 1) Supine hypotension 2) Meralgia paraesthetica 3) Carpal tunnel syndrome in pregnancy … A) Compression of the lateral cutaneous nerve of the thigh B) Aortocaval compression relieved by the left lateral position C) Median nerve compression giving nocturnal paraesthesia of the thumb and index finger",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Supine hypotension is aortocaval compression, meralgia paraesthetica is entrapment of the lateral cutaneous nerve of the thigh, and carpal tunnel is median nerve compression. (Book p322)",
+   "fmt": "match"
+  },
+  {
+   "sec": "Physiological complaints",
+   "page": 323,
+   "q": "Bell's palsy (idiopathic facial nerve paralysis) occurring during the third trimester is primarily attributed to:",
+   "opts": [
+    "Perineural edema, hypercoagulability, and physiological immunosuppression",
+    "Direct herpes zoster encephalitis",
+    "Intracranial aneurysm compression",
+    "Cerebral venous sinus thrombosis"
+   ],
+   "ans": 0,
+   "exp": "Bell's palsy in pregnancy is linked to perineural edema and fluid retention compressing the 7th cranial nerve; short-course steroids are used. (Book p323)",
+   "id": "OBG-C2-106"
+  },
+  {
+   "sec": "First trimester ultrasound",
+   "page": 324,
+   "q": "In early pregnancy ultrasound, what are the characteristic transducer probe frequencies utilized for transabdominal scan (TAS) and transvaginal scan (TVS)?",
+   "opts": [
+    "3-5 MHz for TAS and 5-10 MHz for TVS",
+    "7-12 MHz for TAS and 2-3 MHz for TVS",
+    "1-2 MHz for TAS and 3-5 MHz for TVS",
+    "10-15 MHz for both scans"
+   ],
+   "ans": 0,
+   "exp": "TAS utilizes 3-5 MHz probes for deeper penetration, whereas TVS uses higher frequency 5-10 MHz probes for superior near-field resolution. (Book p324)",
+   "id": "OBG-C2-107"
+  },
+  {
+   "sec": "First trimester ultrasound",
+   "page": 324,
+   "q": "What is the earliest anatomical structure identifiable within the uterus on transvaginal sonography (TVS) at 4.5 to 5 weeks?",
+   "opts": [
+    "The gestational sac, a symmetrical fluid collection with an echogenic rim",
+    "The secondary yolk sac, which appears before the gestational sac",
+    "The embryonic fetal pole, seen as soon as the sac becomes visible",
+    "The amniotic membrane, which separates first and outlines the sac"
+   ],
+   "ans": 0,
+   "exp": "At 4.5-5 weeks the gestational sac is the first structure seen; the yolk sac follows at about 5 weeks and the embryo later. (Book p324)",
+   "id": "OBG-C2-108"
+  },
+  {
+   "sec": "First trimester ultrasound",
+   "page": 324,
+   "q": "The visualization of an isolated fluid-filled sac in the uterine cavity on ultrasound does NOT definitively confirm intrauterine pregnancy because:",
+   "opts": [
+    "An ectopic pregnancy can produce a central decidual pseudogestational sac",
+    "The yolk sac may be outside the uterus",
+    "Molar pregnancy always mimics a gestational sac",
+    "Blighted ovum never forms a gestational sac"
+   ],
+   "ans": 0,
+   "exp": "A pseudogestational sac (blood/fluid within decidual reaction) occurs in 10-20% of ectopic pregnancies; true IUP requires yolk sac or embryo. (Book p324)",
+   "id": "OBG-C2-109"
+  },
+  {
+   "sec": "First trimester ultrasound",
+   "page": 324,
+   "q": "The secondary yolk sac appears as a distinct circular echogenic bleb within the gestational sac on TVS when the Mean Sac Diameter (MSD) reaches:",
+   "opts": [
+    "10 mm (around 5 to 5.5 weeks)",
+    "3 mm (at 4 weeks)",
+    "20 mm (at 7 weeks)",
+    "25 mm (at 8 weeks)"
+   ],
+   "ans": 0,
+   "exp": "The yolk sac is visualized on TVS when the mean sac diameter reaches 10 mm (at approximately 5-5.5 weeks of gestation). (Book p324)",
+   "id": "OBG-C2-110"
+  },
+  {
+   "id": "OBG-C2-111",
+   "sec": "Early ultrasound landmarks & gestational structures",
+   "page": 324,
+   "q": "Fill up: On transvaginal sonography the gestational sac is first seen when the mean sac diameter is about ______ mm, and the yolk sac becomes visible at about ______ weeks.",
+   "opts": [
+    "2-3; 5",
+    "8; 6",
+    "2-3; 7",
+    "20; 5"
+   ],
+   "ans": 0,
+   "exp": "The sac is visible on TVS at a mean sac diameter of 2-3 mm (about 4-4.5 weeks) and the yolk sac appears around 5 weeks. (Book p324)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "First trimester ultrasound",
+   "page": 325,
+   "q": "The presence of a definite yolk sac within an intrauterine gestational sac provides definitive sonographic confirmation of:",
+   "opts": [
+    "An authentic intrauterine pregnancy, ruling out a pseudogestational sac",
+    "Immediate fetal viability and normal karyotype",
+    "Exclusion of any possibility of miscarriage",
+    "Chorionicity in multiple gestations"
+   ],
+   "ans": 0,
+   "exp": "Seeing a yolk sac definitively confirms a true intrauterine gestational sac and excludes an ectopic pseudogestational sac. (Book p325)",
+   "id": "OBG-C2-112"
+  },
+  {
+   "sec": "Embryonic landmarks & viability",
+   "page": 325,
+   "q": "On transvaginal sonography, the fetal pole and embryonic cardiac flicker (M-mode) are normally detectable by:",
+   "opts": [
+    "5.5 to 6.5 weeks of gestation (CRL 1-5 mm, MSD 13-18 mm)",
+    "4.0 to 4.5 weeks of gestation",
+    "8.0 to 9.0 weeks of gestation",
+    "10.0 to 11.0 weeks of gestation"
+   ],
+   "ans": 0,
+   "exp": "The fetal pole with cardiac flicker is detected on TVS at 5.5-6.5 weeks (CRL 1-5 mm, MSD 13-18 mm). (Book p325)",
+   "id": "OBG-C2-113"
+  },
+  {
+   "sec": "Embryonic landmarks & viability",
+   "page": 325,
+   "q": "What is the normal baseline fetal heart rate at 6 weeks versus 8 weeks of gestation, and what cutoff indicates a poor prognosis?",
+   "opts": [
+    "110-130 bpm at 6w, 160-170 bpm at 8w; <85 bpm indicates poor prognosis",
+    "70-90 bpm at 6w, 120 bpm at 8w; <100 bpm is normal",
+    "160-180 bpm at 6w, 110 bpm at 8w; >200 bpm is normal",
+    "140 bpm throughout; any variation indicates demise"
+   ],
+   "ans": 0,
+   "exp": "Embryonic FHR rises from 110-130 bpm at 6 weeks to 160-170 bpm at 8 weeks; an embryonic FHR <85 bpm signifies high risk of demise. (Book p325)",
+   "id": "OBG-C2-114"
+  },
+  {
+   "sec": "Embryonic landmarks & viability",
+   "page": 325,
+   "q": "According to established sonographic guidelines, an anembryonic pregnancy (blighted ovum / missed abortion) is definitively diagnosed when:",
+   "opts": [
+    "The Mean Sac Diameter (MSD) is >= 25 mm with no visible embryo/fetal pole",
+    "The MSD is >= 15 mm without a yolk sac",
+    "The CRL is >= 3 mm without cardiac motion",
+    "The gestational sac is irregularly contoured at 4 weeks"
+   ],
+   "ans": 0,
+   "exp": "An MSD >=25 mm with no embryo on TVS is a definitive criterion for non-viable/missed abortion (blighted ovum). (Book p325)",
+   "id": "OBG-C2-115"
+  },
+  {
+   "id": "OBG-C2-116",
+   "sec": "Fetal pole, cardiac activity & missed abortion criteria",
+   "page": 325,
+   "q": "Fill up: Absent cardiac activity reliably confirms pregnancy loss once the crown-rump length is ______ mm or more, but a sac without a pole must measure over ______ mm mean diameter.",
+   "opts": [
+    "7; 25",
+    "4; 25",
+    "7; 16",
+    "10; 20"
+   ],
+   "ans": 0,
+   "exp": "Modern criteria: CRL of 7 mm or more with no heartbeat, or a mean sac diameter over 25 mm with no embryo, before declaring a missed abortion. (Book p325)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Embryonic landmarks & viability",
+   "page": 326,
+   "q": "Which of the following is a definitive sonographic criterion for diagnosing a missed abortion on transvaginal ultrasound?",
+   "opts": [
+    "A Crown-Rump Length (CRL) of >= 7 mm with absence of cardiac activity",
+    "A CRL of >= 4 mm with absence of cardiac activity",
+    "An MSD of >= 16 mm without a fetal pole",
+    "Absence of yolk sac when MSD is 8 mm"
+   ],
+   "ans": 0,
+   "exp": "A CRL >=7 mm without cardiac motion is a major definitive criterion for missed abortion. (Book p326)",
+   "id": "OBG-C2-117"
+  },
+  {
+   "sec": "Embryonic landmarks & viability",
+   "page": 326,
+   "q": "If an initial ultrasound demonstrates a gestational sac without a yolk sac, after how many days must a repeat scan without cardiac activity be observed to confirm non-viability?",
+   "opts": [
+    ">= 14 days",
+    ">= 7 days",
+    ">= 3 days",
+    ">= 21 days"
+   ],
+   "ans": 0,
+   "exp": "Absence of an embryo with cardiac activity >=14 days after a scan that showed a gestational sac without a yolk sac definitively confirms missed abortion. (Book p326)",
+   "id": "OBG-C2-118"
+  },
+  {
+   "sec": "Embryonic landmarks & viability",
+   "page": 326,
+   "q": "If an initial scan shows a gestational sac WITH a yolk sac, missed abortion is confirmed if cardiac activity is absent on a repeat scan performed after at least:",
+   "opts": [
+    ">= 11 days",
+    ">= 5 days",
+    ">= 14 days",
+    ">= 21 days"
+   ],
+   "ans": 0,
+   "exp": "Absence of cardiac activity >=11 days after a scan that demonstrated a gestational sac with a yolk sac is diagnostic of pregnancy failure. (Book p326)",
+   "id": "OBG-C2-119"
+  },
+  {
+   "sec": "Biochemical and sonographic discrimination",
+   "page": 326,
+   "q": "What is the discriminatory zone (critical titer) of serum beta-hCG above which an intrauterine gestational sac must be visualized on TVS and TAS, respectively?",
+   "opts": [
+    "1500-2000 IU/L for TVS and 6000-6500 IU/L for TAS",
+    "500-1000 IU/L for TVS and 2000-3000 IU/L for TAS",
+    "3000-4000 IU/L for TVS and 8000-10000 IU/L for TAS",
+    "1000 IU/L for both TVS and TAS"
+   ],
+   "ans": 0,
+   "exp": "The discriminatory zone of beta-hCG is 1500-2000 IU/L for TVS and 6000-6500 IU/L for TAS; empty uterus above this strongly indicates ectopic. (Book p326)",
+   "id": "OBG-C2-120"
+  },
+  {
+   "sec": "Biochemical and sonographic discrimination",
+   "page": 326,
+   "q": "A hemodynamically stable patient has a serum beta-hCG of 2500 IU/L, but no intrauterine gestational sac is seen on TVS. What is the presumptive diagnosis?",
+   "opts": [
+    "Ectopic pregnancy until proven otherwise",
+    "Normal early intrauterine pregnancy",
+    "Complete hydatidiform mole",
+    "Blighted ovum within the endometrial cavity"
+   ],
+   "ans": 0,
+   "exp": "When serum beta-hCG exceeds the TVS discriminatory threshold (1500-2000 IU/L) and the endometrial cavity is empty, ectopic pregnancy must be presumed. (Book p326)",
+   "id": "OBG-C2-121"
+  },
+  {
+   "sec": "Biochemical and sonographic discrimination",
+   "page": 326,
+   "q": "In a healthy, viable early intrauterine pregnancy, repeat serum beta-hCG titers measured 48 hours apart should normally demonstrate:",
+   "opts": [
+    "A doubling of titer (or an increase of at least 66%)",
+    "A modest increase of 10-20%",
+    "A stable plateau of titer",
+    "A decline of 50%"
+   ],
+   "ans": 0,
+   "exp": "In a viable early intrauterine pregnancy, serum beta-hCG approximately doubles every 48 hours (minimum 66% rise). (Book p326)",
+   "id": "OBG-C2-122"
+  },
+  {
+   "sec": "Biochemical and sonographic discrimination",
+   "page": 326,
+   "q": "A 48-hour serial beta-hCG that rises suboptimally (increases but does not double) is highly suspicious of:",
+   "opts": [
+    "Ectopic pregnancy (or non-viable intrauterine pregnancy)",
+    "Multiple gestations",
+    "Gestational choriocarcinoma",
+    "Normal late blastocyst implantation"
+   ],
+   "ans": 0,
+   "exp": "An increase that fails to double (suboptimal rise) is characteristic of an ectopic pregnancy or failing intrauterine gestation. (Book p326)",
+   "id": "OBG-C2-123"
+  },
+  {
+   "sec": "Biochemical and sonographic discrimination",
+   "page": 326,
+   "q": "Which of the following sonographic features definitively distinguishes a true intrauterine gestational sac from an ectopic pseudogestational sac?",
+   "opts": [
+    "Eccentric location within decidua with double decidual sac sign",
+    "Central location within the endometrial cavity",
+    "Absence of yolk sac or double bleb sign",
+    "Lack of progressive growth on serial scans"
+   ],
+   "ans": 0,
+   "exp": "A true gestational sac implants eccentrically within the decidua, displays a double decidual sign, contains a yolk sac, and grows ~1 mm/day. (Book p326)",
+   "id": "OBG-C2-124"
+  },
+  {
+   "id": "OBG-C2-125",
+   "sec": "Discriminatory hCG titer & true vs pseudogestational sac",
+   "page": 326,
+   "q": "A woman at about 6 weeks with pain and spotting has a serum beta-hCG of 3200 mIU/mL and a transvaginal scan showing an empty uterus with no adnexal mass. What is the safest next step?",
+   "opts": [
+    "Treat as pregnancy of unknown location: repeat beta-hCG in 48 hours and rescan",
+    "Perform an immediate dilatation and curettage to obtain chorionic villi",
+    "Give methotrexate now, because an empty uterus proves ectopic pregnancy",
+    "Discharge her, since a beta-hCG below 3500 rules out ectopic pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Below the discriminatory zone the diagnosis is pregnancy of unknown location; blind methotrexate or curettage could destroy a viable intrauterine pregnancy. (Book p326)",
+   "fmt": "scenario"
+  }
+ ]
 }

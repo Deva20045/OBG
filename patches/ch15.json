@@ -1,0 +1,60 @@
+[
+  {
+    "op": "add", "unit": "OBG-U15-1", "page": 483, "fmt": "fillup",
+    "sec": "Pelvic brim, false/true pelvis & inlet diameters",
+    "q": "Fill up: The true conjugate of the pelvic inlet runs from the sacral promontory to the ______ and measures about ______ cm.",
+    "opts": ["upper margin of the symphysis pubis; 11", "lower margin of the symphysis pubis; 13", "tip of the ischial spine; 11", "tip of the coccyx; 9"],
+    "ans": 0,
+    "exp": "The true conjugate is the shortest antero-posterior diameter of the inlet and cannot be measured clinically, so the diagonal conjugate is used instead."
+  },
+  {
+    "op": "add", "unit": "OBG-U15-2", "page": 484, "fmt": "match",
+    "sec": "Planes of greatest & least dimensions",
+    "q": "Match the pelvic plane with its description — 1) Plane of the inlet 2) Plane of greatest pelvic dimension 3) Plane of least pelvic dimension … A) Lies at the level of the ischial spines, with an antero-posterior diameter of about 11.5 cm B) A rounded inlet with a transverse diameter of about 13 cm C) The roomiest plane, with an antero-posterior diameter of about 12.75 cm",
+    "opts": ["1-B, 2-C, 3-A", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-A, 3-C"],
+    "ans": 0,
+    "exp": "The inlet is widest transversely, the mid-plane at the spines is the narrowest, and the plane of greatest dimension lies between them."
+  },
+  {
+    "op": "add", "unit": "OBG-U15-3", "page": 486, "fmt": "fillup",
+    "sec": "Mid-pelvis & pelvic outlet",
+    "q": "Fill up: The pelvic outlet has an antero-posterior diameter of about ______ cm and an intertuberous transverse diameter of about ______ cm.",
+    "opts": ["13; 11", "11; 13", "12; 12", "9; 11"],
+    "ans": 0,
+    "exp": "The outlet AP diameter runs from the lower border of the symphysis to the tip of the sacrum and the bituberous diameter between the ischial tuberosities."
+  },
+  {
+    "op": "add", "unit": "OBG-U15-4", "page": 487, "fmt": "oddoneout",
+    "sec": "Significance of the ischial spine & stations",
+    "q": "All of the following statements about the ischial spines are true EXCEPT:",
+    "opts": [
+      "They are the landmark for the plane of the pelvic inlet",
+      "They mark the plane of least pelvic dimension",
+      "They are the reference point used to define fetal head station",
+      "They can be felt on vaginal examination lateral to the mid-line of the pelvis"
+    ],
+    "ans": 0,
+    "exp": "The ischial spines define the mid-pelvis and station zero, not the inlet, which is bounded by the sacral promontory and symphysis pubis."
+  },
+  {
+    "op": "add", "unit": "OBG-U15-5", "page": 488, "fmt": "scenario",
+    "sec": "Contracted pelvis & cephalopelvic disproportion",
+    "q": "A primigravida at term is fully dilated but the head shows no descent after two hours of good contractions, with increasing caput and moulding and three-fifths of the head still palpable abdominally. What is the diagnosis and management?",
+    "opts": [
+      "Cephalopelvic disproportion — deliver by caesarean section",
+      "Normal progress — allow another two hours of pushing",
+      "Uterine inertia — start high-dose oxytocin augmentation",
+      "Deep transverse arrest — attempt manual rotation and forceps delivery"
+    ],
+    "ans": 0,
+    "exp": "Failure of descent after two hours of adequate contractions with caput and moulding means disproportion, not inertia, so oxytocin would be dangerous."
+  },
+  {
+    "op": "add", "unit": "OBG-U15-6", "page": 489, "fmt": "match",
+    "sec": "CPD notes & Caldwell-Moloy pelvic types",
+    "q": "Match the Caldwell-Moloy pelvic type with its features — 1) Gynaecoid 2) Android 3) Anthropoid … A) A rounded or slightly oval inlet with a well-curved sacrum and roomy fore-pelvis, the favourable female pelvis B) A wedge-shaped inlet with convergent side walls, a narrow fore-pelvis and a shallow sacro-sciatic notch C) A long oval inlet with a generous antero-posterior diameter, favouring occipito-posterior positions",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Gynaecoid is favourable, android predisposes to deep transverse arrest, and anthropoid favours direct occipito-posterior delivery."
+  }
+]

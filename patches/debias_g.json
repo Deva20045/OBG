@@ -1,0 +1,333 @@
+[
+  {
+    "op": "edit", "id": "OBG-C19-010",
+    "opts": [
+      "True: regular and progressive in strength — false: irregular and non-progressive",
+      "True: irregular and continuous — false: regular and rhythmic",
+      "True: continuous with a fixed intensity — false: rhythmic and progressive",
+      "True: regular but decreasing — false: progressive and rhythmic"
+    ],
+    "ans": 0,
+    "exp": "True labour contractions are regular and increase in frequency, duration and intensity; false labour does neither."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-128",
+    "opts": [
+      "One to two hours after the placenta; physiological chills; observations every 15 minutes",
+      "Twenty-four hours after delivery; fever; vital signs taken hourly throughout",
+      "Thirty minutes after delivery; rigors; vital signs taken every five minutes",
+      "Six hours after delivery; sweating; vital signs taken every half hour"
+    ],
+    "ans": 0,
+    "exp": "The fourth stage is the first one to two hours after delivery, when the woman may shiver and needs close observation."
+  },
+  {
+    "op": "edit", "id": "OBG-C8-247",
+    "opts": [
+      "Anti-D isoimmunisation, twin-to-twin transfusion, cystic hygroma or placental chorioangioma",
+      "An uncomplicated singleton pregnancy with a normal fetus and placenta",
+      "Diet-controlled gestational diabetes with a normal liquor volume",
+      "Intrahepatic cholestasis of pregnancy alone, with raised serum bile acids"
+    ],
+    "ans": 0,
+    "exp": "Mirror syndrome is the maternal reflection of fetal hydrops, whatever its cause — immune, anastomotic, lymphatic or placental."
+  },
+  {
+    "op": "edit", "id": "OBG-C5-026",
+    "opts": [
+      "Pica, a classic clinical manifestation of severe iron deficiency",
+      "Bulimia nervosa, with repeated bingeing and purging behaviour",
+      "Hyperemesis gravidarum, with protracted vomiting and ketosis",
+      "Chorea gravidarum, with involuntary movements of the limbs"
+    ],
+    "ans": 0,
+    "exp": "Craving and chewing non-food substances such as clay, raw rice or ice is pica, and it accompanies severe iron deficiency."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-053",
+    "opts": [
+      "Twin A becomes hypotensive and anaemic, exsanguinating into the low-pressure twin",
+      "Twin A becomes polycythaemic as blood flows in from the dying co-twin",
+      "Twin B becomes hypertensive from the sudden increase in blood volume",
+      "No haemodynamic change occurs in either twin at the moment of death"
+    ],
+    "ans": 0,
+    "exp": "When the monochorionic co-twin dies, the survivor's low-pressure circulation drains the dying twin, which is how the survivor is injured."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-004",
+    "opts": [
+      "Larger than 5 cm, still enlarging, excruciating pain, or associated shock",
+      "Any haematoma at all that measures more than 1 cm across",
+      "Only once the haematoma has become clinically infected",
+      "Only when haematomas are present on both sides of the vulva"
+    ],
+    "ans": 0,
+    "exp": "Surgical drainage is for a large, expanding or very painful collection, or one that has caused shock; small stable ones are managed conservatively."
+  },
+  {
+    "op": "edit", "id": "OBG-C15-011",
+    "opts": [
+      "A truncated cylinder, with a shallow anterior wall and a deep concave posterior wall",
+      "A true cylinder, with anterior and posterior walls of equal depth",
+      "Funnel shaped, with a deep anterior wall behind the pubic bone",
+      "Cuboid, with a flat posterior wall formed by the sacrum"
+    ],
+    "ans": 0,
+    "exp": "The cavity is a truncated cylinder: the pubic bone is short in front, while the sacrum forms a long concave curve behind."
+  },
+  {
+    "op": "edit", "id": "OBG-C18-023",
+    "opts": [
+      "A hypertonic contraction from oxytocin; stop the oxytocin, turn her to the left, consider terbutaline",
+      "An entirely adequate contraction, so the infusion should be continued unchanged",
+      "Tachysystole, for which the rate of oxytocin should be increased",
+      "A Bandl's ring forming, which requires immediate caesarean section"
+    ],
+    "ans": 0,
+    "exp": "A contraction lasting 60 seconds or more is hypertonic and usually drug-induced: stop the infusion, turn her and give a tocolytic if needed."
+  },
+  {
+    "op": "edit", "id": "OBG-C23-003",
+    "opts": [
+      "Less postoperative pain, a stronger wound and better cosmesis, but the upper abdomen is not visualised",
+      "Faster abdominal entry, although at the cost of more postoperative pain",
+      "Better exposure of the pelvis, though the resulting scar is less acceptable",
+      "Less bleeding, but a wound that is mechanically weaker afterwards"
+    ],
+    "ans": 0,
+    "exp": "Transverse incisions heal better and hurt less, but they limit access to the upper abdomen compared with a vertical incision."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-027",
+    "opts": [
+      "Progressive cervical change, or an initial dilatation of 2 cm or more",
+      "A fixed dilatation of 5 cm or more with no further change",
+      "A fetal fibronectin of 100 ng per mL or more in cervicovaginal fluid",
+      "A cervical length of 1 cm or less and no other supporting feature"
+    ],
+    "ans": 0,
+    "exp": "The current definition drops the add-on tests and requires progressive change, or dilatation of at least 2 cm at presentation."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-103",
+    "opts": [
+      "Uteroplacental insufficiency, giving late decelerations and fetal distress",
+      "Accelerated fetal growth from continued nutrient transfer",
+      "An increase in amniotic fluid volume from fetal polyuria",
+      "The early spontaneous onset of labour well before term"
+    ],
+    "ans": 0,
+    "exp": "The ageing placenta fails, producing late decelerations on the CTG and fetal distress in labour; liquor falls rather than rises."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-098",
+    "opts": [
+      "The placenta being felt in the vagina, with apparent permanent lengthening of the cord",
+      "A sudden gush of blood before the placenta appears at the introitus",
+      "The fundus becoming globular and firm on abdominal palpation",
+      "The uterus rising higher in the abdomen above the umbilicus"
+    ],
+    "ans": 0,
+    "exp": "Feeling the placenta in the vagina, with the cord appearing to lengthen permanently, is the surest sign that separation has occurred."
+  },
+  {
+    "op": "edit", "id": "OBG-C10-040",
+    "opts": [
+      "Repeat 400-800 microgram of misoprostol and review her after seven days",
+      "Give anti-D immunoglobulin and take no further action at all",
+      "Start warfarin to promote expulsion of the retained products",
+      "Discharge her immediately, since no follow-up is required"
+    ],
+    "ans": 0,
+    "exp": "If cardiac activity persists or expulsion is incomplete without bleeding, a further dose of misoprostol is given and she is reviewed in a week."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-008",
+    "opts": [
+      "A previous preterm birth or a short cervix; transvaginal sonography is the tool",
+      "All primigravid women, screened by transabdominal sonography",
+      "Twin pregnancies alone, screened by magnetic resonance imaging",
+      "Preterm prelabour rupture alone, monitored with cardiotocography"
+    ],
+    "ans": 0,
+    "exp": "Prevention is aimed at women with a previous preterm birth or a short cervix, and transvaginal scan is how the cervix is measured."
+  },
+  {
+    "op": "edit", "id": "OBG-C3-050",
+    "opts": [
+      "Placental insufficiency, with fetal growth restriction and pre-eclampsia",
+      "Fetal macrosomia with polyhydramnios in the third trimester",
+      "Gestational diabetes mellitus needing early screening",
+      "A prolonged pregnancy that runs well past the expected date"
+    ],
+    "ans": 0,
+    "exp": "A very low PAPP-A reflects poor placentation and is associated with growth restriction, pre-eclampsia and stillbirth."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-078",
+    "opts": [
+      "Donor anaemia and recipient polycythaemia, with normal liquor volume in both sacs",
+      "An oligo-polyhydramnios sequence, with equal peak systolic velocities",
+      "Donor polycythaemia together with anaemia in the recipient",
+      "Abnormal liquor volume in both sacs from the very beginning"
+    ],
+    "ans": 0,
+    "exp": "TAPS is defined by a large haemoglobin difference without the liquor discordance of classic twin-to-twin transfusion syndrome."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-036",
+    "opts": [
+      "External aortic compression at the umbilicus, and a military anti-shock garment",
+      "The Trendelenburg position with cold packs applied to the abdomen",
+      "Vaginal packing with intravenous fluids and nothing further",
+      "Fundal pressure combined with an intravenous oxytocin bolus"
+    ],
+    "ans": 0,
+    "exp": "Aortic compression and a non-pneumatic anti-shock garment buy time while the woman is transferred to theatre."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-057",
+    "opts": [
+      "Ordinary IUGR affects both twins; selective IUGR is monochorionic, one normal and one growth-restricted twin",
+      "The two terms mean exactly the same thing and are interchangeable",
+      "Selective IUGR is a complication confined to dichorionic twins",
+      "Ordinary IUGR affects only one twin of the pair"
+    ],
+    "ans": 0,
+    "exp": "Selective growth restriction is a monochorionic problem of unequal placental sharing, with one twin normally grown."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-067",
+    "opts": [
+      "Blood, semen, bacterial vaginosis, trichomonas infection and meconium",
+      "Contamination with urine, which is the only recognised cause",
+      "Contamination with the normal saline used for the examination",
+      "The cervical mucus plug alone, which is strongly alkaline"
+    ],
+    "ans": 0,
+    "exp": "Nitrazine turns blue with any alkaline fluid, so blood, semen, infected discharge and meconium all give false positives."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-010",
+    "opts": [
+      "Decidua, blood, leucocytes and exudate; rubra, then serosa, then alba over 24-36 days",
+      "Blood alone; ten days of rubra followed by twenty days of alba",
+      "Mucus and pus; alba first, then serosa, then rubra",
+      "Amniotic fluid, lasting seven days in total after the delivery"
+    ],
+    "ans": 0,
+    "exp": "Lochia is decidua, blood, leucocytes and serous exudate, passing through rubra, serosa and alba over roughly 24-36 days."
+  },
+  {
+    "op": "edit", "id": "OBG-C7-132",
+    "opts": [
+      "Give aspirin alone and discharge her for outpatient review",
+      "Complete the corticosteroid course while continuing the pregnancy to 34 weeks with monitoring",
+      "Deliver the baby before the first dose of corticosteroid is given",
+      "Withhold corticosteroids, since they worsen the maternal blood pressure"
+    ],
+    "ans": 1,
+    "exp": "Without an emergency indication, severe pre-eclampsia before 34 weeks is managed expectantly with a completed course of steroids and close monitoring."
+  },
+  {
+    "op": "edit", "id": "OBG-C9-030",
+    "opts": [
+      "Cervical incompetence, a submucous fibroid and Asherman syndrome",
+      "Placenta previa, which implants low and bleeds repeatedly",
+      "A previous ectopic pregnancy, which scars the uterine cavity",
+      "An ovarian cyst, which distorts the outline of the uterus"
+    ],
+    "ans": 0,
+    "exp": "Acquired uterine causes of recurrent loss are cervical weakness, cavity-distorting fibroids and intrauterine adhesions."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-046",
+    "opts": [
+      "A vertex with a fully dilated cervix and a rotated head; forceps are preferred in heart disease",
+      "A face presentation with the chin anterior; vacuum is preferred in heart disease",
+      "A breech presentation, where vacuum is preferred in maternal heart disease",
+      "A brow presentation, where forceps are preferred in maternal heart disease"
+    ],
+    "ans": 0,
+    "exp": "Vacuum suits a rotated vertex at full dilatation; when maternal effort must be minimised, as in heart disease, forceps are preferred."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-105",
+    "opts": [
+      "0.2 mg intramuscularly, since the intravenous route can cause severe hypertension",
+      "0.5 mg intravenously, with the ampoules kept refrigerated",
+      "0.2 mg intravenously, from ampoules that have been stored frozen",
+      "1 mg by mouth, stored at room temperature"
+    ],
+    "ans": 0,
+    "exp": "Methylergometrine 0.2 mg is given intramuscularly; the intravenous route risks a dangerous rise in blood pressure."
+  },
+  {
+    "op": "edit", "id": "OBG-C3-021",
+    "opts": [
+      "From 10-12 weeks, with the frog-eye or Mickey Mouse sign from the bulging orbits",
+      "From 18 weeks onwards, once the lemon sign has appeared",
+      "From 24 weeks onwards, once the banana sign has appeared",
+      "From 6 weeks onwards, with the double bleb sign"
+    ],
+    "ans": 0,
+    "exp": "Anencephaly is recognisable from 10-12 weeks: absent calvarium with prominent orbits gives the frog-eye appearance."
+  },
+  {
+    "op": "edit", "id": "OBG-C5-074",
+    "opts": [
+      "Tachycardia shortens diastolic filling in stenosis, while low resistance helps regurgitant lesions",
+      "Progesterone dilates stenotic valves and worsens the pressure gradient",
+      "Oestrogen closes regurgitant valves completely during pregnancy",
+      "Stenotic lesions are unaffected by the blood volume shifts of pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Stenotic lesions cannot increase output through a fixed orifice and tachycardia shortens filling; regurgitant lesions benefit from the fall in resistance."
+  },
+  {
+    "op": "edit", "id": "OBG-C8-221",
+    "opts": [
+      "An early fetal echocardiogram performed before 20 weeks",
+      "A DIPSI glucose tolerance test in the second trimester",
+      "A routine fundal examination at the antenatal visit",
+      "Instrumental delivery or manual removal of the placenta"
+    ],
+    "ans": 3,
+    "exp": "Delivery itself, especially instrumental delivery and manual removal of the placenta, is the commonest cause of a larger feto-maternal haemorrhage."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-068",
+    "opts": [
+      "Renin-angiotensin activation in the donor, causing oliguria, anuria and anhydramnios",
+      "Polyhydramnios in the recipient compressing the donor against the uterine wall",
+      "Cord entanglement between the two fetuses lying in a single sac",
+      "A uterine septum separating the two gestational sacs"
+    ],
+    "ans": 0,
+    "exp": "The donor twin is volume depleted, activates the renin-angiotensin system and stops making urine, so it becomes the stuck twin in an anhydramniotic sac."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-022",
+    "q": "When spontaneous delivery of the buttocks does not occur — match the manoeuvre to the breech type: complete breech : frank breech.",
+    "opts": [
+      "Complete breech: groin traction — frank breech: Pinard's manoeuvre in the popliteal fossa",
+      "Complete breech: Pinard's manoeuvre — frank breech: groin traction",
+      "Complete breech: Lovset's manoeuvre — frank breech: Pinard's manoeuvre",
+      "Complete breech: Bracht's manoeuvre — frank breech: groin traction"
+    ],
+    "ans": 0,
+    "exp": "A complete breech is delivered by traction in the groin; with extended legs the knees must be unlocked first by Pinard's manoeuvre."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-042",
+    "opts": [
+      "Two failed attempts at version, version contraindicated, or transverse lie in active labour",
+      "Only when the fetus is known to be alive at the time of diagnosis",
+      "Only in a primigravida with an unscarred uterus",
+      "Only once the membranes have ruptured spontaneously in labour"
+    ],
+    "ans": 0,
+    "exp": "A transverse lie at term is delivered by caesarean when version fails or is contraindicated, or once labour is established."
+  }
+]

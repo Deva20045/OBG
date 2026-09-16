@@ -65,13 +65,13 @@
    "page": 447,
    "q": "Which listed bleeding is explicitly NOT APH?",
    "opts": [
-    "Preterm labour – blood-mixed mucus discharge (show)",
-    "Abruptio placenta",
-    "Placenta previa",
-    "Vasa previa"
+    "A blood-stained mucus show in preterm labour, which is not antepartum haemorrhage",
+    "Bleeding from placental abruption with a tender, contracting uterus",
+    "Painless recurrent bleeding from placenta previa in the third trimester",
+    "Bleeding from vasa previa accompanied by fetal bradycardia"
    ],
    "ans": 0,
-   "exp": "Preterm labour 'show' (blood-mixed mucus discharge) is not APH. (Book p447)"
+   "exp": "A show is mucus with a little blood from the cervix; antepartum haemorrhage means bleeding from the placental site or vessels after viability. (Book p447)"
   },
   {
    "id": "OBG-C12-006",
@@ -173,6 +173,21 @@
   },
   {
    "id": "OBG-C12-013",
+   "sec": "Antepartum hemorrhage definition & causes",
+   "page": 447,
+   "q": "Fill up: Antepartum haemorrhage is bleeding from or into the genital tract after ______ weeks of gestation, and its two commonest causes are placenta previa and ______.",
+   "opts": [
+    "28; abruptio placentae",
+    "20; vasa previa",
+    "28; cervical polyp",
+    "37; uterine rupture"
+   ],
+   "ans": 0,
+   "exp": "After the period of viability (28 weeks in India), the classic causes are placenta previa and abruptio placentae, with local causes and vasa previa less common. (Book p447)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C12-014",
    "sec": "PP: important features & classification",
    "page": 448,
    "q": "For a diagnosis of placenta previa, the distance between the placenta and the internal os should be:",
@@ -186,7 +201,7 @@
    "exp": "PP is defined by a placenta–internal os distance of ≤2 cm. (Book p448)"
   },
   {
-   "id": "OBG-C12-014",
+   "id": "OBG-C12-015",
    "sec": "PP: important features & classification",
    "page": 448,
    "q": "Why should the diagnosis of placenta previa be made only in the third trimester?",
@@ -200,7 +215,7 @@
    "exp": "Differential growth of the lower uterine segment in T3 migrates the placenta upwards, so diagnosis is reserved for T3. (Book p448)"
   },
   {
-   "id": "OBG-C12-015",
+   "id": "OBG-C12-016",
    "sec": "PP: important features & classification",
    "page": 448,
    "q": "What are the best weeks for ultrasound assessment of placenta previa?",
@@ -214,7 +229,7 @@
    "exp": "The best time for USG in PP is 32 weeks and 36 weeks. (Book p448)"
   },
   {
-   "id": "OBG-C12-016",
+   "id": "OBG-C12-017",
    "sec": "PP: important features & classification",
    "page": 448,
    "q": "Thromboplastin release in abruptio placenta causes all EXCEPT:",
@@ -228,7 +243,7 @@
    "exp": "Thromboplastin causes a tense tender rigid uterus, labour initiation, ↑MMP → necrosis → blood loss and DIC – not relaxation. (Book p448)"
   },
   {
-   "id": "OBG-C12-017",
+   "id": "OBG-C12-018",
    "sec": "PP: important features & classification",
    "page": 448,
    "q": "Old classification: Type 1 placenta previa means the placental edge:",
@@ -242,7 +257,7 @@
    "exp": "Type 1 (lateral PP): edge within 2 cm of the internal os, with anterior and posterior subtypes. (Book p448)"
   },
   {
-   "id": "OBG-C12-018",
+   "id": "OBG-C12-019",
    "sec": "PP: important features & classification",
    "page": 448,
    "q": "Type 2 placenta previa is called ______ and its posterior subtype is labelled ______.",
@@ -256,7 +271,7 @@
    "exp": "Type 2 = marginal PP (edge reaches the os margin); type 2 posterior PP is the dangerous variety. (Book p448)"
   },
   {
-   "id": "OBG-C12-019",
+   "id": "OBG-C12-020",
    "sec": "PP: important features & classification",
    "page": 448,
    "q": "Type 3 placenta previa corresponds to:",
@@ -270,7 +285,22 @@
    "exp": "Type 3 = placenta covering the internal os partially (incomplete placenta previa). (Book p448)"
   },
   {
-   "id": "OBG-C12-020",
+   "id": "OBG-C12-021",
+   "sec": "Important features & classification of APH",
+   "page": 448,
+   "q": "Which of the following statements about placenta previa is TRUE?",
+   "opts": [
+    "Classic placenta previa causes painless, recurrent, bright red bleeding with a soft non-tender uterus",
+    "Placenta previa typically causes severe abdominal pain with a rigid, tender uterus",
+    "Bleeding from placenta previa is always provoked by intercourse or trauma",
+    "The fetal head is usually deeply engaged in the pelvis in placenta previa"
+   ],
+   "ans": 0,
+   "exp": "Painless bright bleeding with a soft relaxed uterus and a high or malpresenting head is previa; pain with a woody uterus is abruption. (Book p448)",
+   "fmt": "truefalse"
+  },
+  {
+   "id": "OBG-C12-022",
    "sec": "PP types & abruptio varieties",
    "page": 449,
    "q": "Type 4 placenta previa is also known as:",
@@ -284,21 +314,21 @@
    "exp": "Type 4 = placenta covering the internal os completely (complete/central PP). (Book p449)"
   },
   {
-   "id": "OBG-C12-021",
+   "id": "OBG-C12-023",
    "sec": "PP types & abruptio varieties",
    "page": 449,
    "q": "In the NEW classification, 'low lying placenta' equals ______ while 'placenta previa' includes ______.",
    "opts": [
-    "Type I; Types I, II and III (reaching the os margin or covering it)",
-    "Types I–IV; Type I only",
-    "Type II; Types III and IV",
-    "Type I; Type IV only"
+    "Low-lying: type I — placenta previa: types I, II and III reaching or covering the os",
+    "Low-lying: types I to IV — placenta previa: type I alone",
+    "Low-lying: type II — placenta previa: types III and IV only",
+    "Low-lying: type I — placenta previa: type IV alone"
    ],
    "ans": 0,
-   "exp": "New classification: low lying = Type I; placenta previa = Types I, II, III when the placenta reaches the os margin or covers it. (Book p449)"
+   "exp": "In the new classification low-lying placenta is type I, while placenta previa covers types I to III reaching or covering the os. (Book p449)"
   },
   {
-   "id": "OBG-C12-022",
+   "id": "OBG-C12-024",
    "sec": "PP types & abruptio varieties",
    "page": 449,
    "q": "Match the abruptio variety with its findings: revealed, concealed, mixed.",
@@ -312,7 +342,7 @@
    "exp": "Revealed: clot −, bleeding +; concealed: clot +, bleeding −; mixed (m/c): clot + and bleeding +. (Book p449)"
   },
   {
-   "id": "OBG-C12-023",
+   "id": "OBG-C12-025",
    "sec": "PP types & abruptio varieties",
    "page": 449,
    "q": "Which abruptio variety is the most common?",
@@ -326,7 +356,7 @@
    "exp": "The mixed variety is the most common. (Book p449)"
   },
   {
-   "id": "OBG-C12-024",
+   "id": "OBG-C12-026",
    "sec": "PP types & abruptio varieties",
    "page": 449,
    "q": "Page (grade) classification of abruptio: Grade 0 is diagnosed:",
@@ -340,7 +370,7 @@
    "exp": "Grade 0 is a retrospective diagnosis based on the retroplacental clot. (Book p449)"
   },
   {
-   "id": "OBG-C12-025",
+   "id": "OBG-C12-027",
    "sec": "PP types & abruptio varieties",
    "page": 449,
    "q": "Grade 1 vs Grade 2 abruptio differ in which fetal feature?",
@@ -354,7 +384,7 @@
    "exp": "Grade 1 has normal FHS; Grade 2 shows fetal distress, both with bleeding + pain. (Book p449)"
   },
   {
-   "id": "OBG-C12-026",
+   "id": "OBG-C12-028",
    "sec": "PP types & abruptio varieties",
    "page": 449,
    "q": "Grade 3 abruptio is characterised by:",
@@ -368,7 +398,7 @@
    "exp": "Grade 3 = bleeding + pain, maternal shock, +/− DIC and fetal death. (Book p449)"
   },
   {
-   "id": "OBG-C12-027",
+   "id": "OBG-C12-029",
    "sec": "PP types & abruptio varieties",
    "page": 449,
    "q": "The note lists which risk/predisposing factors for abruptio?",
@@ -382,7 +412,22 @@
    "exp": "Risk factor is PIH; primigravida and smoking are predisposing. (Book p449)"
   },
   {
-   "id": "OBG-C12-028",
+   "id": "OBG-C12-030",
+   "sec": "Placenta previa types & abruptio varieties",
+   "page": 449,
+   "q": "Match the grade of placenta previa with its description — 1) Type I 2) Type II 3) Type IV … A) The placenta reaches the lower segment but not the margin of the internal os B) The placenta reaches the margin of the internal os but does not cover it C) The placenta completely covers the internal os even when the os is fully dilated",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Type I is low-lying, type II is marginal and reaching the os, type III partially covers it and type IV covers it completely. (Book p449)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C12-031",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "The m/c risk factor for placenta previa and its recurrence rate are:",
@@ -396,35 +441,35 @@
    "exp": "Previous placenta previa is m/c with a 5–8% recurrence rate. (Book p450)"
   },
   {
-   "id": "OBG-C12-029",
+   "id": "OBG-C12-032",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "Which conditions cause a LARGE placenta predisposing to previa?",
    "opts": [
-    "Diabetes, Rh-negative pregnancy, twins, succenturiate lobe, placenta bilobata",
-    "PIH and thrombophilia",
-    "Folic acid deficiency",
-    "Cocaine abuse"
+    "Diabetes, Rh-negative pregnancy, twins, a succenturiate lobe and placenta bilobata",
+    "Pregnancy-induced hypertension and maternal thrombophilia",
+    "Folic acid deficiency with severe maternal anaemia",
+    "Cocaine abuse with the placental infarction it produces"
    ],
    "ans": 0,
-   "exp": "Large placental size from diabetes, Rh-negative pregnancy, twin pregnancy, succenturiate lobe and bilobata predisposes to PP. (Book p450)"
+   "exp": "A bulky placenta covers more of the lower segment, so conditions that enlarge the placenta predispose to previa. (Book p450)"
   },
   {
-   "id": "OBG-C12-030",
+   "id": "OBG-C12-033",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "Adhesion formation that prevents placental migration follows:",
    "opts": [
-    "Previous C-section, uterine surgery or curettage; smoking → endometritis",
-    "Polyhydramnios",
-    "Folic acid deficiency",
-    "Primigravity"
+    "Previous caesarean, uterine surgery or curettage, and smoking with endometritis",
+    "Polyhydramnios, which stretches the uterus and thins the decidua",
+    "Folic acid deficiency, which impairs the development of the decidua",
+    "Primigravidity, since a first pregnancy leaves behind the most adhesions"
    ],
    "ans": 0,
-   "exp": "Adhesions from prior C-section/uterine surgery/curettage and smoking-induced endometritis block migration. (Book p450)"
+   "exp": "Anything that scars or inflames the endometrium prevents the placenta from migrating away from the lower segment. (Book p450)"
   },
   {
-   "id": "OBG-C12-031",
+   "id": "OBG-C12-034",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "The m/c risk factor for abruptio placenta and its recurrence rate are:",
@@ -438,7 +483,7 @@
    "exp": "Previous abruptio placenta is m/c with a 15% recurrence rate. (Book p450)"
   },
   {
-   "id": "OBG-C12-032",
+   "id": "OBG-C12-035",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "Which is NOT a listed abruptio risk factor?",
@@ -452,7 +497,7 @@
    "exp": "Listed risks include folic acid deficiency, ↑ age/parity, smoking/cocaine, thrombophilia, PIH/chronic HTN, fibroid, twins, polyhydramnios, SUA, PROM and trauma – not young first pregnancy. (Book p450)"
   },
   {
-   "id": "OBG-C12-033",
+   "id": "OBG-C12-036",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "Risk factors common to both placenta previa and abruptio are:",
@@ -466,7 +511,7 @@
    "exp": "Common risk factors: ↑ maternal age, ↑ parity (multiparae) and smoking. (Book p450)"
   },
   {
-   "id": "OBG-C12-034",
+   "id": "OBG-C12-037",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "In placenta previa, the m/c malpresentation and m/c lie are:",
@@ -480,7 +525,7 @@
    "exp": "Malpresentation is m/c with transverse lie more common than breech. (Book p450)"
   },
   {
-   "id": "OBG-C12-035",
+   "id": "OBG-C12-038",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "The m/c cause of transverse lie AT TERM and its management are:",
@@ -494,7 +539,7 @@
    "exp": "At term the m/c cause of transverse lie is placenta accreta, managed by C-section → hysterectomy. (Book p450)"
   },
   {
-   "id": "OBG-C12-036",
+   "id": "OBG-C12-039",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "Overall (any gestation), the m/c cause of transverse lie is:",
@@ -508,21 +553,21 @@
    "exp": "Overall m/c cause of transverse lie is preterm delivery; at term it is placenta previa/accreta. (Book p450)"
   },
   {
-   "id": "OBG-C12-037",
+   "id": "OBG-C12-040",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "In posterior varieties of placenta previa, the fetal head pushed into the pelvis produces which sign?",
    "opts": [
-    "Stallworthy sign with fetal distress",
-    "Cullen sign",
-    "Chadwick sign",
-    "Bandl's sign"
+    "Stallworthy's sign, where the head cannot be pushed into the pelvis, with fetal distress",
+    "Cullen's sign, with bluish discolouration around the umbilicus",
+    "Chadwick's sign, with bluish discolouration of the vaginal mucosa",
+    "Bandl's sign, with a rising retraction ring across the abdomen"
    ],
    "ans": 0,
-   "exp": "Posterior PP varieties push the head into the pelvis causing Stallworthy sign (fetal distress). (Book p450)"
+   "exp": "In a posterior placenta previa the head is held up by the placental mass and cannot be pushed into the pelvis: Stallworthy's sign. (Book p450)"
   },
   {
-   "id": "OBG-C12-038",
+   "id": "OBG-C12-041",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "A bluish, bruised uterus with blood clots in the myometrium in abruptio is called:",
@@ -536,7 +581,7 @@
    "exp": "Retroplacental bleeding tracking into the myometrium gives the Couvelaire uterus. (Book p450)"
   },
   {
-   "id": "OBG-C12-039",
+   "id": "OBG-C12-042",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "True or false per the notes: Couvelaire uterus is an indication for hysterectomy.",
@@ -550,7 +595,7 @@
    "exp": "The notes state Couvelaire uterus is not an indication for hysterectomy. (Book p450)"
   },
   {
-   "id": "OBG-C12-040",
+   "id": "OBG-C12-043",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "Abruptio placenta is associated with increased chances of:",
@@ -564,7 +609,7 @@
    "exp": "Associations: ↑ PPH, retroplacental clot, DIC via thromboplastin and preterm labour. (Book p450)"
   },
   {
-   "id": "OBG-C12-041",
+   "id": "OBG-C12-044",
    "sec": "PP vs abruptio: risk factors & associations",
    "page": 450,
    "q": "Name the rare associations of chronic abruption listed.",
@@ -578,7 +623,22 @@
    "exp": "Rare associations: CAOS and precipitate labour (entire labour completed in 3 hours). (Book p450)"
   },
   {
-   "id": "OBG-C12-042",
+   "id": "OBG-C12-045",
+   "sec": "Risk factors & associations",
+   "page": 450,
+   "q": "All of the following are risk factors for placenta previa EXCEPT:",
+   "opts": [
+    "Pre-eclampsia and chronic hypertension",
+    "A previous caesarean delivery",
+    "Multiparity and advancing maternal age",
+    "A previous pregnancy complicated by placenta previa"
+   ],
+   "ans": 0,
+   "exp": "Hypertensive disorders are linked to abruption rather than previa; scarring of the endometrium from surgery, parity and age are previa risks. (Book p450)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C12-046",
    "sec": "PP vs abruptio: presentation & examination",
    "page": 451,
    "q": "In a patient of preterm labour with a tense, tender, rigid uterus you should suspect:",
@@ -592,7 +652,7 @@
    "exp": "A tense, tender, rigid uterus in PTL raises the chance of abruptio placenta. (Book p451)"
   },
   {
-   "id": "OBG-C12-043",
+   "id": "OBG-C12-047",
    "sec": "PP vs abruptio: presentation & examination",
    "page": 451,
    "q": "In a PPH patient with sustained fetal distress, which diagnosis must be ruled out?",
@@ -606,35 +666,35 @@
    "exp": "Sustained fetal distress with PPH mandates ruling out abruptio placenta. (Book p451)"
   },
   {
-   "id": "OBG-C12-044",
+   "id": "OBG-C12-048",
    "sec": "PP vs abruptio: presentation & examination",
    "page": 451,
    "q": "Describe the bleeding of placenta previa.",
    "opts": [
-    "Bright red, recurrent, painless, no precipitating factor; small warning hemorrhage then excess",
-    "Dark red, non-recurrent with pain",
-    "Blood-mixed mucus discharge",
-    "Continuous trickle with rigid uterus"
+    "Bright red, recurrent and painless, with no precipitating factor and often a small warning bleed",
+    "Dark red and non-recurrent, with severe abdominal pain and a tender uterus",
+    "A blood-stained mucus discharge mixed with the cervical show of labour",
+    "A continuous dark trickle of blood with a rigid, tender uterus"
    ],
    "ans": 0,
-   "exp": "PP bleeding is bright red, recurrent, painless without precipitating factors, starting as a warning hemorrhage. (Book p451)"
+   "exp": "Previa bleeds bright and painlessly with no trigger; pain, darkness and tenderness point to abruption instead. (Book p451)"
   },
   {
-   "id": "OBG-C12-045",
+   "id": "OBG-C12-049",
    "sec": "PP vs abruptio: presentation & examination",
    "page": 451,
    "q": "Describe the bleeding of abruptio placenta.",
    "opts": [
-    "Dark red, non-recurrent, with abdominal pain and precipitating factors (trauma/PIH/accident), no warning hemorrhage",
-    "Bright red and painless",
-    "Recurrent with free intervals",
-    "Only post-coital"
+    "Dark red, non-recurrent, with abdominal pain and a precipitating factor such as trauma or hypertension",
+    "Bright red and painless, recurring at intervals through the third trimester",
+    "Recurrent with completely free intervals and a soft non-tender uterus",
+    "Only after sexual intercourse, with no pain or uterine tenderness at all"
    ],
    "ans": 0,
-   "exp": "Abruptio bleeding is dark red, non-recurrent, painful, with precipitating factors and no warning hemorrhage. (Book p451)"
+   "exp": "Abruption bleeds dark and often concealed, with pain and a trigger such as trauma or hypertension; previa is bright, painless and recurrent. (Book p451)"
   },
   {
-   "id": "OBG-C12-046",
+   "id": "OBG-C12-050",
    "sec": "PP vs abruptio: presentation & examination",
    "page": 451,
    "q": "General examination in abruptio (mixed/concealed varieties) shows shock that:",
@@ -648,7 +708,7 @@
    "exp": "In mixed and concealed varieties shock does not correspond to visible blood loss. (Book p451)"
   },
   {
-   "id": "OBG-C12-047",
+   "id": "OBG-C12-051",
    "sec": "PP vs abruptio: presentation & examination",
    "page": 451,
    "q": "Per-abdominal findings in placenta previa include all EXCEPT:",
@@ -662,7 +722,7 @@
    "exp": "A tense tender rigid uterus belongs to abruptio; PP gives a soft relaxed non-tender uterus. (Book p451)"
   },
   {
-   "id": "OBG-C12-048",
+   "id": "OBG-C12-052",
    "sec": "PP vs abruptio: presentation & examination",
    "page": 451,
    "q": "In abruptio placenta, the uterine height compared with POG and fetal status are:",
@@ -676,7 +736,7 @@
    "exp": "Height of uterus > POG and fetal distress are features of abruptio. (Book p451)"
   },
   {
-   "id": "OBG-C12-049",
+   "id": "OBG-C12-053",
    "sec": "PP vs abruptio: presentation & examination",
    "page": 451,
    "q": "Per vaginal examination in placenta previa is contraindicated because it leads to excessive bleeding. Which other activity is also contraindicated?",
@@ -690,7 +750,7 @@
    "exp": "Intercourse is also contraindicated in PP. (Book p451)"
   },
   {
-   "id": "OBG-C12-050",
+   "id": "OBG-C12-054",
    "sec": "PP vs abruptio: presentation & examination",
    "page": 451,
    "q": "In abruptio placenta, P/V examination is performed:",
@@ -704,7 +764,7 @@
    "exp": "P/V is done in abruptio only after excluding PP. (Book p451)"
   },
   {
-   "id": "OBG-C12-051",
+   "id": "OBG-C12-055",
    "sec": "PP vs abruptio: presentation & examination",
    "page": 451,
    "q": "Investigation of choice in placenta previa and its purpose:",
@@ -718,7 +778,7 @@
    "exp": "TVS is IOC to measure the exact distance between the external and internal os. (Book p451)"
   },
   {
-   "id": "OBG-C12-052",
+   "id": "OBG-C12-056",
    "sec": "PP vs abruptio: presentation & examination",
    "page": 451,
    "q": "Abruptio placenta is diagnosed by:",
@@ -732,7 +792,7 @@
    "exp": "Abruptio is a clinical diagnosis aided by USG. (Book p451)"
   },
   {
-   "id": "OBG-C12-053",
+   "id": "OBG-C12-057",
    "sec": "PP vs abruptio: presentation & examination",
    "page": 451,
    "q": "Screening USG pathway for suspected previa: first ______, and if the placenta is in the LUS then ______.",
@@ -746,7 +806,22 @@
    "exp": "Suspected PP is screened by transabdominal USG; placenta in LUS prompts TVS. (Book p451)"
   },
   {
-   "id": "OBG-C12-054",
+   "id": "OBG-C12-058",
+   "sec": "Presentation & examination in APH",
+   "page": 451,
+   "q": "A 32-year-old G3P2 at 34 weeks has had a single painless episode of bright red bleeding that has now stopped. The uterus is soft and non-tender, the fetal heart is normal and the head is not engaged. What is the next step?",
+   "opts": [
+    "Ultrasound to locate the placenta, and no digital vaginal examination until placenta previa is excluded",
+    "Immediate digital vaginal examination to assess the cervix and confirm the source",
+    "Emergency caesarean section on clinical grounds before any imaging",
+    "Induction of labour with oxytocin because she is already 34 weeks"
+   ],
+   "ans": 0,
+   "exp": "Every woman with antepartum haemorrhage is imaged before any digital examination, because examining a previa can cause torrential bleeding. (Book p451)",
+   "fmt": "scenario"
+  },
+  {
+   "id": "OBG-C12-059",
    "sec": "Management of placenta previa",
    "page": 452,
    "q": "Initial resuscitation for third-trimester bleeding includes which cannulae and investigations?",
@@ -760,7 +835,7 @@
    "exp": "Resuscitation uses two 14/16 cannulas with ABO/Rh, PT, BT, CT, crystalloids, blood arrangement and catheterisation. (Book p452)"
   },
   {
-   "id": "OBG-C12-055",
+   "id": "OBG-C12-060",
    "sec": "Management of placenta previa",
    "page": 452,
    "q": "Which step is NOT part of the resuscitation checklist for third-trimester bleeding?",
@@ -774,7 +849,7 @@
    "exp": "The checklist covers cannulas, investigations, crystalloids, blood, catheter, ABC and oxygen – not routine tocolysis. (Book p452)"
   },
   {
-   "id": "OBG-C12-056",
+   "id": "OBG-C12-061",
    "sec": "Management of placenta previa",
    "page": 452,
    "q": "The three assessment parameters after resuscitation are:",
@@ -788,7 +863,7 @@
    "exp": "Assess vitals, FHS and DIC. (Book p452)"
   },
   {
-   "id": "OBG-C12-057",
+   "id": "OBG-C12-062",
    "sec": "Management of placenta previa",
    "page": 452,
    "q": "If ANY ONE of the assessment parameters is abnormal, the action is:",
@@ -802,21 +877,21 @@
    "exp": "Any abnormal parameter mandates immediate C-section irrespective of diagnosis. (Book p452)"
   },
   {
-   "id": "OBG-C12-058",
+   "id": "OBG-C12-063",
    "sec": "Management of placenta previa",
    "page": 452,
    "q": "With all three parameters normal, the next step is:",
    "opts": [
-    "History and P/A examination followed by transabdominal screening USG",
-    "Direct TVS",
-    "Emergency C-section",
-    "MRI pelvis"
+    "History and abdominal examination followed by a transabdominal screening ultrasound",
+    "Direct transvaginal scanning before any clinical assessment is made",
+    "Emergency caesarean section on the basis of the presenting complaint alone",
+    "Magnetic resonance imaging of the pelvis to map the placental site"
    ],
    "ans": 0,
-   "exp": "All normal → proceed on history and P/A findings to TAS (screening USG). (Book p452)"
+   "exp": "Transabdominal screening comes first; transvaginal scanning is then used to measure the placental edge when needed. (Book p452)"
   },
   {
-   "id": "OBG-C12-059",
+   "id": "OBG-C12-064",
    "sec": "Management of placenta previa",
    "page": 452,
    "q": "Which triad confirms abruptio on imaging/examination?",
@@ -830,7 +905,7 @@
    "exp": "Abruptio (+): placenta in UUS, retroplacental clot and Jello sign (shimmering placenta on movement). (Book p452)"
   },
   {
-   "id": "OBG-C12-060",
+   "id": "OBG-C12-065",
    "sec": "Management of placenta previa",
    "page": 452,
    "q": "The Jello sign refers to:",
@@ -844,7 +919,7 @@
    "exp": "Jello sign = shimmering of the placenta on movement, seen in abruptio. (Book p452)"
   },
   {
-   "id": "OBG-C12-061",
+   "id": "OBG-C12-066",
    "sec": "Management of placenta previa",
    "page": 452,
    "q": "A placenta found in the LUS in T1/T2 without any history of P/V bleeding will migrate in what proportion of cases?",
@@ -858,7 +933,22 @@
    "exp": "In 80–90% of such cases placental migration occurs. (Book p452)"
   },
   {
-   "id": "OBG-C12-062",
+   "id": "OBG-C12-067",
+   "sec": "Management of placenta previa",
+   "page": 452,
+   "q": "Fill up: Until placenta previa has been excluded, a ______ examination must not be performed, since it can provoke catastrophic haemorrhage.",
+   "opts": [
+    "digital vaginal",
+    "speculum",
+    "transvaginal ultrasound",
+    "gentle abdominal"
+   ],
+   "ans": 0,
+   "exp": "A speculum examination and transvaginal ultrasound are safe, but a finger in the cervix can separate the placenta and cause massive bleeding. (Book p452)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C12-068",
    "sec": "PP: follow-up & mode of delivery",
    "page": 453,
    "q": "Advice given to a patient with a low-lying placenta includes avoiding:",
@@ -872,7 +962,7 @@
    "exp": "Avoid intercourse, exercise, heavy weights and standing ≥4 hours; TVS at 32 weeks and report any bleeding. (Book p453)"
   },
   {
-   "id": "OBG-C12-063",
+   "id": "OBG-C12-069",
    "sec": "PP: follow-up & mode of delivery",
    "page": 453,
    "q": "Follow-up scan schedule: no P/V bleeding → repeat USG at 32 weeks; if placenta still in LUS →",
@@ -886,7 +976,7 @@
    "exp": "Placenta in LUS at 32 weeks → repeat TVS at 36 weeks. (Book p453)"
   },
   {
-   "id": "OBG-C12-064",
+   "id": "OBG-C12-070",
    "sec": "PP: follow-up & mode of delivery",
    "page": 453,
    "q": "If the placenta is STILL in the LUS at 36 weeks, delivery is planned as:",
@@ -900,7 +990,7 @@
    "exp": "Persistent LUS placenta → plan C-section between 36–37 weeks + 6 days. (Book p453)"
   },
   {
-   "id": "OBG-C12-065",
+   "id": "OBG-C12-071",
    "sec": "PP: follow-up & mode of delivery",
    "page": 453,
    "q": "If at follow-up the placenta is in the upper uterine segment, the interpretation is:",
@@ -914,7 +1004,7 @@
    "exp": "Placenta in UUS means migration occurred; it is not placenta previa. (Book p453)"
   },
   {
-   "id": "OBG-C12-066",
+   "id": "OBG-C12-072",
    "sec": "PP: follow-up & mode of delivery",
    "page": 453,
    "q": "Mode of delivery: a low-lying placenta 1–2 cm from the internal os is best managed by:",
@@ -928,7 +1018,7 @@
    "exp": "Between 1–2 cm of the internal os, C-section is preferred but vaginal delivery is possible. (Book p453)"
   },
   {
-   "id": "OBG-C12-067",
+   "id": "OBG-C12-073",
    "sec": "PP: follow-up & mode of delivery",
    "page": 453,
    "q": "A placenta within 1 cm of the internal os, and true placenta previa, require:",
@@ -942,7 +1032,7 @@
    "exp": "Within 1 cm → C-section; placenta previa → always C-section. (Book p453)"
   },
   {
-   "id": "OBG-C12-068",
+   "id": "OBG-C12-074",
    "sec": "PP: follow-up & mode of delivery",
    "page": 453,
    "q": "In placenta previa WITH active bleeding, expectant management aims to:",
@@ -956,7 +1046,22 @@
    "exp": "Expectant care continues pregnancy for fetal lung maturity without risking maternal life; active management terminates immediately by C-section. (Book p453)"
   },
   {
-   "id": "OBG-C12-069",
+   "id": "OBG-C12-075",
+   "sec": "Follow-up & mode of delivery",
+   "page": 453,
+   "q": "Which of the following statements about delivery in placenta previa is TRUE?",
+   "opts": [
+    "Major or central previa needs caesarean section, while a minor previa whose edge lies more than 2 cm from the internal os may allow a trial of labour",
+    "Vaginal delivery is safe for every degree of placenta previa as long as the fetus is alive",
+    "A placental edge within 1 cm of the internal os is safe for a trial of labour",
+    "Caesarean section is needed only if bleeding recurs after 37 weeks"
+   ],
+   "ans": 0,
+   "exp": "The measured distance from the placental edge to the internal os decides the mode: an edge beyond 2 cm permits a trial of labour. (Book p453)",
+   "fmt": "truefalse"
+  },
+  {
+   "id": "OBG-C12-076",
    "sec": "PP: expectant vs active management",
    "page": 454,
    "q": "Which combination favours EXPECTANT management of bleeding previa?",
@@ -970,7 +1075,7 @@
    "exp": "Expectant needs ALL of: stable vitals, no active bleeding, <37 weeks, normal FHS/CTG and no major anomaly. (Book p454)"
   },
   {
-   "id": "OBG-C12-070",
+   "id": "OBG-C12-077",
    "sec": "PP: expectant vs active management",
    "page": 454,
    "q": "Which single finding triggers ACTIVE management in bleeding previa?",
@@ -984,7 +1089,7 @@
    "exp": "ANY one of unstable vitals, active bleeding, ≥37 weeks (or ≥34 weeks with extreme loss), fetal distress or gross anomaly triggers active management. (Book p454)"
   },
   {
-   "id": "OBG-C12-071",
+   "id": "OBG-C12-078",
    "sec": "PP: expectant vs active management",
    "page": 454,
    "q": "At what gestation does active management become indicated even without extreme blood loss?",
@@ -998,7 +1103,7 @@
    "exp": "POG ≥37 weeks favours active management; ≥34 weeks only with extreme blood loss. (Book p454)"
   },
   {
-   "id": "OBG-C12-072",
+   "id": "OBG-C12-079",
    "sec": "PP: expectant vs active management",
    "page": 454,
    "q": "Expectant management of previa is also named the ______ regime and starts with:",
@@ -1012,7 +1117,7 @@
    "exp": "Expectant management = MacAfee/Johnson's regime beginning with admission and bed rest. (Book p454)"
   },
   {
-   "id": "OBG-C12-073",
+   "id": "OBG-C12-080",
    "sec": "PP: expectant vs active management",
    "page": 454,
    "q": "Monitoring during expectant management covers:",
@@ -1026,7 +1131,7 @@
    "exp": "Monitor maternal vitals, FHS and bleeding; arrange blood; give anti-D if Rh-negative. (Book p454)"
   },
   {
-   "id": "OBG-C12-074",
+   "id": "OBG-C12-081",
    "sec": "PP: expectant vs active management",
    "page": 454,
    "q": "An Rh-negative mother under expectant management should receive:",
@@ -1040,7 +1145,7 @@
    "exp": "Anti-D is given if the patient is Rh-negative. (Book p454)"
   },
   {
-   "id": "OBG-C12-075",
+   "id": "OBG-C12-082",
    "sec": "PP: expectant vs active management",
    "page": 454,
    "q": "Steroid and tocolytic rules in expectant previa: POG <34 weeks gets ______ and POG <32 weeks adds ______.",
@@ -1054,7 +1159,7 @@
    "exp": "<34 weeks: dexamethasone + tocolytics; <32 weeks: add MgSO4 for fetal neural protection; continue till 37 weeks then elective C-section (36–37 weeks). (Book p454)"
   },
   {
-   "id": "OBG-C12-076",
+   "id": "OBG-C12-083",
    "sec": "PP: expectant vs active management",
    "page": 454,
    "q": "In ALL cases of placenta previa the notes advise suspecting:",
@@ -1068,7 +1173,7 @@
    "exp": "Every previa should raise suspicion of placenta accreta. (Book p454)"
   },
   {
-   "id": "OBG-C12-077",
+   "id": "OBG-C12-084",
    "sec": "PP: expectant vs active management",
    "page": 454,
    "q": "If Doppler USG in previa shows accreta features, the operative plan becomes:",
@@ -1082,7 +1187,22 @@
    "exp": "With accreta present, C-section proceeds to hysterectomy (caesarean hysterectomy). (Book p454)"
   },
   {
-   "id": "OBG-C12-078",
+   "id": "OBG-C12-085",
+   "sec": "Expectant vs active management of previa",
+   "page": 454,
+   "q": "A 30-year-old at 30 weeks with major placenta previa has stopped bleeding, is haemodynamically stable and has a normal CTG. What is the best plan?",
+   "opts": [
+    "Expectant inpatient management with corticosteroids, cross-matched blood and planned delivery around 36-37 weeks",
+    "Immediate caesarean delivery at 30 weeks because the bleeding has been severe",
+    "Discharge home with instructions to return if the bleeding restarts",
+    "Induction of labour by amniotomy and oxytocin infusion at 30 weeks"
+   ],
+   "ans": 0,
+   "exp": "When mother and fetus are stable, expectant management buys maturity; steroids are given and delivery planned electively around 36-37 weeks. (Book p454)",
+   "fmt": "scenario"
+  },
+  {
+   "id": "OBG-C12-086",
    "sec": "Management of abruptio & DIC",
    "page": 455,
    "q": "An abruptio patient presenting in labour pain with maternal vitals unstable, fetal distress, DIC or acute kidney injury needs:",
@@ -1096,7 +1216,7 @@
    "exp": "These emergency conditions mandate immediate C-section. (Book p455)"
   },
   {
-   "id": "OBG-C12-079",
+   "id": "OBG-C12-087",
    "sec": "Management of abruptio & DIC",
    "page": 455,
    "q": "In abruptio with FETAL DEATH, vaginal delivery is acceptable when:",
@@ -1110,7 +1230,7 @@
    "exp": "Fetal death with stable mother and no DIC allows vaginal delivery; instability or DIC pushes to C-section. (Book p455)"
   },
   {
-   "id": "OBG-C12-080",
+   "id": "OBG-C12-088",
    "sec": "Management of abruptio & DIC",
    "page": 455,
    "q": "A non-emergency abruptio (normal FHS) at ≥34 weeks is managed by:",
@@ -1124,21 +1244,21 @@
    "exp": "≥34 weeks → induction of labour/vaginal delivery; <34 weeks → expectant management. (Book p455)"
   },
   {
-   "id": "OBG-C12-081",
+   "id": "OBG-C12-089",
    "sec": "Management of abruptio & DIC",
    "page": 455,
    "q": "DIC is also called ______ and includes which obstetric causes?",
    "opts": [
-    "Consumptive coagulopathy; abruptio, amniotic fluid embolism, septic abortion, acute fatty liver, IUD ≥4 weeks, rarely severe PE/eclampsia/HELLP",
-    "Consumptive coagulopathy; only placenta previa",
-    "Dilutional coagulopathy; only PPH",
-    "Hypercoagulable state; only sepsis"
+    "Consumptive coagulopathy, from abruption, amniotic fluid embolism, septic abortion, acute fatty liver and prolonged fetal death",
+    "Consumptive coagulopathy, caused by placenta previa and nothing else",
+    "Dilutional coagulopathy, caused by postpartum haemorrhage alone",
+    "A hypercoagulable state, caused by maternal sepsis alone"
    ],
    "ans": 0,
-   "exp": "DIC = consumptive coagulopathy with the listed obstetric causes including IUD retained ≥4 weeks. (Book p455)"
+   "exp": "Obstetric DIC is consumptive: thromboplastin or tissue factor enters the circulation and consumes fibrinogen and platelets. (Book p455)"
   },
   {
-   "id": "OBG-C12-082",
+   "id": "OBG-C12-090",
    "sec": "Management of abruptio & DIC",
    "page": 455,
    "q": "Management of DIC includes:",
@@ -1152,7 +1272,7 @@
    "exp": "Treat DIC with cryoprecipitate, FFP and blood transfusion. (Book p455)"
   },
   {
-   "id": "OBG-C12-083",
+   "id": "OBG-C12-091",
    "sec": "Management of abruptio & DIC",
    "page": 455,
    "q": "In abruptio WITH DIC, the first step is:",
@@ -1166,7 +1286,22 @@
    "exp": "In abruptio + DIC, manage DIC first and then proceed to C-section. (Book p455)"
   },
   {
-   "id": "OBG-C12-084",
+   "id": "OBG-C12-092",
+   "sec": "Abruption, DIC & differential diagnosis",
+   "page": 455,
+   "q": "Match the term with its meaning — 1) Couvelaire uterus 2) Consumptive coagulopathy in abruption 3) Concealed abruption … A) Blood tracking into the myometrium and beneath the serosa, seen at caesarean section B) Falling fibrinogen and platelets with prolonged clotting times from thromboplastin release C) Blood retained behind the placenta, so the uterus is larger than dates and woody hard",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-A, 3-B",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Concealed bleeding distends the uterus, thromboplastin triggers consumption coagulopathy, and extravasation produces the Couvelaire appearance. (Book p455)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C12-093",
    "sec": "APH: differential diagnosis",
    "page": 456,
    "q": "Differential diagnosis of bleeding beyond 28 weeks includes all EXCEPT:",
@@ -1180,7 +1315,7 @@
    "exp": "The D/D list is APH (abruptio, previa, vasa previa), preterm labour show and uterine rupture. (Book p456)"
   },
   {
-   "id": "OBG-C12-085",
+   "id": "OBG-C12-094",
    "sec": "APH: differential diagnosis",
    "page": 456,
    "q": "Labour vs abruptio: match P/V, cervix and fetus findings.",
@@ -1194,7 +1329,7 @@
    "exp": "Labour shows mucus-discharge, progressive dilatation and normal FHS; abruptio shows bleeding and fetal distress. (Book p456)"
   },
   {
-   "id": "OBG-C12-086",
+   "id": "OBG-C12-095",
    "sec": "APH: differential diagnosis",
    "page": 456,
    "q": "If the distinction between labour and abruptio is doubtful, the next step is:",
@@ -1208,7 +1343,7 @@
    "exp": "When doubtful, ARM is performed to inspect the liquor. (Book p456)"
   },
   {
-   "id": "OBG-C12-087",
+   "id": "OBG-C12-096",
    "sec": "APH: differential diagnosis",
    "page": 456,
    "q": "ARM in abruptio yields which liquor and effects?",
@@ -1222,7 +1357,7 @@
    "exp": "In abruptio ARM shows dark red liquor, accelerates labour and ↑ bleeding. (Book p456)"
   },
   {
-   "id": "OBG-C12-088",
+   "id": "OBG-C12-097",
    "sec": "APH: differential diagnosis",
    "page": 456,
    "q": "Abruptio vs ruptured uterus: which history and P/A pair belongs to ruptured uterus?",
@@ -1236,7 +1371,7 @@
    "exp": "Ruptured uterus follows previous LSCS with loss of uterine contour and superficially felt parts; P/V shows loss of fetal station. (Book p456)"
   },
   {
-   "id": "OBG-C12-089",
+   "id": "OBG-C12-098",
    "sec": "APH: differential diagnosis",
    "page": 456,
    "q": "On P/V examination, loss of fetal station suggests:",
@@ -1250,7 +1385,7 @@
    "exp": "Loss of fetal station on P/V is the ruptured-uterus counterpart to a palpable head in abruptio. (Book p456)"
   },
   {
-   "id": "OBG-C12-090",
+   "id": "OBG-C12-099",
    "sec": "PAS: classification & etiopathogenesis",
    "page": 457,
    "q": "Placenta accreta spectrum was previously known as:",
@@ -1264,7 +1399,7 @@
    "exp": "PAS was previously called morbidly adherent placenta. (Book p457)"
   },
   {
-   "id": "OBG-C12-091",
+   "id": "OBG-C12-100",
    "sec": "PAS: classification & etiopathogenesis",
    "page": 457,
    "q": "FIGO grade 1 of PAS describes:",
@@ -1278,35 +1413,35 @@
    "exp": "Grade 1 = accreta with superficial myometrial attachment, the m/c grade. (Book p457)"
   },
   {
-   "id": "OBG-C12-092",
+   "id": "OBG-C12-101",
    "sec": "PAS: classification & etiopathogenesis",
    "page": 457,
    "q": "Match: grade 2 and grade 3 PAS.",
    "opts": [
-    "Grade 2 increta – villi infiltrate into myometrium; grade 3 percreta – villi attached to serosa (3a serosa, 3b bladder, 3c other pelvic structures)",
-    "Grade 2 percreta; grade 3 increta",
-    "Grade 2 accreta; grade 3 increta",
-    "Grade 2 bladder; grade 3 serosa"
+    "Grade 2 increta: villi within the myometrium — grade 3 percreta: villi reach the serosa or beyond",
+    "Grade 2 percreta: villi through the serosa — grade 3 increta: villi within the myometrium",
+    "Grade 2 accreta: villi lying on the myometrium — grade 3 increta: villi within the myometrium",
+    "Grade 2 involves the bladder — grade 3 is limited to the serosa of the uterus"
    ],
    "ans": 0,
-   "exp": "Increta infiltrates the myometrium; percreta reaches serosa (3a), bladder (3b) or other pelvic structures (3c). (Book p457)"
+   "exp": "Grade 1 is accreta, grade 2 increta into the myometrium, and grade 3 percreta to the serosa, with 3b for bladder and 3c for other organs. (Book p457)"
   },
   {
-   "id": "OBG-C12-093",
+   "id": "OBG-C12-102",
    "sec": "PAS: classification & etiopathogenesis",
    "page": 457,
    "q": "The three etiopathogenic mechanisms of PAS are:",
    "opts": [
-    "Absent decidua basalis/defective decidualization, absent Nitabuch's layer, hyper-invasiveness of cytotrophoblast",
-    "Hypertension, diabetes, smoking",
-    "Uterine overdistension, infection, trauma",
-    "Thin myometrium, polyhydramnios, twins"
+    "Defective decidualisation, absence of Nitabuch's layer and excessive trophoblastic invasiveness",
+    "Hypertension, diabetes and cigarette smoking during pregnancy",
+    "Uterine overdistension, intrauterine infection and direct trauma",
+    "A thin myometrium, polyhydramnios and a twin pregnancy"
    ],
    "ans": 0,
-   "exp": "PAS arises from deficient decidua/Nitabuch's layer and hyper-invasive cytotrophoblast. (Book p457)"
+   "exp": "Accreta spectrum is a decidua problem plus an invasive trophoblast: no decidua, no Nitabuch layer, and over-invasive cytotrophoblast. (Book p457)"
   },
   {
-   "id": "OBG-C12-094",
+   "id": "OBG-C12-103",
    "sec": "PAS: classification & etiopathogenesis",
    "page": 457,
    "q": "Nitabuch's layer is a layer of fibrinoid degeneration between ______ and its function is to:",
@@ -1320,7 +1455,7 @@
    "exp": "Nitabuch's layer lies between trophoblast and decidua basalis and limits penetration; its absence allows deeper invasion. (Book p457)"
   },
   {
-   "id": "OBG-C12-095",
+   "id": "OBG-C12-104",
    "sec": "PAS: risk factors & investigations",
    "page": 458,
    "q": "The foremost risk factor for PAS in the current pregnancy is:",
@@ -1334,7 +1469,7 @@
    "exp": "Anterior placenta previa in the present pregnancy heads the risk list. (Book p458)"
   },
   {
-   "id": "OBG-C12-096",
+   "id": "OBG-C12-105",
    "sec": "PAS: risk factors & investigations",
    "page": 458,
    "q": "Previous surgeries predisposing to PAS include:",
@@ -1348,7 +1483,7 @@
    "exp": "Prior C-section (risk ↑ with number), myomectomy, curettage and endometrial ablation predispose to PAS. (Book p458)"
   },
   {
-   "id": "OBG-C12-097",
+   "id": "OBG-C12-106",
    "sec": "PAS: risk factors & investigations",
    "page": 458,
    "q": "Maternal serum markers (not done routinely) that raise PAS risk are:",
@@ -1362,7 +1497,7 @@
    "exp": "Maternal serum AFP ≥2.5 MoM and hCG ≥2.5 MoM indicate ↑ PAS risk. (Book p458)"
   },
   {
-   "id": "OBG-C12-098",
+   "id": "OBG-C12-107",
    "sec": "PAS: risk factors & investigations",
    "page": 458,
    "q": "Screening and definitive diagnosis of PAS are:",
@@ -1376,7 +1511,7 @@
    "exp": "Screening is the anomaly scan with characteristic T2 findings; definitive is colour Doppler USG (IOC) at 28 weeks. (Book p458)"
   },
   {
-   "id": "OBG-C12-099",
+   "id": "OBG-C12-108",
    "sec": "PAS: risk factors & investigations",
    "page": 458,
    "q": "Which USG sign of PAS describes sonolucent areas with a moth-eaten appearance and ↑ vascularity on Doppler?",
@@ -1390,7 +1525,7 @@
    "exp": "Large lacunae/lakes with moth-eaten appearance and hypervascular lacunae are PAS signs. (Book p458)"
   },
   {
-   "id": "OBG-C12-100",
+   "id": "OBG-C12-109",
    "sec": "PAS: risk factors & investigations",
    "page": 458,
    "q": "Thinning of the retroplacental myometrium in PAS is defined as a serosa–myometrium distance of:",
@@ -1404,7 +1539,7 @@
    "exp": "A distance <1 mm between serosa and myometrium defines thinning. (Book p458)"
   },
   {
-   "id": "OBG-C12-101",
+   "id": "OBG-C12-110",
    "sec": "PAS: risk factors & investigations",
    "page": 458,
    "q": "Bridging vessels in PAS are seen between the placenta and:",
@@ -1418,7 +1553,7 @@
    "exp": "Bridging vessels cross the placenta–bladder/serosa interface with Doppler hypervascularity. (Book p458)"
   },
   {
-   "id": "OBG-C12-102",
+   "id": "OBG-C12-111",
    "sec": "PAS: risk factors & investigations",
    "page": 458,
    "q": "Two further USG signs of PAS listed are disruption of the continuous white line and:",
@@ -1432,7 +1567,7 @@
    "exp": "Loss of the retroplacental hypoechoic area (decidua basalis) and white-line disruption support PAS. (Book p458)"
   },
   {
-   "id": "OBG-C12-103",
+   "id": "OBG-C12-112",
    "sec": "PAS: risk factors & investigations",
    "page": 458,
    "q": "MRI in PAS workup is reserved for:",
@@ -1446,7 +1581,22 @@
    "exp": "MRI is used only when USG with Doppler is inconclusive. (Book p458)"
   },
   {
-   "id": "OBG-C12-104",
+   "id": "OBG-C12-113",
+   "sec": "Placenta accreta spectrum: classification & etiopathogenesis",
+   "page": 458,
+   "q": "Fill up: Accreta, increta and percreta differ by the depth of trophoblastic invasion into the ______, with percreta penetrating through to the ______.",
+   "opts": [
+    "myometrium; serosa and beyond",
+    "decidua; myometrium",
+    "endometrium; decidua",
+    "myometrium; endometrium"
+   ],
+   "ans": 0,
+   "exp": "Accreta adheres to myometrium, increta invades it and percreta penetrates the full thickness, sometimes into the bladder. (Book p458)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C12-114",
    "sec": "PAS: management",
    "page": 459,
    "q": "ACOG's management of choice for antenatally detected PAS is:",
@@ -1460,7 +1610,7 @@
    "exp": "ACOG: elective C-section at 34–35 weeks + 6/7 days then hysterectomy leaving the placenta in situ. (Book p459)"
   },
   {
-   "id": "OBG-C12-105",
+   "id": "OBG-C12-115",
    "sec": "PAS: management",
    "page": 459,
    "q": "During caesarean hysterectomy for PAS, which anaesthesia and incision are preferred?",
@@ -1474,7 +1624,7 @@
    "exp": "GA is preferred and a classical C-section avoids the placental site. (Book p459)"
   },
   {
-   "id": "OBG-C12-106",
+   "id": "OBG-C12-116",
    "sec": "PAS: management",
    "page": 459,
    "q": "Two intraoperative rules for PAS caesarean hysterectomy are:",
@@ -1488,7 +1638,7 @@
    "exp": "The placenta is left undisturbed and the uterine incision is closed prior to hysterectomy to avoid bleeding. (Book p459)"
   },
   {
-   "id": "OBG-C12-107",
+   "id": "OBG-C12-117",
    "sec": "PAS: management",
    "page": 459,
    "q": "Pre-operative ureteric catheterization in PAS offers which advantage and limitation?",
@@ -1502,7 +1652,7 @@
    "exp": "It aids identification but does not lower urinary tract injury risk. (Book p459)"
   },
   {
-   "id": "OBG-C12-108",
+   "id": "OBG-C12-118",
    "sec": "PAS: management",
    "page": 459,
    "q": "Pre-operative internal iliac artery balloon catheters are inflated post-delivery to reduce pelvic blood flow. Why does ACOG NOT recommend them?",
@@ -1516,21 +1666,21 @@
    "exp": "The ↑ embolization risk makes ACOG not recommend internal iliac balloon catheters. (Book p459)"
   },
   {
-   "id": "OBG-C12-109",
+   "id": "OBG-C12-119",
    "sec": "PAS: management",
    "page": 459,
    "q": "Postnatally detected PAS presents with:",
    "opts": [
-    "Intractable PPH, placenta that cannot be separated (no plane of separation), and +/− hematuria from percreta bladder infiltration",
-    "Painless bright-red bleeding at 32 weeks",
-    "Snowstorm USG with theca lutein cysts",
-    "Fetal distress with rigid uterus"
+    "Intractable PPH with no plane of cleavage, sometimes with haematuria from bladder invasion",
+    "Painless bright-red bleeding at 32 weeks with a soft non-tender uterus",
+    "A snowstorm ultrasound appearance with bilateral theca lutein cysts",
+    "Fetal distress with a rigid tender uterus and concealed bleeding"
    ],
    "ans": 0,
-   "exp": "Intractable PPH, absent separation plane and hematuria (percreta) mark postnatal PAS. (Book p459)"
+   "exp": "Postnatally detected accreta presents as a placenta that cannot be separated, with torrential bleeding and sometimes haematuria. (Book p459)"
   },
   {
-   "id": "OBG-C12-110",
+   "id": "OBG-C12-120",
    "sec": "PAS: management",
    "page": 459,
    "q": "Management of postnatally detected PAS is:",
@@ -1544,21 +1694,21 @@
    "exp": "Emergency hysterectomy is the management. (Book p459)"
   },
   {
-   "id": "OBG-C12-111",
+   "id": "OBG-C12-121",
    "sec": "PAS: management",
    "page": 459,
    "q": "If fertility is desired in postnatal PAS, the conservative procedure includes:",
    "opts": [
-    "Placenta left in situ with cord ligated close to insertion, hysterotomy closed, plus compression sutures/tamponade packing",
-    "Immediate hysterectomy regardless",
-    "Manual removal of placenta",
-    "Curettage of the placental bed"
+    "Leave the placenta in situ with the cord ligated at its insertion and close the hysterotomy",
+    "Immediate hysterectomy, whatever the woman's wishes about future fertility",
+    "Manual piecemeal removal of the placenta until the cavity is empty",
+    "Vigorous curettage of the placental bed to remove all adherent tissue"
    ],
    "ans": 0,
-   "exp": "Conservative care leaves the placenta in situ, ligates the cord, closes the hysterotomy and uses compression sutures/packing. (Book p459)"
+   "exp": "Conservative management leaves the placenta in place; forced removal is what turns a controlled situation into a haemorrhage. (Book p459)"
   },
   {
-   "id": "OBG-C12-112",
+   "id": "OBG-C12-122",
    "sec": "PAS: management",
    "page": 459,
    "q": "Follow-up investigations after conservative PAS management and the two interventions with NO role are:",
@@ -1572,7 +1722,7 @@
    "exp": "Serial USG/MRI follow the patient; serial β-hCG and methotrexate have no role. (Book p459)"
   },
   {
-   "id": "OBG-C12-113",
+   "id": "OBG-C12-123",
    "sec": "PAS: management",
    "page": 459,
    "q": "After conservative (fertility-sparing) management of PAS, what proportion ultimately require hysterectomy?",
@@ -1584,6 +1734,21 @@
    ],
    "ans": 0,
    "exp": "About 20% will ultimately need hysterectomy. (Book p459)"
+  },
+  {
+   "id": "OBG-C12-124",
+   "sec": "Management of placenta accreta spectrum",
+   "page": 459,
+   "q": "Antenatal imaging at 32 weeks in a woman with two previous caesareans and an anterior placenta previa suggests placenta percreta involving the bladder. What is the management plan?",
+   "opts": [
+    "Planned caesarean hysterectomy at 34-36 weeks with the placenta left in situ, by a multidisciplinary team with blood products ready",
+    "Attempt manual removal of the placenta at delivery and give oxytocin",
+    "Await spontaneous labour and plan a vaginal delivery",
+    "Give methotrexate to dissolve the placenta and deliver vaginally at term"
+   ],
+   "ans": 0,
+   "exp": "Percreta means leaving the placenta in situ and performing a caesarean hysterectomy, planned early at a centre with surgical, urological and blood-bank support. (Book p459)",
+   "fmt": "scenario"
   }
  ],
  "units": [
@@ -1606,7 +1771,8 @@
     "OBG-C12-009",
     "OBG-C12-010",
     "OBG-C12-011",
-    "OBG-C12-012"
+    "OBG-C12-012",
+    "OBG-C12-013"
    ]
   },
   {
@@ -1617,13 +1783,14 @@
    "sec": "Previa features & old classification · p448",
    "guide": "Learn why previa is diagnosed only in the third trimester and place types 1-3 of the old classification by placental edge position. Focus for this checkpoint: PP: important features & classification.",
    "qs": [
-    "OBG-C12-013",
     "OBG-C12-014",
     "OBG-C12-015",
     "OBG-C12-016",
     "OBG-C12-017",
     "OBG-C12-018",
-    "OBG-C12-019"
+    "OBG-C12-019",
+    "OBG-C12-020",
+    "OBG-C12-021"
    ]
   },
   {
@@ -1634,14 +1801,15 @@
    "sec": "Previa types & abruptio varieties · p449",
    "guide": "Finish the old classification with type 4, apply the new low-lying/previa split and grade abruptio by the Page classification and clot/bleeding pattern. Focus for this checkpoint: PP types & abruptio varieties.",
    "qs": [
-    "OBG-C12-020",
-    "OBG-C12-021",
     "OBG-C12-022",
     "OBG-C12-023",
     "OBG-C12-024",
     "OBG-C12-025",
     "OBG-C12-026",
-    "OBG-C12-027"
+    "OBG-C12-027",
+    "OBG-C12-028",
+    "OBG-C12-029",
+    "OBG-C12-030"
    ]
   },
   {
@@ -1652,9 +1820,6 @@
    "sec": "Risk factors & associations · p450",
    "guide": "Contrast recurrence rates and risk lists of previa and abruptio, and attach the named associations: Stallworthy sign, Couvelaire uterus, CAOS and precipitate labour. Focus for this checkpoint: PP vs abruptio: risk factors & associations.",
    "qs": [
-    "OBG-C12-028",
-    "OBG-C12-029",
-    "OBG-C12-030",
     "OBG-C12-031",
     "OBG-C12-032",
     "OBG-C12-033",
@@ -1665,7 +1830,11 @@
     "OBG-C12-038",
     "OBG-C12-039",
     "OBG-C12-040",
-    "OBG-C12-041"
+    "OBG-C12-041",
+    "OBG-C12-042",
+    "OBG-C12-043",
+    "OBG-C12-044",
+    "OBG-C12-045"
    ]
   },
   {
@@ -1676,10 +1845,6 @@
    "sec": "Presentation & examination · p451",
    "guide": "Discriminate previa from abruptio on bleeding character, shock correspondence, abdominal findings and the contraindicated digital exam, then choose TVS as IOC. Focus for this checkpoint: PP vs abruptio: presentation & examination.",
    "qs": [
-    "OBG-C12-042",
-    "OBG-C12-043",
-    "OBG-C12-044",
-    "OBG-C12-045",
     "OBG-C12-046",
     "OBG-C12-047",
     "OBG-C12-048",
@@ -1687,7 +1852,12 @@
     "OBG-C12-050",
     "OBG-C12-051",
     "OBG-C12-052",
-    "OBG-C12-053"
+    "OBG-C12-053",
+    "OBG-C12-054",
+    "OBG-C12-055",
+    "OBG-C12-056",
+    "OBG-C12-057",
+    "OBG-C12-058"
    ]
   },
   {
@@ -1698,14 +1868,15 @@
    "sec": "Resuscitation & first decisions · p452",
    "guide": "Run the third-trimester bleeding drill: two large cannulas, ABC, three assessment parameters and the instant C-section rule, ending with the Jello sign and migration rates. Focus for this checkpoint: Management of placenta previa.",
    "qs": [
-    "OBG-C12-054",
-    "OBG-C12-055",
-    "OBG-C12-056",
-    "OBG-C12-057",
-    "OBG-C12-058",
     "OBG-C12-059",
     "OBG-C12-060",
-    "OBG-C12-061"
+    "OBG-C12-061",
+    "OBG-C12-062",
+    "OBG-C12-063",
+    "OBG-C12-064",
+    "OBG-C12-065",
+    "OBG-C12-066",
+    "OBG-C12-067"
    ]
   },
   {
@@ -1716,13 +1887,14 @@
    "sec": "Follow-up & mode of delivery · p453",
    "guide": "Follow a low-lying placenta through 32- and 36-week scans to the 36-37 week C-section plan and match delivery route to os distance. Focus for this checkpoint: PP: follow-up & mode of delivery.",
    "qs": [
-    "OBG-C12-062",
-    "OBG-C12-063",
-    "OBG-C12-064",
-    "OBG-C12-065",
-    "OBG-C12-066",
-    "OBG-C12-067",
-    "OBG-C12-068"
+    "OBG-C12-068",
+    "OBG-C12-069",
+    "OBG-C12-070",
+    "OBG-C12-071",
+    "OBG-C12-072",
+    "OBG-C12-073",
+    "OBG-C12-074",
+    "OBG-C12-075"
    ]
   },
   {
@@ -1733,15 +1905,16 @@
    "sec": "Expectant vs active management · p454",
    "guide": "Apply the MacAfee/Johnson's regime criteria, steroid and tocolytic windows and the accreta suspicion that converts C-section into caesarean hysterectomy. Focus for this checkpoint: PP: expectant vs active management.",
    "qs": [
-    "OBG-C12-069",
-    "OBG-C12-070",
-    "OBG-C12-071",
-    "OBG-C12-072",
-    "OBG-C12-073",
-    "OBG-C12-074",
-    "OBG-C12-075",
     "OBG-C12-076",
-    "OBG-C12-077"
+    "OBG-C12-077",
+    "OBG-C12-078",
+    "OBG-C12-079",
+    "OBG-C12-080",
+    "OBG-C12-081",
+    "OBG-C12-082",
+    "OBG-C12-083",
+    "OBG-C12-084",
+    "OBG-C12-085"
    ]
   },
   {
@@ -1752,18 +1925,19 @@
    "sec": "Abruptio management, DIC & differentials · p455-456",
    "guide": "Decide C-section versus vaginal delivery in abruptio by maternal and fetal state, treat consumptive coagulopathy and separate labour, abruptio and ruptured uterus at the bedside. Focus for this checkpoint: Management of abruptio & DIC, APH: differential diagnosis.",
    "qs": [
-    "OBG-C12-078",
-    "OBG-C12-079",
-    "OBG-C12-080",
-    "OBG-C12-081",
-    "OBG-C12-082",
-    "OBG-C12-083",
-    "OBG-C12-084",
-    "OBG-C12-085",
     "OBG-C12-086",
     "OBG-C12-087",
     "OBG-C12-088",
-    "OBG-C12-089"
+    "OBG-C12-089",
+    "OBG-C12-090",
+    "OBG-C12-091",
+    "OBG-C12-092",
+    "OBG-C12-093",
+    "OBG-C12-094",
+    "OBG-C12-095",
+    "OBG-C12-096",
+    "OBG-C12-097",
+    "OBG-C12-098"
    ]
   },
   {
@@ -1774,30 +1948,11 @@
    "sec": "PAS classification & workup · p457-458",
    "guide": "Grade the accreta spectrum by FIGO, explain the missing Nitabuch's layer and read the Doppler signs that make 28 weeks the diagnostic sweet spot. Focus for this checkpoint: PAS: classification & etiopathogenesis, PAS: risk factors & investigations.",
    "qs": [
-    "OBG-C12-090",
-    "OBG-C12-091",
-    "OBG-C12-092",
-    "OBG-C12-093",
-    "OBG-C12-094",
-    "OBG-C12-095",
-    "OBG-C12-096",
-    "OBG-C12-097",
-    "OBG-C12-098",
     "OBG-C12-099",
     "OBG-C12-100",
     "OBG-C12-101",
     "OBG-C12-102",
-    "OBG-C12-103"
-   ]
-  },
-  {
-   "id": "OBG-U12-11",
-   "ch": 12,
-   "n": 11,
-   "title": "management",
-   "sec": "PAS management · p459",
-   "guide": "Plan the ACOG caesarean hysterectomy at 34-35 weeks, weigh ureteric and internal iliac catheters and manage postnatally detected accreta with or without fertility wishes. Focus for this checkpoint: PAS: management.",
-   "qs": [
+    "OBG-C12-103",
     "OBG-C12-104",
     "OBG-C12-105",
     "OBG-C12-106",
@@ -1808,6 +1963,27 @@
     "OBG-C12-111",
     "OBG-C12-112",
     "OBG-C12-113"
+   ]
+  },
+  {
+   "id": "OBG-U12-11",
+   "ch": 12,
+   "n": 11,
+   "title": "management",
+   "sec": "PAS management · p459",
+   "guide": "Plan the ACOG caesarean hysterectomy at 34-35 weeks, weigh ureteric and internal iliac catheters and manage postnatally detected accreta with or without fertility wishes. Focus for this checkpoint: PAS: management.",
+   "qs": [
+    "OBG-C12-114",
+    "OBG-C12-115",
+    "OBG-C12-116",
+    "OBG-C12-117",
+    "OBG-C12-118",
+    "OBG-C12-119",
+    "OBG-C12-120",
+    "OBG-C12-121",
+    "OBG-C12-122",
+    "OBG-C12-123",
+    "OBG-C12-124"
    ]
   }
  ]

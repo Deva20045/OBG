@@ -1,0 +1,99 @@
+[
+  {
+    "op": "add", "unit": "OBG-U21-1", "page": 540, "fmt": "match",
+    "sec": "Vulval hematoma & broad ligament hematoma",
+    "q": "Match the puerperal haematoma with its presentation — 1) Vulval haematoma 2) Infralevator vaginal or perineal haematoma 3) Supralevator or broad ligament haematoma … A) A tense, exquisitely tender swelling of the vulva that may extend into the thigh B) A swelling contained below the levator ani, seen as a bluish vaginal or perineal mass C) Occult blood above the levator ani that pushes the uterus up and to one side, sometimes with shock",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-A, 3-B", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Infralevator haematomas are visible; supralevator collections are occult and present late with shock out of proportion to visible loss."
+  },
+  {
+    "op": "add", "unit": "OBG-U21-2", "page": 541, "fmt": "fillup",
+    "sec": "Perineal tear: classification & repair",
+    "q": "Fill up: A second-degree perineal tear involves the ______, whereas a third-degree tear involves the ______.",
+    "opts": ["perineal muscles; anal sphincter complex", "skin only; perineal muscles", "anal sphincter; anal mucosa", "vaginal mucosa alone; the perineal body"],
+    "ans": 0,
+    "exp": "Third- and fourth-degree tears extend into, or through, the anal sphincter and mucosa and must be repaired by an experienced operator in theatre."
+  },
+  {
+    "op": "add", "unit": "OBG-U21-3", "page": 542, "fmt": "oddoneout",
+    "sec": "Episiotomy: indications, types, timing & anatomy",
+    "q": "All of the following statements about a mediolateral episiotomy are true EXCEPT:",
+    "opts": [
+      "It is cut straight backwards in the midline to minimise bleeding",
+      "It is angled about 45 to 60 degrees away from the midline",
+      "It lowers the risk of extension into the anal sphincter compared with a midline cut",
+      "It bleeds more and is more painful afterwards than a midline episiotomy"
+    ],
+    "ans": 0,
+    "exp": "A midline cut is the one made straight backwards; the mediolateral cut is angled away from the sphincter, which is why it is safer."
+  },
+  {
+    "op": "add", "unit": "OBG-U21-4", "page": 544, "fmt": "truefalse",
+    "sec": "Occipito-posterior malposition",
+    "q": "Which of the following statements about occipito-posterior position is TRUE?",
+    "opts": [
+      "The anterior fontanelle is easily felt, the head is deflexed and labours are longer with severe backache",
+      "The sagittal suture lies in the transverse diameter and always rotates posteriorly",
+      "Vaginal delivery is impossible, so caesarean section is always required",
+      "The position is linked to the anthropoid pelvis but never to the android pelvis"
+    ],
+    "ans": 0,
+    "exp": "Deflexion presents a larger diameter, so labour is longer and backache is prominent; most rotate anteriorly or deliver face-to-pubis."
+  },
+  {
+    "op": "add", "unit": "OBG-U21-5", "page": 545, "fmt": "scenario",
+    "sec": "Outcomes of OP position & deep transverse arrest",
+    "q": "In the second stage the head is at station +2 in the occipito-transverse position after an hour of pushing, with good contractions, a normal pelvis and a normal CTG. What is the management?",
+    "opts": [
+      "Manual rotation to occipito-anterior, then instrumental delivery, or rotational forceps by an experienced operator; caesarean if these fail",
+      "Continue pushing for another two hours without intervention",
+      "Immediate caesarean section without attempting rotation",
+      "Symphysiotomy, because rotation is never appropriate in the second stage"
+    ],
+    "ans": 0,
+    "exp": "Persistent occipito-transverse arrest can be resolved by manual or instrumental rotation when the pelvis is adequate and the operator is trained."
+  },
+  {
+    "op": "add", "unit": "OBG-U21-6", "page": 547, "fmt": "fillup",
+    "sec": "Transverse lie & shoulder presentation",
+    "q": "Fill up: A transverse lie at term with a live fetus is delivered by ______, and the gravest complication of a neglected case is ______.",
+    "opts": [
+      "caesarean section; rupture of the uterus",
+      "internal podalic version; cord prolapse",
+      "external cephalic version; placental abruption",
+      "forceps delivery; cervical laceration"
+    ],
+    "ans": 0,
+    "exp": "Neglected shoulder presentation stretches the lower segment until it ruptures; delivery is by caesarean section once the lie persists at term."
+  },
+  {
+    "op": "add", "unit": "OBG-U21-7", "page": 547, "fmt": "oddoneout",
+    "sec": "External cephalic version (ECV)",
+    "q": "All of the following are contraindications to external cephalic version EXCEPT:",
+    "opts": [
+      "An uncomplicated breech at 37 weeks with normal liquor volume and a reassuring CTG",
+      "Placenta previa or an anterior placenta low in the uterus",
+      "Ruptured membranes with reduced liquor volume",
+      "A non-reassuring fetal heart rate pattern before the procedure"
+    ],
+    "ans": 0,
+    "exp": "An uncomplicated breech at term is exactly the indication for external cephalic version, which is offered with tocolysis after a reassuring trace."
+  },
+  {
+    "op": "add", "unit": "OBG-U21-8", "page": 549, "fmt": "match",
+    "sec": "Face presentation",
+    "q": "Match the malpresentation with its outcome — 1) Mento-anterior face presentation 2) Mento-posterior face presentation 3) Brow presentation … A) Presents the largest diameter of the fetal head, so spontaneous vaginal delivery is not possible B) Can deliver vaginally once the chin rotates to the front and the head flexes under the symphysis C) Cannot deliver vaginally, because the head cannot flex further in the cavity",
+    "opts": ["1-B, 2-C, 3-A", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-A, 3-C"],
+    "ans": 0,
+    "exp": "Mento-anterior can deliver vaginally, a persistent mento-posterior cannot, and brow presents the mento-vertical diameter of about 13.5 cm."
+  },
+  {
+    "op": "add", "unit": "OBG-U21-9", "page": 549, "fmt": "fillup",
+    "sec": "Brow presentation",
+    "q": "Fill up: The presenting diameter in brow presentation is the ______, which measures about ______ cm.",
+    "opts": ["mento-vertical; 13.5", "submento-bregmatic; 9.5", "occipito-frontal; 11.5", "suboccipito-bregmatic; 9.5"],
+    "ans": 0,
+    "exp": "The partially extended head presents the mento-vertical diameter of 13.5 cm, the largest that the fetal head can offer, so it cannot negotiate a normal pelvis."
+  }
+]

@@ -1,0 +1,73 @@
+[
+  {
+    "op": "add", "unit": "OBG-U24-1", "page": 567, "fmt": "fillup",
+    "sec": "Definitions, postnatal visits & uterine involution",
+    "q": "Fill up: The puerperium lasts about ______ weeks, and the uterus becomes a pelvic organ again at about ______ days after delivery.",
+    "opts": ["6; 10-14", "4; 7", "6; 21", "2; 5"],
+    "ans": 0,
+    "exp": "The fundus descends roughly 1 cm a day and is no longer felt abdominally by about 10-14 days, with involution complete by six weeks."
+  },
+  {
+    "op": "add", "unit": "OBG-U24-2", "page": 568, "fmt": "match",
+    "sec": "Cervix, lochia, placental site & ovarian function",
+    "q": "Match the lochia with its timing and appearance — 1) Lochia rubra 2) Lochia serosa 3) Lochia alba … A) Red, containing blood, shreds of decidua and membranes, for the first three or four days B) Pinkish or brownish serous discharge from about day four to day ten C) Pale or yellowish white discharge continuing for several weeks after that",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-A, 3-B", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Rubra then serosa then alba is the normal sequence; offensive or persistently red lochia suggests endometritis or retained products."
+  },
+  {
+    "op": "add", "unit": "OBG-U24-3", "page": 569, "fmt": "truefalse",
+    "sec": "Haematological, renal & other puerperal changes; after-pains",
+    "q": "Which of the following statements about normal puerperal changes is TRUE?",
+    "opts": [
+      "The leucocytosis of labour settles within about a week and after-pains are commoner in multiparous women",
+      "Haemoglobin falls steadily for six weeks because the red cell mass keeps shrinking",
+      "After-pains are commoner in primigravidas than in multiparous women",
+      "The raised blood urea of pregnancy persists for at least six weeks after delivery"
+    ],
+    "ans": 0,
+    "exp": "After-pains are worse in multiparas and during breastfeeding; the leucocytosis settles and haemoglobin stabilises once haemodilution resolves."
+  },
+  {
+    "op": "add", "unit": "OBG-U24-4", "page": 570, "fmt": "oddoneout",
+    "sec": "Subinvolution of the uterus",
+    "q": "All of the following predispose to subinvolution of the uterus EXCEPT:",
+    "opts": [
+      "Exclusive breastfeeding with regular suckling",
+      "Retained products of conception",
+      "Pelvic infection or endometritis",
+      "Uterine fibroids or a retroverted uterus"
+    ],
+    "ans": 0,
+    "exp": "Breastfeeding releases oxytocin and actually promotes involution; retained tissue, infection and fibroids delay it."
+  },
+  {
+    "op": "add", "unit": "OBG-U24-5", "page": 571, "fmt": "fillup",
+    "sec": "Breastfeeding: hormones, colostrum & contraindications",
+    "q": "Fill up: Milk ejection or the let-down reflex is mediated by ______ released in response to suckling, whereas milk synthesis depends mainly on ______.",
+    "opts": ["oxytocin; prolactin", "prolactin; oxytocin", "oestrogen; progesterone", "human placental lactogen; oxytocin"],
+    "ans": 0,
+    "exp": "Prolactin drives synthesis and oxytocin drives ejection; this is why breastfeeding causes after-pains and helps uterine involution."
+  },
+  {
+    "op": "add", "unit": "OBG-U24-6", "page": 571, "fmt": "scenario",
+    "sec": "Puerperal pathologies: endometritis & septic pelvic thrombophlebitis",
+    "q": "On the fourth day after a caesarean section a woman develops a fever of 38.8 C with uterine tenderness and offensive lochia. What is the diagnosis and treatment?",
+    "opts": [
+      "Postpartum endometritis — broad-spectrum intravenous antibiotics covering aerobic and anaerobic organisms",
+      "Normal puerperal changes — reassurance and no treatment",
+      "A urinary tract infection — oral antibiotics alone",
+      "Septic pelvic thrombophlebitis — immediate anticoagulation alone"
+    ],
+    "ans": 0,
+    "exp": "Fever with uterine tenderness and offensive lochia after caesarean is endometritis, treated with intravenous clindamycin and gentamicin or equivalent."
+  },
+  {
+    "op": "add", "unit": "OBG-U24-7", "page": 572, "fmt": "match",
+    "sec": "Obstetric neuropathy",
+    "q": "Match the nerve injury with its clinical picture — 1) Lateral cutaneous nerve of the thigh 2) Femoral nerve 3) Common peroneal nerve … A) Foot drop and loss of sensation over the dorsum of the foot after prolonged lithotomy or squatting B) Burning pain and numbness over the outer thigh from compression at the inguinal ligament C) Weakness of knee extension with a depressed knee jerk from compression against the pelvic brim",
+    "opts": ["1-B, 2-C, 3-A", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-A, 3-C"],
+    "ans": 0,
+    "exp": "Meralgia paraesthetica, femoral neuropathy from the retractor or fetal head, and peroneal palsy from leg supports or squatting are the classic injuries."
+  }
+]

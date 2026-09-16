@@ -213,28 +213,72 @@ Build a line-by-line PULSE quiz companion for the Marrow Edition 8 Obstetrics & 
 
 ## Status
 - **DONE / LIVE**:
-  - Chapters 1–5: **538 questions**, **91 units**, Book p265–374.
-  - Chapter 6 — Thyroid, Diabetes & Shoulder Dystocia: **180 questions**, **25 units**, Book p375–389.
-  - Chapter 7 — Pregnancy-Induced Hypertension: **125 questions**, **16 units**, Book p390–401.
-  - Chapter 8 — Eclampsia, Liver Disorders & Rh-Negative Pregnancy: **224 questions**, **31 units**, Book p402–417.
-  - Chapter 9 — Abortion, Recurrent Loss & MTP: **158 questions**, **22 units**, Book p418–427.
-  - Chapter 10 — MTP, Ectopic Pregnancy & Gestational Trophoblastic Disease: **228 questions**, **28 units**, Book p428–441.
-  - Chapter 11 — Gestational Trophoblastic Disease: Staging & Management: **61 questions**, **6 units**, Book p442–446.
-  - Chapter 12 — Antepartum Hemorrhage & Placenta Accreta Spectrum: **113 questions**, **11 units**, Book p447–459.
-  - Chapter 13 — Multifetal Gestation: Chorionicity, Complications & Delivery: **87 questions**, **9 units**, Book p460–471.
-  - Chapter 14 — Preterm Labour, PROM & Post-term Pregnancy: **105 questions**, **11 units**, Book p472–482.
-  - Chapter 15 — Maternal Pelvis, Contracted Pelvis & CPD: **50 questions**, **6 units**, Book p483–489.
-  - Chapter 16 — Fetal Skull & Terminologies of Labour: **65 questions**, **9 units**, Book p490–498.
-  - Chapter 17 — Stages of Labour: Normal & Abnormal: **51 questions**, **9 units**, Book p499–505.
-  - Chapter 18 — Partogram & WHO Labour Care Guide: **36 questions**, **7 units**, Book p506–511.
-  - Chapter 19 — Normal Labour & Induction of Labour: **111 questions**, **18 units**, Book p512–527.
-  - Chapter 20 — Postpartum Hemorrhage & Third Stage Complications: **62 questions**, **12 units**, Book p528–539.
-  - Chapter 21 — Perineal Trauma, Episiotomy & Malpresentations: **52 questions**, **9 units**, Book p540–549.
-  - Chapter 22 — Breech & Instrumental Delivery: **60 questions**, **11 units**, Book p550–562.
-  - Chapter 23 — Caesarean Section & VBAC: **26 questions**, **4 units**, Book p563–566.
-  - Chapter 24 — Puerperium: **36 questions**, **7 units**, Book p567–572.
+  - Chapters 1–5: **629 questions**, **91 units**, Book p265–374.
+  - Chapter 6 — Thyroid, Diabetes & Shoulder Dystocia: **205 questions**, **25 units**, Book p375–389.
+  - Chapter 7 — Pregnancy-Induced Hypertension: **141 questions**, **16 units**, Book p390–401.
+  - Chapter 8 — Eclampsia, Liver Disorders & Rh-Negative Pregnancy: **255 questions**, **31 units**, Book p402–417.
+  - Chapter 9 — Abortion, Recurrent Loss & MTP: **180 questions**, **22 units**, Book p418–427.
+  - Chapter 10 — MTP, Ectopic Pregnancy & Gestational Trophoblastic Disease: **256 questions**, **28 units**, Book p428–441.
+  - Chapter 11 — Gestational Trophoblastic Disease: Staging & Management: **67 questions**, **6 units**, Book p442–446.
+  - Chapter 12 — Antepartum Hemorrhage & Placenta Accreta Spectrum: **124 questions**, **11 units**, Book p447–459.
+  - Chapter 13 — Multifetal Gestation: Chorionicity, Complications & Delivery: **96 questions**, **9 units**, Book p460–471.
+  - Chapter 14 — Preterm Labour, PROM & Post-term Pregnancy: **116 questions**, **11 units**, Book p472–482.
+  - Chapter 15 — Maternal Pelvis, Contracted Pelvis & CPD: **56 questions**, **6 units**, Book p483–489.
+  - Chapter 16 — Fetal Skull & Terminologies of Labour: **74 questions**, **9 units**, Book p490–498.
+  - Chapter 17 — Stages of Labour: Normal & Abnormal: **60 questions**, **9 units**, Book p499–505.
+  - Chapter 18 — Partogram & WHO Labour Care Guide: **43 questions**, **7 units**, Book p506–511.
+  - Chapter 19 — Normal Labour & Induction of Labour: **129 questions**, **18 units**, Book p512–527.
+  - Chapter 20 — Postpartum Hemorrhage & Third Stage Complications: **74 questions**, **12 units**, Book p528–539.
+  - Chapter 21 — Perineal Trauma, Episiotomy & Malpresentations: **61 questions**, **9 units**, Book p540–549.
+  - Chapter 22 — Breech & Instrumental Delivery: **71 questions**, **11 units**, Book p550–562.
+  - Chapter 23 — Caesarean Section & VBAC: **30 questions**, **4 units**, Book p563–566.
+  - Chapter 24 — Puerperium: **43 questions**, **7 units**, Book p567–572.
 - **Roadmap**: All 24 chapters are Live. The Book (p265–572) is fully transcribed.
 
 ## Live Links
 - GitHub Pages live link: `https://deva20045.github.io/OBG/` (redirects to `pulse-obg.html`).
 - Direct app URL: `https://deva20045.github.io/OBG/pulse-obg.html`.
+
+---
+
+## Question-quality re-audit (variety & predictability)
+
+A full re-audit of the bank was run after feedback that questions had become
+"easily predictable" and had fallen back on a single repeated shape. The detail
+lives in `AUDIT.md`; the headline numbers are:
+
+**Before (2,368 questions)**
+- 77.0% plain recall, **0% match-the-following**, 0.7% true/false, 2.0% clinical scenarios.
+- The correct option was the longest option in **67.8%** of questions; the answer
+  averaged 59.9 characters against 29.2 for distractors, so picking the longest
+  option scored about 68% without knowing anything.
+- Worst chapters: 21 (92.3%), 22 (91.7%), 24 (91.7%), 4 (90.8%).
+- 78 items where the answer was four times longer than the longest distractor.
+
+**After (2,710 questions)**
+- **+342 new varied-format items — one in every one of the 342 units.**
+  - fill-ups 124 → **237**
+  - match-the-following 0 → **71**
+  - true/false statement sets 17 → **67**
+  - clinical scenarios 47 → **101**
+  - odd-one-out 101 → **155**
+- **233 items de-biased**: every item where the answer was 3.0× or more longer
+  than its longest distractor was rewritten with parallel, same-family options
+  (paired items now offer four paired options; list items now offer four lists).
+  **Zero remain above 3.0×**, and only 27 remain above 2.5× (was 309).
+- Correct-option-is-longest fell 67.8% → **61.2%**; the average answer is now
+  55.9 characters against 37.6 for distractors (was 59.9 against 29.2).
+- The remaining bias is mild and diffuse (median ratio 1.23) across hundreds of
+  items, and 232 still sit above 2× — those are being rewritten worst-first by
+  hand, since bulk automated trimming would damage good items. Chapters 21 and
+  24 are the next targets, both still above 80%.
+
+**Guard rails**
+- `check_integrity.py` now fails when an answer can be guessed from option
+  length (≥3.5×), when a unit has no varied-format item, or when a format tag is
+  unknown. Both new checks were verified to fire on deliberately broken input.
+- `check_app_smoke.js` derives its expected totals from `data/ch*.json` instead
+  of hard-coding them, so adding content no longer desynchronises the tests.
+
+**Tooling**: `audit_variety.py` (report), `itemlab.py` (map / flag / stats /
+apply), and curated patch files in `patches/`.

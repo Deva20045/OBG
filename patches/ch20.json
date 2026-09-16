@@ -1,0 +1,133 @@
+[
+  {
+    "op": "add", "unit": "OBG-U20-1", "page": 528, "fmt": "fillup",
+    "sec": "PPH definitions, types & the 4 Ts",
+    "q": "Fill up: Primary postpartum haemorrhage is blood loss of ______ mL or more within 24 hours of birth, and the four Ts are tone, trauma, tissue and ______.",
+    "opts": ["500; thrombin", "1000; thrombus", "500; traction", "1000; tone"],
+    "ans": 0,
+    "exp": "The four Ts are uterine tone, genital tract trauma, retained tissue and thrombin (coagulopathy); 500 mL defines PPH and 1000 mL severe PPH."
+  },
+  {
+    "op": "add", "unit": "OBG-U20-2", "page": 529, "fmt": "oddoneout",
+    "sec": "Risk factors for atonic & traumatic PPH",
+    "q": "All of the following predispose to uterine atony EXCEPT:",
+    "opts": [
+      "A short uncomplicated first stage in a multiparous woman",
+      "Overdistension of the uterus from twins or polyhydramnios",
+      "Prolonged or augmented labour with an exhausted myometrium",
+      "Grand multiparity with a fibroid uterus"
+    ],
+    "ans": 0,
+    "exp": "Atony follows overdistension, exhaustion, parity, fibroids, infection and anaesthesia; a quick uncomplicated labour does not exhaust the uterus."
+  },
+  {
+    "op": "add", "unit": "OBG-U20-3", "page": 529, "fmt": "scenario",
+    "sec": "Initial management: resuscitation & atonic vs traumatic PPH",
+    "q": "Immediately after delivery a woman loses 700 mL of blood. The uterus is boggy and reaches above the umbilicus, and the placenta has been expelled complete. What is the first step?",
+    "opts": [
+      "Call for help, rub up a contraction and give oxytocin while resuscitating with fluids and oxygen",
+      "Examine the genital tract under anaesthesia before doing anything else",
+      "Insert uterine balloon tamponade immediately",
+      "Perform a manual exploration of the uterus straight away"
+    ],
+    "ans": 0,
+    "exp": "A boggy uterus means atony, which is treated first by compression and uterotonics with simultaneous resuscitation; trauma is explored if bleeding persists."
+  },
+  {
+    "op": "add", "unit": "OBG-U20-4", "page": 530, "fmt": "fillup",
+    "sec": "Atonic PPH: three simultaneous steps & tranexamic acid",
+    "q": "Fill up: Tranexamic acid is given as ______ g intravenously, and benefit is greatest when it is started within ______ hours of birth.",
+    "opts": ["1; 3", "0.5; 1", "1; 6", "2; 3"],
+    "ans": 0,
+    "exp": "The WOMAN trial showed that 1 g of tranexamic acid given early, within three hours, reduces death from bleeding."
+  },
+  {
+    "op": "add", "unit": "OBG-U20-5", "page": 531, "fmt": "match",
+    "sec": "Second-line uterotonics",
+    "q": "Match the second-line uterotonic with its dose and caveat — 1) Methylergometrine 2) Misoprostol 3) Carboprost … A) 800-1000 microgram rectally or sublingually, useful where injection or refrigeration is impractical B) 250 microgram intramuscularly every 15 minutes, contraindicated in asthma C) 0.2 mg intramuscularly, contraindicated in hypertension and pre-eclampsia",
+    "opts": ["1-C, 2-A, 3-B", "1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-B, 3-A"],
+    "ans": 0,
+    "exp": "Ergometrine raises blood pressure, misoprostol is the heat-stable standby, and carboprost is dangerous in asthma."
+  },
+  {
+    "op": "add", "unit": "OBG-U20-6", "page": 532, "fmt": "scenario",
+    "sec": "Management protocol: drugs, balloon, then surgery",
+    "q": "Bleeding continues in an atonic postpartum haemorrhage despite oxytocin, ergometrine and carboprost. The uterus is now contracted, the placenta was complete and the genital tract is intact. What is the next step?",
+    "opts": [
+      "Insert a uterine balloon tamponade and prepare for surgical haemostasis if bleeding continues",
+      "Proceed directly to hysterectomy without any further measure",
+      "Give repeated doses of oxytocin and wait two hours",
+      "Repeat a manual removal of the placenta to be certain nothing remains"
+    ],
+    "ans": 0,
+    "exp": "The escalation is balloon tamponade, then uterine compression sutures, vessel ligation and finally hysterectomy."
+  },
+  {
+    "op": "add", "unit": "OBG-U20-7", "page": 533, "fmt": "fillup",
+    "sec": "Uterine artery ligation, shock index & packing",
+    "q": "Fill up: The shock index is calculated as ______ divided by ______, and a value above 0.9 suggests significant occult blood loss.",
+    "opts": ["pulse rate; systolic blood pressure", "systolic blood pressure; pulse rate", "diastolic pressure; pulse rate", "blood loss; body weight"],
+    "ans": 0,
+    "exp": "Heart rate and systolic pressure are the earliest vital signs to change in haemorrhage, so their ratio flags occult loss before hypotension appears."
+  },
+  {
+    "op": "add", "unit": "OBG-U20-8", "page": 534, "fmt": "oddoneout",
+    "sec": "Retained placenta: causes & management algorithm",
+    "q": "All of the following are recognised causes of retained placenta EXCEPT:",
+    "opts": [
+      "A cervical tear sustained during instrumental delivery",
+      "Morbid adherence of the placenta to the myometrium",
+      "Uterine atony with failure of placental separation",
+      "A constriction ring trapping an already separated placenta"
+    ],
+    "ans": 0,
+    "exp": "Retained placenta follows adherence, atony or entrapment; a cervical tear causes traumatic bleeding, not retention."
+  },
+  {
+    "op": "add", "unit": "OBG-U20-9", "page": 535, "fmt": "truefalse",
+    "sec": "Placenta accreta spectrum",
+    "q": "Which of the following statements about placenta accreta is TRUE?",
+    "opts": [
+      "Deficient decidua basalis prevents normal separation, so attempting manual removal causes torrential haemorrhage",
+      "Placenta accreta is commonest in a first pregnancy with no uterine surgery",
+      "Manual removal of the placenta is always safe and should be the first treatment",
+      "A normal third stage in a previous pregnancy rules out accreta in this one"
+    ],
+    "ans": 0,
+    "exp": "Accreta follows endometrial damage from surgery or curettage, and the correct management leaves the placenta in situ rather than forcing separation."
+  },
+  {
+    "op": "add", "unit": "OBG-U20-10", "page": 536, "fmt": "match",
+    "sec": "Uterine inversion: definition, classification & features",
+    "q": "Match the degree of uterine inversion with its extent — 1) First degree 2) Second degree 3) Third degree … A) The fundus turns inwards but does not pass through the cervix B) The inverted fundus passes through the cervix and lies in the vagina C) The whole inverted uterus lies outside the vulva",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-A, 3-B", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Degrees are defined by how far the fundus has travelled: inside the cavity, through the cervix, or outside the vulva."
+  },
+  {
+    "op": "add", "unit": "OBG-U20-11", "page": 537, "fmt": "scenario",
+    "sec": "Uterine inversion: management",
+    "q": "Immediately after delivery of the placenta the uterus inverts through the cervix and the woman collapses with a pulse of 130/min and a blood pressure of 70/40 mmHg. What is the correct sequence of management?",
+    "opts": [
+      "Resuscitate, replace the uterus at once by hydrostatic or manual reduction, then give a uterotonic once it is back",
+      "Give oxytocin first so that the uterus contracts, and only then attempt replacement",
+      "Remove the placenta if it is still attached before attempting any replacement",
+      "Proceed straight to hysterectomy without attempting replacement"
+    ],
+    "ans": 0,
+    "exp": "Replacement must not wait for the placenta or for uterotonics; shock is neurogenic as well as haemorrhagic and needs simultaneous resuscitation."
+  },
+  {
+    "op": "add", "unit": "OBG-U20-12", "page": 539, "fmt": "fillup",
+    "sec": "Amniotic fluid embolism & postpartum collapse",
+    "q": "Fill up: Amniotic fluid embolism typically begins with sudden ______ and ______, and is followed rapidly by bleeding from disseminated intravascular coagulation.",
+    "opts": [
+      "dyspnoea with cyanosis; hypotension and shock",
+      "fever with rigor; severe hypertension",
+      "abdominal pain; progressive jaundice",
+      "headache; loss of vision"
+    ],
+    "ans": 0,
+    "exp": "The classic presentation is abrupt respiratory collapse and cardiovascular collapse during labour or soon after delivery, then coagulopathy."
+  }
+]

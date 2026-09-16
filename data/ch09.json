@@ -1,2599 +1,2951 @@
 {
-  "chapter": 9,
-  "title": "Abortion, Recurrent Loss & MTP",
-  "pageRange": "418-427",
-  "units": [
-    {
-      "id": "OBG-U9-1",
-      "ch": 9,
-      "n": 1,
-      "title": "Abortion definitions → Septic abortion",
-      "sec": "Abortion foundations · p418-419",
-      "guide": "Separate abortion from intrauterine death by gestational age, distinguish isolated from recurrent loss, and prioritize the high-yield chromosomal, endocrine, uterine, and APS causes. Evaluation after two losses is targeted—not an indiscriminate infection or thrombophilia panel. Focus for this checkpoint: Abortion definitions, Viability, Types of abortion, Septic abortion.",
-      "qs": [
-        "OBG-C9-001",
-        "OBG-C9-002",
-        "OBG-C9-003",
-        "OBG-C9-004",
-        "OBG-C9-005",
-        "OBG-C9-006",
-        "OBG-C9-007"
-      ]
-    },
-    {
-      "id": "OBG-U9-2",
-      "ch": 9,
-      "n": 2,
-      "title": "Isolated abortion → Congenital syphilis",
-      "sec": "Abortion foundations · p418-419",
-      "guide": "Separate abortion from intrauterine death by gestational age, distinguish isolated from recurrent loss, and prioritize the high-yield chromosomal, endocrine, uterine, and APS causes. Evaluation after two losses is targeted—not an indiscriminate infection or thrombophilia panel. Focus for this checkpoint: Isolated abortion, Chromosomal causes, Isolated abortion risks, Infection and abortion, Congenital syphilis.",
-      "qs": [
-        "OBG-C9-008",
-        "OBG-C9-009",
-        "OBG-C9-010",
-        "OBG-C9-011",
-        "OBG-C9-012",
-        "OBG-C9-013",
-        "OBG-C9-014"
-      ]
-    },
-    {
-      "id": "OBG-U9-3",
-      "ch": 9,
-      "n": 3,
-      "title": "Chromosomal causes → Recurrent abortion causes",
-      "sec": "Abortion foundations · p418-419",
-      "guide": "Separate abortion from intrauterine death by gestational age, distinguish isolated from recurrent loss, and prioritize the high-yield chromosomal, endocrine, uterine, and APS causes. Evaluation after two losses is targeted—not an indiscriminate infection or thrombophilia panel. Focus for this checkpoint: Chromosomal causes, HIV and pregnancy loss, Recurrent abortion, Recurrent abortion causes.",
-      "qs": [
-        "OBG-C9-015",
-        "OBG-C9-016",
-        "OBG-C9-017",
-        "OBG-C9-018",
-        "OBG-C9-019",
-        "OBG-C9-020",
-        "OBG-C9-021",
-        "OBG-C9-022"
-      ]
-    },
-    {
-      "id": "OBG-U9-4",
-      "ch": 9,
-      "n": 4,
-      "title": "Endocrine causes → Chromosomal recurrent loss",
-      "sec": "Abortion foundations · p418-419",
-      "guide": "Separate abortion from intrauterine death by gestational age, distinguish isolated from recurrent loss, and prioritize the high-yield chromosomal, endocrine, uterine, and APS causes. Evaluation after two losses is targeted—not an indiscriminate infection or thrombophilia panel. Focus for this checkpoint: Endocrine causes, Uterine causes, Chromosomal recurrent loss.",
-      "qs": [
-        "OBG-C9-023",
-        "OBG-C9-024",
-        "OBG-C9-025",
-        "OBG-C9-026",
-        "OBG-C9-027",
-        "OBG-C9-028",
-        "OBG-C9-029"
-      ]
-    },
-    {
-      "id": "OBG-U9-5",
-      "ch": 9,
-      "n": 5,
-      "title": "Recurrent-loss investigation",
-      "sec": "Abortion foundations · p418-419",
-      "guide": "Separate abortion from intrauterine death by gestational age, distinguish isolated from recurrent loss, and prioritize the high-yield chromosomal, endocrine, uterine, and APS causes. Evaluation after two losses is targeted—not an indiscriminate infection or thrombophilia panel. Focus for this checkpoint: Recurrent-loss investigation.",
-      "qs": [
-        "OBG-C9-030",
-        "OBG-C9-031",
-        "OBG-C9-032",
-        "OBG-C9-033",
-        "OBG-C9-034"
-      ]
-    },
-    {
-      "id": "OBG-U9-6",
-      "ch": 9,
-      "n": 6,
-      "title": "Cervical incompetence → Cervical length",
-      "sec": "Cervical insufficiency protocol · p420-421",
-      "guide": "Cervical incompetence produces painless second-trimester loss from spontaneous internal-os dilatation. Use history, pregnancy TVS, and clinical findings to choose progesterone, history- or ultrasound-based cerclage, or carefully selected rescue cerclage. Focus for this checkpoint: Cervical incompetence, Cervical incompetence diagnosis, Cervical length.",
-      "qs": [
-        "OBG-C9-035",
-        "OBG-C9-036",
-        "OBG-C9-037",
-        "OBG-C9-038",
-        "OBG-C9-039",
-        "OBG-C9-040",
-        "OBG-C9-041"
-      ]
-    },
-    {
-      "id": "OBG-U9-7",
-      "ch": 9,
-      "n": 7,
-      "title": "Cervical shape → Cerclage indications",
-      "sec": "Cervical insufficiency protocol · p420-421",
-      "guide": "Cervical incompetence produces painless second-trimester loss from spontaneous internal-os dilatation. Use history, pregnancy TVS, and clinical findings to choose progesterone, history- or ultrasound-based cerclage, or carefully selected rescue cerclage. Focus for this checkpoint: Cervical shape, Cervical incompetence, Cerclage principle, Cerclage indications.",
-      "qs": [
-        "OBG-C9-042",
-        "OBG-C9-043",
-        "OBG-C9-044",
-        "OBG-C9-045",
-        "OBG-C9-046",
-        "OBG-C9-047",
-        "OBG-C9-048"
-      ]
-    },
-    {
-      "id": "OBG-U9-8",
-      "ch": 9,
-      "n": 8,
-      "title": "Emergency cerclage → Cervical management protocol",
-      "sec": "Cervical insufficiency protocol · p420-421",
-      "guide": "Cervical incompetence produces painless second-trimester loss from spontaneous internal-os dilatation. Use history, pregnancy TVS, and clinical findings to choose progesterone, history- or ultrasound-based cerclage, or carefully selected rescue cerclage. Focus for this checkpoint: Emergency cerclage, Cerclage timing, Progesterone, Progesterone indications, Cervical management protocol.",
-      "qs": [
-        "OBG-C9-049",
-        "OBG-C9-050",
-        "OBG-C9-051",
-        "OBG-C9-052",
-        "OBG-C9-053",
-        "OBG-C9-054",
-        "OBG-C9-055",
-        "OBG-C9-056",
-        "OBG-C9-057",
-        "OBG-C9-058"
-      ]
-    },
-    {
-      "id": "OBG-U9-9",
-      "ch": 9,
-      "n": 9,
-      "title": "Cervical management protocol → Transabdominal cerclage",
-      "sec": "Cervical insufficiency protocol · p420-421",
-      "guide": "Cervical incompetence produces painless second-trimester loss from spontaneous internal-os dilatation. Use history, pregnancy TVS, and clinical findings to choose progesterone, history- or ultrasound-based cerclage, or carefully selected rescue cerclage. Focus for this checkpoint: Cervical management protocol, Rescue cerclage, Cerclage approaches, Transvaginal cerclage, Transabdominal cerclage.",
-      "qs": [
-        "OBG-C9-059",
-        "OBG-C9-060",
-        "OBG-C9-061",
-        "OBG-C9-062",
-        "OBG-C9-063",
-        "OBG-C9-064"
-      ]
-    },
-    {
-      "id": "OBG-U9-10",
-      "ch": 9,
-      "n": 10,
-      "title": "McDonald cerclage → Wurm cerclage",
-      "sec": "Cerclage procedures · p422-423",
-      "guide": "Differentiate McDonald, Shirodkar, Wurm, and abdominal approaches by suture placement, bladder dissection, success, material, and delivery implications. Avoid cerclage when labor, fetal compromise, membrane rupture, bleeding, or infection makes it unsafe. Focus for this checkpoint: McDonald cerclage, Shirodkar cerclage, Wurm cerclage.",
-      "qs": [
-        "OBG-C9-065",
-        "OBG-C9-066",
-        "OBG-C9-067",
-        "OBG-C9-068",
-        "OBG-C9-069",
-        "OBG-C9-070",
-        "OBG-C9-071",
-        "OBG-C9-072"
-      ]
-    },
-    {
-      "id": "OBG-U9-11",
-      "ch": 9,
-      "n": 11,
-      "title": "Cerclage timing → Cerclage adjuncts",
-      "sec": "Cerclage procedures · p422-423",
-      "guide": "Differentiate McDonald, Shirodkar, Wurm, and abdominal approaches by suture placement, bladder dissection, success, material, and delivery implications. Avoid cerclage when labor, fetal compromise, membrane rupture, bleeding, or infection makes it unsafe. Focus for this checkpoint: Cerclage timing, Cerclage removal, Cerclage delivery, Abdominal cerclage, Cerclage adjuncts.",
-      "qs": [
-        "OBG-C9-073",
-        "OBG-C9-074",
-        "OBG-C9-075",
-        "OBG-C9-076",
-        "OBG-C9-077",
-        "OBG-C9-078",
-        "OBG-C9-079",
-        "OBG-C9-080"
-      ]
-    },
-    {
-      "id": "OBG-U9-12",
-      "ch": 9,
-      "n": 12,
-      "title": "Cerclage contraindications",
-      "sec": "Cerclage procedures · p422-423",
-      "guide": "Differentiate McDonald, Shirodkar, Wurm, and abdominal approaches by suture placement, bladder dissection, success, material, and delivery implications. Avoid cerclage when labor, fetal compromise, membrane rupture, bleeding, or infection makes it unsafe. Focus for this checkpoint: Cerclage contraindications.",
-      "qs": [
-        "OBG-C9-081",
-        "OBG-C9-082",
-        "OBG-C9-083",
-        "OBG-C9-084"
-      ]
-    },
-    {
-      "id": "OBG-U9-13",
-      "ch": 9,
-      "n": 13,
-      "title": "APS definition → APS clinical criteria",
-      "sec": "APLA syndrome · p424-425",
-      "guide": "APS is an acquired prothrombotic antibody syndrome and the most common individual cause of recurrent loss. Diagnose it only when a qualifying clinical event and persistent laboratory antibody criterion coexist, then match aspirin/heparin management to obstetric and thrombotic history. Focus for this checkpoint: APS definition, APS pathology, APS antibodies, APS presentations, APS diagnosis, APS clinical criteria.",
-      "qs": [
-        "OBG-C9-085",
-        "OBG-C9-086",
-        "OBG-C9-087",
-        "OBG-C9-088",
-        "OBG-C9-089",
-        "OBG-C9-090",
-        "OBG-C9-091",
-        "OBG-C9-092",
-        "OBG-C9-093",
-        "OBG-C9-094"
-      ]
-    },
-    {
-      "id": "OBG-U9-14",
-      "ch": 9,
-      "n": 14,
-      "title": "APS laboratory criteria → APS management",
-      "sec": "APLA syndrome · p424-425",
-      "guide": "APS is an acquired prothrombotic antibody syndrome and the most common individual cause of recurrent loss. Diagnose it only when a qualifying clinical event and persistent laboratory antibody criterion coexist, then match aspirin/heparin management to obstetric and thrombotic history. Focus for this checkpoint: APS laboratory criteria, Lupus anticoagulant, APS management.",
-      "qs": [
-        "OBG-C9-095",
-        "OBG-C9-096",
-        "OBG-C9-097",
-        "OBG-C9-098",
-        "OBG-C9-099",
-        "OBG-C9-100",
-        "OBG-C9-101",
-        "OBG-C9-102",
-        "OBG-C9-103"
-      ]
-    },
-    {
-      "id": "OBG-U9-15",
-      "ch": 9,
-      "n": 15,
-      "title": "APS postpartum & APS outside pregnancy",
-      "sec": "APLA syndrome · p424-425",
-      "guide": "APS is an acquired prothrombotic antibody syndrome and the most common individual cause of recurrent loss. Diagnose it only when a qualifying clinical event and persistent laboratory antibody criterion coexist, then match aspirin/heparin management to obstetric and thrombotic history. Focus for this checkpoint: APS postpartum, APS outside pregnancy.",
-      "qs": [
-        "OBG-C9-104",
-        "OBG-C9-105",
-        "OBG-C9-106"
-      ]
-    },
-    {
-      "id": "OBG-U9-16",
-      "ch": 9,
-      "n": 16,
-      "title": "Threatened abortion → Inevitable abortion",
-      "sec": "Abortion assessment and sepsis · p425-426",
-      "guide": "Clinical abortion types are distinguished by symptoms, uterine size, internal os, ultrasound, and urgency. Missed abortion is ultrasound based; septic abortion is an infective emergency requiring immediate broad-spectrum antibiotic coverage and severity grading. Focus for this checkpoint: Threatened abortion, Threatened abortion management, Inevitable abortion.",
-      "qs": [
-        "OBG-C9-107",
-        "OBG-C9-108",
-        "OBG-C9-109",
-        "OBG-C9-110",
-        "OBG-C9-111",
-        "OBG-C9-112",
-        "OBG-C9-113",
-        "OBG-C9-114"
-      ]
-    },
-    {
-      "id": "OBG-U9-17",
-      "ch": 9,
-      "n": 17,
-      "title": "Incomplete abortion → Missed abortion",
-      "sec": "Abortion assessment and sepsis · p425-426",
-      "guide": "Clinical abortion types are distinguished by symptoms, uterine size, internal os, ultrasound, and urgency. Missed abortion is ultrasound based; septic abortion is an infective emergency requiring immediate broad-spectrum antibiotic coverage and severity grading. Focus for this checkpoint: Incomplete abortion, Complete abortion, Complete abortion management, Missed abortion.",
-      "qs": [
-        "OBG-C9-115",
-        "OBG-C9-116",
-        "OBG-C9-117",
-        "OBG-C9-118",
-        "OBG-C9-119",
-        "OBG-C9-120",
-        "OBG-C9-121",
-        "OBG-C9-122",
-        "OBG-C9-123",
-        "OBG-C9-124"
-      ]
-    },
-    {
-      "id": "OBG-U9-18",
-      "ch": 9,
-      "n": 18,
-      "title": "Missed abortion ultrasound → Septic abortion",
-      "sec": "Abortion assessment and sepsis · p425-426",
-      "guide": "Clinical abortion types are distinguished by symptoms, uterine size, internal os, ultrasound, and urgency. Missed abortion is ultrasound based; septic abortion is an infective emergency requiring immediate broad-spectrum antibiotic coverage and severity grading. Focus for this checkpoint: Missed abortion ultrasound, Missed abortion management, Shock and abortion, Septic abortion.",
-      "qs": [
-        "OBG-C9-125",
-        "OBG-C9-126",
-        "OBG-C9-127",
-        "OBG-C9-128",
-        "OBG-C9-129",
-        "OBG-C9-130",
-        "OBG-C9-131",
-        "OBG-C9-132",
-        "OBG-C9-133"
-      ]
-    },
-    {
-      "id": "OBG-U9-19",
-      "ch": 9,
-      "n": 19,
-      "title": "Septic abortion grading → Septic abortion",
-      "sec": "Abortion assessment and sepsis · p425-426",
-      "guide": "Clinical abortion types are distinguished by symptoms, uterine size, internal os, ultrasound, and urgency. Missed abortion is ultrasound based; septic abortion is an infective emergency requiring immediate broad-spectrum antibiotic coverage and severity grading. Focus for this checkpoint: Septic abortion grading, Septic abortion management, Septic abortion.",
-      "qs": [
-        "OBG-C9-134",
-        "OBG-C9-135",
-        "OBG-C9-136",
-        "OBG-C9-137",
-        "OBG-C9-138"
-      ]
-    },
-    {
-      "id": "OBG-U9-20",
-      "ch": 9,
-      "n": 20,
-      "title": "MTP Act 2021 → MTP indications",
-      "sec": "Medical termination of pregnancy · p427",
-      "guide": "The MTP Act 2021 sets separate gestational limits, consent and opinion requirements, medical-board composition, records, and practitioner qualifications. Compare medical and surgical abortion by invasiveness, speed, expertise, failure rescue, and complication profile. Focus for this checkpoint: MTP Act 2021, Medical board, MTP indications.",
-      "qs": [
-        "OBG-C9-139",
-        "OBG-C9-140",
-        "OBG-C9-141",
-        "OBG-C9-142",
-        "OBG-C9-143",
-        "OBG-C9-144",
-        "OBG-C9-145",
-        "OBG-C9-146"
-      ]
-    },
-    {
-      "id": "OBG-U9-21",
-      "ch": 9,
-      "n": 21,
-      "title": "MTP consent → MTP qualification",
-      "sec": "Medical termination of pregnancy · p427",
-      "guide": "The MTP Act 2021 sets separate gestational limits, consent and opinion requirements, medical-board composition, records, and practitioner qualifications. Compare medical and surgical abortion by invasiveness, speed, expertise, failure rescue, and complication profile. Focus for this checkpoint: MTP consent, MTP medical opinion, MTP records, MTP qualification.",
-      "qs": [
-        "OBG-C9-147",
-        "OBG-C9-148",
-        "OBG-C9-149",
-        "OBG-C9-150",
-        "OBG-C9-151",
-        "OBG-C9-152",
-        "OBG-C9-153",
-        "OBG-C9-154"
-      ]
-    },
-    {
-      "id": "OBG-U9-22",
-      "ch": 9,
-      "n": 22,
-      "title": "Medical vs surgical abortion",
-      "sec": "Medical termination of pregnancy · p427",
-      "guide": "The MTP Act 2021 sets separate gestational limits, consent and opinion requirements, medical-board composition, records, and practitioner qualifications. Compare medical and surgical abortion by invasiveness, speed, expertise, failure rescue, and complication profile. Focus for this checkpoint: Medical vs surgical abortion.",
-      "qs": [
-        "OBG-C9-155",
-        "OBG-C9-156",
-        "OBG-C9-157",
-        "OBG-C9-158"
-      ]
-    }
-  ],
-  "questions": [
-    {
-      "id": "OBG-C9-001",
-      "sec": "Abortion definitions",
-      "page": 418,
-      "q": "How is abortion defined in the source notes?",
-      "opts": [
-        "Pregnancy loss at or after 28 weeks only",
-        "Any bleeding in pregnancy",
-        "Fetal death after birth",
-        "Pregnancy loss before 20 weeks of gestation"
-      ],
-      "ans": 3,
-      "exp": "Abortion is pregnancy loss occurring before 20 weeks of gestation. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-002",
-      "sec": "Abortion definitions",
-      "page": 418,
-      "q": "What WHO abortion definition is given in terms of fetal weight and approximate gestation?",
-      "opts": [
-        "Fetal weight below 500 g, approximately below 22 weeks",
-        "Fetal weight below 1,500 g, approximately below 32 weeks",
-        "Fetal weight below 4,000 g, approximately below 40 weeks",
-        "Any fetal weight after 28 weeks"
-      ],
-      "ans": 0,
-      "exp": "The WHO definition uses fetal weight below 500 g, approximately 22 weeks. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-003",
-      "sec": "Abortion definitions",
-      "page": 418,
-      "q": "How is intrauterine death distinguished from abortion by gestational age in the notes?",
-      "opts": [
-        "Loss only after 28 weeks",
-        "Pregnancy loss at or after 20 weeks",
-        "Loss before 12 weeks",
-        "Loss before 20 weeks"
-      ],
-      "ans": 1,
-      "exp": "Intrauterine death is pregnancy loss at or after 20 weeks. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-004",
-      "sec": "Viability",
-      "page": 418,
-      "q": "What period of viability in India is stated in the source?",
-      "opts": [
-        "24 weeks",
-        "32 weeks",
-        "28 weeks",
-        "20 weeks"
-      ],
-      "ans": 2,
-      "exp": "The notes state a period of viability of 28 weeks in India. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-005",
-      "sec": "Types of abortion",
-      "page": 418,
-      "q": "How is spontaneous abortion subdivided in the source flowchart?",
-      "opts": [
-        "Only surgical or medical",
-        "Only complete or incomplete",
-        "Only antepartum or postpartum",
-        "Isolated single episode or recurrent with at least 3 abortions"
-      ],
-      "ans": 3,
-      "exp": "Spontaneous abortion may be isolated (single episode) or recurrent (at least 3 abortions). (Book p418)"
-    },
-    {
-      "id": "OBG-C9-006",
-      "sec": "Types of abortion",
-      "page": 418,
-      "q": "Which category describes an abortion induced medically?",
-      "opts": [
-        "Medical termination of pregnancy",
-        "Threatened abortion",
-        "Inevitable abortion",
-        "Missed abortion"
-      ],
-      "ans": 0,
-      "exp": "Induced abortion is medical termination of pregnancy. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-007",
-      "sec": "Septic abortion",
-      "page": 418,
-      "q": "What makes any abortion a septic abortion?",
-      "opts": [
-        "Rh negativity alone",
-        "Presence of septic foci",
-        "An open internal os alone",
-        "Fetal cardiac activity alone"
-      ],
-      "ans": 1,
-      "exp": "Any abortion with septic foci is septic abortion. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-008",
-      "sec": "Isolated abortion",
-      "page": 418,
-      "q": "What is the most common cause of isolated abortion in the first or second trimester?",
-      "opts": [
-        "APLA syndrome",
-        "Asymptomatic bacteriuria",
-        "Chromosomal anomaly",
-        "Cervical incompetence"
-      ],
-      "ans": 2,
-      "exp": "Chromosomal anomaly is the most common cause of isolated first- or second-trimester abortion. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-009",
-      "sec": "Chromosomal causes",
-      "page": 418,
-      "q": "What is the most common category of chromosomal anomaly associated with isolated abortion?",
-      "opts": [
-        "Balanced translocation",
-        "Triploidy only",
-        "Mitochondrial mutation",
-        "Aneuploidy"
-      ],
-      "ans": 3,
-      "exp": "Aneuploidy is listed as the most common chromosomal anomaly. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-010",
-      "sec": "Chromosomal causes",
-      "page": 418,
-      "q": "Which sequence correctly ranks the listed common chromosomal abnormalities in isolated abortion?",
-      "opts": [
-        "Aneuploidy, then trisomy, then monosomy (Turner syndrome), then trisomy 16",
-        "Trisomy 16, then Turner, then aneuploidy",
-        "Balanced translocation, then trisomy 21, then triploidy",
-        "Monosomy, then euploidy, then trisomy"
-      ],
-      "ans": 0,
-      "exp": "The source order is aneuploidy > trisomy > monosomy (Turner) > trisomy 16. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-011",
-      "sec": "Isolated abortion risks",
-      "page": 418,
-      "q": "Which history is a risk factor for isolated abortion?",
-      "opts": [
-        "Daily walking",
-        "Previous abortion",
-        "Normal fetal echo",
-        "Rh-negative father alone"
-      ],
-      "ans": 1,
-      "exp": "Previous history of abortion is a listed risk factor. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-012",
-      "sec": "Isolated abortion risks",
-      "page": 418,
-      "q": "How does maternal age affect isolated-abortion risk?",
-      "opts": [
-        "It has no effect",
-        "Only paternal age matters",
-        "Risk increases with maternal age",
-        "Risk decreases to zero after age 35"
-      ],
-      "ans": 2,
-      "exp": "Increasing maternal age is a listed risk factor. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-013",
-      "sec": "Infection and abortion",
-      "page": 418,
-      "q": "What is the source-note relationship between infection and recurrent abortion?",
-      "opts": [
-        "All infections are the most common recurrent cause",
-        "TORCH always proves recurrent abortion",
-        "VDRL is mandatory in all recurrent loss",
-        "Infections do not cause recurrent abortion"
-      ],
-      "ans": 3,
-      "exp": "The notes state infections do not cause recurrent abortion. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-014",
-      "sec": "Congenital syphilis",
-      "page": 418,
-      "q": "What is the stated pregnancy-outcome pattern for congenital syphilis?",
-      "opts": [
-        "It follows Kassowitz law; prognosis improves with increasing pregnancies",
-        "It always causes recurrent first-trimester abortion only",
-        "It cannot affect pregnancy outcome",
-        "It is a teratogen but not abortogenic"
-      ],
-      "ans": 0,
-      "exp": "Kassowitz law states pregnancy prognosis is proportional to number of pregnancies in syphilis; stillbirth is more characteristic. (Book p418)"
-    },
-    {
-      "id": "OBG-C9-015",
-      "sec": "Chromosomal causes",
-      "page": 419,
-      "q": "Which trisomy is described as most lethal?",
-      "opts": [
-        "Trisomy 16",
-        "Trisomy 21",
-        "Trisomy 18",
-        "Trisomy 13"
-      ],
-      "ans": 0,
-      "exp": "Trisomy 16 is the most lethal in the note. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-016",
-      "sec": "Chromosomal causes",
-      "page": 419,
-      "q": "Which trisomy is described as the most viable and has abortion as its most common outcome?",
-      "opts": [
-        "Trisomy 18",
-        "Trisomy 21",
-        "Trisomy 16",
-        "Trisomy 13"
-      ],
-      "ans": 1,
-      "exp": "Trisomy 21 is the most viable; abortion is its most common outcome in the notes. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-017",
-      "sec": "HIV and pregnancy loss",
-      "page": 419,
-      "q": "What is the stated effect of HIV on abortion and teratogenicity?",
-      "opts": [
-        "It is only teratogenic",
-        "It is only abortogenic",
-        "It is neither abortogenic nor teratogenic",
-        "It is both always abortogenic and teratogenic"
-      ],
-      "ans": 2,
-      "exp": "The source explicitly states HIV is neither abortogenic nor teratogenic. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-018",
-      "sec": "Recurrent abortion",
-      "page": 419,
-      "q": "How is recurrent abortion defined in the source notes?",
-      "opts": [
-        "At least 2 nonconsecutive losses at any gestation",
-        "Any one loss before 28 weeks",
-        "At least 5 losses after 20 weeks",
-        "At least 3 consecutive pregnancy losses before 20 weeks"
-      ],
-      "ans": 3,
-      "exp": "Recurrent abortion is at least 3 consecutive losses before 20 weeks. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-019",
-      "sec": "Recurrent abortion",
-      "page": 419,
-      "q": "What ASRM definition of recurrent pregnancy loss is stated?",
-      "opts": [
-        "At least 2 confirmed pregnancy losses",
-        "At least 3 consecutive unconfirmed losses",
-        "At least 4 losses after 20 weeks",
-        "One biochemical pregnancy"
-      ],
-      "ans": 0,
-      "exp": "ASRM defines recurrent loss as at least 2 confirmed pregnancy losses. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-020",
-      "sec": "Recurrent abortion",
-      "page": 419,
-      "q": "How can pregnancy loss be confirmed for the ASRM recurrent-loss definition?",
-      "opts": [
-        "Fetal movement count",
-        "Histopathology or ultrasound",
-        "Urine dipstick only",
-        "Maternal symptoms only"
-      ],
-      "ans": 1,
-      "exp": "Confirmation is by histopathological examination or USG. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-021",
-      "sec": "Recurrent abortion causes",
-      "page": 419,
-      "q": "What is the most common group of causes of recurrent abortion?",
-      "opts": [
-        "Infections",
-        "Thrombophilia testing abnormalities",
-        "Endocrine causes",
-        "Uterine causes"
-      ],
-      "ans": 2,
-      "exp": "Endocrine causes are the most common group, ahead of uterine causes. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-022",
-      "sec": "Recurrent abortion causes",
-      "page": 419,
-      "q": "What is the most common individual cause of recurrent abortion?",
-      "opts": [
-        "Cervical incompetence",
-        "Hypothyroidism",
-        "Congenital syphilis",
-        "APLA syndrome"
-      ],
-      "ans": 3,
-      "exp": "APLA syndrome is the most common individual cause. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-023",
-      "sec": "Endocrine causes",
-      "page": 419,
-      "q": "What is the most common endocrine cause of recurrent abortion?",
-      "opts": [
-        "Hypothyroidism",
-        "PCOS",
-        "Hyperprolactinemia",
-        "Uncontrolled diabetes"
-      ],
-      "ans": 0,
-      "exp": "Hypothyroidism is the most common endocrine cause. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-024",
-      "sec": "Endocrine causes",
-      "page": 419,
-      "q": "Which endocrine conditions are listed among recurrent-abortion causes?",
-      "opts": [
-        "Only growth hormone deficiency",
-        "Uncontrolled diabetes, PCOS, and raised prolactin",
-        "Only hyperthyroidism",
-        "Only low calcium"
-      ],
-      "ans": 1,
-      "exp": "Uncontrolled diabetes, PCOS, and increased prolactin are listed endocrine causes. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-025",
-      "sec": "Uterine causes",
-      "page": 419,
-      "q": "What is the most common uterine cause of recurrent first-trimester abortion?",
-      "opts": [
-        "Cervical incompetence",
-        "Submucous fibroid",
-        "Septate uterus",
-        "Bicornuate uterus"
-      ],
-      "ans": 2,
-      "exp": "Septate uterus is the most common uterine cause of first-trimester abortion. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-026",
-      "sec": "Uterine causes",
-      "page": 419,
-      "q": "Which congenital uterine anomaly is next in frequency after septate uterus in the source list?",
-      "opts": [
-        "Unicornuate uterus",
-        "Didelphys",
-        "Arcuate uterus",
-        "Bicornuate uterus"
-      ],
-      "ans": 3,
-      "exp": "The source ranks septate uterus above bicornuate uterus. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-027",
-      "sec": "Uterine causes",
-      "page": 419,
-      "q": "Which acquired uterine causes are listed for recurrent abortion?",
-      "opts": [
-        "Cervical incompetence, submucous fibroid, and Asherman syndrome",
-        "Only placenta previa",
-        "Only ectopic pregnancy",
-        "Only ovarian cyst"
-      ],
-      "ans": 0,
-      "exp": "The acquired causes listed are cervical incompetence, submucous fibroid, and Asherman syndrome. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-028",
-      "sec": "Chromosomal recurrent loss",
-      "page": 419,
-      "q": "What proportion of recurrent abortions can be due to chromosomal abnormalities?",
-      "opts": [
-        "0%",
-        "2–5%",
-        "20–50%",
-        "80–90%"
-      ],
-      "ans": 1,
-      "exp": "Chromosomal abnormalities may account for 2–5% of recurrent abortions. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-029",
-      "sec": "Chromosomal recurrent loss",
-      "page": 419,
-      "q": "What is the most common chromosomal abnormality in recurrent abortion?",
-      "opts": [
-        "Turner syndrome",
-        "Triploidy",
-        "Balanced chromosomal translocation",
-        "Trisomy 16"
-      ],
-      "ans": 2,
-      "exp": "Balanced translocation is the most common chromosomal abnormality in recurrent loss. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-030",
-      "sec": "Recurrent-loss investigation",
-      "page": 419,
-      "q": "When should recurrent-abortion investigations begin according to the notes?",
-      "opts": [
-        "Only after 5 abortions",
-        "After the first biochemical pregnancy",
-        "Only at delivery",
-        "After 2 abortions"
-      ],
-      "ans": 3,
-      "exp": "The source says investigations should begin after two abortions. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-031",
-      "sec": "Recurrent-loss investigation",
-      "page": 419,
-      "q": "Which targeted investigation is used when an endocrine cause of recurrent abortion is suspected?",
-      "opts": [
-        "TSH",
-        "TORCH panel",
-        "VDRL in every patient",
-        "Thrombophilia screen in every patient"
-      ],
-      "ans": 0,
-      "exp": "TSH is performed if an endocrine cause is suspected. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-032",
-      "sec": "Recurrent-loss investigation",
-      "page": 419,
-      "q": "Which targeted investigation is used when a uterine cause of recurrent abortion is suspected?",
-      "opts": [
-        "MCA Doppler",
-        "TVS",
-        "OGTT",
-        "ICT"
-      ],
-      "ans": 1,
-      "exp": "TVS is performed if a uterine cause is suspected. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-033",
-      "sec": "Recurrent-loss investigation",
-      "page": 419,
-      "q": "Which two etiologic tests are routinely included after recurrent losses in the source plan?",
-      "opts": [
-        "Bile acids and HbA1c",
-        "DIPSI and fetal echo",
-        "APLA antibody testing and parental karyotyping",
-        "TORCH and VDRL"
-      ],
-      "ans": 2,
-      "exp": "APLA antibody testing and parental karyotyping are included after two losses. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-034",
-      "sec": "Recurrent-loss investigation",
-      "page": 419,
-      "q": "Which test is specifically not done for recurrent abortion in the source notes?",
-      "opts": [
-        "Parental karyotyping",
-        "APLA antibody testing",
-        "TVS when uterine cause is suspected",
-        "TORCH testing"
-      ],
-      "ans": 3,
-      "exp": "TORCH testing, VDRL, and thrombophilia testing are listed as not done. (Book p419)"
-    },
-    {
-      "id": "OBG-C9-035",
-      "sec": "Cervical incompetence",
-      "page": 420,
-      "q": "What is cervical incompetence by definition?",
-      "opts": [
-        "Painful first-trimester abortion from uterine contractions",
-        "Any open external os at delivery",
-        "Cervical cancer in pregnancy",
-        "Spontaneous dilatation of an incompetent internal os causing painless second-trimester abortion"
-      ],
-      "ans": 3,
-      "exp": "Cervical incompetence is spontaneous internal-os dilatation causing painless second-trimester loss. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-036",
-      "sec": "Cervical incompetence",
-      "page": 420,
-      "q": "What history supports cervical incompetence?",
-      "opts": [
-        "At least 3 painless second-trimester abortions",
-        "Three painful first-trimester abortions",
-        "One ectopic pregnancy",
-        "Only postpartum hemorrhage"
-      ],
-      "ans": 0,
-      "exp": "A history of recurrent (at least 3) painless second-trimester abortions supports cervical incompetence. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-037",
-      "sec": "Cervical incompetence",
-      "page": 420,
-      "q": "Which nonpregnant test can support cervical incompetence by showing passage without resistance?",
-      "opts": [
-        "MVA syringe",
-        "Hegar dilator number 8",
-        "Karman cannula number 16",
-        "Foley catheter number 4"
-      ],
-      "ans": 1,
-      "exp": "In nonpregnant women, passage of Hegar dilator no. 8 without resistance is a diagnostic clue. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-038",
-      "sec": "Cervical incompetence",
-      "page": 420,
-      "q": "Which Foley catheter finding supports cervical incompetence in a nonpregnant woman?",
-      "opts": [
-        "Any Foley insertion after labor",
-        "A balloon in the ureter",
-        "No. 16 Foley with a 1-mL inflated bulb passes without resistance",
-        "No. 8 Foley with 10 mL inflated bulb cannot pass"
-      ],
-      "ans": 2,
-      "exp": "Passage of no. 16 Foley with bulb filled with 1 mL water without resistance supports the diagnosis. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-039",
-      "sec": "Cervical incompetence diagnosis",
-      "page": 420,
-      "q": "What is the investigation of choice for cervical incompetence during pregnancy?",
-      "opts": [
-        "Hysteroscopy",
-        "HSG",
-        "Abdominal X-ray",
-        "Transvaginal scan"
-      ],
-      "ans": 3,
-      "exp": "TVS is the investigation of choice in pregnancy. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-040",
-      "sec": "Cervical length",
-      "page": 420,
-      "q": "What cervical length is normal in pregnancy according to the source table?",
-      "opts": [
-        "4–5 cm",
-        "Less than 1 cm",
-        "2–2.5 cm",
-        "More than 8 cm"
-      ],
-      "ans": 0,
-      "exp": "The normal pregnancy cervical length is 4–5 cm. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-041",
-      "sec": "Cervical length",
-      "page": 420,
-      "q": "What TVS cervical-length value supports cervical incompetence?",
-      "opts": [
-        "Exactly 3.5 cm",
-        "2.5 cm or less",
-        "4–5 cm",
-        "More than 6 cm"
-      ],
-      "ans": 1,
-      "exp": "Cervical length ≤2.5 cm supports cervical incompetence. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-042",
-      "sec": "Cervical shape",
-      "page": 420,
-      "q": "What is the normal cervical shape on TVS in pregnancy?",
-      "opts": [
-        "V shape",
-        "U shape",
-        "T shape",
-        "Y shape"
-      ],
-      "ans": 2,
-      "exp": "A normal cervical shape is T shaped. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-043",
-      "sec": "Cervical shape",
-      "page": 420,
-      "q": "Which funneling progression is characteristic of cervical incompetence?",
-      "opts": [
-        "T to I to L",
-        "U to V to Y",
-        "C to S to O",
-        "Y to V to U"
-      ],
-      "ans": 3,
-      "exp": "Cervical incompetence shows Y→V→U funneling. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-044",
-      "sec": "Cervical incompetence",
-      "page": 420,
-      "q": "Why is cervical length inversely related to cervical dilatation?",
-      "opts": [
-        "Dilatation takes up/effaces the cervix",
-        "The cervix grows with dilatation",
-        "Fetal growth directly lengthens cervix",
-        "The internal os closes the cervix"
-      ],
-      "ans": 0,
-      "exp": "As the cervix dilates, it is taken up, so length falls. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-045",
-      "sec": "Cerclage principle",
-      "page": 420,
-      "q": "What is the principle of cervical cerclage?",
-      "opts": [
-        "Apply fundal pressure",
-        "Place sutures around the internal os",
-        "Remove the entire cervix",
-        "Dilate the internal os"
-      ],
-      "ans": 1,
-      "exp": "Cerclage places sutures around the internal os. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-046",
-      "sec": "Cerclage indications",
-      "page": 420,
-      "q": "What is the history-based indication for cervical cerclage?",
-      "opts": [
-        "A normal cervix on TVS only",
-        "Maternal age above 40 alone",
-        "History of at least 2 painless second-trimester abortions irrespective of USG findings",
-        "Any one first-trimester loss"
-      ],
-      "ans": 2,
-      "exp": "History-based cerclage is for at least 2 painless T2 abortions regardless of ultrasound. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-047",
-      "sec": "Cerclage indications",
-      "page": 420,
-      "q": "What ultrasound-based history indication for cerclage is listed after one painless second-trimester loss?",
-      "opts": [
-        "Cervical length 4–5 cm",
-        "Positive ICT",
-        "Bile acid level above 10",
-        "Cervical length less than 2.5 cm"
-      ],
-      "ans": 3,
-      "exp": "One painless T2 abortion plus cervical length <2.5 cm is ultrasound-based indication. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-048",
-      "sec": "Cerclage indications",
-      "page": 420,
-      "q": "What history plus TVS finding supports cerclage after early preterm labor?",
-      "opts": [
-        "Early PTL history with cervical length less than 2.5 cm",
-        "Early PTL with cervical length over 5 cm",
-        "Only a positive urine pregnancy test",
-        "Any post-term labor"
-      ],
-      "ans": 0,
-      "exp": "Early PTL plus cervical length <2.5 cm is an indication. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-049",
-      "sec": "Emergency cerclage",
-      "page": 420,
-      "q": "What physical finding is the basis for emergency cervical cerclage?",
-      "opts": [
-        "Fetal macrosomia",
-        "Pregnant woman under 24 weeks with a dilated cervix",
-        "Closed cervix at 39 weeks",
-        "Only a positive ICT"
-      ],
-      "ans": 1,
-      "exp": "Emergency cerclage is physical-examination based: under 24 weeks with a dilated cervix. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-050",
-      "sec": "Cerclage timing",
-      "page": 420,
-      "q": "What is the earliest gestational age at which cervical cerclage is done according to the notes?",
-      "opts": [
-        "20 weeks",
-        "28 weeks",
-        "12 weeks",
-        "6 weeks"
-      ],
-      "ans": 2,
-      "exp": "The earliest cerclage is done at 12 weeks. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-051",
-      "sec": "Progesterone",
-      "page": 420,
-      "q": "Why is progesterone given in the cervical-incompetence protocol?",
-      "opts": [
-        "To terminate pregnancy",
-        "To treat Rh sensitization",
-        "To induce fetal anemia",
-        "To prevent preterm labor"
-      ],
-      "ans": 3,
-      "exp": "Progesterone is used to prevent preterm labor. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-052",
-      "sec": "Progesterone",
-      "page": 420,
-      "q": "What progesterone schedule is stated for preterm-labor prevention?",
-      "opts": [
-        "Start at 12–24 weeks and stop at 36 weeks",
-        "Start at 36 weeks and stop at delivery",
-        "Start only postpartum",
-        "Give only before 8 weeks"
-      ],
-      "ans": 0,
-      "exp": "Progesterone is started between 12–24 weeks and stopped at 36 weeks. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-053",
-      "sec": "Progesterone indications",
-      "page": 420,
-      "q": "Which history is an indication for progesterone in the source plan?",
-      "opts": [
-        "Only molar pregnancy",
-        "Any painless second-trimester abortion or preterm labor history",
-        "Only normal term delivery",
-        "Only Rh-negative pregnancy"
-      ],
-      "ans": 1,
-      "exp": "Progesterone is indicated with a history of painless T2 abortion or preterm labor. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-054",
-      "sec": "Progesterone indications",
-      "page": 420,
-      "q": "Which ultrasound/care finding is an indication for progesterone?",
-      "opts": [
-        "Positive DCT in the newborn",
-        "Normal fundus",
-        "Cervical length less than 2.5 cm or after a cerclage",
-        "Cervical length of 5 cm with no history"
-      ],
-      "ans": 2,
-      "exp": "Progesterone is indicated for short cervix <2.5 cm and if cerclage has been done. (Book p420)"
-    },
-    {
-      "id": "OBG-C9-055",
-      "sec": "Cervical management protocol",
-      "page": 421,
-      "q": "What treatment is given for a history of at least 2 painless second-trimester abortions?",
-      "opts": [
-        "No treatment until delivery",
-        "Anti-D only",
-        "Progesterone from 12 weeks plus cervical cerclage",
-        "Progesterone only after 36 weeks"
-      ],
-      "ans": 2,
-      "exp": "At least two painless T2 losses receive progesterone from 12 weeks plus cerclage. (Book p421)"
-    },
-    {
-      "id": "OBG-C9-056",
-      "sec": "Cervical management protocol",
-      "page": 421,
-      "q": "For one painless second-trimester loss or early preterm labor, when is the cervical ultrasound reassessment performed?",
-      "opts": [
-        "At 6 weeks",
-        "At 28 weeks only",
-        "Only after delivery",
-        "At 14 weeks"
-      ],
-      "ans": 3,
-      "exp": "The algorithm performs ultrasound at 14 weeks. (Book p421)"
-    },
-    {
-      "id": "OBG-C9-057",
-      "sec": "Cervical management protocol",
-      "page": 421,
-      "q": "After one prior painless T2 loss/early PTL, what is used if cervical length at 14 weeks is below 2.5 cm?",
-      "opts": [
-        "Cerclage plus progesterone",
-        "Aspirin only",
-        "No treatment",
-        "Methotrexate"
-      ],
-      "ans": 0,
-      "exp": "A short cervix <2.5 cm leads to cerclage plus progesterone. (Book p421)"
-    },
-    {
-      "id": "OBG-C9-058",
-      "sec": "Cervical management protocol",
-      "page": 421,
-      "q": "After one prior painless T2 loss/early PTL, what is used if cervical length at 14 weeks is at least 2.5 cm?",
-      "opts": [
-        "Delivery",
-        "Progesterone only",
-        "Cerclage without progesterone",
-        "No treatment"
-      ],
-      "ans": 1,
-      "exp": "If cervical length is ≥2.5 cm, give progesterone only. (Book p421)"
-    },
-    {
-      "id": "OBG-C9-059",
-      "sec": "Cervical management protocol",
-      "page": 421,
-      "q": "What management is used for short cervix under 2.5 cm with no history of abortion?",
-      "opts": [
-        "No intervention",
-        "Anti-D",
-        "Progesterone",
-        "Cerclage in every case"
-      ],
-      "ans": 2,
-      "exp": "Short cervical length without loss history is managed with progesterone. (Book p421)"
-    },
-    {
-      "id": "OBG-C9-060",
-      "sec": "Rescue cerclage",
-      "page": 421,
-      "q": "What are prerequisites for rescue/emergency cerclage?",
-      "opts": [
-        "Cervix fully dilated with ruptured membranes",
-        "Any infection with fetal distress",
-        "Only a positive ICT",
-        "Cervix less than 4 cm dilated, intact membranes, and no infection"
-      ],
-      "ans": 3,
-      "exp": "Rescue cerclage requires <4 cm dilatation, intact/bulging membranes acceptable, and no infection. (Book p421)"
-    },
-    {
-      "id": "OBG-C9-061",
-      "sec": "Cerclage approaches",
-      "page": 421,
-      "q": "What is the most common cerclage approach?",
-      "opts": [
-        "Transvaginal",
-        "Transabdominal",
-        "Laparoscopic only",
-        "Hysteroscopic"
-      ],
-      "ans": 0,
-      "exp": "Transvaginal cerclage is the most common approach. (Book p421)"
-    },
-    {
-      "id": "OBG-C9-062",
-      "sec": "Transvaginal cerclage",
-      "page": 421,
-      "q": "When are sutures removed after transvaginal cerclage?",
-      "opts": [
-        "After completing the family only",
-        "At 37 weeks",
-        "At 12 weeks",
-        "Immediately after placement"
-      ],
-      "ans": 1,
-      "exp": "Transvaginal sutures are removed at 37 weeks, allowing vaginal delivery. (Book p421)"
-    },
-    {
-      "id": "OBG-C9-063",
-      "sec": "Transabdominal cerclage",
-      "page": 421,
-      "q": "What delivery consequence follows transabdominal cerclage?",
-      "opts": [
-        "No delivery is possible",
-        "Vaginal delivery is mandatory",
-        "Suture is left in place and delivery is by LSCS",
-        "Suture is removed at 37 weeks for vaginal delivery"
-      ],
-      "ans": 2,
-      "exp": "Transabdominal cerclage leaves suture in place and delivery is by LSCS. (Book p421)"
-    },
-    {
-      "id": "OBG-C9-064",
-      "sec": "Transabdominal cerclage",
-      "page": 421,
-      "q": "When is transabdominal cerclage used?",
-      "opts": [
-        "As first-line for all women",
-        "Only after delivery",
-        "Only for Rh sensitization",
-        "If transvaginal cerclage fails"
-      ],
-      "ans": 3,
-      "exp": "Transabdominal cerclage is done if transvaginal cerclage fails. (Book p421)"
-    },
-    {
-      "id": "OBG-C9-065",
-      "sec": "McDonald cerclage",
-      "page": 422,
-      "q": "What type of suture is used in McDonald cerclage?",
-      "opts": [
-        "Continuous suture close to internal os after bladder dissection",
-        "Two crossed sutures only",
-        "Abdominal mesh",
-        "Purse string in the portio vaginalis"
-      ],
-      "ans": 3,
-      "exp": "McDonald uses a purse-string suture in portio vaginalis. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-066",
-      "sec": "McDonald cerclage",
-      "page": 422,
-      "q": "Is bladder dissection performed in McDonald cerclage?",
-      "opts": [
-        "No",
-        "Yes, always",
-        "Only during labor",
-        "Only after delivery"
-      ],
-      "ans": 0,
-      "exp": "Bladder dissection is not done in McDonald cerclage. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-067",
-      "sec": "McDonald cerclage",
-      "page": 422,
-      "q": "What suture material is listed for McDonald cerclage?",
-      "opts": [
-        "Silk only",
-        "Nonabsorbable polypropylene",
-        "Mersilene tape only",
-        "Absorbable chromic catgut"
-      ],
-      "ans": 1,
-      "exp": "McDonald cerclage uses nonabsorbable polypropylene. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-068",
-      "sec": "Shirodkar cerclage",
-      "page": 422,
-      "q": "Which feature characterizes Shirodkar cerclage?",
-      "opts": [
-        "No suture material",
-        "Only transabdominal placement",
-        "Continuous suture placed close to internal os after bladder dissection",
-        "Purse-string in portio without bladder dissection"
-      ],
-      "ans": 2,
-      "exp": "Shirodkar uses a continuous suture close to internal os and includes bladder dissection. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-069",
-      "sec": "Shirodkar cerclage",
-      "page": 422,
-      "q": "How does Shirodkar success compare with McDonald cerclage in the source table?",
-      "opts": [
-        "McDonald has a higher success rate",
-        "They are exactly identical by definition",
-        "Neither has any success",
-        "Shirodkar has a higher success rate"
-      ],
-      "ans": 3,
-      "exp": "The table lists higher success for Shirodkar and lower for McDonald. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-070",
-      "sec": "Shirodkar cerclage",
-      "page": 422,
-      "q": "What suture material is listed for Shirodkar cerclage?",
-      "opts": [
-        "Mersilene tape",
-        "Polypropylene only",
-        "Absorbable Vicryl",
-        "No suture"
-      ],
-      "ans": 0,
-      "exp": "Shirodkar cerclage uses Mersilene tape. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-071",
-      "sec": "Wurm cerclage",
-      "page": 422,
-      "q": "When is Wurm cerclage used?",
-      "opts": [
-        "For Rh sensitization",
-        "Emergency cerclage when the cervix is dilated",
-        "Routine prophylaxis in all pregnancies",
-        "After delivery only"
-      ],
-      "ans": 1,
-      "exp": "Wurm is the emergency cerclage used when the cervix is dilated. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-072",
-      "sec": "Wurm cerclage",
-      "page": 422,
-      "q": "How are the sutures placed in Wurm cerclage?",
-      "opts": [
-        "One suture around the uterine fundus",
-        "No suture is used",
-        "Two sutures, one anteroposterior and one transverse",
-        "One purse string only"
-      ],
-      "ans": 2,
-      "exp": "Wurm uses two sutures: in AP and transverse directions. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-073",
-      "sec": "Cerclage timing",
-      "page": 422,
-      "q": "What gestational window is given for cerclage suture application?",
-      "opts": [
-        "Before 6 weeks only",
-        "After 37 weeks only",
-        "Only in the puerperium",
-        "14–24 weeks; RCOG allows up to 28 weeks"
-      ],
-      "ans": 3,
-      "exp": "Application is 14–24 weeks, with RCOG guidance up to 28 weeks. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-074",
-      "sec": "Cerclage removal",
-      "page": 422,
-      "q": "Why may a vaginal cerclage be removed earlier than 37 weeks?",
-      "opts": [
-        "Preterm labor or premature rupture of membranes",
-        "Normal fetal movement",
-        "Mild nausea",
-        "Rh negativity"
-      ],
-      "ans": 0,
-      "exp": "Early removal is needed for preterm labor or PROM. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-075",
-      "sec": "Cerclage delivery",
-      "page": 422,
-      "q": "What mode of delivery follows vaginal cerclage after its normal removal?",
-      "opts": [
-        "Hysterectomy",
-        "Vaginal delivery",
-        "Mandatory LSCS",
-        "No delivery"
-      ],
-      "ans": 1,
-      "exp": "After vaginal cerclage removal at 37 weeks, mode of delivery is vaginal. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-076",
-      "sec": "Abdominal cerclage",
-      "page": 422,
-      "q": "What is the indication for abdominal cerclage?",
-      "opts": [
-        "Diet-controlled GDM",
-        "Rh-negative status alone",
-        "Failed vaginal cerclage",
-        "First painless loss with normal cervix"
-      ],
-      "ans": 2,
-      "exp": "Abdominal cerclage is indicated if vaginal cerclage fails. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-077",
-      "sec": "Abdominal cerclage",
-      "page": 422,
-      "q": "Which technique for abdominal cerclage can be done in both pregnant and nonpregnant women?",
-      "opts": [
-        "LASH procedure",
-        "Cervical punch biopsy",
-        "Manual vacuum aspiration",
-        "Laparoscopic placement"
-      ],
-      "ans": 3,
-      "exp": "Laparoscopic abdominal cerclage can be done in pregnant and nonpregnant women. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-078",
-      "sec": "Abdominal cerclage",
-      "page": 422,
-      "q": "Which obsolete abdominal cerclage technique is done in nonpregnant women and requires avoiding pregnancy for 3 months after surgery?",
-      "opts": [
-        "LASH/LASH surgery",
-        "McDonald cerclage",
-        "Shirodkar cerclage",
-        "Wurm cerclage"
-      ],
-      "ans": 0,
-      "exp": "LASH/LASH surgery is obsolete, removes part of cervix before suture, and requires 3-month pregnancy avoidance. (Book p422)"
-    },
-    {
-      "id": "OBG-C9-079",
-      "sec": "Cerclage adjuncts",
-      "page": 423,
-      "q": "When is a tocolytic indicated with cerclage in the source notes?",
-      "opts": [
-        "USG cervical length below 25 mm and emergency cerclage only",
-        "Every history-based cerclage",
-        "Any normal pregnancy",
-        "After delivery only"
-      ],
-      "ans": 0,
-      "exp": "Tocolytic use is for cervical length <25 mm on USG and emergency cerclage only. (Book p423)"
-    },
-    {
-      "id": "OBG-C9-080",
-      "sec": "Cerclage adjuncts",
-      "page": 423,
-      "q": "When are antibiotics used with cervical cerclage?",
-      "opts": [
-        "Only after vaginal delivery",
-        "Emergency cerclage with bulging membranes",
-        "All routine cerclages",
-        "No cerclage ever"
-      ],
-      "ans": 1,
-      "exp": "Antibiotics are used in emergency cerclage with bulging membranes, not currently recommended in other cases. (Book p423)"
-    },
-    {
-      "id": "OBG-C9-081",
-      "sec": "Cerclage contraindications",
-      "page": 423,
-      "q": "Which clinical status is a contraindication to cervical cerclage?",
-      "opts": [
-        "Gestation at 14 weeks",
-        "Intact membranes without infection",
-        "Uterine contractions in preterm labor",
-        "Short cervix with a painless-loss history"
-      ],
-      "ans": 2,
-      "exp": "Uterine contractions/preterm labor are a cerclage contraindication. (Book p423)"
-    },
-    {
-      "id": "OBG-C9-082",
-      "sec": "Cerclage contraindications",
-      "page": 423,
-      "q": "Which fetal conditions are contraindications to cervical cerclage?",
-      "opts": [
-        "Normal fetal movement only",
-        "Fetal Rh-negative status",
-        "Normal TIFFA",
-        "Fetal distress or fetal anomaly"
-      ],
-      "ans": 3,
-      "exp": "Fetal distress and fetal anomaly are contraindications. (Book p423)"
-    },
-    {
-      "id": "OBG-C9-083",
-      "sec": "Cerclage contraindications",
-      "page": 423,
-      "q": "Which maternal/obstetric conditions are contraindications to cervical cerclage?",
-      "opts": [
-        "Ruptured membranes, bleeding per vaginum, or current pelvic infection",
-        "Mild nausea, normal discharge, and Rh negativity",
-        "Only a prior vaginal birth",
-        "Only a normal pregnancy"
-      ],
-      "ans": 0,
-      "exp": "Ruptured membranes, P/V bleeding, and current pelvic infection are contraindications. (Book p423)"
-    },
-    {
-      "id": "OBG-C9-084",
-      "sec": "Cerclage contraindications",
-      "page": 423,
-      "q": "What is the relative contraindication to cervical cerclage?",
-      "opts": [
-        "No infection",
-        "Placenta previa",
-        "Cervical length below 2.5 cm",
-        "History of painless T2 loss"
-      ],
-      "ans": 1,
-      "exp": "Placenta previa is the relative contraindication. (Book p423)"
-    },
-    {
-      "id": "OBG-C9-085",
-      "sec": "APS definition",
-      "page": 424,
-      "q": "What is another name for antiphospholipid antibody syndrome?",
-      "opts": [
-        "Anti-D syndrome",
-        "Anti-phospholipid syndrome",
-        "Antithyroid antibody syndrome",
-        "Acute fatty liver syndrome"
-      ],
-      "ans": 1,
-      "exp": "APLA syndrome is also called antiphospholipid syndrome. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-086",
-      "sec": "APS pathology",
-      "page": 424,
-      "q": "What is the key pathologic effect of acquired antiphospholipid antibodies?",
-      "opts": [
-        "Thyroid enlargement",
-        "Bile-acid accumulation",
-        "Thrombosis",
-        "Fetal hyperinsulinemia"
-      ],
-      "ans": 2,
-      "exp": "Acquired antibodies against phospholipids cause thrombosis. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-087",
-      "sec": "APS antibodies",
-      "page": 424,
-      "q": "Which antibody is included among APS antibodies?",
-      "opts": [
-        "Anti-thyroglobulin",
-        "Anti-D only",
-        "Anti-TSH receptor only",
-        "Lupus anticoagulant"
-      ],
-      "ans": 3,
-      "exp": "Lupus anticoagulant, anticardiolipin, and anti-beta2 glycoprotein are listed APS antibodies. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-088",
-      "sec": "APS presentations",
-      "page": 424,
-      "q": "Which arterial events are listed presentations of APS?",
-      "opts": [
-        "Cerebral infarct and myocardial infarction",
-        "Only deep-vein thrombosis",
-        "Only ectopic pregnancy",
-        "Only preterm labor"
-      ],
-      "ans": 0,
-      "exp": "APS can present as arterial thrombosis, including cerebral or myocardial infarction. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-089",
-      "sec": "APS presentations",
-      "page": 424,
-      "q": "What placental complication underlies abortion, IUGR, and preterm labor in APS?",
-      "opts": [
-        "Maternal TSH transfer",
-        "Placental thrombosis causing uteroplacental insufficiency",
-        "Placental overperfusion",
-        "Fetal hyperinsulinemia"
-      ],
-      "ans": 1,
-      "exp": "Placental thrombosis causes abortion, UPI with IUGR, and preterm labor. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-090",
-      "sec": "APS diagnosis",
-      "page": 424,
-      "q": "What combination is required to diagnose APS using modified Sapporo/Sydney criteria?",
-      "opts": [
-        "One positive antibody test only",
-        "One ultrasound alone",
-        "At least one clinical criterion and one laboratory criterion",
-        "Two clinical criteria only"
-      ],
-      "ans": 2,
-      "exp": "APS diagnosis requires one clinical plus one laboratory criterion. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-091",
-      "sec": "APS clinical criteria",
-      "page": 424,
-      "q": "Which thrombotic history fulfills a clinical APS criterion?",
-      "opts": [
-        "Physiological edema only",
-        "Mild anemia only",
-        "Normal pregnancy",
-        "Arterial or venous thrombosis"
-      ],
-      "ans": 3,
-      "exp": "History of arterial or venous thrombosis is a clinical APS criterion. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-092",
-      "sec": "APS clinical criteria",
-      "page": 424,
-      "q": "What recurrent early-loss history fulfills a clinical APS criterion?",
-      "opts": [
-        "At least 3 first-trimester abortions before 10 weeks",
-        "One miscarriage after 20 weeks",
-        "Any threatened abortion",
-        "Only ectopic pregnancy"
-      ],
-      "ans": 0,
-      "exp": "A history of at least 3 first-trimester abortions before 10 weeks is a clinical criterion. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-093",
-      "sec": "APS clinical criteria",
-      "page": 424,
-      "q": "What later fetal-loss history fulfills a clinical APS criterion?",
-      "opts": [
-        "A loss after 40 weeks only",
-        "At least one fetal loss after 10 weeks",
-        "One biochemical pregnancy at 4 weeks",
-        "Any live birth"
-      ],
-      "ans": 1,
-      "exp": "One or more fetal losses beyond 10 weeks is a clinical APS criterion. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-094",
-      "sec": "APS clinical criteria",
-      "page": 424,
-      "q": "What preterm-delivery history fulfills a clinical APS criterion?",
-      "opts": [
-        "Only a term delivery",
-        "Labor due to PROM without complications only",
-        "At least one preterm labor before 32 weeks due to UPI or PIH",
-        "Any preterm labor after 37 weeks"
-      ],
-      "ans": 2,
-      "exp": "A preterm birth before 32 weeks associated with UPI/PIH is a clinical criterion. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-095",
-      "sec": "APS laboratory criteria",
-      "page": 424,
-      "q": "How must anticardiolipin antibody positivity be documented for APS diagnosis?",
-      "opts": [
-        "One positive result on one day only",
-        "IgA result after delivery only",
-        "A urine dipstick result",
-        "IgG or IgM positive on two occasions 12 weeks apart"
-      ],
-      "ans": 3,
-      "exp": "Anticardiolipin IgG/IgM must be positive on two tests 12 weeks apart. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-096",
-      "sec": "APS laboratory criteria",
-      "page": 424,
-      "q": "How must anti-beta2-glycoprotein antibody positivity be documented for APS diagnosis?",
-      "opts": [
-        "IgG or IgM positive on two occasions 12 weeks apart",
-        "One positive IgA test only",
-        "A test only at delivery",
-        "An ultrasound finding"
-      ],
-      "ans": 0,
-      "exp": "Anti-beta2-glycoprotein IgG/IgM needs two positives 12 weeks apart. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-097",
-      "sec": "Lupus anticoagulant",
-      "page": 424,
-      "q": "Why can lupus anticoagulant not be directly detected by ELISA?",
-      "opts": [
-        "It is a fetal hormone",
-        "It has anticoagulant effect in vitro but is thrombotic in vivo",
-        "It is not an antibody",
-        "It is produced only after delivery"
-      ],
-      "ans": 1,
-      "exp": "Lupus anticoagulant cannot be directly detected by ELISA; it is anticoagulant in vitro but thrombotic in vivo. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-098",
-      "sec": "Lupus anticoagulant",
-      "page": 424,
-      "q": "Which laboratory pattern helps indirectly detect lupus anticoagulant?",
-      "opts": [
-        "Raised HbA1c only",
-        "High bile acids only",
-        "Prolonged Russell viper venom clotting time, kaolin clotting time, and isolated raised aPTT",
-        "Shortened aPTT only"
-      ],
-      "ans": 2,
-      "exp": "Lupus anticoagulant is indirectly detected by prolonged RVVCT/kaolin clotting time and isolated raised aPTT. (Book p424)"
-    },
-    {
-      "id": "OBG-C9-099",
-      "sec": "APS management",
-      "page": 425,
-      "q": "What treatment is recommended in APS with a history of thrombosis or abortion?",
-      "opts": [
-        "Warfarin throughout pregnancy",
-        "No anticoagulation",
-        "Heparin plus aspirin",
-        "Aspirin alone only"
-      ],
-      "ans": 2,
-      "exp": "APS with thrombosis or abortion history is managed with heparin plus aspirin. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-100",
-      "sec": "APS management",
-      "page": 425,
-      "q": "What treatment is recommended in APS with a history of preterm labor due to uteroplacental insufficiency?",
-      "opts": [
-        "Heparin plus warfarin",
-        "No treatment",
-        "Magnesium sulfate alone",
-        "Aspirin alone"
-      ],
-      "ans": 3,
-      "exp": "APS with prior PTL due to UPI receives aspirin alone in the source plan. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-101",
-      "sec": "APS management",
-      "page": 425,
-      "q": "When is aspirin started in pregnancy for APS according to the notes?",
-      "opts": [
-        "When pregnancy is diagnosed by a positive UPT",
-        "After delivery",
-        "Only at 36 weeks",
-        "Before menarche"
-      ],
-      "ans": 0,
-      "exp": "Aspirin is started when pregnancy is diagnosed (UPT positive). (Book p425)"
-    },
-    {
-      "id": "OBG-C9-102",
-      "sec": "APS management",
-      "page": 425,
-      "q": "When is heparin started for APS in pregnancy?",
-      "opts": [
-        "Never in pregnancy",
-        "Once intrauterine pregnancy is confirmed",
-        "At positive UPT before localization",
-        "Only after delivery"
-      ],
-      "ans": 1,
-      "exp": "Heparin begins once intrauterine pregnancy is confirmed. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-103",
-      "sec": "APS management",
-      "page": 425,
-      "q": "When are anticoagulants stopped in APS labor management?",
-      "opts": [
-        "At 20 weeks",
-        "They are never stopped",
-        "Intrapartum",
-        "At 12 weeks"
-      ],
-      "ans": 2,
-      "exp": "Anticoagulants are stopped intrapartum. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-104",
-      "sec": "APS postpartum",
-      "page": 425,
-      "q": "When are anticoagulants resumed/continued after vaginal delivery in APS?",
-      "opts": [
-        "Immediately before placental delivery",
-        "After 6 weeks only",
-        "Never after delivery",
-        "6 hours postpartum"
-      ],
-      "ans": 3,
-      "exp": "Anticoagulation is continued postpartum beginning 6 hours after vaginal delivery. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-105",
-      "sec": "APS postpartum",
-      "page": 425,
-      "q": "When are anticoagulants resumed/continued after LSCS in APS?",
-      "opts": [
-        "12 hours postpartum",
-        "6 hours postpartum",
-        "Immediately at skin incision",
-        "Never after cesarean"
-      ],
-      "ans": 0,
-      "exp": "Anticoagulation is continued 12 hours after LSCS. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-106",
-      "sec": "APS outside pregnancy",
-      "page": 425,
-      "q": "What is the drug of choice for a nonpregnant woman with APS and history of thrombosis?",
-      "opts": [
-        "Metformin",
-        "Warfarin",
-        "Heparin plus aspirin indefinitely in every case",
-        "Methotrexate"
-      ],
-      "ans": 1,
-      "exp": "Warfarin is the drug of choice for nonpregnant APS with thrombosis history. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-107",
-      "sec": "Threatened abortion",
-      "page": 425,
-      "q": "What defines threatened abortion?",
-      "opts": [
-        "The internal os is open with no chance of continuation",
-        "Septic foci are always present",
-        "The abortion process has started but no products of conception have been expelled, and it is reversible",
-        "All products of conception have been expelled"
-      ],
-      "ans": 2,
-      "exp": "Threatened abortion is a reversible process with no POC expelled. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-108",
-      "sec": "Threatened abortion",
-      "page": 425,
-      "q": "What clinical and cervical findings are typical of threatened abortion?",
-      "opts": [
-        "Heavy bleeding with an open os and expelled POC",
-        "No bleeding with an open os",
-        "Purulent discharge only",
-        "Spotting P/V with or without pain and a closed internal os"
-      ],
-      "ans": 3,
-      "exp": "Threatened abortion has spotting, possible pain, and a closed os. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-109",
-      "sec": "Threatened abortion",
-      "page": 425,
-      "q": "What ultrasound finding supports threatened abortion?",
-      "opts": [
-        "Cardiac activity present",
-        "Absent cardiac activity",
-        "Empty uterus",
-        "MSD ≥25 mm with no pole"
-      ],
-      "ans": 0,
-      "exp": "Cardiac activity is present in threatened abortion. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-110",
-      "sec": "Threatened abortion management",
-      "page": 425,
-      "q": "What management is listed for threatened abortion?",
-      "opts": [
-        "Immediate cerclage in all cases",
-        "Reassurance and advise avoiding intercourse",
-        "Immediate suction evacuation in all cases",
-        "Antibiotics only"
-      ],
-      "ans": 1,
-      "exp": "Threatened abortion is managed with reassurance and advice to avoid intercourse. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-111",
-      "sec": "Threatened abortion management",
-      "page": 425,
-      "q": "What is the stated role of progesterone and hCG in threatened abortion?",
-      "opts": [
-        "Only hCG has definite benefit",
-        "Both are contraindicated because of sepsis",
-        "Progesterone benefit is ill-defined; hCG has no benefit",
-        "Both are always curative"
-      ],
-      "ans": 2,
-      "exp": "The notes call progesterone benefit ill-defined and state hCG has no benefit. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-112",
-      "sec": "Inevitable abortion",
-      "page": 425,
-      "q": "What defines inevitable abortion?",
-      "opts": [
-        "POC is completely expelled and symptoms have resolved",
-        "A closed os with fetal cardiac activity",
-        "Septic foci only",
-        "The abortion process has started with no POC expelled and is irreversible"
-      ],
-      "ans": 3,
-      "exp": "Inevitable abortion is irreversible though POC has not yet been expelled. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-113",
-      "sec": "Inevitable abortion",
-      "page": 425,
-      "q": "What clinical/cervical findings distinguish inevitable abortion?",
-      "opts": [
-        "Bleeding and abdominal pain with an open internal os",
-        "Spotting with a closed os",
-        "No symptoms and closed os",
-        "Purulent discharge with empty uterus only"
-      ],
-      "ans": 0,
-      "exp": "Inevitable abortion has bleeding, abdominal pain, and an open os. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-114",
-      "sec": "Inevitable abortion",
-      "page": 425,
-      "q": "What ultrasound and management combination fits inevitable abortion?",
-      "opts": [
-        "No scan; no treatment",
-        "Absent cardiac activity; expedite by medical abortion or suction evacuation",
-        "Cardiac activity present; reassurance only",
-        "Empty uterus; anti-D only"
-      ],
-      "ans": 1,
-      "exp": "Inevitable abortion shows absent cardiac activity and is expedited medically or by suction evacuation. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-115",
-      "sec": "Incomplete abortion",
-      "page": 425,
-      "q": "What defines incomplete abortion?",
-      "opts": [
-        "No products have detached",
-        "A viable fetal heart with closed os",
-        "Abortion has begun and products of conception are incompletely expelled",
-        "All products are expelled with no current bleeding"
-      ],
-      "ans": 2,
-      "exp": "Incomplete abortion means POC have been incompletely expelled. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-116",
-      "sec": "Incomplete abortion",
-      "page": 425,
-      "q": "Which constellation is typical of incomplete abortion?",
-      "opts": [
-        "No symptoms, closed os, empty uterus",
-        "Only spotting with fetal cardiac activity",
-        "Painless T2 loss with no dilatation",
-        "Bleeding and abdominal pain with history of expelled POC, open os, and POC coming out"
-      ],
-      "ans": 3,
-      "exp": "Incomplete abortion includes bleeding/pain, prior expulsion, open os, and POC coming out. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-117",
-      "sec": "Incomplete abortion",
-      "page": 425,
-      "q": "What ultrasound and management approach fits incomplete abortion?",
-      "opts": [
-        "Incomplete POC; maintain vitals if shock and expedite abortion",
-        "Cardiac activity; reassure only",
-        "Empty uterus; no monitoring",
-        "MCA Doppler; intrauterine transfusion"
-      ],
-      "ans": 0,
-      "exp": "USG shows incomplete POC; stabilize shock if present and expedite abortion. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-118",
-      "sec": "Complete abortion",
-      "page": 425,
-      "q": "What defines complete abortion?",
-      "opts": [
-        "Sepsis is always present",
-        "Entire abortion completes spontaneously after all POC are expelled",
-        "No POC have been expelled",
-        "The os is open with retained POC"
-      ],
-      "ans": 1,
-      "exp": "Complete abortion is spontaneous completion after all POC are expelled. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-119",
-      "sec": "Complete abortion",
-      "page": 425,
-      "q": "Which clinical/USG pattern supports complete abortion?",
-      "opts": [
-        "No history of POC expulsion and retained tissue",
-        "Fetal cardiac activity present",
-        "Past bleeding and POC expulsion with no current bleeding, closed os, and empty uterus",
-        "Current severe bleeding with open os"
-      ],
-      "ans": 2,
-      "exp": "Complete abortion features past bleeding/POC expulsion, no current bleeding, closed os, and empty uterus. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-120",
-      "sec": "Complete abortion management",
-      "page": 425,
-      "q": "What management is listed after complete abortion?",
-      "opts": [
-        "Immediate cerclage",
-        "Immediate laparotomy",
-        "No Rh-related consideration",
-        "Reassurance and anti-D if Rh-positive exposure requires it"
-      ],
-      "ans": 3,
-      "exp": "Complete abortion is managed with reassurance and anti-D if Rh positive. (Book p425)"
-    },
-    {
-      "id": "OBG-C9-121",
-      "sec": "Missed abortion",
-      "page": 426,
-      "q": "How is missed abortion primarily diagnosed?",
-      "opts": [
-        "By pelvic pain alone",
-        "By aPTT alone",
-        "By urine culture only",
-        "By ultrasound"
-      ],
-      "ans": 3,
-      "exp": "Missed abortion is ultrasound based. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-122",
-      "sec": "Missed abortion",
-      "page": 426,
-      "q": "What symptom profile is typical of missed abortion?",
-      "opts": [
-        "Usually no symptoms, possibly brown discharge",
-        "Heavy fever and purulent discharge in every case",
-        "Painless palmar pruritus",
-        "Shoulder-tip pain only"
-      ],
-      "ans": 0,
-      "exp": "Missed abortion often has no symptoms but may have brown discharge. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-123",
-      "sec": "Missed abortion",
-      "page": 426,
-      "q": "How does uterine size compare with period of gestation in missed abortion?",
-      "opts": [
-        "Unrelated to POG",
-        "Equal to or less than POG",
-        "Always greater than POG",
-        "Exactly double POG"
-      ],
-      "ans": 1,
-      "exp": "The table shows uterine height equal to or less than period of gestation. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-124",
-      "sec": "Missed abortion",
-      "page": 426,
-      "q": "What is the internal-os finding in missed abortion?",
-      "opts": [
-        "Fully dilated",
-        "Absent cervix",
-        "Closed",
-        "Open with POC coming out"
-      ],
-      "ans": 2,
-      "exp": "The internal os is closed in missed abortion. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-125",
-      "sec": "Missed abortion ultrasound",
-      "page": 426,
-      "q": "Which mean-sac-diameter finding confirms missed abortion?",
-      "opts": [
-        "MSD 10 mm with fetal pole",
-        "Any gestational sac at 5 mm",
-        "No gestational sac at all",
-        "MSD at least 25 mm with no fetal pole"
-      ],
-      "ans": 3,
-      "exp": "MSD ≥25 mm without fetal pole is a diagnostic ultrasound criterion. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-126",
-      "sec": "Missed abortion ultrasound",
-      "page": 426,
-      "q": "Which CRL finding confirms missed abortion?",
-      "opts": [
-        "CRL at least 7 mm with absent cardiac activity",
-        "CRL 2 mm with present cardiac activity",
-        "CRL below 5 mm with normal heart",
-        "Any CRL after 20 weeks"
-      ],
-      "ans": 0,
-      "exp": "CRL ≥7 mm with absent cardiac activity is diagnostic. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-127",
-      "sec": "Missed abortion ultrasound",
-      "page": 426,
-      "q": "What serial cardiac finding can diagnose missed abortion?",
-      "opts": [
-        "Only fetal tachycardia",
-        "Cardiac activity previously present but now absent",
-        "Persistently present cardiac activity",
-        "No scan required"
-      ],
-      "ans": 1,
-      "exp": "Previously documented cardiac activity that is absent now supports missed abortion. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-128",
-      "sec": "Missed abortion management",
-      "page": 426,
-      "q": "What management options are listed for missed abortion?",
-      "opts": [
-        "Cerclage only",
-        "MCA Doppler only",
-        "Medical abortion or suction evacuation",
-        "Only reassurance"
-      ],
-      "ans": 2,
-      "exp": "Missed abortion can be managed with medical abortion or suction evacuation. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-129",
-      "sec": "Shock and abortion",
-      "page": 426,
-      "q": "In a woman with abortion and shock features, what is the most common cause listed?",
-      "opts": [
-        "Threatened abortion only",
-        "Complete abortion only",
-        "Cervical incompetence only",
-        "Septic abortion, followed by incomplete abortion"
-      ],
-      "ans": 3,
-      "exp": "Septic abortion is the most common cause of shock in abortion, followed by incomplete abortion. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-130",
-      "sec": "Shock and abortion",
-      "page": 426,
-      "q": "What association should be considered with abortion history and raised aPTT?",
-      "opts": [
-        "APLA syndrome",
-        "GDM",
-        "ICP",
-        "Thyroid storm"
-      ],
-      "ans": 0,
-      "exp": "Abortion history plus raised aPTT suggests APLA syndrome. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-131",
-      "sec": "Septic abortion",
-      "page": 426,
-      "q": "What defines septic abortion?",
-      "opts": [
-        "Every missed abortion",
-        "Septic foci in any abortion",
-        "Any open internal os",
-        "Any brown discharge"
-      ],
-      "ans": 1,
-      "exp": "Septic abortion is septic foci in any abortion. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-132",
-      "sec": "Septic abortion",
-      "page": 426,
-      "q": "Which symptoms are characteristic of septic abortion?",
-      "opts": [
-        "Only painless bleeding",
-        "No systemic symptoms ever",
-        "Fever/chills, abdominal pain, diarrhea/vomiting, and purulent vaginal discharge",
-        "Only palmar pruritus"
-      ],
-      "ans": 2,
-      "exp": "Septic abortion can present with fever/chills, pain, diarrhea/vomiting, and purulent discharge. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-133",
-      "sec": "Septic abortion",
-      "page": 426,
-      "q": "What severe presentation may occur in septic abortion?",
-      "opts": [
-        "Only fetal macrosomia",
-        "Only polyhydramnios",
-        "Only hypertension",
-        "Shock/toxic shock syndrome"
-      ],
-      "ans": 3,
-      "exp": "Septic abortion may present as shock/toxic shock syndrome. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-134",
-      "sec": "Septic abortion grading",
-      "page": 426,
-      "q": "What is grade 1 septic abortion?",
-      "opts": [
-        "Infection limited to uterus",
-        "Spread to pelvic organs",
-        "Peritonitis/shock/renal failure",
-        "No infection"
-      ],
-      "ans": 0,
-      "exp": "Grade 1 infection is limited to the uterus. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-135",
-      "sec": "Septic abortion grading",
-      "page": 426,
-      "q": "What is grade 2 septic abortion?",
-      "opts": [
-        "Renal failure only",
-        "Infection spread to pelvic organs",
-        "Infection limited to uterus",
-        "Peritonitis only"
-      ],
-      "ans": 1,
-      "exp": "Grade 2 infection spreads to pelvic organs. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-136",
-      "sec": "Septic abortion grading",
-      "page": 426,
-      "q": "What is grade 3 septic abortion?",
-      "opts": [
-        "Mild spotting only",
-        "No systemic involvement",
-        "Peritonitis, shock, or renal failure",
-        "Infection limited to uterus"
-      ],
-      "ans": 2,
-      "exp": "Grade 3 septic abortion includes peritonitis, shock, or renal failure. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-137",
-      "sec": "Septic abortion management",
-      "page": 426,
-      "q": "What antibiotic regimen is listed for septic abortion?",
-      "opts": [
-        "Penicillin alone",
-        "Methotrexate plus folinic acid",
-        "Anti-D plus aspirin",
-        "Ampicillin plus gentamicin plus metronidazole"
-      ],
-      "ans": 3,
-      "exp": "The recommended regimen is ampicillin, gentamicin, and metronidazole. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-138",
-      "sec": "Septic abortion",
-      "page": 426,
-      "q": "Which organism is specifically noted never to cause toxic shock syndrome?",
-      "opts": [
-        "E. coli",
-        "Staphylococcus aureus",
-        "Streptococcus pyogenes",
-        "Clostridium species"
-      ],
-      "ans": 0,
-      "exp": "The source note says TSS is never caused by E. coli. (Book p426)"
-    },
-    {
-      "id": "OBG-C9-139",
-      "sec": "MTP Act 2021",
-      "page": 427,
-      "q": "Under the stated MTP Act 2021 amendment, up to what gestation is MTP allowed for congenital anomalies?",
-      "opts": [
-        "24 weeks",
-        "20 weeks",
-        "12 weeks",
-        "No upper limit in every case"
-      ],
-      "ans": 0,
-      "exp": "The stated amendment permits MTP for congenital anomalies up to 24 weeks. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-140",
-      "sec": "MTP Act 2021",
-      "page": 427,
-      "q": "Under the stated MTP Act 2021 amendment, up to what gestation is MTP allowed for contraceptive failure?",
-      "opts": [
-        "No gestational limit",
-        "20 weeks",
-        "24 weeks",
-        "28 weeks"
-      ],
-      "ans": 1,
-      "exp": "MTP for contraceptive failure is listed up to 20 weeks. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-141",
-      "sec": "MTP Act 2021",
-      "page": 427,
-      "q": "What is required for MTP in severe congenital anomalies with no upper gestational limit?",
-      "opts": [
-        "One doctor only regardless of age",
-        "A positive ICT",
-        "Approval by a medical board",
-        "Consent of husband only"
-      ],
-      "ans": 2,
-      "exp": "Severe congenital anomalies have no upper limit but need medical-board approval. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-142",
-      "sec": "Medical board",
-      "page": 427,
-      "q": "Which specialty is part of the listed medical-board composition for MTP?",
-      "opts": [
-        "Dermatologist only",
-        "Dentist only",
-        "Ophthalmologist only",
-        "Gynecologist"
-      ],
-      "ans": 3,
-      "exp": "The board includes a gynecologist, radiologist, pediatrician, and person assigned by the state. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-143",
-      "sec": "Medical board",
-      "page": 427,
-      "q": "Which nonclinical member is listed as part of the MTP medical board?",
-      "opts": [
-        "A person assigned by the state",
-        "The husband",
-        "The school principal",
-        "A police officer only"
-      ],
-      "ans": 0,
-      "exp": "The medical board includes a person assigned by the state. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-144",
-      "sec": "MTP indications",
-      "page": 427,
-      "q": "Which circumstance is a listed indication for MTP?",
-      "opts": [
-        "Normal physiological edema",
-        "Rape",
-        "A normal wanted pregnancy alone",
-        "Any Rh-negative pregnancy"
-      ],
-      "ans": 1,
-      "exp": "Rape is a listed MTP indication. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-145",
-      "sec": "MTP indications",
-      "page": 427,
-      "q": "Which health-based indication is listed for MTP?",
-      "opts": [
-        "To treat asymptomatic bacteriuria",
-        "To prevent normal labor",
-        "To save the pregnant woman’s life or prevent grave physical/mental injury",
-        "To ensure fetal macrosomia"
-      ],
-      "ans": 2,
-      "exp": "MTP may be indicated to save life or prevent grave physical/mental injury. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-146",
-      "sec": "MTP indications",
-      "page": 427,
-      "q": "What fetal indication is listed for MTP?",
-      "opts": [
-        "Rh positivity alone",
-        "Female sex alone",
-        "Fetal weight above 3 kg alone",
-        "Substantial risk of physical or mental abnormalities in the fetus"
-      ],
-      "ans": 3,
-      "exp": "Substantial risk of fetal physical or mental abnormality is an indication. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-147",
-      "sec": "MTP consent",
-      "page": 427,
-      "q": "Whose consent is required for MTP in a patient aged 18 years or older?",
-      "opts": [
-        "The patient’s own consent",
-        "Husband’s consent only",
-        "Parent’s consent only",
-        "Court consent in every case"
-      ],
-      "ans": 0,
-      "exp": "For a patient at least 18 years old, her own consent is required. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-148",
-      "sec": "MTP consent",
-      "page": 427,
-      "q": "When is guardian consent required for MTP?",
-      "opts": [
-        "Only after 24 weeks",
-        "If the patient is under 18 years or mentally unstable",
-        "For every married adult",
-        "Only if the fetus is female"
-      ],
-      "ans": 1,
-      "exp": "Guardian consent is required for a minor or mentally unstable patient. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-149",
-      "sec": "MTP medical opinion",
-      "page": 427,
-      "q": "How many doctors’ opinions are needed for MTP up to 20 weeks?",
-      "opts": [
-        "A medical board only",
-        "No doctor",
-        "One doctor",
-        "Two doctors"
-      ],
-      "ans": 2,
-      "exp": "Up to 20 weeks, one doctor’s opinion is required. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-150",
-      "sec": "MTP medical opinion",
-      "page": 427,
-      "q": "How many doctors’ opinions are needed for MTP from 20–24 weeks?",
-      "opts": [
-        "One doctor",
-        "Three doctors",
-        "No doctor",
-        "Two doctors"
-      ],
-      "ans": 3,
-      "exp": "From 20 to 24 weeks, two doctors’ opinions are required. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-151",
-      "sec": "MTP records",
-      "page": 427,
-      "q": "Are marriage proof and an FIR for rape required records for MTP?",
-      "opts": [
-        "No",
-        "Yes, both are always mandatory",
-        "Marriage proof only",
-        "FIR only"
-      ],
-      "ans": 0,
-      "exp": "The notes state marriage proof and rape FIR are not required. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-152",
-      "sec": "MTP records",
-      "page": 427,
-      "q": "For at least how long are records of rape maintained according to the notes?",
-      "opts": [
-        "28 days",
-        "5 years",
-        "6 months",
-        "1 year"
-      ],
-      "ans": 1,
-      "exp": "Records of rape are maintained for a minimum of 5 years. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-153",
-      "sec": "MTP qualification",
-      "page": 427,
-      "q": "Which specialist qualifications are listed for a provider of MTP?",
-      "opts": [
-        "Only a radiologist",
-        "Only a pediatrician",
-        "MD/MS/DGO/DNB in OBG",
-        "MBBS with no training only"
-      ],
-      "ans": 2,
-      "exp": "MD, MS, DGO, or DNB in OBG are listed qualifying specialties. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-154",
-      "sec": "MTP qualification",
-      "page": 427,
-      "q": "Which training pathway qualifies a registered medical practitioner to perform MTP according to the notes?",
-      "opts": [
-        "Only attend one lecture",
-        "Only complete a 24-hour online course",
-        "No clinical training is required",
-        "Assist in 25 MTPs and be primary surgeon in 5, or house job in OBG for 6 months, or work in OBG at a multispecialty hospital for 1 year"
-      ],
-      "ans": 3,
-      "exp": "The source lists any of: assist 25/primary 5 MTPs, 6-month OBG house job, or 1 year OBG work in a multispecialty hospital. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-155",
-      "sec": "Medical vs surgical abortion",
-      "page": 427,
-      "q": "What is an advantage of medical abortion compared with surgical abortion?",
-      "opts": [
-        "It is noninvasive and needs no surgical expertise",
-        "It is always faster and one step",
-        "It has no possibility of failure",
-        "It needs general anesthesia"
-      ],
-      "ans": 0,
-      "exp": "Medical abortion is noninvasive and does not require surgical expertise or anesthesia. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-156",
-      "sec": "Medical vs surgical abortion",
-      "page": 427,
-      "q": "What is a disadvantage of medical abortion?",
-      "opts": [
-        "It completes in one fast procedure",
-        "It may fail and require surgery; it is multistep and longer",
-        "It is invasive by definition",
-        "It has anesthetic complications only"
-      ],
-      "ans": 1,
-      "exp": "Medical abortion can fail requiring surgery and is a longer multistep process. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-157",
-      "sec": "Medical vs surgical abortion",
-      "page": 427,
-      "q": "What is an advantage of surgical abortion?",
-      "opts": [
-        "It needs no expertise",
-        "It cannot have complications",
-        "It is a fast, one-time, one-step procedure",
-        "It is noninvasive"
-      ],
-      "ans": 2,
-      "exp": "Surgical abortion is fast, one-time, and one step. (Book p427)"
-    },
-    {
-      "id": "OBG-C9-158",
-      "sec": "Medical vs surgical abortion",
-      "page": 427,
-      "q": "What is a disadvantage of surgical abortion?",
-      "opts": [
-        "It always needs multiple weeks",
-        "It is never effective",
-        "It has no complications",
-        "It is invasive and has surgical/anesthetic complications"
-      ],
-      "ans": 3,
-      "exp": "Surgical abortion is invasive and can have surgical and anesthetic complications. (Book p427)"
-    }
-  ]
+ "chapter": 9,
+ "title": "Abortion, Recurrent Loss & MTP",
+ "pageRange": "418-427",
+ "units": [
+  {
+   "id": "OBG-U9-1",
+   "ch": 9,
+   "n": 1,
+   "title": "Abortion definitions → Septic abortion",
+   "sec": "Abortion foundations · p418-419",
+   "guide": "Separate abortion from intrauterine death by gestational age, distinguish isolated from recurrent loss, and prioritize the high-yield chromosomal, endocrine, uterine, and APS causes. Evaluation after two losses is targeted—not an indiscriminate infection or thrombophilia panel. Focus for this checkpoint: Abortion definitions, Viability, Types of abortion, Septic abortion.",
+   "qs": [
+    "OBG-C9-001",
+    "OBG-C9-002",
+    "OBG-C9-003",
+    "OBG-C9-004",
+    "OBG-C9-005",
+    "OBG-C9-006",
+    "OBG-C9-007",
+    "OBG-C9-008"
+   ]
+  },
+  {
+   "id": "OBG-U9-2",
+   "ch": 9,
+   "n": 2,
+   "title": "Isolated abortion → Congenital syphilis",
+   "sec": "Abortion foundations · p418-419",
+   "guide": "Separate abortion from intrauterine death by gestational age, distinguish isolated from recurrent loss, and prioritize the high-yield chromosomal, endocrine, uterine, and APS causes. Evaluation after two losses is targeted—not an indiscriminate infection or thrombophilia panel. Focus for this checkpoint: Isolated abortion, Chromosomal causes, Isolated abortion risks, Infection and abortion, Congenital syphilis.",
+   "qs": [
+    "OBG-C9-009",
+    "OBG-C9-010",
+    "OBG-C9-011",
+    "OBG-C9-012",
+    "OBG-C9-013",
+    "OBG-C9-014",
+    "OBG-C9-015",
+    "OBG-C9-016"
+   ]
+  },
+  {
+   "id": "OBG-U9-3",
+   "ch": 9,
+   "n": 3,
+   "title": "Chromosomal causes → Recurrent abortion causes",
+   "sec": "Abortion foundations · p418-419",
+   "guide": "Separate abortion from intrauterine death by gestational age, distinguish isolated from recurrent loss, and prioritize the high-yield chromosomal, endocrine, uterine, and APS causes. Evaluation after two losses is targeted—not an indiscriminate infection or thrombophilia panel. Focus for this checkpoint: Chromosomal causes, HIV and pregnancy loss, Recurrent abortion, Recurrent abortion causes.",
+   "qs": [
+    "OBG-C9-017",
+    "OBG-C9-018",
+    "OBG-C9-019",
+    "OBG-C9-020",
+    "OBG-C9-021",
+    "OBG-C9-022",
+    "OBG-C9-023",
+    "OBG-C9-024",
+    "OBG-C9-025"
+   ]
+  },
+  {
+   "id": "OBG-U9-4",
+   "ch": 9,
+   "n": 4,
+   "title": "Endocrine causes → Chromosomal recurrent loss",
+   "sec": "Abortion foundations · p418-419",
+   "guide": "Separate abortion from intrauterine death by gestational age, distinguish isolated from recurrent loss, and prioritize the high-yield chromosomal, endocrine, uterine, and APS causes. Evaluation after two losses is targeted—not an indiscriminate infection or thrombophilia panel. Focus for this checkpoint: Endocrine causes, Uterine causes, Chromosomal recurrent loss.",
+   "qs": [
+    "OBG-C9-026",
+    "OBG-C9-027",
+    "OBG-C9-028",
+    "OBG-C9-029",
+    "OBG-C9-030",
+    "OBG-C9-031",
+    "OBG-C9-032",
+    "OBG-C9-033"
+   ]
+  },
+  {
+   "id": "OBG-U9-5",
+   "ch": 9,
+   "n": 5,
+   "title": "Recurrent-loss investigation",
+   "sec": "Abortion foundations · p418-419",
+   "guide": "Separate abortion from intrauterine death by gestational age, distinguish isolated from recurrent loss, and prioritize the high-yield chromosomal, endocrine, uterine, and APS causes. Evaluation after two losses is targeted—not an indiscriminate infection or thrombophilia panel. Focus for this checkpoint: Recurrent-loss investigation.",
+   "qs": [
+    "OBG-C9-034",
+    "OBG-C9-035",
+    "OBG-C9-036",
+    "OBG-C9-037",
+    "OBG-C9-038",
+    "OBG-C9-039"
+   ]
+  },
+  {
+   "id": "OBG-U9-6",
+   "ch": 9,
+   "n": 6,
+   "title": "Cervical incompetence → Cervical length",
+   "sec": "Cervical insufficiency protocol · p420-421",
+   "guide": "Cervical incompetence produces painless second-trimester loss from spontaneous internal-os dilatation. Use history, pregnancy TVS, and clinical findings to choose progesterone, history- or ultrasound-based cerclage, or carefully selected rescue cerclage. Focus for this checkpoint: Cervical incompetence, Cervical incompetence diagnosis, Cervical length.",
+   "qs": [
+    "OBG-C9-040",
+    "OBG-C9-041",
+    "OBG-C9-042",
+    "OBG-C9-043",
+    "OBG-C9-044",
+    "OBG-C9-045",
+    "OBG-C9-046",
+    "OBG-C9-047"
+   ]
+  },
+  {
+   "id": "OBG-U9-7",
+   "ch": 9,
+   "n": 7,
+   "title": "Cervical shape → Cerclage indications",
+   "sec": "Cervical insufficiency protocol · p420-421",
+   "guide": "Cervical incompetence produces painless second-trimester loss from spontaneous internal-os dilatation. Use history, pregnancy TVS, and clinical findings to choose progesterone, history- or ultrasound-based cerclage, or carefully selected rescue cerclage. Focus for this checkpoint: Cervical shape, Cervical incompetence, Cerclage principle, Cerclage indications.",
+   "qs": [
+    "OBG-C9-048",
+    "OBG-C9-049",
+    "OBG-C9-050",
+    "OBG-C9-051",
+    "OBG-C9-052",
+    "OBG-C9-053",
+    "OBG-C9-054",
+    "OBG-C9-055"
+   ]
+  },
+  {
+   "id": "OBG-U9-8",
+   "ch": 9,
+   "n": 8,
+   "title": "Emergency cerclage → Cervical management protocol",
+   "sec": "Cervical insufficiency protocol · p420-421",
+   "guide": "Cervical incompetence produces painless second-trimester loss from spontaneous internal-os dilatation. Use history, pregnancy TVS, and clinical findings to choose progesterone, history- or ultrasound-based cerclage, or carefully selected rescue cerclage. Focus for this checkpoint: Emergency cerclage, Cerclage timing, Progesterone, Progesterone indications, Cervical management protocol.",
+   "qs": [
+    "OBG-C9-056",
+    "OBG-C9-057",
+    "OBG-C9-058",
+    "OBG-C9-059",
+    "OBG-C9-060",
+    "OBG-C9-061",
+    "OBG-C9-062",
+    "OBG-C9-063",
+    "OBG-C9-064",
+    "OBG-C9-065",
+    "OBG-C9-066"
+   ]
+  },
+  {
+   "id": "OBG-U9-9",
+   "ch": 9,
+   "n": 9,
+   "title": "Cervical management protocol → Transabdominal cerclage",
+   "sec": "Cervical insufficiency protocol · p420-421",
+   "guide": "Cervical incompetence produces painless second-trimester loss from spontaneous internal-os dilatation. Use history, pregnancy TVS, and clinical findings to choose progesterone, history- or ultrasound-based cerclage, or carefully selected rescue cerclage. Focus for this checkpoint: Cervical management protocol, Rescue cerclage, Cerclage approaches, Transvaginal cerclage, Transabdominal cerclage.",
+   "qs": [
+    "OBG-C9-067",
+    "OBG-C9-068",
+    "OBG-C9-069",
+    "OBG-C9-070",
+    "OBG-C9-071",
+    "OBG-C9-072",
+    "OBG-C9-073"
+   ]
+  },
+  {
+   "id": "OBG-U9-10",
+   "ch": 9,
+   "n": 10,
+   "title": "McDonald cerclage → Wurm cerclage",
+   "sec": "Cerclage procedures · p422-423",
+   "guide": "Differentiate McDonald, Shirodkar, Wurm, and abdominal approaches by suture placement, bladder dissection, success, material, and delivery implications. Avoid cerclage when labor, fetal compromise, membrane rupture, bleeding, or infection makes it unsafe. Focus for this checkpoint: McDonald cerclage, Shirodkar cerclage, Wurm cerclage.",
+   "qs": [
+    "OBG-C9-074",
+    "OBG-C9-075",
+    "OBG-C9-076",
+    "OBG-C9-077",
+    "OBG-C9-078",
+    "OBG-C9-079",
+    "OBG-C9-080",
+    "OBG-C9-081",
+    "OBG-C9-082"
+   ]
+  },
+  {
+   "id": "OBG-U9-11",
+   "ch": 9,
+   "n": 11,
+   "title": "Cerclage timing → Cerclage adjuncts",
+   "sec": "Cerclage procedures · p422-423",
+   "guide": "Differentiate McDonald, Shirodkar, Wurm, and abdominal approaches by suture placement, bladder dissection, success, material, and delivery implications. Avoid cerclage when labor, fetal compromise, membrane rupture, bleeding, or infection makes it unsafe. Focus for this checkpoint: Cerclage timing, Cerclage removal, Cerclage delivery, Abdominal cerclage, Cerclage adjuncts.",
+   "qs": [
+    "OBG-C9-083",
+    "OBG-C9-084",
+    "OBG-C9-085",
+    "OBG-C9-086",
+    "OBG-C9-087",
+    "OBG-C9-088",
+    "OBG-C9-089",
+    "OBG-C9-090",
+    "OBG-C9-091"
+   ]
+  },
+  {
+   "id": "OBG-U9-12",
+   "ch": 9,
+   "n": 12,
+   "title": "Cerclage contraindications",
+   "sec": "Cerclage procedures · p422-423",
+   "guide": "Differentiate McDonald, Shirodkar, Wurm, and abdominal approaches by suture placement, bladder dissection, success, material, and delivery implications. Avoid cerclage when labor, fetal compromise, membrane rupture, bleeding, or infection makes it unsafe. Focus for this checkpoint: Cerclage contraindications.",
+   "qs": [
+    "OBG-C9-092",
+    "OBG-C9-093",
+    "OBG-C9-094",
+    "OBG-C9-095",
+    "OBG-C9-096"
+   ]
+  },
+  {
+   "id": "OBG-U9-13",
+   "ch": 9,
+   "n": 13,
+   "title": "APS definition → APS clinical criteria",
+   "sec": "APLA syndrome · p424-425",
+   "guide": "APS is an acquired prothrombotic antibody syndrome and the most common individual cause of recurrent loss. Diagnose it only when a qualifying clinical event and persistent laboratory antibody criterion coexist, then match aspirin/heparin management to obstetric and thrombotic history. Focus for this checkpoint: APS definition, APS pathology, APS antibodies, APS presentations, APS diagnosis, APS clinical criteria.",
+   "qs": [
+    "OBG-C9-097",
+    "OBG-C9-098",
+    "OBG-C9-099",
+    "OBG-C9-100",
+    "OBG-C9-101",
+    "OBG-C9-102",
+    "OBG-C9-103",
+    "OBG-C9-104",
+    "OBG-C9-105",
+    "OBG-C9-106",
+    "OBG-C9-107"
+   ]
+  },
+  {
+   "id": "OBG-U9-14",
+   "ch": 9,
+   "n": 14,
+   "title": "APS laboratory criteria → APS management",
+   "sec": "APLA syndrome · p424-425",
+   "guide": "APS is an acquired prothrombotic antibody syndrome and the most common individual cause of recurrent loss. Diagnose it only when a qualifying clinical event and persistent laboratory antibody criterion coexist, then match aspirin/heparin management to obstetric and thrombotic history. Focus for this checkpoint: APS laboratory criteria, Lupus anticoagulant, APS management.",
+   "qs": [
+    "OBG-C9-108",
+    "OBG-C9-109",
+    "OBG-C9-110",
+    "OBG-C9-111",
+    "OBG-C9-112",
+    "OBG-C9-113",
+    "OBG-C9-114",
+    "OBG-C9-115",
+    "OBG-C9-116",
+    "OBG-C9-117"
+   ]
+  },
+  {
+   "id": "OBG-U9-15",
+   "ch": 9,
+   "n": 15,
+   "title": "APS postpartum & APS outside pregnancy",
+   "sec": "APLA syndrome · p424-425",
+   "guide": "APS is an acquired prothrombotic antibody syndrome and the most common individual cause of recurrent loss. Diagnose it only when a qualifying clinical event and persistent laboratory antibody criterion coexist, then match aspirin/heparin management to obstetric and thrombotic history. Focus for this checkpoint: APS postpartum, APS outside pregnancy.",
+   "qs": [
+    "OBG-C9-118",
+    "OBG-C9-119",
+    "OBG-C9-120",
+    "OBG-C9-121"
+   ]
+  },
+  {
+   "id": "OBG-U9-16",
+   "ch": 9,
+   "n": 16,
+   "title": "Threatened abortion → Inevitable abortion",
+   "sec": "Abortion assessment and sepsis · p425-426",
+   "guide": "Clinical abortion types are distinguished by symptoms, uterine size, internal os, ultrasound, and urgency. Missed abortion is ultrasound based; septic abortion is an infective emergency requiring immediate broad-spectrum antibiotic coverage and severity grading. Focus for this checkpoint: Threatened abortion, Threatened abortion management, Inevitable abortion.",
+   "qs": [
+    "OBG-C9-122",
+    "OBG-C9-123",
+    "OBG-C9-124",
+    "OBG-C9-125",
+    "OBG-C9-126",
+    "OBG-C9-127",
+    "OBG-C9-128",
+    "OBG-C9-129",
+    "OBG-C9-130"
+   ]
+  },
+  {
+   "id": "OBG-U9-17",
+   "ch": 9,
+   "n": 17,
+   "title": "Incomplete abortion → Missed abortion",
+   "sec": "Abortion assessment and sepsis · p425-426",
+   "guide": "Clinical abortion types are distinguished by symptoms, uterine size, internal os, ultrasound, and urgency. Missed abortion is ultrasound based; septic abortion is an infective emergency requiring immediate broad-spectrum antibiotic coverage and severity grading. Focus for this checkpoint: Incomplete abortion, Complete abortion, Complete abortion management, Missed abortion.",
+   "qs": [
+    "OBG-C9-131",
+    "OBG-C9-132",
+    "OBG-C9-133",
+    "OBG-C9-134",
+    "OBG-C9-135",
+    "OBG-C9-136",
+    "OBG-C9-137",
+    "OBG-C9-138",
+    "OBG-C9-139",
+    "OBG-C9-140",
+    "OBG-C9-141"
+   ]
+  },
+  {
+   "id": "OBG-U9-18",
+   "ch": 9,
+   "n": 18,
+   "title": "Missed abortion ultrasound → Septic abortion",
+   "sec": "Abortion assessment and sepsis · p425-426",
+   "guide": "Clinical abortion types are distinguished by symptoms, uterine size, internal os, ultrasound, and urgency. Missed abortion is ultrasound based; septic abortion is an infective emergency requiring immediate broad-spectrum antibiotic coverage and severity grading. Focus for this checkpoint: Missed abortion ultrasound, Missed abortion management, Shock and abortion, Septic abortion.",
+   "qs": [
+    "OBG-C9-142",
+    "OBG-C9-143",
+    "OBG-C9-144",
+    "OBG-C9-145",
+    "OBG-C9-146",
+    "OBG-C9-147",
+    "OBG-C9-148",
+    "OBG-C9-149",
+    "OBG-C9-150",
+    "OBG-C9-151"
+   ]
+  },
+  {
+   "id": "OBG-U9-19",
+   "ch": 9,
+   "n": 19,
+   "title": "Septic abortion grading → Septic abortion",
+   "sec": "Abortion assessment and sepsis · p425-426",
+   "guide": "Clinical abortion types are distinguished by symptoms, uterine size, internal os, ultrasound, and urgency. Missed abortion is ultrasound based; septic abortion is an infective emergency requiring immediate broad-spectrum antibiotic coverage and severity grading. Focus for this checkpoint: Septic abortion grading, Septic abortion management, Septic abortion.",
+   "qs": [
+    "OBG-C9-152",
+    "OBG-C9-153",
+    "OBG-C9-154",
+    "OBG-C9-155",
+    "OBG-C9-156",
+    "OBG-C9-157"
+   ]
+  },
+  {
+   "id": "OBG-U9-20",
+   "ch": 9,
+   "n": 20,
+   "title": "MTP Act 2021 → MTP indications",
+   "sec": "Medical termination of pregnancy · p427",
+   "guide": "The MTP Act 2021 sets separate gestational limits, consent and opinion requirements, medical-board composition, records, and practitioner qualifications. Compare medical and surgical abortion by invasiveness, speed, expertise, failure rescue, and complication profile. Focus for this checkpoint: MTP Act 2021, Medical board, MTP indications.",
+   "qs": [
+    "OBG-C9-158",
+    "OBG-C9-159",
+    "OBG-C9-160",
+    "OBG-C9-161",
+    "OBG-C9-162",
+    "OBG-C9-163",
+    "OBG-C9-164",
+    "OBG-C9-165",
+    "OBG-C9-166"
+   ]
+  },
+  {
+   "id": "OBG-U9-21",
+   "ch": 9,
+   "n": 21,
+   "title": "MTP consent → MTP qualification",
+   "sec": "Medical termination of pregnancy · p427",
+   "guide": "The MTP Act 2021 sets separate gestational limits, consent and opinion requirements, medical-board composition, records, and practitioner qualifications. Compare medical and surgical abortion by invasiveness, speed, expertise, failure rescue, and complication profile. Focus for this checkpoint: MTP consent, MTP medical opinion, MTP records, MTP qualification.",
+   "qs": [
+    "OBG-C9-167",
+    "OBG-C9-168",
+    "OBG-C9-169",
+    "OBG-C9-170",
+    "OBG-C9-171",
+    "OBG-C9-172",
+    "OBG-C9-173",
+    "OBG-C9-174",
+    "OBG-C9-175"
+   ]
+  },
+  {
+   "id": "OBG-U9-22",
+   "ch": 9,
+   "n": 22,
+   "title": "Medical vs surgical abortion",
+   "sec": "Medical termination of pregnancy · p427",
+   "guide": "The MTP Act 2021 sets separate gestational limits, consent and opinion requirements, medical-board composition, records, and practitioner qualifications. Compare medical and surgical abortion by invasiveness, speed, expertise, failure rescue, and complication profile. Focus for this checkpoint: Medical vs surgical abortion.",
+   "qs": [
+    "OBG-C9-176",
+    "OBG-C9-177",
+    "OBG-C9-178",
+    "OBG-C9-179",
+    "OBG-C9-180"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "id": "OBG-C9-001",
+   "sec": "Abortion definitions",
+   "page": 418,
+   "q": "How is abortion defined in the source notes?",
+   "opts": [
+    "Pregnancy loss at or after 28 weeks only",
+    "Any bleeding in pregnancy",
+    "Fetal death after birth",
+    "Pregnancy loss before 20 weeks of gestation"
+   ],
+   "ans": 3,
+   "exp": "Abortion is pregnancy loss occurring before 20 weeks of gestation. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-002",
+   "sec": "Abortion definitions",
+   "page": 418,
+   "q": "What WHO abortion definition is given in terms of fetal weight and approximate gestation?",
+   "opts": [
+    "Fetal weight below 500 g, approximately below 22 weeks",
+    "Fetal weight below 1,500 g, approximately below 32 weeks",
+    "Fetal weight below 4,000 g, approximately below 40 weeks",
+    "Any fetal weight after 28 weeks"
+   ],
+   "ans": 0,
+   "exp": "The WHO definition uses fetal weight below 500 g, approximately 22 weeks. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-003",
+   "sec": "Abortion definitions",
+   "page": 418,
+   "q": "How is intrauterine death distinguished from abortion by gestational age in the notes?",
+   "opts": [
+    "Loss only after 28 weeks",
+    "Pregnancy loss at or after 20 weeks",
+    "Loss before 12 weeks",
+    "Loss before 20 weeks"
+   ],
+   "ans": 1,
+   "exp": "Intrauterine death is pregnancy loss at or after 20 weeks. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-004",
+   "sec": "Viability",
+   "page": 418,
+   "q": "What period of viability in India is stated in the source?",
+   "opts": [
+    "24 weeks",
+    "32 weeks",
+    "28 weeks",
+    "20 weeks"
+   ],
+   "ans": 2,
+   "exp": "The notes state a period of viability of 28 weeks in India. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-005",
+   "sec": "Types of abortion",
+   "page": 418,
+   "q": "How is spontaneous abortion subdivided in the source flowchart?",
+   "opts": [
+    "Only surgical or medical",
+    "Only complete or incomplete",
+    "Only antepartum or postpartum",
+    "Isolated single episode or recurrent with at least 3 abortions"
+   ],
+   "ans": 3,
+   "exp": "Spontaneous abortion may be isolated (single episode) or recurrent (at least 3 abortions). (Book p418)"
+  },
+  {
+   "id": "OBG-C9-006",
+   "sec": "Types of abortion",
+   "page": 418,
+   "q": "Which category describes an abortion induced medically?",
+   "opts": [
+    "Medical termination of pregnancy",
+    "Threatened abortion",
+    "Inevitable abortion",
+    "Missed abortion"
+   ],
+   "ans": 0,
+   "exp": "Induced abortion is medical termination of pregnancy. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-007",
+   "sec": "Septic abortion",
+   "page": 418,
+   "q": "What makes any abortion a septic abortion?",
+   "opts": [
+    "Rh negativity alone",
+    "Presence of septic foci",
+    "An open internal os alone",
+    "Fetal cardiac activity alone"
+   ],
+   "ans": 1,
+   "exp": "Any abortion with septic foci is septic abortion. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-008",
+   "sec": "Abortion definitions",
+   "page": 418,
+   "q": "Fill up: In India, abortion is defined as termination of pregnancy before ______ weeks of gestation or the birth of a fetus weighing less than ______ g.",
+   "opts": [
+    "28; 1000",
+    "20; 500",
+    "24; 1000",
+    "28; 500"
+   ],
+   "ans": 0,
+   "exp": "Indian law uses the 28-week or 1000 g definition of viability, so expulsion before that limit and weight is called abortion. (Book p418)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C9-009",
+   "sec": "Isolated abortion",
+   "page": 418,
+   "q": "What is the most common cause of isolated abortion in the first or second trimester?",
+   "opts": [
+    "APLA syndrome",
+    "Asymptomatic bacteriuria",
+    "Chromosomal anomaly",
+    "Cervical incompetence"
+   ],
+   "ans": 2,
+   "exp": "Chromosomal anomaly is the most common cause of isolated first- or second-trimester abortion. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-010",
+   "sec": "Chromosomal causes",
+   "page": 418,
+   "q": "What is the most common category of chromosomal anomaly associated with isolated abortion?",
+   "opts": [
+    "Balanced translocation",
+    "Triploidy only",
+    "Mitochondrial mutation",
+    "Aneuploidy"
+   ],
+   "ans": 3,
+   "exp": "Aneuploidy is listed as the most common chromosomal anomaly. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-011",
+   "sec": "Chromosomal causes",
+   "page": 418,
+   "q": "Which sequence correctly ranks the listed common chromosomal abnormalities in isolated abortion?",
+   "opts": [
+    "Aneuploidy, then trisomy, then monosomy (Turner syndrome), then trisomy 16",
+    "Trisomy 16, then Turner, then aneuploidy",
+    "Balanced translocation, then trisomy 21, then triploidy",
+    "Monosomy, then euploidy, then trisomy"
+   ],
+   "ans": 0,
+   "exp": "The source order is aneuploidy > trisomy > monosomy (Turner) > trisomy 16. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-012",
+   "sec": "Isolated abortion risks",
+   "page": 418,
+   "q": "Which history is a risk factor for isolated abortion?",
+   "opts": [
+    "Daily walking",
+    "Previous abortion",
+    "Normal fetal echo",
+    "Rh-negative father alone"
+   ],
+   "ans": 1,
+   "exp": "Previous history of abortion is a listed risk factor. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-013",
+   "sec": "Isolated abortion risks",
+   "page": 418,
+   "q": "How does maternal age affect isolated-abortion risk?",
+   "opts": [
+    "It has no effect",
+    "Only paternal age matters",
+    "Risk increases with maternal age",
+    "Risk decreases to zero after age 35"
+   ],
+   "ans": 2,
+   "exp": "Increasing maternal age is a listed risk factor. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-014",
+   "sec": "Infection and abortion",
+   "page": 418,
+   "q": "What is the source-note relationship between infection and recurrent abortion?",
+   "opts": [
+    "All infections are the most common recurrent cause",
+    "TORCH always proves recurrent abortion",
+    "VDRL is mandatory in all recurrent loss",
+    "Infections do not cause recurrent abortion"
+   ],
+   "ans": 3,
+   "exp": "The notes state infections do not cause recurrent abortion. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-015",
+   "sec": "Congenital syphilis",
+   "page": 418,
+   "q": "What is the stated pregnancy-outcome pattern for congenital syphilis?",
+   "opts": [
+    "It follows Kassowitz law; prognosis improves with increasing pregnancies",
+    "It always causes recurrent first-trimester abortion only",
+    "It cannot affect pregnancy outcome",
+    "It is a teratogen but not abortogenic"
+   ],
+   "ans": 0,
+   "exp": "Kassowitz law states pregnancy prognosis is proportional to number of pregnancies in syphilis; stillbirth is more characteristic. (Book p418)"
+  },
+  {
+   "id": "OBG-C9-016",
+   "sec": "Infections causing abortion & congenital syphilis",
+   "page": 418,
+   "q": "All of the following infections are associated with spontaneous abortion EXCEPT:",
+   "opts": [
+    "Human papillomavirus infection of the cervix",
+    "Listeria monocytogenes infection",
+    "Treponema pallidum infection",
+    "Cytomegalovirus infection"
+   ],
+   "ans": 0,
+   "exp": "Cervical HPV causes warts and neoplasia, not pregnancy loss; listeria, syphilis, CMV, rubella, toxoplasma and parvovirus all cause loss. (Book p418)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C9-017",
+   "sec": "Chromosomal causes",
+   "page": 419,
+   "q": "Which trisomy is described as most lethal?",
+   "opts": [
+    "Trisomy 16",
+    "Trisomy 21",
+    "Trisomy 18",
+    "Trisomy 13"
+   ],
+   "ans": 0,
+   "exp": "Trisomy 16 is the most lethal in the note. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-018",
+   "sec": "Chromosomal causes",
+   "page": 419,
+   "q": "Which trisomy is described as the most viable and has abortion as its most common outcome?",
+   "opts": [
+    "Trisomy 18",
+    "Trisomy 21",
+    "Trisomy 16",
+    "Trisomy 13"
+   ],
+   "ans": 1,
+   "exp": "Trisomy 21 is the most viable; abortion is its most common outcome in the notes. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-019",
+   "sec": "HIV and pregnancy loss",
+   "page": 419,
+   "q": "What is the stated effect of HIV on abortion and teratogenicity?",
+   "opts": [
+    "It is only teratogenic",
+    "It is only abortogenic",
+    "It is neither abortogenic nor teratogenic",
+    "It is both always abortogenic and teratogenic"
+   ],
+   "ans": 2,
+   "exp": "The source explicitly states HIV is neither abortogenic nor teratogenic. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-020",
+   "sec": "Recurrent abortion",
+   "page": 419,
+   "q": "How is recurrent abortion defined in the source notes?",
+   "opts": [
+    "At least 2 nonconsecutive losses at any gestation",
+    "Any one loss before 28 weeks",
+    "At least 5 losses after 20 weeks",
+    "At least 3 consecutive pregnancy losses before 20 weeks"
+   ],
+   "ans": 3,
+   "exp": "Recurrent abortion is at least 3 consecutive losses before 20 weeks. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-021",
+   "sec": "Recurrent abortion",
+   "page": 419,
+   "q": "What ASRM definition of recurrent pregnancy loss is stated?",
+   "opts": [
+    "At least 2 confirmed pregnancy losses",
+    "At least 3 consecutive unconfirmed losses",
+    "At least 4 losses after 20 weeks",
+    "One biochemical pregnancy"
+   ],
+   "ans": 0,
+   "exp": "ASRM defines recurrent loss as at least 2 confirmed pregnancy losses. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-022",
+   "sec": "Recurrent abortion",
+   "page": 419,
+   "q": "How can pregnancy loss be confirmed for the ASRM recurrent-loss definition?",
+   "opts": [
+    "Fetal movement count",
+    "Histopathology or ultrasound",
+    "Urine dipstick only",
+    "Maternal symptoms only"
+   ],
+   "ans": 1,
+   "exp": "Confirmation is by histopathological examination or USG. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-023",
+   "sec": "Recurrent abortion causes",
+   "page": 419,
+   "q": "What is the most common group of causes of recurrent abortion?",
+   "opts": [
+    "Infections",
+    "Thrombophilia testing abnormalities",
+    "Endocrine causes",
+    "Uterine causes"
+   ],
+   "ans": 2,
+   "exp": "Endocrine causes are the most common group, ahead of uterine causes. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-024",
+   "sec": "Recurrent abortion causes",
+   "page": 419,
+   "q": "What is the most common individual cause of recurrent abortion?",
+   "opts": [
+    "Cervical incompetence",
+    "Hypothyroidism",
+    "Congenital syphilis",
+    "APLA syndrome"
+   ],
+   "ans": 3,
+   "exp": "APLA syndrome is the most common individual cause. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-025",
+   "sec": "Chromosomal causes & recurrent abortion causes",
+   "page": 419,
+   "q": "Fill up: The commonest cause of a sporadic first-trimester abortion is a ______, and the single commonest chromosomal abnormality found is ______.",
+   "opts": [
+    "chromosomal anomaly; autosomal trisomy",
+    "uterine anomaly; triploidy",
+    "luteal deficiency; monosomy X",
+    "maternal infection; tetraploidy"
+   ],
+   "ans": 0,
+   "exp": "About half of early losses are chromosomally abnormal, with autosomal trisomy the commonest abnormality, followed by monosomy X and polyploidy. (Book p419)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C9-026",
+   "sec": "Endocrine causes",
+   "page": 419,
+   "q": "What is the most common endocrine cause of recurrent abortion?",
+   "opts": [
+    "Hypothyroidism",
+    "PCOS",
+    "Hyperprolactinemia",
+    "Uncontrolled diabetes"
+   ],
+   "ans": 0,
+   "exp": "Hypothyroidism is the most common endocrine cause. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-027",
+   "sec": "Endocrine causes",
+   "page": 419,
+   "q": "Which endocrine conditions are listed among recurrent-abortion causes?",
+   "opts": [
+    "Only growth hormone deficiency",
+    "Uncontrolled diabetes, PCOS, and raised prolactin",
+    "Only hyperthyroidism",
+    "Only low calcium"
+   ],
+   "ans": 1,
+   "exp": "Uncontrolled diabetes, PCOS, and increased prolactin are listed endocrine causes. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-028",
+   "sec": "Uterine causes",
+   "page": 419,
+   "q": "What is the most common uterine cause of recurrent first-trimester abortion?",
+   "opts": [
+    "Cervical incompetence",
+    "Submucous fibroid",
+    "Septate uterus",
+    "Bicornuate uterus"
+   ],
+   "ans": 2,
+   "exp": "Septate uterus is the most common uterine cause of first-trimester abortion. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-029",
+   "sec": "Uterine causes",
+   "page": 419,
+   "q": "Which congenital uterine anomaly is next in frequency after septate uterus in the source list?",
+   "opts": [
+    "Unicornuate uterus",
+    "Didelphys",
+    "Arcuate uterus",
+    "Bicornuate uterus"
+   ],
+   "ans": 3,
+   "exp": "The source ranks septate uterus above bicornuate uterus. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-030",
+   "sec": "Uterine causes",
+   "page": 419,
+   "q": "Which acquired uterine causes are listed for recurrent abortion?",
+   "opts": [
+    "Cervical incompetence, a submucous fibroid and Asherman syndrome",
+    "Placenta previa, which implants low and bleeds repeatedly",
+    "A previous ectopic pregnancy, which scars the uterine cavity",
+    "An ovarian cyst, which distorts the outline of the uterus"
+   ],
+   "ans": 0,
+   "exp": "Acquired uterine causes of recurrent loss are cervical weakness, cavity-distorting fibroids and intrauterine adhesions. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-031",
+   "sec": "Chromosomal recurrent loss",
+   "page": 419,
+   "q": "What proportion of recurrent abortions can be due to chromosomal abnormalities?",
+   "opts": [
+    "0%",
+    "2–5%",
+    "20–50%",
+    "80–90%"
+   ],
+   "ans": 1,
+   "exp": "Chromosomal abnormalities may account for 2–5% of recurrent abortions. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-032",
+   "sec": "Chromosomal recurrent loss",
+   "page": 419,
+   "q": "What is the most common chromosomal abnormality in recurrent abortion?",
+   "opts": [
+    "Turner syndrome",
+    "Triploidy",
+    "Balanced chromosomal translocation",
+    "Trisomy 16"
+   ],
+   "ans": 2,
+   "exp": "Balanced translocation is the most common chromosomal abnormality in recurrent loss. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-033",
+   "sec": "Endocrine causes & chromosomal recurrent loss",
+   "page": 419,
+   "q": "Match the endocrine cause with its association — 1) Poorly controlled diabetes 2) Luteal phase deficiency 3) Thyroid autoimmunity … A) Loss is linked to thyroid antibodies even when thyroid function tests are normal B) Losses occur mainly in the first trimester, so control before conception matters most C) Progesterone support helps only in selected women with recurrent loss",
+   "opts": [
+    "1-B, 2-C, 3-A",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-A, 3-C"
+   ],
+   "ans": 0,
+   "exp": "Diabetic loss tracks glycaemic control at conception, thyroid antibodies mark risk independent of function, and progesterone has a narrow role. (Book p419)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C9-034",
+   "sec": "Recurrent-loss investigation",
+   "page": 419,
+   "q": "When should recurrent-abortion investigations begin according to the notes?",
+   "opts": [
+    "Only after 5 abortions",
+    "After the first biochemical pregnancy",
+    "Only at delivery",
+    "After 2 abortions"
+   ],
+   "ans": 3,
+   "exp": "The source says investigations should begin after two abortions. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-035",
+   "sec": "Recurrent-loss investigation",
+   "page": 419,
+   "q": "Which targeted investigation is used when an endocrine cause of recurrent abortion is suspected?",
+   "opts": [
+    "TSH",
+    "TORCH panel",
+    "VDRL in every patient",
+    "Thrombophilia screen in every patient"
+   ],
+   "ans": 0,
+   "exp": "TSH is performed if an endocrine cause is suspected. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-036",
+   "sec": "Recurrent-loss investigation",
+   "page": 419,
+   "q": "Which targeted investigation is used when a uterine cause of recurrent abortion is suspected?",
+   "opts": [
+    "MCA Doppler",
+    "TVS",
+    "OGTT",
+    "ICT"
+   ],
+   "ans": 1,
+   "exp": "TVS is performed if a uterine cause is suspected. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-037",
+   "sec": "Recurrent-loss investigation",
+   "page": 419,
+   "q": "Which two etiologic tests are routinely included after recurrent losses in the source plan?",
+   "opts": [
+    "Bile acids and HbA1c",
+    "DIPSI and fetal echo",
+    "APLA antibody testing and parental karyotyping",
+    "TORCH and VDRL"
+   ],
+   "ans": 2,
+   "exp": "APLA antibody testing and parental karyotyping are included after two losses. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-038",
+   "sec": "Recurrent-loss investigation",
+   "page": 419,
+   "q": "Which test is specifically not done for recurrent abortion in the source notes?",
+   "opts": [
+    "Parental karyotyping",
+    "APLA antibody testing",
+    "TVS when uterine cause is suspected",
+    "TORCH testing"
+   ],
+   "ans": 3,
+   "exp": "TORCH testing, VDRL, and thrombophilia testing are listed as not done. (Book p419)"
+  },
+  {
+   "id": "OBG-C9-039",
+   "sec": "Recurrent-loss investigation",
+   "page": 419,
+   "q": "All of the following are part of the standard evaluation of recurrent pregnancy loss EXCEPT:",
+   "opts": [
+    "Partner karyotyping after a single first-trimester loss",
+    "Lupus anticoagulant and anticardiolipin antibody testing",
+    "Thyroid function, prolactin and glycaemic assessment",
+    "Three-dimensional ultrasound or hysteroscopy for a uterine anomaly"
+   ],
+   "ans": 0,
+   "exp": "Investigation begins after three consecutive losses (or earlier if indicated); a single sporadic loss needs no work-up. (Book p419)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C9-040",
+   "sec": "Cervical incompetence",
+   "page": 420,
+   "q": "What is cervical incompetence by definition?",
+   "opts": [
+    "Painful first-trimester abortion from uterine contractions",
+    "Any open external os at delivery",
+    "Cervical cancer in pregnancy",
+    "Spontaneous dilatation of an incompetent internal os causing painless second-trimester abortion"
+   ],
+   "ans": 3,
+   "exp": "Cervical incompetence is spontaneous internal-os dilatation causing painless second-trimester loss. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-041",
+   "sec": "Cervical incompetence",
+   "page": 420,
+   "q": "What history supports cervical incompetence?",
+   "opts": [
+    "At least 3 painless second-trimester abortions",
+    "Three painful first-trimester abortions",
+    "One ectopic pregnancy",
+    "Only postpartum hemorrhage"
+   ],
+   "ans": 0,
+   "exp": "A history of recurrent (at least 3) painless second-trimester abortions supports cervical incompetence. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-042",
+   "sec": "Cervical incompetence",
+   "page": 420,
+   "q": "Which nonpregnant test can support cervical incompetence by showing passage without resistance?",
+   "opts": [
+    "MVA syringe",
+    "Hegar dilator number 8",
+    "Karman cannula number 16",
+    "Foley catheter number 4"
+   ],
+   "ans": 1,
+   "exp": "In nonpregnant women, passage of Hegar dilator no. 8 without resistance is a diagnostic clue. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-043",
+   "sec": "Cervical incompetence",
+   "page": 420,
+   "q": "Which Foley catheter finding supports cervical incompetence in a nonpregnant woman?",
+   "opts": [
+    "Any Foley insertion after labor",
+    "A balloon in the ureter",
+    "No. 16 Foley with a 1-mL inflated bulb passes without resistance",
+    "No. 8 Foley with 10 mL inflated bulb cannot pass"
+   ],
+   "ans": 2,
+   "exp": "Passage of no. 16 Foley with bulb filled with 1 mL water without resistance supports the diagnosis. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-044",
+   "sec": "Cervical incompetence diagnosis",
+   "page": 420,
+   "q": "What is the investigation of choice for cervical incompetence during pregnancy?",
+   "opts": [
+    "Hysteroscopy",
+    "HSG",
+    "Abdominal X-ray",
+    "Transvaginal scan"
+   ],
+   "ans": 3,
+   "exp": "TVS is the investigation of choice in pregnancy. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-045",
+   "sec": "Cervical length",
+   "page": 420,
+   "q": "What cervical length is normal in pregnancy according to the source table?",
+   "opts": [
+    "4–5 cm",
+    "Less than 1 cm",
+    "2–2.5 cm",
+    "More than 8 cm"
+   ],
+   "ans": 0,
+   "exp": "The normal pregnancy cervical length is 4–5 cm. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-046",
+   "sec": "Cervical length",
+   "page": 420,
+   "q": "What TVS cervical-length value supports cervical incompetence?",
+   "opts": [
+    "Exactly 3.5 cm",
+    "2.5 cm or less",
+    "4–5 cm",
+    "More than 6 cm"
+   ],
+   "ans": 1,
+   "exp": "Cervical length ≤2.5 cm supports cervical incompetence. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-047",
+   "sec": "Cervical incompetence & cervical length",
+   "page": 420,
+   "q": "Fill up: A cervical length below ______ mm before 24 weeks is taken as evidence of cervical weakness, and the measurement must be made by ______ sonography.",
+   "opts": [
+    "25; transvaginal",
+    "30; transabdominal",
+    "15; transvaginal",
+    "25; transabdominal"
+   ],
+   "ans": 0,
+   "exp": "Transvaginal measurement is the standard; an empty bladder, a full-thickness view and a short closed cervix below 25 mm mark risk. (Book p420)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C9-048",
+   "sec": "Cervical shape",
+   "page": 420,
+   "q": "What is the normal cervical shape on TVS in pregnancy?",
+   "opts": [
+    "V shape",
+    "U shape",
+    "T shape",
+    "Y shape"
+   ],
+   "ans": 2,
+   "exp": "A normal cervical shape is T shaped. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-049",
+   "sec": "Cervical shape",
+   "page": 420,
+   "q": "Which funneling progression is characteristic of cervical incompetence?",
+   "opts": [
+    "T to I to L",
+    "U to V to Y",
+    "C to S to O",
+    "Y to V to U"
+   ],
+   "ans": 3,
+   "exp": "Cervical incompetence shows Y→V→U funneling. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-050",
+   "sec": "Cervical incompetence",
+   "page": 420,
+   "q": "Why is cervical length inversely related to cervical dilatation?",
+   "opts": [
+    "Dilatation takes up/effaces the cervix",
+    "The cervix grows with dilatation",
+    "Fetal growth directly lengthens cervix",
+    "The internal os closes the cervix"
+   ],
+   "ans": 0,
+   "exp": "As the cervix dilates, it is taken up, so length falls. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-051",
+   "sec": "Cerclage principle",
+   "page": 420,
+   "q": "What is the principle of cervical cerclage?",
+   "opts": [
+    "Apply fundal pressure",
+    "Place sutures around the internal os",
+    "Remove the entire cervix",
+    "Dilate the internal os"
+   ],
+   "ans": 1,
+   "exp": "Cerclage places sutures around the internal os. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-052",
+   "sec": "Cerclage indications",
+   "page": 420,
+   "q": "What is the history-based indication for cervical cerclage?",
+   "opts": [
+    "A normal cervix on transvaginal scan with no history of any pregnancy loss",
+    "Maternal age above forty alone, even with no previous pregnancy loss",
+    "At least two painless second-trimester losses, irrespective of the scan findings",
+    "Any single first-trimester loss, since one loss reliably predicts another"
+   ],
+   "ans": 2,
+   "exp": "A history-based indication is recurrent painless mid-trimester loss, typically two or more, and it applies whatever the cervical length shows. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-053",
+   "sec": "Cerclage indications",
+   "page": 420,
+   "q": "What ultrasound-based history indication for cerclage is listed after one painless second-trimester loss?",
+   "opts": [
+    "Cervical length 4–5 cm",
+    "Positive ICT",
+    "Bile acid level above 10",
+    "Cervical length less than 2.5 cm"
+   ],
+   "ans": 3,
+   "exp": "One painless T2 abortion plus cervical length <2.5 cm is ultrasound-based indication. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-054",
+   "sec": "Cerclage indications",
+   "page": 420,
+   "q": "What history plus TVS finding supports cerclage after early preterm labor?",
+   "opts": [
+    "Early PTL history with cervical length less than 2.5 cm",
+    "Early PTL with cervical length over 5 cm",
+    "Only a positive urine pregnancy test",
+    "Any post-term labor"
+   ],
+   "ans": 0,
+   "exp": "Early PTL plus cervical length <2.5 cm is an indication. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-055",
+   "sec": "Cervical shape & cerclage indications",
+   "page": 420,
+   "q": "Which of the following statements about cervical incompetence is TRUE?",
+   "opts": [
+    "It is essentially a clinical diagnosis of painless second-trimester dilatation with recurrent mid-trimester losses",
+    "A cervical length above 30 mm on transvaginal scan confirms the diagnosis",
+    "It classically presents with painful contractions and heavy bleeding in the first trimester",
+    "It is diagnosed by measuring serum progesterone in the middle of the second trimester"
+   ],
+   "ans": 0,
+   "exp": "Painless dilation with recurrent second-trimester loss is the hallmark; ultrasound supports the diagnosis but does not define it. (Book p420)",
+   "fmt": "truefalse"
+  },
+  {
+   "id": "OBG-C9-056",
+   "sec": "Emergency cerclage",
+   "page": 420,
+   "q": "What physical finding is the basis for emergency cervical cerclage?",
+   "opts": [
+    "Fetal macrosomia",
+    "Pregnant woman under 24 weeks with a dilated cervix",
+    "Closed cervix at 39 weeks",
+    "Only a positive ICT"
+   ],
+   "ans": 1,
+   "exp": "Emergency cerclage is physical-examination based: under 24 weeks with a dilated cervix. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-057",
+   "sec": "Cerclage timing",
+   "page": 420,
+   "q": "What is the earliest gestational age at which cervical cerclage is done according to the notes?",
+   "opts": [
+    "20 weeks",
+    "28 weeks",
+    "12 weeks",
+    "6 weeks"
+   ],
+   "ans": 2,
+   "exp": "The earliest cerclage is done at 12 weeks. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-058",
+   "sec": "Progesterone",
+   "page": 420,
+   "q": "Why is progesterone given in the cervical-incompetence protocol?",
+   "opts": [
+    "To terminate pregnancy",
+    "To treat Rh sensitization",
+    "To induce fetal anemia",
+    "To prevent preterm labor"
+   ],
+   "ans": 3,
+   "exp": "Progesterone is used to prevent preterm labor. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-059",
+   "sec": "Progesterone",
+   "page": 420,
+   "q": "What progesterone schedule is stated for preterm-labor prevention?",
+   "opts": [
+    "Start at 12–24 weeks and stop at 36 weeks",
+    "Start at 36 weeks and stop at delivery",
+    "Start only postpartum",
+    "Give only before 8 weeks"
+   ],
+   "ans": 0,
+   "exp": "Progesterone is started between 12–24 weeks and stopped at 36 weeks. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-060",
+   "sec": "Progesterone indications",
+   "page": 420,
+   "q": "Which history is an indication for progesterone in the source plan?",
+   "opts": [
+    "Only molar pregnancy",
+    "Any painless second-trimester abortion or preterm labor history",
+    "Only normal term delivery",
+    "Only Rh-negative pregnancy"
+   ],
+   "ans": 1,
+   "exp": "Progesterone is indicated with a history of painless T2 abortion or preterm labor. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-061",
+   "sec": "Progesterone indications",
+   "page": 420,
+   "q": "Which ultrasound/care finding is an indication for progesterone?",
+   "opts": [
+    "Positive DCT in the newborn",
+    "Normal fundus",
+    "Cervical length less than 2.5 cm or after a cerclage",
+    "Cervical length of 5 cm with no history"
+   ],
+   "ans": 2,
+   "exp": "Progesterone is indicated for short cervix <2.5 cm and if cerclage has been done. (Book p420)"
+  },
+  {
+   "id": "OBG-C9-062",
+   "sec": "Cervical management protocol",
+   "page": 421,
+   "q": "What treatment is given for a history of at least 2 painless second-trimester abortions?",
+   "opts": [
+    "No treatment until delivery",
+    "Anti-D only",
+    "Progesterone from 12 weeks plus cervical cerclage",
+    "Progesterone only after 36 weeks"
+   ],
+   "ans": 2,
+   "exp": "At least two painless T2 losses receive progesterone from 12 weeks plus cerclage. (Book p421)"
+  },
+  {
+   "id": "OBG-C9-063",
+   "sec": "Cervical management protocol",
+   "page": 421,
+   "q": "For one painless second-trimester loss or early preterm labor, when is the cervical ultrasound reassessment performed?",
+   "opts": [
+    "At 6 weeks",
+    "At 28 weeks only",
+    "Only after delivery",
+    "At 14 weeks"
+   ],
+   "ans": 3,
+   "exp": "The algorithm performs ultrasound at 14 weeks. (Book p421)"
+  },
+  {
+   "id": "OBG-C9-064",
+   "sec": "Cervical management protocol",
+   "page": 421,
+   "q": "After one prior painless T2 loss/early PTL, what is used if cervical length at 14 weeks is below 2.5 cm?",
+   "opts": [
+    "Cerclage plus progesterone",
+    "Aspirin only",
+    "No treatment",
+    "Methotrexate"
+   ],
+   "ans": 0,
+   "exp": "A short cervix <2.5 cm leads to cerclage plus progesterone. (Book p421)"
+  },
+  {
+   "id": "OBG-C9-065",
+   "sec": "Cervical management protocol",
+   "page": 421,
+   "q": "After one prior painless T2 loss/early PTL, what is used if cervical length at 14 weeks is at least 2.5 cm?",
+   "opts": [
+    "Delivery",
+    "Progesterone only",
+    "Cerclage without progesterone",
+    "No treatment"
+   ],
+   "ans": 1,
+   "exp": "If cervical length is ≥2.5 cm, give progesterone only. (Book p421)"
+  },
+  {
+   "id": "OBG-C9-066",
+   "sec": "Emergency cerclage & cervical management protocol",
+   "page": 421,
+   "q": "A 28-year-old at 20 weeks with two previous mid-trimester losses has membranes bulging through a cervix dilated to 3 cm. She has no contractions, no bleeding and no fever. What is the management?",
+   "opts": [
+    "Rescue or emergency cerclage after excluding infection, with antibiotics, tocolysis and corticosteroids",
+    "Immediate induction of labour, because exposed membranes cannot be saved",
+    "Discharge with bed rest and no intervention, since the cervix is already dilated",
+    "Vaginal progesterone alone, because no suture can be placed once membranes bulge"
+   ],
+   "ans": 0,
+   "exp": "Rescue cerclage is worthwhile in selected women once infection is excluded and membranes are reduced, though benefit is smaller than with elective cerclage. (Book p421)",
+   "fmt": "scenario"
+  },
+  {
+   "id": "OBG-C9-067",
+   "sec": "Cervical management protocol",
+   "page": 421,
+   "q": "What management is used for short cervix under 2.5 cm with no history of abortion?",
+   "opts": [
+    "No intervention",
+    "Anti-D",
+    "Progesterone",
+    "Cerclage in every case"
+   ],
+   "ans": 2,
+   "exp": "Short cervical length without loss history is managed with progesterone. (Book p421)"
+  },
+  {
+   "id": "OBG-C9-068",
+   "sec": "Rescue cerclage",
+   "page": 421,
+   "q": "What are prerequisites for rescue/emergency cerclage?",
+   "opts": [
+    "Cervix fully dilated with ruptured membranes",
+    "Any infection with fetal distress",
+    "Only a positive ICT",
+    "Cervix less than 4 cm dilated, intact membranes, and no infection"
+   ],
+   "ans": 3,
+   "exp": "Rescue cerclage requires <4 cm dilatation, intact/bulging membranes acceptable, and no infection. (Book p421)"
+  },
+  {
+   "id": "OBG-C9-069",
+   "sec": "Cerclage approaches",
+   "page": 421,
+   "q": "What is the most common cerclage approach?",
+   "opts": [
+    "Transvaginal",
+    "Transabdominal",
+    "Laparoscopic only",
+    "Hysteroscopic"
+   ],
+   "ans": 0,
+   "exp": "Transvaginal cerclage is the most common approach. (Book p421)"
+  },
+  {
+   "id": "OBG-C9-070",
+   "sec": "Transvaginal cerclage",
+   "page": 421,
+   "q": "When are sutures removed after transvaginal cerclage?",
+   "opts": [
+    "After completing the family only",
+    "At 37 weeks",
+    "At 12 weeks",
+    "Immediately after placement"
+   ],
+   "ans": 1,
+   "exp": "Transvaginal sutures are removed at 37 weeks, allowing vaginal delivery. (Book p421)"
+  },
+  {
+   "id": "OBG-C9-071",
+   "sec": "Transabdominal cerclage",
+   "page": 421,
+   "q": "What delivery consequence follows transabdominal cerclage?",
+   "opts": [
+    "No delivery is possible",
+    "Vaginal delivery is mandatory",
+    "Suture is left in place and delivery is by LSCS",
+    "Suture is removed at 37 weeks for vaginal delivery"
+   ],
+   "ans": 2,
+   "exp": "Transabdominal cerclage leaves suture in place and delivery is by LSCS. (Book p421)"
+  },
+  {
+   "id": "OBG-C9-072",
+   "sec": "Transabdominal cerclage",
+   "page": 421,
+   "q": "When is transabdominal cerclage used?",
+   "opts": [
+    "As first-line for all women",
+    "Only after delivery",
+    "Only for Rh sensitization",
+    "If transvaginal cerclage fails"
+   ],
+   "ans": 3,
+   "exp": "Transabdominal cerclage is done if transvaginal cerclage fails. (Book p421)"
+  },
+  {
+   "id": "OBG-C9-073",
+   "sec": "Cervical management protocol & transabdominal cerclage",
+   "page": 421,
+   "q": "All of the following are true of transabdominal cervico-isthmic cerclage EXCEPT:",
+   "opts": [
+    "It is placed vaginally and the suture is removed at 37 weeks",
+    "It is chosen when the cervix is very short, scarred or a vaginal cerclage has failed",
+    "Delivery must be by caesarean section, since the suture cannot be removed",
+    "It is usually placed before pregnancy or in early pregnancy, often laparoscopically"
+   ],
+   "ans": 0,
+   "exp": "Transabdominal cerclage is placed at the cervico-isthmic junction from above and commits the woman to caesarean delivery. (Book p421)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C9-074",
+   "sec": "McDonald cerclage",
+   "page": 422,
+   "q": "What type of suture is used in McDonald cerclage?",
+   "opts": [
+    "Continuous suture close to internal os after bladder dissection",
+    "Two crossed sutures only",
+    "Abdominal mesh",
+    "Purse string in the portio vaginalis"
+   ],
+   "ans": 3,
+   "exp": "McDonald uses a purse-string suture in portio vaginalis. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-075",
+   "sec": "McDonald cerclage",
+   "page": 422,
+   "q": "Is bladder dissection performed in McDonald cerclage?",
+   "opts": [
+    "No",
+    "Yes, always",
+    "Only during labor",
+    "Only after delivery"
+   ],
+   "ans": 0,
+   "exp": "Bladder dissection is not done in McDonald cerclage. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-076",
+   "sec": "McDonald cerclage",
+   "page": 422,
+   "q": "What suture material is listed for McDonald cerclage?",
+   "opts": [
+    "Silk only",
+    "Nonabsorbable polypropylene",
+    "Mersilene tape only",
+    "Absorbable chromic catgut"
+   ],
+   "ans": 1,
+   "exp": "McDonald cerclage uses nonabsorbable polypropylene. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-077",
+   "sec": "Shirodkar cerclage",
+   "page": 422,
+   "q": "Which feature characterizes Shirodkar cerclage?",
+   "opts": [
+    "No suture material",
+    "Only transabdominal placement",
+    "Continuous suture placed close to internal os after bladder dissection",
+    "Purse-string in portio without bladder dissection"
+   ],
+   "ans": 2,
+   "exp": "Shirodkar uses a continuous suture close to internal os and includes bladder dissection. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-078",
+   "sec": "Shirodkar cerclage",
+   "page": 422,
+   "q": "How does Shirodkar success compare with McDonald cerclage in the source table?",
+   "opts": [
+    "McDonald has a higher success rate",
+    "They are exactly identical by definition",
+    "Neither has any success",
+    "Shirodkar has a higher success rate"
+   ],
+   "ans": 3,
+   "exp": "The table lists higher success for Shirodkar and lower for McDonald. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-079",
+   "sec": "Shirodkar cerclage",
+   "page": 422,
+   "q": "What suture material is listed for Shirodkar cerclage?",
+   "opts": [
+    "Mersilene tape",
+    "Polypropylene only",
+    "Absorbable Vicryl",
+    "No suture"
+   ],
+   "ans": 0,
+   "exp": "Shirodkar cerclage uses Mersilene tape. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-080",
+   "sec": "Wurm cerclage",
+   "page": 422,
+   "q": "When is Wurm cerclage used?",
+   "opts": [
+    "For Rh sensitization",
+    "Emergency cerclage when the cervix is dilated",
+    "Routine prophylaxis in all pregnancies",
+    "After delivery only"
+   ],
+   "ans": 1,
+   "exp": "Wurm is the emergency cerclage used when the cervix is dilated. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-081",
+   "sec": "Wurm cerclage",
+   "page": 422,
+   "q": "How are the sutures placed in Wurm cerclage?",
+   "opts": [
+    "One suture around the uterine fundus",
+    "No suture is used",
+    "Two sutures, one anteroposterior and one transverse",
+    "One purse string only"
+   ],
+   "ans": 2,
+   "exp": "Wurm uses two sutures: in AP and transverse directions. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-082",
+   "sec": "McDonald, Shirodkar & transabdominal cerclage",
+   "page": 422,
+   "q": "Match the cerclage with its technique — 1) McDonald 2) Shirodkar 3) Transabdominal … A) A purse-string suture at the cervicovaginal junction placed without any dissection B) A submucosal tape at the level of the internal os placed after reflecting the bladder C) A suture placed at the cervico-isthmic junction from above, usually by laparoscopy",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "McDonald is the simple purse-string, Shirodkar needs bladder reflection to reach the internal os, and the abdominal route is reserved for failed or impossible vaginal cerclage. (Book p422)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C9-083",
+   "sec": "Cerclage timing",
+   "page": 422,
+   "q": "What gestational window is given for cerclage suture application?",
+   "opts": [
+    "Before 6 weeks only",
+    "After 37 weeks only",
+    "Only in the puerperium",
+    "14–24 weeks; RCOG allows up to 28 weeks"
+   ],
+   "ans": 3,
+   "exp": "Application is 14–24 weeks, with RCOG guidance up to 28 weeks. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-084",
+   "sec": "Cerclage removal",
+   "page": 422,
+   "q": "Why may a vaginal cerclage be removed earlier than 37 weeks?",
+   "opts": [
+    "Preterm labor or premature rupture of membranes",
+    "Normal fetal movement",
+    "Mild nausea",
+    "Rh negativity"
+   ],
+   "ans": 0,
+   "exp": "Early removal is needed for preterm labor or PROM. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-085",
+   "sec": "Cerclage delivery",
+   "page": 422,
+   "q": "What mode of delivery follows vaginal cerclage after its normal removal?",
+   "opts": [
+    "Hysterectomy",
+    "Vaginal delivery",
+    "Mandatory LSCS",
+    "No delivery"
+   ],
+   "ans": 1,
+   "exp": "After vaginal cerclage removal at 37 weeks, mode of delivery is vaginal. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-086",
+   "sec": "Abdominal cerclage",
+   "page": 422,
+   "q": "What is the indication for abdominal cerclage?",
+   "opts": [
+    "Diet-controlled GDM",
+    "Rh-negative status alone",
+    "Failed vaginal cerclage",
+    "First painless loss with normal cervix"
+   ],
+   "ans": 2,
+   "exp": "Abdominal cerclage is indicated if vaginal cerclage fails. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-087",
+   "sec": "Abdominal cerclage",
+   "page": 422,
+   "q": "Which technique for abdominal cerclage can be done in both pregnant and nonpregnant women?",
+   "opts": [
+    "LASH procedure",
+    "Cervical punch biopsy",
+    "Manual vacuum aspiration",
+    "Laparoscopic placement"
+   ],
+   "ans": 3,
+   "exp": "Laparoscopic abdominal cerclage can be done in pregnant and nonpregnant women. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-088",
+   "sec": "Abdominal cerclage",
+   "page": 422,
+   "q": "Which obsolete abdominal cerclage technique is done in nonpregnant women and requires avoiding pregnancy for 3 months after surgery?",
+   "opts": [
+    "LASH/LASH surgery",
+    "McDonald cerclage",
+    "Shirodkar cerclage",
+    "Wurm cerclage"
+   ],
+   "ans": 0,
+   "exp": "LASH/LASH surgery is obsolete, removes part of cervix before suture, and requires 3-month pregnancy avoidance. (Book p422)"
+  },
+  {
+   "id": "OBG-C9-089",
+   "sec": "Cerclage timing & adjuncts",
+   "page": 422,
+   "q": "Fill up: Elective cerclage is typically performed at ______ weeks of gestation, and the suture is removed at ______ weeks.",
+   "opts": [
+    "12-14; 37",
+    "6-8; 34",
+    "20-22; 38",
+    "16-18; 40"
+   ],
+   "ans": 0,
+   "exp": "Elective cerclage is placed once viability and anatomy are confirmed around 12-14 weeks and removed near term before labour begins. (Book p422)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C9-090",
+   "sec": "Cerclage adjuncts",
+   "page": 423,
+   "q": "When is a tocolytic indicated with cerclage in the source notes?",
+   "opts": [
+    "USG cervical length below 25 mm and emergency cerclage only",
+    "Every history-based cerclage",
+    "Any normal pregnancy",
+    "After delivery only"
+   ],
+   "ans": 0,
+   "exp": "Tocolytic use is for cervical length <25 mm on USG and emergency cerclage only. (Book p423)"
+  },
+  {
+   "id": "OBG-C9-091",
+   "sec": "Cerclage adjuncts",
+   "page": 423,
+   "q": "When are antibiotics used with cervical cerclage?",
+   "opts": [
+    "Only after vaginal delivery",
+    "Emergency cerclage with bulging membranes",
+    "All routine cerclages",
+    "No cerclage ever"
+   ],
+   "ans": 1,
+   "exp": "Antibiotics are used in emergency cerclage with bulging membranes, not currently recommended in other cases. (Book p423)"
+  },
+  {
+   "id": "OBG-C9-092",
+   "sec": "Cerclage contraindications",
+   "page": 423,
+   "q": "Which clinical status is a contraindication to cervical cerclage?",
+   "opts": [
+    "Gestation at 14 weeks",
+    "Intact membranes without infection",
+    "Uterine contractions in preterm labor",
+    "Short cervix with a painless-loss history"
+   ],
+   "ans": 2,
+   "exp": "Uterine contractions/preterm labor are a cerclage contraindication. (Book p423)"
+  },
+  {
+   "id": "OBG-C9-093",
+   "sec": "Cerclage contraindications",
+   "page": 423,
+   "q": "Which fetal conditions are contraindications to cervical cerclage?",
+   "opts": [
+    "Normal fetal movement only",
+    "Fetal Rh-negative status",
+    "Normal TIFFA",
+    "Fetal distress or fetal anomaly"
+   ],
+   "ans": 3,
+   "exp": "Fetal distress and fetal anomaly are contraindications. (Book p423)"
+  },
+  {
+   "id": "OBG-C9-094",
+   "sec": "Cerclage contraindications",
+   "page": 423,
+   "q": "Which maternal/obstetric conditions are contraindications to cervical cerclage?",
+   "opts": [
+    "Ruptured membranes, bleeding per vaginum, or current pelvic infection",
+    "Mild nausea, normal discharge, and Rh negativity",
+    "Only a prior vaginal birth",
+    "Only a normal pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Ruptured membranes, P/V bleeding, and current pelvic infection are contraindications. (Book p423)"
+  },
+  {
+   "id": "OBG-C9-095",
+   "sec": "Cerclage contraindications",
+   "page": 423,
+   "q": "What is the relative contraindication to cervical cerclage?",
+   "opts": [
+    "No infection",
+    "Placenta previa",
+    "Cervical length below 2.5 cm",
+    "History of painless T2 loss"
+   ],
+   "ans": 1,
+   "exp": "Placenta previa is the relative contraindication. (Book p423)"
+  },
+  {
+   "id": "OBG-C9-096",
+   "sec": "Cerclage contraindications",
+   "page": 423,
+   "q": "All of the following contraindicate cervical cerclage EXCEPT:",
+   "opts": [
+    "A previous uncomplicated term delivery with no history of pregnancy loss",
+    "Active vaginal bleeding or ruptured membranes",
+    "Chorioamnionitis or evidence of intrauterine infection",
+    "Lethal fetal anomaly or intrauterine fetal death"
+   ],
+   "ans": 0,
+   "exp": "Cerclage is contraindicated by bleeding, rupture, infection and fetal death; a woman with no history suggesting weakness simply does not need one. (Book p423)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C9-097",
+   "sec": "APS definition",
+   "page": 424,
+   "q": "What is another name for antiphospholipid antibody syndrome?",
+   "opts": [
+    "Anti-D syndrome",
+    "Anti-phospholipid syndrome",
+    "Antithyroid antibody syndrome",
+    "Acute fatty liver syndrome"
+   ],
+   "ans": 1,
+   "exp": "APLA syndrome is also called antiphospholipid syndrome. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-098",
+   "sec": "APS pathology",
+   "page": 424,
+   "q": "What is the key pathologic effect of acquired antiphospholipid antibodies?",
+   "opts": [
+    "Thyroid enlargement",
+    "Bile-acid accumulation",
+    "Thrombosis",
+    "Fetal hyperinsulinemia"
+   ],
+   "ans": 2,
+   "exp": "Acquired antibodies against phospholipids cause thrombosis. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-099",
+   "sec": "APS antibodies",
+   "page": 424,
+   "q": "Which antibody is included among APS antibodies?",
+   "opts": [
+    "Anti-thyroglobulin",
+    "Anti-D only",
+    "Anti-TSH receptor only",
+    "Lupus anticoagulant"
+   ],
+   "ans": 3,
+   "exp": "Lupus anticoagulant, anticardiolipin, and anti-beta2 glycoprotein are listed APS antibodies. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-100",
+   "sec": "APS presentations",
+   "page": 424,
+   "q": "Which arterial events are listed presentations of APS?",
+   "opts": [
+    "Cerebral infarct and myocardial infarction",
+    "Only deep-vein thrombosis",
+    "Only ectopic pregnancy",
+    "Only preterm labor"
+   ],
+   "ans": 0,
+   "exp": "APS can present as arterial thrombosis, including cerebral or myocardial infarction. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-101",
+   "sec": "APS presentations",
+   "page": 424,
+   "q": "What placental complication underlies abortion, IUGR, and preterm labor in APS?",
+   "opts": [
+    "Maternal TSH transfer",
+    "Placental thrombosis causing uteroplacental insufficiency",
+    "Placental overperfusion",
+    "Fetal hyperinsulinemia"
+   ],
+   "ans": 1,
+   "exp": "Placental thrombosis causes abortion, UPI with IUGR, and preterm labor. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-102",
+   "sec": "APS diagnosis",
+   "page": 424,
+   "q": "What combination is required to diagnose APS using modified Sapporo/Sydney criteria?",
+   "opts": [
+    "One positive antibody test only",
+    "One ultrasound alone",
+    "At least one clinical criterion and one laboratory criterion",
+    "Two clinical criteria only"
+   ],
+   "ans": 2,
+   "exp": "APS diagnosis requires one clinical plus one laboratory criterion. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-103",
+   "sec": "APS clinical criteria",
+   "page": 424,
+   "q": "Which thrombotic history fulfills a clinical APS criterion?",
+   "opts": [
+    "Physiological edema only",
+    "Mild anemia only",
+    "Normal pregnancy",
+    "Arterial or venous thrombosis"
+   ],
+   "ans": 3,
+   "exp": "History of arterial or venous thrombosis is a clinical APS criterion. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-104",
+   "sec": "APS clinical criteria",
+   "page": 424,
+   "q": "What recurrent early-loss history fulfills a clinical APS criterion?",
+   "opts": [
+    "At least 3 first-trimester abortions before 10 weeks",
+    "One miscarriage after 20 weeks",
+    "Any threatened abortion",
+    "Only ectopic pregnancy"
+   ],
+   "ans": 0,
+   "exp": "A history of at least 3 first-trimester abortions before 10 weeks is a clinical criterion. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-105",
+   "sec": "APS clinical criteria",
+   "page": 424,
+   "q": "What later fetal-loss history fulfills a clinical APS criterion?",
+   "opts": [
+    "A loss after 40 weeks only",
+    "At least one fetal loss after 10 weeks",
+    "One biochemical pregnancy at 4 weeks",
+    "Any live birth"
+   ],
+   "ans": 1,
+   "exp": "One or more fetal losses beyond 10 weeks is a clinical APS criterion. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-106",
+   "sec": "APS clinical criteria",
+   "page": 424,
+   "q": "What preterm-delivery history fulfills a clinical APS criterion?",
+   "opts": [
+    "Only a term delivery",
+    "Labor due to PROM without complications only",
+    "At least one preterm labor before 32 weeks due to UPI or PIH",
+    "Any preterm labor after 37 weeks"
+   ],
+   "ans": 2,
+   "exp": "A preterm birth before 32 weeks associated with UPI/PIH is a clinical criterion. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-107",
+   "sec": "APS definition & clinical criteria",
+   "page": 424,
+   "q": "Fill up: Antiphospholipid antibody syndrome is diagnosed when a clinical criterion is combined with persistently positive ______, ______ or ______.",
+   "opts": [
+    "lupus anticoagulant; anticardiolipin antibody; anti-beta2 glycoprotein I antibody",
+    "antinuclear antibody; anti-dsDNA; anti-Sm antibody",
+    "rheumatoid factor; antinuclear antibody; anti-CCP antibody",
+    "lupus anticoagulant; antinuclear antibody; anti-dsDNA"
+   ],
+   "ans": 0,
+   "exp": "The three criteria antibodies are lupus anticoagulant, anticardiolipin and anti-beta2 glycoprotein I, each needing confirmation 12 weeks later. (Book p424)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C9-108",
+   "sec": "APS laboratory criteria",
+   "page": 424,
+   "q": "How must anticardiolipin antibody positivity be documented for APS diagnosis?",
+   "opts": [
+    "One positive result on one day only",
+    "IgA result after delivery only",
+    "A urine dipstick result",
+    "IgG or IgM positive on two occasions 12 weeks apart"
+   ],
+   "ans": 3,
+   "exp": "Anticardiolipin IgG/IgM must be positive on two tests 12 weeks apart. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-109",
+   "sec": "APS laboratory criteria",
+   "page": 424,
+   "q": "How must anti-beta2-glycoprotein antibody positivity be documented for APS diagnosis?",
+   "opts": [
+    "IgG or IgM positive on two occasions 12 weeks apart",
+    "One positive IgA test only",
+    "A test only at delivery",
+    "An ultrasound finding"
+   ],
+   "ans": 0,
+   "exp": "Anti-beta2-glycoprotein IgG/IgM needs two positives 12 weeks apart. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-110",
+   "sec": "Lupus anticoagulant",
+   "page": 424,
+   "q": "Why can lupus anticoagulant not be directly detected by ELISA?",
+   "opts": [
+    "It is a fetal hormone",
+    "It has anticoagulant effect in vitro but is thrombotic in vivo",
+    "It is not an antibody",
+    "It is produced only after delivery"
+   ],
+   "ans": 1,
+   "exp": "Lupus anticoagulant cannot be directly detected by ELISA; it is anticoagulant in vitro but thrombotic in vivo. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-111",
+   "sec": "Lupus anticoagulant",
+   "page": 424,
+   "q": "Which laboratory pattern helps indirectly detect lupus anticoagulant?",
+   "opts": [
+    "A prolonged dilute Russell viper venom time, kaolin clotting time and isolated raised aPTT",
+    "A raised glycated haemoglobin, which reflects the thrombotic tendency of the disease",
+    "A high serum bile acid concentration, which prolongs the phospholipid clotting tests",
+    "A shortened activated partial thromboplastin time with a normal prothrombin time"
+   ],
+   "ans": 0,
+   "exp": "Lupus anticoagulant is detected functionally: a prolonged phospholipid-dependent clotting time that does not correct on mixing. (Book p424)"
+  },
+  {
+   "id": "OBG-C9-112",
+   "sec": "APS laboratory criteria & management",
+   "page": 424,
+   "q": "Match the antiphospholipid test with how it is performed — 1) Lupus anticoagulant 2) Anticardiolipin antibody 3) Anti-beta2 glycoprotein I … A) A phospholipid-dependent clotting test such as the dilute Russell viper venom time B) IgG or IgM measured by ELISA, medium or high titre, above the 99th centile C) IgG or IgM measured by ELISA, above the 99th centile, confirmed 12 weeks later",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Lupus anticoagulant is a functional clotting assay, while anticardiolipin and anti-beta2 glycoprotein I are ELISA-based and all need repeat confirmation. (Book p424)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C9-113",
+   "sec": "APS management",
+   "page": 425,
+   "q": "What treatment is recommended in APS with a history of thrombosis or abortion?",
+   "opts": [
+    "Warfarin throughout pregnancy",
+    "No anticoagulation",
+    "Heparin plus aspirin",
+    "Aspirin alone only"
+   ],
+   "ans": 2,
+   "exp": "APS with thrombosis or abortion history is managed with heparin plus aspirin. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-114",
+   "sec": "APS management",
+   "page": 425,
+   "q": "What treatment is recommended in APS with a history of preterm labor due to uteroplacental insufficiency?",
+   "opts": [
+    "Heparin plus warfarin",
+    "No treatment",
+    "Magnesium sulfate alone",
+    "Aspirin alone"
+   ],
+   "ans": 3,
+   "exp": "APS with prior PTL due to UPI receives aspirin alone in the source plan. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-115",
+   "sec": "APS management",
+   "page": 425,
+   "q": "When is aspirin started in pregnancy for APS according to the notes?",
+   "opts": [
+    "As soon as the pregnancy is diagnosed by a positive urine pregnancy test",
+    "After delivery, once the placenta has been examined",
+    "Only from 36 completed weeks of gestation onwards",
+    "Before menarche, since the antibody persists for life"
+   ],
+   "ans": 0,
+   "exp": "Low-dose aspirin is started as soon as pregnancy is confirmed in women with antiphospholipid syndrome. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-116",
+   "sec": "APS management",
+   "page": 425,
+   "q": "When is heparin started for APS in pregnancy?",
+   "opts": [
+    "Never in pregnancy",
+    "Once intrauterine pregnancy is confirmed",
+    "At positive UPT before localization",
+    "Only after delivery"
+   ],
+   "ans": 1,
+   "exp": "Heparin begins once intrauterine pregnancy is confirmed. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-117",
+   "sec": "APS management",
+   "page": 425,
+   "q": "When are anticoagulants stopped in APS labor management?",
+   "opts": [
+    "At 20 weeks",
+    "They are never stopped",
+    "Intrapartum",
+    "At 12 weeks"
+   ],
+   "ans": 2,
+   "exp": "Anticoagulants are stopped intrapartum. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-118",
+   "sec": "APS postpartum",
+   "page": 425,
+   "q": "When are anticoagulants resumed/continued after vaginal delivery in APS?",
+   "opts": [
+    "Immediately before placental delivery",
+    "After 6 weeks only",
+    "Never after delivery",
+    "6 hours postpartum"
+   ],
+   "ans": 3,
+   "exp": "Anticoagulation is continued postpartum beginning 6 hours after vaginal delivery. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-119",
+   "sec": "APS postpartum",
+   "page": 425,
+   "q": "When are anticoagulants resumed/continued after LSCS in APS?",
+   "opts": [
+    "12 hours postpartum",
+    "6 hours postpartum",
+    "Immediately at skin incision",
+    "Never after cesarean"
+   ],
+   "ans": 0,
+   "exp": "Anticoagulation is continued 12 hours after LSCS. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-120",
+   "sec": "APS outside pregnancy",
+   "page": 425,
+   "q": "What is the drug of choice for a nonpregnant woman with APS and history of thrombosis?",
+   "opts": [
+    "Metformin",
+    "Warfarin",
+    "Heparin plus aspirin indefinitely in every case",
+    "Methotrexate"
+   ],
+   "ans": 1,
+   "exp": "Warfarin is the drug of choice for nonpregnant APS with thrombosis history. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-121",
+   "sec": "APS postpartum & APS outside pregnancy",
+   "page": 425,
+   "q": "Which of the following statements about antiphospholipid syndrome in pregnancy is TRUE?",
+   "opts": [
+    "Thrombotic risk is highest in the puerperium, so thromboprophylaxis is continued for six weeks after delivery",
+    "Risk returns to normal the moment the placenta is delivered, so prophylaxis can stop at delivery",
+    "Low-molecular-weight heparin must be replaced by warfarin throughout the first trimester",
+    "Low-dose aspirin and heparin are contraindicated in pregnancy because of the risk of fetal bleeding"
+   ],
+   "ans": 0,
+   "exp": "Heparin does not cross the placenta and with low-dose aspirin is the standard treatment; postpartum thromboprophylaxis is essential. (Book p425)",
+   "fmt": "truefalse"
+  },
+  {
+   "id": "OBG-C9-122",
+   "sec": "Threatened abortion",
+   "page": 425,
+   "q": "What defines threatened abortion?",
+   "opts": [
+    "The internal os is open with no chance of continuation",
+    "Septic foci are always present",
+    "The abortion process has started but no products of conception have been expelled, and it is reversible",
+    "All products of conception have been expelled"
+   ],
+   "ans": 2,
+   "exp": "Threatened abortion is a reversible process with no POC expelled. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-123",
+   "sec": "Threatened abortion",
+   "page": 425,
+   "q": "What clinical and cervical findings are typical of threatened abortion?",
+   "opts": [
+    "Heavy bleeding with an open os and expelled POC",
+    "No bleeding with an open os",
+    "Purulent discharge only",
+    "Spotting P/V with or without pain and a closed internal os"
+   ],
+   "ans": 3,
+   "exp": "Threatened abortion has spotting, possible pain, and a closed os. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-124",
+   "sec": "Threatened abortion",
+   "page": 425,
+   "q": "What ultrasound finding supports threatened abortion?",
+   "opts": [
+    "Cardiac activity present",
+    "Absent cardiac activity",
+    "Empty uterus",
+    "MSD ≥25 mm with no pole"
+   ],
+   "ans": 0,
+   "exp": "Cardiac activity is present in threatened abortion. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-125",
+   "sec": "Threatened abortion management",
+   "page": 425,
+   "q": "What management is listed for threatened abortion?",
+   "opts": [
+    "Immediate cerclage in all cases",
+    "Reassurance and advise avoiding intercourse",
+    "Immediate suction evacuation in all cases",
+    "Antibiotics only"
+   ],
+   "ans": 1,
+   "exp": "Threatened abortion is managed with reassurance and advice to avoid intercourse. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-126",
+   "sec": "Threatened abortion management",
+   "page": 425,
+   "q": "What is the stated role of progesterone and hCG in threatened abortion?",
+   "opts": [
+    "Only hCG has definite benefit",
+    "Both are contraindicated because of sepsis",
+    "Progesterone benefit is ill-defined; hCG has no benefit",
+    "Both are always curative"
+   ],
+   "ans": 2,
+   "exp": "The notes call progesterone benefit ill-defined and state hCG has no benefit. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-127",
+   "sec": "Inevitable abortion",
+   "page": 425,
+   "q": "What defines inevitable abortion?",
+   "opts": [
+    "POC is completely expelled and symptoms have resolved",
+    "A closed os with fetal cardiac activity",
+    "Septic foci only",
+    "The abortion process has started with no POC expelled and is irreversible"
+   ],
+   "ans": 3,
+   "exp": "Inevitable abortion is irreversible though POC has not yet been expelled. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-128",
+   "sec": "Inevitable abortion",
+   "page": 425,
+   "q": "What clinical/cervical findings distinguish inevitable abortion?",
+   "opts": [
+    "Bleeding and abdominal pain with an open internal os",
+    "Spotting with a closed os",
+    "No symptoms and closed os",
+    "Purulent discharge with empty uterus only"
+   ],
+   "ans": 0,
+   "exp": "Inevitable abortion has bleeding, abdominal pain, and an open os. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-129",
+   "sec": "Inevitable abortion",
+   "page": 425,
+   "q": "What ultrasound and management combination fits inevitable abortion?",
+   "opts": [
+    "No scan; no treatment",
+    "Absent cardiac activity; expedite by medical abortion or suction evacuation",
+    "Cardiac activity present; reassurance only",
+    "Empty uterus; anti-D only"
+   ],
+   "ans": 1,
+   "exp": "Inevitable abortion shows absent cardiac activity and is expedited medically or by suction evacuation. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-130",
+   "sec": "Threatened abortion & inevitable abortion",
+   "page": 425,
+   "q": "A 26-year-old at 9 weeks has light vaginal bleeding and a closed cervical os. Ultrasound shows a live embryo with a small subchorionic haematoma. What is the appropriate management?",
+   "opts": [
+    "Reassurance and avoidance of strenuous activity, since no drug or bed rest has been shown to change the outcome in most cases",
+    "Immediate evacuation of the uterus to prevent heavy haemorrhage",
+    "Urgent cervical cerclage, since first-trimester bleeding indicates cervical incompetence",
+    "High-dose intramuscular progesterone continued throughout the pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Most threatened abortions continue; intervention is reserved for inevitable, incomplete or missed abortion and for heavy bleeding. (Book p425)",
+   "fmt": "scenario"
+  },
+  {
+   "id": "OBG-C9-131",
+   "sec": "Incomplete abortion",
+   "page": 425,
+   "q": "What defines incomplete abortion?",
+   "opts": [
+    "No products have detached",
+    "A viable fetal heart with closed os",
+    "Abortion has begun and products of conception are incompletely expelled",
+    "All products are expelled with no current bleeding"
+   ],
+   "ans": 2,
+   "exp": "Incomplete abortion means POC have been incompletely expelled. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-132",
+   "sec": "Incomplete abortion",
+   "page": 425,
+   "q": "Which constellation is typical of incomplete abortion?",
+   "opts": [
+    "No symptoms, closed os, empty uterus",
+    "Only spotting with fetal cardiac activity",
+    "Painless T2 loss with no dilatation",
+    "Bleeding and abdominal pain with history of expelled POC, open os, and POC coming out"
+   ],
+   "ans": 3,
+   "exp": "Incomplete abortion includes bleeding/pain, prior expulsion, open os, and POC coming out. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-133",
+   "sec": "Incomplete abortion",
+   "page": 425,
+   "q": "What ultrasound and management approach fits incomplete abortion?",
+   "opts": [
+    "Incomplete POC; maintain vitals if shock and expedite abortion",
+    "Cardiac activity; reassure only",
+    "Empty uterus; no monitoring",
+    "MCA Doppler; intrauterine transfusion"
+   ],
+   "ans": 0,
+   "exp": "USG shows incomplete POC; stabilize shock if present and expedite abortion. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-134",
+   "sec": "Complete abortion",
+   "page": 425,
+   "q": "What defines complete abortion?",
+   "opts": [
+    "Sepsis is always present",
+    "Entire abortion completes spontaneously after all POC are expelled",
+    "No POC have been expelled",
+    "The os is open with retained POC"
+   ],
+   "ans": 1,
+   "exp": "Complete abortion is spontaneous completion after all POC are expelled. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-135",
+   "sec": "Complete abortion",
+   "page": 425,
+   "q": "Which clinical/USG pattern supports complete abortion?",
+   "opts": [
+    "No history of POC expulsion and retained tissue",
+    "Fetal cardiac activity present",
+    "Past bleeding and POC expulsion with no current bleeding, closed os, and empty uterus",
+    "Current severe bleeding with open os"
+   ],
+   "ans": 2,
+   "exp": "Complete abortion features past bleeding/POC expulsion, no current bleeding, closed os, and empty uterus. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-136",
+   "sec": "Complete abortion management",
+   "page": 425,
+   "q": "What management is listed after complete abortion?",
+   "opts": [
+    "Immediate cerclage",
+    "Immediate laparotomy",
+    "No Rh-related consideration",
+    "Reassurance and anti-D if Rh-positive exposure requires it"
+   ],
+   "ans": 3,
+   "exp": "Complete abortion is managed with reassurance and anti-D if Rh positive. (Book p425)"
+  },
+  {
+   "id": "OBG-C9-137",
+   "sec": "Missed abortion",
+   "page": 426,
+   "q": "How is missed abortion primarily diagnosed?",
+   "opts": [
+    "By pelvic pain alone",
+    "By aPTT alone",
+    "By urine culture only",
+    "By ultrasound"
+   ],
+   "ans": 3,
+   "exp": "Missed abortion is ultrasound based. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-138",
+   "sec": "Missed abortion",
+   "page": 426,
+   "q": "What symptom profile is typical of missed abortion?",
+   "opts": [
+    "Usually no symptoms, possibly brown discharge",
+    "Heavy fever and purulent discharge in every case",
+    "Painless palmar pruritus",
+    "Shoulder-tip pain only"
+   ],
+   "ans": 0,
+   "exp": "Missed abortion often has no symptoms but may have brown discharge. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-139",
+   "sec": "Missed abortion",
+   "page": 426,
+   "q": "How does uterine size compare with period of gestation in missed abortion?",
+   "opts": [
+    "Unrelated to POG",
+    "Equal to or less than POG",
+    "Always greater than POG",
+    "Exactly double POG"
+   ],
+   "ans": 1,
+   "exp": "The table shows uterine height equal to or less than period of gestation. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-140",
+   "sec": "Missed abortion",
+   "page": 426,
+   "q": "What is the internal-os finding in missed abortion?",
+   "opts": [
+    "Fully dilated",
+    "Absent cervix",
+    "Closed",
+    "Open with POC coming out"
+   ],
+   "ans": 2,
+   "exp": "The internal os is closed in missed abortion. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-141",
+   "sec": "Incomplete abortion & missed abortion",
+   "page": 426,
+   "q": "Match the type of abortion with its findings — 1) Threatened 2) Inevitable 3) Incomplete … A) Bleeding and pain with a dilated os and membranes that may rupture B) Partial expulsion of products with an open os and heavy bleeding C) Bleeding with a closed os and a live fetus, so the pregnancy may continue",
+   "opts": [
+    "1-C, 2-A, 3-B",
+    "1-A, 2-B, 3-C",
+    "1-B, 2-C, 3-A",
+    "1-C, 2-B, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Threatened abortion has a closed os and a live fetus, inevitable abortion has a dilated os, and incomplete abortion has retained products. (Book p426)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C9-142",
+   "sec": "Missed abortion ultrasound",
+   "page": 426,
+   "q": "Which mean-sac-diameter finding confirms missed abortion?",
+   "opts": [
+    "MSD 10 mm with fetal pole",
+    "Any gestational sac at 5 mm",
+    "No gestational sac at all",
+    "MSD at least 25 mm with no fetal pole"
+   ],
+   "ans": 3,
+   "exp": "MSD ≥25 mm without fetal pole is a diagnostic ultrasound criterion. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-143",
+   "sec": "Missed abortion ultrasound",
+   "page": 426,
+   "q": "Which CRL finding confirms missed abortion?",
+   "opts": [
+    "CRL at least 7 mm with absent cardiac activity",
+    "CRL 2 mm with present cardiac activity",
+    "CRL below 5 mm with normal heart",
+    "Any CRL after 20 weeks"
+   ],
+   "ans": 0,
+   "exp": "CRL ≥7 mm with absent cardiac activity is diagnostic. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-144",
+   "sec": "Missed abortion ultrasound",
+   "page": 426,
+   "q": "What serial cardiac finding can diagnose missed abortion?",
+   "opts": [
+    "Only fetal tachycardia",
+    "Cardiac activity previously present but now absent",
+    "Persistently present cardiac activity",
+    "No scan required"
+   ],
+   "ans": 1,
+   "exp": "Previously documented cardiac activity that is absent now supports missed abortion. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-145",
+   "sec": "Missed abortion management",
+   "page": 426,
+   "q": "What management options are listed for missed abortion?",
+   "opts": [
+    "Cerclage only",
+    "MCA Doppler only",
+    "Medical abortion or suction evacuation",
+    "Only reassurance"
+   ],
+   "ans": 2,
+   "exp": "Missed abortion can be managed with medical abortion or suction evacuation. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-146",
+   "sec": "Shock and abortion",
+   "page": 426,
+   "q": "In a woman with abortion and shock features, what is the most common cause listed?",
+   "opts": [
+    "Threatened abortion only",
+    "Complete abortion only",
+    "Cervical incompetence only",
+    "Septic abortion, followed by incomplete abortion"
+   ],
+   "ans": 3,
+   "exp": "Septic abortion is the most common cause of shock in abortion, followed by incomplete abortion. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-147",
+   "sec": "Shock and abortion",
+   "page": 426,
+   "q": "What association should be considered with abortion history and raised aPTT?",
+   "opts": [
+    "APLA syndrome",
+    "GDM",
+    "ICP",
+    "Thyroid storm"
+   ],
+   "ans": 0,
+   "exp": "Abortion history plus raised aPTT suggests APLA syndrome. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-148",
+   "sec": "Septic abortion",
+   "page": 426,
+   "q": "What defines septic abortion?",
+   "opts": [
+    "Every missed abortion",
+    "Septic foci in any abortion",
+    "Any open internal os",
+    "Any brown discharge"
+   ],
+   "ans": 1,
+   "exp": "Septic abortion is septic foci in any abortion. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-149",
+   "sec": "Septic abortion",
+   "page": 426,
+   "q": "Which symptoms are characteristic of septic abortion?",
+   "opts": [
+    "Painless bleeding alone, with no systemic upset whatsoever",
+    "No systemic symptoms ever, because the infection stays localised",
+    "Fever and chills, abdominal pain, vomiting and a purulent vaginal discharge",
+    "Palmar pruritus, which is the only symptom that reliably appears"
+   ],
+   "ans": 2,
+   "exp": "Septic abortion is a spreading infection: fever and chills, abdominal pain, gastrointestinal upset and purulent discharge. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-150",
+   "sec": "Septic abortion",
+   "page": 426,
+   "q": "What severe presentation may occur in septic abortion?",
+   "opts": [
+    "Only fetal macrosomia",
+    "Only polyhydramnios",
+    "Only hypertension",
+    "Shock/toxic shock syndrome"
+   ],
+   "ans": 3,
+   "exp": "Septic abortion may present as shock/toxic shock syndrome. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-151",
+   "sec": "Missed abortion ultrasound criteria",
+   "page": 426,
+   "q": "Fill up: Missed abortion is diagnosed when the mean sac diameter is above ______ mm with no embryo, or the crown-rump length is above ______ mm with no heartbeat.",
+   "opts": [
+    "25; 7",
+    "16; 4",
+    "20; 10",
+    "25; 4"
+   ],
+   "ans": 0,
+   "exp": "These thresholds prevent the tragic error of diagnosing pregnancy loss from a scan that is simply too early to show the embryo. (Book p426)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C9-152",
+   "sec": "Septic abortion grading",
+   "page": 426,
+   "q": "What is grade 1 septic abortion?",
+   "opts": [
+    "Infection limited to uterus",
+    "Spread to pelvic organs",
+    "Peritonitis/shock/renal failure",
+    "No infection"
+   ],
+   "ans": 0,
+   "exp": "Grade 1 infection is limited to the uterus. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-153",
+   "sec": "Septic abortion grading",
+   "page": 426,
+   "q": "What is grade 2 septic abortion?",
+   "opts": [
+    "Renal failure only",
+    "Infection spread to pelvic organs",
+    "Infection limited to uterus",
+    "Peritonitis only"
+   ],
+   "ans": 1,
+   "exp": "Grade 2 infection spreads to pelvic organs. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-154",
+   "sec": "Septic abortion grading",
+   "page": 426,
+   "q": "What is grade 3 septic abortion?",
+   "opts": [
+    "Mild spotting only",
+    "No systemic involvement",
+    "Peritonitis, shock, or renal failure",
+    "Infection limited to uterus"
+   ],
+   "ans": 2,
+   "exp": "Grade 3 septic abortion includes peritonitis, shock, or renal failure. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-155",
+   "sec": "Septic abortion management",
+   "page": 426,
+   "q": "What antibiotic regimen is listed for septic abortion?",
+   "opts": [
+    "Penicillin alone",
+    "Methotrexate plus folinic acid",
+    "Anti-D plus aspirin",
+    "Ampicillin plus gentamicin plus metronidazole"
+   ],
+   "ans": 3,
+   "exp": "The recommended regimen is ampicillin, gentamicin, and metronidazole. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-156",
+   "sec": "Septic abortion",
+   "page": 426,
+   "q": "Which organism is specifically noted never to cause toxic shock syndrome?",
+   "opts": [
+    "E. coli",
+    "Staphylococcus aureus",
+    "Streptococcus pyogenes",
+    "Clostridium species"
+   ],
+   "ans": 0,
+   "exp": "The source note says TSS is never caused by E. coli. (Book p426)"
+  },
+  {
+   "id": "OBG-C9-157",
+   "sec": "Septic abortion grading",
+   "page": 426,
+   "q": "All of the following describe grade III septic abortion EXCEPT:",
+   "opts": [
+    "Infection confined to the uterine cavity with no systemic signs",
+    "Peritonitis with infection spreading beyond the pelvis",
+    "Septic shock with hypotension and oliguria",
+    "Endotoxic shock with renal cortical necrosis or disseminated intravascular coagulation"
+   ],
+   "ans": 0,
+   "exp": "Grade I infection is confined to the uterus, grade II spreads to the pelvis and parametrium, and grade III means peritonitis, shock or organ failure. (Book p426)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C9-158",
+   "sec": "MTP Act 2021",
+   "page": 427,
+   "q": "Under the stated MTP Act 2021 amendment, up to what gestation is MTP allowed for congenital anomalies?",
+   "opts": [
+    "24 weeks",
+    "20 weeks",
+    "12 weeks",
+    "No upper limit in every case"
+   ],
+   "ans": 0,
+   "exp": "The stated amendment permits MTP for congenital anomalies up to 24 weeks. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-159",
+   "sec": "MTP Act 2021",
+   "page": 427,
+   "q": "Under the stated MTP Act 2021 amendment, up to what gestation is MTP allowed for contraceptive failure?",
+   "opts": [
+    "No gestational limit",
+    "20 weeks",
+    "24 weeks",
+    "28 weeks"
+   ],
+   "ans": 1,
+   "exp": "MTP for contraceptive failure is listed up to 20 weeks. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-160",
+   "sec": "MTP Act 2021",
+   "page": 427,
+   "q": "What is required for MTP in severe congenital anomalies with no upper gestational limit?",
+   "opts": [
+    "One doctor only regardless of age",
+    "A positive ICT",
+    "Approval by a medical board",
+    "Consent of husband only"
+   ],
+   "ans": 2,
+   "exp": "Severe congenital anomalies have no upper limit but need medical-board approval. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-161",
+   "sec": "Medical board",
+   "page": 427,
+   "q": "Which specialty is part of the listed medical-board composition for MTP?",
+   "opts": [
+    "Dermatologist only",
+    "Dentist only",
+    "Ophthalmologist only",
+    "Gynecologist"
+   ],
+   "ans": 3,
+   "exp": "The board includes a gynecologist, radiologist, pediatrician, and person assigned by the state. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-162",
+   "sec": "Medical board",
+   "page": 427,
+   "q": "Which nonclinical member is listed as part of the MTP medical board?",
+   "opts": [
+    "A person assigned by the state",
+    "The husband",
+    "The school principal",
+    "A police officer only"
+   ],
+   "ans": 0,
+   "exp": "The medical board includes a person assigned by the state. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-163",
+   "sec": "MTP indications",
+   "page": 427,
+   "q": "Which circumstance is a listed indication for MTP?",
+   "opts": [
+    "Normal physiological edema",
+    "Rape",
+    "A normal wanted pregnancy alone",
+    "Any Rh-negative pregnancy"
+   ],
+   "ans": 1,
+   "exp": "Rape is a listed MTP indication. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-164",
+   "sec": "MTP indications",
+   "page": 427,
+   "q": "Which health-based indication is listed for MTP?",
+   "opts": [
+    "To treat asymptomatic bacteriuria",
+    "To prevent normal labor",
+    "To save the pregnant woman’s life or prevent grave physical/mental injury",
+    "To ensure fetal macrosomia"
+   ],
+   "ans": 2,
+   "exp": "MTP may be indicated to save life or prevent grave physical/mental injury. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-165",
+   "sec": "MTP indications",
+   "page": 427,
+   "q": "What fetal indication is listed for MTP?",
+   "opts": [
+    "Rh positivity alone",
+    "Female sex alone",
+    "Fetal weight above 3 kg alone",
+    "Substantial risk of physical or mental abnormalities in the fetus"
+   ],
+   "ans": 3,
+   "exp": "Substantial risk of fetal physical or mental abnormality is an indication. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-166",
+   "sec": "MTP Act 2021 & indications",
+   "page": 427,
+   "q": "Fill up: Under the MTP (Amendment) Act 2021, termination up to ______ weeks needs the opinion of one registered medical practitioner, and termination between ______ weeks needs two.",
+   "opts": [
+    "20; 20 and 24",
+    "12; 12 and 20",
+    "24; 24 and 28",
+    "20; 24 and 28"
+   ],
+   "ans": 0,
+   "exp": "Up to 20 weeks one registered medical practitioner suffices; from 20 to 24 weeks two are required for the specified categories of women. (Book p427)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C9-167",
+   "sec": "MTP consent",
+   "page": 427,
+   "q": "Whose consent is required for MTP in a patient aged 18 years or older?",
+   "opts": [
+    "The patient’s own consent",
+    "Husband’s consent only",
+    "Parent’s consent only",
+    "Court consent in every case"
+   ],
+   "ans": 0,
+   "exp": "For a patient at least 18 years old, her own consent is required. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-168",
+   "sec": "MTP consent",
+   "page": 427,
+   "q": "When is guardian consent required for MTP?",
+   "opts": [
+    "Only after 24 weeks",
+    "If the patient is under 18 years or mentally unstable",
+    "For every married adult",
+    "Only if the fetus is female"
+   ],
+   "ans": 1,
+   "exp": "Guardian consent is required for a minor or mentally unstable patient. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-169",
+   "sec": "MTP medical opinion",
+   "page": 427,
+   "q": "How many doctors’ opinions are needed for MTP up to 20 weeks?",
+   "opts": [
+    "A medical board only",
+    "No doctor",
+    "One doctor",
+    "Two doctors"
+   ],
+   "ans": 2,
+   "exp": "Up to 20 weeks, one doctor’s opinion is required. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-170",
+   "sec": "MTP medical opinion",
+   "page": 427,
+   "q": "How many doctors’ opinions are needed for MTP from 20–24 weeks?",
+   "opts": [
+    "One doctor",
+    "Three doctors",
+    "No doctor",
+    "Two doctors"
+   ],
+   "ans": 3,
+   "exp": "From 20 to 24 weeks, two doctors’ opinions are required. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-171",
+   "sec": "MTP records",
+   "page": 427,
+   "q": "Are marriage proof and an FIR for rape required records for MTP?",
+   "opts": [
+    "No",
+    "Yes, both are always mandatory",
+    "Marriage proof only",
+    "FIR only"
+   ],
+   "ans": 0,
+   "exp": "The notes state marriage proof and rape FIR are not required. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-172",
+   "sec": "MTP records",
+   "page": 427,
+   "q": "For at least how long are records of rape maintained according to the notes?",
+   "opts": [
+    "28 days",
+    "5 years",
+    "6 months",
+    "1 year"
+   ],
+   "ans": 1,
+   "exp": "Records of rape are maintained for a minimum of 5 years. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-173",
+   "sec": "MTP qualification",
+   "page": 427,
+   "q": "Which specialist qualifications are listed for a provider of MTP?",
+   "opts": [
+    "Only a radiologist",
+    "Only a pediatrician",
+    "MD/MS/DGO/DNB in OBG",
+    "MBBS with no training only"
+   ],
+   "ans": 2,
+   "exp": "MD, MS, DGO, or DNB in OBG are listed qualifying specialties. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-174",
+   "sec": "MTP qualification",
+   "page": 427,
+   "q": "Which training pathway qualifies a registered medical practitioner to perform MTP according to the notes?",
+   "opts": [
+    "Attending a single lecture on the MTP Act and its recent amendments",
+    "Completing a twenty-four hour online course on termination techniques",
+    "No specific clinical training is required of a registered medical practitioner",
+    "Assisting at 25 terminations and performing 5, or six months of house job in obstetrics and gynaecology"
+   ],
+   "ans": 3,
+   "exp": "The Act requires practical training: assisting at 25 procedures and performing 5, or an equivalent period of obstetric training. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-175",
+   "sec": "MTP consent & qualification",
+   "page": 427,
+   "q": "Which of the following statements about consent under the Medical Termination of Pregnancy Act is TRUE?",
+   "opts": [
+    "The woman's own consent is required, and for a minor or a woman with mental illness the written consent of a guardian is needed",
+    "The husband's signature is mandatory before any termination can be performed",
+    "Two registered medical practitioners must examine every woman even when the pregnancy is under 12 weeks",
+    "Consent is unnecessary when the woman is unmarried, since the guardian decides"
+   ],
+   "ans": 0,
+   "exp": "The Act protects the woman's autonomy: her consent governs, with guardian consent only for minors and women with mental illness. (Book p427)",
+   "fmt": "truefalse"
+  },
+  {
+   "id": "OBG-C9-176",
+   "sec": "Medical vs surgical abortion",
+   "page": 427,
+   "q": "What is an advantage of medical abortion compared with surgical abortion?",
+   "opts": [
+    "It is noninvasive and needs no surgical expertise",
+    "It is always faster and one step",
+    "It has no possibility of failure",
+    "It needs general anesthesia"
+   ],
+   "ans": 0,
+   "exp": "Medical abortion is noninvasive and does not require surgical expertise or anesthesia. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-177",
+   "sec": "Medical vs surgical abortion",
+   "page": 427,
+   "q": "What is a disadvantage of medical abortion?",
+   "opts": [
+    "It completes in one fast procedure",
+    "It may fail and require surgery; it is multistep and longer",
+    "It is invasive by definition",
+    "It has anesthetic complications only"
+   ],
+   "ans": 1,
+   "exp": "Medical abortion can fail requiring surgery and is a longer multistep process. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-178",
+   "sec": "Medical vs surgical abortion",
+   "page": 427,
+   "q": "What is an advantage of surgical abortion?",
+   "opts": [
+    "It needs no expertise",
+    "It cannot have complications",
+    "It is a fast, one-time, one-step procedure",
+    "It is noninvasive"
+   ],
+   "ans": 2,
+   "exp": "Surgical abortion is fast, one-time, and one step. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-179",
+   "sec": "Medical vs surgical abortion",
+   "page": 427,
+   "q": "What is a disadvantage of surgical abortion?",
+   "opts": [
+    "It always needs multiple weeks",
+    "It is never effective",
+    "It has no complications",
+    "It is invasive and has surgical/anesthetic complications"
+   ],
+   "ans": 3,
+   "exp": "Surgical abortion is invasive and can have surgical and anesthetic complications. (Book p427)"
+  },
+  {
+   "id": "OBG-C9-180",
+   "sec": "Medical & surgical methods of MTP",
+   "page": 427,
+   "q": "Match the method with its role — 1) Mifepristone 2) Misoprostol 3) Manual vacuum aspiration … A) Prostaglandin analogue given 24-48 hours later to expel the products of conception B) Antiprogesterone given first, which primes the cervix and detaches the decidua C) The preferred surgical method up to 12 weeks, suitable for an outpatient setting",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Mifepristone sensitises the uterus to prostaglandin, misoprostol expels the pregnancy, and manual vacuum aspiration is the surgical option in the first trimester. (Book p427)",
+   "fmt": "match"
+  }
+ ]
 }

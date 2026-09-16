@@ -1,0 +1,233 @@
+[
+  {
+    "op": "add", "unit": "OBG-U9-1", "page": 418, "fmt": "fillup",
+    "sec": "Abortion definitions",
+    "q": "Fill up: In India, abortion is defined as termination of pregnancy before ______ weeks of gestation or the birth of a fetus weighing less than ______ g.",
+    "opts": ["28; 1000", "20; 500", "24; 1000", "28; 500"],
+    "ans": 0,
+    "exp": "Indian law uses the 28-week or 1000 g definition of viability, so expulsion before that limit and weight is called abortion."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-2", "page": 418, "fmt": "oddoneout",
+    "sec": "Infections causing abortion & congenital syphilis",
+    "q": "All of the following infections are associated with spontaneous abortion EXCEPT:",
+    "opts": [
+      "Human papillomavirus infection of the cervix",
+      "Listeria monocytogenes infection",
+      "Treponema pallidum infection",
+      "Cytomegalovirus infection"
+    ],
+    "ans": 0,
+    "exp": "Cervical HPV causes warts and neoplasia, not pregnancy loss; listeria, syphilis, CMV, rubella, toxoplasma and parvovirus all cause loss."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-3", "page": 419, "fmt": "fillup",
+    "sec": "Chromosomal causes & recurrent abortion causes",
+    "q": "Fill up: The commonest cause of a sporadic first-trimester abortion is a ______, and the single commonest chromosomal abnormality found is ______.",
+    "opts": ["chromosomal anomaly; autosomal trisomy", "uterine anomaly; triploidy", "luteal deficiency; monosomy X", "maternal infection; tetraploidy"],
+    "ans": 0,
+    "exp": "About half of early losses are chromosomally abnormal, with autosomal trisomy the commonest abnormality, followed by monosomy X and polyploidy."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-4", "page": 419, "fmt": "match",
+    "sec": "Endocrine causes & chromosomal recurrent loss",
+    "q": "Match the endocrine cause with its association — 1) Poorly controlled diabetes 2) Luteal phase deficiency 3) Thyroid autoimmunity … A) Loss is linked to thyroid antibodies even when thyroid function tests are normal B) Losses occur mainly in the first trimester, so control before conception matters most C) Progesterone support helps only in selected women with recurrent loss",
+    "opts": ["1-B, 2-C, 3-A", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-A, 3-C"],
+    "ans": 0,
+    "exp": "Diabetic loss tracks glycaemic control at conception, thyroid antibodies mark risk independent of function, and progesterone has a narrow role."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-5", "page": 419, "fmt": "oddoneout",
+    "sec": "Recurrent-loss investigation",
+    "q": "All of the following are part of the standard evaluation of recurrent pregnancy loss EXCEPT:",
+    "opts": [
+      "Partner karyotyping after a single first-trimester loss",
+      "Lupus anticoagulant and anticardiolipin antibody testing",
+      "Thyroid function, prolactin and glycaemic assessment",
+      "Three-dimensional ultrasound or hysteroscopy for a uterine anomaly"
+    ],
+    "ans": 0,
+    "exp": "Investigation begins after three consecutive losses (or earlier if indicated); a single sporadic loss needs no work-up."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-6", "page": 420, "fmt": "fillup",
+    "sec": "Cervical incompetence & cervical length",
+    "q": "Fill up: A cervical length below ______ mm before 24 weeks is taken as evidence of cervical weakness, and the measurement must be made by ______ sonography.",
+    "opts": ["25; transvaginal", "30; transabdominal", "15; transvaginal", "25; transabdominal"],
+    "ans": 0,
+    "exp": "Transvaginal measurement is the standard; an empty bladder, a full-thickness view and a short closed cervix below 25 mm mark risk."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-7", "page": 420, "fmt": "truefalse",
+    "sec": "Cervical shape & cerclage indications",
+    "q": "Which of the following statements about cervical incompetence is TRUE?",
+    "opts": [
+      "It is essentially a clinical diagnosis of painless second-trimester dilatation with recurrent mid-trimester losses",
+      "A cervical length above 30 mm on transvaginal scan confirms the diagnosis",
+      "It classically presents with painful contractions and heavy bleeding in the first trimester",
+      "It is diagnosed by measuring serum progesterone in the middle of the second trimester"
+    ],
+    "ans": 0,
+    "exp": "Painless dilation with recurrent second-trimester loss is the hallmark; ultrasound supports the diagnosis but does not define it."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-8", "page": 421, "fmt": "scenario",
+    "sec": "Emergency cerclage & cervical management protocol",
+    "q": "A 28-year-old at 20 weeks with two previous mid-trimester losses has membranes bulging through a cervix dilated to 3 cm. She has no contractions, no bleeding and no fever. What is the management?",
+    "opts": [
+      "Rescue or emergency cerclage after excluding infection, with antibiotics, tocolysis and corticosteroids",
+      "Immediate induction of labour, because exposed membranes cannot be saved",
+      "Discharge with bed rest and no intervention, since the cervix is already dilated",
+      "Vaginal progesterone alone, because no suture can be placed once membranes bulge"
+    ],
+    "ans": 0,
+    "exp": "Rescue cerclage is worthwhile in selected women once infection is excluded and membranes are reduced, though benefit is smaller than with elective cerclage."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-9", "page": 421, "fmt": "oddoneout",
+    "sec": "Cervical management protocol & transabdominal cerclage",
+    "q": "All of the following are true of transabdominal cervico-isthmic cerclage EXCEPT:",
+    "opts": [
+      "It is placed vaginally and the suture is removed at 37 weeks",
+      "It is chosen when the cervix is very short, scarred or a vaginal cerclage has failed",
+      "Delivery must be by caesarean section, since the suture cannot be removed",
+      "It is usually placed before pregnancy or in early pregnancy, often laparoscopically"
+    ],
+    "ans": 0,
+    "exp": "Transabdominal cerclage is placed at the cervico-isthmic junction from above and commits the woman to caesarean delivery."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-10", "page": 422, "fmt": "match",
+    "sec": "McDonald, Shirodkar & transabdominal cerclage",
+    "q": "Match the cerclage with its technique — 1) McDonald 2) Shirodkar 3) Transabdominal … A) A purse-string suture at the cervicovaginal junction placed without any dissection B) A submucosal tape at the level of the internal os placed after reflecting the bladder C) A suture placed at the cervico-isthmic junction from above, usually by laparoscopy",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "McDonald is the simple purse-string, Shirodkar needs bladder reflection to reach the internal os, and the abdominal route is reserved for failed or impossible vaginal cerclage."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-11", "page": 422, "fmt": "fillup",
+    "sec": "Cerclage timing & adjuncts",
+    "q": "Fill up: Elective cerclage is typically performed at ______ weeks of gestation, and the suture is removed at ______ weeks.",
+    "opts": ["12-14; 37", "6-8; 34", "20-22; 38", "16-18; 40"],
+    "ans": 0,
+    "exp": "Elective cerclage is placed once viability and anatomy are confirmed around 12-14 weeks and removed near term before labour begins."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-12", "page": 423, "fmt": "oddoneout",
+    "sec": "Cerclage contraindications",
+    "q": "All of the following contraindicate cervical cerclage EXCEPT:",
+    "opts": [
+      "A previous uncomplicated term delivery with no history of pregnancy loss",
+      "Active vaginal bleeding or ruptured membranes",
+      "Chorioamnionitis or evidence of intrauterine infection",
+      "Lethal fetal anomaly or intrauterine fetal death"
+    ],
+    "ans": 0,
+    "exp": "Cerclage is contraindicated by bleeding, rupture, infection and fetal death; a woman with no history suggesting weakness simply does not need one."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-13", "page": 424, "fmt": "fillup",
+    "sec": "APS definition & clinical criteria",
+    "q": "Fill up: Antiphospholipid antibody syndrome is diagnosed when a clinical criterion is combined with persistently positive ______, ______ or ______.",
+    "opts": [
+      "lupus anticoagulant; anticardiolipin antibody; anti-beta2 glycoprotein I antibody",
+      "antinuclear antibody; anti-dsDNA; anti-Sm antibody",
+      "rheumatoid factor; antinuclear antibody; anti-CCP antibody",
+      "lupus anticoagulant; antinuclear antibody; anti-dsDNA"
+    ],
+    "ans": 0,
+    "exp": "The three criteria antibodies are lupus anticoagulant, anticardiolipin and anti-beta2 glycoprotein I, each needing confirmation 12 weeks later."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-14", "page": 424, "fmt": "match",
+    "sec": "APS laboratory criteria & management",
+    "q": "Match the antiphospholipid test with how it is performed — 1) Lupus anticoagulant 2) Anticardiolipin antibody 3) Anti-beta2 glycoprotein I … A) A phospholipid-dependent clotting test such as the dilute Russell viper venom time B) IgG or IgM measured by ELISA, medium or high titre, above the 99th centile C) IgG or IgM measured by ELISA, above the 99th centile, confirmed 12 weeks later",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Lupus anticoagulant is a functional clotting assay, while anticardiolipin and anti-beta2 glycoprotein I are ELISA-based and all need repeat confirmation."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-15", "page": 425, "fmt": "truefalse",
+    "sec": "APS postpartum & APS outside pregnancy",
+    "q": "Which of the following statements about antiphospholipid syndrome in pregnancy is TRUE?",
+    "opts": [
+      "Thrombotic risk is highest in the puerperium, so thromboprophylaxis is continued for six weeks after delivery",
+      "Risk returns to normal the moment the placenta is delivered, so prophylaxis can stop at delivery",
+      "Low-molecular-weight heparin must be replaced by warfarin throughout the first trimester",
+      "Low-dose aspirin and heparin are contraindicated in pregnancy because of the risk of fetal bleeding"
+    ],
+    "ans": 0,
+    "exp": "Heparin does not cross the placenta and with low-dose aspirin is the standard treatment; postpartum thromboprophylaxis is essential."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-16", "page": 425, "fmt": "scenario",
+    "sec": "Threatened abortion & inevitable abortion",
+    "q": "A 26-year-old at 9 weeks has light vaginal bleeding and a closed cervical os. Ultrasound shows a live embryo with a small subchorionic haematoma. What is the appropriate management?",
+    "opts": [
+      "Reassurance and avoidance of strenuous activity, since no drug or bed rest has been shown to change the outcome in most cases",
+      "Immediate evacuation of the uterus to prevent heavy haemorrhage",
+      "Urgent cervical cerclage, since first-trimester bleeding indicates cervical incompetence",
+      "High-dose intramuscular progesterone continued throughout the pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Most threatened abortions continue; intervention is reserved for inevitable, incomplete or missed abortion and for heavy bleeding."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-17", "page": 426, "fmt": "match",
+    "sec": "Incomplete abortion & missed abortion",
+    "q": "Match the type of abortion with its findings — 1) Threatened 2) Inevitable 3) Incomplete … A) Bleeding and pain with a dilated os and membranes that may rupture B) Partial expulsion of products with an open os and heavy bleeding C) Bleeding with a closed os and a live fetus, so the pregnancy may continue",
+    "opts": ["1-C, 2-A, 3-B", "1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-B, 3-A"],
+    "ans": 0,
+    "exp": "Threatened abortion has a closed os and a live fetus, inevitable abortion has a dilated os, and incomplete abortion has retained products."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-18", "page": 426, "fmt": "fillup",
+    "sec": "Missed abortion ultrasound criteria",
+    "q": "Fill up: Missed abortion is diagnosed when the mean sac diameter is above ______ mm with no embryo, or the crown-rump length is above ______ mm with no heartbeat.",
+    "opts": ["25; 7", "16; 4", "20; 10", "25; 4"],
+    "ans": 0,
+    "exp": "These thresholds prevent the tragic error of diagnosing pregnancy loss from a scan that is simply too early to show the embryo."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-19", "page": 426, "fmt": "oddoneout",
+    "sec": "Septic abortion grading",
+    "q": "All of the following describe grade III septic abortion EXCEPT:",
+    "opts": [
+      "Infection confined to the uterine cavity with no systemic signs",
+      "Peritonitis with infection spreading beyond the pelvis",
+      "Septic shock with hypotension and oliguria",
+      "Endotoxic shock with renal cortical necrosis or disseminated intravascular coagulation"
+    ],
+    "ans": 0,
+    "exp": "Grade I infection is confined to the uterus, grade II spreads to the pelvis and parametrium, and grade III means peritonitis, shock or organ failure."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-20", "page": 427, "fmt": "fillup",
+    "sec": "MTP Act 2021 & indications",
+    "q": "Fill up: Under the MTP (Amendment) Act 2021, termination up to ______ weeks needs the opinion of one registered medical practitioner, and termination between ______ weeks needs two.",
+    "opts": ["20; 20 and 24", "12; 12 and 20", "24; 24 and 28", "20; 24 and 28"],
+    "ans": 0,
+    "exp": "Up to 20 weeks one registered medical practitioner suffices; from 20 to 24 weeks two are required for the specified categories of women."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-21", "page": 427, "fmt": "truefalse",
+    "sec": "MTP consent & qualification",
+    "q": "Which of the following statements about consent under the Medical Termination of Pregnancy Act is TRUE?",
+    "opts": [
+      "The woman's own consent is required, and for a minor or a woman with mental illness the written consent of a guardian is needed",
+      "The husband's signature is mandatory before any termination can be performed",
+      "Two registered medical practitioners must examine every woman even when the pregnancy is under 12 weeks",
+      "Consent is unnecessary when the woman is unmarried, since the guardian decides"
+    ],
+    "ans": 0,
+    "exp": "The Act protects the woman's autonomy: her consent governs, with guardian consent only for minors and women with mental illness."
+  },
+  {
+    "op": "add", "unit": "OBG-U9-22", "page": 427, "fmt": "match",
+    "sec": "Medical & surgical methods of MTP",
+    "q": "Match the method with its role — 1) Mifepristone 2) Misoprostol 3) Manual vacuum aspiration … A) Prostaglandin analogue given 24-48 hours later to expel the products of conception B) Antiprogesterone given first, which primes the cervix and detaches the decidua C) The preferred surgical method up to 12 weeks, suitable for an outpatient setting",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Mifepristone sensitises the uterus to prostaglandin, misoprostol expels the pregnancy, and manual vacuum aspiration is the surgical option in the first trimester."
+  }
+]

@@ -1,0 +1,176 @@
+[
+  {
+    "op": "add", "unit": "OBG-U2-1", "page": 302, "fmt": "scenario",
+    "sec": "Gestational age, trimesters & Naegele's rule",
+    "q": "A 24-year-old woman with regular 28-day cycles is sure her last menstrual period started on 12 March 2026. Using Naegele's rule, what is her expected date of delivery?",
+    "opts": ["19 December 2026", "19 September 2026", "5 December 2026", "19 January 2027"],
+    "ans": 0,
+    "exp": "Naegele's rule adds 9 months and 7 days to the first day of the LMP: 12 March 2026 + 9 months + 7 days = 19 December 2026."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-2", "page": 304, "fmt": "match",
+    "sec": "ART dating, preterm categories & fetal death / IUD",
+    "q": "Match the gestational band with its label — 1) Below 28 weeks 2) 34+0 to 36+6 weeks 3) 32+0 to 33+6 weeks … A) Late preterm (ACOG) B) Extreme preterm (WHO) C) Moderate preterm (WHO)",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "WHO calls <28 weeks extreme and 32-33 weeks moderate, while ACOG splits preterm into early (<34 weeks) and late (34+0 to 36+6 weeks)."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-3", "page": 306, "fmt": "scenario",
+    "sec": "Obstetrical score (GTPAL) & gravidity / parity",
+    "q": "A woman's obstetric history is: one delivery at 39 weeks, one delivery at 33 weeks, two first-trimester miscarriages, and three living children because the term delivery was a twin pregnancy. How is she recorded?",
+    "opts": ["G4 P1+1+2+3", "G3 P1+1+1+3", "G4 P2+1+1+3", "G5 P1+1+2+3"],
+    "ans": 0,
+    "exp": "Gravidity counts every pregnancy (4); T counts term births (1, the twins count once), P counts the 33-week birth, A counts the two losses, and L counts three living children."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-4", "page": 308, "fmt": "match",
+    "sec": "Symptoms, pelvic signs & diagnostic signs of pregnancy",
+    "q": "Match the probable sign of pregnancy with what is felt or seen — 1) Goodell's sign 2) Hegar's sign 3) Palmer's sign … A) Softening of the uterus at the isthmus, so the cervix and body feel separate B) Rhythmic uterine contraction felt on bimanual examination C) Softening of the cervix, like touching the lips rather than the nose",
+    "opts": ["1-C, 2-A, 3-B", "1-A, 2-C, 3-B", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A"],
+    "ans": 0,
+    "exp": "Goodell is cervical softening, Hegar is isthmic softening, and Palmer is the rhythmic contraction felt during bimanual examination."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-5", "page": 310, "fmt": "fillup",
+    "sec": "Uterine growth, fundal height & discrepancies",
+    "q": "Fill up: The uterine fundus reaches the umbilicus at about ______ weeks and the xiphisternum at about ______ weeks.",
+    "opts": ["24; 36", "20; 36", "24; 40", "16; 32"],
+    "ans": 0,
+    "exp": "The fundus is at the umbilicus around 24 weeks and at the xiphisternum around 36 weeks, then drops as the head engages."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-6", "page": 311, "fmt": "truefalse",
+    "sec": "Umbilical cord architecture & Doppler waveforms",
+    "q": "Which of the following statements about the umbilical cord and its Doppler waveform is TRUE?",
+    "opts": [
+      "Two arteries carry deoxygenated fetal blood away, and the single vein returns oxygenated blood to the fetus",
+      "Two veins carry oxygenated blood to the fetus, and the single artery returns deoxygenated blood",
+      "End-diastolic flow is normally absent in the umbilical artery until about 28 weeks of gestation",
+      "The umbilical artery Doppler systolic-diastolic ratio falls steadily because placental resistance rises with gestation"
+    ],
+    "ans": 0,
+    "exp": "The cord has two umbilical arteries and one vein; end-diastolic flow appears well before 28 weeks and placental resistance falls with gestation."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-7", "page": 313, "fmt": "scenario",
+    "sec": "Abnormal Doppler: UPI, AEDF, REDF & MCA Doppler",
+    "q": "At 34 weeks a growth-restricted fetus has absent end-diastolic flow in the umbilical artery, a middle cerebral artery Doppler showing brain sparing and a normal CTG. What is the appropriate next step?",
+    "opts": [
+      "Give antenatal corticosteroids and plan delivery, as absent end-diastolic flow at 34 weeks is an indication",
+      "Repeat the Doppler in two weeks and continue the pregnancy to 38 weeks",
+      "Perform immediate caesarean section within thirty minutes for suspected fetal acidosis",
+      "Admit for bed rest and discharge once the middle cerebral artery Doppler normalises"
+    ],
+    "ans": 0,
+    "exp": "Absent end-diastolic flow at or beyond 34 weeks is an indication for delivery after steroids; reversal of end-diastolic flow is even more urgent."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-8", "page": 314, "fmt": "oddoneout",
+    "sec": "Single umbilical artery & fetal surveillance",
+    "q": "All of the following are classically associated with a single umbilical artery EXCEPT:",
+    "opts": ["Trisomy 21", "Trisomy 18", "Renal agenesis", "Fetal growth restriction"],
+    "ans": 0,
+    "exp": "A single umbilical artery is linked to trisomy 18, renal and cardiac anomalies and growth restriction; the association with trisomy 21 is weak."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-9", "page": 315, "fmt": "truefalse",
+    "sec": "Antenatal care schedules, mandatory & optional labs",
+    "q": "Which of the following statements about antenatal laboratory testing is TRUE?",
+    "opts": [
+      "Blood grouping with Rh typing and an indirect Coombs test at booking identify who needs anti-D prophylaxis",
+      "A 75 g oral glucose tolerance test is mandatory at the first visit in every pregnancy",
+      "Serum alpha-fetoprotein at 16 weeks is a mandatory investigation in every antenatal clinic",
+      "Urine culture is recommended at every antenatal visit for all pregnant women"
+    ],
+    "ans": 0,
+    "exp": "Grouping, Rh typing and the indirect Coombs test are mandatory at booking; the GTT is done at 24-28 weeks and AFP screening is optional."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-10", "page": 316, "fmt": "match",
+    "sec": "Td/Tdap vaccines, risk coding & alert signs",
+    "q": "Match the vaccine with its recommendation in pregnancy — 1) MMR 2) Tdap 3) Yellow fever … A) Contraindicated, being live attenuated B) Given once in every pregnancy, preferably 27-36 weeks C) Avoided in pregnancy unless travel to an endemic area is unavoidable",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Live vaccines such as MMR are contraindicated, Tdap is given once each pregnancy, and yellow fever is only used when travel risk outweighs fetal risk."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-11", "page": 317, "fmt": "fillup",
+    "sec": "Folic acid prophylaxis & IFA / Anemia Mukt Bharat",
+    "q": "Fill up: Periconceptional folic acid ______ mg daily reduces neural tube defects and should be started ______.",
+    "opts": ["5; at the first antenatal visit", "0.4; only after 12 weeks", "0.4; at least three months before conception", "5; from 20 weeks onwards"],
+    "ans": 2,
+    "exp": "Standard prophylaxis is 0.4 mg (400 microgram) started at least three months before conception; 4-5 mg is reserved for women with a previously affected child."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-12", "page": 318, "fmt": "truefalse",
+    "sec": "Antenatal monitoring, caloric & nutrient demands",
+    "q": "Which of the following statements about gestational weight gain is TRUE?",
+    "opts": [
+      "Recommended total gain is higher for underweight women and lower for women with obesity",
+      "Every woman should gain exactly 11 to 12 kg irrespective of her pre-pregnancy body mass index",
+      "Weight loss is recommended in pregnancy for women whose body mass index exceeds 30",
+      "Most of the maternal weight gain of pregnancy occurs during the first trimester"
+    ],
+    "ans": 0,
+    "exp": "Institute of Medicine targets vary with pre-pregnancy BMI; weight loss is never advised and most gain occurs in the second and third trimesters."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-13", "page": 319, "fmt": "oddoneout",
+    "sec": "Vaccines, air travel & exercise in pregnancy",
+    "q": "All of the following are reasons to stop exercise in pregnancy EXCEPT:",
+    "opts": ["Mild fatigue during the first trimester", "Vaginal bleeding or fluid leak", "Calf pain and swelling suggesting thrombosis", "Dyspnoea or dizziness before exertion"],
+    "ans": 0,
+    "exp": "Bleeding, thromboembolic symptoms, presyncope and chest pain are red flags; first-trimester tiredness alone merely calls for a gentler routine."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-14", "page": 321, "fmt": "scenario",
+    "sec": "Morning sickness, hyperemesis gravidarum & PUQE",
+    "q": "A 26-year-old at 9 weeks vomits five times a day, retches through most of the day and has kept nothing down for twelve hours. Pulse 108/min, BP 96/60 mmHg, urine ketones 3+. What is the most appropriate initial management?",
+    "opts": [
+      "Admit, give intravenous saline with thiamine and potassium, and start parenteral antiemetics",
+      "Reassure her and advise small frequent dry meals at home with oral antacids",
+      "Start total parenteral nutrition immediately because oral intake has failed",
+      "Recommend termination of pregnancy because the condition is intractable"
+    ],
+    "ans": 0,
+    "exp": "Ketosis with tachycardia and orthostasis means hyperemesis needing admission, thiamine-supplemented rehydration and antiemetics before any enteral feeding."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-15", "page": 322, "fmt": "match",
+    "sec": "Minor ailments: supine hypotension, varices & neuropathies",
+    "q": "Match the complaint with its mechanism or remedy — 1) Supine hypotension 2) Meralgia paraesthetica 3) Carpal tunnel syndrome in pregnancy … A) Compression of the lateral cutaneous nerve of the thigh B) Aortocaval compression relieved by the left lateral position C) Median nerve compression giving nocturnal paraesthesia of the thumb and index finger",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Supine hypotension is aortocaval compression, meralgia paraesthetica is entrapment of the lateral cutaneous nerve of the thigh, and carpal tunnel is median nerve compression."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-16", "page": 324, "fmt": "fillup",
+    "sec": "Early ultrasound landmarks & gestational structures",
+    "q": "Fill up: On transvaginal sonography the gestational sac is first seen when the mean sac diameter is about ______ mm, and the yolk sac becomes visible at about ______ weeks.",
+    "opts": ["2-3; 5", "8; 6", "2-3; 7", "20; 5"],
+    "ans": 0,
+    "exp": "The sac is visible on TVS at a mean sac diameter of 2-3 mm (about 4-4.5 weeks) and the yolk sac appears around 5 weeks."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-17", "page": 325, "fmt": "fillup",
+    "sec": "Fetal pole, cardiac activity & missed abortion criteria",
+    "q": "Fill up: Absent cardiac activity reliably confirms pregnancy loss once the crown-rump length is ______ mm or more, but a sac without a pole must measure over ______ mm mean diameter.",
+    "opts": ["7; 25", "4; 25", "7; 16", "10; 20"],
+    "ans": 0,
+    "exp": "Modern criteria: CRL of 7 mm or more with no heartbeat, or a mean sac diameter over 25 mm with no embryo, before declaring a missed abortion."
+  },
+  {
+    "op": "add", "unit": "OBG-U2-18", "page": 326, "fmt": "scenario",
+    "sec": "Discriminatory hCG titer & true vs pseudogestational sac",
+    "q": "A woman at about 6 weeks with pain and spotting has a serum beta-hCG of 3200 mIU/mL and a transvaginal scan showing an empty uterus with no adnexal mass. What is the safest next step?",
+    "opts": [
+      "Treat as pregnancy of unknown location: repeat beta-hCG in 48 hours and rescan",
+      "Perform an immediate dilatation and curettage to obtain chorionic villi",
+      "Give methotrexate now, because an empty uterus proves ectopic pregnancy",
+      "Discharge her, since a beta-hCG below 3500 rules out ectopic pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Below the discriminatory zone the diagnosis is pregnancy of unknown location; blind methotrexate or curettage could destroy a viable intrauterine pregnancy."
+  }
+]

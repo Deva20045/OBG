@@ -1,0 +1,115 @@
+[
+  {
+    "op": "add", "unit": "OBG-U22-1", "page": 550, "fmt": "match",
+    "sec": "Breech: features, incidence, causes & types",
+    "q": "Match the type of breech with its posture — 1) Frank breech 2) Complete breech 3) Footling breech … A) Hips and knees both flexed, so the feet lie beside the buttocks B) Hips flexed with both knees extended, so the feet lie up beside the head C) One or both legs extended below the buttocks, carrying the highest risk of cord prolapse",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-B, 3-A", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Frank breech has extended legs, complete breech is the fully flexed 'cannonball' posture, and footling breech risks cord prolapse."
+  },
+  {
+    "op": "add", "unit": "OBG-U22-2", "page": 551, "fmt": "truefalse",
+    "sec": "Management of breech: USG, ECV & mode of delivery",
+    "q": "Which of the following statements about the management of breech presentation is TRUE?",
+    "opts": [
+      "External cephalic version from 36-37 weeks with tocolysis reduces the chance of caesarean section in suitable women",
+      "External cephalic version should be attempted during labour after the membranes have ruptured",
+      "Every breech at term must be delivered by caesarean section without offering version",
+      "Planned vaginal breech delivery is recommended for all women who request it, whatever the fetal size or position"
+    ],
+    "ans": 0,
+    "exp": "External cephalic version before labour improves the chance of cephalic birth; vaginal breech is limited to strict criteria and skilled attendance."
+  },
+  {
+    "op": "add", "unit": "OBG-U22-3", "page": 552, "fmt": "oddoneout",
+    "sec": "Assisted breech delivery: prerequisites",
+    "q": "All of the following are prerequisites for assisted breech delivery EXCEPT:",
+    "opts": [
+      "Intact membranes with the forewaters bulging",
+      "Full cervical dilatation with an empty bladder and rectum",
+      "A flexed head confirmed by ultrasound before the attempt",
+      "Continuous fetal heart monitoring and an experienced operator in theatre"
+    ],
+    "ans": 0,
+    "exp": "Ruptured membranes are the rule in established labour and are not a contraindication; the other conditions must all be met."
+  },
+  {
+    "op": "add", "unit": "OBG-U22-4", "page": 553, "fmt": "fillup",
+    "sec": "Mechanism of breech delivery & manoeuvres for buttocks",
+    "q": "Fill up: With the sacrum anterior, the breech engages in the oblique diameter of the inlet with the ______ diameter leading.",
+    "opts": ["bitrochanteric", "bisacromial", "biparietal", "submento-bregmatic"],
+    "ans": 0,
+    "exp": "The bitrochanteric diameter (about 10 cm) is the engaging diameter of the breech, just as the bisacromial diameter serves the shoulders."
+  },
+  {
+    "op": "add", "unit": "OBG-U22-5", "page": 554, "fmt": "truefalse",
+    "sec": "Shoulder delivery in breech & Lovset's manoeuvre",
+    "q": "Which of the following statements about delivering the shoulders in a breech birth is TRUE?",
+    "opts": [
+      "Lovset's manoeuvre rotates the trunk so that the shoulders lie in the oblique diameter and the anterior shoulder is delivered first",
+      "Lovset's manoeuvre is used to flex and deliver the after-coming head",
+      "The bisacromial diameter normally engages in the antero-posterior diameter of the outlet",
+      "The arms should be pulled down as soon as the axilla becomes visible, without rotating the trunk"
+    ],
+    "ans": 0,
+    "exp": "Lovset's manoeuvre turns the posterior shoulder to the front through 180 degrees so that the anterior shoulder slips under the symphysis."
+  },
+  {
+    "op": "add", "unit": "OBG-U22-6", "page": 555, "fmt": "match",
+    "sec": "After-coming head of breech: manoeuvres",
+    "q": "Match the manoeuvre with how the after-coming head is delivered — 1) Burns-Marshall technique 2) Mauriceau-Smellie-Veit manoeuvre 3) Piper's forceps … A) Two fingers on the maxilla flex the head while an assistant holds the body up and applies suprapubic pressure B) The baby is allowed to hang by its own weight so that the head flexes and delivers spontaneously C) Forceps are applied to the after-coming head while an assistant holds the baby's body out of the way",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-C, 3-B", "1-C, 2-B, 3-A", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Burns-Marshall uses controlled hanging, Mauriceau-Smellie-Veit uses jaw flexion and suprapubic pressure, and Piper's forceps rescue a trapped head."
+  },
+  {
+    "op": "add", "unit": "OBG-U22-7", "page": 556, "fmt": "oddoneout",
+    "sec": "Complications of breech delivery & breech extraction",
+    "q": "All of the following are recognised fetal complications of vaginal breech delivery EXCEPT:",
+    "opts": [
+      "Neonatal hypoglycaemia from maternal diabetes",
+      "Erb's palsy from traction on the extended arms",
+      "Intracranial haemorrhage from rapid decompression of the after-coming head",
+      "Fracture of the humerus, femur or clavicle during manipulation"
+    ],
+    "ans": 0,
+    "exp": "Neonatal hypoglycaemia is a metabolic complication of diabetic pregnancy, not a mechanical complication of breech delivery."
+  },
+  {
+    "op": "add", "unit": "OBG-U22-8", "page": 557, "fmt": "fillup",
+    "sec": "Instrumental delivery: indications, prerequisites & choice",
+    "q": "Fill up: Prerequisites for instrumental delivery include full cervical dilatation, ruptured membranes, an empty bladder and a head at or below the level of the ______.",
+    "opts": ["ischial spines", "pelvic inlet", "sacral promontory", "pelvic floor"],
+    "ans": 0,
+    "exp": "The head must be at station zero or below, with the position known, the pelvis adequate and no disproportion before any instrument is applied."
+  },
+  {
+    "op": "add", "unit": "OBG-U22-9", "page": 558, "fmt": "oddoneout",
+    "sec": "Contraindications & vacuum delivery technique",
+    "q": "All of the following are contraindications to vacuum extraction EXCEPT:",
+    "opts": [
+      "A cephalic presentation at full dilatation with the head engaged in the occipito-anterior position",
+      "Gestational age below 34 weeks, because of the risk of scalp and intracranial injury",
+      "A known fetal bleeding disorder or bone demineralisation",
+      "A face or brow presentation with an ill-defined flexion point"
+    ],
+    "ans": 0,
+    "exp": "An engaged cephalic presentation at full dilatation is the indication for vacuum extraction; prematurity, coagulopathy and malpresentation are not."
+  },
+  {
+    "op": "add", "unit": "OBG-U22-10", "page": 560, "fmt": "match",
+    "sec": "Forceps: parts, locks, handedness & types",
+    "q": "Match the forceps with its distinguishing feature — 1) Kielland's forceps 2) Piper's forceps 3) Simpson's forceps … A) A sliding lock with almost no pelvic curve, designed for rotation of the head B) Long forceps with a perineal curve for the after-coming head in a breech delivery C) Standard outlet forceps with both a pelvic and a cephalic curve for the flexed head",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Kielland's slides to correct asynclitism and rotates, Piper's reaches the after-coming head, and Simpson's follows the curves of the pelvis and head."
+  },
+  {
+    "op": "add", "unit": "OBG-U22-11", "page": 561, "fmt": "fillup",
+    "sec": "Forceps application, direction of pull & complications",
+    "q": "Fill up: Low forceps are applied when the leading point of the fetal skull is at station ______ or lower, while outlet forceps are applied when the scalp is visible at the introitus.",
+    "opts": ["+2", "0", "-1", "+4"],
+    "ans": 0,
+    "exp": "Low forceps means station +2 or more; outlet forceps are applied only when the scalp is visible without separating the labia."
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "op": "edit", "id": "OBG-C20-070",
+    "q": "Clinical phases of amniotic fluid embolism — Phase I : Phase II.",
+    "opts": [
+      "Phase I: sudden hypoxia, hypotension and shock with little bleeding — Phase II: haemorrhage from disseminated intravascular coagulation",
+      "Phase I: heavy bleeding with an atonic uterus — Phase II: hypoxia from pulmonary vasospasm and right heart strain",
+      "Phase I: high fever with uterine tenderness — Phase II: septic shock with acute kidney injury",
+      "Phase I: severe hypertension and convulsions — Phase II: hepatic failure with profound hypoglycaemia"
+    ],
+    "ans": 0,
+    "exp": "Phase I is respiratory and cardiovascular collapse with little bleeding, and phase II is the haemorrhagic phase from consumptive coagulopathy."
+  },
+  {
+    "op": "edit", "id": "OBG-C3-069",
+    "opts": [
+      "1 in 250 — a risk at or above this cut-off is called screen-positive",
+      "1 in 1000 — a risk at or above this cut-off is called screen-positive",
+      "1 in 50 — a risk at or above this cut-off is called screen-positive",
+      "1 in 10 — a risk at or above this cut-off is called screen-positive"
+    ],
+    "ans": 0,
+    "exp": "The standard second-trimester cut-off is 1 in 250: a risk of 1 in 150 is screen-positive and 1 in 500 is screen-negative."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-055",
+    "q": "Management — mento-anterior : mento-posterior.",
+    "opts": [
+      "Mento-anterior: vaginal delivery once the chin rotates forward — mento-posterior: caesarean, since no mechanism exists",
+      "Mento-anterior: caesarean section in every case — mento-posterior: vaginal delivery after manual rotation",
+      "Both mento-anterior and mento-posterior: caesarean section without any trial of labour",
+      "Both mento-anterior and mento-posterior: a trial of forceps from the pelvic floor"
+    ],
+    "ans": 0,
+    "exp": "Mento-anterior can deliver vaginally once the chin is to the front; persistent mento-posterior has no mechanism of labour and needs caesarean section."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-048",
+    "opts": [
+      "Empty the bladder, give oxytocin and repeat controlled cord traction; if it fails, manual removal under short anaesthesia",
+      "Empty the bladder, give oxytocin and repeat controlled cord traction; if it fails, proceed straight to hysterectomy",
+      "Leave it with antibiotics for 24 hours and reassess the next morning before intervening",
+      "Give misoprostol into the vagina and wait for spontaneous expulsion over the next six hours"
+    ],
+    "ans": 0,
+    "exp": "A trapped placenta needs a full bladder emptied, a uterotonic and controlled cord traction, escalating to manual removal if it is still retained."
+  },
+  {
+    "op": "edit", "id": "OBG-C23-029",
+    "opts": [
+      "Fetal distress, convulsions, and manoeuvres that need a hand inside the uterus, such as manual removal of the placenta",
+      "Elective caesarean at 39 weeks, an uncomplicated placenta previa and one previous lower segment scar",
+      "Maternal heart disease, pregnancy-induced hypertension and an uncomplicated twin pregnancy",
+      "Prolonged labour, maternal request for sterilisation and a previous spinal anaesthetic"
+    ],
+    "ans": 0,
+    "exp": "General anaesthesia is needed when speed matters or when the procedure needs uterine relaxation and a hand inside the uterus."
+  },
+  {
+    "op": "edit", "id": "OBG-C15-007",
+    "opts": [
+      "13 cm, which is greater than any antero-posterior diameter of the inlet",
+      "11 cm, which is the same as the true conjugate of the pelvic inlet",
+      "12 cm, which is the oblique diameter measured from the sacro-iliac joint",
+      "10 cm, which is the transverse diameter of the plane of least dimension"
+    ],
+    "ans": 0,
+    "exp": "The transverse diameter of the inlet is about 13 cm; the true conjugate is 11 cm and the oblique diameter about 12 cm."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-009",
+    "opts": [
+      "Gross congenital anomalies, hyperextension of the fetal neck and an estimated fetal weight at or above 4 kg",
+      "Placenta previa, oligohydramnios and a single loop of cord around the fetal neck",
+      "Cord presentation, vasa previa and a velamentous insertion of the umbilical cord",
+      "Fetal hydrocephalus, duodenal atresia and bilateral renal agenesis"
+    ],
+    "ans": 0,
+    "exp": "Ultrasound looks for the three findings that contraindicate external cephalic version: anomalies, a stargazer neck and a heavy fetus."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-049",
+    "opts": [
+      "Cephalopelvic disproportion, an unengaged head, and a fetus with a bleeding disorder or bone demineralisation",
+      "Prolonged second stage, maternal exhaustion and an epidural already sited for pain relief",
+      "Maternal cardiac disease, pregnancy-induced hypertension and one previous caesarean section",
+      "Occipito-posterior position, a loose nuchal cord and lightly stained meconium liquor"
+    ],
+    "ans": 0,
+    "exp": "Absolute contraindications reflect disproportion, an unengaged head and fetal fragility; exhaustion and a long second stage are indications, not contraindications."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-028",
+    "opts": [
+      "Prostaglandin E1, the only uterotonic available as a tablet; WHO recommends 800 microgram sublingually",
+      "Prostaglandin E2, given as an intracervical gel in a dose of 0.5 mg for cervical ripening",
+      "Prostaglandin F2 alpha, given as 250 microgram intramuscularly every fifteen minutes",
+      "An oxytocin analogue, given as a 100 microgram slow intravenous bolus after delivery"
+    ],
+    "ans": 0,
+    "exp": "Misoprostol is PGE1 in tablet form; 800 microgram sublingually is the WHO regimen for prevention where oxytocin is unavailable."
+  },
+  {
+    "op": "edit", "id": "OBG-C23-026",
+    "opts": [
+      "Carcinoma of the cervix, dense bladder adhesions, and placenta previa with large vessels over the lower segment",
+      "Breech presentation, an uncomplicated twin pregnancy and a macrosomic fetus at term",
+      "One previous lower segment scar, pregnancy-induced hypertension and gestational diabetes",
+      "Fetal distress at term, a failed induction of labour and a request for sterilisation"
+    ],
+    "ans": 0,
+    "exp": "Classical section is chosen when the lower segment cannot be reached or entered safely, not for the usual obstetric indications."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-054",
+    "opts": [
+      "Ultrasound with Doppler: placental lakes, loss of the retroplacental clear zone and an interrupted bladder line",
+      "Magnetic resonance imaging: a snowstorm appearance filling the whole uterine cavity",
+      "Computed tomography: ring enhancement of the myometrium around the placental bed",
+      "Hysteroscopy: direct visualisation of chorionic villi inside the uterine cavity"
+    ],
+    "ans": 0,
+    "exp": "Ultrasound with Doppler is the investigation of choice; the snowstorm appearance belongs to a molar pregnancy, not to accreta."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-033",
+    "q": "Management of deep transverse arrest — android pelvis : roomy pelvis.",
+    "opts": [
+      "Android pelvis: caesarean section — roomy pelvis: manual or Kielland rotation followed by instrumental delivery",
+      "Android pelvis: manual rotation then forceps — roomy pelvis: caesarean section without a trial of rotation",
+      "Both android and roomy pelvis: caesarean section in every case, since rotation is never successful",
+      "Both android and roomy pelvis: vacuum extraction as the first-line treatment in the second stage"
+    ],
+    "ans": 0,
+    "exp": "Rotation then instrumental delivery is reasonable only when the pelvis is roomy; with an android pelvis caesarean is safer."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-037",
+    "opts": [
+      "Preterm: Duhrssen incisions in the cervix at 2 and 10 o'clock — term: push the body back and deliver by caesarean",
+      "Preterm: push the body back and deliver by caesarean — term: Duhrssen incisions in the cervix at 2 and 10 o'clock",
+      "Preterm: immediate craniotomy to allow vaginal delivery — term: Zavanelli manoeuvre then caesarean section",
+      "Both preterm and term: Piper's forceps are the first and only option for the trapped head"
+    ],
+    "ans": 0,
+    "exp": "Before viability the cervix is incised to release the head; at term the body is pushed back and the baby is delivered by caesarean."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-107",
+    "opts": [
+      "Post-term pregnancy, maternal diabetes, maternal obesity and a male fetus",
+      "Maternal anaemia, cigarette smoking during pregnancy and first pregnancy",
+      "Pre-eclampsia, placental insufficiency and a female fetus",
+      "Maternal hypothyroidism, hyperemesis gravidarum and teenage pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Macrosomia follows excess substrate (diabetes, obesity, postmaturity) and male sex; smoking and vascular disease cause growth restriction."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-100",
+    "opts": [
+      "Anencephaly, placental sulphatase deficiency, fetal demise and fetal Down syndrome",
+      "Maternal diabetes, polyhydramnios and an already macrosomic fetus",
+      "Cervical incompetence, placenta previa and multiple uterine fibroids",
+      "Hyperemesis gravidarum, severe maternal anaemia and Rh isoimmunisation"
+    ],
+    "ans": 0,
+    "exp": "Post-term pregnancy is linked to an absent or hypoplastic fetal pituitary-adrenal axis and to sulphatase deficiency; maternal diabetes tends to shorten gestation."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-051",
+    "opts": [
+      "Centre the cup over the flexion point, about 6 cm behind the anterior fontanelle and 3 cm in front of the posterior one",
+      "Centre the cup over the anterior fontanelle, so the head deflexes as traction is applied to the skull",
+      "Centre the cup over the posterior fontanelle, which is the flexion point for vacuum application",
+      "Centre the cup over the parietal eminence on whichever side of the head lies against the sacrum"
+    ],
+    "ans": 0,
+    "exp": "Correct placement is over the flexion point on the sagittal suture, which promotes flexion and minimises scalp trauma and cup detachment."
+  },
+  {
+    "op": "edit", "id": "OBG-C5-013",
+    "opts": [
+      "7.5 mg/day, compared with about 0.8 mg/day in the first trimester",
+      "1.0 mg/day, compared with about 0.8 mg/day in the first trimester",
+      "25 mg/day, compared with about 7.5 mg/day in the first trimester",
+      "0.5 mg/day, compared with about 7.5 mg/day in the first trimester"
+    ],
+    "ans": 0,
+    "exp": "Elemental iron needs rise steeply to about 7.5 mg/day in the third trimester, largely for the expanding red cell mass."
+  },
+  {
+    "op": "edit", "id": "OBG-C23-010",
+    "opts": [
+      "Trial of labour, which succeeds in about 70 per cent, or an elective repeat caesarean at 39 weeks",
+      "Trial of labour, which succeeds in about 30 per cent, or an elective repeat caesarean at 34 weeks",
+      "Elective repeat caesarean at 36 weeks only, since a trial of labour is never offered after a scar",
+      "Induction with prostaglandins at 38 weeks, followed by a trial of labour in every woman with a scar"
+    ],
+    "ans": 0,
+    "exp": "A trial of scar succeeds in roughly seven out of ten women; prostaglandins are avoided because they raise the rupture risk."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-041",
+    "opts": [
+      "Where the artery turns upwards in the broad ligament, taking a bite of myometrium and staying close to the uterus",
+      "At its origin from the internal iliac artery, before the vessel crosses the lateral pelvic wall",
+      "At the level of the cervicovaginal junction, below the point where the vessels enter the cervix",
+      "At the cornual end of the uterus, where it anastomoses with the ovarian artery near the fundus"
+    ],
+    "ans": 0,
+    "exp": "The O'Leary stitch is placed where the uterine artery turns up beside the uterus, including myometrium so the suture cannot slip and avoiding the ureter."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-049",
+    "opts": [
+      "Oxytocin with controlled cord traction, then manual removal under anaesthesia if the placenta is still retained",
+      "Oxytocin with controlled cord traction, then immediate hysterectomy if the placenta is still retained",
+      "Methotrexate to dissolve the adherent placenta, followed by surgical evacuation a week later",
+      "Conservative management with antibiotics and observation for 24 hours before any intervention"
+    ],
+    "ans": 0,
+    "exp": "When the placenta is simply adherent and not bleeding, oxytocin and controlled cord traction come first, with manual removal as the next step."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-002",
+    "opts": [
+      "Excruciating perineal pain with inability to pass urine, and a tense bluish tender swelling of the vulva",
+      "A painless soft swelling of the vulva with fever and offensive lochia after the delivery",
+      "Painless vaginal bleeding with an open cervical os in the first week after delivery",
+      "Pruritus with a watery discharge and superficial dyspareunia in the early puerperium"
+    ],
+    "ans": 0,
+    "exp": "A vulval haematoma is intensely painful, causes retention of urine and appears as a tense bluish swelling that may extend into the thigh."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-016",
+    "opts": [
+      "The after-coming head becomes trapped, causing fetal hypoxia and intracranial haemorrhage",
+      "Shoulder dystocia with brachial plexus injury from traction on the extended arms",
+      "Uterine inversion from traction on the cord during delivery of the placenta",
+      "Cord avulsion with fetal exsanguination before the trunk has been delivered"
+    ],
+    "ans": 0,
+    "exp": "The deadly complication of breech delivery is entrapment of the after-coming head, which is why the head must never be rushed."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-109",
+    "q": "Type of uterine contraction produced — oxytocin : methylergometrine.",
+    "opts": [
+      "Oxytocin: physiological, with relaxation between contractions — methylergometrine: tetanic, without relaxation",
+      "Oxytocin: tetanic, without relaxation between contractions — methylergometrine: physiological, with relaxation",
+      "Both drugs produce a tetanic contraction of the uterus that does not relax at all",
+      "Both drugs produce physiological contractions with complete relaxation between them"
+    ],
+    "ans": 0,
+    "exp": "Oxytocin produces physiological contractions with relaxation, whereas ergometrine produces a sustained tetanic contraction and is unsafe before delivery."
+  },
+  {
+    "op": "edit", "id": "OBG-C23-012",
+    "opts": [
+      "Transient tachypnoea of the newborn, operative and anaesthetic risks, and consequences for future pregnancies",
+      "Uterine rupture in labour, hypoxic-ischaemic encephalopathy and shoulder dystocia at delivery",
+      "Severe perineal trauma, pelvic floor dysfunction and anal sphincter injury after the birth",
+      "Post-term pregnancy, meconium aspiration syndrome and cord prolapse during labour"
+    ],
+    "ans": 0,
+    "exp": "Elective caesarean raises neonatal respiratory morbidity and complicates later pregnancies; it protects against perineal trauma and shoulder dystocia."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-049",
+    "opts": [
+      "Ruptured membranes, oligohydramnios, placenta previa, an abnormal cardiotocograph or a uterine scar",
+      "Pregnancy-induced hypertension, fetal growth restriction and mild iron deficiency anaemia",
+      "One previous lower segment caesarean section and well-controlled maternal heart disease",
+      "A gestation of 36 weeks, an anterior placenta and a maternal age above thirty-five years"
+    ],
+    "ans": 0,
+    "exp": "Absolute contraindications make version unsafe; a previous lower segment caesarean and 36 weeks are relative considerations, not absolute bars."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-030",
+    "opts": [
+      "Complete forward rotation, which is commonest; incomplete forward rotation; and persistent posterior rotation",
+      "Persistent posterior rotation, which is commonest; complete forward rotation; and deep sacral arrest",
+      "Incomplete forward rotation, which is commonest; complete forward rotation; and face-to-pubis delivery",
+      "Deep sacral arrest, which is commonest; complete forward rotation; and persistent posterior rotation"
+    ],
+    "ans": 0,
+    "exp": "Most occipito-posterior heads rotate forwards completely to occipito-anterior; the rest rotate incompletely or persist as occipito-posterior."
+  }
+]

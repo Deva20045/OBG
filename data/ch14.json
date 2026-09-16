@@ -107,13 +107,13 @@
    "page": 472,
    "q": "Preventable preterm labour applies to which patients, and what is the IOC tool?",
    "opts": [
-    "H/o previous PTL and short cervix; TVS is the IOC to prevent PTL",
-    "All primigravidae; TAS",
-    "Twins only; MRI",
-    "PPROM only; CTG"
+    "A previous preterm birth or a short cervix; transvaginal sonography is the tool",
+    "All primigravid women, screened by transabdominal sonography",
+    "Twin pregnancies alone, screened by magnetic resonance imaging",
+    "Preterm prelabour rupture alone, monitored with cardiotocography"
    ],
    "ans": 0,
-   "exp": "Patients with previous PTL or short cervix are preventable; TVS is the IOC. (Book p472)"
+   "exp": "Prevention is aimed at women with a previous preterm birth or a short cervix, and transvaginal scan is how the cervix is measured. (Book p472)"
   },
   {
    "id": "OBG-C14-009",
@@ -173,6 +173,21 @@
   },
   {
    "id": "OBG-C14-013",
+   "sec": "Causes, risks & prediction of preterm birth",
+   "page": 472,
+   "q": "All of the following are risk factors for spontaneous preterm birth EXCEPT:",
+   "opts": [
+    "A previous uncomplicated term delivery",
+    "A previous spontaneous preterm birth",
+    "A short cervical length in the second trimester",
+    "Multiple pregnancy and uterine anomalies"
+   ],
+   "ans": 0,
+   "exp": "Prior preterm birth, short cervix, multiples, infection and uterine anomalies raise risk; a previous uncomplicated term birth is reassuring. (Book p472)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C14-014",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
    "q": "Besides cerclage and progesterone, which lifestyle measure prevents PTL?",
@@ -186,7 +201,7 @@
    "exp": "Quitting smoking is listed; bed rest, nutrient supplements and routine screening have no role. (Book p473)"
   },
   {
-   "id": "OBG-C14-014",
+   "id": "OBG-C14-015",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
    "q": "Cervical circlage surgery requires ALL three of which indications?",
@@ -200,7 +215,7 @@
    "exp": "All three: previous preterm birth, TVS cervix ≤2.5 cm and singleton pregnancy. (Book p473)"
   },
   {
-   "id": "OBG-C14-015",
+   "id": "OBG-C14-016",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
    "q": "Circlage timing and adjunct therapy:",
@@ -214,21 +229,21 @@
    "exp": "Circlage is done at 14–24 weeks and progesterone is given with it. (Book p473)"
   },
   {
-   "id": "OBG-C14-016",
+   "id": "OBG-C14-017",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
    "q": "Indications for progesterone prophylaxis of PTL:",
    "opts": [
-    "Previous h/o PTL, short cervix ≤2.5 cm, and along with cervical circlage",
-    "Only twins",
-    "Only after PPROM",
-    "Only with bleeding"
+    "A previous preterm birth, a cervical length of 25 mm or less, and as an adjunct to cervical cerclage",
+    "Only in a twin pregnancy, whatever the cervical length or the obstetric history",
+    "Only after preterm prelabour rupture of membranes has already occurred",
+    "Only when there is vaginal bleeding from placenta previa in the third trimester"
    ],
    "ans": 0,
-   "exp": "Progesterone is indicated for previous PTL, short cervix and with circlage. (Book p473)"
+   "exp": "Progesterone is given for a previous preterm birth, an incidental short cervix, or alongside cerclage in a classic history. (Book p473)"
   },
   {
-   "id": "OBG-C14-017",
+   "id": "OBG-C14-018",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
    "q": "Progesterone regimens listed: hydroxyprogesterone caproate and micronised progesterone.",
@@ -242,7 +257,7 @@
    "exp": "Hydroxyprogesterone caproate IM weekly (16–20 wks to 36 wks); micronised progesterone PV daily. (Book p473)"
   },
   {
-   "id": "OBG-C14-018",
+   "id": "OBG-C14-019",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
    "q": "Progesterone prevents PTL by acting as a:",
@@ -256,7 +271,7 @@
    "exp": "Its function is smooth muscle relaxation. (Book p473)"
   },
   {
-   "id": "OBG-C14-019",
+   "id": "OBG-C14-020",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
    "q": "True or false: progesterone can stop PTL once contractions have started.",
@@ -270,7 +285,7 @@
    "exp": "Progesterone is not a tocolytic; it cannot prevent PTL after contractions begin. (Book p473)"
   },
   {
-   "id": "OBG-C14-020",
+   "id": "OBG-C14-021",
    "sec": "PTL: prevention – cerclage & progesterone",
    "page": 473,
    "q": "Which interventions have NO role in preventing PTL?",
@@ -284,7 +299,22 @@
    "exp": "Bed rest, nutrient supplementation and routine infection screening have no role. (Book p473)"
   },
   {
-   "id": "OBG-C14-021",
+   "id": "OBG-C14-022",
+   "sec": "Prevention: cerclage & progesterone",
+   "page": 473,
+   "q": "Match the preventive measure with its current place — 1) Vaginal progesterone 2) Cervical cerclage 3) Bed rest and hydration … A) Offered when a short cervix is found on ultrasound, even without a previous preterm birth B) Considered with a cervical length below 25 mm and a history of mid-trimester loss or preterm birth C) Widely used but never shown to prevent preterm birth, so not recommended",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Progesterone treats the incidental short cervix, cerclage suits the classic history with a short cervix, and bed rest has no proven benefit. (Book p473)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C14-023",
    "sec": "PTL: diagnosis & definitions",
    "page": 473,
    "q": "Work-up of uterine contractions with cervical length ≤2.5 cm: per speculum to rule out PROM, then P/V examination. Cervical dilatation ≥2 cm means:",
@@ -298,7 +328,7 @@
    "exp": "Dilatation ≥2 cm = established PTL requiring admission; <2 cm → admit and observe dilatation/effacement. (Book p473)"
   },
   {
-   "id": "OBG-C14-022",
+   "id": "OBG-C14-024",
    "sec": "PTL: diagnosis & definitions",
    "page": 473,
    "q": "If dilatation is < 2 cm with contractions and a short cervix, the plan is:",
@@ -312,35 +342,50 @@
    "exp": "Such patients are admitted for observation of dilatation and effacement. (Book p473)"
   },
   {
-   "id": "OBG-C14-023",
+   "id": "OBG-C14-025",
    "sec": "PTL: diagnosis & definitions",
    "page": 473,
    "q": "The CONVENTIONAL definition of established PTL needs uterine contractions (4 in 20 min / 8 in 60 min) plus any one of:",
    "opts": [
-    "Cervical length on TVS ≤2 cm, dilatation ≥3 cm, or fetal fibronectin ≥50 ng/ml in cervicovaginal secretions",
-    "Dilatation ≥1 cm only",
-    "Fetal fibronectin ≥10 ng/ml",
-    "Bishop score ≥6"
+    "Contractions plus a cervical length of 2 cm or less, dilatation of 3 cm or more, or a positive fetal fibronectin",
+    "Contractions plus cervical dilatation of 1 cm or more and nothing else",
+    "Contractions plus a fetal fibronectin of 10 ng per mL or more in cervicovaginal fluid",
+    "Contractions plus a Bishop score of 6 or more with a closed cervix"
    ],
    "ans": 0,
-   "exp": "Conventional criteria add TVS length ≤2 cm, dilatation ≥3 cm or fibronectin ≥50 ng/ml. (Book p473)"
+   "exp": "The conventional definition adds an objective marker: a short cervix, advanced dilatation or a positive fibronectin test. (Book p473)"
   },
   {
-   "id": "OBG-C14-024",
+   "id": "OBG-C14-026",
+   "sec": "Diagnosis & definitions of preterm labour",
+   "page": 473,
+   "q": "Fill up: Preterm labour is regular uterine contractions with progressive cervical change occurring between ______ and ______ weeks of gestation.",
+   "opts": [
+    "20; 36+6",
+    "24; 34",
+    "28; 37",
+    "20; 28"
+   ],
+   "ans": 0,
+   "exp": "The window runs from 20 weeks to 36 weeks and 6 days; before 20 weeks the loss is called an abortion rather than preterm labour. (Book p473)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C14-027",
    "sec": "PTL: diagnosis & definitions",
    "page": 474,
    "q": "The CURRENT definition of established PTL replaces those add-ons with:",
    "opts": [
-    "Progressive dilatation and effacement of cervix, or initial dilatation ≥2 cm",
-    "Fixed dilatation ≥5 cm",
-    "Fibronectin ≥100 ng/ml",
-    "Cervical length ≤1 cm only"
+    "Progressive cervical change, or an initial dilatation of 2 cm or more",
+    "A fixed dilatation of 5 cm or more with no further change",
+    "A fetal fibronectin of 100 ng per mL or more in cervicovaginal fluid",
+    "A cervical length of 1 cm or less and no other supporting feature"
    ],
    "ans": 0,
-   "exp": "Current definition: contractions plus progressive dilatation/effacement or initial dilatation ≥2 cm. (Book p474)"
+   "exp": "The current definition drops the add-on tests and requires progressive change, or dilatation of at least 2 cm at presentation. (Book p474)"
   },
   {
-   "id": "OBG-C14-025",
+   "id": "OBG-C14-028",
    "sec": "PTL: fetal fibronectin & neonatal risks",
    "page": 474,
    "q": "Fetal fibronectin is a 'glue' present between the fetal membrane and decidua. In cervicovaginal secretions, a positive result between 22–35 weeks indicates:",
@@ -354,7 +399,7 @@
    "exp": "Between 22–35 weeks fibronectin positivity suggests PTL or PPROM; after 35 weeks it is normal. (Book p474)"
   },
   {
-   "id": "OBG-C14-026",
+   "id": "OBG-C14-029",
    "sec": "PTL: fetal fibronectin & neonatal risks",
    "page": 474,
    "q": "After how many weeks is fetal fibronectin in cervicovaginal secretions considered NORMAL?",
@@ -368,7 +413,7 @@
    "exp": "Beyond 35 weeks its presence is normal. (Book p474)"
   },
   {
-   "id": "OBG-C14-027",
+   "id": "OBG-C14-030",
    "sec": "PTL: fetal fibronectin & neonatal risks",
    "page": 474,
    "q": "Risks increased in the preterm neonate include RDS (due to decreased surfactant), NEC, IVH, hypoglycaemia, hypothermia, infections and:",
@@ -382,7 +427,7 @@
    "exp": "Cerebral palsy risk is countered with neuroprotective MgSO4; RDS/NEC/IVH with corticosteroids. (Book p474)"
   },
   {
-   "id": "OBG-C14-028",
+   "id": "OBG-C14-031",
    "sec": "PTL: fetal fibronectin & neonatal risks",
    "page": 474,
    "q": "Which neonatal complications of PTL are reduced by corticosteroids?",
@@ -396,21 +441,21 @@
    "exp": "Steroids accelerate lung maturity and ↓ RDS, NEC and IVH. (Book p474)"
   },
   {
-   "id": "OBG-C14-029",
+   "id": "OBG-C14-032",
    "sec": "PTL: corticosteroids",
    "page": 474,
    "q": "Corticosteroids in PTL are indicated in:",
    "opts": [
-    "All cases <34 weeks, and ≥34 weeks after ruling out chorioamnionitis and prior steroid dose",
-    "Only <28 weeks",
-    "Only 34–37 weeks",
-    "All cases regardless of infection"
+    "All cases before 34 weeks, and from 34 weeks once chorioamnionitis and a previous course are excluded",
+    "Only below 28 weeks, since later gestation gains nothing",
+    "Only between 34 and 37 weeks, where the benefit is greatest",
+    "Every case regardless of infection, because the benefit outweighs the risk"
    ],
    "ans": 0,
-   "exp": "Indicated <34 weeks always, and ≥34 weeks once chorioamnionitis (a contraindication) and prior dosing are excluded. (Book p474)"
+   "exp": "Corticosteroids are given before 34 weeks, and in the late preterm window once infection and prior treatment are excluded. (Book p474)"
   },
   {
-   "id": "OBG-C14-030",
+   "id": "OBG-C14-033",
    "sec": "PTL: corticosteroids",
    "page": 474,
    "q": "Which condition CONTRAINDICATES corticosteroids in PTL?",
@@ -424,7 +469,7 @@
    "exp": "Chorioamnionitis contraindicates steroid use. (Book p474)"
   },
   {
-   "id": "OBG-C14-031",
+   "id": "OBG-C14-034",
    "sec": "PTL: corticosteroids",
    "page": 474,
    "q": "The action of antenatal corticosteroids is seen ______ after the first dose, with maximum benefit ______.",
@@ -438,7 +483,7 @@
    "exp": "Effect appears 48 hours after the first dose, maximal 2–7 days after. (Book p474)"
   },
   {
-   "id": "OBG-C14-032",
+   "id": "OBG-C14-035",
    "sec": "PTL: corticosteroids",
    "page": 474,
    "q": "Why are repeat courses of antenatal steroids avoided?",
@@ -452,7 +497,7 @@
    "exp": "Repeat courses are not given as they can cause cerebral palsy. (Book p474)"
   },
   {
-   "id": "OBG-C14-033",
+   "id": "OBG-C14-036",
    "sec": "PTL: corticosteroids",
    "page": 474,
    "q": "Match steroid regimens: dexamethasone (DOC in India) and betamethasone (DOC worldwide).",
@@ -466,7 +511,7 @@
    "exp": "Dexamethasone 6 mg × 4 IM 12-hourly (India DOC); betamethasone 12 mg × 2 24-hourly (worldwide DOC). (Book p474)"
   },
   {
-   "id": "OBG-C14-034",
+   "id": "OBG-C14-037",
    "sec": "PTL: tocolytics",
    "page": 475,
    "q": "The role of tocolytics in PTL and their maximum duration of use:",
@@ -480,21 +525,21 @@
    "exp": "Tocolytics buy 48 hours for steroid action. (Book p475)"
   },
   {
-   "id": "OBG-C14-035",
+   "id": "OBG-C14-038",
    "sec": "PTL: tocolytics",
    "page": 475,
    "q": "Tocolytics + corticosteroids are recommended in which group, and have NO role in which three groups?",
    "opts": [
-    "PTL <34 weeks; no role in PTL >34 weeks, twin pregnancy and chorioamnionitis (steroids c/i)",
-    "PTL >34 weeks; no role <34 weeks",
-    "Twins only; no role in singletons",
-    "Chorioamnionitis only"
+    "Preterm labour before 34 weeks; no role after 34 weeks, in twins, or with chorioamnionitis",
+    "Preterm labour after 34 weeks only, with no role before 34 weeks",
+    "Twin pregnancy alone, with no role in singleton pregnancies",
+    "Chorioamnionitis alone, since infection shortens the cervix"
    ],
    "ans": 0,
-   "exp": "Use in PTL <34 weeks; no role beyond 34 weeks, in twins, or with chorioamnionitis. (Book p475)"
+   "exp": "Tocolysis with steroids is for early preterm labour; it has no place in late preterm labour, twins or infection. (Book p475)"
   },
   {
-   "id": "OBG-C14-036",
+   "id": "OBG-C14-039",
    "sec": "PTL: tocolytics",
    "page": 475,
    "q": "The m/c tocolytic used in India and its ACOG window:",
@@ -508,7 +553,7 @@
    "exp": "Nifedipine is m/c in India with ACOG use at 32–34 weeks. (Book p475)"
   },
   {
-   "id": "OBG-C14-037",
+   "id": "OBG-C14-040",
    "sec": "PTL: tocolytics",
    "page": 475,
    "q": "Atosiban, the oxytocin antagonist, is the tocolytic of choice in:",
@@ -522,7 +567,7 @@
    "exp": "Atosiban is preferred in cardiac disease. (Book p475)"
   },
   {
-   "id": "OBG-C14-038",
+   "id": "OBG-C14-041",
    "sec": "PTL: tocolytics",
    "page": 475,
    "q": "Indomethacin as a tocolytic leads to which fetal effects and is restricted by ACOG to:",
@@ -536,49 +581,64 @@
    "exp": "Indomethacin causes oligohydramnios and premature ductal closure; ACOG limits it to <32 weeks. (Book p475)"
   },
   {
-   "id": "OBG-C14-039",
+   "id": "OBG-C14-042",
    "sec": "PTL: tocolytics",
    "page": 475,
    "q": "β-agonist tocolytics listed are:",
    "opts": [
-    "Terbutaline (uterine relaxant), salbutamol, ritodrine and isoxsuprine",
-    "Nifedipine and atosiban",
-    "Indomethacin and sulindac",
-    "MgSO4 and progesterone"
+    "Terbutaline, salbutamol, ritodrine and isoxsuprine",
+    "Nifedipine and atosiban, which are calcium and oxytocin antagonists",
+    "Indomethacin and sulindac, which inhibit prostaglandin synthesis",
+    "Magnesium sulfate and progesterone, which are used for other purposes"
    ],
    "ans": 0,
-   "exp": "The β-agonists listed are terbutaline, salbutamol, ritodrine and isoxsuprine. (Book p475)"
+   "exp": "The beta-agonist group is terbutaline, salbutamol, ritodrine and isoxsuprine; the others belong to different drug classes. (Book p475)"
   },
   {
-   "id": "OBG-C14-040",
+   "id": "OBG-C14-043",
    "sec": "PTL: tocolytics",
    "page": 475,
    "q": "Side effects of β-agonist tocolytics include tremors, hypotension, tachycardia, pulmonary oedema and:",
    "opts": [
-    "Hyperglycaemia – contraindicated in diabetes",
-    "Hypoglycaemia",
-    "Bradycardia",
-    "Hypokalaemia only"
+    "Hyperglycaemia, which is why they are contraindicated in diabetes",
+    "Hypoglycaemia, which needs regular monitoring of blood glucose",
+    "Bradycardia, which limits the dose that can safely be given",
+    "Isolated hypokalaemia, with no other metabolic disturbance"
    ],
    "ans": 0,
-   "exp": "Hyperglycaemia makes β-agonists c/i in diabetes mellitus. (Book p475)"
+   "exp": "Beta-agonists cause tremor, tachycardia, hypotension, pulmonary oedema and hyperglycaemia, so they are avoided in diabetes. (Book p475)"
   },
   {
-   "id": "OBG-C14-041",
+   "id": "OBG-C14-044",
    "sec": "PTL: tocolytics",
    "page": 475,
    "q": "Two 'not a tocolytic' notes: progesterone is not a tocolytic, and MgSO4 is not used as one because:",
    "opts": [
-    "Its tocolytic action appears only at 9–10 mg/dL – the same level as toxicity (dose-dependent action)",
-    "It causes fetal tachycardia",
-    "It is ineffective at any dose",
-    "It induces labour"
+    "Its tocolytic effect appears only at 9-10 mg/dL, the same range as its toxicity",
+    "It causes persistent fetal tachycardia that masks the signs of fetal distress",
+    "It has no effect at all on the myometrium at any dose that can be given",
+    "It paradoxically induces labour by increasing local prostaglandin release"
    ],
    "ans": 0,
-   "exp": "MgSO4's tocolytic effect needs 9–10 mg/dL, which coincides with toxicity. (Book p475)"
+   "exp": "Magnesium relaxes myometrium only at levels that are already toxic, so it is used for neuroprotection rather than tocolysis. (Book p475)"
   },
   {
-   "id": "OBG-C14-042",
+   "id": "OBG-C14-045",
+   "sec": "Corticosteroids & tocolytics",
+   "page": 475,
+   "q": "A 30-year-old at 30 weeks is in established preterm labour with intact membranes. Corticosteroids and magnesium for neuroprotection have been started. Which tocolytic is most appropriate, and for how long?",
+   "opts": [
+    "Nifedipine or an oxytocin antagonist for up to 48 hours, to complete steroids and arrange transfer",
+    "No tocolytic at all, since delaying delivery never helps the baby",
+    "Indomethacin after 32 weeks, continued for seven days",
+    "Ritodrine for two weeks so that she can be managed at home"
+   ],
+   "ans": 0,
+   "exp": "Tocolysis buys up to 48 hours for steroids and transfer; indomethacin is avoided after 32 weeks because of ductal constriction and oligohydramnios. (Book p475)",
+   "fmt": "scenario"
+  },
+  {
+   "id": "OBG-C14-046",
    "sec": "PTL: MgSO4, GBS & antibiotics; summary",
    "page": 476,
    "q": "MgSO4 in PTL is used for its ______ action and is given in all cases of PTL < ______ weeks.",
@@ -592,7 +652,7 @@
    "exp": "MgSO4 is neuroprotective against cerebral palsy and given when PTL <32 weeks. (Book p476)"
   },
   {
-   "id": "OBG-C14-043",
+   "id": "OBG-C14-047",
    "sec": "PTL: MgSO4, GBS & antibiotics; summary",
    "page": 476,
    "q": "MgSO4 dosing for neuroprotection in PTL:",
@@ -606,7 +666,7 @@
    "exp": "Loading 4 g followed by 1 g maintenance. (Book p476)"
   },
   {
-   "id": "OBG-C14-044",
+   "id": "OBG-C14-048",
    "sec": "PTL: MgSO4, GBS & antibiotics; summary",
    "page": 476,
    "q": "GBS screening in PTL/PPROM is done at presentation; routine screening in all pregnant women is by rectovaginal swab at:",
@@ -620,49 +680,49 @@
    "exp": "Routine GBS screening is at 35–37 weeks by rectovaginal swab. (Book p476)"
   },
   {
-   "id": "OBG-C14-045",
+   "id": "OBG-C14-049",
    "sec": "PTL: MgSO4, GBS & antibiotics; summary",
    "page": 476,
    "q": "Antibiotics in PTL are indicated when:",
    "opts": [
-    "GBS screening positive, fever ≥100.4°F for 4 hours during labour, or ruptured membranes ≥18 hours – given intrapartum",
-    "Always, routinely",
-    "Only postpartum",
-    "Only with chorioamnionitis"
+    "GBS colonisation, intrapartum fever, or ruptured membranes for 18 hours or more",
+    "Routinely for every woman in preterm labour, whatever her colonisation status",
+    "Only after delivery, once the baby has been born and the cord has been clamped",
+    "Only when clinical chorioamnionitis is already established during labour"
    ],
    "ans": 0,
-   "exp": "Indications are GBS +ve, intrapartum fever ≥100.4°F for 4 h, or ROM ≥18 h; administration is intrapartum. (Book p476)"
+   "exp": "Intrapartum antibiotics are given for GBS colonisation, intrapartum fever or prolonged rupture, not routinely to everyone. (Book p476)"
   },
   {
-   "id": "OBG-C14-046",
+   "id": "OBG-C14-050",
    "sec": "PTL: MgSO4, GBS & antibiotics; summary",
    "page": 476,
    "q": "In the PTL summary table, corticosteroids and GBS screening are given in:",
    "opts": [
-    "Both late (≥34 wks) and early (<34 wks) PTL",
-    "Only early PTL",
-    "Only late PTL",
-    "Neither group"
+    "Both are listed for early preterm labour and both again for late preterm labour",
+    "Only in early preterm labour, since late preterm labour needs neither",
+    "Only in late preterm labour, since early delivery is already inevitable",
+    "In neither group, since both are given only after 37 completed weeks"
    ],
    "ans": 0,
-   "exp": "Steroids and GBS screening apply to both late and early PTL. (Book p476)"
+   "exp": "In the summary table corticosteroids and GBS screening appear in both the early and the late preterm labour columns. (Book p476)"
   },
   {
-   "id": "OBG-C14-047",
+   "id": "OBG-C14-051",
    "sec": "PTL: MgSO4, GBS & antibiotics; summary",
    "page": 476,
    "q": "Tocolytics and MgSO4 in the summary table are reserved for:",
    "opts": [
-    "Early PTL only (MgSO4 only if <32 weeks); none in late PTL",
-    "Late PTL only",
-    "Both groups equally",
-    "Only chorioamnionitis"
+    "Early preterm labour only, with magnesium given only below 32 weeks; none in late preterm labour",
+    "Late preterm labour only, since early preterm delivery is inevitable",
+    "Both groups equally, with the same agents and the same neuroprotection",
+    "Only when chorioamnionitis has been confirmed on amniocentesis"
    ],
    "ans": 0,
-   "exp": "Tocolytics and MgSO4 (if <32 wks) are early-PTL-only; late PTL gets neither. (Book p476)"
+   "exp": "Tocolytics and magnesium belong to early preterm labour; neither has a place in late preterm labour. (Book p476)"
   },
   {
-   "id": "OBG-C14-048",
+   "id": "OBG-C14-052",
    "sec": "PTL: MgSO4, GBS & antibiotics; summary",
    "page": 476,
    "q": "Antibiotics in the PTL summary table are marked:",
@@ -676,21 +736,36 @@
    "exp": "Routine antibiotics are not indicated in either group per the summary. (Book p476)"
   },
   {
-   "id": "OBG-C14-049",
+   "id": "OBG-C14-053",
    "sec": "PTL: MgSO4, GBS & antibiotics; summary",
    "page": 476,
    "q": "Induction of labour in PTL is generally avoided EXCEPT for:",
    "opts": [
-    "Fetal distress, chorioamnionitis, abruptio placenta and intrauterine death",
-    "Maternal request",
-    "Post-term dates",
-    "Twins"
+    "Fetal distress, chorioamnionitis, abruptio placentae and intrauterine death",
+    "Maternal request for delivery at 34 weeks without any medical indication",
+    "A post-dates pregnancy that has reached 41 weeks with no sign of labour",
+    "An uncomplicated twin pregnancy at 36 weeks with intact membranes"
    ],
    "ans": 0,
-   "exp": "These four exceptions permit induction despite preterm gestation. (Book p476)"
+   "exp": "Induction is avoided in preterm labour unless continuing the pregnancy is more dangerous than delivering, as with infection or distress. (Book p476)"
   },
   {
-   "id": "OBG-C14-050",
+   "id": "OBG-C14-054",
+   "sec": "MgSO4 neuroprotection, GBS & antibiotics",
+   "page": 476,
+   "q": "Fill up: Magnesium sulfate for fetal neuroprotection is given when delivery is anticipated before ______ weeks, using a loading dose of ______ g.",
+   "opts": [
+    "32; 4",
+    "34; 2",
+    "28; 4",
+    "32; 6"
+   ],
+   "ans": 0,
+   "exp": "A 4 g loading dose followed by an infusion is given before 32 weeks and reduces the risk and severity of cerebral palsy in survivors. (Book p476)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C14-055",
    "sec": "PROM/PPROM: definitions & consequences",
    "page": 477,
    "q": "PROM and PPROM are defined as:",
@@ -704,7 +779,7 @@
    "exp": "PROM is rupture beyond 37 weeks pre-labour; PPROM is rupture before 37 weeks. (Book p477)"
   },
   {
-   "id": "OBG-C14-051",
+   "id": "OBG-C14-056",
    "sec": "PROM/PPROM: definitions & consequences",
    "page": 477,
    "q": "Early PPROM and late PPROM span:",
@@ -718,7 +793,7 @@
    "exp": "Early PPROM <34 weeks; late PPROM 34 to 36+6 weeks. (Book p477)"
   },
   {
-   "id": "OBG-C14-052",
+   "id": "OBG-C14-057",
    "sec": "PROM/PPROM: definitions & consequences",
    "page": 477,
    "q": "Consequences of PROM include PTL within a week, ↑ chorioamnionitis, abruptio placenta, cord prolapse, oligohydramnios and:",
@@ -732,21 +807,21 @@
    "exp": "RDS is among the listed consequences. (Book p477)"
   },
   {
-   "id": "OBG-C14-053",
+   "id": "OBG-C14-058",
    "sec": "PROM/PPROM: definitions & consequences",
    "page": 477,
    "q": "Typical presentation of PROM:",
    "opts": [
-    "Complaint of entire clothes getting wet and excessive vaginal discharge due to high vaginal leak",
-    "Painless bleeding",
-    "Fever with rigid uterus",
-    "Reduced fetal movements only"
+    "Her clothes are soaked and she reports a sudden gush followed by continued leaking",
+    "Painless bright-red bleeding with a soft and non-tender uterus",
+    "Fever with a rigid tender uterus and offensive-smelling lochia",
+    "Reduced fetal movements alone, without any loss of fluid or bleeding"
    ],
    "ans": 0,
-   "exp": "Wet clothes and excessive discharge (high vaginal leak) are typical. (Book p477)"
+   "exp": "Rupture of membranes presents as a sudden gush with continuing leak; bleeding suggests abruption or previa, and fever suggests infection. (Book p477)"
   },
   {
-   "id": "OBG-C14-054",
+   "id": "OBG-C14-059",
    "sec": "PROM/PPROM: definitions & consequences",
    "page": 477,
    "q": "On general examination in PROM, fever indicates:",
@@ -760,7 +835,7 @@
    "exp": "Fever points to chorioamnionitis. (Book p477)"
   },
   {
-   "id": "OBG-C14-055",
+   "id": "OBG-C14-060",
    "sec": "PROM/PPROM: definitions & consequences",
    "page": 477,
    "q": "Match P/A findings in PROM: ↓ fundal height, ↑ uterine tone with tense tender rigid uterus, uterine tenderness.",
@@ -774,7 +849,7 @@
    "exp": "↓ height = oligohydramnios; ↑ tone/tense rigid = abruptio; tenderness = chorioamnionitis. (Book p477)"
   },
   {
-   "id": "OBG-C14-056",
+   "id": "OBG-C14-061",
    "sec": "PROM/PPROM: definitions & consequences",
    "page": 477,
    "q": "Which examination should be AVOIDED in PROM and why?",
@@ -788,35 +863,50 @@
    "exp": "Digital P/V examination is avoided due to infection risk. (Book p477)"
   },
   {
-   "id": "OBG-C14-057",
+   "id": "OBG-C14-062",
    "sec": "PROM/PPROM: definitions & consequences",
    "page": 477,
    "q": "Sterile per speculum examination in PROM assesses:",
    "opts": [
-    "Cervical dilatation, pooling of amniotic fluid, cord prolapse and takes a high vaginal swab for culture & sensitivity",
-    "Only cervical dilatation",
-    "Only pooling",
-    "Fetal presentation"
+    "Cervical dilatation, pooling of liquor, cord prolapse, and a high vaginal swab for culture",
+    "Cervical dilatation alone, since the rest is assessed later by ultrasound",
+    "Pooling of fluid alone, because a digital examination is still performed afterwards",
+    "Fetal presentation alone, since membrane status is decided from the history"
    ],
    "ans": 0,
-   "exp": "Speculum exam checks dilatation, pooling, cord prolapse and obtains HVS for C&S. (Book p477)"
+   "exp": "A sterile speculum examination avoids introducing infection while assessing dilatation, liquor, cord and taking a swab. (Book p477)"
   },
   {
-   "id": "OBG-C14-058",
+   "id": "OBG-C14-063",
+   "sec": "Prelabour rupture of membranes",
+   "page": 477,
+   "q": "Which of the following statements about prelabour rupture of membranes is TRUE?",
+   "opts": [
+    "The earlier the gestation at rupture, the higher the risk of chorioamnionitis, pulmonary hypoplasia and cord prolapse",
+    "Rupture of membranes before labour always demands immediate delivery, whatever the gestation",
+    "Rupture of membranes at term is labelled prelabour rupture of membranes",
+    "Prophylactic antibiotics have no effect on latency and are given only for established infection"
+   ],
+   "ans": 0,
+   "exp": "At term, rupture before labour is called prelabour rupture (PROM); preterm rupture is PPROM, and antibiotics do prolong latency and reduce infection. (Book p477)",
+   "fmt": "truefalse"
+  },
+  {
+   "id": "OBG-C14-064",
    "sec": "PROM: diagnosis – fluid evaluation",
    "page": 478,
    "q": "Differentiating amniotic fluid from urine relies on:",
    "opts": [
-    "Ammoniacal smell of urine and emptying the bladder then checking dribbling on coughing",
-    "Colour alone",
-    "Volume alone",
-    "Odour of amniotic fluid"
+    "The ammoniacal smell of urine, and dribbling seen on coughing after the bladder is emptied",
+    "The colour of the fluid, which is reliably yellow for urine and clear for liquor",
+    "The volume passed, since urine is always lost in a single large gush",
+    "The characteristic sweet odour of amniotic fluid on the bed linen"
    ],
    "ans": 0,
-   "exp": "Urine has an ammoniacal smell; empty the bladder and watch for dribbling on coughing. (Book p478)"
+   "exp": "Emptying the bladder with a catheter and then watching for further loss on coughing separates urine from amniotic fluid. (Book p478)"
   },
   {
-   "id": "OBG-C14-059",
+   "id": "OBG-C14-065",
    "sec": "PROM: diagnosis – fluid evaluation",
    "page": 478,
    "q": "The Nitrazine test principle uses pH: amniotic fluid is ______ and vaginal discharge is ______.",
@@ -830,7 +920,7 @@
    "exp": "Amniotic fluid pH 7.2 (alkaline) vs vaginal discharge pH 3.5 (acidic). (Book p478)"
   },
   {
-   "id": "OBG-C14-060",
+   "id": "OBG-C14-066",
    "sec": "PROM: diagnosis – fluid evaluation",
    "page": 478,
    "q": "On litmus paper, amniotic fluid ______ while vaginal discharge ______.",
@@ -844,21 +934,21 @@
    "exp": "Blue = alkaline amniotic fluid; yellow = acidic discharge. (Book p478)"
   },
   {
-   "id": "OBG-C14-061",
+   "id": "OBG-C14-067",
    "sec": "PROM: diagnosis – fluid evaluation",
    "page": 478,
    "q": "False-positive Nitrazine tests can be due to:",
    "opts": [
-    "Blood, semen, bacterial vaginosis, Trichomonas infection and meconium",
-    "Urine only",
-    "Normal saline",
-    "Cervical mucus plug only"
+    "Blood, semen, bacterial vaginosis, trichomonas infection and meconium",
+    "Contamination with urine, which is the only recognised cause",
+    "Contamination with the normal saline used for the examination",
+    "The cervical mucus plug alone, which is strongly alkaline"
    ],
    "ans": 0,
-   "exp": "All five listed contaminants alkalinise or discolor the test. (Book p478)"
+   "exp": "Nitrazine turns blue with any alkaline fluid, so blood, semen, infected discharge and meconium all give false positives. (Book p478)"
   },
   {
-   "id": "OBG-C14-062",
+   "id": "OBG-C14-068",
    "sec": "PROM: diagnosis – fluid evaluation",
    "page": 478,
    "q": "The fern test is microscopy of vaginal discharge; a fern-like appearance indicates amniotic fluid because of:",
@@ -872,7 +962,7 @@
    "exp": "Sodium chloride crystallisation produces the ferning pattern. (Book p478)"
   },
   {
-   "id": "OBG-C14-063",
+   "id": "OBG-C14-069",
    "sec": "PROM: diagnosis – fluid evaluation",
    "page": 478,
    "q": "On USG in PROM you expect:",
@@ -886,21 +976,36 @@
    "exp": "USG shows reduced amniotic fluid after rupture. (Book p478)"
   },
   {
-   "id": "OBG-C14-064",
+   "id": "OBG-C14-070",
    "sec": "PROM: diagnosis – fluid evaluation",
    "page": 478,
-   "q": "Match the kit tests: Actin test and Amnisure test detect:",
+   "q": "Match the bedside kit tests: the Actim test and the Amnisure test detect:",
    "opts": [
-    "Actin – placental protein 12 or IGF binding protein-1; Amnisure – PAMG-1 protein",
-    "Actin – PAMG-1; Amnisure – AFP",
-    "Both detect hCG",
-    "Both detect fibronectin"
+    "Actim: placental protein 12, or insulin-like growth factor binding protein-1 — Amnisure: PAMG-1",
+    "Actim: PAMG-1 — Amnisure: alpha-fetoprotein in the vaginal fluid",
+    "Both tests detect human chorionic gonadotrophin in vaginal fluid",
+    "Both tests detect fetal fibronectin in cervicovaginal secretions"
    ],
    "ans": 0,
-   "exp": "Actin detects placental protein 12/IGFBP-1; Amnisure detects PAMG-1. (Book p478)"
+   "exp": "Actim detects IGFBP-1 (placental protein 12) and Amnisure detects placental alpha microglobulin-1 in vaginal fluid. (Book p478)"
   },
   {
-   "id": "OBG-C14-065",
+   "id": "OBG-C14-071",
+   "sec": "Diagnosis of ruptured membranes",
+   "page": 478,
+   "q": "All of the following help to diagnose rupture of membranes EXCEPT:",
+   "opts": [
+    "Maternal serum alpha-fetoprotein estimation",
+    "Sterile speculum examination showing pooling of fluid in the posterior fornix",
+    "Nitrazine or pH testing of vaginal fluid",
+    "Ferning of dried vaginal fluid seen under the microscope"
+   ],
+   "ans": 0,
+   "exp": "Pooling on speculum, an alkaline pH and arborisation (ferning) diagnose rupture; amniotic fluid tests such as AFP belong to other diagnoses. (Book p478)",
+   "fmt": "oddoneout"
+  },
+  {
+   "id": "OBG-C14-072",
    "sec": "PROM: management & GBS prophylaxis",
    "page": 479,
    "q": "In the PROM/PPROM management table, the MAIN risk in term PROM vs early PPROM is:",
@@ -914,21 +1019,21 @@
    "exp": "Term PROM risks chorioamnionitis; early PPROM adds RDS. (Book p479)"
   },
   {
-   "id": "OBG-C14-066",
+   "id": "OBG-C14-073",
    "sec": "PROM: management & GBS prophylaxis",
    "page": 479,
    "q": "Induction of labour is indicated (+) in which column of the PROM table?",
    "opts": [
-    "Term PROM only; not in early or late PPROM",
-    "Early PPROM only",
-    "Late PPROM only",
-    "All three"
+    "Term prelabour rupture only; not in early or late preterm rupture",
+    "Early preterm rupture of membranes only, to avoid ascending infection",
+    "Late preterm rupture of membranes only, once the lungs are mature",
+    "All three groups, since rupture of membranes alone is an indication"
    ],
    "ans": 0,
-   "exp": "Induction applies to term PROM; PPROM columns are negative. (Book p479)"
+   "exp": "Induction is listed only for term prelabour rupture; preterm rupture is managed expectantly unless another indication appears. (Book p479)"
   },
   {
-   "id": "OBG-C14-067",
+   "id": "OBG-C14-074",
    "sec": "PROM: management & GBS prophylaxis",
    "page": 479,
    "q": "Corticosteroids and tocolytics in the PROM table: steroids are given in ______ and tocolytics only in ______.",
@@ -942,7 +1047,7 @@
    "exp": "Steroids (+) in both PPROM groups; tocolytics (+) only in early PPROM. (Book p479)"
   },
   {
-   "id": "OBG-C14-068",
+   "id": "OBG-C14-075",
    "sec": "PROM: management & GBS prophylaxis",
    "page": 479,
    "q": "MgSO4 in the PROM table is given:",
@@ -956,7 +1061,7 @@
    "exp": "MgSO4 only if POG <32 weeks (early PPROM). (Book p479)"
   },
   {
-   "id": "OBG-C14-069",
+   "id": "OBG-C14-076",
    "sec": "PROM: management & GBS prophylaxis",
    "page": 479,
    "q": "GBS prophylaxis in term PROM is given only if:",
@@ -970,7 +1075,7 @@
    "exp": "Term PROM needs prophylaxis only with ROM ≥18 h or intrapartum fever ≥100.4°F for 4 h; both PPROM groups get it. (Book p479)"
   },
   {
-   "id": "OBG-C14-070",
+   "id": "OBG-C14-077",
    "sec": "PROM: management & GBS prophylaxis",
    "page": 479,
    "q": "ACOG's GBS screening recommendation is:",
@@ -984,7 +1089,7 @@
    "exp": "Universal rectovaginal swab at 35–37 weeks. (Book p479)"
   },
   {
-   "id": "OBG-C14-071",
+   "id": "OBG-C14-078",
    "sec": "PROM: management & GBS prophylaxis",
    "page": 479,
    "q": "The role of GBS prophylaxis is to prevent:",
@@ -998,49 +1103,64 @@
    "exp": "Prophylaxis prevents early neonatal sepsis. (Book p479)"
   },
   {
-   "id": "OBG-C14-072",
+   "id": "OBG-C14-079",
    "sec": "PROM: management & GBS prophylaxis",
    "page": 479,
    "q": "GBS prophylaxis WITHOUT needing screening is indicated for:",
    "opts": [
-    "Previous baby with neonatal sepsis, GBS bacteriuria anytime in current pregnancy, or a positive screen",
-    "Only preterm labour",
-    "Only fever",
-    "Only ROM ≥12 hours"
+    "A previous infant with GBS sepsis, GBS bacteriuria this pregnancy, or a positive screening swab",
+    "Preterm labour alone, whatever the screening result or the previous obstetric history",
+    "Intrapartum fever alone, even with a negative screen and no other risk factor",
+    "Rupture of membranes for twelve hours alone, with no other risk factor present"
    ],
    "ans": 0,
-   "exp": "Those three indications bypass screening. (Book p479)"
+   "exp": "A previous affected infant, bacteriuria in this pregnancy or a positive swab all justify prophylaxis without screening. (Book p479)"
   },
   {
-   "id": "OBG-C14-073",
+   "id": "OBG-C14-080",
    "sec": "PROM: management & GBS prophylaxis",
    "page": 479,
    "q": "If GBS screening was NOT done, prophylaxis is still given for:",
    "opts": [
-    "Preterm labour, PPROM, rupture ≥18 hours, or fever ≥100.4°F for 4 hours during labour",
-    "Term labour only",
-    "Elective C-section",
-    "Post-term pregnancy"
+    "Preterm labour, preterm rupture, rupture for 18 hours or more, or intrapartum fever",
+    "Term labour alone with intact membranes and no other risk factor",
+    "An elective caesarean section before labour with the membranes intact",
+    "A post-term pregnancy that has gone beyond 41 completed weeks"
    ],
    "ans": 0,
-   "exp": "Those four unscreened scenarios warrant prophylaxis. (Book p479)"
+   "exp": "When the GBS status is unknown, prophylaxis is given on the basis of these clinical risk factors. (Book p479)"
   },
   {
-   "id": "OBG-C14-074",
+   "id": "OBG-C14-081",
    "sec": "PROM: management & GBS prophylaxis",
    "page": 479,
    "q": "Timing and DOC for GBS prophylaxis, with alternatives:",
    "opts": [
-    "Intrapartum; benzyl penicillin (alternatives ampicillin/cefazolin; vancomycin/clindamycin if penicillin-allergic)",
-    "Antepartum oral; erythromycin",
-    "Postpartum; metronidazole",
-    "Intrapartum; gentamicin only"
+    "Intrapartum benzyl penicillin, with ampicillin or cefazolin and clindamycin if she is penicillin-allergic",
+    "Antepartum oral erythromycin given for a week before the expected date of delivery",
+    "Postpartum metronidazole started once the placenta has been delivered",
+    "Intrapartum gentamicin alone as a single intramuscular injection"
    ],
    "ans": 0,
-   "exp": "Intrapartum benzyl penicillin is DOC; ampicillin/cefazolin alternate; vancomycin/clindamycin for penicillin allergy. (Book p479)"
+   "exp": "Prophylaxis must be intrapartum to clear carriage at delivery: benzyl penicillin, with alternatives for allergy. (Book p479)"
   },
   {
-   "id": "OBG-C14-075",
+   "id": "OBG-C14-082",
+   "sec": "Management of PPROM & GBS prophylaxis",
+   "page": 479,
+   "q": "A woman at 34 weeks with preterm prelabour rupture of membranes is afebrile, with a normal CTG and normal inflammatory markers. What is the management?",
+   "opts": [
+    "Expectant management with antibiotics, corticosteroids and close monitoring, planning delivery around 34-37 weeks",
+    "Immediate caesarean section to avoid infection",
+    "Induction of labour within twelve hours, whatever the gestation",
+    "Discharge home on oral antibiotics with weekly outpatient review"
+   ],
+   "ans": 0,
+   "exp": "Expectant care with antibiotics and surveillance balances prematurity against infection; delivery is timed by gestation and any sign of infection or compromise. (Book p479)",
+   "fmt": "scenario"
+  },
+  {
+   "id": "OBG-C14-083",
    "sec": "Chorioamnionitis",
    "page": 480,
    "q": "Chorioamnionitis is best described as a:",
@@ -1054,21 +1174,21 @@
    "exp": "It is a polymicrobial infection. (Book p480)"
   },
   {
-   "id": "OBG-C14-076",
+   "id": "OBG-C14-084",
    "sec": "Chorioamnionitis",
    "page": 480,
    "q": "Presumptive clinical diagnosis of chorioamnionitis requires ruptured membranes + temperature ≥39°C plus any one of:",
    "opts": [
-    "Fetal tachycardia (FHR ≥160 bpm), ↑ maternal WBC (≥15000/mm³) or purulent discharge from the internal os",
-    "Maternal bradycardia",
-    "Oligohydramnios",
-    "Meconium-stained liquor"
+    "Fetal tachycardia, a maternal white cell count of 15,000 or more, or pus from the internal os",
+    "Maternal bradycardia with a falling blood pressure and cold peripheries",
+    "Oligohydramnios with a reduced amniotic fluid index on the ultrasound scan",
+    "Meconium-stained liquor with a normal maternal temperature and pulse rate"
    ],
    "ans": 0,
-   "exp": "Any one of fetal tachycardia, maternal leucocytosis ≥15000/mm³ or purulent discharge completes the criteria. (Book p480)"
+   "exp": "Presumptive chorioamnionitis is ruptured membranes with fever plus fetal tachycardia, maternal leucocytosis or purulent cervical discharge. (Book p480)"
   },
   {
-   "id": "OBG-C14-077",
+   "id": "OBG-C14-085",
    "sec": "Chorioamnionitis",
    "page": 480,
    "q": "Maternal tachycardia and uterine tenderness in chorioamnionitis are:",
@@ -1082,21 +1202,21 @@
    "exp": "They are features, not part of the diagnostic criteria. (Book p480)"
   },
   {
-   "id": "OBG-C14-078",
+   "id": "OBG-C14-086",
    "sec": "Chorioamnionitis",
    "page": 480,
    "q": "Definitive diagnosis of chorioamnionitis is by:",
    "opts": [
-    "Amniocentesis → Gram staining and culture, and HPE of the fetal membrane",
-    "Clinical criteria alone",
-    "CRP alone",
-    "USG findings"
+    "Amniocentesis with Gram stain, culture and histology of the fetal membranes",
+    "Clinical criteria alone, which are sensitive and specific enough on their own",
+    "A raised maternal C-reactive protein measured on admission in labour",
+    "Ultrasound findings of debris and a thickened placenta"
    ],
    "ans": 0,
-   "exp": "Amniocentesis with Gram stain/culture and membrane HPE are definitive. (Book p480)"
+   "exp": "Clinical criteria make a presumptive diagnosis; definitive diagnosis needs amniotic fluid studies and membrane histology. (Book p480)"
   },
   {
-   "id": "OBG-C14-079",
+   "id": "OBG-C14-087",
    "sec": "Chorioamnionitis",
    "page": 480,
    "q": "Antibiotic regimen for chorioamnionitis:",
@@ -1110,7 +1230,7 @@
    "exp": "Ampicillin with gentamicin is the regimen. (Book p480)"
   },
   {
-   "id": "OBG-C14-080",
+   "id": "OBG-C14-088",
    "sec": "Chorioamnionitis",
    "page": 480,
    "q": "Delivery plan in chorioamnionitis:",
@@ -1124,7 +1244,7 @@
    "exp": "Induction and vaginal delivery are preferred. (Book p480)"
   },
   {
-   "id": "OBG-C14-081",
+   "id": "OBG-C14-089",
    "sec": "Chorioamnionitis",
    "page": 480,
    "q": "Why is C-section not preferred in chorioamnionitis?",
@@ -1138,7 +1258,7 @@
    "exp": "C-section ↑ postpartum endometritis risk; it is reserved for obstetric reasons. (Book p480)"
   },
   {
-   "id": "OBG-C14-082",
+   "id": "OBG-C14-090",
    "sec": "Chorioamnionitis",
    "page": 480,
    "q": "The ONLY indication for C-section in chorioamnionitis is an obstetric reason such as contracted pelvis or placenta previa; in that case which drug is added?",
@@ -1152,7 +1272,7 @@
    "exp": "Metronidazole is added when C-section is performed. (Book p480)"
   },
   {
-   "id": "OBG-C14-083",
+   "id": "OBG-C14-091",
    "sec": "Chorioamnionitis",
    "page": 480,
    "q": "Antibiotics in chorioamnionitis are stopped when:",
@@ -1166,7 +1286,22 @@
    "exp": "Afebrile × 24 hours allows stopping antibiotics. (Book p480)"
   },
   {
-   "id": "OBG-C14-084",
+   "id": "OBG-C14-092",
+   "sec": "Chorioamnionitis",
+   "page": 480,
+   "q": "Match the feature with its significance in chorioamnionitis — 1) Maternal fever 2) Fetal tachycardia 3) Uterine tenderness with offensive liquor … A) A baseline above 160 bpm, often an early and easily missed fetal sign B) A core temperature of 38 C or more with maternal tachycardia C) Clinical evidence of intrauterine infection requiring delivery and intravenous antibiotics",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-C, 3-B",
+    "1-C, 2-B, 3-A",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "Maternal fever plus fetal tachycardia, uterine tenderness and offensive liquor form the clinical triad that demands delivery and antibiotics. (Book p480)",
+   "fmt": "match"
+  },
+  {
+   "id": "OBG-C14-093",
    "sec": "Post-term pregnancy: overview & pathophysiology",
    "page": 481,
    "q": "The total normal duration of pregnancy is quoted as:",
@@ -1180,7 +1315,7 @@
    "exp": "Normal duration: 9 months + 7 days = 40 weeks = 280 days. (Book p481)"
   },
   {
-   "id": "OBG-C14-085",
+   "id": "OBG-C14-094",
    "sec": "Post-term pregnancy: overview & pathophysiology",
    "page": 481,
    "q": "Post-term pregnancy is defined as:",
@@ -1194,7 +1329,7 @@
    "exp": "Post-term = ≥42 weeks (≥294 days). (Book p481)"
   },
   {
-   "id": "OBG-C14-086",
+   "id": "OBG-C14-095",
    "sec": "Post-term pregnancy: overview & pathophysiology",
    "page": 481,
    "q": "The FIRST step when a history of post-term pregnancy is given:",
@@ -1208,7 +1343,7 @@
    "exp": "First review the menstrual history to confirm dates. (Book p481)"
   },
   {
-   "id": "OBG-C14-087",
+   "id": "OBG-C14-096",
    "sec": "Post-term pregnancy: overview & pathophysiology",
    "page": 481,
    "q": "In post-term pregnancy the amniotic fluid colour and volume at ≥42 weeks are:",
@@ -1222,7 +1357,7 @@
    "exp": "Fluid becomes saffron/yellowish-green and volume falls to about 300 ml. (Book p481)"
   },
   {
-   "id": "OBG-C14-088",
+   "id": "OBG-C14-097",
    "sec": "Post-term pregnancy: overview & pathophysiology",
    "page": 481,
    "q": "Why can the placenta not synthesise estrogen independently?",
@@ -1236,7 +1371,7 @@
    "exp": "The placenta lacks 17α-hydroxylase, making estrogen synthesis dependent on fetal adrenals. (Book p481)"
   },
   {
-   "id": "OBG-C14-089",
+   "id": "OBG-C14-098",
    "sec": "Post-term pregnancy: overview & pathophysiology",
    "page": 481,
    "q": "Order the fetal-placental estrogen pathway for onset of labour.",
@@ -1250,7 +1385,7 @@
    "exp": "Fetal adrenal C19 steroids are converted via 17α-hydroxylase to DHEA-S, then placental enzymes make estrogen driving contractility. (Book p481)"
   },
   {
-   "id": "OBG-C14-090",
+   "id": "OBG-C14-099",
    "sec": "Post-term pregnancy: overview & pathophysiology",
    "page": 481,
    "q": "The pathophysiology of post-term pregnancy is:",
@@ -1264,21 +1399,21 @@
    "exp": "Reduced estrogen weakens contractility and delays labour onset. (Book p481)"
   },
   {
-   "id": "OBG-C14-091",
+   "id": "OBG-C14-100",
    "sec": "Post-term pregnancy: overview & pathophysiology",
    "page": 481,
    "q": "Causes of post-term pregnancy listed include:",
    "opts": [
-    "Anencephaly (hypoplastic fetal adrenals), sulphatase/aromatase deficiency, fetal demise and Down's syndrome (↓ C19 steroids)",
-    "Maternal diabetes",
-    "Polyhydramnios",
-    "Cervical incompetence"
+    "Anencephaly, placental sulphatase deficiency, fetal demise and fetal Down syndrome",
+    "Maternal diabetes, polyhydramnios and an already macrosomic fetus",
+    "Cervical incompetence, placenta previa and multiple uterine fibroids",
+    "Hyperemesis gravidarum, severe maternal anaemia and Rh isoimmunisation"
    ],
    "ans": 0,
-   "exp": "All four fetal/placental endocrine causes are listed. (Book p481)"
+   "exp": "Post-term pregnancy is linked to an absent or hypoplastic fetal pituitary-adrenal axis and to sulphatase deficiency; maternal diabetes tends to shorten gestation. (Book p481)"
   },
   {
-   "id": "OBG-C14-092",
+   "id": "OBG-C14-101",
    "sec": "Post-term pregnancy: overview & pathophysiology",
    "page": 481,
    "q": "Macrosomia in post-term pregnancy by Indian guidelines means fetal weight:",
@@ -1292,35 +1427,50 @@
    "exp": "Indian guidelines define macrosomia as ≥4.0 kg. (Book p481)"
   },
   {
-   "id": "OBG-C14-093",
+   "id": "OBG-C14-102",
    "sec": "Post-term pregnancy: overview & pathophysiology",
    "page": 481,
    "q": "Oligohydramnios in post-term pregnancy leads to:",
    "opts": [
-    "↓ space inside uterus → cord compression → CTG variable decelerations (characteristic of post-term) → fetal distress → meconium passage → meconium aspiration syndrome",
-    "Polyhydramnios → cord prolapse",
-    "Uterine overdistension → rupture",
-    "Normal CTG always"
+    "Less space, so cord compression with variable decelerations, then fetal distress and meconium passage",
+    "Hydramnios with cord prolapse once the membranes rupture spontaneously in labour",
+    "Uterine overdistension leading to rupture of a previously scarred uterus",
+    "An entirely normal cardiotocograph, since liquor volume does not affect the trace"
    ],
    "ans": 0,
-   "exp": "The oligohydramnios chain ends in meconium aspiration syndrome. (Book p481)"
+   "exp": "Falling liquor in a post-term pregnancy compresses the cord, giving variable decelerations, fetal distress and meconium-stained liquor. (Book p481)"
   },
   {
-   "id": "OBG-C14-094",
+   "id": "OBG-C14-103",
    "sec": "Post-term pregnancy: overview & pathophysiology",
    "page": 481,
    "q": "Placental ageing in post-term pregnancy causes:",
    "opts": [
-    "Uteroplacental insufficiency → CTG late decelerations → fetal distress",
-    "Accelerated fetal growth",
-    "Increased amniotic fluid",
-    "Early labour"
+    "Uteroplacental insufficiency, giving late decelerations and fetal distress",
+    "Accelerated fetal growth from continued nutrient transfer",
+    "An increase in amniotic fluid volume from fetal polyuria",
+    "The early spontaneous onset of labour well before term"
    ],
    "ans": 0,
-   "exp": "Ageing placenta gives UPI with late decelerations and fetal distress. (Book p481)"
+   "exp": "The ageing placenta fails, producing late decelerations on the CTG and fetal distress in labour; liquor falls rather than rises. (Book p481)"
   },
   {
-   "id": "OBG-C14-095",
+   "id": "OBG-C14-104",
+   "sec": "Post-term pregnancy: overview & pathophysiology",
+   "page": 481,
+   "q": "Fill up: Post-term pregnancy is defined as a gestation of ______ weeks or more, and the added fetal risk comes mainly from ______.",
+   "opts": [
+    "42; placental insufficiency and oligohydramnios",
+    "40; fetal macrosomia alone",
+    "41; fetal anaemia and hydrops",
+    "42; congenital malformation"
+   ],
+   "ans": 0,
+   "exp": "Beyond 42 weeks the ageing placenta may fail, liquor falls and the risk of meconium, macrosomia and stillbirth rises. (Book p481)",
+   "fmt": "fillup"
+  },
+  {
+   "id": "OBG-C14-105",
    "sec": "Post-term: ACOG management & macrosomia",
    "page": 482,
    "q": "ACOG management of post-term pregnancy: termination of pregnancy at ______ by ______.",
@@ -1334,7 +1484,7 @@
    "exp": "ACOG advises TOP at ≥41 weeks via induction of labour. (Book p482)"
   },
   {
-   "id": "OBG-C14-096",
+   "id": "OBG-C14-106",
    "sec": "Post-term: ACOG management & macrosomia",
    "page": 482,
    "q": "Post-term pregnancy is a ______ for VBAC.",
@@ -1348,35 +1498,35 @@
    "exp": "It is a relative contraindication to vaginal birth after C-section. (Book p482)"
   },
   {
-   "id": "OBG-C14-097",
+   "id": "OBG-C14-107",
    "sec": "Post-term: ACOG management & macrosomia",
    "page": 482,
    "q": "Risk factors for macrosomia listed are:",
    "opts": [
-    "Post-term pregnancy, maternal DM (↑ glucose → ↑ fetal insulin), maternal obesity and male fetus",
-    "Maternal anaemia",
-    "Smoking",
-    "Primigravity"
+    "Post-term pregnancy, maternal diabetes, maternal obesity and a male fetus",
+    "Maternal anaemia, cigarette smoking during pregnancy and first pregnancy",
+    "Pre-eclampsia, placental insufficiency and a female fetus",
+    "Maternal hypothyroidism, hyperemesis gravidarum and teenage pregnancy"
    ],
    "ans": 0,
-   "exp": "All four listed risks drive fetal overgrowth. (Book p482)"
+   "exp": "Macrosomia follows excess substrate (diabetes, obesity, postmaturity) and male sex; smoking and vascular disease cause growth restriction. (Book p482)"
   },
   {
-   "id": "OBG-C14-098",
+   "id": "OBG-C14-108",
    "sec": "Post-term: ACOG management & macrosomia",
    "page": 482,
    "q": "Complications increased with macrosomia:",
    "opts": [
-    "C-section, instrumental delivery, prolonged labour and shoulder dystocia",
-    "Only PPH",
-    "Only malpresentation",
-    "Only PROM"
+    "Caesarean section, instrumental delivery, prolonged labour and shoulder dystocia",
+    "Postpartum haemorrhage alone, with no effect on the mode of delivery",
+    "Malpresentation alone, with no increase in operative delivery",
+    "Prelabour rupture of membranes alone, with no intrapartum complications"
    ],
    "ans": 0,
-   "exp": "All four complications rise with macrosomia. (Book p482)"
+   "exp": "Macrosomia raises the whole spectrum of obstructed labour complications, including shoulder dystocia and operative delivery. (Book p482)"
   },
   {
-   "id": "OBG-C14-099",
+   "id": "OBG-C14-109",
    "sec": "Post-term: ACOG management & macrosomia",
    "page": 482,
    "q": "The organ LEAST affected by macrosomia is:",
@@ -1390,7 +1540,7 @@
    "exp": "The brain is least affected per the note. (Book p482)"
   },
   {
-   "id": "OBG-C14-100",
+   "id": "OBG-C14-110",
    "sec": "Post-term: ACOG management & macrosomia",
    "page": 482,
    "q": "Best mode of delivery in macrosomia and C-section thresholds:",
@@ -1404,7 +1554,7 @@
    "exp": "Vaginal delivery is best; C-section at ≥4.5 kg (diabetic) or ≥5.0 kg (non-diabetic). (Book p482)"
   },
   {
-   "id": "OBG-C14-101",
+   "id": "OBG-C14-111",
    "sec": "Post-term: ACOG management & macrosomia",
    "page": 482,
    "q": "Macrosomia is a ______ contraindication for VBAC.",
@@ -1418,35 +1568,35 @@
    "exp": "It is a relative contraindication for VBAC. (Book p482)"
   },
   {
-   "id": "OBG-C14-102",
+   "id": "OBG-C14-112",
    "sec": "Post-term: ACOG management & macrosomia",
    "page": 482,
    "q": "Best USG method and parameter for estimating fetal weight:",
    "opts": [
-    "Formulae (Hadlock, Shepherd); abdominal circumference (≥35 cm) – also the best parameter for IUGR",
-    "Biparietal diameter; femur length",
-    "Head circumference; placental grade",
-    "3D volume; amniotic fluid"
+    "Formulae such as Hadlock or Shepherd, with abdominal circumference the most useful single parameter",
+    "Biparietal diameter and femur length measured in the second trimester",
+    "Head circumference combined with the placental grade",
+    "Three-dimensional volume measurement with the amniotic fluid index"
    ],
    "ans": 0,
-   "exp": "Hadlock/Shepherd formulae with AC (≥35 cm) are best; AC also best for IUGR. (Book p482)"
+   "exp": "Composite formulae using abdominal circumference estimate fetal weight best, and abdominal circumference is the most sensitive parameter for growth restriction. (Book p482)"
   },
   {
-   "id": "OBG-C14-103",
+   "id": "OBG-C14-113",
    "sec": "Post-term: ACOG management & macrosomia",
    "page": 482,
    "q": "Johnson's formula for clinical fetal weight estimation is:",
    "opts": [
-    "(Fundal height in cm − n) × 155, with n = 12 if the head is above the ischial spines and n = 11 if below",
-    "(Fundal height + n) × 155",
-    "Fundal height × 155 − n",
-    "(AC − n) × 155"
+    "(Fundal height in cm minus n) times 155, where n is 12 above the spines and 11 below",
+    "(Fundal height in cm plus n) times 155, where n is 12 above the spines and 11 below",
+    "Fundal height in cm times 155, minus n, where n is 12 above the spines and 11 below",
+    "(Abdominal circumference in cm minus n) times 155, where n is 12 above the spines and 11 below"
    ],
    "ans": 0,
-   "exp": "Weight (g) = (FH cm − n) × 155 with n = 12 above and 11 below the spines. (Book p482)"
+   "exp": "Johnson's formula subtracts 12 when the head is above the ischial spines and 11 when it is engaged, and multiplies the result by 155. (Book p482)"
   },
   {
-   "id": "OBG-C14-104",
+   "id": "OBG-C14-114",
    "sec": "Post-term: ACOG management & macrosomia",
    "page": 482,
    "q": "For a valid abdominal circumference measurement, which three structures must be visible?",
@@ -1460,7 +1610,7 @@
    "exp": "The AC plane shows umbilical vein, portal sinus and fetal stomach. (Book p482)"
   },
   {
-   "id": "OBG-C14-105",
+   "id": "OBG-C14-115",
    "sec": "Post-term: ACOG management & macrosomia",
    "page": 482,
    "q": "Which structures must NOT be visible at the AC measurement plane?",
@@ -1472,6 +1622,21 @@
    ],
    "ans": 0,
    "exp": "Kidney and cord insertion should be absent from the plane. (Book p482)"
+  },
+  {
+   "id": "OBG-C14-116",
+   "sec": "ACOG management of post-term pregnancy & macrosomia",
+   "page": 482,
+   "q": "A 34-year-old with an uncomplicated pregnancy reaches 41 weeks and 3 days. The CTG is normal and the amniotic fluid index is 9 cm. What is the recommended management?",
+   "opts": [
+    "Offer induction of labour between 41 and 42 weeks, with increased fetal surveillance if she chooses to wait",
+    "Reassure her and await spontaneous labour until 43 weeks without intervention",
+    "Immediate caesarean section, because post-term fetuses never tolerate labour",
+    "Admit for daily amniocentesis to test fetal lung maturity"
+   ],
+   "ans": 0,
+   "exp": "Induction is offered from 41 weeks because perinatal risk falls; membrane sweeping and increased monitoring are options while she waits. (Book p482)",
+   "fmt": "scenario"
   }
  ],
  "units": [
@@ -1494,7 +1659,8 @@
     "OBG-C14-009",
     "OBG-C14-010",
     "OBG-C14-011",
-    "OBG-C14-012"
+    "OBG-C14-012",
+    "OBG-C14-013"
    ]
   },
   {
@@ -1505,14 +1671,15 @@
    "sec": "Prevention: cerclage & progesterone · p473",
    "guide": "Apply the three-part cerclage indication, progesterone regimens and the honest limits of progesterone once contractions begin. Focus for this checkpoint: PTL: prevention – cerclage & progesterone.",
    "qs": [
-    "OBG-C14-013",
     "OBG-C14-014",
     "OBG-C14-015",
     "OBG-C14-016",
     "OBG-C14-017",
     "OBG-C14-018",
     "OBG-C14-019",
-    "OBG-C14-020"
+    "OBG-C14-020",
+    "OBG-C14-021",
+    "OBG-C14-022"
    ]
   },
   {
@@ -1523,14 +1690,15 @@
    "sec": "Diagnosis, fibronectin & neonatal risks · p473-474",
    "guide": "Move from the conventional to the current definition of established PTL, interpret fetal fibronectin by gestational window and link each neonatal risk to its prevention. Focus for this checkpoint: PTL: diagnosis & definitions, PTL: fetal fibronectin & neonatal risks.",
    "qs": [
-    "OBG-C14-021",
-    "OBG-C14-022",
     "OBG-C14-023",
     "OBG-C14-024",
     "OBG-C14-025",
     "OBG-C14-026",
     "OBG-C14-027",
-    "OBG-C14-028"
+    "OBG-C14-028",
+    "OBG-C14-029",
+    "OBG-C14-030",
+    "OBG-C14-031"
    ]
   },
   {
@@ -1541,9 +1709,6 @@
    "sec": "Corticosteroids & tocolytics · p474-475",
    "guide": "Time steroid courses, avoid repeats, and pick tocolytics by gestation and maternal disease while knowing why MgSO4 and progesterone are not tocolytics. Focus for this checkpoint: PTL: corticosteroids, PTL: tocolytics.",
    "qs": [
-    "OBG-C14-029",
-    "OBG-C14-030",
-    "OBG-C14-031",
     "OBG-C14-032",
     "OBG-C14-033",
     "OBG-C14-034",
@@ -1553,7 +1718,11 @@
     "OBG-C14-038",
     "OBG-C14-039",
     "OBG-C14-040",
-    "OBG-C14-041"
+    "OBG-C14-041",
+    "OBG-C14-042",
+    "OBG-C14-043",
+    "OBG-C14-044",
+    "OBG-C14-045"
    ]
   },
   {
@@ -1564,14 +1733,15 @@
    "sec": "MgSO4, GBS, antibiotics & summary · p476",
    "guide": "Give neuroprotective MgSO4 below 32 weeks, screen and prophylax GBS correctly and read the early-versus-late PTL summary grid. Focus for this checkpoint: PTL: MgSO4, GBS & antibiotics; summary.",
    "qs": [
-    "OBG-C14-042",
-    "OBG-C14-043",
-    "OBG-C14-044",
-    "OBG-C14-045",
     "OBG-C14-046",
     "OBG-C14-047",
     "OBG-C14-048",
-    "OBG-C14-049"
+    "OBG-C14-049",
+    "OBG-C14-050",
+    "OBG-C14-051",
+    "OBG-C14-052",
+    "OBG-C14-053",
+    "OBG-C14-054"
    ]
   },
   {
@@ -1582,14 +1752,15 @@
    "sec": "PROM & PPROM: consequences · p477",
    "guide": "Define PROM and its preterm subtypes, then examine safely with speculum while watching for chorioamnionitis, abruptio and cord prolapse. Focus for this checkpoint: PROM/PPROM: definitions & consequences.",
    "qs": [
-    "OBG-C14-050",
-    "OBG-C14-051",
-    "OBG-C14-052",
-    "OBG-C14-053",
-    "OBG-C14-054",
     "OBG-C14-055",
     "OBG-C14-056",
-    "OBG-C14-057"
+    "OBG-C14-057",
+    "OBG-C14-058",
+    "OBG-C14-059",
+    "OBG-C14-060",
+    "OBG-C14-061",
+    "OBG-C14-062",
+    "OBG-C14-063"
    ]
   },
   {
@@ -1600,13 +1771,14 @@
    "sec": "Amniotic fluid evaluation · p478",
    "guide": "Run the bedside and kit tests that prove ruptured membranes: Nitrazine, ferning, ultrasound and the PAMG-1/placental protein assays. Focus for this checkpoint: PROM: diagnosis – fluid evaluation.",
    "qs": [
-    "OBG-C14-058",
-    "OBG-C14-059",
-    "OBG-C14-060",
-    "OBG-C14-061",
-    "OBG-C14-062",
-    "OBG-C14-063",
-    "OBG-C14-064"
+    "OBG-C14-064",
+    "OBG-C14-065",
+    "OBG-C14-066",
+    "OBG-C14-067",
+    "OBG-C14-068",
+    "OBG-C14-069",
+    "OBG-C14-070",
+    "OBG-C14-071"
    ]
   },
   {
@@ -1617,16 +1789,17 @@
    "sec": "PROM management & GBS prophylaxis · p479",
    "guide": "Choose induction, steroids, tocolytics and MgSO4 by PROM category and apply GBS screening and intrapartum prophylaxis rules. Focus for this checkpoint: PROM: management & GBS prophylaxis.",
    "qs": [
-    "OBG-C14-065",
-    "OBG-C14-066",
-    "OBG-C14-067",
-    "OBG-C14-068",
-    "OBG-C14-069",
-    "OBG-C14-070",
-    "OBG-C14-071",
     "OBG-C14-072",
     "OBG-C14-073",
-    "OBG-C14-074"
+    "OBG-C14-074",
+    "OBG-C14-075",
+    "OBG-C14-076",
+    "OBG-C14-077",
+    "OBG-C14-078",
+    "OBG-C14-079",
+    "OBG-C14-080",
+    "OBG-C14-081",
+    "OBG-C14-082"
    ]
   },
   {
@@ -1637,15 +1810,16 @@
    "sec": "Chorioamnionitis · p480",
    "guide": "Diagnose chorioamnionitis clinically with the temperature plus one criterion rule, confirm definitively and deliver vaginally with ampicillin-gentamicin. Focus for this checkpoint: Chorioamnionitis.",
    "qs": [
-    "OBG-C14-075",
-    "OBG-C14-076",
-    "OBG-C14-077",
-    "OBG-C14-078",
-    "OBG-C14-079",
-    "OBG-C14-080",
-    "OBG-C14-081",
-    "OBG-C14-082",
-    "OBG-C14-083"
+    "OBG-C14-083",
+    "OBG-C14-084",
+    "OBG-C14-085",
+    "OBG-C14-086",
+    "OBG-C14-087",
+    "OBG-C14-088",
+    "OBG-C14-089",
+    "OBG-C14-090",
+    "OBG-C14-091",
+    "OBG-C14-092"
    ]
   },
   {
@@ -1656,17 +1830,18 @@
    "sec": "Post-term: overview & pathophysiology · p481",
    "guide": "Define post-term pregnancy, follow the fetoplacental estrogen pathway to labour onset and trace oligohydramnios to meconium aspiration. Focus for this checkpoint: Post-term pregnancy: overview & pathophysiology.",
    "qs": [
-    "OBG-C14-084",
-    "OBG-C14-085",
-    "OBG-C14-086",
-    "OBG-C14-087",
-    "OBG-C14-088",
-    "OBG-C14-089",
-    "OBG-C14-090",
-    "OBG-C14-091",
-    "OBG-C14-092",
     "OBG-C14-093",
-    "OBG-C14-094"
+    "OBG-C14-094",
+    "OBG-C14-095",
+    "OBG-C14-096",
+    "OBG-C14-097",
+    "OBG-C14-098",
+    "OBG-C14-099",
+    "OBG-C14-100",
+    "OBG-C14-101",
+    "OBG-C14-102",
+    "OBG-C14-103",
+    "OBG-C14-104"
    ]
   },
   {
@@ -1677,17 +1852,18 @@
    "sec": "ACOG management & macrosomia · p482",
    "guide": "Induce at 41 weeks per ACOG, weigh the macrosomic fetus by ultrasound and Johnson's formula and apply the C-section weight thresholds. Focus for this checkpoint: Post-term: ACOG management & macrosomia.",
    "qs": [
-    "OBG-C14-095",
-    "OBG-C14-096",
-    "OBG-C14-097",
-    "OBG-C14-098",
-    "OBG-C14-099",
-    "OBG-C14-100",
-    "OBG-C14-101",
-    "OBG-C14-102",
-    "OBG-C14-103",
-    "OBG-C14-104",
-    "OBG-C14-105"
+    "OBG-C14-105",
+    "OBG-C14-106",
+    "OBG-C14-107",
+    "OBG-C14-108",
+    "OBG-C14-109",
+    "OBG-C14-110",
+    "OBG-C14-111",
+    "OBG-C14-112",
+    "OBG-C14-113",
+    "OBG-C14-114",
+    "OBG-C14-115",
+    "OBG-C14-116"
    ]
   }
  ]

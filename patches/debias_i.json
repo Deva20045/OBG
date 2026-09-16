@@ -1,0 +1,314 @@
+[
+  {
+    "op": "edit", "id": "OBG-C15-010",
+    "opts": [
+      "An obstetric conjugate below 10 cm, or a diagonal conjugate below 11.5 cm",
+      "A true conjugate below 12 cm, which is the usual threshold applied",
+      "A bituberous diameter below 10 cm measured at the pelvic outlet",
+      "An interspinous diameter below 10 cm in the mid-cavity"
+    ],
+    "ans": 0,
+    "exp": "Clinical pelvimetry flags contraction when the obstetric conjugate is under 10 cm or the diagonal conjugate under 11.5 cm."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-023",
+    "opts": [
+      "Low-lying: type I — placenta previa: types I, II and III reaching or covering the os",
+      "Low-lying: types I to IV — placenta previa: type I alone",
+      "Low-lying: type II — placenta previa: types III and IV only",
+      "Low-lying: type I — placenta previa: type IV alone"
+    ],
+    "ans": 0,
+    "exp": "In the new classification low-lying placenta is type I, while placenta previa covers types I to III reaching or covering the os."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-025",
+    "q": "Vascular connections between twins — dichorionic : monochorionic diamniotic : monoamniotic.",
+    "opts": [
+      "Dichorionic: none — monochorionic diamniotic: deep arteriovenous — monoamniotic: superficial",
+      "Dichorionic: deep arteriovenous — monochorionic diamniotic: none — monoamniotic: superficial",
+      "Dichorionic: superficial — monochorionic diamniotic: deep — monoamniotic: none at all",
+      "Absent in all three, since anastomoses do not follow chorionicity"
+    ],
+    "ans": 0,
+    "exp": "Dichorionic placentas have no connections; monochorionic diamniotic placentas have deep arteriovenous ones, and monoamniotic placentas superficial ones."
+  },
+  {
+    "op": "edit", "id": "OBG-C23-004",
+    "q": "Match the uterine incision — Sanger's : Kerr's : Kronig's.",
+    "opts": [
+      "Sanger's: classical upper segment vertical — Kerr's: lower segment transverse — Kronig's: low vertical",
+      "Sanger's: lower segment transverse — Kerr's: classical vertical — Kronig's: J-shaped",
+      "Sanger's: low vertical — Kerr's: classical upper segment — Kronig's: lower segment transverse",
+      "Sanger's: T-shaped extension — Kerr's: lower segment transverse — Kronig's: classical"
+    ],
+    "ans": 0,
+    "exp": "Sanger's is the classical vertical incision, Kerr's the standard lower segment transverse, and Kronig's a low vertical incision."
+  },
+  {
+    "op": "edit", "id": "OBG-C5-084",
+    "opts": [
+      "Heart failure from left ventricular systolic dysfunction with an ejection fraction below 45% in the last month or first five months postpartum",
+      "Spontaneous coronary artery dissection presenting at 20 weeks of gestation",
+      "Aortic valve vegetations appearing during the first year after delivery",
+      "A congenital ventricular septal defect first detected in the third trimester"
+    ],
+    "ans": 0,
+    "exp": "Peripartum cardiomyopathy is defined by its timing, by systolic dysfunction and by the absence of another identifiable cause."
+  },
+  {
+    "op": "edit", "id": "OBG-C2-026",
+    "opts": [
+      "Goodell's sign, softening of the cervix felt from about six weeks",
+      "Hegar's sign, softening of the lower uterine segment",
+      "Piskacek's sign, asymmetrical softening of the uterine cornu",
+      "Palmer's sign, rhythmic contraction of the uterus felt on examination"
+    ],
+    "ans": 0,
+    "exp": "Goodell's sign is the earliest probable sign on bimanual examination; Hegar's and Piskacek's follow a little later."
+  },
+  {
+    "op": "edit", "id": "OBG-C8-144",
+    "opts": [
+      "No biophysical profile at all, since bile acid levels alone guide management",
+      "Weekly non-stress test and biophysical profile, with growth scans every three weeks",
+      "Daily ultrasound examination of the fetus and the placenta alone",
+      "A monthly non-stress test until the planned delivery"
+    ],
+    "ans": 1,
+    "exp": "Surveillance in cholestasis is intensified because of the stillbirth risk: weekly testing with growth scans every three weeks."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-070",
+    "q": "Match the bedside kit tests: the Actim test and the Amnisure test detect:",
+    "opts": [
+      "Actim: placental protein 12, or insulin-like growth factor binding protein-1 — Amnisure: PAMG-1",
+      "Actim: PAMG-1 — Amnisure: alpha-fetoprotein in the vaginal fluid",
+      "Both tests detect human chorionic gonadotrophin in vaginal fluid",
+      "Both tests detect fetal fibronectin in cervicovaginal secretions"
+    ],
+    "ans": 0,
+    "exp": "Actim detects IGFBP-1 (placental protein 12) and Amnisure detects placental alpha microglobulin-1 in vaginal fluid."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-053",
+    "opts": [
+      "A newer, smaller, portable disposable vacuum device used for occipito-anterior and posterior positions",
+      "A metal cup designed for delivery of the face presentation",
+      "A rotational forceps with a sliding lock for the transverse head",
+      "A fetal scalp electrode used to monitor the heart rate in labour"
+    ],
+    "ans": 0,
+    "exp": "The Omnicup is a modern handheld vacuum device suitable for both occipito-anterior and occipito-posterior positions."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-074",
+    "q": "Interpretation of the Bishop score — 5 or less : 6 or more : 9 or more.",
+    "opts": [
+      "5 or less: unripe and induction likely to fail — 6 or more: favourable — 9 or more: like spontaneous labour",
+      "5 or less: favourable — 6 or more: unripe — 9 or more: induction has already failed",
+      "5 or less: unripe — 6 or more: still unripe — 9 or more: favourable for induction",
+      "5 or less: vaginal delivery certain — 6 or more: favourable — 9 or more: unripe"
+    ],
+    "ans": 0,
+    "exp": "A score of 5 or less predicts a failed induction, 6 or more is favourable, and 9 or more behaves like spontaneous labour."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-073",
+    "opts": [
+      "Term prelabour rupture only; not in early or late preterm rupture",
+      "Early preterm rupture of membranes only, to avoid ascending infection",
+      "Late preterm rupture of membranes only, once the lungs are mature",
+      "All three groups, since rupture of membranes alone is an indication"
+    ],
+    "ans": 0,
+    "exp": "Induction is listed only for term prelabour rupture; preterm rupture is managed expectantly unless another indication appears."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-019",
+    "opts": [
+      "Cord entanglement with sudden death of both twins; steroids and caesarean at 32-34 weeks",
+      "Twin-to-twin transfusion syndrome treated by laser ablation of the anastomoses",
+      "Preterm labour alone, managed with a cervical cerclage",
+      "No specific risk at all, so vaginal delivery at term is appropriate"
+    ],
+    "ans": 0,
+    "exp": "Monoamniotic twins risk cord entanglement and sudden loss, so steroids are given and delivery planned by caesarean at 32-34 weeks."
+  },
+  {
+    "op": "edit", "id": "OBG-C4-029",
+    "opts": [
+      "A reactive NST has a very high negative predictive value; a non-reactive one has a false-positive rate near 50%",
+      "A non-reactive NST is completely specific for imminent fetal death",
+      "A reactive NST still carries a false-negative rate of about 50%",
+      "Both results carry an identical positive predictive value of 90%"
+    ],
+    "ans": 0,
+    "exp": "A reactive NST is excellent for ruling out compromise; a non-reactive trace is poorly predictive and needs further testing."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-079",
+    "opts": [
+      "A 16 F catheter in the endocervical canal with the bulb at the internal os, inflated with 30 mL saline",
+      "A 12 F catheter in the vagina with the bulb at the external os, inflated with 10 mL",
+      "A 20 F catheter passed into the uterine cavity and inflated with 60 mL",
+      "A 16 F catheter left in the posterior fornix and inflated with 50 mL"
+    ],
+    "ans": 0,
+    "exp": "The bulb sits at the internal os and is inflated with 30 mL, stretching the cervix and stimulating prostaglandin release."
+  },
+  {
+    "op": "edit", "id": "OBG-C7-080",
+    "opts": [
+      "A previous episiotomy and repair in an earlier delivery",
+      "Rh-positive status with a previously affected infant",
+      "New paternity, or a long interpregnancy interval",
+      "Breastfeeding alone, through sustained prolactin release"
+    ],
+    "ans": 2,
+    "exp": "The 'first exposure to a new placenta' hypothesis explains why a new partner or a long gap between pregnancies raises risk."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-048",
+    "opts": [
+      "Bright red, recurrent and painless, with no precipitating factor and often a small warning bleed",
+      "Dark red and non-recurrent, with severe abdominal pain and a tender uterus",
+      "A blood-stained mucus discharge mixed with the cervical show of labour",
+      "A continuous dark trickle of blood with a rigid, tender uterus"
+    ],
+    "ans": 0,
+    "exp": "Previa bleeds bright and painlessly with no trigger; pain, darkness and tenderness point to abruption instead."
+  },
+  {
+    "op": "edit", "id": "OBG-C17-039",
+    "opts": [
+      "After 7-10 days, from ischaemic necrosis of the bladder with constant dribbling of urine",
+      "Immediately after delivery, from a direct laceration of the bladder wall",
+      "After six weeks, from a low-grade infection of the bladder",
+      "Within 24 hours, from trauma caused by the urethral catheter"
+    ],
+    "ans": 0,
+    "exp": "Pressure necrosis declares itself a week or so later as continuous painless dribbling of urine per vaginam."
+  },
+  {
+    "op": "edit", "id": "OBG-C8-254",
+    "opts": [
+      "Rh D isoimmunisation alone, which is the only listed cause",
+      "Maternal obesity alone, acting through an unexplained mechanism",
+      "Maternal hyperthyroidism alone, causing fetal tachycardia",
+      "Chromosomal anomalies, parvovirus B19 or TORCH infection, and fetal anaemia"
+    ],
+    "ans": 3,
+    "exp": "Non-immune hydrops has chromosomal, infective, haematological and cardiac causes; Rh disease is the immune category."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-061",
+    "opts": [
+      "Donor: anaemia with heart failure — recipient: polycythaemia with thrombosis and failure",
+      "Donor: polycythaemia with thrombosis — recipient: anaemia and heart failure",
+      "Both twins become anaemic from the unbalanced transfusion",
+      "Both twins become polycythaemic from the shared circulation"
+    ],
+    "ans": 0,
+    "exp": "The donor is volume depleted and anaemic; the recipient is volume loaded and polycythaemic, with thrombotic and cardiac complications."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-021",
+    "opts": [
+      "The anterior buttock; breech is the exception where the denominator does not lie behind the symphysis",
+      "The sacrum itself, with the denominator behind the symphysis as it is in vertex",
+      "The posterior buttock, with the sacrum pointing anteriorly",
+      "The feet, which is why a breech has no denominator at all"
+    ],
+    "ans": 0,
+    "exp": "In breech the anterior buttock lies behind the symphysis, and the sacrum as denominator is the exception to the general rule."
+  },
+  {
+    "op": "edit", "id": "OBG-C4-028",
+    "opts": [
+      "Extend the monitoring for a further 20 minutes to allow for the fetal sleep cycle",
+      "Perform an immediate emergency caesarean delivery for fetal distress",
+      "Administer a high-dose oxytocin infusion to stress the fetus",
+      "Discharge her with reassurance and repeat the test next week"
+    ],
+    "ans": 0,
+    "exp": "A non-reactive trace is extended to 40 minutes first, because the fetus may simply be asleep."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-003",
+    "opts": [
+      "Primary within 24 hours of delivery; secondary from 24 hours to 12 weeks afterwards",
+      "Primary within 6 hours of delivery; secondary between 6 and 24 hours",
+      "Primary within 1 hour of delivery; secondary from 1 to 7 days",
+      "Primary within 48 hours of delivery; secondary from 2 to 6 weeks"
+    ],
+    "ans": 0,
+    "exp": "Primary PPH is within 24 hours of birth and secondary PPH runs from 24 hours to 12 weeks postpartum."
+  },
+  {
+    "op": "edit", "id": "OBG-C1-092",
+    "opts": [
+      "Chorion laeve, which becomes the chorionic part of the fetal membranes",
+      "Chorion frondosum, where the villi persist and form the definitive placenta",
+      "The Nitabuch layer, where maternal and fetal tissues meet and mix",
+      "Decidua vera, the maternal lining away from the implantation site"
+    ],
+    "ans": 0,
+    "exp": "Villi regress over the abembryonic pole giving chorion laeve; opposite the implantation site they persist as chorion frondosum."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-043",
+    "opts": [
+      "Hyperglycaemia, which is why they are contraindicated in diabetes",
+      "Hypoglycaemia, which needs regular monitoring of blood glucose",
+      "Bradycardia, which limits the dose that can safely be given",
+      "Isolated hypokalaemia, with no other metabolic disturbance"
+    ],
+    "ans": 0,
+    "exp": "Beta-agonists cause tremor, tachycardia, hypotension, pulmonary oedema and hyperglycaemia, so they are avoided in diabetes."
+  },
+  {
+    "op": "edit", "id": "OBG-C13-014",
+    "opts": [
+      "Dichorionic diamniotic, with a separate amnion and chorion for each twin",
+      "Monochorionic diamniotic, sharing a single placental mass",
+      "Monochorionic monoamniotic, with both fetuses in one sac",
+      "Dichorionic monoamniotic, a recognised though uncommon combination"
+    ],
+    "ans": 0,
+    "exp": "Dizygotic twins are always dichorionic diamniotic, since each comes from a separate ovum with its own membranes."
+  },
+  {
+    "op": "edit", "id": "OBG-C17-035",
+    "opts": [
+      "The baby cannot be delivered despite good contractions and full dilatation, from obstruction in the passage",
+      "Failure of the cervix to dilate despite adequate oxytocin augmentation",
+      "A latent phase lasting more than 20 hours in a primigravida",
+      "Delayed delivery caused by contractions that are too weak"
+    ],
+    "ans": 0,
+    "exp": "Obstruction means mechanical blockage with adequate powers; weak contractions are inertia, not obstruction."
+  },
+  {
+    "op": "edit", "id": "OBG-C4-025",
+    "opts": [
+      "Severe fetal anaemia from isoimmunisation, parvovirus or vasa previa, or acute severe hypoxia",
+      "A benign physiological quiet sleep cycle in a healthy fetus",
+      "The normal fetal response to a meal eaten by the mother",
+      "Simple head compression as the head enters the pelvic inlet"
+    ],
+    "ans": 0,
+    "exp": "A sinusoidal pattern is ominous and points to severe anaemia or acute hypoxia, never to a benign sleep cycle."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-019",
+    "opts": [
+      "Seen in multiparous women; oxytocin-driven contractions worse with suckling, settling by day 3",
+      "Seen in primiparous women; prostaglandin-driven, persisting for two weeks",
+      "Caused by retained placental fragments and needing uterine curettage",
+      "Caused by infected lochia and treated with a course of antibiotics"
+    ],
+    "ans": 0,
+    "exp": "After-pains are intermittent oxytocin-driven contractions, commoner in multiparas, aggravated by breastfeeding and settling by the third day."
+  }
+]

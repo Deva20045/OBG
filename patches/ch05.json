@@ -1,0 +1,176 @@
+[
+  {
+    "op": "add", "unit": "OBG-U5-1", "page": 358, "fmt": "fillup",
+    "sec": "Maternal respiratory adaptations & thoracic anatomy",
+    "q": "Fill up: In pregnancy, tidal volume increases by about ______%, which lowers maternal arterial PCO2 to roughly ______ mmHg.",
+    "opts": ["40; 30-32", "40; 40", "10; 30-32", "40; 45"],
+    "ans": 0,
+    "exp": "Progesterone-driven hyperventilation lowers PaCO2 to about 30-32 mmHg, creating the gradient for fetal carbon dioxide transfer."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-2", "page": 358, "fmt": "truefalse",
+    "sec": "Maternal oxygen dynamics, endocrine & visceral changes",
+    "q": "Which of the following statements about respiratory physiology in pregnancy is TRUE?",
+    "opts": [
+      "The fall in maternal PaCO2 is what allows fetal carbon dioxide to diffuse into maternal blood",
+      "Maternal arterial PO2 falls markedly because oxygen consumption outstrips the rise in ventilation",
+      "The gravid uterus pushes the diaphragm downwards, increasing the antero-posterior chest diameter",
+      "Functional residual capacity rises during pregnancy, giving the mother more oxygen reserve"
+    ],
+    "ans": 0,
+    "exp": "PaO2 is normal or slightly higher, the diaphragm rises (transverse diameter widens) and FRC falls, so the pregnant woman desaturates faster."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-3", "page": 359, "fmt": "fillup",
+    "sec": "Iron requirements, metabolism & Anemia Mukt Bharat / I-NIPI",
+    "q": "Fill up: The total extra iron requirement of a pregnancy is about ______ mg, of which roughly ______ mg goes to the fetus and placenta.",
+    "opts": ["1000; 300", "1000; 700", "300; 1000", "500; 300"],
+    "ans": 0,
+    "exp": "About 1000 mg extra iron is needed in total: the largest share expands the maternal red cell mass and about 300 mg goes to the fetus and placenta."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-4", "page": 360, "fmt": "fillup",
+    "sec": "IFA supplementation rules & anemia definitions",
+    "q": "Fill up: Anaemia in pregnancy is diagnosed when the haemoglobin is below ______ g/dL, and severe anaemia when it is below ______ g/dL.",
+    "opts": ["11; 7", "10; 7", "11; 9", "12; 10"],
+    "ans": 0,
+    "exp": "WHO defines anaemia in pregnancy as haemoglobin below 11 g/dL, with severe anaemia below 7 g/dL and moderate between 7 and 9.9 g/dL."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-5", "page": 361, "fmt": "oddoneout",
+    "sec": "Maternal & fetal complications of anemia in pregnancy",
+    "q": "All of the following are recognised consequences of severe maternal anaemia EXCEPT:",
+    "opts": ["Fetal macrosomia", "Preterm labour and low birth weight", "High-output cardiac failure", "Postpartum haemorrhage from poor myometrial contractility"],
+    "ans": 0,
+    "exp": "Severe anaemia impairs oxygen transfer and myometrial function, so growth restriction and preterm birth occur; macrosomia does not."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-6", "page": 362, "fmt": "scenario",
+    "sec": "Clinical evaluation & physical workup of gestational anemia",
+    "q": "A 26-year-old at 30 weeks has a haemoglobin of 8.2 g/dL with pallor, koilonychia, a smooth sore tongue and pica. Which single investigation best confirms the underlying diagnosis?",
+    "opts": [
+      "Serum ferritin estimation",
+      "Serum vitamin B12 assay",
+      "Haemoglobin electrophoresis",
+      "Direct Coombs test"
+    ],
+    "ans": 0,
+    "exp": "Koilonychia, glossitis and pica point to iron deficiency, and serum ferritin is the most specific single test of iron stores."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-7", "page": 364, "fmt": "match",
+    "sec": "Diagnostic RBC indices & iron profile interpretation",
+    "q": "Match the laboratory pattern with the diagnosis — 1) Microcytic hypochromic cells with a low ferritin 2) Macrocytic cells with hypersegmented neutrophils 3) Microcytosis with a normal ferritin and a raised HbA2 … A) Beta thalassaemia trait B) Iron deficiency anaemia C) Folate or vitamin B12 deficiency",
+    "opts": ["1-B, 2-C, 3-A", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-A, 3-C"],
+    "ans": 0,
+    "exp": "Low ferritin confirms iron deficiency, macrocytosis with hypersegmented neutrophils means megaloblastosis, and a raised HbA2 with normal iron means thalassaemia trait."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-8", "page": 365, "fmt": "fillup",
+    "sec": "Oral iron therapy & assessing treatment response",
+    "q": "Fill up: An adequate response to oral iron is a haemoglobin rise of about ______ g/dL over ______ weeks.",
+    "opts": ["1; 3-4", "2; 1", "1; 8", "3; 2"],
+    "ans": 0,
+    "exp": "A rise of roughly 1 g/dL in 3-4 weeks confirms adherence and absorption; failure prompts a search for malabsorption or non-iron causes."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-9", "page": 366, "fmt": "truefalse",
+    "sec": "Parenteral iron therapy, Ganzoni formula & blood transfusion",
+    "q": "Which of the following statements about parenteral iron in pregnancy is TRUE?",
+    "opts": [
+      "Iron sucrose is the preferred parenteral preparation; iron dextran needs a test dose because of anaphylaxis risk",
+      "Intramuscular iron into the gluteal region is the preferred parenteral route in the third trimester",
+      "Total-dose iron infusion is the treatment of choice in the first trimester for severe anaemia",
+      "Parenteral iron must never be given once the haemoglobin has fallen below 7 g/dL"
+    ],
+    "ans": 0,
+    "exp": "Iron sucrose and ferric carboxymaltose are safe after the first trimester; iron dextran risks anaphylaxis, and intramuscular iron is painful and stains the skin."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-10", "page": 367, "fmt": "scenario",
+    "sec": "Trimester-wise gestational management protocol for anemia",
+    "q": "A primigravida at 14 weeks has a haemoglobin of 7.8 g/dL with breathlessness on climbing one flight of stairs. What is the most appropriate plan?",
+    "opts": [
+      "Admit, start parenteral iron sucrose, continue oral iron to term and recheck the haemoglobin in four weeks",
+      "Transfuse packed cells immediately and deliver the pregnancy whatever the gestation",
+      "Continue oral iron alone and review the haemoglobin at 28 weeks",
+      "Recommend termination because severe anaemia before viability is unmanageable"
+    ],
+    "ans": 0,
+    "exp": "In the second trimester a symptomatic woman with severe anaemia needs parenteral iron; transfusion is reserved for decompensation or an imminent need for delivery."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-11", "page": 368, "fmt": "oddoneout",
+    "sec": "Antimicrobial safety & teratogenic hazards in pregnancy",
+    "q": "All of the following antimicrobials are regarded as safe in pregnancy EXCEPT:",
+    "opts": ["Tetracyclines", "Penicillins", "Cephalosporins", "Macrolides such as erythromycin"],
+    "ans": 0,
+    "exp": "Tetracyclines stain fetal teeth and bones and are avoided; penicillins, cephalosporins and macrolides are safe in pregnancy."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-12", "page": 369, "fmt": "match",
+    "sec": "Anticoagulation: LMWH, warfarin & mechanical valves",
+    "q": "Match the exposure with its fetal consequence — 1) Warfarin between 6 and 12 weeks 2) Warfarin near term and in labour 3) Low molecular weight heparin … A) Does not cross the placenta and is the preferred agent B) Warfarin embryopathy with nasal hypoplasia and stippled epiphyses C) Fetal and neonatal intracranial haemorrhage during delivery",
+    "opts": ["1-B, 2-C, 3-A", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-A, 3-C"],
+    "ans": 0,
+    "exp": "Warfarin teratogenicity peaks in organogenesis, near-term use risks fetal bleeding, and heparin molecules do not cross the placenta."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-13", "page": 369, "fmt": "fillup",
+    "sec": "Warfarin embryopathy (DiSaia syndrome) & antiepileptics",
+    "q": "Fill up: The critical window for warfarin embryopathy is between ______ and ______ weeks of gestation.",
+    "opts": ["6; 12", "1; 4", "14; 20", "28; 34"],
+    "ans": 0,
+    "exp": "Exposure from 6 to 12 weeks produces nasal hypoplasia and chondrodysplasia punctata; later exposure mainly risks central nervous system and bleeding problems."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-14", "page": 370, "fmt": "fillup",
+    "sec": "Maternal cardiovascular hemodynamics & peak stress periods",
+    "q": "Fill up: Maternal cardiac output rises by about ______% in pregnancy and peaks around ______ weeks.",
+    "opts": ["40; 20-24", "40; 8-12", "15; 32", "40; 38"],
+    "ans": 0,
+    "exp": "Output rises early and peaks at 20-24 weeks; further surges occur during labour and immediately after delivery."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-15", "page": 371, "fmt": "truefalse",
+    "sec": "Heart failure vs pregnancy signs, RHD & congenital lesions",
+    "q": "Which of the following best distinguishes pathological heart disease from the normal cardiovascular changes of pregnancy?",
+    "opts": [
+      "A loud P2, a third heart sound and persistent basal crepitations are pathological, while a soft systolic flow murmur is not",
+      "Exertional dyspnoea in a pregnant woman is always pathological and needs echocardiography",
+      "Any systolic murmur heard over the pulmonary area in pregnancy indicates organic valve disease",
+      "Pedal oedema in the third trimester always indicates incipient cardiac failure"
+    ],
+    "ans": 0,
+    "exp": "Breathlessness, a soft ejection murmur and ankle oedema are common in normal pregnancy; a loud P2, gallop rhythm and persistent crepitations are not."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-16", "page": 371, "fmt": "oddoneout",
+    "sec": "Lesion prognosis & WHO class IV contraindications",
+    "q": "All of the following are WHO class IV lesions in which pregnancy is contraindicated EXCEPT:",
+    "opts": ["Mild mitral stenosis in NYHA class I", "Pulmonary arterial hypertension of any cause", "Severe left ventricular dysfunction with an ejection fraction below 30%", "Severe mitral stenosis with severe pulmonary hypertension"],
+    "ans": 0,
+    "exp": "Mild mitral stenosis with good functional class is a class II lesion with a small risk; the others carry prohibitive maternal mortality."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-17", "page": 372, "fmt": "scenario",
+    "sec": "Intrapartum & postpartum management of heart disease",
+    "q": "A primigravida with tight mitral stenosis reaches full cervical dilatation. Which intrapartum measure matters most for her safety?",
+    "opts": [
+      "Cut the second stage short with forceps or vacuum under epidural analgesia and avoid Valsalva pushing",
+      "Encourage a long second stage of spontaneous pushing to avoid any instrumentation",
+      "Give intramuscular ergometrine with the delivery of the anterior shoulder",
+      "Withhold analgesia so that warning symptoms of failure are not masked"
+    ],
+    "ans": 0,
+    "exp": "Epidural analgesia and instrumental shortening of the second stage blunt the dangerous cardiac output surges, and ergometrine is avoided."
+  },
+  {
+    "op": "add", "unit": "OBG-U5-18", "page": 373, "fmt": "match",
+    "sec": "Peripartum cardiomyopathy & mitral stenosis management",
+    "q": "Match the lesion with its description — 1) Peripartum cardiomyopathy 2) Mitral stenosis 3) Severe aortic stenosis … A) Systolic dysfunction appearing in the last month of pregnancy or the first five months after delivery B) Diastolic murmur with a loud first sound and opening snap; tachycardia is poorly tolerated C) Fixed cardiac output, so obstruction makes labour and delivery extremely dangerous",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-A, 3-B", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Peripartum cardiomyopathy is defined by its timing, mitral stenosis is a diastolic lesion that cannot raise output through tachycardia, and aortic stenosis fixes output."
+  }
+]

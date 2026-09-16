@@ -1,1044 +1,1236 @@
 {
-  "chapter": 3,
-  "title": "Fetal Assessment and Ultrasound",
-  "pageRange": "327-339",
-  "units": [
-    {
-      "id": "OBG-U3-1",
-      "ch": 3,
-      "n": 1,
-      "title": "Early Ultrasound Signs & Biometry Dating",
-      "sec": "First trimester ultrasound \u00b7 p327-328",
-      "guide": "Early transvaginal sonography identifies sequential gestational hallmarks: the intradecidual sign representing interstitial blastocyst burrowing, the double decidual sign confirming intrauterine pregnancy, and the double bleb sign pairing yolk and amniotic sacs. Crown-rump length (CRL) serves as the gold standard parameter for dating up to 13 weeks + 6 days.",
-      "qs": [
-        "OBG-C3-001",
-        "OBG-C3-002",
-        "OBG-C3-003",
-        "OBG-C3-004",
-        "OBG-C3-005",
-        "OBG-C3-006",
-        "OBG-C3-007"
-      ]
-    },
-    {
-      "id": "OBG-U3-2",
-      "ch": 3,
-      "n": 2,
-      "title": "Second Trimester Biometry, Cervical Length & Fetal Echo",
-      "sec": "Biometry and specialized imaging \u00b7 p328-329",
-      "guide": "Beyond 14 weeks, fetal biometry relies on biparietal diameter (BPD, measured outer-to-inner in the transthalamic plane), head circumference, abdominal circumference (AC, single best growth marker), and femur length. Transvaginal cervical length screening identifies preterm birth risk (<25 mm), while specialized fetal echocardiography at 22-24 weeks evaluates cardiac anomalies.",
-      "qs": [
-        "OBG-C3-008",
-        "OBG-C3-009",
-        "OBG-C3-010",
-        "OBG-C3-011",
-        "OBG-C3-012",
-        "OBG-C3-013"
-      ]
-    },
-    {
-      "id": "OBG-U3-3",
-      "ch": 3,
-      "n": 3,
-      "title": "Anomaly Scan (TIFFA) & Cranial NTDs: Anencephaly & Acrania",
-      "sec": "Level II scan & cranial defects \u00b7 p330-331",
-      "guide": "Targeted Imaging for Fetal Anomalies (TIFFA / Level 2 scan) is universally performed between 18 and 22 weeks. Failure of anterior neuropore closure yields acrania and anencephaly, marked by absent calvarium, deep shallow orbits ('frog-eye' or 'Mickey Mouse' appearance), absent fetal adrenals causing post-term gestation, and polyhydramnios.",
-      "qs": [
-        "OBG-C3-014",
-        "OBG-C3-015",
-        "OBG-C3-016",
-        "OBG-C3-017",
-        "OBG-C3-018",
-        "OBG-C3-019"
-      ]
-    },
-    {
-      "id": "OBG-U3-4",
-      "ch": 3,
-      "n": 4,
-      "title": "Spina Bifida, Arnold-Chiari II Signs & Craniorachischisis",
-      "sec": "Caudal neural tube defects \u00b7 p332-333",
-      "guide": "Spina bifida results from failure of caudal vertebral arches to close, ranging from spina bifida occulta to open meningomyelocele. Classic sonographic hallmarks of Chiari II malformation include the 'lemon sign' (scalloped frontal bones), 'banana sign' (downward displaced cerebellum obliterating the cisterna magna), and hydrocephalus.",
-      "qs": [
-        "OBG-C3-020",
-        "OBG-C3-021",
-        "OBG-C3-022",
-        "OBG-C3-023",
-        "OBG-C3-024",
-        "OBG-C3-025"
-      ]
-    },
-    {
-      "id": "OBG-U3-5",
-      "ch": 3,
-      "n": 5,
-      "title": "Abdominal Wall Defects: Omphalocele vs Gastroschisis",
-      "sec": "Anterior abdominal defects \u00b7 p333-334",
-      "guide": "Omphalocele is a midline umbilical defect enclosed within an amnioperitoneal sac with the umbilical cord inserting onto its apex, carrying high aneuploidy risks. Gastroschisis is a right paraumbilical defect with bowel loops floating freely in amniotic fluid without a membrane, exhibiting normal cord insertion and marked AFP elevation.",
-      "qs": [
-        "OBG-C3-026",
-        "OBG-C3-027",
-        "OBG-C3-028",
-        "OBG-C3-029",
-        "OBG-C3-030"
-      ]
-    },
-    {
-      "id": "OBG-U3-6",
-      "ch": 3,
-      "n": 6,
-      "title": "Alpha-Fetoprotein (AFP) Biology & Diagnostic Deviations",
-      "sec": "Biochemical markers \u00b7 p334",
-      "guide": "Maternal serum alpha-fetoprotein (MSAFP), synthesized by the fetal yolk sac, liver, and gut, is evaluated between 15 and 20 weeks. Elevated MSAFP signifies open NTDs, abdominal wall defects, or multiple gestations, whereas decreased MSAFP is seen in fetal aneuploidies, maternal diabetes, and gestational trophoblastic disease ('Diabetic GOAT').",
-      "qs": [
-        "OBG-C3-031",
-        "OBG-C3-032",
-        "OBG-C3-033",
-        "OBG-C3-034",
-        "OBG-C3-035"
-      ]
-    },
-    {
-      "id": "OBG-U3-7",
-      "ch": 3,
-      "n": 7,
-      "title": "Aneuploidy Principles & Down Syndrome Genetics",
-      "sec": "Chromosomal abnormalities \u00b7 p335-336",
-      "guide": "Aneuploidies stem from chromosomal non-disjunction, Robertsonian translocations, or mosaicism, with Trisomy 16 being the most common cause of early miscarriage. Down syndrome (Trisomy 21) is the most viable autosomal trisomy, carrying a 100% recurrence risk if a parent harbors a balanced t(21;21) Robertsonian translocation.",
-      "qs": [
-        "OBG-C3-036",
-        "OBG-C3-037",
-        "OBG-C3-038",
-        "OBG-C3-039",
-        "OBG-C3-040"
-      ]
-    },
-    {
-      "id": "OBG-U3-8",
-      "ch": 3,
-      "n": 8,
-      "title": "First Trimester Screening: Dual Test & Combined Test",
-      "sec": "First trimester screening \u00b7 p336",
-      "guide": "First trimester screening at 11w0d to 13w6d (CRL 45-84 mm) combines biochemical analytes and sonography. The Dual test measures PAPP-A (decreased) and free beta-hCG (increased in Down syndrome). Combining the Dual test with nuchal translucency (Combined test) achieves an 85-87% detection rate.",
-      "qs": [
-        "OBG-C3-041",
-        "OBG-C3-042",
-        "OBG-C3-043",
-        "OBG-C3-044"
-      ]
-    },
-    {
-      "id": "OBG-U3-9",
-      "ch": 3,
-      "n": 9,
-      "title": "Nuchal Translucency & Cystic Hygroma Differentiation",
-      "sec": "Neck ultrasound markers \u00b7 p337-338",
-      "guide": "Nuchal translucency (NT) is measured in the mid-sagittal plane with a neutral fetal head, considered abnormal when >=3 mm. Increased NT associates with Down syndrome, Turner syndrome, and congenital heart defects. Cystic hygroma is a larger, multiseptated posterior neck lymphangioma with a very high predictive value for aneuploidy.",
-      "qs": [
-        "OBG-C3-045",
-        "OBG-C3-046",
-        "OBG-C3-047",
-        "OBG-C3-048",
-        "OBG-C3-049"
-      ]
-    },
-    {
-      "id": "OBG-U3-10",
-      "ch": 3,
-      "n": 10,
-      "title": "Second Trimester Markers: Triple, Quad & Soft Sonographic Signs",
-      "sec": "Second trimester screening \u00b7 p338",
-      "guide": "Second trimester biochemical screening between 15 and 20 weeks comprises the Triple test and Quad test (adding Inhibin-A). Down syndrome exhibits high hCG and Inhibin-A with low AFP and uE3 ('HI' is high). Key sonographic soft markers include thickened nuchal fold (>=6 mm), absent nasal bone, echogenic intracardiac focus, and choroid plexus cysts.",
-      "qs": [
-        "OBG-C3-050",
-        "OBG-C3-051",
-        "OBG-C3-052",
-        "OBG-C3-053"
-      ]
-    },
-    {
-      "id": "OBG-U3-11",
-      "ch": 3,
-      "n": 11,
-      "title": "Non-Invasive Prenatal Testing (NIPT / cffDNA) & Integrated Screening",
-      "sec": "Advanced prenatal screening \u00b7 p339",
-      "guide": "NIPT analyzes cell-free fetal DNA derived from apoptotic syncytiotrophoblasts in maternal plasma from 10 weeks onward, offering >99% sensitivity for Trisomy 21. Integrated screening fuses first-trimester Combined testing with second-trimester Quad screening to achieve 85-95% detection rates while minimizing invasive procedures.",
-      "qs": [
-        "OBG-C3-054",
-        "OBG-C3-055",
-        "OBG-C3-056",
-        "OBG-C3-057"
-      ]
-    },
-    {
-      "id": "OBG-U3-12",
-      "ch": 3,
-      "n": 12,
-      "title": "Aneuploidy Risk Interpretation & Diagnostic Algorithm",
-      "sec": "Screening algorithms & cutoffs \u00b7 p339",
-      "guide": "Screening results are expressed as personalized risk ratios, using established cutoffs of 1:250 for Down syndrome and 1:100 for Trisomies 18 and 13. Screen-positive findings prompt counseling for secondary screening via NIPT or definitive invasive diagnostic confirmation via CVS (T1) or amniocentesis (T2).",
-      "qs": [
-        "OBG-C3-058",
-        "OBG-C3-059",
-        "OBG-C3-060",
-        "OBG-C3-061"
-      ]
-    }
-  ],
-  "questions": [
-    {
-      "sec": "First trimester ultrasound",
-      "page": 327,
-      "q": "On early transvaginal sonography, the 'intradecidual sign' represents which fundamental embryological event?",
-      "opts": [
-        "Interstitial implantation of the blastocyst within the thickened endometrium",
-        "Complete separation of the amnion and chorion",
-        "Decidual capsularis stretching over the developing embryo",
-        "Appearance of the secondary yolk sac"
-      ],
-      "ans": 0,
-      "exp": "The intradecidual sign is the first sonographic sign of pregnancy, reflecting interstitial implantation of the blastocyst within the decidua. (Book p327)",
-      "id": "OBG-C3-001"
-    },
-    {
-      "sec": "First trimester ultrasound",
-      "page": 327,
-      "q": "The 'double decidual sac sign' (double ring sign) on transvaginal ultrasound confirms an intrauterine pregnancy. What anatomical layers form the inner and outer rings?",
-      "opts": [
-        "Inner ring: Decidua capsularis; Outer ring: Decidua parietalis",
-        "Inner ring: Decidua basalis; Outer ring: Decidua capsularis",
-        "Inner ring: Amnion; Outer ring: Chorion laeve",
-        "Inner ring: Decidua parietalis; Outer ring: Myometrium"
-      ],
-      "ans": 0,
-      "exp": "The double decidual ring consists of an inner ring (decidua capsularis) and an outer ring (decidua parietalis), confirming intrauterine pregnancy. (Book p327)",
-      "id": "OBG-C3-002"
-    },
-    {
-      "sec": "First trimester ultrasound",
-      "page": 327,
-      "q": "The 'double bleb sign' observed on early first-trimester TVS consists of the simultaneous visualization of which two adjacent fluid cavities?",
-      "opts": [
-        "The yolk sac and the developing amniotic sac",
-        "The gestational sac and the pseudogestational sac",
-        "The right and left lateral cerebral ventricles",
-        "The vitelline duct and the allantois"
-      ],
-      "ans": 0,
-      "exp": "The double bleb sign represents the transient side-by-side appearance of the secondary yolk sac and the expanding amniotic sac with the embryonic disc between them. (Book p327)",
-      "id": "OBG-C3-003"
-    },
-    {
-      "sec": "First trimester ultrasound",
-      "page": 327,
-      "q": "What is the single most accurate ultrasound parameter for determining gestational age across the entire pregnancy?",
-      "opts": [
-        "Crown-Rump Length (CRL) measured in the first trimester",
-        "Biparietal diameter (BPD) measured at 18 weeks",
-        "Femur length (FL) measured in the second trimester",
-        "Abdominal circumference (AC) measured in the third trimester"
-      ],
-      "ans": 0,
-      "exp": "Crown-rump length (CRL) measured between 7 and 9 weeks (usable up to 13w6d) is the single most accurate parameter for pregnancy dating (+/- 3-5 days). (Book p327)",
-      "id": "OBG-C3-004"
-    },
-    {
-      "sec": "First trimester ultrasound",
-      "page": 328,
-      "q": "Before an embryonic fetal pole is clearly measurable, the Mean Sac Diameter (MSD) can estimate gestational age in days using which formula?",
-      "opts": [
-        "Gestational age (in days) = MSD (in mm) + 30",
-        "Gestational age (in days) = MSD (in mm) + 42",
-        "Gestational age (in days) = MSD (in mm) x 7",
-        "Gestational age (in days) = MSD (in mm) + 14"
-      ],
-      "ans": 0,
-      "exp": "Gestational age in days can be estimated from early sac dimensions using: MSD (in mm) + 30 = gestational age in days. (Book p328)",
-      "id": "OBG-C3-005"
-    },
-    {
-      "sec": "First trimester ultrasound",
-      "page": 328,
-      "q": "Crown-Rump Length (CRL) is valid for gestational age estimation up to 13 weeks + 6 days, provided the CRL measurement remains below:",
-      "opts": [
-        "84 mm",
-        "65 mm",
-        "100 mm",
-        "50 mm"
-      ],
-      "ans": 0,
-      "exp": "CRL is used up to 13 weeks + 6 days and CRL < 84 mm; once CRL >= 84 mm, biparietal diameter (BPD) and head circumference are utilized. (Book p328)",
-      "id": "OBG-C3-006"
-    },
-    {
-      "sec": "First trimester ultrasound",
-      "page": 328,
-      "q": "In a twin gestation conceived spontaneously where a size discrepancy exists between the two fetuses on first-trimester ultrasound, the EDD is determined by:",
-      "opts": [
-        "The CRL measurement of the larger twin",
-        "The CRL measurement of the smaller twin",
-        "The mathematical average of both CRL measurements",
-        "Discarding the ultrasound and relying strictly on LMP"
-      ],
-      "ans": 0,
-      "exp": "In twin pregnancies with growth discrepancy, gestational age dating and EDD calculation are based on the larger fetus to avoid missing early growth restriction. (Book p328)",
-      "id": "OBG-C3-007"
-    },
-    {
-      "sec": "Biometry and specialized imaging",
-      "page": 328,
-      "q": "When measuring the Biparietal Diameter (BPD) in the second trimester, the ultrasound calipers should be placed on which anatomical skull margins?",
-      "opts": [
-        "From the outer table of the proximal parietal bone to the inner table of the distal parietal bone",
-        "From the outer table to the outer table of both parietal bones",
-        "From the inner table to the inner table of both parietal bones",
-        "Across the fronto-occipital axis"
-      ],
-      "ans": 0,
-      "exp": "BPD is measured in the transthalamic plane from the outer table of the skull on the near field to the inner table of the skull on the far field. (Book p328)",
-      "id": "OBG-C3-008"
-    },
-    {
-      "sec": "Biometry and specialized imaging",
-      "page": 328,
-      "q": "Which fetal biometric parameter is considered the single most sensitive marker for assessing fetal nutritional status, IUGR, and macrosomia?",
-      "opts": [
-        "Abdominal Circumference (AC)",
-        "Biparietal Diameter (BPD)",
-        "Femur Length (FL)",
-        "Head Circumference (HC)"
-      ],
-      "ans": 0,
-      "exp": "Abdominal circumference reflects fetal liver size and subcutaneous abdominal fat stores, making it the most sensitive biometry parameter for fetal growth. (Book p328)",
-      "id": "OBG-C3-009"
-    },
-    {
-      "sec": "Biometry and specialized imaging",
-      "page": 328,
-      "q": "What is the recommended gestational window for conducting the routine Targeted Imaging for Fetal Anomalies (TIFFA / Level II scan)?",
-      "opts": [
-        "18 to 22 weeks of gestation",
-        "11 to 13 weeks + 6 days",
-        "24 to 28 weeks of gestation",
-        "32 to 34 weeks of gestation"
-      ],
-      "ans": 0,
-      "exp": "The Level II anomaly scan (TIFFA) is universally recommended for all pregnant women between 18 and 22 weeks of gestation. (Book p328)",
-      "id": "OBG-C3-010"
-    },
-    {
-      "sec": "Biometry and specialized imaging",
-      "page": 329,
-      "q": "In women with a history of spontaneous preterm birth, transvaginal cervical length screening is indicated; a cervical length is considered abnormal when it measures:",
-      "opts": [
-        "< 25 mm before 24 weeks of gestation",
-        "< 35 mm at 28 weeks",
-        "< 15 mm at 36 weeks",
-        "< 40 mm in the first trimester"
-      ],
-      "ans": 0,
-      "exp": "A TVS cervical length < 25 mm prior to 24 weeks identifies high risk for recurrent preterm labor and is an indication for vaginal progesterone or cerclage. (Book p329)",
-      "id": "OBG-C3-011"
-    },
-    {
-      "sec": "Biometry and specialized imaging",
-      "page": 329,
-      "q": "What is the optimal gestational age to assess definitive placental localization to diagnose or exclude placenta previa, and when should borderline cases be repeated?",
-      "opts": [
-        "Best evaluated at 32 weeks, and repeated at 36 weeks",
-        "Evaluated at 12 weeks, repeated at 18 weeks",
-        "Evaluated at 20 weeks, repeated at 24 weeks",
-        "Evaluated at 38 weeks only"
-      ],
-      "ans": 0,
-      "exp": "Placental localization is best assessed at 32 weeks (accounting for trophotropism/apparent placental migration) and confirmed at 36 weeks if low-lying. (Book p329)",
-      "id": "OBG-C3-012"
-    },
-    {
-      "sec": "Biometry and specialized imaging",
-      "page": 329,
-      "q": "A specialized fetal echocardiogram is ideally performed between 22 and 24 weeks of gestation. Which of the following is a recognized maternal indication?",
-      "opts": [
-        "First-trimester lithium exposure (risk of Ebstein anomaly)",
-        "Controlled gestational hypertension on labetalol",
-        "Maternal iron deficiency anemia",
-        "History of uncomplicated twin delivery"
-      ],
-      "ans": 0,
-      "exp": "Indications for fetal echo include lithium exposure (Ebstein anomaly), maternal anti-Ro/SSA antibodies (congenital heart block), maternal pregestational DM, and aneuploidy. (Book p329)",
-      "id": "OBG-C3-013"
-    },
-    {
-      "sec": "Level II scan & cranial defects",
-      "page": 330,
-      "q": "What is the fundamental embryological defect underlying anencephaly?",
-      "opts": [
-        "Failure of closure of the cranial (anterior) neuropore around day 24-26",
-        "Failure of closure of the caudal (posterior) neuropore around day 26-28",
-        "Premature fusion of the sagittal cranial suture",
-        "Agenesis of the corpus callosum"
-      ],
-      "ans": 0,
-      "exp": "Anencephaly results from failure of closure of the cranial neuropore, leaving neuroectoderm exposed to amniotic fluid where it degenerates. (Book p330)",
-      "id": "OBG-C3-014"
-    },
-    {
-      "sec": "Level II scan & cranial defects",
-      "page": 330,
-      "q": "What is the most frequent anatomical site for the development of a fetal encephalocele?",
-      "opts": [
-        "Occipital bone (75-80%)",
-        "Frontal bone",
-        "Parietal bone",
-        "Sphenoid bone"
-      ],
-      "ans": 0,
-      "exp": "Encephaloceles most commonly arise in the occipital region through a calvarial defect in the occipital bone. (Book p330)",
-      "id": "OBG-C3-015"
-    },
-    {
-      "sec": "Level II scan & cranial defects",
-      "page": 331,
-      "q": "Anencephaly is characteristically associated with post-term pregnancy (>42 weeks). What is the underlying pathophysiological mechanism?",
-      "opts": [
-        "Absence or hypoplasia of fetal pituitary and adrenal glands leading to deficient DHEAS and reduced estrogen",
-        "Excessive production of fetal progesterone by the placenta",
-        "Premature rupture of membranes",
-        "Severe maternal hyperprolactinemia"
-      ],
-      "ans": 0,
-      "exp": "Anencephalic fetuses lack hypothalamus/pituitary-adrenal stimulation, leading to deficient DHEAS, low maternal estrogen, and failure of labor initiation. (Book p331)",
-      "id": "OBG-C3-016"
-    },
-    {
-      "sec": "Level II scan & cranial defects",
-      "page": 331,
-      "q": "Why is polyhydramnios frequently seen in fetuses affected by anencephaly during the late second and third trimesters?",
-      "opts": [
-        "Impaired fetal swallowing reflex combined with transudation of fluid from exposed neural tissue",
-        "Excessive fetal urination secondary to renal hypertrophy",
-        "Severe fetal cardiac failure causing polyuria",
-        "Overproduction of lung surfactant into amniotic fluid"
-      ],
-      "ans": 0,
-      "exp": "Polyhydramnios develops because the anencephalic fetus cannot swallow amniotic fluid due to lack of cerebral swallowing centers. (Book p331)",
-      "id": "OBG-C3-017"
-    },
-    {
-      "sec": "Level II scan & cranial defects",
-      "page": 331,
-      "q": "What is the earliest gestational age at which anencephaly can be recognized on transvaginal sonography, and what is the classic facial sign?",
-      "opts": [
-        "Earliest at 10-12 weeks; 'Frog-eye' or 'Mickey Mouse' sign due to prominent bulging orbits and absent calvarium",
-        "Earliest at 18 weeks; 'Lemon sign'",
-        "Earliest at 24 weeks; 'Banana sign'",
-        "Earliest at 6 weeks; 'Double bleb sign'"
-      ],
-      "ans": 0,
-      "exp": "Anencephaly can be spotted at 10-12 weeks (best at 14w) displaying the 'frog-eye' or 'Mickey Mouse' appearance of prominent globes with absent skull vault. (Book p331)",
-      "id": "OBG-C3-018"
-    },
-    {
-      "sec": "Level II scan & cranial defects",
-      "page": 331,
-      "q": "What is the empiric recurrence risk of a neural tube defect in a subsequent pregnancy after ONE previously affected child?",
-      "opts": [
-        "Approximately 3% to 5%",
-        "Approximately 0.1%",
-        "Approximately 25%",
-        "Approximately 50%"
-      ],
-      "ans": 0,
-      "exp": "The recurrence risk of an NTD is approximately 3-5% after one affected pregnancy, rising to 10% after two affected pregnancies. (Book p331)",
-      "id": "OBG-C3-019"
-    },
-    {
-      "sec": "Caudal neural tube defects",
-      "page": 332,
-      "q": "Maternal hyperthermia or fever (body temperature elevated by >= 1.5\u00b0C) during the first trimester is recognized as a teratogenic risk factor for:",
-      "opts": [
-        "Neural tube defects, microcephaly, and neurodevelopmental delay",
-        "Omphalocele and gastroschisis",
-        "Renal agenesis (Potter sequence)",
-        "Skeletal dysplasias"
-      ],
-      "ans": 0,
-      "exp": "First-trimester hyperthermia/fever (elevated >=1.5\u00b0C) disrupts mitotic neurogenesis and neuropore closure, causing NTDs and microcephaly. (Book p332)",
-      "id": "OBG-C3-020"
-    },
-    {
-      "sec": "Caudal neural tube defects",
-      "page": 332,
-      "q": "What is considered the gold-standard, most sensitive biochemical marker measured in amniotic fluid to confirm an open neural tube defect?",
-      "opts": [
-        "Acetylcholinesterase (AChE)",
-        "Alpha-fetoprotein (AFP)",
-        "Unconjugated estriol (uE3)",
-        "Human chorionic gonadotropin (hCG)"
-      ],
-      "ans": 0,
-      "exp": "Amniotic fluid acetylcholinesterase (AChE) is the best, highly specific biochemical marker for open neural tube defects. (Book p332)",
-      "id": "OBG-C3-021"
-    },
-    {
-      "sec": "Caudal neural tube defects",
-      "page": 332,
-      "q": "In spina bifida aperta, what is the anatomical difference between a meningocele and a meningomyelocele?",
-      "opts": [
-        "Meningocele involves herniation of meninges only; meningomyelocele involves herniation of both meninges and spinal cord elements",
-        "Meningocele is covered by intact skin; meningomyelocele is completely open",
-        "Meningocele contains brain tissue; meningomyelocele contains spinal cord",
-        "Meningocele occurs only in the occiput; meningomyelocele occurs only in the sacrum"
-      ],
-      "ans": 0,
-      "exp": "A meningocele contains only meninges and cerebrospinal fluid in the herniated sac; a meningomyelocele contains neural tissue/spinal cord as well. (Book p332)",
-      "id": "OBG-C3-022"
-    },
-    {
-      "sec": "Caudal neural tube defects",
-      "page": 332,
-      "q": "On cranial ultrasound of a fetus with open spina bifida, the 'Banana sign' refers to:",
-      "opts": [
-        "Anterior curvature and caudal displacement of the cerebellum around the brainstem, obliterating the cisterna magna",
-        "Scalloping and inward indentation of the frontal cranial bones",
-        "Severe asymmetrical dilation of the lateral ventricles",
-        "Absence of the cavum septum pellucidum"
-      ],
-      "ans": 0,
-      "exp": "The 'banana sign' describes the cerebellar vermis herniating into the foramen magnum and curving anteriorly around the brainstem in Arnold-Chiari II malformation. (Book p332)",
-      "id": "OBG-C3-023"
-    },
-    {
-      "sec": "Caudal neural tube defects",
-      "page": 332,
-      "q": "The 'Lemon sign' seen on second-trimester fetal cranial sonography is characterized by:",
-      "opts": [
-        "Inward scalloping and concavity of the frontal calvarial bones due to reduced intracranial pressure",
-        "A narrow, elongated anterior fontanelle",
-        "Widening of the posterior fossa cistern",
-        "Bulging parietal bones with coronal synostosis"
-      ],
-      "ans": 0,
-      "exp": "The 'lemon sign' represents inward scalloping of the frontal bones produced by downward traction on intracranial contents in open spina bifida. (Book p332)",
-      "id": "OBG-C3-024"
-    },
-    {
-      "sec": "Caudal neural tube defects",
-      "page": 333,
-      "q": "The severe lethal malformation termed 'Craniorachischisis' is characterized by:",
-      "opts": [
-        "Combined continuous failure of neural tube closure encompassing both anencephaly and total open spina bifida",
-        "Occipital encephalocele accompanied by polycystic kidneys",
-        "Herniation of the posterior fossa contents into an occipital sac (Chiari III)",
-        "Isolated sacrococcygeal teratoma with open spine"
-      ],
-      "ans": 0,
-      "exp": "Craniorachischisis is the most extreme form of NTD, with complete non-closure of the neural tube extending from the brainstem throughout the entire spine. (Book p333)",
-      "id": "OBG-C3-025"
-    },
-    {
-      "sec": "Anterior abdominal defects",
-      "page": 333,
-      "q": "What is the critical anatomical covering that distinguishes an omphalocele from gastroschisis?",
-      "opts": [
-        "An omphalocele is enclosed within a protective peritoneal-amniotic sac; gastroschisis is completely uncovered",
-        "Gastroschisis is enclosed within a thick amnion sac; omphalocele is uncovered",
-        "Both defects are always enclosed within Wharton's jelly",
-        "Both defects lack any peritoneal covering"
-      ],
-      "ans": 0,
-      "exp": "An omphalocele is enclosed by a two-layered sac (peritoneum internally, amnion externally); gastroschisis is an open defect without any covering sac. (Book p333)",
-      "id": "OBG-C3-026"
-    },
-    {
-      "sec": "Anterior abdominal defects",
-      "page": 334,
-      "q": "Where is the abdominal wall defect located in gastroschisis relative to the umbilical cord insertion?",
-      "opts": [
-        "Full-thickness defect located to the right of a normally inserted umbilical cord",
-        "Directly through the midline umbilical ring",
-        "Full-thickness defect to the left of the umbilical cord",
-        "Supraumbilical midline defect involving the lower sternum"
-      ],
-      "ans": 0,
-      "exp": "Gastroschisis is located almost always immediately to the right of an intact, normally attached umbilical cord. (Book p334)",
-      "id": "OBG-C3-027"
-    },
-    {
-      "sec": "Anterior abdominal defects",
-      "page": 334,
-      "q": "In which anterior abdominal wall defect is the insertion of the umbilical cord situated directly onto the apex of the herniated sac?",
-      "opts": [
-        "Omphalocele",
-        "Gastroschisis",
-        "Bladder exstrophy",
-        "Prune belly syndrome"
-      ],
-      "ans": 0,
-      "exp": "In omphalocele, the umbilical cord inserts directly onto the apex of the membranous sac, with umbilical vessels radiating across its surface. (Book p334)",
-      "id": "OBG-C3-028"
-    },
-    {
-      "sec": "Anterior abdominal defects",
-      "page": 334,
-      "q": "Which abdominal wall defect carries a very high rate of associated chromosomal aneuploidies (particularly Trisomy 18 and 13) and Beckwith-Wiedemann syndrome?",
-      "opts": [
-        "Omphalocele (50-70% associated anomalies; karyotyping indicated)",
-        "Gastroschisis (aneuploidy is extremely rare; karyotyping not routinely indicated)",
-        "Urachal fistula",
-        "Patent vitelline duct"
-      ],
-      "ans": 0,
-      "exp": "Omphalocele is associated with major chromosomal trisomies (Trisomy 18 > 13 > 21) and syndromes in >50% of cases, warranting karyotyping. (Book p334)",
-      "id": "OBG-C3-029"
-    },
-    {
-      "sec": "Anterior abdominal defects",
-      "page": 334,
-      "q": "Why must a definitive sonographic diagnosis of omphalocele NEVER be made before 11 completed weeks of gestation?",
-      "opts": [
-        "Because physiological midgut herniation into the umbilical cord normally persists until 9-11 weeks",
-        "Because the liver does not develop until 12 weeks",
-        "Because amniotic fluid volume is insufficient for visualization",
-        "Because fetal abdominal muscles do not form until the second trimester"
-      ],
-      "ans": 0,
-      "exp": "Physiological midgut rotation and herniation into the umbilical coelom is normal between 6 and 10 weeks; diagnosis of omphalocele is made after 11 weeks. (Book p334)",
-      "id": "OBG-C3-030"
-    },
-    {
-      "sec": "Biochemical markers",
-      "page": 334,
-      "q": "During human fetal development, alpha-fetoprotein (AFP) is predominantly synthesized by which tissues?",
-      "opts": [
-        "Fetal yolk sac, fetal liver, and gastrointestinal tract",
-        "Placental syncytiotrophoblast",
-        "Maternal hepatocytes",
-        "Fetal adrenal cortex"
-      ],
-      "ans": 0,
-      "exp": "AFP is a fetal-specific glycoprotein synthesized primarily by the secondary yolk sac in early gestation, and later by the fetal liver and GI tract. (Book p334)",
-      "id": "OBG-C3-031"
-    },
-    {
-      "sec": "Biochemical markers",
-      "page": 334,
-      "q": "At what gestational age does fetal serum concentration of alpha-fetoprotein (AFP) reach its maximal peak?",
-      "opts": [
-        "13 weeks of gestation",
-        "8 weeks of gestation",
-        "20 weeks of gestation",
-        "32 weeks of gestation"
-      ],
-      "ans": 0,
-      "exp": "Fetal serum AFP levels peak at approximately 13 weeks of gestation, following which concentrations decline in fetal serum while rising in maternal serum. (Book p334)",
-      "id": "OBG-C3-032"
-    },
-    {
-      "sec": "Biochemical markers",
-      "page": 334,
-      "q": "What is the optimal gestational age window for screening maternal serum alpha-fetoprotein (MSAFP)?",
-      "opts": [
-        "16 to 18 weeks of gestation (acceptable range: 15 to 20 weeks)",
-        "11 to 13 weeks + 6 days",
-        "24 to 28 weeks of gestation",
-        "6 to 8 weeks of gestation"
-      ],
-      "ans": 0,
-      "exp": "MSAFP screening is ideally performed between 16 and 18 weeks (range 15-20 weeks); first-trimester MSAFP has very low diagnostic sensitivity. (Book p334)",
-      "id": "OBG-C3-033"
-    },
-    {
-      "sec": "Biochemical markers",
-      "page": 334,
-      "q": "Which of the following conditions is characteristically associated with a pathologically ELEVATED maternal serum alpha-fetoprotein (MSAFP) level?",
-      "opts": [
-        "Open neural tube defect (anencephaly, spina bifida aperta)",
-        "Down syndrome (Trisomy 21)",
-        "Complete hydatidiform mole",
-        "Overestimated gestational age"
-      ],
-      "ans": 0,
-      "exp": "MSAFP is elevated in open NTDs, abdominal wall defects (gastroschisis, omphalocele), multiple pregnancy, fetal demise, and underestimated gestational age. (Book p334)",
-      "id": "OBG-C3-034"
-    },
-    {
-      "sec": "Biochemical markers",
-      "page": 334,
-      "q": "Using the clinical mnemonic 'Diabetic GOAT', which of the following causes a DECREASE in maternal serum alpha-fetoprotein (MSAFP)?",
-      "opts": [
-        "Maternal pregestational diabetes, Gestational trophoblastic disease, Overestimated dates, and Aneuploidy/Trisomies",
-        "Gastroschisis, Omphalocele, Anencephaly, and Twin gestation",
-        "Gestational diabetes, Oligohydramnios, Abruptio, and Teratoma",
-        "Glomerulonephritis, Open spina bifida, Atresia, and Turner syndrome"
-      ],
-      "ans": 0,
-      "exp": "Decreased MSAFP ('Diabetic GOAT'): Diabetes, Gestational trophoblastic disease, Overestimated gestational age, Aneuploidy (Trisomy 21, 18, 13), Trisomies. (Book p334)",
-      "id": "OBG-C3-035"
-    },
-    {
-      "sec": "Chromosomal abnormalities",
-      "page": 335,
-      "q": "What is the single most common chromosomal trisomy identified in first-trimester spontaneous miscarriages?",
-      "opts": [
-        "Trisomy 16 (always lethal in embryogenesis)",
-        "Trisomy 21",
-        "Trisomy 18",
-        "Trisomy 13"
-      ],
-      "ans": 0,
-      "exp": "Trisomy 16 is the single most common autosomal trisomy found in first-trimester spontaneous abortions; it is uniformly non-viable. (Book p335)",
-      "id": "OBG-C3-036"
-    },
-    {
-      "sec": "Chromosomal abnormalities",
-      "page": 335,
-      "q": "What is the primary genetic mechanism responsible for approximately 95% of cases of Down syndrome (Trisomy 21)?",
-      "opts": [
-        "Maternal meiotic non-disjunction (strongly linked to advanced maternal age)",
-        "Robertsonian translocation involving chromosomes 14 and 21",
-        "Mitotic non-disjunction producing mosaicism",
-        "Paternal meiotic deletion of the long arm of chromosome 21"
-      ],
-      "ans": 0,
-      "exp": "95% of Down syndrome cases arise from meiotic non-disjunction (overwhelmingly maternal Meiosis I), which correlates with maternal age. (Book p335)",
-      "id": "OBG-C3-037"
-    },
-    {
-      "sec": "Chromosomal abnormalities",
-      "page": 335,
-      "q": "If a father or mother is an asymptomatic balanced carrier of a Robertsonian translocation between homologous chromosomes 21;21 [t(21q21q)], what is the chance of having a child with Down syndrome in every pregnancy?",
-      "opts": [
-        "100% chance",
-        "25% chance",
-        "50% chance",
-        "5-10% chance"
-      ],
-      "ans": 0,
-      "exp": "A balanced homologous 21;21 translocation carrier can only produce gametes with either two 21s (Down) or zero 21s (monosomy 21, lethal), giving a 100% risk. (Book p335)",
-      "id": "OBG-C3-038"
-    },
-    {
-      "sec": "Chromosomal abnormalities",
-      "page": 335,
-      "q": "In a family where a parent carries a balanced non-homologous Robertsonian translocation t(14;21), what is the empirical risk of Down syndrome in offspring when the MOTHER is the carrier versus when the FATHER is the carrier?",
-      "opts": [
-        "10-15% when mother is carrier; 2-5% when father is carrier",
-        "50% for mother; 50% for father",
-        "100% for mother; 0% for father",
-        "25% for mother; 10-15% for father"
-      ],
-      "ans": 0,
-      "exp": "For balanced t(14;21) carriers, recurrence risk is 10-15% if the mother is the carrier, but only 2-5% if the father is the carrier. (Book p335)",
-      "id": "OBG-C3-039"
-    },
-    {
-      "sec": "Chromosomal abnormalities",
-      "page": 336,
-      "q": "What is the gold standard diagnostic test to confirm fetal chromosomal aneuploidy when screening is positive?",
-      "opts": [
-        "Karyotyping (G-banding) of fetal cells via CVS or amniocentesis",
-        "Targeted level II ultrasound",
-        "Cell-free fetal DNA quantification",
-        "Maternal serum triple test"
-      ],
-      "ans": 0,
-      "exp": "Fetal karyotyping (or chromosomal microarray/FISH) obtained via invasive testing provides the definitive diagnostic confirmation of chromosomal abnormalities. (Book p336)",
-      "id": "OBG-C3-040"
-    },
-    {
-      "sec": "First trimester screening",
-      "page": 336,
-      "q": "What are the two maternal serum biochemical analytes measured in the first-trimester 'Dual test' between 11 and 13+6 weeks?",
-      "opts": [
-        "Pregnancy-associated plasma protein A (PAPP-A) and free beta-hCG",
-        "Alpha-fetoprotein (AFP) and unconjugated estriol (uE3)",
-        "Inhibin-A and total hCG",
-        "Human placental lactogen (hPL) and progesterone"
-      ],
-      "ans": 0,
-      "exp": "The Dual test measures serum PAPP-A and free beta-hCG between 11w0d and 13w6d (CRL 45-84 mm). (Book p336)",
-      "id": "OBG-C3-041"
-    },
-    {
-      "sec": "First trimester screening",
-      "page": 336,
-      "q": "In a fetus affected by Down syndrome (Trisomy 21), what typical pattern of PAPP-A and free beta-hCG is found on first-trimester biochemical screening?",
-      "opts": [
-        "Decreased PAPP-A and increased free beta-hCG",
-        "Increased PAPP-A and decreased free beta-hCG",
-        "Both PAPP-A and free beta-hCG are markedly decreased",
-        "Both PAPP-A and free beta-hCG are markedly increased"
-      ],
-      "ans": 0,
-      "exp": "Down syndrome displays reduced PAPP-A (<0.5 MoM) and elevated free beta-hCG (>2.0 MoM); in Trisomy 18 and 13, both analytes are significantly decreased. (Book p336)",
-      "id": "OBG-C3-042"
-    },
-    {
-      "sec": "First trimester screening",
-      "page": 336,
-      "q": "Beyond screening for chromosomal aneuploidies, an isolated finding of very low first-trimester maternal serum PAPP-A (<0.4 MoM) is an established predictor for:",
-      "opts": [
-        "Placental insufficiency leading to fetal growth restriction (IUGR) and pre-eclampsia",
-        "Macrosomia and polyhydramnios",
-        "Gestational diabetes mellitus",
-        "Post-term prolonged pregnancy"
-      ],
-      "ans": 0,
-      "exp": "Low first-trimester PAPP-A reflects impaired trophoblastic invasion and placentation, strongly predicting IUGR, pre-eclampsia, and preterm birth. (Book p336)",
-      "id": "OBG-C3-043"
-    },
-    {
-      "sec": "First trimester screening",
-      "page": 336,
-      "q": "What components constitute the 'Combined test' for first-trimester Down syndrome screening, and what is its approximate detection rate?",
-      "opts": [
-        "Dual test (PAPP-A + free beta-hCG) plus sonographic Nuchal Translucency (NT); detection rate 82-87%",
-        "Triple test plus Level II targeted ultrasound; detection rate 65%",
-        "Nuchal translucency plus ductus venosus Doppler; detection rate 50%",
-        "Quad test plus NIPT; detection rate 70%"
-      ],
-      "ans": 0,
-      "exp": "The first-trimester Combined test incorporates maternal age, Dual test analytes, and ultrasound NT, yielding an 82-87% detection rate for Down syndrome. (Book p336)",
-      "id": "OBG-C3-044"
-    },
-    {
-      "sec": "Neck ultrasound markers",
-      "page": 337,
-      "q": "Between what gestational age and CRL range must fetal Nuchal Translucency (NT) be measured?",
-      "opts": [
-        "11 weeks + 0 days to 13 weeks + 6 days (CRL 45 mm to 84 mm)",
-        "9 weeks + 0 days to 11 weeks + 0 days (CRL 25 mm to 44 mm)",
-        "14 weeks + 0 days to 16 weeks + 0 days (CRL 85 mm to 110 mm)",
-        "16 weeks + 0 days to 20 weeks + 0 days (CRL > 120 mm)"
-      ],
-      "ans": 0,
-      "exp": "NT measurement is strictly validated between 11w0d and 13w6d when the embryonic CRL is 45 to 84 mm. (Book p337)",
-      "id": "OBG-C3-045"
-    },
-    {
-      "sec": "Neck ultrasound markers",
-      "page": 337,
-      "q": "What is the normal upper physiological cutoff for Nuchal Translucency (NT), above which it is classified as abnormally increased?",
-      "opts": [
-        "< 3.0 mm (or < 95th percentile for CRL)",
-        "< 1.5 mm",
-        "< 6.0 mm",
-        "< 10.0 mm"
-      ],
-      "ans": 0,
-      "exp": "An NT measurement >= 3.0 mm (or >95th percentile) is pathologically thickened, signaling heightened risk of aneuploidy or structural heart disease. (Book p337)",
-      "id": "OBG-C3-046"
-    },
-    {
-      "sec": "Neck ultrasound markers",
-      "page": 337,
-      "q": "A thickened fetal Nuchal Translucency (>= 3.0 mm) with a normal fetal karyotype is an established indication to evaluate for which structural defect?",
-      "opts": [
-        "Congenital heart disease (warrants specialized fetal echocardiography at 22-24 weeks)",
-        "Duodenal atresia",
-        "Polycystic kidney disease",
-        "Unilateral clubfoot"
-      ],
-      "ans": 0,
-      "exp": "In chromosomally normal fetuses with elevated NT, major congenital cardiac defects are the most frequent structural anomaly, requiring fetal echo. (Book p337)",
-      "id": "OBG-C3-047"
-    },
-    {
-      "sec": "Neck ultrasound markers",
-      "page": 337,
-      "q": "What technical criteria must be fulfilled to obtain an accurate, standardized Nuchal Translucency (NT) measurement?",
-      "opts": [
-        "Mid-sagittal plane, neutral fetal head (not flexed/extended), separate visualization of amnion, and calipers placed inner-to-inner",
-        "Transverse axial plane across the orbits with head fully extended",
-        "Coronal plane through the cervical spine with amnion touching the skin",
-        "Any plane showing the neck with calipers placed outer-to-outer"
-      ],
-      "ans": 0,
-      "exp": "Standard NT criteria: mid-sagittal view, neutral head, magnification of head/thorax, separate amnion, and calipers placed inner-to-inner across widest lucency. (Book p337)",
-      "id": "OBG-C3-048"
-    },
-    {
-      "sec": "Neck ultrasound markers",
-      "page": 338,
-      "q": "How does a Cystic Hygroma differ sonographically and clinically from simple increased Nuchal Translucency?",
-      "opts": [
-        "Cystic hygroma is a larger, widespread, multiseptated lymphatic sac extending beyond the neck, carrying higher aneuploidy risk",
-        "Cystic hygroma never contains internal septations and is limited to the subocciput",
-        "Cystic hygroma has no association with chromosomal abnormalities",
-        "Nuchal translucency always exhibits internal vascular flow on color Doppler"
-      ],
-      "ans": 0,
-      "exp": "Cystic hygroma is a bilateral, multiseptated cystic lymphangioma extending along the posterolateral neck/body, carrying a >60% aneuploidy risk. (Book p338)",
-      "id": "OBG-C3-049"
-    },
-    {
-      "sec": "Second trimester screening",
-      "page": 338,
-      "q": "Which biochemical analyte is added to the classic Triple test (AFP, hCG, uE3) to construct the Quadruple test for Down syndrome screening?",
-      "opts": [
-        "Inhibin-A",
-        "Pregnancy-associated plasma protein A (PAPP-A)",
-        "Placental growth factor (PlGF)",
-        "Human placental lactogen (hPL)"
-      ],
-      "ans": 0,
-      "exp": "The Quadruple test adds dimeric Inhibin-A to the Triple test, improving Down syndrome detection rate from ~70% to 80-83%. (Book p338)",
-      "id": "OBG-C3-050"
-    },
-    {
-      "sec": "Second trimester screening",
-      "page": 338,
-      "q": "In a second-trimester quadruple test for Down syndrome, which two markers are elevated ('HI' is high)?",
-      "opts": [
-        "hCG and Inhibin-A are elevated; AFP and uE3 are decreased",
-        "AFP and Inhibin-A are elevated; hCG and uE3 are decreased",
-        "uE3 and hCG are elevated; AFP and Inhibin-A are decreased",
-        "All four analytes are elevated"
-      ],
-      "ans": 0,
-      "exp": "In Down syndrome, hCG and Inhibin-A ('HI') are abnormally high, while AFP and unconjugated estriol (uE3) are low. (Book p338)",
-      "id": "OBG-C3-051"
-    },
-    {
-      "sec": "Second trimester screening",
-      "page": 338,
-      "q": "On second-trimester ultrasound (15-20 weeks), what cutoff for Nuchal Skinfold Thickness (NSFT) is considered an abnormal soft marker for Down syndrome?",
-      "opts": [
-        ">= 6.0 mm",
-        ">= 3.0 mm",
-        ">= 10.0 mm",
-        ">= 1.5 mm"
-      ],
-      "ans": 0,
-      "exp": "In the second trimester (15-20 weeks), a nuchal fold thickness >=6 mm measured in the transcerebellar plane is a major soft marker for Down syndrome. (Book p338)",
-      "id": "OBG-C3-052"
-    },
-    {
-      "sec": "Second trimester screening",
-      "page": 338,
-      "q": "Which of the following second-trimester sonographic soft tissue markers has the LOWEST individual risk of aneuploidy and is found in 11-17% of completely normal fetuses?",
-      "opts": [
-        "Choroid Plexus Cyst (CPC)",
-        "Echogenic bowel",
-        "Absent nasal bone",
-        "Thickened nuchal skin fold"
-      ],
-      "ans": 0,
-      "exp": "Choroid plexus cysts carry the lowest isolated risk for aneuploidy (found in 1-2% of normal fetuses, weak association with Trisomy 18); when isolated, normal outcome is expected. (Book p338)",
-      "id": "OBG-C3-053"
-    },
-    {
-      "sec": "Advanced prenatal screening",
-      "page": 339,
-      "q": "Non-Invasive Prenatal Testing (NIPT) analyzes cell-free fetal DNA (cffDNA) extracted from maternal blood. What is the tissue source of this cffDNA?",
-      "opts": [
-        "Apoptosis of placental syncytiotrophoblast microvilli",
-        "Intact fetal red blood cells that crossed the placenta",
-        "Fetal leukocytes in maternal bone marrow",
-        "Amniotic fluid leaking into maternal capillaries"
-      ],
-      "ans": 0,
-      "exp": "cffDNA in maternal plasma consists of short fragments (~150 bp) originating predominantly from apoptotic placental syncytiotrophoblast cells. (Book p339)",
-      "id": "OBG-C3-054"
-    },
-    {
-      "sec": "Advanced prenatal screening",
-      "page": 339,
-      "q": "From what gestational age onwards can Non-Invasive Prenatal Testing (NIPT) be reliably performed?",
-      "opts": [
-        ">= 10 weeks of gestation (when fetal fraction is >= 4%)",
-        ">= 6 weeks of gestation",
-        ">= 16 weeks of gestation only",
-        ">= 20 weeks of gestation"
-      ],
-      "ans": 0,
-      "exp": "NIPT can be performed from 10 weeks onward, when the placental cffDNA fraction consistently exceeds the minimum testing threshold of 4%. (Book p339)",
-      "id": "OBG-C3-055"
-    },
-    {
-      "sec": "Advanced prenatal screening",
-      "page": 339,
-      "q": "What is the primary clinical limitation of Non-Invasive Prenatal Testing (NIPT)?",
-      "opts": [
-        "It is an advanced screening test, NOT a definitive diagnostic test; positive results must be confirmed invasively",
-        "It has a sensitivity of less than 70% for Down syndrome",
-        "It causes a 1% risk of miscarriage",
-        "It cannot be performed in Rh-negative mothers"
-      ],
-      "ans": 0,
-      "exp": "Despite >99% sensitivity for Trisomy 21, NIPT is not diagnostic due to potential confined placental mosaicism; positive results mandate invasive confirmation. (Book p339)",
-      "id": "OBG-C3-056"
-    },
-    {
-      "sec": "Advanced prenatal screening",
-      "page": 339,
-      "q": "What is 'Integrated Screening' for Down syndrome, and what is its major ethical/clinical drawback?",
-      "opts": [
-        "First-trimester (Dual + NT) and second-trimester (Quad) tests combined; results are withheld until second-trimester testing is completed",
-        "Sequential testing with immediate termination offered in the first trimester",
-        "Simultaneous NIPT and amniocentesis for all patients",
-        "Universal karyotyping in early pregnancy"
-      ],
-      "ans": 0,
-      "exp": "Integrated screening combines 1st trimester Dual+NT with 2nd trimester Quad (detection rate 85-95%), but results are withheld until T2, delaying diagnosis. (Book p339)",
-      "id": "OBG-C3-057"
-    },
-    {
-      "sec": "Screening algorithms & cutoffs",
-      "page": 339,
-      "q": "What is the standard clinical cutoff ratio used to define a 'screen-positive' result for Down syndrome (Trisomy 21)?",
-      "opts": [
-        "1 : 250 (e.g., 1:150 is screen-positive; 1:500 is screen-negative)",
-        "1 : 1000",
-        "1 : 50",
-        "1 : 10"
-      ],
-      "ans": 0,
-      "exp": "A risk greater than 1:250 (e.g., 1:100 or 1:200) is classified as screen-positive for Down syndrome, warranting invasive testing or NIPT. (Book p339)",
-      "id": "OBG-C3-058"
-    },
-    {
-      "sec": "Screening algorithms & cutoffs",
-      "page": 339,
-      "q": "What is the standard screening cutoff ratio used to classify a pregnancy as high risk for Trisomy 18 (Edwards) and Trisomy 13 (Patau)?",
-      "opts": [
-        "1 : 100",
-        "1 : 250",
-        "1 : 500",
-        "1 : 1000"
-      ],
-      "ans": 0,
-      "exp": "For Trisomy 18 and Trisomy 13, the standard screen-positive cutoff ratio is typically set at 1:100. (Book p339)",
-      "id": "OBG-C3-059"
-    },
-    {
-      "sec": "Screening algorithms & cutoffs",
-      "page": 339,
-      "q": "A 32-year-old woman receives a combined first-trimester screening report indicating a Down syndrome risk of 1:80. What is the most appropriate next step in clinical management?",
-      "opts": [
-        "Offer diagnostic confirmation via Chorionic Villus Sampling (or amniocentesis) or secondary screening with NIPT",
-        "Reassure the patient that the fetus is entirely normal",
-        "Perform an immediate emergency Caesarean delivery",
-        "Repeat the same biochemical test next week"
-      ],
-      "ans": 0,
-      "exp": "A risk of 1:80 is screen-positive (>1:250); genetic counseling should be provided, offering definitive invasive testing (CVS/amniocentesis) or NIPT. (Book p339)",
-      "id": "OBG-C3-060"
-    },
-    {
-      "sec": "Screening algorithms & cutoffs",
-      "page": 339,
-      "q": "If a pregnant woman presents with positive first-trimester aneuploidy screening and chooses definitive invasive diagnostic testing, what procedure is performed at 11 to 13+6 weeks versus after 15 weeks?",
-      "opts": [
-        "Chorionic Villus Sampling (CVS) in the first trimester; Amniocentesis after 15 weeks",
-        "Amniocentesis in the first trimester; CVS after 15 weeks",
-        "Cordocentesis at both gestational ages",
-        "Targeted ultrasound only at both gestational ages"
-      ],
-      "ans": 0,
-      "exp": "Invasive diagnosis is achieved via CVS in the first trimester (10-14 weeks, ideally 11-13+6w) and via amniocentesis in the second trimester (15-20 weeks). (Book p339)",
-      "id": "OBG-C3-061"
-    }
-  ]
+ "chapter": 3,
+ "title": "Fetal Assessment and Ultrasound",
+ "pageRange": "327-339",
+ "units": [
+  {
+   "id": "OBG-U3-1",
+   "ch": 3,
+   "n": 1,
+   "title": "Early Ultrasound Signs & Biometry Dating",
+   "sec": "First trimester ultrasound · p327-328",
+   "guide": "Early transvaginal sonography identifies sequential gestational hallmarks: the intradecidual sign representing interstitial blastocyst burrowing, the double decidual sign confirming intrauterine pregnancy, and the double bleb sign pairing yolk and amniotic sacs. Crown-rump length (CRL) serves as the gold standard parameter for dating up to 13 weeks + 6 days.",
+   "qs": [
+    "OBG-C3-001",
+    "OBG-C3-002",
+    "OBG-C3-003",
+    "OBG-C3-004",
+    "OBG-C3-005",
+    "OBG-C3-006",
+    "OBG-C3-007",
+    "OBG-C3-008"
+   ]
+  },
+  {
+   "id": "OBG-U3-2",
+   "ch": 3,
+   "n": 2,
+   "title": "Second Trimester Biometry, Cervical Length & Fetal Echo",
+   "sec": "Biometry and specialized imaging · p328-329",
+   "guide": "Beyond 14 weeks, fetal biometry relies on biparietal diameter (BPD, measured outer-to-inner in the transthalamic plane), head circumference, abdominal circumference (AC, single best growth marker), and femur length. Transvaginal cervical length screening identifies preterm birth risk (<25 mm), while specialized fetal echocardiography at 22-24 weeks evaluates cardiac anomalies.",
+   "qs": [
+    "OBG-C3-009",
+    "OBG-C3-010",
+    "OBG-C3-011",
+    "OBG-C3-012",
+    "OBG-C3-013",
+    "OBG-C3-014",
+    "OBG-C3-015"
+   ]
+  },
+  {
+   "id": "OBG-U3-3",
+   "ch": 3,
+   "n": 3,
+   "title": "Anomaly Scan (TIFFA) & Cranial NTDs: Anencephaly & Acrania",
+   "sec": "Level II scan & cranial defects · p330-331",
+   "guide": "Targeted Imaging for Fetal Anomalies (TIFFA / Level 2 scan) is universally performed between 18 and 22 weeks. Failure of anterior neuropore closure yields acrania and anencephaly, marked by absent calvarium, deep shallow orbits ('frog-eye' or 'Mickey Mouse' appearance), absent fetal adrenals causing post-term gestation, and polyhydramnios.",
+   "qs": [
+    "OBG-C3-016",
+    "OBG-C3-017",
+    "OBG-C3-018",
+    "OBG-C3-019",
+    "OBG-C3-020",
+    "OBG-C3-021",
+    "OBG-C3-022"
+   ]
+  },
+  {
+   "id": "OBG-U3-4",
+   "ch": 3,
+   "n": 4,
+   "title": "Spina Bifida, Arnold-Chiari II Signs & Craniorachischisis",
+   "sec": "Caudal neural tube defects · p332-333",
+   "guide": "Spina bifida results from failure of caudal vertebral arches to close, ranging from spina bifida occulta to open meningomyelocele. Classic sonographic hallmarks of Chiari II malformation include the 'lemon sign' (scalloped frontal bones), 'banana sign' (downward displaced cerebellum obliterating the cisterna magna), and hydrocephalus.",
+   "qs": [
+    "OBG-C3-023",
+    "OBG-C3-024",
+    "OBG-C3-025",
+    "OBG-C3-026",
+    "OBG-C3-027",
+    "OBG-C3-028",
+    "OBG-C3-029"
+   ]
+  },
+  {
+   "id": "OBG-U3-5",
+   "ch": 3,
+   "n": 5,
+   "title": "Abdominal Wall Defects: Omphalocele vs Gastroschisis",
+   "sec": "Anterior abdominal defects · p333-334",
+   "guide": "Omphalocele is a midline umbilical defect enclosed within an amnioperitoneal sac with the umbilical cord inserting onto its apex, carrying high aneuploidy risks. Gastroschisis is a right paraumbilical defect with bowel loops floating freely in amniotic fluid without a membrane, exhibiting normal cord insertion and marked AFP elevation.",
+   "qs": [
+    "OBG-C3-030",
+    "OBG-C3-031",
+    "OBG-C3-032",
+    "OBG-C3-033",
+    "OBG-C3-034",
+    "OBG-C3-035"
+   ]
+  },
+  {
+   "id": "OBG-U3-6",
+   "ch": 3,
+   "n": 6,
+   "title": "Alpha-Fetoprotein (AFP) Biology & Diagnostic Deviations",
+   "sec": "Biochemical markers · p334",
+   "guide": "Maternal serum alpha-fetoprotein (MSAFP), synthesized by the fetal yolk sac, liver, and gut, is evaluated between 15 and 20 weeks. Elevated MSAFP signifies open NTDs, abdominal wall defects, or multiple gestations, whereas decreased MSAFP is seen in fetal aneuploidies, maternal diabetes, and gestational trophoblastic disease ('Diabetic GOAT').",
+   "qs": [
+    "OBG-C3-036",
+    "OBG-C3-037",
+    "OBG-C3-038",
+    "OBG-C3-039",
+    "OBG-C3-040",
+    "OBG-C3-041"
+   ]
+  },
+  {
+   "id": "OBG-U3-7",
+   "ch": 3,
+   "n": 7,
+   "title": "Aneuploidy Principles & Down Syndrome Genetics",
+   "sec": "Chromosomal abnormalities · p335-336",
+   "guide": "Aneuploidies stem from chromosomal non-disjunction, Robertsonian translocations, or mosaicism, with Trisomy 16 being the most common cause of early miscarriage. Down syndrome (Trisomy 21) is the most viable autosomal trisomy, carrying a 100% recurrence risk if a parent harbors a balanced t(21;21) Robertsonian translocation.",
+   "qs": [
+    "OBG-C3-042",
+    "OBG-C3-043",
+    "OBG-C3-044",
+    "OBG-C3-045",
+    "OBG-C3-046",
+    "OBG-C3-047"
+   ]
+  },
+  {
+   "id": "OBG-U3-8",
+   "ch": 3,
+   "n": 8,
+   "title": "First Trimester Screening: Dual Test & Combined Test",
+   "sec": "First trimester screening · p336",
+   "guide": "First trimester screening at 11w0d to 13w6d (CRL 45-84 mm) combines biochemical analytes and sonography. The Dual test measures PAPP-A (decreased) and free beta-hCG (increased in Down syndrome). Combining the Dual test with nuchal translucency (Combined test) achieves an 85-87% detection rate.",
+   "qs": [
+    "OBG-C3-048",
+    "OBG-C3-049",
+    "OBG-C3-050",
+    "OBG-C3-051",
+    "OBG-C3-052"
+   ]
+  },
+  {
+   "id": "OBG-U3-9",
+   "ch": 3,
+   "n": 9,
+   "title": "Nuchal Translucency & Cystic Hygroma Differentiation",
+   "sec": "Neck ultrasound markers · p337-338",
+   "guide": "Nuchal translucency (NT) is measured in the mid-sagittal plane with a neutral fetal head, considered abnormal when >=3 mm. Increased NT associates with Down syndrome, Turner syndrome, and congenital heart defects. Cystic hygroma is a larger, multiseptated posterior neck lymphangioma with a very high predictive value for aneuploidy.",
+   "qs": [
+    "OBG-C3-053",
+    "OBG-C3-054",
+    "OBG-C3-055",
+    "OBG-C3-056",
+    "OBG-C3-057",
+    "OBG-C3-058"
+   ]
+  },
+  {
+   "id": "OBG-U3-10",
+   "ch": 3,
+   "n": 10,
+   "title": "Second Trimester Markers: Triple, Quad & Soft Sonographic Signs",
+   "sec": "Second trimester screening · p338",
+   "guide": "Second trimester biochemical screening between 15 and 20 weeks comprises the Triple test and Quad test (adding Inhibin-A). Down syndrome exhibits high hCG and Inhibin-A with low AFP and uE3 ('HI' is high). Key sonographic soft markers include thickened nuchal fold (>=6 mm), absent nasal bone, echogenic intracardiac focus, and choroid plexus cysts.",
+   "qs": [
+    "OBG-C3-059",
+    "OBG-C3-060",
+    "OBG-C3-061",
+    "OBG-C3-062",
+    "OBG-C3-063"
+   ]
+  },
+  {
+   "id": "OBG-U3-11",
+   "ch": 3,
+   "n": 11,
+   "title": "Non-Invasive Prenatal Testing (NIPT / cffDNA) & Integrated Screening",
+   "sec": "Advanced prenatal screening · p339",
+   "guide": "NIPT analyzes cell-free fetal DNA derived from apoptotic syncytiotrophoblasts in maternal plasma from 10 weeks onward, offering >99% sensitivity for Trisomy 21. Integrated screening fuses first-trimester Combined testing with second-trimester Quad screening to achieve 85-95% detection rates while minimizing invasive procedures.",
+   "qs": [
+    "OBG-C3-064",
+    "OBG-C3-065",
+    "OBG-C3-066",
+    "OBG-C3-067",
+    "OBG-C3-068"
+   ]
+  },
+  {
+   "id": "OBG-U3-12",
+   "ch": 3,
+   "n": 12,
+   "title": "Aneuploidy Risk Interpretation & Diagnostic Algorithm",
+   "sec": "Screening algorithms & cutoffs · p339",
+   "guide": "Screening results are expressed as personalized risk ratios, using established cutoffs of 1:250 for Down syndrome and 1:100 for Trisomies 18 and 13. Screen-positive findings prompt counseling for secondary screening via NIPT or definitive invasive diagnostic confirmation via CVS (T1) or amniocentesis (T2).",
+   "qs": [
+    "OBG-C3-069",
+    "OBG-C3-070",
+    "OBG-C3-071",
+    "OBG-C3-072",
+    "OBG-C3-073"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "sec": "First trimester ultrasound",
+   "page": 327,
+   "q": "On early transvaginal sonography, the 'intradecidual sign' represents which fundamental embryological event?",
+   "opts": [
+    "Interstitial implantation of the blastocyst within the thickened endometrium",
+    "Complete separation of the amnion and chorion",
+    "Decidual capsularis stretching over the developing embryo",
+    "Appearance of the secondary yolk sac"
+   ],
+   "ans": 0,
+   "exp": "The intradecidual sign is the first sonographic sign of pregnancy, reflecting interstitial implantation of the blastocyst within the decidua. (Book p327)",
+   "id": "OBG-C3-001"
+  },
+  {
+   "sec": "First trimester ultrasound",
+   "page": 327,
+   "q": "The 'double decidual sac sign' (double ring sign) on transvaginal ultrasound confirms an intrauterine pregnancy. What anatomical layers form the inner and outer rings?",
+   "opts": [
+    "Inner ring: Decidua capsularis; Outer ring: Decidua parietalis",
+    "Inner ring: Decidua basalis; Outer ring: Decidua capsularis",
+    "Inner ring: Amnion; Outer ring: Chorion laeve",
+    "Inner ring: Decidua parietalis; Outer ring: Myometrium"
+   ],
+   "ans": 0,
+   "exp": "The double decidual ring consists of an inner ring (decidua capsularis) and an outer ring (decidua parietalis), confirming intrauterine pregnancy. (Book p327)",
+   "id": "OBG-C3-002"
+  },
+  {
+   "sec": "First trimester ultrasound",
+   "page": 327,
+   "q": "The 'double bleb sign' observed on early first-trimester TVS consists of the simultaneous visualization of which two adjacent fluid cavities?",
+   "opts": [
+    "The yolk sac and the developing amniotic sac",
+    "The gestational sac and the pseudogestational sac",
+    "The right and left lateral cerebral ventricles",
+    "The vitelline duct and the allantois"
+   ],
+   "ans": 0,
+   "exp": "The double bleb sign represents the transient side-by-side appearance of the secondary yolk sac and the expanding amniotic sac with the embryonic disc between them. (Book p327)",
+   "id": "OBG-C3-003"
+  },
+  {
+   "sec": "First trimester ultrasound",
+   "page": 327,
+   "q": "What is the single most accurate ultrasound parameter for determining gestational age across the entire pregnancy?",
+   "opts": [
+    "Crown-Rump Length (CRL) measured in the first trimester",
+    "Biparietal diameter (BPD) measured at 18 weeks",
+    "Femur length (FL) measured in the second trimester",
+    "Abdominal circumference (AC) measured in the third trimester"
+   ],
+   "ans": 0,
+   "exp": "Crown-rump length (CRL) measured between 7 and 9 weeks (usable up to 13w6d) is the single most accurate parameter for pregnancy dating (+/- 3-5 days). (Book p327)",
+   "id": "OBG-C3-004"
+  },
+  {
+   "id": "OBG-C3-005",
+   "sec": "Early ultrasound signs & biometry dating",
+   "page": 327,
+   "q": "Fill up: First-trimester dating uses the ______, which is accurate to within ______ days.",
+   "opts": [
+    "crown-rump length; 5-7",
+    "biparietal diameter; 5-7",
+    "crown-rump length; 14-21",
+    "femur length; 3"
+   ],
+   "ans": 0,
+   "exp": "The crown-rump length dates pregnancy to within 5-7 days, far better than second-trimester biparietal diameter. (Book p327)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "First trimester ultrasound",
+   "page": 328,
+   "q": "Before an embryonic fetal pole is clearly measurable, the Mean Sac Diameter (MSD) can estimate gestational age in days using which formula?",
+   "opts": [
+    "Gestational age (in days) = MSD (in mm) + 30",
+    "Gestational age (in days) = MSD (in mm) + 42",
+    "Gestational age (in days) = MSD (in mm) x 7",
+    "Gestational age (in days) = MSD (in mm) + 14"
+   ],
+   "ans": 0,
+   "exp": "Gestational age in days can be estimated from early sac dimensions using: MSD (in mm) + 30 = gestational age in days. (Book p328)",
+   "id": "OBG-C3-006"
+  },
+  {
+   "sec": "First trimester ultrasound",
+   "page": 328,
+   "q": "Crown-Rump Length (CRL) is valid for gestational age estimation up to 13 weeks + 6 days, provided the CRL measurement remains below:",
+   "opts": [
+    "84 mm",
+    "65 mm",
+    "100 mm",
+    "50 mm"
+   ],
+   "ans": 0,
+   "exp": "CRL is used up to 13 weeks + 6 days and CRL < 84 mm; once CRL >= 84 mm, biparietal diameter (BPD) and head circumference are utilized. (Book p328)",
+   "id": "OBG-C3-007"
+  },
+  {
+   "sec": "First trimester ultrasound",
+   "page": 328,
+   "q": "In a twin gestation conceived spontaneously where a size discrepancy exists between the two fetuses on first-trimester ultrasound, the EDD is determined by:",
+   "opts": [
+    "The CRL measurement of the larger twin",
+    "The CRL measurement of the smaller twin",
+    "The mathematical average of both CRL measurements",
+    "Discarding the ultrasound and relying strictly on LMP"
+   ],
+   "ans": 0,
+   "exp": "In twin pregnancies with growth discrepancy, gestational age dating and EDD calculation are based on the larger fetus to avoid missing early growth restriction. (Book p328)",
+   "id": "OBG-C3-008"
+  },
+  {
+   "sec": "Biometry and specialized imaging",
+   "page": 328,
+   "q": "When measuring the Biparietal Diameter (BPD) in the second trimester, the ultrasound calipers should be placed on which anatomical skull margins?",
+   "opts": [
+    "From the outer table of the proximal parietal bone to the inner table of the distal parietal bone",
+    "From the outer table to the outer table of both parietal bones",
+    "From the inner table to the inner table of both parietal bones",
+    "Across the fronto-occipital axis"
+   ],
+   "ans": 0,
+   "exp": "BPD is measured in the transthalamic plane from the outer table of the skull on the near field to the inner table of the skull on the far field. (Book p328)",
+   "id": "OBG-C3-009"
+  },
+  {
+   "sec": "Biometry and specialized imaging",
+   "page": 328,
+   "q": "Which fetal biometric parameter is considered the single most sensitive marker for assessing fetal nutritional status, IUGR, and macrosomia?",
+   "opts": [
+    "Abdominal Circumference (AC)",
+    "Biparietal Diameter (BPD)",
+    "Femur Length (FL)",
+    "Head Circumference (HC)"
+   ],
+   "ans": 0,
+   "exp": "Abdominal circumference reflects fetal liver size and subcutaneous abdominal fat stores, making it the most sensitive biometry parameter for fetal growth. (Book p328)",
+   "id": "OBG-C3-010"
+  },
+  {
+   "sec": "Biometry and specialized imaging",
+   "page": 328,
+   "q": "What is the recommended gestational window for conducting the routine Targeted Imaging for Fetal Anomalies (TIFFA / Level II scan)?",
+   "opts": [
+    "18 to 22 weeks of gestation",
+    "11 to 13 weeks + 6 days",
+    "24 to 28 weeks of gestation",
+    "32 to 34 weeks of gestation"
+   ],
+   "ans": 0,
+   "exp": "The Level II anomaly scan (TIFFA) is universally recommended for all pregnant women between 18 and 22 weeks of gestation. (Book p328)",
+   "id": "OBG-C3-011"
+  },
+  {
+   "sec": "Biometry and specialized imaging",
+   "page": 329,
+   "q": "In women with a history of spontaneous preterm birth, transvaginal cervical length screening is indicated; a cervical length is considered abnormal when it measures:",
+   "opts": [
+    "< 25 mm before 24 weeks of gestation",
+    "< 35 mm at 28 weeks",
+    "< 15 mm at 36 weeks",
+    "< 40 mm in the first trimester"
+   ],
+   "ans": 0,
+   "exp": "A TVS cervical length < 25 mm prior to 24 weeks identifies high risk for recurrent preterm labor and is an indication for vaginal progesterone or cerclage. (Book p329)",
+   "id": "OBG-C3-012"
+  },
+  {
+   "sec": "Biometry and specialized imaging",
+   "page": 329,
+   "q": "What is the optimal gestational age to assess definitive placental localization to diagnose or exclude placenta previa, and when should borderline cases be repeated?",
+   "opts": [
+    "Best evaluated at 32 weeks, and repeated at 36 weeks",
+    "Evaluated at 12 weeks, repeated at 18 weeks",
+    "Evaluated at 20 weeks, repeated at 24 weeks",
+    "Evaluated at 38 weeks only"
+   ],
+   "ans": 0,
+   "exp": "Placental localization is best assessed at 32 weeks (accounting for trophotropism/apparent placental migration) and confirmed at 36 weeks if low-lying. (Book p329)",
+   "id": "OBG-C3-013"
+  },
+  {
+   "sec": "Biometry and specialized imaging",
+   "page": 329,
+   "q": "A specialized fetal echocardiogram is ideally performed between 22 and 24 weeks of gestation. Which of the following is a recognized maternal indication?",
+   "opts": [
+    "First-trimester lithium exposure (risk of Ebstein anomaly)",
+    "Controlled gestational hypertension on labetalol",
+    "Maternal iron deficiency anemia",
+    "History of uncomplicated twin delivery"
+   ],
+   "ans": 0,
+   "exp": "Indications for fetal echo include lithium exposure (Ebstein anomaly), maternal anti-Ro/SSA antibodies (congenital heart block), maternal pregestational DM, and aneuploidy. (Book p329)",
+   "id": "OBG-C3-014"
+  },
+  {
+   "id": "OBG-C3-015",
+   "sec": "Second trimester biometry, cervical length & fetal echo",
+   "page": 329,
+   "q": "A 29-year-old primigravida with no prior preterm birth has a transvaginal cervical length of 20 mm at 22 weeks and no contractions. What is the most appropriate management?",
+   "opts": [
+    "Start vaginal micronised progesterone 200 mg nightly and repeat the cervical length",
+    "Perform an immediate McDonald cerclage, because 20 mm is an absolute operative indication",
+    "Advise strict bed rest alone, since no intervention has proven benefit",
+    "Give intramuscular 17-alpha-hydroxyprogesterone weekly until 36 weeks"
+   ],
+   "ans": 0,
+   "exp": "An incidental short cervix of 25 mm or less in a woman without a prior preterm birth is treated with vaginal progesterone, not immediate cerclage. (Book p329)",
+   "fmt": "scenario"
+  },
+  {
+   "sec": "Level II scan & cranial defects",
+   "page": 330,
+   "q": "What is the fundamental embryological defect underlying anencephaly?",
+   "opts": [
+    "Failure of closure of the cranial (anterior) neuropore around day 24-26",
+    "Failure of closure of the caudal (posterior) neuropore around day 26-28",
+    "Premature fusion of the sagittal cranial suture",
+    "Agenesis of the corpus callosum"
+   ],
+   "ans": 0,
+   "exp": "Anencephaly results from failure of closure of the cranial neuropore, leaving neuroectoderm exposed to amniotic fluid where it degenerates. (Book p330)",
+   "id": "OBG-C3-016"
+  },
+  {
+   "sec": "Level II scan & cranial defects",
+   "page": 330,
+   "q": "What is the most frequent anatomical site for the development of a fetal encephalocele?",
+   "opts": [
+    "Occipital bone (75-80%)",
+    "Frontal bone",
+    "Parietal bone",
+    "Sphenoid bone"
+   ],
+   "ans": 0,
+   "exp": "Encephaloceles most commonly arise in the occipital region through a calvarial defect in the occipital bone. (Book p330)",
+   "id": "OBG-C3-017"
+  },
+  {
+   "id": "OBG-C3-018",
+   "sec": "Anomaly scan (TIFFA) & cranial NTDs: anencephaly & acrania",
+   "page": 330,
+   "q": "Match the cranial defect with its sonographic appearance — 1) Acrania 2) Exencephaly 3) Anencephaly … A) Skull vault absent but formed brain tissue still present B) Disorganised brain tissue floating in amniotic fluid with no skull C) No brain tissue above the orbits, giving the frog-face appearance",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "Acrania and exencephaly are successive stages of the same process that ends as anencephaly with absent cerebrum. (Book p330)",
+   "fmt": "match"
+  },
+  {
+   "sec": "Level II scan & cranial defects",
+   "page": 331,
+   "q": "Anencephaly is characteristically associated with post-term pregnancy (>42 weeks). What is the underlying pathophysiological mechanism?",
+   "opts": [
+    "Absence or hypoplasia of fetal pituitary and adrenal glands leading to deficient DHEAS and reduced estrogen",
+    "Excessive production of fetal progesterone by the placenta",
+    "Premature rupture of membranes",
+    "Severe maternal hyperprolactinemia"
+   ],
+   "ans": 0,
+   "exp": "Anencephalic fetuses lack hypothalamus/pituitary-adrenal stimulation, leading to deficient DHEAS, low maternal estrogen, and failure of labor initiation. (Book p331)",
+   "id": "OBG-C3-019"
+  },
+  {
+   "sec": "Level II scan & cranial defects",
+   "page": 331,
+   "q": "Why is polyhydramnios frequently seen in fetuses affected by anencephaly during the late second and third trimesters?",
+   "opts": [
+    "Impaired fetal swallowing reflex combined with transudation of fluid from exposed neural tissue",
+    "Excessive fetal urination secondary to renal hypertrophy",
+    "Severe fetal cardiac failure causing polyuria",
+    "Overproduction of lung surfactant into amniotic fluid"
+   ],
+   "ans": 0,
+   "exp": "Polyhydramnios develops because the anencephalic fetus cannot swallow amniotic fluid due to lack of cerebral swallowing centers. (Book p331)",
+   "id": "OBG-C3-020"
+  },
+  {
+   "sec": "Level II scan & cranial defects",
+   "page": 331,
+   "q": "What is the earliest gestational age at which anencephaly can be recognized on transvaginal sonography, and what is the classic facial sign?",
+   "opts": [
+    "From 10-12 weeks, with the frog-eye or Mickey Mouse sign from the bulging orbits",
+    "From 18 weeks onwards, once the lemon sign has appeared",
+    "From 24 weeks onwards, once the banana sign has appeared",
+    "From 6 weeks onwards, with the double bleb sign"
+   ],
+   "ans": 0,
+   "exp": "Anencephaly is recognisable from 10-12 weeks: absent calvarium with prominent orbits gives the frog-eye appearance. (Book p331)",
+   "id": "OBG-C3-021"
+  },
+  {
+   "sec": "Level II scan & cranial defects",
+   "page": 331,
+   "q": "What is the empiric recurrence risk of a neural tube defect in a subsequent pregnancy after ONE previously affected child?",
+   "opts": [
+    "Approximately 3% to 5%",
+    "Approximately 0.1%",
+    "Approximately 25%",
+    "Approximately 50%"
+   ],
+   "ans": 0,
+   "exp": "The recurrence risk of an NTD is approximately 3-5% after one affected pregnancy, rising to 10% after two affected pregnancies. (Book p331)",
+   "id": "OBG-C3-022"
+  },
+  {
+   "sec": "Caudal neural tube defects",
+   "page": 332,
+   "q": "Maternal hyperthermia or fever (body temperature elevated by >= 1.5°C) during the first trimester is recognized as a teratogenic risk factor for:",
+   "opts": [
+    "Neural tube defects, microcephaly, and neurodevelopmental delay",
+    "Omphalocele and gastroschisis",
+    "Renal agenesis (Potter sequence)",
+    "Skeletal dysplasias"
+   ],
+   "ans": 0,
+   "exp": "First-trimester hyperthermia/fever (elevated >=1.5°C) disrupts mitotic neurogenesis and neuropore closure, causing NTDs and microcephaly. (Book p332)",
+   "id": "OBG-C3-023"
+  },
+  {
+   "sec": "Caudal neural tube defects",
+   "page": 332,
+   "q": "What is considered the gold-standard, most sensitive biochemical marker measured in amniotic fluid to confirm an open neural tube defect?",
+   "opts": [
+    "Acetylcholinesterase (AChE)",
+    "Alpha-fetoprotein (AFP)",
+    "Unconjugated estriol (uE3)",
+    "Human chorionic gonadotropin (hCG)"
+   ],
+   "ans": 0,
+   "exp": "Amniotic fluid acetylcholinesterase (AChE) is the best, highly specific biochemical marker for open neural tube defects. (Book p332)",
+   "id": "OBG-C3-024"
+  },
+  {
+   "sec": "Caudal neural tube defects",
+   "page": 332,
+   "q": "In spina bifida aperta, what is the anatomical difference between a meningocele and a meningomyelocele?",
+   "opts": [
+    "Meningocele involves herniation of meninges only; meningomyelocele involves herniation of both meninges and spinal cord elements",
+    "Meningocele is covered by intact skin; meningomyelocele is completely open",
+    "Meningocele contains brain tissue; meningomyelocele contains spinal cord",
+    "Meningocele occurs only in the occiput; meningomyelocele occurs only in the sacrum"
+   ],
+   "ans": 0,
+   "exp": "A meningocele contains only meninges and cerebrospinal fluid in the herniated sac; a meningomyelocele contains neural tissue/spinal cord as well. (Book p332)",
+   "id": "OBG-C3-025"
+  },
+  {
+   "sec": "Caudal neural tube defects",
+   "page": 332,
+   "q": "On cranial ultrasound of a fetus with open spina bifida, the 'Banana sign' refers to:",
+   "opts": [
+    "Anterior curvature and caudal displacement of the cerebellum around the brainstem, obliterating the cisterna magna",
+    "Scalloping and inward indentation of the frontal cranial bones",
+    "Severe asymmetrical dilation of the lateral ventricles",
+    "Absence of the cavum septum pellucidum"
+   ],
+   "ans": 0,
+   "exp": "The 'banana sign' describes the cerebellar vermis herniating into the foramen magnum and curving anteriorly around the brainstem in Arnold-Chiari II malformation. (Book p332)",
+   "id": "OBG-C3-026"
+  },
+  {
+   "sec": "Caudal neural tube defects",
+   "page": 332,
+   "q": "The 'Lemon sign' seen on second-trimester fetal cranial sonography is characterized by:",
+   "opts": [
+    "Inward scalloping and concavity of the frontal calvarial bones due to reduced intracranial pressure",
+    "A narrow, elongated anterior fontanelle",
+    "Widening of the posterior fossa cistern",
+    "Bulging parietal bones with coronal synostosis"
+   ],
+   "ans": 0,
+   "exp": "The 'lemon sign' represents inward scalloping of the frontal bones produced by downward traction on intracranial contents in open spina bifida. (Book p332)",
+   "id": "OBG-C3-027"
+  },
+  {
+   "id": "OBG-C3-028",
+   "sec": "Spina bifida, Arnold-Chiari II signs & craniorachischisis",
+   "page": 332,
+   "q": "Fill up: On the axial head view, scalloping of the frontal bones gives the ______ sign and the displaced cerebellum gives the ______ sign of Arnold-Chiari II malformation.",
+   "opts": [
+    "lemon; banana",
+    "banana; lemon",
+    "lemon; strawberry",
+    "strawberry; banana"
+   ],
+   "ans": 0,
+   "exp": "The lemon sign is frontal bone scalloping and the banana sign is the herniated, flattened cerebellum of the Chiari II malformation. (Book p332)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Caudal neural tube defects",
+   "page": 333,
+   "q": "The severe lethal malformation termed 'Craniorachischisis' is characterized by:",
+   "opts": [
+    "Combined continuous failure of neural tube closure encompassing both anencephaly and total open spina bifida",
+    "Occipital encephalocele accompanied by polycystic kidneys",
+    "Herniation of the posterior fossa contents into an occipital sac (Chiari III)",
+    "Isolated sacrococcygeal teratoma with open spine"
+   ],
+   "ans": 0,
+   "exp": "Craniorachischisis is the most extreme form of NTD, with complete non-closure of the neural tube extending from the brainstem throughout the entire spine. (Book p333)",
+   "id": "OBG-C3-029"
+  },
+  {
+   "sec": "Anterior abdominal defects",
+   "page": 333,
+   "q": "What is the critical anatomical covering that distinguishes an omphalocele from gastroschisis?",
+   "opts": [
+    "An omphalocele is enclosed within a protective peritoneal-amniotic sac; gastroschisis is completely uncovered",
+    "Gastroschisis is enclosed within a thick amnion sac; omphalocele is uncovered",
+    "Both defects are always enclosed within Wharton's jelly",
+    "Both defects lack any peritoneal covering"
+   ],
+   "ans": 0,
+   "exp": "An omphalocele is enclosed by a two-layered sac (peritoneum internally, amnion externally); gastroschisis is an open defect without any covering sac. (Book p333)",
+   "id": "OBG-C3-030"
+  },
+  {
+   "sec": "Anterior abdominal defects",
+   "page": 334,
+   "q": "Where is the abdominal wall defect located in gastroschisis relative to the umbilical cord insertion?",
+   "opts": [
+    "Full-thickness defect located to the right of a normally inserted umbilical cord",
+    "Directly through the midline umbilical ring",
+    "Full-thickness defect to the left of the umbilical cord",
+    "Supraumbilical midline defect involving the lower sternum"
+   ],
+   "ans": 0,
+   "exp": "Gastroschisis is located almost always immediately to the right of an intact, normally attached umbilical cord. (Book p334)",
+   "id": "OBG-C3-031"
+  },
+  {
+   "sec": "Anterior abdominal defects",
+   "page": 334,
+   "q": "In which anterior abdominal wall defect is the insertion of the umbilical cord situated directly onto the apex of the herniated sac?",
+   "opts": [
+    "Omphalocele",
+    "Gastroschisis",
+    "Bladder exstrophy",
+    "Prune belly syndrome"
+   ],
+   "ans": 0,
+   "exp": "In omphalocele, the umbilical cord inserts directly onto the apex of the membranous sac, with umbilical vessels radiating across its surface. (Book p334)",
+   "id": "OBG-C3-032"
+  },
+  {
+   "sec": "Anterior abdominal defects",
+   "page": 334,
+   "q": "Which abdominal wall defect carries a very high rate of associated chromosomal aneuploidies (particularly Trisomy 18 and 13) and Beckwith-Wiedemann syndrome?",
+   "opts": [
+    "Omphalocele (50-70% associated anomalies; karyotyping indicated)",
+    "Gastroschisis (aneuploidy is extremely rare; karyotyping not routinely indicated)",
+    "Urachal fistula",
+    "Patent vitelline duct"
+   ],
+   "ans": 0,
+   "exp": "Omphalocele is associated with major chromosomal trisomies (Trisomy 18 > 13 > 21) and syndromes in >50% of cases, warranting karyotyping. (Book p334)",
+   "id": "OBG-C3-033"
+  },
+  {
+   "sec": "Anterior abdominal defects",
+   "page": 334,
+   "q": "Why must a definitive sonographic diagnosis of omphalocele NEVER be made before 11 completed weeks of gestation?",
+   "opts": [
+    "Because physiological midgut herniation into the umbilical cord normally persists until 9-11 weeks",
+    "Because the liver does not develop until 12 weeks",
+    "Because amniotic fluid volume is insufficient for visualization",
+    "Because fetal abdominal muscles do not form until the second trimester"
+   ],
+   "ans": 0,
+   "exp": "Physiological midgut rotation and herniation into the umbilical coelom is normal between 6 and 10 weeks; diagnosis of omphalocele is made after 11 weeks. (Book p334)",
+   "id": "OBG-C3-034"
+  },
+  {
+   "id": "OBG-C3-035",
+   "sec": "Abdominal wall defects: omphalocele vs gastroschisis",
+   "page": 334,
+   "q": "All of the following describe omphalocele EXCEPT:",
+   "opts": [
+    "Bowel loops float freely with no covering membrane over them",
+    "The umbilical cord inserts into the covering sac",
+    "It is a midline defect and often contains the liver",
+    "It is strongly associated with chromosomal anomalies and cardiac defects"
+   ],
+   "ans": 0,
+   "exp": "An uncovered sac is gastroschisis; omphalocele is a midline, membrane-covered defect with the cord on the sac and a high anomaly rate. (Book p334)",
+   "fmt": "oddoneout"
+  },
+  {
+   "sec": "Biochemical markers",
+   "page": 334,
+   "q": "During human fetal development, alpha-fetoprotein (AFP) is predominantly synthesized by which tissues?",
+   "opts": [
+    "Fetal yolk sac, fetal liver, and gastrointestinal tract",
+    "Placental syncytiotrophoblast",
+    "Maternal hepatocytes",
+    "Fetal adrenal cortex"
+   ],
+   "ans": 0,
+   "exp": "AFP is a fetal-specific glycoprotein synthesized primarily by the secondary yolk sac in early gestation, and later by the fetal liver and GI tract. (Book p334)",
+   "id": "OBG-C3-036"
+  },
+  {
+   "sec": "Biochemical markers",
+   "page": 334,
+   "q": "At what gestational age does fetal serum concentration of alpha-fetoprotein (AFP) reach its maximal peak?",
+   "opts": [
+    "13 weeks of gestation",
+    "8 weeks of gestation",
+    "20 weeks of gestation",
+    "32 weeks of gestation"
+   ],
+   "ans": 0,
+   "exp": "Fetal serum AFP levels peak at approximately 13 weeks of gestation, following which concentrations decline in fetal serum while rising in maternal serum. (Book p334)",
+   "id": "OBG-C3-037"
+  },
+  {
+   "sec": "Biochemical markers",
+   "page": 334,
+   "q": "What is the optimal gestational age window for screening maternal serum alpha-fetoprotein (MSAFP)?",
+   "opts": [
+    "16 to 18 weeks of gestation (acceptable range: 15 to 20 weeks)",
+    "11 to 13 weeks + 6 days",
+    "24 to 28 weeks of gestation",
+    "6 to 8 weeks of gestation"
+   ],
+   "ans": 0,
+   "exp": "MSAFP screening is ideally performed between 16 and 18 weeks (range 15-20 weeks); first-trimester MSAFP has very low diagnostic sensitivity. (Book p334)",
+   "id": "OBG-C3-038"
+  },
+  {
+   "sec": "Biochemical markers",
+   "page": 334,
+   "q": "Which of the following conditions is characteristically associated with a pathologically ELEVATED maternal serum alpha-fetoprotein (MSAFP) level?",
+   "opts": [
+    "Open neural tube defect (anencephaly, spina bifida aperta)",
+    "Down syndrome (Trisomy 21)",
+    "Complete hydatidiform mole",
+    "Overestimated gestational age"
+   ],
+   "ans": 0,
+   "exp": "MSAFP is elevated in open NTDs, abdominal wall defects (gastroschisis, omphalocele), multiple pregnancy, fetal demise, and underestimated gestational age. (Book p334)",
+   "id": "OBG-C3-039"
+  },
+  {
+   "sec": "Biochemical markers",
+   "page": 334,
+   "q": "Using the clinical mnemonic 'Diabetic GOAT', which of the following causes a DECREASE in maternal serum alpha-fetoprotein (MSAFP)?",
+   "opts": [
+    "Maternal pregestational diabetes, Gestational trophoblastic disease, Overestimated dates, and Aneuploidy/Trisomies",
+    "Gastroschisis, Omphalocele, Anencephaly, and Twin gestation",
+    "Gestational diabetes, Oligohydramnios, Abruptio, and Teratoma",
+    "Glomerulonephritis, Open spina bifida, Atresia, and Turner syndrome"
+   ],
+   "ans": 0,
+   "exp": "Decreased MSAFP ('Diabetic GOAT'): Diabetes, Gestational trophoblastic disease, Overestimated gestational age, Aneuploidy (Trisomy 21, 18, 13), Trisomies. (Book p334)",
+   "id": "OBG-C3-040"
+  },
+  {
+   "id": "OBG-C3-041",
+   "sec": "Alpha-fetoprotein (AFP) biology & diagnostic deviations",
+   "page": 334,
+   "q": "Which of the following statements about alpha-fetoprotein is TRUE?",
+   "opts": [
+    "Open spina bifida raises amniotic fluid AFP and acetylcholinesterase, while gastroschisis raises AFP alone",
+    "A low maternal serum AFP is diagnostic of trisomy 21 and needs no further assessment",
+    "Maternal serum AFP interpretation is unaffected by incorrect gestational dating",
+    "Amniotic fluid AFP is normally far higher than fetal serum AFP in a closed neural tube defect"
+   ],
+   "ans": 0,
+   "exp": "Amniotic fluid AFP plus acetylcholinesterase is specific for open defects; wrong dating is the commonest cause of a spurious AFP result. (Book p334)",
+   "fmt": "truefalse"
+  },
+  {
+   "sec": "Chromosomal abnormalities",
+   "page": 335,
+   "q": "What is the single most common chromosomal trisomy identified in first-trimester spontaneous miscarriages?",
+   "opts": [
+    "Trisomy 16, which is always lethal in early embryogenesis",
+    "Trisomy 21, which is the commonest trisomy seen among liveborn infants",
+    "Trisomy 18, which is the commonest trisomy causing loss in the second trimester",
+    "Trisomy 13, which is the commonest trisomy associated with holoprosencephaly"
+   ],
+   "ans": 0,
+   "exp": "Trisomy 16 accounts for about a third of first-trimester losses and is incompatible with life; trisomy 21 is commonest at birth. (Book p335)",
+   "id": "OBG-C3-042"
+  },
+  {
+   "sec": "Chromosomal abnormalities",
+   "page": 335,
+   "q": "What is the primary genetic mechanism responsible for approximately 95% of cases of Down syndrome (Trisomy 21)?",
+   "opts": [
+    "Maternal meiotic non-disjunction (strongly linked to advanced maternal age)",
+    "Robertsonian translocation involving chromosomes 14 and 21",
+    "Mitotic non-disjunction producing mosaicism",
+    "Paternal meiotic deletion of the long arm of chromosome 21"
+   ],
+   "ans": 0,
+   "exp": "95% of Down syndrome cases arise from meiotic non-disjunction (overwhelmingly maternal Meiosis I), which correlates with maternal age. (Book p335)",
+   "id": "OBG-C3-043"
+  },
+  {
+   "sec": "Chromosomal abnormalities",
+   "page": 335,
+   "q": "If a father or mother is an asymptomatic balanced carrier of a Robertsonian translocation between homologous chromosomes 21;21 [t(21q21q)], what is the chance of having a child with Down syndrome in every pregnancy?",
+   "opts": [
+    "100% chance",
+    "25% chance",
+    "50% chance",
+    "5-10% chance"
+   ],
+   "ans": 0,
+   "exp": "A balanced homologous 21;21 translocation carrier can only produce gametes with either two 21s (Down) or zero 21s (monosomy 21, lethal), giving a 100% risk. (Book p335)",
+   "id": "OBG-C3-044"
+  },
+  {
+   "sec": "Chromosomal abnormalities",
+   "page": 335,
+   "q": "In a family where a parent carries a balanced non-homologous Robertsonian translocation t(14;21), what is the empirical risk of Down syndrome in offspring when the MOTHER is the carrier versus when the FATHER is the carrier?",
+   "opts": [
+    "10-15% when mother is carrier; 2-5% when father is carrier",
+    "50% for mother; 50% for father",
+    "100% for mother; 0% for father",
+    "25% for mother; 10-15% for father"
+   ],
+   "ans": 0,
+   "exp": "For balanced t(14;21) carriers, recurrence risk is 10-15% if the mother is the carrier, but only 2-5% if the father is the carrier. (Book p335)",
+   "id": "OBG-C3-045"
+  },
+  {
+   "id": "OBG-C3-046",
+   "sec": "Aneuploidy principles & Down syndrome genetics",
+   "page": 335,
+   "q": "Fill up: About ______% of Down syndrome is caused by meiotic non-disjunction, and the extra chromosome is of ______ origin in the great majority.",
+   "opts": [
+    "95; maternal",
+    "95; paternal",
+    "50; maternal",
+    "70; paternal"
+   ],
+   "ans": 0,
+   "exp": "Roughly 95% is non-disjunction, mostly maternal and rising with maternal age; the rest is translocation or mosaic. (Book p335)",
+   "fmt": "fillup"
+  },
+  {
+   "sec": "Chromosomal abnormalities",
+   "page": 336,
+   "q": "What is the gold standard diagnostic test to confirm fetal chromosomal aneuploidy when screening is positive?",
+   "opts": [
+    "Karyotyping (G-banding) of fetal cells via CVS or amniocentesis",
+    "Targeted level II ultrasound",
+    "Cell-free fetal DNA quantification",
+    "Maternal serum triple test"
+   ],
+   "ans": 0,
+   "exp": "Fetal karyotyping (or chromosomal microarray/FISH) obtained via invasive testing provides the definitive diagnostic confirmation of chromosomal abnormalities. (Book p336)",
+   "id": "OBG-C3-047"
+  },
+  {
+   "sec": "First trimester screening",
+   "page": 336,
+   "q": "What are the two maternal serum biochemical analytes measured in the first-trimester 'Dual test' between 11 and 13+6 weeks?",
+   "opts": [
+    "Pregnancy-associated plasma protein A (PAPP-A) and free beta-hCG",
+    "Alpha-fetoprotein (AFP) and unconjugated estriol (uE3)",
+    "Inhibin-A and total hCG",
+    "Human placental lactogen (hPL) and progesterone"
+   ],
+   "ans": 0,
+   "exp": "The Dual test measures serum PAPP-A and free beta-hCG between 11w0d and 13w6d (CRL 45-84 mm). (Book p336)",
+   "id": "OBG-C3-048"
+  },
+  {
+   "sec": "First trimester screening",
+   "page": 336,
+   "q": "In a fetus affected by Down syndrome (Trisomy 21), what typical pattern of PAPP-A and free beta-hCG is found on first-trimester biochemical screening?",
+   "opts": [
+    "Decreased PAPP-A and increased free beta-hCG",
+    "Increased PAPP-A and decreased free beta-hCG",
+    "Both PAPP-A and free beta-hCG are markedly decreased",
+    "Both PAPP-A and free beta-hCG are markedly increased"
+   ],
+   "ans": 0,
+   "exp": "Down syndrome displays reduced PAPP-A (<0.5 MoM) and elevated free beta-hCG (>2.0 MoM); in Trisomy 18 and 13, both analytes are significantly decreased. (Book p336)",
+   "id": "OBG-C3-049"
+  },
+  {
+   "sec": "First trimester screening",
+   "page": 336,
+   "q": "Beyond screening for chromosomal aneuploidies, an isolated finding of very low first-trimester maternal serum PAPP-A (<0.4 MoM) is an established predictor for:",
+   "opts": [
+    "Placental insufficiency, with fetal growth restriction and pre-eclampsia",
+    "Fetal macrosomia with polyhydramnios in the third trimester",
+    "Gestational diabetes mellitus needing early screening",
+    "A prolonged pregnancy that runs well past the expected date"
+   ],
+   "ans": 0,
+   "exp": "A very low PAPP-A reflects poor placentation and is associated with growth restriction, pre-eclampsia and stillbirth. (Book p336)",
+   "id": "OBG-C3-050"
+  },
+  {
+   "sec": "First trimester screening",
+   "page": 336,
+   "q": "What components constitute the 'Combined test' for first-trimester Down syndrome screening, and what is its approximate detection rate?",
+   "opts": [
+    "Dual test (PAPP-A + free beta-hCG) plus sonographic Nuchal Translucency (NT); detection rate 82-87%",
+    "Triple test plus Level II targeted ultrasound; detection rate 65%",
+    "Nuchal translucency plus ductus venosus Doppler; detection rate 50%",
+    "Quad test plus NIPT; detection rate 70%"
+   ],
+   "ans": 0,
+   "exp": "The first-trimester Combined test incorporates maternal age, Dual test analytes, and ultrasound NT, yielding an 82-87% detection rate for Down syndrome. (Book p336)",
+   "id": "OBG-C3-051"
+  },
+  {
+   "id": "OBG-C3-052",
+   "sec": "First trimester screening: dual test & combined test",
+   "page": 336,
+   "q": "Match the test with what it measures — 1) Dual test 2) First-trimester combined test 3) Quadruple test … A) Nuchal translucency plus beta-hCG and PAPP-A with maternal age B) Beta-hCG and PAPP-A alone C) AFP, beta-hCG, unconjugated estriol and inhibin A",
+   "opts": [
+    "1-B, 2-A, 3-C",
+    "1-A, 2-B, 3-C",
+    "1-C, 2-A, 3-B",
+    "1-B, 2-C, 3-A"
+   ],
+   "ans": 0,
+   "exp": "The dual test is biochemical only; adding nuchal translucency makes it the combined test, and the quad test belongs to the second trimester. (Book p336)",
+   "fmt": "match"
+  },
+  {
+   "sec": "Neck ultrasound markers",
+   "page": 337,
+   "q": "Between what gestational age and CRL range must fetal Nuchal Translucency (NT) be measured?",
+   "opts": [
+    "11 weeks + 0 days to 13 weeks + 6 days (CRL 45 mm to 84 mm)",
+    "9 weeks + 0 days to 11 weeks + 0 days (CRL 25 mm to 44 mm)",
+    "14 weeks + 0 days to 16 weeks + 0 days (CRL 85 mm to 110 mm)",
+    "16 weeks + 0 days to 20 weeks + 0 days (CRL > 120 mm)"
+   ],
+   "ans": 0,
+   "exp": "NT measurement is strictly validated between 11w0d and 13w6d when the embryonic CRL is 45 to 84 mm. (Book p337)",
+   "id": "OBG-C3-053"
+  },
+  {
+   "sec": "Neck ultrasound markers",
+   "page": 337,
+   "q": "What is the normal upper physiological cutoff for Nuchal Translucency (NT), above which it is classified as abnormally increased?",
+   "opts": [
+    "Above 3.0 mm, or above the 95th percentile for the crown-rump length",
+    "Above 1.5 mm, or above the 50th percentile for the crown-rump length",
+    "Above 6.0 mm, or above the 99th percentile for the crown-rump length",
+    "Above 10.0 mm, or above the 99.9th percentile for the crown-rump length"
+   ],
+   "ans": 0,
+   "exp": "Nuchal translucency up to 3.0 mm (or below the 95th percentile for the CRL) is regarded as normal at 11 to 13+6 weeks. (Book p337)",
+   "id": "OBG-C3-054"
+  },
+  {
+   "sec": "Neck ultrasound markers",
+   "page": 337,
+   "q": "A thickened fetal Nuchal Translucency (>= 3.0 mm) with a normal fetal karyotype is an established indication to evaluate for which structural defect?",
+   "opts": [
+    "Congenital heart disease, with a fetal echocardiogram at 22-24 weeks",
+    "Duodenal atresia, with serial scans looking for the double bubble",
+    "Polycystic kidney disease, with detailed imaging of the renal tract",
+    "Unilateral clubfoot, with careful limb views at every subsequent visit"
+   ],
+   "ans": 0,
+   "exp": "A thickened nuchal translucency with a normal karyotype is an established indication for specialist fetal cardiac assessment. (Book p337)",
+   "id": "OBG-C3-055"
+  },
+  {
+   "sec": "Neck ultrasound markers",
+   "page": 337,
+   "q": "What technical criteria must be fulfilled to obtain an accurate, standardized Nuchal Translucency (NT) measurement?",
+   "opts": [
+    "Mid-sagittal plane, neutral fetal head (not flexed/extended), separate visualization of amnion, and calipers placed inner-to-inner",
+    "Transverse axial plane across the orbits with head fully extended",
+    "Coronal plane through the cervical spine with amnion touching the skin",
+    "Any plane showing the neck with calipers placed outer-to-outer"
+   ],
+   "ans": 0,
+   "exp": "Standard NT criteria: mid-sagittal view, neutral head, magnification of head/thorax, separate amnion, and calipers placed inner-to-inner across widest lucency. (Book p337)",
+   "id": "OBG-C3-056"
+  },
+  {
+   "id": "OBG-C3-057",
+   "sec": "Nuchal translucency & cystic hygroma differentiation",
+   "page": 337,
+   "q": "Which of the following statements about nuchal translucency is TRUE?",
+   "opts": [
+    "With a nuchal translucency above 3.5 mm and a normal karyotype, a fetal echocardiogram and detailed anatomy scan are indicated",
+    "Cystic hygroma is a thin, septation-free collection that always resolves by the middle of the second trimester",
+    "Nuchal translucency may be measured at any gestational age between 14 and 20 weeks",
+    "A nuchal translucency of 2.5 mm is above the 99th centile at every crown-rump length"
+   ],
+   "ans": 0,
+   "exp": "NT is measured at 11 to 13+6 weeks; a very thick NT with normal chromosomes warrants cardiac and anatomical follow-up, and septated cystic hygroma has a worse prognosis. (Book p337)",
+   "fmt": "truefalse"
+  },
+  {
+   "sec": "Neck ultrasound markers",
+   "page": 338,
+   "q": "How does a Cystic Hygroma differ sonographically and clinically from simple increased Nuchal Translucency?",
+   "opts": [
+    "Cystic hygroma is a larger, widespread, multiseptated lymphatic sac extending beyond the neck, carrying higher aneuploidy risk",
+    "Cystic hygroma never contains internal septations and is limited to the subocciput",
+    "Cystic hygroma has no association with chromosomal abnormalities",
+    "Nuchal translucency always exhibits internal vascular flow on color Doppler"
+   ],
+   "ans": 0,
+   "exp": "Cystic hygroma is a bilateral, multiseptated cystic lymphangioma extending along the posterolateral neck/body, carrying a >60% aneuploidy risk. (Book p338)",
+   "id": "OBG-C3-058"
+  },
+  {
+   "sec": "Second trimester screening",
+   "page": 338,
+   "q": "Which biochemical analyte is added to the classic Triple test (AFP, hCG, uE3) to construct the Quadruple test for Down syndrome screening?",
+   "opts": [
+    "Inhibin-A",
+    "Pregnancy-associated plasma protein A (PAPP-A)",
+    "Placental growth factor (PlGF)",
+    "Human placental lactogen (hPL)"
+   ],
+   "ans": 0,
+   "exp": "The Quadruple test adds dimeric Inhibin-A to the Triple test, improving Down syndrome detection rate from ~70% to 80-83%. (Book p338)",
+   "id": "OBG-C3-059"
+  },
+  {
+   "sec": "Second trimester screening",
+   "page": 338,
+   "q": "In a second-trimester quadruple test for Down syndrome, which two markers are elevated ('HI' is high)?",
+   "opts": [
+    "hCG and Inhibin-A are elevated; AFP and uE3 are decreased",
+    "AFP and Inhibin-A are elevated; hCG and uE3 are decreased",
+    "uE3 and hCG are elevated; AFP and Inhibin-A are decreased",
+    "All four analytes are elevated"
+   ],
+   "ans": 0,
+   "exp": "In Down syndrome, hCG and Inhibin-A ('HI') are abnormally high, while AFP and unconjugated estriol (uE3) are low. (Book p338)",
+   "id": "OBG-C3-060"
+  },
+  {
+   "sec": "Second trimester screening",
+   "page": 338,
+   "q": "On second-trimester ultrasound (15-20 weeks), what cutoff for Nuchal Skinfold Thickness (NSFT) is considered an abnormal soft marker for Down syndrome?",
+   "opts": [
+    ">= 6.0 mm",
+    ">= 3.0 mm",
+    ">= 10.0 mm",
+    ">= 1.5 mm"
+   ],
+   "ans": 0,
+   "exp": "In the second trimester (15-20 weeks), a nuchal fold thickness >=6 mm measured in the transcerebellar plane is a major soft marker for Down syndrome. (Book p338)",
+   "id": "OBG-C3-061"
+  },
+  {
+   "sec": "Second trimester screening",
+   "page": 338,
+   "q": "Which of the following second-trimester sonographic soft tissue markers has the LOWEST individual risk of aneuploidy and is found in 11-17% of completely normal fetuses?",
+   "opts": [
+    "Choroid Plexus Cyst (CPC)",
+    "Echogenic bowel",
+    "Absent nasal bone",
+    "Thickened nuchal skin fold"
+   ],
+   "ans": 0,
+   "exp": "Choroid plexus cysts carry the lowest isolated risk for aneuploidy (found in 1-2% of normal fetuses, weak association with Trisomy 18); when isolated, normal outcome is expected. (Book p338)",
+   "id": "OBG-C3-062"
+  },
+  {
+   "id": "OBG-C3-063",
+   "sec": "Second trimester markers: triple, quad & soft sonographic signs",
+   "page": 338,
+   "q": "All of the following are soft sonographic markers of trisomy 21 EXCEPT:",
+   "opts": [
+    "Choroid plexus cysts",
+    "Thickened nuchal fold",
+    "Short femur and humerus",
+    "Echogenic bowel"
+   ],
+   "ans": 0,
+   "exp": "Choroid plexus cysts are the classic trisomy 18 marker; nuchal fold thickening, short long bones and echogenic bowel are trisomy 21 markers. (Book p338)",
+   "fmt": "oddoneout"
+  },
+  {
+   "sec": "Advanced prenatal screening",
+   "page": 339,
+   "q": "Non-Invasive Prenatal Testing (NIPT) analyzes cell-free fetal DNA (cffDNA) extracted from maternal blood. What is the tissue source of this cffDNA?",
+   "opts": [
+    "Apoptosis of placental syncytiotrophoblast microvilli",
+    "Intact fetal red blood cells that crossed the placenta",
+    "Fetal leukocytes in maternal bone marrow",
+    "Amniotic fluid leaking into maternal capillaries"
+   ],
+   "ans": 0,
+   "exp": "cffDNA in maternal plasma consists of short fragments (~150 bp) originating predominantly from apoptotic placental syncytiotrophoblast cells. (Book p339)",
+   "id": "OBG-C3-064"
+  },
+  {
+   "sec": "Advanced prenatal screening",
+   "page": 339,
+   "q": "From what gestational age onwards can Non-Invasive Prenatal Testing (NIPT) be reliably performed?",
+   "opts": [
+    ">= 10 weeks of gestation (when fetal fraction is >= 4%)",
+    ">= 6 weeks of gestation",
+    ">= 16 weeks of gestation only",
+    ">= 20 weeks of gestation"
+   ],
+   "ans": 0,
+   "exp": "NIPT can be performed from 10 weeks onward, when the placental cffDNA fraction consistently exceeds the minimum testing threshold of 4%. (Book p339)",
+   "id": "OBG-C3-065"
+  },
+  {
+   "sec": "Advanced prenatal screening",
+   "page": 339,
+   "q": "What is the primary clinical limitation of Non-Invasive Prenatal Testing (NIPT)?",
+   "opts": [
+    "It is an advanced screening test, NOT a definitive diagnostic test; positive results must be confirmed invasively",
+    "It has a sensitivity of less than 70% for Down syndrome",
+    "It causes a 1% risk of miscarriage",
+    "It cannot be performed in Rh-negative mothers"
+   ],
+   "ans": 0,
+   "exp": "Despite >99% sensitivity for Trisomy 21, NIPT is not diagnostic due to potential confined placental mosaicism; positive results mandate invasive confirmation. (Book p339)",
+   "id": "OBG-C3-066"
+  },
+  {
+   "sec": "Advanced prenatal screening",
+   "page": 339,
+   "q": "What is 'Integrated Screening' for Down syndrome, and what is its major ethical/clinical drawback?",
+   "opts": [
+    "First-trimester (Dual + NT) and second-trimester (Quad) tests combined; results are withheld until second-trimester testing is completed",
+    "Sequential testing with immediate termination offered in the first trimester",
+    "Simultaneous NIPT and amniocentesis for all patients",
+    "Universal karyotyping in early pregnancy"
+   ],
+   "ans": 0,
+   "exp": "Integrated screening combines 1st trimester Dual+NT with 2nd trimester Quad (detection rate 85-95%), but results are withheld until T2, delaying diagnosis. (Book p339)",
+   "id": "OBG-C3-067"
+  },
+  {
+   "id": "OBG-C3-068",
+   "sec": "Non-invasive prenatal testing (NIPT / cffDNA) & integrated screening",
+   "page": 339,
+   "q": "Match the test with what it is — 1) cffDNA or NIPT 2) Chorionic villus sampling 3) Amniocentesis … A) Screening test using placental DNA fragments in maternal blood B) Diagnostic test on placental tissue from 10-13 weeks C) Diagnostic test on amniotic fluid, usually after 15 weeks",
+   "opts": [
+    "1-A, 2-B, 3-C",
+    "1-B, 2-A, 3-C",
+    "1-C, 2-B, 3-A",
+    "1-A, 2-C, 3-B"
+   ],
+   "ans": 0,
+   "exp": "NIPT remains a screening test because the DNA is placental; CVS and amniocentesis give a definitive fetal karyotype. (Book p339)",
+   "fmt": "match"
+  },
+  {
+   "sec": "Screening algorithms & cutoffs",
+   "page": 339,
+   "q": "What is the standard clinical cutoff ratio used to define a 'screen-positive' result for Down syndrome (Trisomy 21)?",
+   "opts": [
+    "1 in 250 — a risk at or above this cut-off is called screen-positive",
+    "1 in 1000 — a risk at or above this cut-off is called screen-positive",
+    "1 in 50 — a risk at or above this cut-off is called screen-positive",
+    "1 in 10 — a risk at or above this cut-off is called screen-positive"
+   ],
+   "ans": 0,
+   "exp": "The standard second-trimester cut-off is 1 in 250: a risk of 1 in 150 is screen-positive and 1 in 500 is screen-negative. (Book p339)",
+   "id": "OBG-C3-069"
+  },
+  {
+   "sec": "Screening algorithms & cutoffs",
+   "page": 339,
+   "q": "What is the standard screening cutoff ratio used to classify a pregnancy as high risk for Trisomy 18 (Edwards) and Trisomy 13 (Patau)?",
+   "opts": [
+    "1 : 100",
+    "1 : 250",
+    "1 : 500",
+    "1 : 1000"
+   ],
+   "ans": 0,
+   "exp": "For Trisomy 18 and Trisomy 13, the standard screen-positive cutoff ratio is typically set at 1:100. (Book p339)",
+   "id": "OBG-C3-070"
+  },
+  {
+   "sec": "Screening algorithms & cutoffs",
+   "page": 339,
+   "q": "A 32-year-old woman receives a combined first-trimester screening report indicating a Down syndrome risk of 1:80. What is the most appropriate next step in clinical management?",
+   "opts": [
+    "Offer diagnostic confirmation via Chorionic Villus Sampling (or amniocentesis) or secondary screening with NIPT",
+    "Reassure the patient that the fetus is entirely normal",
+    "Perform an immediate emergency Caesarean delivery",
+    "Repeat the same biochemical test next week"
+   ],
+   "ans": 0,
+   "exp": "A risk of 1:80 is screen-positive (>1:250); genetic counseling should be provided, offering definitive invasive testing (CVS/amniocentesis) or NIPT. (Book p339)",
+   "id": "OBG-C3-071"
+  },
+  {
+   "sec": "Screening algorithms & cutoffs",
+   "page": 339,
+   "q": "If a pregnant woman presents with positive first-trimester aneuploidy screening and chooses definitive invasive diagnostic testing, what procedure is performed at 11 to 13+6 weeks versus after 15 weeks?",
+   "opts": [
+    "Chorionic Villus Sampling (CVS) in the first trimester; Amniocentesis after 15 weeks",
+    "Amniocentesis in the first trimester; CVS after 15 weeks",
+    "Cordocentesis at both gestational ages",
+    "Targeted ultrasound only at both gestational ages"
+   ],
+   "ans": 0,
+   "exp": "Invasive diagnosis is achieved via CVS in the first trimester (10-14 weeks, ideally 11-13+6w) and via amniocentesis in the second trimester (15-20 weeks). (Book p339)",
+   "id": "OBG-C3-072"
+  },
+  {
+   "id": "OBG-C3-073",
+   "sec": "Aneuploidy risk interpretation & diagnostic algorithm",
+   "page": 339,
+   "q": "A 38-year-old at 12 weeks has a combined-test risk of 1 in 80 for trisomy 21. She wants certainty but is frightened of procedure-related loss. What is the correct counselling?",
+   "opts": [
+    "Offer diagnostic testing by CVS or amniocentesis, because NIPT remains a screening test at this risk",
+    "Reassure her that 1 in 80 is screen-negative and no further testing is needed",
+    "Offer NIPT and terminate the pregnancy if it is high risk, without confirmatory testing",
+    "Repeat the combined test at 16 weeks to obtain a definitive result"
+   ],
+   "ans": 0,
+   "exp": "A screen-positive result must be confirmed by a diagnostic test before any irreversible decision, and screening tests cannot be repeated as if they were diagnostic. (Book p339)",
+   "fmt": "scenario"
+  }
+ ]
 }

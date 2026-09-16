@@ -1,0 +1,99 @@
+[
+  {
+    "op": "add", "unit": "OBG-U17-1", "page": 499, "fmt": "fillup",
+    "sec": "The four stages of labour",
+    "q": "Fill up: The first stage of labour ends with ______, and the fourth stage is defined as the first ______ after delivery of the placenta.",
+    "opts": ["full cervical dilatation; hour", "delivery of the baby; two hours", "full cervical dilatation; two hours", "delivery of the placenta; six hours"],
+    "ans": 0,
+    "exp": "The stages are: first to full dilatation, second to delivery of the baby, third to delivery of the placenta, and fourth the first hour of observation."
+  },
+  {
+    "op": "add", "unit": "OBG-U17-2", "page": 499, "fmt": "truefalse",
+    "sec": "Prolonged latent phase",
+    "q": "Which of the following statements about a prolonged latent phase is TRUE?",
+    "opts": [
+      "It usually reflects an unfavourable cervix rather than obstruction, so rest and analgesia are the treatment",
+      "It is an immediate indication for caesarean section in every case",
+      "It is always caused by cephalopelvic disproportion or a contracted pelvis",
+      "It should be treated at once with high-dose oxytocin augmentation"
+    ],
+    "ans": 0,
+    "exp": "Therapeutic rest with analgesia lets an unripe cervix resolve; most women then enter the active phase or are not in true labour."
+  },
+  {
+    "op": "add", "unit": "OBG-U17-3", "page": 500, "fmt": "fillup",
+    "sec": "Active phase: normal rates & protracted active phase",
+    "q": "Fill up: In the active phase of the first stage, cervical dilatation normally proceeds at least at ______ cm per hour.",
+    "opts": ["1", "0.5", "2", "1.5"],
+    "ans": 0,
+    "exp": "A rate below about 1 cm per hour in a primigravida is protraction, which prompts a search for poor contractions, malposition or disproportion."
+  },
+  {
+    "op": "add", "unit": "OBG-U17-4", "page": 501, "fmt": "scenario",
+    "sec": "Arrest of active phase & arrest of descent",
+    "q": "A primigravida's partogram shows the cervix at 6 cm with no further change for four hours despite adequate contractions, and the head is at station zero. What is the diagnosis and next step?",
+    "opts": [
+      "Arrest of the active phase — reassess for disproportion and deliver by caesarean section",
+      "Normal progress — continue to observe for another four hours",
+      "Prolonged latent phase — give sedatives and allow her to rest",
+      "Precipitate labour — prepare for immediate delivery"
+    ],
+    "ans": 0,
+    "exp": "No cervical change for four hours with adequate contractions, or two hours without, is arrest of dilatation and needs delivery after excluding disproportion."
+  },
+  {
+    "op": "add", "unit": "OBG-U17-5", "page": 502, "fmt": "fillup",
+    "sec": "Second stage of labour: durations",
+    "q": "Fill up: In a primigravida the second stage normally lasts up to ______ hours without epidural analgesia, and up to ______ hours with an epidural.",
+    "opts": ["2; 3", "1; 2", "3; 4", "2; 4"],
+    "ans": 0,
+    "exp": "Two hours (three with an epidural) is the accepted limit in a primigravida, and one hour (two with an epidural) in a multiparous woman."
+  },
+  {
+    "op": "add", "unit": "OBG-U17-6", "page": 503, "fmt": "oddoneout",
+    "sec": "Obstructed labour & Bandl's ring",
+    "q": "All of the following are features of obstructed labour EXCEPT:",
+    "opts": [
+      "A well-flexed deeply engaged head with no caput or moulding",
+      "A retraction ring rising obliquely across the abdomen",
+      "A tonically contracted tender uterus in an exhausted, dehydrated woman",
+      "A distended bladder, ketosis and a hot dry vagina"
+    ],
+    "ans": 0,
+    "exp": "Obstruction produces marked caput and moulding with non-engagement; a well-flexed engaged head with no caput is a favourable, unobstructed picture."
+  },
+  {
+    "op": "add", "unit": "OBG-U17-7", "page": 504, "fmt": "match",
+    "sec": "Bandl's ring vs Schroeder's ring",
+    "q": "Match the ring with its description — 1) Physiological retraction ring 2) Bandl's ring 3) Constriction ring … A) A pathological ring that rises obliquely across the abdomen as obstructed labour advances B) The normal junction of active upper and passive lower segment that cannot be felt abdominally C) A localised spasm of uterine muscle around a fetal part, unrelated to the segmental junction",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "The physiological ring is normal and impalpable, Bandl's ring is the rising sign of obstruction, and a constriction ring is a focal spasm."
+  },
+  {
+    "op": "add", "unit": "OBG-U17-8", "page": 504, "fmt": "truefalse",
+    "sec": "WHO recommendations for admission & first stage care",
+    "q": "Which of the following is consistent with WHO recommendations for care in normal labour?",
+    "opts": [
+      "A companion of the woman's choice, oral fluids, freedom of movement and no routine enema or shaving",
+      "A routine admission enema, pubic shaving and nil by mouth for every woman",
+      "Continuous electronic fetal monitoring for every woman in labour",
+      "Routine episiotomy and routine early amniotomy to shorten labour"
+    ],
+    "ans": 0,
+    "exp": "WHO supports respectful, low-intervention care; enemas, shaving, routine amniotomy and routine episiotomy are not recommended."
+  },
+  {
+    "op": "add", "unit": "OBG-U17-9", "page": 505, "fmt": "fillup",
+    "sec": "Management of second stage & prevention of perineal tear",
+    "q": "Fill up: Perineal trauma is reduced by applying ______ to the perineum in the second stage and by ______.",
+    "opts": [
+      "warm compresses with hands-on support; avoiding routine episiotomy",
+      "a routine mediolateral episiotomy; fundal pressure",
+      "sustained Valsalva pushing; the lithotomy position",
+      "a routine episiotomy; early cord clamping"
+    ],
+    "ans": 0,
+    "exp": "Warm compresses, hands-on support and spontaneous pushing reduce tears; episiotomy and fundal pressure increase trauma."
+  }
+]

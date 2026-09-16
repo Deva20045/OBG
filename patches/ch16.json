@@ -1,0 +1,84 @@
+[
+  {
+    "op": "add", "unit": "OBG-U16-1", "page": 490, "fmt": "fillup",
+    "sec": "Presenting parts of the fetal skull & head attitude",
+    "q": "Fill up: The vertex is bounded in front by the anterior fontanelle, behind by the posterior fontanelle and on each side by the ______.",
+    "opts": ["parietal eminences", "temporal ridges", "mastoid processes", "supraorbital ridges"],
+    "ans": 0,
+    "exp": "The vertex is the quadrangular area between the two fontanelles and the two parietal eminences; it is the presenting area in a well-flexed head."
+  },
+  {
+    "op": "add", "unit": "OBG-U16-2", "page": 491, "fmt": "match",
+    "sec": "Sutures, fontanelles & skull terminology",
+    "q": "Match the suture with what it lies between — 1) Sagittal suture 2) Coronal suture 3) Lambdoid suture … A) The two parietal bones, with the posterior fontanelle at its posterior end B) The frontal and the two parietal bones, with the anterior fontanelle at the junction C) The two parietal bones and the occipital bone",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-C, 3-A", "1-C, 2-A, 3-B", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "The sagittal suture ends behind at the posterior fontanelle, the anterior fontanelle sits where the sagittal, coronal and frontal sutures meet."
+  },
+  {
+    "op": "add", "unit": "OBG-U16-3", "page": 491, "fmt": "fillup",
+    "sec": "Diameters of the fetal skull & engaging diameters",
+    "q": "Fill up: With a well-flexed head, the engaging diameter is the suboccipito-bregmatic at about ______ cm, whereas the occipito-frontal diameter measures about ______ cm.",
+    "opts": ["9.5; 11.5", "11.5; 9.5", "9.5; 13.5", "13.5; 11.5"],
+    "ans": 0,
+    "exp": "Good flexion substitutes the shorter suboccipito-bregmatic (9.5 cm) diameter for the longer occipito-frontal (11.5 cm) diameter."
+  },
+  {
+    "op": "add", "unit": "OBG-U16-4", "page": 492, "fmt": "oddoneout",
+    "sec": "Engagement timing, moulding & swellings on the head",
+    "q": "All of the following statements about caput succedaneum are true EXCEPT:",
+    "opts": [
+      "It is sharply limited by the suture lines of the skull",
+      "It crosses the suture lines and is present at delivery",
+      "It pits on pressure and resolves within a day or two",
+      "It is a serosanguinous swelling of the presenting scalp"
+    ],
+    "ans": 0,
+    "exp": "A swelling confined within a suture line is a cephalhaematoma, which is subperiosteal and takes weeks to resolve; caput crosses sutures."
+  },
+  {
+    "op": "add", "unit": "OBG-U16-5", "page": 493, "fmt": "truefalse",
+    "sec": "Lie, presentation, prolapse & presenting part",
+    "q": "Which of the following statements about lie and presentation is TRUE?",
+    "opts": [
+      "The lie is the relation of the fetal long axis to the uterine long axis, while the presentation is the part of the fetus over the pelvic inlet",
+      "A transverse lie can deliver vaginally if the fetus is small and the pelvis is roomy",
+      "Presentation describes the relation of the fetal long axis to the maternal long axis",
+      "The lie is determined by which pole of the fetus overlies the pelvic inlet"
+    ],
+    "ans": 0,
+    "exp": "Lie is longitudinal, transverse or oblique; presentation is cephalic, breech or shoulder; a transverse lie cannot deliver vaginally."
+  },
+  {
+    "op": "add", "unit": "OBG-U16-6", "page": 495, "fmt": "fillup",
+    "sec": "Denominator, attitude & position",
+    "q": "Fill up: The denominator of the vertex presentation is the ______, and the denominator of the face presentation is the ______.",
+    "opts": ["occiput; mentum", "occiput; sinciput", "sinciput; mentum", "mentum; occiput"],
+    "ans": 0,
+    "exp": "The denominator is the reference point of the presenting part that is used to describe position: occiput for vertex, mentum for face, sacrum for breech."
+  },
+  {
+    "op": "add", "unit": "OBG-U16-7", "page": 495, "fmt": "scenario",
+    "sec": "Identification of fetal position",
+    "q": "On vaginal examination in labour the sagittal suture runs obliquely and the posterior fontanelle is felt anteriorly and towards the mother's left side. What is the position?",
+    "opts": ["Left occipito-anterior", "Right occipito-anterior", "Left occipito-posterior", "Right occipito-transverse"],
+    "ans": 0,
+    "exp": "The posterior fontanelle is the denominator; feeling it anteriorly and to the mother's left means the occiput is left and anterior."
+  },
+  {
+    "op": "add", "unit": "OBG-U16-8", "page": 496, "fmt": "match",
+    "sec": "Leopold's manoeuvres",
+    "q": "Match the Leopold manoeuvre with what it determines — 1) Fundal grip 2) Lateral grip 3) Pawlik's grip … A) Which pole occupies the fundus, and whether it is the head or the breech B) The lie and the side on which the fetal back and limbs lie C) What lies above the pelvic inlet and whether the presenting part is engaged",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "The first grip identifies the fundal pole, the second the lie and back, the third engagement, and the fourth confirms the degree of flexion."
+  },
+  {
+    "op": "add", "unit": "OBG-U16-9", "page": 498, "fmt": "fillup",
+    "sec": "Fixation & engagement of the fetal head (Crichton method)",
+    "q": "Fill up: By Crichton's method the head is said to be engaged when ______ of the head remains palpable above the pelvic brim.",
+    "opts": ["two-fifths or less", "three-fifths or less", "one-half or less", "none at all"],
+    "ans": 0,
+    "exp": "Engagement means the widest part of the head has passed the brim, which corresponds to two-fifths or less of the head being felt abdominally."
+  }
+]

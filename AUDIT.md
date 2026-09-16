@@ -1,0 +1,134 @@
+# Question-quality re-audit — variety and predictability
+
+Re-run after the complaint that the bank had drifted into "easily predictable
+options" and had fallen back on one repeated question shape.
+
+## What the audit measured
+
+`python3 audit_variety.py` reads `data/ch*.json` and reports, per chapter and
+for the whole bank:
+
+* the mix of question **formats** actually shipped
+* **predictability signals** that let a learner answer without knowing the fact:
+  * the correct option is the longest one
+  * the correct option is the only hedged / bracketed option
+  * filler distractors ("All of the above", "None", …)
+  * the answer term is restated in the stem
+  * stem templates repeated back-to-back inside a unit
+  * option sets reused verbatim between questions
+
+## Findings before the fix (2,368 questions)
+
+| Signal | Value | What it means |
+| --- | --- | --- |
+| Plain recall | **77.0%** | four of every five items were the same shape |
+| Match-the-following | **0%** | the format was simply absent |
+| True/false statement sets | **0.7%** | 17 items in the whole bank |
+| Clinical scenarios | **2.0%** | almost no vignettes |
+| Fill-ups | 5.2% | present only from chapter 11 onwards |
+| Odd-one-out | 4.3% | |
+| **Correct option is the longest** | **67.8%** | picking the longest option scored ~68% for free |
+| Worst chapters | ch 21 **92.3%**, ch 22 91.7%, ch 24 91.7%, ch 4 90.8% | in those chapters length alone gave the answer |
+| Answer length vs distractor | **59.9 / 29.2** characters | the answer was literally twice as long |
+| Items where the answer was ≥4× the longest distractor | **78** | unmissable giveaways |
+| Items where the answer was ≥3.5× | **118** | |
+
+Two recurring failure patterns accounted for most of the damage:
+
+1. **Paired "X : Y" items** — the correct option was a full two-part answer
+   ("During labour … respiratory depression … : DIC with excessive bleeding",
+   183 characters) while the distractors were two-word stubs ("Bleeding :
+   shock", "Fever : DIC"). Choosing the long option was trivially correct.
+2. **List items** — the correct option enumerated five risk factors while the
+   distractors were single entities ("Maternal anaemia", "Smoking",
+   "Primigravity"), so the answer announced itself.
+
+## What was changed (2,710 questions after the pass)
+
+**1. Format variety — one new item in every one of the 342 units (342 new items)**
+
+| Format | Before | After |
+| --- | --- | --- |
+| Fill-ups | 124 (5.2%) | **237 (8.7%)** |
+| Match-the-following | 0 (0%) | **71 (2.6%)** |
+| True/false statement sets | 17 (0.7%) | **67 (2.5%)** |
+| Clinical scenarios | 47 (2.0%) | **101 (3.7%)** |
+| Odd-one-out | 101 (4.3%) | **155 (5.7%)** |
+| Plain recall | 1,824 (77.0%) | 1,824 (67.3%) |
+
+Every unit now contains at least one non-recall item. Fill-ups appear in 113
+units, matching in 71, scenarios in 54, odd-one-out in 54 and true/false in 50.
+New items are tagged with a `fmt` field so the mix is measured, not guessed.
+
+**2. Predictability — de-biased the items that gave the answer away (233 items)**
+
+* All **78** items where the answer was ≥4× the longest distractor rewritten.
+* All items ≥3.5× rewritten, then all items ≥3.0× rewritten — **zero remain**
+  above 3.0×, and only 27 remain above 2.5× (previously 309).
+* Distractors were rebuilt to be the same *kind* of thing and the same *length*
+  as the key: paired items now offer four paired options (including the classic
+  reversed-order trap), and list items now offer four lists.
+
+| Signal | Before | After |
+| --- | --- | --- |
+| Items ≥4× longest distractor | 78 | **0** |
+| Items ≥3.5× | 118 | **0** |
+| Items ≥3.0× | 194 | **0** |
+| Items ≥2.5× | 309 | **27** |
+| Items ≥2.0× | 887 | **232** |
+| Answer length vs distractor | 59.9 / 29.2 chars | **55.9 / 37.6 chars** |
+| Correct option is the longest, bank-wide | 67.8% | **61.2%** |
+| Worst chapter (24) | 91.7% | **83.7%** |
+| Best chapter (11) | 55.9% | **37.3%** |
+
+## Honest status of what is left
+
+The bank-wide "longest option is the answer" figure fell from 67.8% to 61.2%,
+and the average answer is now 55.9 characters against 37.6 for distractors
+rather than 59.9 against 29.2. What remains is *mild and diffuse* — the median
+item has a ratio of 1.23, not 4.0 — spread across hundreds of items rather
+than concentrated in a hundred. Clearing it means editing items one at a time:
+
+* **27** items still between 2.5× and 3.0×
+* **205** items between 2.0× and 2.5×
+
+Two chapters still sit above 80% (chapter 21 at 83.6% and chapter 24 at 83.7%),
+and they are where the next tranche of work should go.
+
+Bulk trimming was deliberately *not* automated. A script that shortens the
+correct option by cutting its parenthetical or its trailing clause would have
+touched hundreds of good items and stripped exactly the detail that makes an
+option unambiguous ("1 mature ovum (female pronucleus)", "70–74 days (~72
+days)"). The remaining work is being done by hand, worst-first.
+
+## Guard rails added
+
+`check_integrity.py` now fails the build when:
+
+* any option set lets the answer be spotted by length alone (≥3.0× the longest
+  distractor) — this is the regression that caused the complaint, and the
+  ceiling has been tightened from 3.5× to 3.0× as the bank improved
+* any unit has no varied-format question at all
+* a question carries an unrecognised `fmt` tag
+
+Both were verified to fire on deliberately broken input before being committed.
+
+`check_app_smoke.js` no longer hard-codes the question and unit totals, which
+previously broke on every content addition; it now derives its expectations from
+`data/ch*.json`, so adding content cannot desynchronise the tests.
+
+## Tooling
+
+```bash
+python3 audit_variety.py              # format mix + predictability report
+python3 audit_variety.py --json       # machine-readable version
+python3 itemlab.py map                # every unit: id, pages, question count
+python3 itemlab.py flag 22 --ratio 3  # list the predictable items in a chapter
+python3 itemlab.py stats              # format mix from the fmt tags
+python3 itemlab.py apply patches/ch22.json
+```
+
+`itemlab.py` is the only route for content edits. It keeps ID sequences
+contiguous, preserves non-decreasing book-page order inside each unit, appends
+the `(Book pN)` citation, and keeps the hard-coded expectations in
+`check_integrity.py` in sync. Curated patches live in `patches/`.

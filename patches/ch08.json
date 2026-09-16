@@ -1,0 +1,330 @@
+[
+  {
+    "op": "add", "unit": "OBG-U8-1", "page": 402, "fmt": "scenario",
+    "sec": "Eclampsia delivery & impending eclampsia",
+    "q": "A 24-year-old primigravida at 34 weeks has an eclamptic convulsion. She is stabilised with magnesium sulfate and her blood pressure is controlled. When should the baby be delivered?",
+    "opts": [
+      "Once the mother is stabilised, usually within 24 hours, regardless of gestation",
+      "By immediate caesarean section within thirty minutes of the fit",
+      "After waiting two weeks so antenatal corticosteroids can be given",
+      "At 37 weeks, because eclampsia alone never justifies preterm delivery"
+    ],
+    "ans": 0,
+    "exp": "Eclampsia is an indication for delivery once the mother is stabilised and seizures are controlled; only maternal stabilisation is delayed, not delivery itself."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-2", "page": 402, "fmt": "match",
+    "sec": "Visual symptoms in PE & hypertensive retinopathy",
+    "q": "Match the visual problem with its basis — 1) Blurring and scotomata 2) Cortical blindness with a normal eye examination 3) Retinal arteriolar narrowing on fundoscopy … A) Occipital vasogenic oedema of posterior reversible encephalopathy B) Warning symptom of impending eclampsia from retinal and cerebral vasospasm C) Generalised vasospasm of the retinal arterioles in severe pre-eclampsia",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Visual symptoms warn of impending eclampsia, cortical blindness points to PRES, and fundoscopy shows arteriolar spasm with haemorrhages or papilloedema."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-3", "page": 402, "fmt": "fillup",
+    "sec": "Eclampsia and the fetal heart",
+    "q": "Fill up: During and immediately after an eclamptic convulsion the fetal heart rate usually shows ______, which recovers within ______.",
+    "opts": ["a transient bradycardia; about 5-10 minutes", "a persistent tachycardia; about an hour", "a sinusoidal pattern; about 24 hours", "no change at all; it needs no observation"],
+    "ans": 0,
+    "exp": "Fetal bradycardia during a fit is common and usually recovers within minutes as maternal oxygenation and uterine blood flow improve."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-4", "page": 403, "fmt": "fillup",
+    "sec": "Antihypertensive indications & hypertensive crisis",
+    "q": "Fill up: Antihypertensive drug treatment is started when the blood pressure is persistently above ______ mmHg, and a hypertensive crisis is a pressure above ______ mmHg.",
+    "opts": ["150/100; 160/110", "140/90; 150/100", "160/110; 180/120", "130/80; 140/90"],
+    "ans": 0,
+    "exp": "Treatment thresholds aim to prevent cerebral haemorrhage: sustained pressures above 150/100 are treated and above 160/110 are a crisis needing urgent control."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-5", "page": 403, "fmt": "match",
+    "sec": "Labetalol regimen & nifedipine",
+    "q": "Match the antihypertensive with its description — 1) Labetalol 2) Nifedipine 3) Hydralazine … A) Calcium channel blocker given orally, useful where there is no intravenous access B) Combined alpha and beta blocker given intravenously in escalating boluses C) Direct arteriolar vasodilator given intravenously, with more hypotension than the others",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Labetalol is the intravenous workhorse, oral or short-acting nifedipine is an alternative, and hydralazine causes more maternal hypotension."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-6", "page": 403, "fmt": "truefalse",
+    "sec": "Chronic hypertension & diuretics",
+    "q": "Which of the following statements about diuretics in pre-eclampsia is TRUE?",
+    "opts": [
+      "Diuretics are avoided, because the plasma volume is already contracted and perfusion of the placenta would fall further",
+      "Frusemide is the first-line drug for the acute control of severe hypertension in pregnancy",
+      "Thiazide diuretics are given routinely to all pregnant women to prevent pre-eclampsia",
+      "Frusemide is used routinely in severe pre-eclampsia to protect renal function"
+    ],
+    "ans": 0,
+    "exp": "Pre-eclampsia is a state of vasospasm with a contracted intravascular volume, so diuretics worsen perfusion; they are reserved for pulmonary oedema."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-7", "page": 404, "fmt": "fillup",
+    "sec": "Magnesium sulfate mechanism & Pritchard loading",
+    "q": "Fill up: Magnesium sulfate prevents eclamptic seizures by antagonising ______ at the neuromuscular junction and by blocking ______ receptors in the brain.",
+    "opts": ["calcium; NMDA", "sodium; GABA", "potassium; NMDA", "calcium; GABA"],
+    "ans": 0,
+    "exp": "Magnesium is a physiological calcium antagonist and blocks NMDA glutamate receptors, which is why it prevents and treats eclamptic seizures."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-8", "page": 404, "fmt": "fillup",
+    "sec": "Pritchard preparation & maintenance",
+    "q": "Fill up: In the Pritchard regimen the maintenance dose is ______ g of magnesium sulfate intramuscularly every ______ hours, continued for 24 hours after delivery.",
+    "opts": ["5; 4", "2; 6", "1; 4", "5; 8"],
+    "ans": 0,
+    "exp": "After the 4 g intravenous and 10 g intramuscular loading dose, 5 g is given intramuscularly every 4 hours, usually for 24 hours after delivery."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-9", "page": 405, "fmt": "scenario",
+    "sec": "MgSO4 monitoring & toxicity",
+    "q": "A woman receiving magnesium sulfate for severe pre-eclampsia has a respiratory rate of 10/min, absent knee jerks and a urine output of 20 mL per hour. What is the immediate management?",
+    "opts": [
+      "Stop the magnesium infusion, give 1 g of calcium gluconate intravenously and support ventilation",
+      "Continue magnesium at half the maintenance dose and review in four hours",
+      "Give frusemide to raise the urine output and continue magnesium as before",
+      "Give neostigmine to reverse the neuromuscular blockade and continue magnesium"
+    ],
+    "ans": 0,
+    "exp": "Loss of reflexes, respiratory depression and oliguria are magnesium toxicity, reversed by stopping the infusion and giving intravenous calcium gluconate."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-10", "page": 405, "fmt": "oddoneout",
+    "sec": "MgSO4 toxicity & uses",
+    "q": "All of the following are accepted uses of magnesium sulfate in obstetrics EXCEPT:",
+    "opts": [
+      "Augmentation of slow progress in the first stage of labour",
+      "Seizure prophylaxis in severe pre-eclampsia",
+      "Fetal neuroprotection before very preterm birth",
+      "Short-term tocolysis to allow transfer or corticosteroids"
+    ],
+    "ans": 0,
+    "exp": "Magnesium is not a uterotonic: it relaxes myometrium, so it is used for tocolysis, neuroprotection and eclampsia, never for augmentation."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-11", "page": 406, "fmt": "fillup",
+    "sec": "HELLP definition & presentation",
+    "q": "Fill up: The acronym HELLP stands for ______.",
+    "opts": [
+      "Haemolysis, elevated liver enzymes and low platelets",
+      "Hypertension, elevated liver enzymes and low platelets",
+      "Haemolysis, elevated lactate and low platelets",
+      "Haemolysis, elevated liver enzymes and low protein"
+    ],
+    "ans": 0,
+    "exp": "HELLP is haemolysis with schistocytes, raised transaminases and thrombocytopenia, a severe variant of pre-eclampsia."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-12", "page": 406, "fmt": "match",
+    "sec": "Tennessee criteria & HELLP classification",
+    "q": "Match the term with its meaning — 1) Complete or class 1 HELLP 2) Partial HELLP 3) Mississippi classification … A) Platelets below 50,000 with AST above 70 IU/L and LDH above 600 IU/L B) Only one or two of the three components are present C) Classes 1 to 3 are defined by the lowest recorded platelet count",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Tennessee criteria define complete HELLP numerically, partial HELLP has incomplete features, and Mississippi grades severity purely by platelet nadir."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-13", "page": 406, "fmt": "scenario",
+    "sec": "HELLP management & classification",
+    "q": "A 30-year-old at 31 weeks has HELLP syndrome with platelets of 85,000, AST of 120 IU/L, epigastric tenderness and a blood pressure of 150/100 mmHg. What is the management?",
+    "opts": [
+      "Stabilise her, give corticosteroids, and deliver once she is stable, usually within 24-48 hours",
+      "Immediate caesarean section without waiting for corticosteroids",
+      "Expectant management until 37 weeks because the platelet count is still above 50,000",
+      "Therapeutic plasma exchange as first-line treatment before considering delivery"
+    ],
+    "ans": 0,
+    "exp": "HELLP is an indication for delivery after maternal stabilisation and steroids; plasma exchange is reserved for refractory postpartum disease."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-14", "page": 407, "fmt": "fillup",
+    "sec": "AFLP risk factors & pathophysiology",
+    "q": "Fill up: Acute fatty liver of pregnancy is linked to fetal deficiency of ______, which causes the mother to accumulate ______.",
+    "opts": [
+      "long-chain 3-hydroxyacyl-CoA dehydrogenase; medium and long chain fatty acids",
+      "glucose-6-phosphatase; glycogen in hepatocytes",
+      "ornithine transcarbamylase; ammonia in the blood",
+      "bilirubin UDP-glucuronyl transferase; unconjugated bilirubin"
+    ],
+    "ans": 0,
+    "exp": "A fatty acid oxidation defect in the fetus (often LCHAD deficiency) floods the maternal liver with fatty acids, producing microvesicular steatosis."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-15", "page": 407, "fmt": "truefalse",
+    "sec": "AFLP consequences & diagnosis",
+    "q": "Which of the following statements about acute fatty liver of pregnancy is TRUE?",
+    "opts": [
+      "Hypoglycaemia, a prolonged prothrombin time and encephalopathy with only modest transaminase rise are typical",
+      "A transaminase above 1000 IU/L with normal glucose rules the diagnosis out",
+      "Third-trimester jaundice with ascites and hypoalbuminaemia is always HELLP syndrome",
+      "Acute fatty liver is a first-trimester disorder that complicates hyperemesis gravidarum"
+    ],
+    "ans": 0,
+    "exp": "AFLP gives liver failure with hypoglycaemia and coagulopathy but only moderate transaminase rise, unlike the high transaminases of viral hepatitis."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-16", "page": 408, "fmt": "oddoneout",
+    "sec": "AFLP vs HELLP & follow-up",
+    "q": "All of the following favour acute fatty liver of pregnancy over HELLP syndrome EXCEPT:",
+    "opts": [
+      "Severe hypertension with heavy proteinuria",
+      "Profound hypoglycaemia needing intravenous dextrose",
+      "Marked prolongation of the prothrombin time and hypofibrinogenaemia",
+      "Deep jaundice progressing to hepatic encephalopathy"
+    ],
+    "ans": 0,
+    "exp": "Hypertension and proteinuria are the hallmarks of pre-eclampsia and HELLP; hypoglycaemia, coagulopathy and encephalopathy point to AFLP."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-17", "page": 408, "fmt": "fillup",
+    "sec": "ICP features & symptoms",
+    "q": "Fill up: The itch of intrahepatic cholestasis of pregnancy is worst on the ______ and usually begins in the ______ trimester.",
+    "opts": ["palms and soles; third", "face and scalp; first", "scalp and neck; second", "back and buttocks; first"],
+    "ans": 0,
+    "exp": "Palmoplantar pruritus without a rash, worse at night and appearing in the third trimester, is characteristic; jaundice follows in a minority."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-18", "page": 409, "fmt": "match",
+    "sec": "ICP complications & diagnosis",
+    "q": "Match the finding with its role in intrahepatic cholestasis of pregnancy — 1) Raised serum bile acids 2) Modestly raised transaminases 3) Pruritus without a primary rash … A) The most sensitive and diagnostic abnormality B) A supportive feature, usually only two to three times normal C) The presenting symptom, characteristically worse at night",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-B, 3-A", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Bile acids above 10 micromol/L are diagnostic, transaminases are supportive, and there is no primary rash — only excoriations from scratching."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-19", "page": 409, "fmt": "truefalse",
+    "sec": "ICP management & counselling",
+    "q": "Which of the following statements about intrahepatic cholestasis of pregnancy is TRUE?",
+    "opts": [
+      "Ursodeoxycholic acid relieves the itch and improves biochemistry, and delivery is offered from 37-38 weeks because of stillbirth risk",
+      "Antihistamines cure the condition, so pregnancy may safely continue to 42 weeks",
+      "Warfarin is the anticoagulant of choice when vitamin K deficiency causes a prolonged prothrombin time",
+      "A widespread urticarial rash always precedes the pruritus of intrahepatic cholestasis"
+    ],
+    "ans": 0,
+    "exp": "Ursodeoxycholic acid is first-line; vitamin K is given to the mother to prevent haemorrhage and warfarin is unsafe in pregnancy."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-20", "page": 410, "fmt": "fillup",
+    "sec": "Rh antigens & Rh-negative workup",
+    "q": "Fill up: The clinically most important Rh antibody is ______, and without prophylaxis about ______ of Rh-negative women carrying an Rh-positive fetus become sensitised.",
+    "opts": ["anti-D; 15%", "anti-C; 50%", "anti-E; 5%", "anti-D; 1%"],
+    "ans": 0,
+    "exp": "Anti-D is the antibody that matters; roughly 15% of at-risk women are immunised by a pregnancy or delivery unless anti-D immunoglobulin is given."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-21", "page": 411, "fmt": "match",
+    "sec": "Fetomaternal hemorrhage & Rh disease complications",
+    "q": "Match the manifestation with its mechanism — 1) Hydrops fetalis 2) Kernicterus 3) Early neonatal anaemia … A) Unconjugated bilirubin deposition in the basal ganglia and brainstem nuclei B) Severe anaemia with ascites, scalp oedema and an enlarged placenta C) Ongoing haemolysis in the first days of life needing phototherapy or exchange transfusion",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-A, 3-B", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "Severe haemolysis causes hydrops in utero, bilirubin causes kernicterus after birth, and continuing antibody action causes early neonatal anaemia."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-22", "page": 412, "fmt": "fillup",
+    "sec": "Fetal anemia",
+    "q": "Fill up: Fetal anaemia is detected non-invasively by Doppler of the ______, where a peak systolic velocity above ______ multiples of the median suggests severe anaemia.",
+    "opts": ["middle cerebral artery; 1.5", "umbilical vein; 1.5", "middle cerebral artery; 2.5", "ductus venosus; 1.5"],
+    "ans": 0,
+    "exp": "Anaemia lowers blood viscosity and raises middle cerebral artery peak systolic velocity; above 1.5 multiples of the median it predicts severe anaemia."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-23", "page": 412, "fmt": "truefalse",
+    "sec": "Anti-D mechanism & safety",
+    "q": "Which of the following statements about anti-D immunoglobulin is TRUE?",
+    "opts": [
+      "Anti-D clears Rh-positive fetal red cells from the maternal circulation before the mother can mount her own immune response",
+      "Anti-D is a live vaccine that must be given before pregnancy to work",
+      "Anti-D given after delivery protects the infant by suppressing the fetal immune system",
+      "Anti-D is effective only in the first trimester and is never given after delivery"
+    ],
+    "ans": 0,
+    "exp": "Passive anti-D causes rapid clearance of fetal cells so the mother never makes her own antibody; it is given after any sensitising event and at 28 weeks."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-24", "page": 413, "fmt": "fillup",
+    "sec": "Indirect Coombs test & sensitized pregnancy",
+    "q": "Fill up: The indirect Coombs test detects ______ in the mother's serum, whereas the direct Coombs test detects ______.",
+    "opts": [
+      "free anti-D antibody; antibody already bound to fetal red cells",
+      "fetal red cells in maternal blood; free anti-D antibody",
+      "maternal red cell antigens; maternal anti-D antibody",
+      "platelet antibodies; red cell antibodies"
+    ],
+    "ans": 0,
+    "exp": "Indirect Coombs screens maternal serum for free antibody; direct Coombs shows antibody already coating the infant's red cells and is positive in affected babies."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-25", "page": 413, "fmt": "scenario",
+    "sec": "Unsensitized delivery & postpartum anti-D",
+    "q": "An Rh-negative woman with a negative antibody screen delivers an Rh-positive infant. The cord direct Coombs test is negative and the baby is well. What should she receive?",
+    "opts": [
+      "Anti-D immunoglobulin 300 microgram (1500 IU) intramuscularly within 72 hours of delivery",
+      "Anti-D only if the Kleihauer-Betke test shows a bleed larger than 30 mL",
+      "Nothing, because the baby is unaffected and her antibody screen is negative",
+      "Anti-D 50 microgram now and a further dose at her six-week postnatal visit"
+    ],
+    "ans": 0,
+    "exp": "All non-sensitised Rh-negative women delivering an Rh-positive infant need anti-D within 72 hours; the Kleihauer-Betke test only decides whether extra doses are needed."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-26", "page": 414, "fmt": "truefalse",
+    "sec": "Rh sensitization & fetal anemia assessment",
+    "q": "Which of the following statements about Rh isoimmunisation is TRUE?",
+    "opts": [
+      "Sensitisation during one pregnancy usually spares that baby but endangers later Rh-positive pregnancies",
+      "A first Rh-positive pregnancy is always severely affected because antibodies form in the first trimester",
+      "Anti-D immunoglobulin given after sensitisation reverses the immune response",
+      "ABO incompatibility between mother and fetus makes Rh sensitisation more likely"
+    ],
+    "ans": 0,
+    "exp": "Primary immunisation is slow, so the index pregnancy usually escapes; ABO incompatibility protects, because fetal cells are destroyed before they immunise."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-27", "page": 415, "fmt": "scenario",
+    "sec": "Severe fetal anemia & sensitized delivery",
+    "q": "A sensitised woman with anti-D antibodies at 32 weeks has a middle cerebral artery peak systolic velocity of 1.7 multiples of the median. What is the next step?",
+    "opts": [
+      "Cordocentesis with intrauterine transfusion if the fetal haemoglobin is low, after corticosteroids for lung maturity",
+      "Immediate delivery at 32 weeks without further testing",
+      "Repeat the middle cerebral artery Doppler in four weeks",
+      "Maternal intravenous immunoglobulin and expectant management to term"
+    ],
+    "ans": 0,
+    "exp": "A peak systolic velocity above 1.5 multiples of the median indicates severe anaemia, confirmed by cordocentesis and treated by intrauterine transfusion."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-28", "page": 415, "fmt": "match",
+    "sec": "Fetomaternal hemorrhage & FMH testing",
+    "q": "Match the test with what it does — 1) Kleihauer-Betke test 2) Rosette test 3) Flow cytometry … A) A screening test that detects a feto-maternal haemorrhage of more than about 10 mL B) A quantitative test that uses acid elution of adult haemoglobin to identify fetal cells C) The most accurate modern method of quantifying fetal red cells in maternal blood",
+    "opts": ["1-B, 2-A, 3-C", "1-A, 2-B, 3-C", "1-C, 2-B, 3-A", "1-B, 2-C, 3-A"],
+    "ans": 0,
+    "exp": "The rosette test screens, Kleihauer-Betke quantifies by acid elution, and flow cytometry with anti-HbF is the most precise method."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-29", "page": 416, "fmt": "fillup",
+    "sec": "FMH testing & anti-D dosing",
+    "q": "Fill up: A single 300 microgram dose of anti-D covers about ______ mL of fetal whole blood, so a 40 mL feto-maternal haemorrhage needs ______ doses.",
+    "opts": ["30; two", "10; four", "30; one", "15; two"],
+    "ans": 0,
+    "exp": "300 microgram neutralises about 30 mL of fetal blood; the Kleihauer-Betke result is used to calculate any additional doses required."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-30", "page": 416, "fmt": "oddoneout",
+    "sec": "Anti-D exclusions & non-D alloimmunization",
+    "q": "All of the following are indications for anti-D immunoglobulin EXCEPT:",
+    "opts": [
+      "A woman who is herself Rh-positive",
+      "Delivery of an Rh-positive infant by an Rh-negative mother",
+      "Antepartum haemorrhage in an Rh-negative woman",
+      "External cephalic version in an Rh-negative woman"
+    ],
+    "ans": 0,
+    "exp": "Anti-D is only for Rh-negative non-sensitised women exposed to Rh-positive blood; Rh-positive women cannot form anti-D."
+  },
+  {
+    "op": "add", "unit": "OBG-U8-31", "page": 417, "fmt": "match",
+    "sec": "Mirror syndrome, immune & nonimmune hydrops",
+    "q": "Match the condition with its description — 1) Mirror syndrome 2) Immune hydrops 3) Non-immune hydrops … A) Maternal oedema, hypertension and proteinuria that parallel fetal hydrops and resolve after delivery B) Caused by red cell alloimmunisation, classically anti-D, anti-c or anti-Kell C) Caused by cardiac anomalies, arrhythmia, parvovirus B19 or twin-to-twin transfusion",
+    "opts": ["1-A, 2-B, 3-C", "1-B, 2-A, 3-C", "1-C, 2-A, 3-B", "1-A, 2-C, 3-B"],
+    "ans": 0,
+    "exp": "Mirror syndrome is the maternal reflection of fetal hydrops; hydrops is now more often non-immune than immune in countries with anti-D prophylaxis."
+  }
+]

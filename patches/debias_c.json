@@ -1,0 +1,332 @@
+[
+  {
+    "op": "edit", "id": "OBG-C24-024",
+    "opts": [
+      "A uterotonic first, then gentle curettage; vigorous curettage risks Asherman syndrome",
+      "Immediate hysterectomy, since a uterus that has failed to involute never recovers",
+      "Antibiotics alone, because subinvolution is always caused by occult endometritis",
+      "Methotrexate to dissolve the retained trophoblast, then a repeat scan in two weeks"
+    ],
+    "ans": 0,
+    "exp": "A uterotonic is the drug of choice, with gentle curettage for suspected retained tissue; over-zealous curettage causes intrauterine adhesions."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-079",
+    "opts": [
+      "A previous infant with GBS sepsis, GBS bacteriuria this pregnancy, or a positive screening swab",
+      "Preterm labour alone, whatever the screening result or the previous obstetric history",
+      "Intrapartum fever alone, even with a negative screen and no other risk factor",
+      "Rupture of membranes for twelve hours alone, with no other risk factor present"
+    ],
+    "ans": 0,
+    "exp": "A previous affected infant, bacteriuria in this pregnancy or a positive swab all justify prophylaxis without screening."
+  },
+  {
+    "op": "edit", "id": "OBG-C19-113",
+    "opts": [
+      "Not used in active management; tranexamic acid 1 g is added only when the risk of PPH is high",
+      "Both are first-line drugs of active management of the third stage in every delivery",
+      "Both are used only for induction of labour and never in the third stage or PPH",
+      "Both are contraindicated in the management of established postpartum haemorrhage"
+    ],
+    "ans": 0,
+    "exp": "Prostaglandins are reserved for treating PPH rather than preventing it, and tranexamic acid is an adjunct where the risk is high."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-102",
+    "opts": [
+      "Less space, so cord compression with variable decelerations, then fetal distress and meconium passage",
+      "Hydramnios with cord prolapse once the membranes rupture spontaneously in labour",
+      "Uterine overdistension leading to rupture of a previously scarred uterus",
+      "An entirely normal cardiotocograph, since liquor volume does not affect the trace"
+    ],
+    "ans": 0,
+    "exp": "Falling liquor in a post-term pregnancy compresses the cord, giving variable decelerations, fetal distress and meconium-stained liquor."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-043",
+    "opts": [
+      "A vaginal delivery is attempted, the hand is pulled to rotate, obstructed labour with Bandl's ring follows, and caesarean is needed",
+      "The lie corrects spontaneously and internal podalic version delivers the fetus vaginally",
+      "Cord prolapse occurs first and forceps are applied to the after-coming head",
+      "The fetus converts to a breech, and breech extraction with decapitation is then performed"
+    ],
+    "ans": 0,
+    "exp": "Neglected shoulder presentation is iatrogenic: traction on the prolapsed hand obstructs labour, and delivery must be by caesarean."
+  },
+  {
+    "op": "edit", "id": "OBG-C21-015",
+    "opts": [
+      "Shoulder dystocia, instrumental delivery, the after-coming head of a breech and a rigid perineum",
+      "Every primigravida, to shorten the second stage and protect the pelvic floor",
+      "Every preterm delivery, to reduce intracranial haemorrhage in the preterm baby",
+      "Every twin pregnancy routinely, whatever the presentation or progress of labour"
+    ],
+    "ans": 0,
+    "exp": "Episiotomy is a selective, not routine, procedure; the listed indications all need a rapid or atraumatic delivery."
+  },
+  {
+    "op": "edit", "id": "OBG-C10-244",
+    "opts": [
+      "Placental-site trophoblastic tumour and epithelioid trophoblastic tumour",
+      "Manual vacuum aspiration and manual removal of the placenta",
+      "Ventricular septal defect and transposition of the great arteries",
+      "Haemolysis with elevated liver enzymes and acute fatty liver of pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Besides invasive mole and choriocarcinoma, gestational trophoblastic neoplasia includes placental-site and epithelioid trophoblastic tumours."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-017",
+    "opts": [
+      "Induction and augmentation of labour, since rupturing the membranes invites cord prolapse",
+      "Epidural analgesia, which abolishes the urge to push and prevents descent",
+      "Continuous cardiotocography, which alarms and forces unnecessary intervention",
+      "An episiotomy, which risks extending into the anal sphincter during a breech birth"
+    ],
+    "ans": 0,
+    "exp": "An intact sac protects against cord prolapse in malpresentation, so induction and augmentation are avoided; analgesia and monitoring are not contraindications."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-034",
+    "opts": [
+      "Warm saline in an intrauterine catheter compresses the venous sinuses; the Bakri balloon holds up to 500 mL",
+      "Cold saline packing through a Foley catheter is the only mechanical option available",
+      "An air-filled balloon inflated to 2000 mL in a Bakri catheter tamponades the uterus",
+      "Gauze packing of the uterine cavity is the current standard first-line technique"
+    ],
+    "ans": 0,
+    "exp": "Intrauterine balloons tamponade by compressing the venous sinuses; the Bakri is filled with warm saline up to about 500 mL."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-062",
+    "opts": [
+      "Cervical dilatation, pooling of liquor, cord prolapse, and a high vaginal swab for culture",
+      "Cervical dilatation alone, since the rest is assessed later by ultrasound",
+      "Pooling of fluid alone, because a digital examination is still performed afterwards",
+      "Fetal presentation alone, since membrane status is decided from the history"
+    ],
+    "ans": 0,
+    "exp": "A sterile speculum examination avoids introducing infection while assessing dilatation, liquor, cord and taking a swab."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-038",
+    "opts": [
+      "With radiology: uterine artery embolisation if she is stable — without: stepwise devascularisation through to hysterectomy",
+      "With radiology: immediate hysterectomy — without: embolisation performed by the obstetric team",
+      "With radiology: internal iliac artery ligation — without: embolisation by interventional radiology",
+      "With radiology: uterine packing — without: immediate hysterectomy for every woman"
+    ],
+    "ans": 0,
+    "exp": "Embolisation suits the stable woman where interventional radiology exists; otherwise stepwise devascularisation ends in hysterectomy."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-048",
+    "opts": [
+      "A preterm fetus, intrauterine death with a macerated head, the after-coming head and face presentation",
+      "Maternal heart disease, pregnancy-induced hypertension and a previous caesarean scar",
+      "An occipito-anterior position with the head already on the pelvic floor at full dilatation",
+      "A multiparous woman with a previously normal vaginal delivery at term"
+    ],
+    "ans": 0,
+    "exp": "Vacuum-specific contraindications reflect scalp injury risk: prematurity, a macerated head, the after-coming head and malpresentation."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-070",
+    "opts": [
+      "Forceps: facial nerve palsy and corneal injury — vacuum: cephalhaematoma and subgaleal haemorrhage",
+      "Forceps: sixth nerve palsy and subgaleal bleed — vacuum: facial nerve palsy and corneal injury",
+      "Forceps: cephalhaematoma only — vacuum: corneal abrasion only",
+      "Forceps: subgaleal haemorrhage — vacuum: brachial plexus injury from the shoulders"
+    ],
+    "ans": 0,
+    "exp": "Forceps injure the face and skull base; the vacuum produces scalp injuries, notably cephalhaematoma and subgaleal haemorrhage."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-010",
+    "opts": [
+      "Successful: send her home to await labour — unsuccessful: a second attempt, else elective caesarean — fetal distress: stop and deliver",
+      "Successful: induce labour immediately — unsuccessful: caesarean section — fetal distress: continue the attempt",
+      "Successful: caesarean at 39 weeks — unsuccessful: retry later the same day — fetal distress: give oxytocin",
+      "Successful: send her home — unsuccessful: caesarean at 37 weeks — fetal distress: retry the version"
+    ],
+    "ans": 0,
+    "exp": "After a successful version the woman goes home to labour; a failed attempt is retried, and any fetal distress ends the procedure."
+  },
+  {
+    "op": "edit", "id": "OBG-C22-027",
+    "opts": [
+      "Fingers over the baby's back rotate the trunk so the posterior shoulder comes forward and delivers",
+      "Traction on the groin to bring the breech down onto the pelvic floor",
+      "Pressure in the popliteal fossa to flex the knee and deliver the leg",
+      "Suprapubic pressure while the baby hangs by its own weight to deliver the head"
+    ],
+    "ans": 0,
+    "exp": "Lovset's manoeuvre rotates the trunk through 180 degrees so that first the posterior and then the anterior shoulder is released."
+  },
+  {
+    "op": "edit", "id": "OBG-C15-039",
+    "opts": [
+      "Either a fetus too large or a pelvis too small for each other, in a pelvis that may itself be normal",
+      "A maternal pelvis that is always contracted, whatever the size or position of the fetus",
+      "A fetus that is always macrosomic, whatever the size of the maternal pelvis",
+      "An absolute bony abnormality of the maternal pelvis in every single case"
+    ],
+    "ans": 0,
+    "exp": "CPD is a relative mismatch between passenger and passage, so it can occur with a normal pelvis and a normal-sized baby."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-053",
+    "opts": [
+      "Fetal distress, chorioamnionitis, abruptio placentae and intrauterine death",
+      "Maternal request for delivery at 34 weeks without any medical indication",
+      "A post-dates pregnancy that has reached 41 weeks with no sign of labour",
+      "An uncomplicated twin pregnancy at 36 weeks with intact membranes"
+    ],
+    "ans": 0,
+    "exp": "Induction is avoided in preterm labour unless continuing the pregnancy is more dangerous than delivering, as with infection or distress."
+  },
+  {
+    "op": "edit", "id": "OBG-C15-042",
+    "opts": [
+      "Slow progress, marked caput and moulding, arrest of labour and the signs of obstructed labour",
+      "Rapid progress with early engagement of the head in the pelvic cavity",
+      "Complete absence of moulding, with a head that stays freely ballottable above the brim",
+      "Early spontaneous delivery with no caput and a short, easy second stage"
+    ],
+    "ans": 0,
+    "exp": "Caput, moulding, slow progress and eventually obstructed labour with Bandl's ring are the clinical markers of disproportion."
+  },
+  {
+    "op": "edit", "id": "OBG-C9-111",
+    "opts": [
+      "A prolonged dilute Russell viper venom time, kaolin clotting time and isolated raised aPTT",
+      "A raised glycated haemoglobin, which reflects the thrombotic tendency of the disease",
+      "A high serum bile acid concentration, which prolongs the phospholipid clotting tests",
+      "A shortened activated partial thromboplastin time with a normal prothrombin time"
+    ],
+    "ans": 0,
+    "exp": "Lupus anticoagulant is detected functionally: a prolonged phospholipid-dependent clotting time that does not correct on mixing."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-029",
+    "opts": [
+      "Intravenous drug abuse, an active herpes lesion on the breast and untreated pulmonary tuberculosis",
+      "Maternal HIV infection, hepatitis B carriage and recent COVID-19 infection",
+      "Mastitis, a breast abscess and engorgement in the first postpartum week",
+      "Iron deficiency anaemia, gestational diabetes and treated hypothyroidism"
+    ],
+    "ans": 0,
+    "exp": "Breastfeeding is encouraged in HIV on treatment, hepatitis B and mastitis; intravenous drug abuse, herpetic breast lesions and untreated TB are contraindications."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-084",
+    "opts": [
+      "Fetal tachycardia, a maternal white cell count of 15,000 or more, or pus from the internal os",
+      "Maternal bradycardia with a falling blood pressure and cold peripheries",
+      "Oligohydramnios with a reduced amniotic fluid index on the ultrasound scan",
+      "Meconium-stained liquor with a normal maternal temperature and pulse rate"
+    ],
+    "ans": 0,
+    "exp": "Presumptive chorioamnionitis is ruptured membranes with fever plus fetal tachycardia, maternal leucocytosis or purulent cervical discharge."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-049",
+    "opts": [
+      "GBS colonisation, intrapartum fever, or ruptured membranes for 18 hours or more",
+      "Routinely for every woman in preterm labour, whatever her colonisation status",
+      "Only after delivery, once the baby has been born and the cord has been clamped",
+      "Only when clinical chorioamnionitis is already established during labour"
+    ],
+    "ans": 0,
+    "exp": "Intrapartum antibiotics are given for GBS colonisation, intrapartum fever or prolonged rupture, not routinely to everyone."
+  },
+  {
+    "op": "edit", "id": "OBG-C5-011",
+    "opts": [
+      "About 1000 mg: 300 mg for the fetus and placenta, 500 mg for red cell expansion and 200 mg excreted",
+      "About 300 mg: 100 mg for the fetus and placenta, 150 mg for red cell expansion and 50 mg excreted",
+      "About 2500 mg: 1000 mg for the fetus and placenta, 1200 mg for red cell expansion and 300 mg excreted",
+      "About 500 mg: 200 mg for the fetus and placenta, 250 mg for red cell expansion and 50 mg excreted"
+    ],
+    "ans": 0,
+    "exp": "The total extra requirement is about 1000 mg of elemental iron, and the breakdown matters when explaining why supplementation is needed."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-080",
+    "opts": [
+      "Preterm labour, preterm rupture, rupture for 18 hours or more, or intrapartum fever",
+      "Term labour alone with intact membranes and no other risk factor",
+      "An elective caesarean section before labour with the membranes intact",
+      "A post-term pregnancy that has gone beyond 41 completed weeks"
+    ],
+    "ans": 0,
+    "exp": "When the GBS status is unknown, prophylaxis is given on the basis of these clinical risk factors."
+  },
+  {
+    "op": "edit", "id": "OBG-C20-016",
+    "opts": [
+      "Atonic PPH: look for retained products preventing contraction, then continue management of atony",
+      "Traumatic PPH: suture the cervical and vaginal lacerations under anaesthesia",
+      "Uterine inversion: replace the fundus back through the cervix under anaesthesia",
+      "Amniotic fluid embolism: transfer to intensive care for ventilatory support"
+    ],
+    "ans": 0,
+    "exp": "A uterus that contracts only while being massaged is atonic; the next step is to exclude retained tissue that is sustaining the atony."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-101",
+    "opts": [
+      "Grade 2 increta: villi within the myometrium — grade 3 percreta: villi reach the serosa or beyond",
+      "Grade 2 percreta: villi through the serosa — grade 3 increta: villi within the myometrium",
+      "Grade 2 accreta: villi lying on the myometrium — grade 3 increta: villi within the myometrium",
+      "Grade 2 involves the bladder — grade 3 is limited to the serosa of the uterus"
+    ],
+    "ans": 0,
+    "exp": "Grade 1 is accreta, grade 2 increta into the myometrium, and grade 3 percreta to the serosa, with 3b for bladder and 3c for other organs."
+  },
+  {
+    "op": "edit", "id": "OBG-C12-049",
+    "opts": [
+      "Dark red, non-recurrent, with abdominal pain and a precipitating factor such as trauma or hypertension",
+      "Bright red and painless, recurring at intervals through the third trimester",
+      "Recurrent with completely free intervals and a soft non-tender uterus",
+      "Only after sexual intercourse, with no pain or uterine tenderness at all"
+    ],
+    "ans": 0,
+    "exp": "Abruption bleeds dark and often concealed, with pain and a trigger such as trauma or hypertension; previa is bright, painless and recurrent."
+  },
+  {
+    "op": "edit", "id": "OBG-C14-025",
+    "opts": [
+      "Contractions plus a cervical length of 2 cm or less, dilatation of 3 cm or more, or a positive fetal fibronectin",
+      "Contractions plus cervical dilatation of 1 cm or more and nothing else",
+      "Contractions plus a fetal fibronectin of 10 ng per mL or more in cervicovaginal fluid",
+      "Contractions plus a Bishop score of 6 or more with a closed cervix"
+    ],
+    "ans": 0,
+    "exp": "The conventional definition adds an objective marker: a short cervix, advanced dilatation or a positive fibronectin test."
+  },
+  {
+    "op": "edit", "id": "OBG-C24-004",
+    "opts": [
+      "About 500 g at one week, 300 g at two weeks and 100 g by four weeks",
+      "About 300 g at one week, 100 g at two weeks and 50 g by four weeks",
+      "About 750 g at one week, 500 g at two weeks and 300 g by four weeks",
+      "About 1000 g at one week, 500 g at two weeks and 100 g by four weeks"
+    ],
+    "ans": 0,
+    "exp": "The uterus halves to about 500 g in a week, is impalpable by two weeks at about 300 g, and completes involution at 100 g by four weeks."
+  },
+  {
+    "op": "edit", "id": "OBG-C11-029",
+    "opts": [
+      "A term delivery: it is not listed after an ectopic pregnancy or after an abortion",
+      "An ectopic pregnancy, which is the antecedent unique to placental site trophoblastic tumour",
+      "An abortion, which is the usual antecedent for placental site trophoblastic tumour",
+      "None of these, since placental site trophoblastic tumour has no antecedent pregnancy"
+    ],
+    "ans": 0,
+    "exp": "Placental site trophoblastic tumour characteristically follows a term pregnancy, with a long latency and only modest hCG secretion."
+  }
+]
