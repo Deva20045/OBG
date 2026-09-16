@@ -320,13 +320,13 @@
    "page": 358,
    "q": "What physiological acid-base state is characteristically observed on maternal arterial blood gas analysis during normal pregnancy?",
    "opts": [
-    "Chronic compensated respiratory alkalosis (pCO2 28-32 mmHg, HCO3 18-22 mEq/L, pH 7.40-7.45)",
-    "Uncompensated metabolic acidosis",
-    "Severe acute respiratory acidosis",
-    "Metabolic alkalosis with hypokalemia"
+    "Compensated respiratory alkalosis: pCO2 28-32, HCO3 18-22, pH 7.40-7.45",
+    "Uncompensated metabolic acidosis: pCO2 45-50, HCO3 12-16, pH 7.20-7.28",
+    "Acute respiratory acidosis: pCO2 55-60, HCO3 26-30, pH 7.22-7.30",
+    "Metabolic alkalosis with hypokalaemia: pCO2 45-50, HCO3 32-36, pH 7.50-7.55"
    ],
    "ans": 0,
-   "exp": "Progesterone-induced hyperventilation blows off CO2 (pCO2 28-32 mmHg), compensated by renal bicarbonate wasting to maintain arterial pH 7.40-7.45. (Book p358)",
+   "exp": "Normal pregnancy shows a chronic compensated respiratory alkalosis, with pCO2 28-32 mmHg, HCO3 18-22 mEq/L and arterial pH held at 7.40-7.45. (Book p358)",
    "id": "OBG-C5-004"
   },
   {
@@ -334,13 +334,13 @@
    "page": 358,
    "q": "What is the biological advantage of maternal physiological respiratory alkalosis (low maternal pCO2 of 28-32 mmHg) for the fetus?",
    "opts": [
-    "It establishes a favorable partial pressure gradient promoting rapid transfer of CO2 from fetal blood into maternal blood",
-    "It stimulates fetal renal surfactant synthesis",
-    "It prevents premature rupture of fetal membranes",
-    "It inhibits fetal cardiac output"
+    "It creates a gradient that drives CO2 rapidly from fetal blood into maternal blood",
+    "It stimulates fetal renal surfactant synthesis and accelerates lung maturity",
+    "It prevents premature rupture of membranes by lowering amniotic fluid pressure",
+    "It inhibits fetal cardiac output so that placental flow is preferentially raised"
    ],
    "ans": 0,
-   "exp": "Low maternal pCO2 creates a transplacental concentration gradient that facilitates the diffusion of CO2 from the fetal circulation to maternal blood. (Book p358)",
+   "exp": "Maternal physiological respiratory alkalosis (pCO2 28-32 mmHg) establishes a favourable partial pressure gradient promoting rapid transfer of CO2 from fetal circulation to maternal blood. (Book p358)",
    "id": "OBG-C5-005"
   },
   {
@@ -363,13 +363,13 @@
    "page": 358,
    "q": "During pregnancy, maternal oxygen consumption increases by 20%, but the arteriovenous (A-V) oxygen gradient decreases. Why?",
    "opts": [
-    "The disproportionate 40-50% surge in maternal cardiac output delivers oxygen far in excess of tissue extraction",
-    "Fetal tissue consumes zero oxygen",
-    "Maternal hemoglobin cannot bind oxygen",
-    "Maternal systemic vascular resistance increases"
+    "The 40-50% rise in cardiac output far exceeds tissue oxygen extraction",
+    "Fetal tissues consume no oxygen at all throughout the pregnancy",
+    "Maternal hemoglobin loses its ability to bind and carry oxygen",
+    "Maternal systemic vascular resistance rises during pregnancy"
    ],
    "ans": 0,
-   "exp": "Because cardiac output increases by 40-50% while O2 consumption increases by only 20%, uterine and systemic A-V O2 differences narrow. (Book p358)",
+   "exp": "Oxygen consumption rises 20% but the A-V gradient falls because the disproportionate 40-50% surge in maternal cardiac output delivers oxygen far in excess of tissue extraction. (Book p358)",
    "id": "OBG-C5-007"
   },
   {
@@ -931,13 +931,13 @@
    "page": 367,
    "q": "A pregnant woman is first diagnosed with moderate anemia (Hb 8.0 g/dL) at 35 weeks of gestation. Why is parenteral iron preferred over oral iron?",
    "opts": [
-    "Parenteral iron replenishes iron stores rapidly before delivery, whereas oral iron takes 4-6 weeks to achieve adequate hemoglobin rise",
-    "Oral iron is contraindicated after 34 weeks of gestation",
-    "Parenteral iron induces spontaneous cervical ripening",
-    "Parenteral iron crosses the placenta faster"
+    "Parenteral iron replenishes stores rapidly, whereas oral iron takes 4-6 weeks",
+    "Oral iron is contraindicated in pregnancy after 34 weeks of gestation",
+    "Parenteral iron induces spontaneous cervical ripening before delivery",
+    "Parenteral iron crosses the placenta faster and corrects fetal anaemia"
    ],
    "ans": 0,
-   "exp": "At >=34 weeks, delivery is imminent; parenteral iron rapidly delivers the calculated deficit, whereas oral iron is too slow. (Book p367)",
+   "exp": "Parenteral iron replenishes iron stores rapidly and covers the calculated deficit before delivery, whereas oral iron takes 4-6 weeks to achieve an adequate hemoglobin rise. (Book p367)",
    "id": "OBG-C5-047"
   },
   {
@@ -945,13 +945,13 @@
    "page": 367,
    "q": "A pregnant woman presents at 24 weeks of gestation with very severe, symptomatic anemia and a hemoglobin of 4.2 g/dL (< 5 g/dL). What is the immediate treatment of choice?",
    "opts": [
-    "Packed red blood cell transfusion accompanied by IV furosemide, irrespective of gestational age",
-    "Double-dose oral iron therapy for 1 month",
-    "Intravenous iron sucrose 200 mg daily",
-    "Immediate termination of pregnancy"
+    "Packed red cell transfusion with IV furosemide, at any gestational age",
+    "Double-dose oral iron therapy continued for a full month",
+    "Intravenous iron sucrose 200 mg given daily for a week",
+    "Immediate termination of pregnancy after stabilisation"
    ],
    "ans": 0,
-   "exp": "A hemoglobin < 5.0 g/dL at ANY gestational age is a critical medical emergency carrying high risk of heart failure, dictating PRBC transfusion. (Book p367)",
+   "exp": "With very severe symptomatic anemia and Hb under 5 g/dL at 24 weeks, the immediate treatment is packed red blood cell transfusion with IV furosemide, irrespective of gestational age. (Book p367)",
    "id": "OBG-C5-048"
   },
   {
@@ -988,13 +988,13 @@
    "page": 368,
    "q": "Why are tetracyclines (e.g., doxycycline) strictly contraindicated after the 15th week of gestation?",
    "opts": [
-    "They chelate with calcium in fetal bones and teeth, causing permanent yellowish-brown discoloration, enamel hypoplasia, and bone growth inhibition",
-    "They cause Gray baby syndrome",
-    "They cause congenital deafness due to 8th cranial nerve damage",
-    "They trigger fetal aplastic anemia"
+    "They chelate calcium in fetal bones and teeth, causing discoloration and enamel hypoplasia",
+    "They cause Gray baby syndrome from impaired hepatic conjugation in the fetus",
+    "They cause congenital deafness from direct damage to the eighth cranial nerve",
+    "They trigger fetal aplastic anaemia through direct bone-marrow suppression"
    ],
    "ans": 0,
-   "exp": "Tetracyclines deposit in mineralizing fetal bone and tooth deciduous buds, causing permanent teeth staining and impaired bone growth. (Book p368)",
+   "exp": "After the 15th week tetracyclines chelate with calcium in fetal bones and teeth, causing permanent yellowish-brown discoloration, enamel hypoplasia and inhibition of bone growth. (Book p368)",
    "id": "OBG-C5-051"
   },
   {
@@ -1002,13 +1002,13 @@
    "page": 368,
    "q": "What fetal adverse effect is specifically associated with maternal aminoglycoside (streptomycin, gentamicin) use during pregnancy?",
    "opts": [
-    "Cranial nerve VIII damage leading to permanent sensorineural hearing loss and vestibular ototoxicity",
-    "Premature closure of the ductus arteriosus",
-    "Phocomelia and amelia",
-    "Epstein anomaly of the tricuspid valve"
+    "Cranial nerve VIII damage causing permanent hearing loss and vestibular toxicity",
+    "Premature closure of the ductus arteriosus in the third trimester",
+    "Phocomelia and amelia from inhibition of early limb-bud development",
+    "Ebstein anomaly of the tricuspid valve with neonatal cyanosis"
    ],
    "ans": 0,
-   "exp": "Aminoglycosides cross the placenta and accumulate in fetal endolymph, damaging the 8th cranial nerve and causing congenital deafness. (Book p368)",
+   "exp": "Maternal aminoglycosides (streptomycin, gentamicin) damage the 8th cranial nerve, causing permanent sensorineural hearing loss and vestibular ototoxicity. (Book p368)",
    "id": "OBG-C5-052"
   },
   {
@@ -1016,13 +1016,13 @@
    "page": 368,
    "q": "Why is the administration of sulfonamides (e.g., sulfamethoxazole) contraindicated during the late third trimester near delivery?",
    "opts": [
-    "They displace bilirubin from albumin binding sites, precipitating neonatal kernicterus",
-    "They induce maternal gestational diabetes",
-    "They cause Gray baby syndrome",
-    "They trigger fetal limb reduction defects"
+    "They displace bilirubin from albumin, precipitating neonatal kernicterus",
+    "They induce gestational diabetes in the mother towards term",
+    "They cause Gray baby syndrome in the exposed preterm neonate",
+    "They trigger fetal limb reduction defects in the third trimester"
    ],
    "ans": 0,
-   "exp": "Near term, sulfonamides compete for albumin binding sites, displacing unconjugated bilirubin into neonatal brain tissue and causing kernicterus. (Book p368)",
+   "exp": "Sulfonamides near delivery displace bilirubin from albumin binding sites, precipitating neonatal kernicterus. (Book p368)",
    "id": "OBG-C5-053"
   },
   {
@@ -1087,13 +1087,13 @@
    "page": 369,
    "q": "A pregnant woman with a mechanical heart valve taking therapeutic Warfarin unexpectedly enters active labor at 37 weeks. What is the mandatory management?",
    "opts": [
-    "Stop warfarin, perform Caesarean delivery, and administer Vitamin K to both mother and neonate to avoid fetal intracranial hemorrhage",
-    "Allow spontaneous vaginal delivery with vacuum extraction",
-    "Administer high-dose intravenous aspirin",
-    "Discharge the patient until warfarin washes out"
+    "Stop warfarin, deliver by caesarean, and give vitamin K to mother and neonate",
+    "Allow spontaneous vaginal delivery, shortened by vacuum extraction",
+    "Administer high-dose intravenous aspirin and continue warfarin",
+    "Discharge the patient until the warfarin has washed out completely"
    ],
    "ans": 0,
-   "exp": "Vaginal delivery while anticoagulated with warfarin risks fatal fetal intracranial trauma; Caesarean section with Vitamin K is mandatory. (Book p369)",
+   "exp": "With a mechanical valve on warfarin in active labour, stop warfarin, perform caesarean delivery and give vitamin K to both mother and neonate to avoid fetal intracranial hemorrhage. (Book p369)",
    "id": "OBG-C5-058"
   },
   {
@@ -1130,13 +1130,13 @@
    "page": 369,
    "q": "Which antiepileptic medication carries the HIGHEST risk of major congenital malformations (including neural tube defects, craniofacial, and cardiac anomalies)?",
    "opts": [
-    "Valproic acid (Sodium valproate)",
-    "Levetiracetam",
-    "Lamotrigine",
-    "Carbamazepine"
+    "Valproic acid (sodium valproate)",
+    "Levetiracetam in monotherapy",
+    "Lamotrigine in monotherapy",
+    "Carbamazepine in monotherapy"
    ],
    "ans": 0,
-   "exp": "Valproate is the most teratogenic antiepileptic (10% major malformation rate, including NTDs and developmental delay). (Book p369)",
+   "exp": "Valproic acid (sodium valproate) carries the highest risk of major congenital malformations, including neural tube defects, craniofacial and cardiac anomalies, and developmental delay. (Book p369)",
    "id": "OBG-C5-061"
   },
   {
@@ -1173,13 +1173,13 @@
    "page": 370,
    "q": "By how much does maternal cardiac output physiologically increase during normal singleton pregnancy, and when does this rise peak antenatally?",
    "opts": [
-    "Increases by 40% to 50%, reaching its antenatal peak at 28 to 32 weeks of gestation",
-    "Increases by 10%, peaking at 12 weeks",
-    "Increases by 100%, peaking at 40 weeks",
-    "Decreases by 20% in the third trimester"
+    "Rises by 40% to 50%, peaking antenatally at 28 to 32 weeks",
+    "Rises by about 10%, peaking antenatally at 12 weeks",
+    "Rises by about 100%, peaking antenatally at 40 weeks",
+    "Falls by about 20% during the course of the third trimester"
    ],
    "ans": 0,
-   "exp": "Cardiac output rises by 40-50% (driven by stroke volume early, heart rate late), peaking antenatally at 28-32 weeks. (Book p370)",
+   "exp": "Maternal cardiac output increases by 40% to 50% in a normal singleton pregnancy, reaching its antenatal peak at 28 to 32 weeks of gestation. (Book p370)",
    "id": "OBG-C5-064"
   },
   {
@@ -1187,13 +1187,13 @@
    "page": 370,
    "q": "During normal pregnancy, maternal systemic blood pressure drops to its nadir during which period, and what physiological mechanism is responsible?",
    "opts": [
-    "Mid-second trimester (20-24 weeks); driven by progesterone- and nitric oxide-mediated systemic vasodilation lowering peripheral vascular resistance",
-    "First trimester at 6 weeks; driven by maternal dehydration",
-    "Third trimester at 38 weeks; driven by placental ischemia",
-    "Blood pressure never changes during normal pregnancy"
+    "20-24 weeks, from progesterone- and nitric oxide-mediated vasodilatation",
+    "6 weeks in the first trimester, from maternal dehydration and hypovolaemia",
+    "38 weeks in the third trimester, from placental ischaemia and vasospasm",
+    "Blood pressure never falls, as cardiac output matches vascular resistance"
    ],
    "ans": 0,
-   "exp": "Systemic vascular resistance falls due to progesterone, relaxin, and nitric oxide, producing a blood pressure nadir at 20-24 weeks. (Book p370)",
+   "exp": "Maternal systemic blood pressure reaches its nadir in the mid-second trimester (20-24 weeks), driven by progesterone- and nitric oxide-mediated systemic vasodilatation that lowers peripheral vascular resistance. (Book p370)",
    "id": "OBG-C5-065"
   },
   {
@@ -1329,13 +1329,13 @@
    "page": 371,
    "q": "Under the modified WHO classification of maternal cardiovascular risk, what is the defining feature of WHO Class IV conditions?",
    "opts": [
-    "Pregnancy is strictly CONTRAINDICATED; maternal mortality is extremely high (up to 30-50%), and termination is advised if conception occurs",
-    "Pregnancy is completely safe with routine outpatient visits",
-    "Caesarean delivery must be performed at 28 weeks",
-    "Only oral iron therapy is needed"
+    "Pregnancy contraindicated; mortality up to 30-50%, so termination is advised",
+    "Pregnancy is safe with routine outpatient visits; mortality under 1%",
+    "Caesarean delivery must be performed at 28 weeks; mortality 5-10%",
+    "Only oral iron therapy is needed; no excess maternal mortality"
    ],
    "ans": 0,
-   "exp": "mWHO Class IV carries prohibited risk of maternal mortality (up to 30-50%); pregnancy is contraindicated, and termination is recommended if pregnant. (Book p371)",
+   "exp": "In modified WHO class IV, pregnancy is strictly contraindicated, maternal mortality is extremely high (up to 30-50%), and termination is advised if conception occurs. (Book p371)",
    "id": "OBG-C5-075"
   },
   {
@@ -1400,13 +1400,13 @@
    "page": 372,
    "q": "Why is an instrumental delivery (vacuum or low forceps) routinely planned to assist the second stage of labor in a patient with cardiac disease?",
    "opts": [
-    "To cut short and eliminate strenuous maternal bearing-down efforts (Valsalva maneuvers), which produce sharp cardiac workload swings",
-    "To prevent fetal macrosomia",
-    "Because cardiac drugs cause complete uterine paralysis",
-    "Because cardiac patients cannot feel labor contractions"
+    "To cut short the maternal bearing-down efforts that cause cardiac workload swings",
+    "To prevent fetal macrosomia and the obstructed labour that it would cause",
+    "Because cardiac drugs cause complete paralysis of the uterine muscle",
+    "Because cardiac patients cannot feel uterine contractions at all"
    ],
    "ans": 0,
-   "exp": "Elective assistance with forceps or vacuum avoids prolonged maternal pushing and Valsalva efforts, protecting the heart from acute preload surges. (Book p372)",
+   "exp": "Instrumental delivery is planned to cut short and eliminate strenuous maternal bearing-down (Valsalva) efforts, which produce sharp cardiac workload swings and protect the heart from acute preload surges. (Book p372)",
    "id": "OBG-C5-080"
   },
   {

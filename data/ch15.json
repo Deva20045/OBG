@@ -51,13 +51,13 @@
    "page": 483,
    "q": "The pelvic inlet lies at the level of the pelvic brim. Match the anteroposterior diameters: true conjugate, obstetric conjugate, diagonal conjugate.",
    "opts": [
-    "SP to upper border of pubic symphysis = 11 cm; SP to middle border = 10.5 cm (smallest & most important); SP to lower border = 12 cm",
-    "SP to middle = 11 cm; SP to upper = 10.5 cm; SP to lower = 13 cm",
-    "All three equal 11 cm",
-    "SP to lower = 10.5 cm; SP to middle = 12 cm"
+    "True conjugate 11 cm; obstetric conjugate 10.5 cm; diagonal conjugate 12 cm",
+    "True conjugate 10.5 cm; obstetric conjugate 11 cm; diagonal conjugate 13 cm",
+    "True conjugate 12 cm; obstetric conjugate 11 cm; diagonal conjugate 10.5 cm",
+    "All three diameters measure 11 cm in a normal gynaecoid pelvis"
    ],
    "ans": 0,
-   "exp": "True 11 cm, obstetric 10.5 cm (smallest/most important), diagonal 12 cm. (Book p483)"
+   "exp": "Anteroposterior diameters of the pelvic inlet: true conjugate (sacral promontory to upper border of pubic symphysis) 11 cm; obstetric conjugate (to the middle border) 10.5 cm, the smallest and most important; diagonal conjugate (to the lower border) 12 cm. (Book p483)"
   },
   {
    "id": "OBG-C15-005",
@@ -79,13 +79,13 @@
    "page": 483,
    "q": "The critical obstetric conjugate is the minimum diameter below which vaginal delivery is impossible; its value and the contracted-pelvis cut-off are:",
    "opts": [
-    "10 cm; < 10 cm = contracted pelvis",
-    "11 cm; < 11 cm",
-    "12 cm; < 12 cm",
-    "9 cm; < 9 cm"
+    "10 cm; below 10 cm means contracted pelvis",
+    "11 cm; below 11 cm means contracted pelvis",
+    "12 cm; below 12 cm means contracted pelvis",
+    "9 cm; below 9 cm means contracted pelvis"
    ],
    "ans": 0,
-   "exp": "Critical obstetric conjugate is 10 cm; below it the pelvis is contracted. (Book p483)"
+   "exp": "The critical obstetric conjugate is 10 cm, and below it the pelvis is contracted and vaginal delivery impossible. (Book p483)"
   },
   {
    "id": "OBG-C15-007",
@@ -249,13 +249,13 @@
    "page": 485,
    "q": "The clinical bedside clue to a contracted mid-pelvis is:",
    "opts": [
-    "Being able to touch both ischial spines simultaneously with the fingers of the same hand",
-    "Inability to feel the spines at all",
-    "A prominent sacral promontory",
-    "A wide subpubic arch"
+    "Both ischial spines can be touched at once with the fingers of one hand",
+    "Neither ischial spine can be reached at all on vaginal examination",
+    "The sacral promontory is easily reached and projects prominently forward",
+    "The subpubic arch is unusually wide and the side walls are divergent"
    ],
    "ans": 0,
-   "exp": "Simultaneously touching both spines with one hand suggests mid-pelvic contraction. (Book p485)"
+   "exp": "The bedside clue to a contracted mid-pelvis is being able to touch both ischial spines simultaneously with the fingers of the same hand. (Book p485)"
   },
   {
    "id": "OBG-C15-019",
@@ -277,13 +277,13 @@
    "page": 485,
    "q": "Boundaries and diameters of the pelvic outlet:",
    "opts": [
-    "Posterior tip of coccyx, lateral ischial tuberosities; AP 13 cm; transverse = bituberous diameter 11 cm",
-    "Posterior promontory; AP 11 cm; transverse 13 cm",
-    "Posterior coccyx; AP 10 cm; transverse 10 cm",
-    "Lateral spines; AP 12 cm; transverse 12 cm"
+    "Tip of the coccyx, ischial tuberosities; AP 13 cm; transverse bituberous 11 cm",
+    "Sacral promontory, ischial spines; AP 11 cm; transverse 13 cm",
+    "Tip of the coccyx, ischial spines; AP 10 cm; transverse 10 cm",
+    "Ischial spines, ischial tuberosities; AP 12 cm; transverse 12 cm"
    ],
    "ans": 0,
-   "exp": "Outlet: coccyx posteriorly, tuberosities laterally, AP 13 cm and bituberous 11 cm. (Book p485)"
+   "exp": "The pelvic outlet is bounded posteriorly by the tip of the coccyx and laterally by the ischial tuberosities; its AP diameter is 13 cm and its transverse (bituberous) diameter is 11 cm. (Book p485)"
   },
   {
    "id": "OBG-C15-021",
@@ -390,13 +390,13 @@
    "page": 487,
    "q": "On the station scale from inlet to outlet, the inlet and outlet correspond to:",
    "opts": [
-    "−5 at inlet and +5 at outlet, with 0 at the ischial spines",
-    "0 at inlet and +5 at outlet",
-    "−3 and +3",
-    "−5 and 0"
+    "-5 at the inlet, +5 at the outlet, and 0 at the ischial spines",
+    "0 at the inlet, +5 at the outlet, and -5 at the ischial spines",
+    "-3 at the inlet and +3 at the outlet, 0 at the ischial spines",
+    "-5 at the inlet and 0 at the outlet, -3 at the ischial spines"
    ],
    "ans": 0,
-   "exp": "The scale runs −5 (inlet) to +5 (outlet) with 0 at the spines. (Book p487)"
+   "exp": "On the station scale from inlet to outlet, the inlet is -5, the outlet is +5, and 0 is at the ischial spines. (Book p487)"
   },
   {
    "id": "OBG-C15-029",
@@ -504,12 +504,12 @@
    "q": "The BEST method of diagnosing a contracted pelvis and the stance on routine pelvimetry:",
    "opts": [
     "Clinical pelvimetry; routine pelvimetry is not recommended",
-    "X-ray pelvimetry routinely",
-    "MRI routinely",
-    "External pelvimetry only"
+    "X-ray pelvimetry, which should be done routinely",
+    "Magnetic resonance imaging pelvimetry done routinely",
+    "External pelvimetry alone, with no internal assessment"
    ],
    "ans": 0,
-   "exp": "Clinical pelvimetry is best and routine pelvimetry is not recommended. (Book p488)"
+   "exp": "The best method of diagnosing a contracted pelvis is clinical pelvimetry; routine pelvimetry is not recommended. (Book p488)"
   },
   {
    "id": "OBG-C15-037",
@@ -601,13 +601,13 @@
    "page": 488,
    "q": "Management of CPD at the INLET by severity:",
    "opts": [
-    "Moderate/severe → C-section; mild → trial of labour (vaginal delivery)",
-    "All → C-section",
-    "All → trial of labour",
-    "Mild → C-section; severe → trial"
+    "Moderate or severe: caesarean; mild: a trial of labour",
+    "All degrees: caesarean section without a trial",
+    "All degrees: a trial of labour aiming for vaginal delivery",
+    "Mild: caesarean section; severe: a trial of labour"
    ],
    "ans": 0,
-   "exp": "Inlet CPD: moderate/severe goes to C-section; mild allows trial of labour. (Book p488)"
+   "exp": "For CPD at the inlet, moderate or severe disproportion needs caesarean section, while mild disproportion allows a trial of labour. (Book p488)"
   },
   {
    "id": "OBG-C15-044",
@@ -658,13 +658,13 @@
    "page": 489,
    "q": "True or false: CPD in the current pregnancy is an indication for recurrent C-section in the next pregnancy.",
    "opts": [
-    "False – CPD is relative to the current fetus only and is NOT an indication for recurrent C-section",
-    "True – always repeat C-section",
-    "True – only if severe",
-    "False – but it indicates induction next time"
+    "False – CPD applies to the current fetus only, so it is not an indication",
+    "True – a repeat caesarean section should always be performed next time",
+    "True – but only when the disproportion was severe in this labour",
+    "False – but it means induction of labour is needed next time"
    ],
    "ans": 0,
-   "exp": "CPD relates only to the current fetus, so it does not mandate repeat C-section. (Book p489)"
+   "exp": "False: CPD is relative to the current fetus only and is not an indication for recurrent caesarean section. (Book p489)"
   },
   {
    "id": "OBG-C15-048",

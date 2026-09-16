@@ -9,13 +9,13 @@
    "page": 540,
    "q": "Vulval hematoma is a laceration of an underlying vessel; m/c cause and arteries involved:",
    "opts": [
-    "Instrumental delivery (m/c); vulval – internal pudendal artery, vaginal – vaginal artery",
-    "Spontaneous labour (m/c); uterine artery",
-    "Precipitate labour (m/c); ovarian artery",
-    "Episiotomy (m/c); inferior rectal artery"
+    "Instrumental delivery; vulval from the internal pudendal artery, vaginal from the vaginal artery",
+    "Spontaneous labour; the bleeding comes from the uterine artery",
+    "Precipitate labour; the bleeding comes from the ovarian artery",
+    "Episiotomy; the bleeding comes from the inferior rectal artery"
    ],
    "ans": 0,
-   "exp": "M/c cause instrumental delivery (also precipitate labour, rarely spontaneous); vulval hematoma – internal pudendal artery; vaginal – vaginal artery. (Book p540)"
+   "exp": "Vulval hematoma follows instrumental delivery (the commonest cause); vulval hematomas come from the internal pudendal artery and vaginal ones from the vaginal artery. (Book p540)"
   },
   {
    "id": "OBG-C21-002",
@@ -108,13 +108,13 @@
    "page": 541,
    "q": "Sub-classification of third-degree tear – 3A : 3B : 3C.",
    "opts": [
-    "<50% of external anal sphincter : ≥50% of EAS : internal and external anal sphincter",
-    "≥50% EAS : <50% EAS : IAS only",
-    "IAS : EAS : rectal mucosa",
-    "EAS partial : rectal mucosa : IAS"
+    "Under half the external sphincter : over half the external sphincter : both sphincters",
+    "Over half the external sphincter : under half the external sphincter : internal sphincter",
+    "Internal sphincter alone : external sphincter alone : rectal mucosa additionally",
+    "External sphincter partial : rectal mucosa involved : internal sphincter alone"
    ],
    "ans": 0,
-   "exp": "3A <50% EAS; 3B ≥50% EAS; 3C both IAS and EAS (3rd & 4th = complete perineal tear). (Book p541)"
+   "exp": "Third-degree tears are subclassified as 3A (under 50% of external anal sphincter), 3B (over 50% of EAS) and 3C (internal and external anal sphincter). (Book p541)"
   },
   {
    "id": "OBG-C21-009",
@@ -122,13 +122,13 @@
    "page": 541,
    "q": "Repair setting – 1st & 2nd degree : 3rd & 4th degree; suture material:",
    "opts": [
-    "Labour room under local anaesthesia, like episiotomy : OT under general/spinal anaesthesia; Vicryl for both",
-    "OT under GA : labour room under LA; catgut",
-    "Bedside without anaesthesia : OT under LA; silk",
-    "Both in OT; nylon"
+    "1st and 2nd degree in the labour room under local anaesthesia; 3rd and 4th in theatre",
+    "1st and 2nd degree in the labour room under local anaesthesia; all degrees in theatre",
+    "1st and 2nd degree at the bedside without anaesthesia; 3rd and 4th in theatre",
+    "All degrees are repaired in theatre under general or spinal anaesthesia"
    ],
    "ans": 0,
-   "exp": "1°/2°: labour room, LA, like episiotomy; 3°/4°: OT under GA/spinal; Vicryl. (Book p541)"
+   "exp": "First and second degree tears are repaired in the labour room under local anaesthesia like an episiotomy; third and fourth degree tears are repaired in the OT under general or spinal anaesthesia, using Vicryl for both. (Book p541)"
   },
   {
    "id": "OBG-C21-010",
@@ -150,13 +150,13 @@
    "page": 541,
    "q": "Sequence of repair for 3rd/4th degree tear:",
    "opts": [
-    "Rectal mucosa → internal anal sphincter → external anal sphincter (end-to-end anastomosis) → rest like episiotomy",
-    "External sphincter → rectal mucosa → internal sphincter",
-    "Vaginal mucosa → EAS → rectal mucosa",
-    "Skin → IAS → EAS → mucosa"
+    "Rectal mucosa, then internal sphincter, then external sphincter end to end",
+    "External sphincter, then the rectal mucosa, then the internal sphincter",
+    "Vaginal mucosa, then the external sphincter, then the rectal mucosa",
+    "Perineal skin, then the internal sphincter, then the external sphincter"
    ],
    "ans": 0,
-   "exp": "Rectal mucosa, IAS, EAS end-to-end, then like episiotomy. (Book p541)"
+   "exp": "Repair of a 3rd or 4th degree tear proceeds from the rectal mucosa to the internal anal sphincter, then the external anal sphincter end to end, then the rest as for an episiotomy. (Book p541)"
   },
   {
    "id": "OBG-C21-012",
@@ -235,13 +235,13 @@
    "page": 542,
    "q": "Correct timing of episiotomy:",
    "opts": [
-    "After crowning; climbing of perineum in breech; before/after forceps application but before traction",
-    "Before crowning",
-    "At full dilatation regardless of descent",
-    "After delivery of head"
+    "After crowning; when the perineum climbs in breech; before traction with forceps",
+    "Before crowning; when the perineum climbs in breech; before traction with forceps",
+    "After crowning; at full dilatation regardless of descent; before forceps application",
+    "After crowning; when the perineum climbs in breech; after delivery of the head"
    ],
    "ans": 0,
-   "exp": "After crowning; in breech when perineum is 'climbed'; with forceps before traction. (Book p542)"
+   "exp": "Episiotomy is correctly timed after crowning, when the perineum climbs in breech delivery, and before or after forceps application but always before traction. (Book p542)"
   },
   {
    "id": "OBG-C21-018",
@@ -291,13 +291,13 @@
    "page": 542,
    "q": "Muscles CUT vs NOT cut in episiotomy:",
    "opts": [
-    "Cut: pubococcygeus, deep & superficial transverse perinei, bulbospongiosus; not cut: ischiocavernosus, ischiococcygeus, obturator, anal sphincter",
-    "Cut: ischiocavernosus, anal sphincter; not cut: bulbospongiosus",
-    "Cut: obturator internus; not cut: pubococcygeus",
-    "Cut: anal sphincter; not cut: transverse perinei"
+    "Cut: pubococcygeus, transverse perinei, bulbospongiosus; not cut: anal sphincter",
+    "Cut: ischiocavernosus, external anal sphincter; not cut: bulbospongiosus",
+    "Cut: obturator internus and ischiocavernosus; not cut: pubococcygeus",
+    "Cut: external anal sphincter and ischiocavernosus; not cut: transverse perinei"
    ],
    "ans": 0,
-   "exp": "Cut: pubococcygeus, deep/superficial transverse perinei, bulbospongiosus. Spared: ischiocavernosus, ischiococcygeus, obturator, anal sphincter. (Book p542)"
+   "exp": "An episiotomy cuts pubococcygeus and the deep and superficial transverse perinei and bulbospongiosus, but not the ischiocavernosus, ischiococcygeus, obturator or anal sphincter. (Book p542)"
   },
   {
    "id": "OBG-C21-022",
@@ -334,13 +334,13 @@
    "page": 543,
    "q": "Malposition is defined by longitudinal lie, cephalic presentation, vertex presenting part and position:",
    "opts": [
-    "Any position other than 1–5 (i.e., ROP 6, DOP 7, LOP 8)",
-    "Any position other than DOA",
-    "Positions 1–5",
-    "LOT and ROT only"
+    "Any position other than 1 to 5, that is ROP 6, DOP 7 or LOP 8",
+    "Any position other than the direct occipito-anterior position",
+    "Any of the positions numbered 1 to 5 in the textbook",
+    "The lateral positions LOT and ROT only, when persistent"
    ],
    "ans": 0,
-   "exp": "Malposition = OP positions 6 (ROP), 7 (DOP), 8 (LOP). (Book p543)"
+   "exp": "Malposition is a longitudinal lie with cephalic presentation and vertex presenting part in any position other than 1-5, that is ROP 6, DOP 7 or LOP 8. (Book p543)"
   },
   {
    "id": "OBG-C21-025",
@@ -348,13 +348,13 @@
    "page": 543,
    "q": "Most common OP positions in order and the causes:",
    "opts": [
-    "ROP (6) > DOP (7) > LOP (8); android pelvis (m/c – head occupies posterior part due to ↑ space) > deflexed head",
-    "LOP > DOP > ROP; anthropoid pelvis > macrosomia",
-    "DOP > ROP > LOP; platypelloid pelvis",
-    "LOP > ROP > DOP; gynaecoid pelvis"
+    "ROP then DOP then LOP; android pelvis, then a deflexed head",
+    "LOP then DOP then ROP; anthropoid pelvis, then macrosomia",
+    "DOP then ROP then LOP; platypelloid pelvis, then a deflexed head",
+    "LOP then ROP then DOP; gynaecoid pelvis, then a deflexed head"
    ],
    "ans": 0,
-   "exp": "ROP > DOP > LOP; causes android pelvis (m/c) then deflexed head. (Book p543)"
+   "exp": "The commonest OP positions in order are ROP, DOP and LOP; the causes are the android pelvis (commonest, the head occupying the posterior part because of the extra space) and then a deflexed head. (Book p543)"
   },
   {
    "id": "OBG-C21-026",
@@ -433,13 +433,13 @@
    "page": 545,
    "q": "Incomplete forward rotation – rotation achieved and causes:",
    "opts": [
-    "Only 1/8th rotation (ROP → ROT); android pelvis (m/c), big baby, ↓ liquor",
-    "2/8th rotation; anthropoid pelvis",
-    "3/8th rotation; platypelloid pelvis",
-    "No rotation; polyhydramnios"
+    "One-eighth rotation (ROP to ROT); android pelvis, big baby, reduced liquor",
+    "Two-eighths rotation; an anthropoid pelvis with a large baby",
+    "Three-eighths rotation; a platypelloid pelvis with reduced liquor",
+    "No rotation at all; polyhydramnios with a large preterm baby"
    ],
    "ans": 0,
-   "exp": "Only 1/8th rotation to OT; causes android pelvis (m/c), big baby, oligohydramnios. (Book p545)"
+   "exp": "Incomplete forward rotation achieves only one-eighth rotation (ROP to ROT); the causes are the android pelvis (commonest), a big baby and reduced liquor. (Book p545)"
   },
   {
    "id": "OBG-C21-032",
@@ -475,13 +475,13 @@
    "page": 545,
    "q": "Posterior rotation (ROP → DOP) is most commonly seen with:",
    "opts": [
-    "Anthropoid pelvis (AP diameter >> transverse)",
-    "Android pelvis",
-    "Platypelloid pelvis",
-    "Gynaecoid pelvis"
+    "Anthropoid pelvis, where the AP diameter exceeds the transverse",
+    "Android pelvis, where the transverse diameter exceeds the AP",
+    "Platypelloid pelvis, where the AP diameter is markedly reduced",
+    "Gynaecoid pelvis, where all diameters are round and roomy"
    ],
    "ans": 0,
-   "exp": "Posterior rotation is m/c in anthropoid pelvis (AP >> transverse). (Book p545)"
+   "exp": "Posterior rotation (ROP to DOP) is most commonly seen with the anthropoid pelvis, in which the AP diameter greatly exceeds the transverse. (Book p545)"
   },
   {
    "id": "OBG-C21-035",
@@ -518,13 +518,13 @@
    "page": 546,
    "q": "The m/c complication of face-to-pubes delivery and its implication:",
    "opts": [
-    "Complete perineal tear – hence an indication for episiotomy",
-    "Shoulder dystocia – McRoberts",
-    "Cord prolapse – C-section",
-    "PPH – oxytocin"
+    "Complete perineal tear, which is why episiotomy is indicated",
+    "Shoulder dystocia, managed by the McRoberts manoeuvre",
+    "Cord prolapse, needing an immediate caesarean section",
+    "Postpartum haemorrhage, treated with oxytocin"
    ],
    "ans": 0,
-   "exp": "Face-to-pubes → complete perineal tear → episiotomy indicated. (Book p546)"
+   "exp": "The commonest complication of face-to-pubes delivery is a complete perineal tear, which is why it is an indication for episiotomy. (Book p546)"
   },
   {
    "id": "OBG-C21-038",
@@ -546,13 +546,13 @@
    "page": 546,
    "q": "M/c outcome and causes of transverse lie:",
    "opts": [
-    "Spontaneous rotation >34 weeks to cephalic/breech; m/c cause overall prematurity, at term placenta previa",
-    "Persistent transverse lie; m/c cause fibroid",
-    "Cord prolapse; m/c cause twins",
-    "Obstructed labour; m/c cause CPD"
+    "Spontaneous rotation to cephalic or breech after 34 weeks; prematurity overall",
+    "Persistent transverse lie needing caesarean; uterine fibroid overall",
+    "Cord prolapse once membranes rupture; multiple pregnancy overall",
+    "Obstructed labour if untreated; cephalopelvic disproportion overall"
    ],
    "ans": 0,
-   "exp": "Usually rotates after 34 wks; m/c cause overall prematurity, at term placenta previa. (Book p546)"
+   "exp": "In transverse lie the commonest outcome is spontaneous rotation to cephalic or breech after 34 weeks; the commonest cause overall is prematurity, and at term it is placenta previa. (Book p546)"
   },
   {
    "id": "OBG-C21-040",
@@ -560,13 +560,13 @@
    "page": 546,
    "q": "Examination and complication of transverse lie:",
    "opts": [
-    "Uterine height < period of gestation; fundal and deep pelvic grips empty; highest chance of cord prolapse (cervix not closed by head)",
-    "Height > POG; fundus contains head; shoulder dystocia",
-    "Height = POG; pelvic grip head; PPH",
-    "Fundus buttocks; face presentation"
+    "Height less than period of gestation, fundus and pelvis empty; cord prolapse risk highest",
+    "Height more than period of gestation, head in the fundus; shoulder dystocia likely",
+    "Height equal to period of gestation, head in the pelvis; postpartum haemorrhage",
+    "Buttocks felt in the fundus, head ballotable above; face presentation likely"
    ],
    "ans": 0,
-   "exp": "Fundal height less than dates, empty fundal and pelvic grips; highest cord prolapse risk. (Book p546)"
+   "exp": "In transverse lie the uterine height is less than the period of gestation and both the fundal and deep pelvic grips are empty; it carries the highest risk of cord prolapse because the cervix is not closed by the head. (Book p546)"
   },
   {
    "id": "OBG-C21-041",
@@ -701,13 +701,13 @@
    "page": 547,
    "q": "ECV attempt outcomes – successful 1st attempt : fails 1st attempt → retry another day; successful 2nd : fails 2nd.",
    "opts": [
-    "Wait for spontaneous labour (do not induce) : induce with oxytocin drip : elective caesarean at 39 weeks",
-    "Induce immediately : wait : C-section at 37 weeks",
-    "C-section : wait : induce",
-    "Wait : wait : third attempt"
+    "Success: await spontaneous labour; failed first: induce; failed second: caesarean at 39 weeks",
+    "Success: induce immediately; failed first: await labour; failed second: caesarean at 37 weeks",
+    "Success: caesarean; failed first: await labour; failed second: induce with oxytocin",
+    "Success: await labour; failed first: await labour; failed second: a third attempt"
    ],
    "ans": 0,
-   "exp": "1st success → await spontaneous labour; 2nd success → induce with oxytocin; 2nd failure → elective C-section at 39 wks. (Book p547)"
+   "exp": "After a successful first ECV, wait for spontaneous labour and do not induce; if the first attempt fails, induce with an oxytocin drip; if the second fails, elective caesarean at 39 weeks. (Book p547)"
   },
   {
    "id": "OBG-C21-051",
@@ -815,13 +815,13 @@
    "page": 549,
    "q": "Brow presentation occurs in ______ and the bony landmarks felt on P/V are ______.",
    "opts": [
-    "Partial extension of head; anterior fontanelle (diamond) and supraorbital ridges",
-    "Complete extension; mentum and nose",
-    "Complete flexion; posterior fontanelle",
-    "Deflexion; both fontanelles"
+    "Partial extension; anterior fontanelle (diamond) and supraorbital ridges",
+    "Complete extension; the mentum and the nose of the fetus",
+    "Complete flexion; the posterior fontanelle and sagittal suture",
+    "Deflexion; both fontanelles felt with the orbital ridges"
    ],
    "ans": 0,
-   "exp": "Brow = partial extension; P/V feels anterior fontanelle and supraorbital ridges. (Book p549)"
+   "exp": "Brow presentation occurs with partial extension of the head; on P/V the anterior fontanelle (diamond shaped) and the supraorbital ridges are felt. (Book p549)"
   },
   {
    "id": "OBG-C21-059",
@@ -843,13 +843,13 @@
    "page": 549,
    "q": "Management of brow presentation:",
    "opts": [
-    "No mechanism of labour → only C-section; in early labour wait & watch since complete extension (face) or flexion (vertex) may occur",
-    "Forceps delivery",
-    "Vacuum extraction",
-    "Manual conversion to face then vaginal delivery always"
+    "No mechanism of labour, so caesarean; early labour may convert to face or vertex",
+    "No mechanism of labour, so caesarean; early labour always converts to vertex",
+    "Manual conversion to a vertex presentation, then vaginal delivery in every case",
+    "A vacuum is applied to the brow for an immediate vaginal delivery in all cases"
    ],
    "ans": 0,
-   "exp": "Brow → C-section; early labour may convert to face or vertex. (Book p549)"
+   "exp": "Brow presentation has no mechanism of labour, so delivery is by caesarean section; in early labour one may wait and watch, since complete extension (face) or flexion (vertex) may still occur. (Book p549)"
   },
   {
    "id": "OBG-C21-061",

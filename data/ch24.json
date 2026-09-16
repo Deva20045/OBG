@@ -122,13 +122,13 @@
    "page": 568,
    "q": "Uterine artery Doppler in the puerperium shows:",
    "opts": [
-    "↑ vascular resistance throughout the first 7 weeks post-partum",
-    "↓ resistance for 6 months",
-    "Absent diastolic flow for 24 h",
-    "No change"
+    "Raised vascular resistance throughout the first 7 weeks post-partum",
+    "Reduced vascular resistance for 6 months after delivery",
+    "Absent diastolic flow for the first 24 hours after delivery",
+    "No change at all from the antepartum Doppler findings"
    ],
    "ans": 0,
-   "exp": "↑ vascular resistance for first 7 weeks. (Book p568)"
+   "exp": "Uterine artery Doppler in the puerperium shows increased vascular resistance throughout the first 7 weeks post-partum. (Book p568)"
   },
   {
    "id": "OBG-C24-010",
@@ -391,13 +391,13 @@
    "page": 571,
    "q": "Absolute contraindication to breastfeeding:",
    "opts": [
-    "Galactosemia / lactose intolerance in baby",
-    "Maternal HIV in India",
-    "Mastitis",
-    "COVID-19 infection"
+    "Galactosemia or lactose intolerance in the baby",
+    "Maternal HIV infection in the Indian setting",
+    "Mastitis affecting one breast in the puerperium",
+    "COVID-19 infection in the mother after delivery"
    ],
    "ans": 0,
-   "exp": "Absolute: galactosemia/lactose intolerance. (Book p571)"
+   "exp": "The absolute contraindication to breastfeeding listed is galactosemia or lactose intolerance in the baby. (Book p571)"
   },
   {
    "id": "OBG-C24-029",
@@ -476,13 +476,13 @@
    "page": 571,
    "q": "Septic pelvic thrombophlebitis – vessel, P/V finding, blood culture, imaging:",
    "opts": [
-    "Ovarian vein (right > left); cord-like structure; negative culture (localized); MRI/CT may show thrombosed vein",
-    "Uterine vein; fluctuant mass; positive culture; USG",
-    "Iliac artery; pulsatile mass; positive; Doppler",
-    "Renal vein; nothing; negative; X-ray"
+    "Ovarian vein, right more than left; cord-like structure; culture negative; MRI or CT",
+    "Uterine vein; a fluctuant mass on palpation; culture positive; ultrasound",
+    "Iliac artery; a pulsatile mass on palpation; culture positive; Doppler",
+    "Renal vein; nothing palpable on examination; culture negative; plain X-ray"
    ],
    "ans": 0,
-   "exp": "Ovarian vein R > L; cord-like P/V; culture negative; MRI/CT thrombosed vein. (Book p571)"
+   "exp": "Septic pelvic thrombophlebitis affects the ovarian vein (right more than left), shows a cord-like structure on P/V, has a negative blood culture because the infection is localized, and MRI or CT may show the thrombosed vein. (Book p571)"
   },
   {
    "id": "OBG-C24-035",
@@ -519,13 +519,13 @@
    "page": 572,
    "q": "Management of septic pelvic thrombophlebitis – no thrombophlebitis evidence : evidence of thrombophlebitis.",
    "opts": [
-    "Continue BSA + LMWH; heparin till 48 h after afebrile : heparin for 6 weeks",
-    "Stop antibiotics : warfarin 3 months",
-    "Heparin 6 weeks : heparin 48 h",
-    "Surgery : antibiotics only"
+    "No evidence: continue BSA and LMWH; evidence: heparin for 6 weeks",
+    "No evidence: stop all antibiotics; evidence: warfarin for 3 months",
+    "No evidence: heparin for 6 weeks; evidence: heparin for 48 hours",
+    "No evidence: surgery to ligate the vein; evidence: antibiotics only"
    ],
    "ans": 0,
-   "exp": "BSA + heparin: 48 h post-afebrile if no evidence; 6 weeks if thrombophlebitis confirmed. (Book p572)"
+   "exp": "Without evidence of thrombophlebitis, continue broad-spectrum antibiotics and LMWH, with heparin until 48 hours after the woman is afebrile; with evidence of thrombophlebitis, give heparin for 6 weeks. (Book p572)"
   },
   {
    "id": "OBG-C24-038",

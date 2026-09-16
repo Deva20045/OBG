@@ -362,13 +362,13 @@
    "page": 514,
    "q": "Hypotonic contractions lead to ______ and are managed by ______.",
    "opts": [
-    "Prolonged/slow progress of labour; augmentation with ARM and oxytocin",
-    "Fetal distress; terbutaline",
-    "Precipitate labour; tocolysis",
-    "Uterine rupture; C-section"
+    "Prolonged slow progress of labour; augmentation with ARM and oxytocin",
+    "Fetal distress from reduced perfusion; tocolysis with terbutaline",
+    "Precipitate labour with rapid delivery; tocolysis and bed rest",
+    "Uterine rupture with severe pain; immediate caesarean section"
    ],
    "ans": 0,
-   "exp": "Hypotonic contractions → slow progress; augment with artificial rupture of membranes and oxytocin. (Book p514)"
+   "exp": "Hypotonic contractions lead to prolonged or slow progress of labour and are managed by augmentation with artificial rupture of membranes and oxytocin. (Book p514)"
   },
   {
    "id": "OBG-C19-027",
@@ -518,13 +518,13 @@
    "page": 516,
    "q": "Crowning is defined as:",
    "opts": [
-    "Head seen at the labia irrespective of contractions (episiotomy only if required)",
-    "Head visible only during contractions",
-    "Descent of head onto levator ani",
-    "Delivery of the head by extension"
+    "Head seen at the labia irrespective of contractions, episiotomy only if needed",
+    "Head visible at the labia only during a contraction",
+    "Descent of the head down onto the pelvic levator ani muscle",
+    "Delivery of the head by extension over the stretched perineum"
    ],
    "ans": 0,
-   "exp": "Crowning = head seen at the labia irrespective of contractions; episiotomy given only if required. (Book p516)"
+   "exp": "Crowning is the head seen at the labia irrespective of contractions, with episiotomy only if required. (Book p516)"
   },
   {
    "id": "OBG-C19-038",
@@ -546,13 +546,13 @@
    "page": 516,
    "q": "WHO recommended methods to prevent perineal tear:",
    "opts": [
-    "Perineal massage, warm towel at perineum, support perineum with hand, flex head initially then extend for delivery",
-    "Routine episiotomy, fundal pressure, early pushing",
-    "Lithotomy position, Kristeller manoeuvre",
-    "Vacuum extraction, perineal shaving"
+    "Perineal massage, warm towel, support the perineum, flex then extend the head",
+    "Routine episiotomy, fundal pressure, and early maternal pushing efforts",
+    "Lithotomy position, the Kristeller manoeuvre, and perineal shaving",
+    "Vacuum extraction, perineal shaving, and routine episiotomy in all"
    ],
    "ans": 0,
-   "exp": "Perineal massage, warm towel, hand support of perineum, initial flexion then extension of head. (Book p516)"
+   "exp": "WHO recommends perineal massage, a warm towel at the perineum, supporting the perineum with the hand, and flexing the head initially then extending it for delivery. (Book p516)"
   },
   {
    "id": "OBG-C19-040",
@@ -603,13 +603,13 @@
    "page": 517,
    "q": "Causes of non-engagement in a primigravida at term, in order of frequency:",
    "opts": [
-    "Deflexed head (m/c) > CPD > placenta previa; others – polyhydramnios, wrong dates",
-    "CPD > placenta previa > deflexed head",
-    "Placenta previa > polyhydramnios > CPD",
-    "Wrong dates > deflexed head > CPD"
+    "Deflexed head, then CPD, then placenta previa, then polyhydramnios",
+    "CPD, then placenta previa, then a deflexed head, then polyhydramnios",
+    "Placenta previa, then polyhydramnios, then CPD, then a deflexed head",
+    "Wrong dates, then a deflexed head, then CPD, then placenta previa"
    ],
    "ans": 0,
-   "exp": "Deflexed head (m/c) > cephalopelvic disproportion > placenta previa; also polyhydramnios and wrong dates. (Book p517)"
+   "exp": "Causes of non-engagement in a primigravida at term, in order of frequency, are a deflexed head (commonest), then CPD, then placenta previa; others are polyhydramnios and wrong dates. (Book p517)"
   },
   {
    "id": "OBG-C19-044",
@@ -660,13 +660,13 @@
    "page": 517,
    "q": "Synclitic engagement means the sagittal suture lies in the transverse diameter of the pelvis:",
    "opts": [
-    "Midway between pubic symphysis and sacral promontory (LOT position)",
-    "Closer to the pubic symphysis",
-    "Closer to the sacral promontory",
-    "In the AP diameter of the pelvis"
+    "Midway between the pubic symphysis and the sacral promontory",
+    "Closer to the pubic symphysis than to the sacral promontory",
+    "Closer to the sacral promontory than to the pubic symphysis",
+    "In the anteroposterior diameter, not the transverse diameter"
    ],
    "ans": 0,
-   "exp": "Synclitic: sagittal suture midway between pubic symphysis and sacral promontory. (Book p517)"
+   "exp": "Synclitic engagement means the sagittal suture lies in the transverse diameter midway between the pubic symphysis and the sacral promontory (LOT position). (Book p517)"
   },
   {
    "id": "OBG-C19-048",
@@ -759,13 +759,13 @@
    "page": 518,
    "q": "Epidural analgesia in labour – level of block : type of block.",
    "opts": [
-    "T10 segment : sensory + sympathetic (no motor block)",
-    "T4 : motor + sensory",
-    "L1 : sympathetic only",
-    "S2 : motor only"
+    "T10 level; sensory and sympathetic block without motor block",
+    "T4 level; motor and sensory block without sympathetic block",
+    "L1 level; sympathetic block only, with no sensory block",
+    "S2 level; dense motor block with no sensory or sympathetic block"
    ],
    "ans": 0,
-   "exp": "Level T10; sensory + sympathetic block without motor block. (Book p518)"
+   "exp": "Epidural analgesia in labour aims at a T10 level with sensory and sympathetic block but no motor block. (Book p518)"
   },
   {
    "id": "OBG-C19-055",
@@ -773,13 +773,13 @@
    "page": 518,
    "q": "Drugs of choice for labour epidural and its effect on stages of labour:",
    "opts": [
-    "Bupivacaine 0.625% or ropivacaine; shortens 1st stage, prolongs 2nd stage by 1 hr",
-    "Lignocaine 2%; prolongs both stages",
-    "Bupivacaine 0.5%; shortens both stages",
-    "Ropivacaine; no effect on stages"
+    "Bupivacaine 0.625% or ropivacaine; shortens the 1st stage, prolongs the 2nd by 1 hour",
+    "Bupivacaine 0.5%; shortens both the 1st and the 2nd stage of labour",
+    "Lignocaine 2%; prolongs both the 1st and the 2nd stage of labour",
+    "Ropivacaine alone; no measurable effect on any stage of labour"
    ],
    "ans": 0,
-   "exp": "DOC: bupivacaine (0.625%) / ropivacaine; shortens 1st stage, prolongs 2nd stage by 1 h. Monitor BP and FHR. (Book p518)"
+   "exp": "The drugs of choice for labour epidural are bupivacaine 0.625% or ropivacaine; it shortens the first stage and prolongs the second stage by about 1 hour. (Book p518)"
   },
   {
    "id": "OBG-C19-056",
@@ -787,13 +787,13 @@
    "page": 518,
    "q": "Contraindication to epidural and the fact about C-section rate:",
    "opts": [
-    "Anticoagulant use 12–24 hrs prior to onset of labour; epidural does not increase C-section rate",
-    "Hypertension; epidural doubles C-section rate",
-    "Multiparity; epidural increases forceps only",
-    "Diabetes; epidural reduces C-section rate"
+    "Anticoagulant in the 12-24 hours before labour; it does not raise the caesarean rate",
+    "Hypertension in labour; epidural doubles the caesarean section rate",
+    "Multiparity; epidural increases the forceps rate but not caesarean",
+    "Diabetes in pregnancy; epidural reduces the caesarean section rate"
    ],
    "ans": 0,
-   "exp": "C/I: anticoagulants within 12–24 h; epidural does not ↑ C-section rate. For C-section, anaesthesia is given at T4 (blocks peritoneal pain). (Book p518)"
+   "exp": "Epidural is contraindicated by anticoagulant use in the 12-24 hours before the onset of labour, and it does not increase the caesarean section rate. (Book p518)"
   },
   {
    "id": "OBG-C19-057",
@@ -830,13 +830,13 @@
    "page": 519,
    "q": "Uses of pudendal block are ______; it does NOT block pain during ______.",
    "opts": [
-    "Instrumental delivery and repair of perineal/vaginal tear; repair of cervical tears",
-    "C-section and MRP; episiotomy",
-    "Cervical repair; perineal repair",
-    "Suction evacuation; instrumental delivery"
+    "Instrumental delivery and perineal or vaginal tear repair; cervical tears",
+    "Caesarean section and manual removal of the placenta; episiotomy",
+    "Repair of cervical tears; repair of the perineum afterwards",
+    "Suction evacuation of the uterus; instrumental delivery in labour"
    ],
    "ans": 0,
-   "exp": "Uses: instrumental delivery, perineal/vaginal tear repair; does not cover cervical tear repair. (Book p519)"
+   "exp": "Pudendal block is used for instrumental delivery and repair of perineal or vaginal tears, but it does not block pain during repair of cervical tears. (Book p519)"
   },
   {
    "id": "OBG-C19-060",
@@ -858,13 +858,13 @@
    "page": 519,
    "q": "Uses and contraindication of paracervical block:",
    "opts": [
-    "Repair of cervix and suction & evacuation; contraindicated in labour as it causes fetal bradycardia",
-    "Instrumental delivery; C/I in hypertension",
-    "Perineal repair; C/I in diabetes",
-    "C-section; C/I in twins"
+    "Cervical repair and suction evacuation; contraindicated in labour (fetal bradycardia)",
+    "Instrumental delivery and perineal repair; contraindicated in labour (bradycardia)",
+    "Cervical repair and suction evacuation; contraindicated in hypertension",
+    "Caesarean section and suturing; contraindicated in multiple pregnancy"
    ],
    "ans": 0,
-   "exp": "Uses: cervical repair, suction evacuation; not used in labour (fetal bradycardia). (Book p519)"
+   "exp": "Paracervical block is used for repair of the cervix and for suction and evacuation, but is contraindicated in labour because it causes fetal bradycardia. (Book p519)"
   },
   {
    "id": "OBG-C19-062",
@@ -1070,13 +1070,13 @@
    "page": 520,
    "q": "Match the methods – Cervical ripening : IOL : Augmentation.",
    "opts": [
-    "Sweeping of membranes, mechanical, prostaglandins : mechanical, prostaglandins, oxytocin : oxytocin, ARM",
-    "Oxytocin, ARM : sweeping : prostaglandins",
-    "Prostaglandins only : ARM only : oxytocin only",
-    "Mechanical : sweeping : prostaglandins"
+    "Ripening: sweeping, mechanical, prostaglandins; IOL: mechanical, PG, oxytocin; augmentation: oxytocin, ARM",
+    "Ripening: oxytocin and ARM; IOL: sweeping of membranes; augmentation: prostaglandins",
+    "Ripening: prostaglandins only; IOL: ARM only; augmentation: oxytocin only",
+    "Ripening: mechanical methods; IOL: sweeping only; augmentation: prostaglandins"
    ],
    "ans": 0,
-   "exp": "Ripening: sweeping, mechanical, PGs. IOL: mechanical, PGs, oxytocin. Augmentation: oxytocin, ARM. (Book p520)"
+   "exp": "Cervical ripening uses sweeping of membranes, mechanical methods and prostaglandins; induction of labour uses mechanical methods, prostaglandins and oxytocin; augmentation uses oxytocin and ARM. (Book p520)"
   },
   {
    "id": "OBG-C19-077",
@@ -1084,13 +1084,13 @@
    "page": 520,
    "q": "Sweeping (stripping) of membranes – indication and principle:",
    "opts": [
-    "Cervix slightly dilated; sweeping detaches membranes from cervix → release of prostaglandins → ripening",
-    "Closed cervix; stretching releases oxytocin",
-    "Fully effaced cervix; ruptures membranes",
-    "Any cervix; mechanical dilatation"
+    "Slightly dilated cervix; detaching membranes releases prostaglandins and ripens",
+    "Closed cervix; stretching the membranes releases oxytocin and ripens",
+    "A fully effaced cervix; sweeping deliberately ruptures the membranes",
+    "Any cervical state; sweeping mechanically dilates the cervical canal"
    ],
    "ans": 0,
-   "exp": "Indication: slightly dilated cervix; membranes detached from cervix → PG release → cervical ripening. (Book p520)"
+   "exp": "Sweeping (stripping) of membranes is done when the cervix is slightly dilated; detaching the membranes from the cervix releases prostaglandins and ripens it. (Book p520)"
   },
   {
    "id": "OBG-C19-078",
@@ -1126,13 +1126,13 @@
    "page": 521,
    "q": "Extra-amniotic saline infusion (EASI) involves:",
    "opts": [
-    "Foley in endocervical canal with bulb inflated and NS infused at 30–40 ml/hr; saline collects in extra-amniotic space → separation of membranes → PG release",
-    "Infusion of saline into the amniotic cavity via amniocentesis",
-    "Vaginal saline douching",
-    "Intravenous saline with oxytocin"
+    "Foley through the cervix, bulb inflated, saline infused extra-amniotically",
+    "Saline infused into the amniotic cavity through an amniocentesis needle",
+    "Saline infused into the bladder to compress the lower uterine segment",
+    "Intravenous saline with oxytocin running through the same catheter"
    ],
    "ans": 0,
-   "exp": "EASI: NS 30–40 ml/hr via Foley → collects between amnion/chorion and uterus → membrane separation → prostaglandins. (Book p521)"
+   "exp": "EASI places a Foley in the endocervical canal, inflates the bulb and infuses normal saline at 30-40 ml/hr; the saline collects in the extra-amniotic space, separates the membranes and releases prostaglandins. (Book p521)"
   },
   {
    "id": "OBG-C19-081",
@@ -1183,13 +1183,13 @@
    "page": 521,
    "q": "Misoprostol (PGE1) for IOL – dose, repetition, maximum and next step:",
    "opts": [
-    "25 mcg oral/vaginal repeated 3–6 hourly (4 h), max 6 doses; if no IOL after a 4 h gap → oxytocin",
-    "50 mcg vaginal 2 hourly, max 4 doses → C-section",
-    "100 mcg oral once → oxytocin",
-    "200 mcg vaginal 12 hourly, max 2 → ARM"
+    "25 mcg oral or vaginal 3-6 hourly, max 6 doses; then oxytocin after a gap",
+    "50 mcg vaginally 2 hourly, max 4 doses; then caesarean section",
+    "100 mcg orally once only; then proceed to an oxytocin infusion",
+    "200 mcg vaginally 12 hourly, max 2 doses; then artificial rupture"
    ],
    "ans": 0,
-   "exp": "25 mcg orally/vaginally every 3–6 h (4 h), maximum 6 doses; no labour → 4 h gap → oxytocin. S/E: FHR abnormalities, meconium staining. (Book p521)"
+   "exp": "Misoprostol (PGE1) for induction is 25 mcg oral or vaginal repeated 3-6 hourly (4 hourly), to a maximum of 6 doses; if no labour after a 4 hour gap, move to oxytocin. (Book p521)"
   },
   {
    "id": "OBG-C19-085",
@@ -1338,13 +1338,13 @@
    "page": 522,
    "q": "IOL for IUD of fetus – 20–28 weeks : >28 weeks.",
    "opts": [
-    "Misoprostol 600–800 mcg PV, repeat 400 mcg 3-hourly : 25 mg misoprostol to ripen cervix → oxytocin",
-    "Oxytocin : Foley",
-    "25 mcg misoprostol : 800 mcg misoprostol",
-    "Mifepristone alone : C-section"
+    "20-28 weeks: misoprostol 600-800 mcg PV, then 400 mcg 3-hourly; over 28 weeks: ripen then oxytocin",
+    "20-28 weeks: oxytocin infusion alone; over 28 weeks: misoprostol 600-800 mcg PV 3-hourly",
+    "20-28 weeks: mifepristone alone; over 28 weeks: caesarean section in every case",
+    "20-28 weeks: misoprostol 25 mcg PV; over 28 weeks: misoprostol 800 mcg 3-hourly"
    ],
    "ans": 0,
-   "exp": "20–28 wks: misoprostol 600–800 mcg PV then 400 mcg 3-hourly; >28 wks: 25 mg misoprostol (ripen) → oxytocin. (Book p522)"
+   "exp": "For IUD, at 20-28 weeks give misoprostol 600-800 mcg PV then 400 mcg 3-hourly; beyond 28 weeks give 25 mcg misoprostol to ripen the cervix and then oxytocin. (Book p522)"
   },
   {
    "id": "OBG-C19-096",
@@ -1607,13 +1607,13 @@
    "page": 525,
    "q": "Dinoprostone (PGE2) is used for ______ but is NOT recommended by WHO for ______.",
    "opts": [
-    "Induction and augmentation of labour; AMTSL and PPH management",
-    "PPH; induction",
-    "AMTSL; induction",
-    "Cervical ripening; augmentation"
+    "Induction and augmentation of labour; not for AMTSL or PPH management",
+    "Postpartum hemorrhage; not recommended for induction of labour",
+    "Active management of the third stage; not for induction",
+    "Cervical ripening only; not recommended for augmentation"
    ],
    "ans": 0,
-   "exp": "PGE2: IOL/augmentation; not recommended for AMTSL or PPH. (Book p525)"
+   "exp": "Dinoprostone (PGE2) is used for induction and augmentation of labour, but WHO does not recommend it for AMTSL or PPH management. (Book p525)"
   },
   {
    "id": "OBG-C19-115",
@@ -1720,13 +1720,13 @@
    "page": 526,
    "q": "Correct procedure of controlled cord traction:",
    "opts": [
-    "Look for signs of separation → push uterus upwards with one hand → gentle downward-forward traction on cord during contraction",
-    "Pull cord continuously regardless of separation",
-    "Squeeze fundus while pulling cord (Credé)",
-    "Traction between contractions with fundal pressure"
+    "Wait for separation signs, push the uterus up, then pull the cord forward during a contraction",
+    "Pull on the cord continuously from delivery, regardless of any signs of separation",
+    "Squeeze the fundus (Credé manoeuvre) while pulling the cord downwards firmly",
+    "Apply traction between contractions while an assistant presses on the fundus"
    ],
    "ans": 0,
-   "exp": "Signs of separation → counter-pressure pushing uterus up → gentle traction downwards and forwards during contraction. (Book p526)"
+   "exp": "Controlled cord traction: look for signs of separation, push the uterus upwards with one hand, then apply gentle downward-forward traction on the cord during a contraction. (Book p526)"
   },
   {
    "id": "OBG-C19-123",
@@ -1819,13 +1819,13 @@
    "page": 527,
    "q": "Advice given in the fourth stage and its possible complications:",
    "opts": [
-    "Pass urine and take oral intake within 2 h of delivery; PPH, perineal tears, vulval hematomas",
-    "Nil by mouth for 6 h; uterine rupture",
-    "Bed rest 24 h; DVT",
-    "Catheterise for 12 h; infection"
+    "Pass urine and take oral fluids within 2 hours; watch for PPH, tears, hematoma",
+    "Remain nil by mouth for a full 6 hours; watch for uterine rupture",
+    "Strict bed rest for 24 hours after delivery; watch for deep vein thrombosis",
+    "Keep the catheter in place for 12 hours; watch for postpartum infection"
    ],
    "ans": 0,
-   "exp": "Advice: pass urine and oral intake within 2 h; complications PPH, perineal tears, vulval hematoma. (Book p527)"
+   "exp": "In the fourth stage the mother is advised to pass urine and take oral intake within 2 hours of delivery; the complications to watch for are PPH, perineal tears and vulval hematoma. (Book p527)"
   }
  ],
  "units": [

@@ -122,13 +122,13 @@
    "page": 506,
    "q": "Moulding on the partograph is denoted as:",
    "opts": [
-    "0/× = no moulding; +1, +2, +3 = degrees of overlapping of cranial bones",
-    "− = no moulding; ++++ = severe",
-    "A/B/C grades",
-    "I/C/M/B"
+    "0 or × for none; +1, +2, +3 for degrees of overlapping of cranial bones",
+    "0 or × for none; +1, +2, +3 for degrees of caput succedaneum",
+    "A, B and C grades for degrees of overlapping of the cranial bones",
+    "I, C, M and B grades recorded against each hourly observation"
    ],
    "ans": 0,
-   "exp": "Moulding = overlapping of cranial bones; 0/× no moulding; +1, +2, +3 moulding. (Book p506)"
+   "exp": "On the partograph, moulding is recorded as 0 or × for none and +1, +2, +3 for increasing degrees of overlapping of the cranial bones. (Book p506)"
   },
   {
    "id": "OBG-C18-010",
@@ -476,13 +476,13 @@
    "page": 510,
    "q": "Amniotic fluid codes in the LCG and alert features:",
    "opts": [
-    "I intact, C clear; M meconium-stained and B blood-stained are alerts",
-    "I intact, C clear; both alerts",
-    "I inadequate, C clear; M is normal",
-    "C clear only; I is alert"
+    "I intact and C clear; M meconium-stained and B blood-stained are alerts",
+    "I intact and C clear; both codes are alerts on the chart",
+    "I inadequate and C clear; M is a normal finding here",
+    "Only C clear is recorded, and I is treated as an alert"
    ],
    "ans": 0,
-   "exp": "I intact membrane, C clear fluid; M meconium and B blood-stained are alert features. (Book p510)"
+   "exp": "In the Labour Care Guide the amniotic fluid codes are I for intact and C for clear, while M (meconium-stained) and B (blood-stained) are alerts. (Book p510)"
   },
   {
    "id": "OBG-C18-035",
@@ -589,13 +589,13 @@
    "page": 511,
    "q": "Section 6 (medication) of the LCG records ______ and Section 7 is ______.",
    "opts": [
-    "Oxytocin, IV fluids, drugs; shared decision-making (assessment and plan)",
-    "Antibiotics only; referral",
-    "Analgesics; discharge summary",
-    "Tocolytics; newborn care"
+    "Oxytocin, IV fluids and drugs given; shared decision-making and plan",
+    "Antibiotics and referral details only; shared decision-making and plan",
+    "Analgesics and fluids given; discharge summary and follow-up plan",
+    "Tocolytics and drugs given; newborn care and feeding plan recorded"
    ],
    "ans": 0,
-   "exp": "Section 6: oxytocin, IV fluids, drugs. Section 7: shared decision making – assessment and plan. (Book p511)"
+   "exp": "Section 6 of the Labour Care Guide records medication (oxytocin, IV fluids, drugs) and Section 7 records shared decision-making – assessment and plan. (Book p511)"
   },
   {
    "id": "OBG-C18-043",

@@ -570,13 +570,13 @@
    "page": 267,
    "q": "In contrast to spermatogenesis where one spermatogonium yields 64 spermatids, each oogonium ultimately gives rise to:",
    "opts": [
-    "1 mature ovum (female pronucleus)",
-    "4 mature ova",
-    "16 mature ova",
-    "64 mature ova"
+    "One mature ovum and three non-functional polar bodies",
+    "Four mature ova, all of them fertilisable",
+    "Sixteen mature ova, all of them fertilisable",
+    "Sixty-four mature ova, all of them fertilisable"
    ],
    "ans": 0,
-   "exp": "Each oogonium gives rise to only 1 ovum/female pronucleus and non-functional polar bodies. (Book p267)"
+   "exp": "Unlike spermatogenesis, where one spermatogonium yields 64 spermatids, each oogonium ultimately gives rise to a single mature ovum (female pronucleus) plus non-functional polar bodies. (Book p267)"
   },
   {
    "id": "OBG-C1-042",
@@ -668,13 +668,13 @@
    "page": 267,
    "q": "By the time a female reaches puberty, the ovarian follicular reserve has further diminished to:",
    "opts": [
-    "4–5 lakh (400,000–500,000)",
-    "1–2 million",
-    "6–7 million",
-    "10,000"
+    "4-5 lakh, that is 400,000-500,000 follicles",
+    "1-2 million, that is 1,000,000-2,000,000 follicles",
+    "6-7 million, that is 6,000,000-7,000,000 follicles",
+    "10,000, that is ten thousand follicles only"
    ],
    "ans": 0,
-   "exp": "At puberty, the follicular pool is reduced to 4–5 lakh (400,000–500,000). (Book p267)"
+   "exp": "By puberty the ovarian follicular pool is further reduced to 4-5 lakh (400,000-500,000) follicles. (Book p267)"
   },
   {
    "id": "OBG-C1-049",
@@ -1077,13 +1077,13 @@
    "page": 270,
    "q": "Slight, painless vaginal spotting occurring around cycle day 20–22 due to blastocyst burrowing into the endometrium is termed the:",
    "opts": [
-    "Hartmann sign (placental sign)",
-    "Hegar sign",
-    "Chadwick sign",
-    "Palmer sign"
+    "Hartmann sign, also called the placental sign",
+    "Hegar sign of lower-segment softening",
+    "Chadwick sign of bluish discoloration",
+    "Palmer sign of regular uterine pulsation"
    ],
    "ans": 0,
-   "exp": "Bleeding experienced at the time of blastocyst implantation is known as Hartmann's sign or placental sign. (Book p270)"
+   "exp": "Slight painless spotting around cycle day 20-22 from blastocyst burrowing into the endometrium is the Hartmann sign (placental sign). (Book p270)"
   },
   {
    "id": "OBG-C1-078",
@@ -2770,13 +2770,13 @@
    "page": 289,
    "q": "Placenta succenturiata features a separate accessory lobe connected by intramembranous vessels, presenting clinical risks of:",
    "opts": [
-    "Retained succenturiate lobe causing postpartum hemorrhage (PPH) and increased risk of placenta previa",
-    "Immediate fetal phocomelia and digital amputation",
-    "Complete congenital heart block in the newborn",
-    "Premature closure of the ductus arteriosus"
+    "Retention of the succenturiate lobe causing PPH and placenta previa",
+    "Immediate fetal phocomelia with amputation of the digits",
+    "Complete congenital heart block appearing in the newborn",
+    "Premature closure of the ductus arteriosus in the fetus"
    ],
    "ans": 0,
-   "exp": "A succenturiate lobe may be left behind causing severe PPH, or its lower position can produce placenta previa / vasa previa. (Book p289)"
+   "exp": "Placenta succenturiata has a separate accessory lobe joined by intramembranous vessels, risking a retained succenturiate lobe with postpartum hemorrhage and an increased risk of placenta previa. (Book p289)"
   },
   {
    "id": "OBG-C1-198",
@@ -2813,13 +2813,13 @@
    "page": 290,
    "q": "A circumvallate placenta is distinguished on gross examination by a thick, raised, rolled white ring at the margin with a central depression, predisposing to:",
    "opts": [
-    "Intrauterine growth restriction (IUGR) and antepartum hemorrhage (abruptio placentae)",
-    "Fetal macrosomia and polyhydramnios",
-    "Down syndrome and maternal hyperthyroidism",
-    "Post-term pregnancy with high hCG"
+    "Intrauterine growth restriction and antepartum hemorrhage from abruption",
+    "Fetal macrosomia together with polyhydramnios in the third trimester",
+    "Down syndrome and maternal hyperthyroidism in the index pregnancy",
+    "Post-term pregnancy with a persistently high serum hCG level"
    ],
    "ans": 0,
-   "exp": "Circumvallate placenta has a rolled, valve-like fibrous ring at the transition, causing increased risks of IUGR and APH. (Book p290)"
+   "exp": "A circumvallate placenta shows a thick raised rolled white ring at the margin with central depression, and predisposes to IUGR and antepartum hemorrhage (abruptio placentae). (Book p290)"
   },
   {
    "id": "OBG-C1-201",
@@ -2883,13 +2883,13 @@
    "page": 292,
    "q": "Type 1 vasa previa is caused by velamentous cord insertion, while Type 2 vasa previa results from:",
    "opts": [
-    "Vessels traversing between lobes in placenta bilobata or placenta succenturiata",
-    "Previous Cesarean scar dehiscence",
-    "Complete absence of the umbilical vein",
-    "Circumvallate placental ring formation"
+    "Vessels traversing between the lobes in placenta bilobata or succenturiata",
+    "Dehiscence of a previous caesarean section scar in the lower segment",
+    "Complete congenital absence of the single umbilical vein",
+    "A circumvallate ring forming around the margin of the placenta"
    ],
    "ans": 0,
-   "exp": "Type 1 is due to velamentous cord insertion; Type 2 is due to vessels running between lobes of a bilobed or succenturiate placenta. (Book p292)"
+   "exp": "Type 1 vasa previa comes from velamentous cord insertion, while type 2 results from vessels traversing between the lobes in placenta bilobata or placenta succenturiata. (Book p292)"
   },
   {
    "id": "OBG-C1-206",
@@ -3039,13 +3039,13 @@
    "page": 294,
    "q": "Which features correctly distinguish the Schultze method from the Duncan method of placental separation?",
    "opts": [
-    "Schultze (80%): separates centrally, shiny fetal surface expelled first, bleeding seen after expulsion; Duncan (20%): separates peripherally, dull maternal surface expelled first, continuous bleeding",
-    "Schultze (20%): maternal surface first; Duncan (80%): fetal surface first",
-    "Schultze: continuous bleeding from start; Duncan: blood appears only after expulsion",
-    "Schultze: peripheral detachment without retroplacental clot; Duncan: central detachment"
+    "Schultze: central separation, shiny fetal surface first; Duncan: peripheral separation, dull maternal surface first",
+    "Schultze: peripheral separation, dull maternal surface first; Duncan: central separation, shiny fetal surface first",
+    "Schultze: continuous bleeding from the start; Duncan: bleeding appears only after expulsion",
+    "Schultze: peripheral detachment with no retroplacental clot; Duncan: central detachment with a large clot"
    ],
    "ans": 0,
-   "exp": "Schultze (80%, m/c) starts centrally and delivers the shiny fetal surface first with less bleeding; Duncan (20%) detaches peripherally delivering the dull maternal surface. (Book p294)"
+   "exp": "Schultze (80%) separates centrally, the shiny fetal surface is expelled first and bleeding is seen only after expulsion; Duncan (20%) separates peripherally, the dull maternal surface is expelled first and bleeding is continuous. (Book p294)"
   },
   {
    "id": "OBG-C1-217",
@@ -3476,13 +3476,13 @@
    "page": 299,
    "q": "Severe, prolonged oligohydramnios present early in pregnancy (first or early second trimester) is clinically most devastating because it causes:",
    "opts": [
-    "Pulmonary hypoplasia (most lethal complication) and severe limb reduction contractures",
-    "Duodenal atresia and macroglossia",
-    "Complete hydatidiform mole",
-    "Premature closure of the ductus arteriosus"
+    "Pulmonary hypoplasia, the most lethal complication, and limb contractures",
+    "Duodenal atresia together with macroglossia in the newborn",
+    "A complete hydatidiform mole developing in the uterus",
+    "Premature closure of the ductus arteriosus before delivery"
    ],
    "ans": 0,
-   "exp": "Early oligohydramnios prevents chest wall expansion and amniotic lung fluid circulation, producing lethal pulmonary hypoplasia. (Book p299)"
+   "exp": "Severe early oligohydramnios is devastating because it causes pulmonary hypoplasia, the most lethal complication, and severe limb reduction contractures. (Book p299)"
   },
   {
    "id": "OBG-C1-248",

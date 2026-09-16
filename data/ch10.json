@@ -786,13 +786,13 @@
    "page": 428,
    "q": "What is the mechanism of misoprostol in medical abortion?",
    "opts": [
-    "It is an anti-D antibody",
-    "It promotes uterine contraction and cervical ripening/softening to expel the detached embryo",
-    "It blocks progesterone receptors only",
-    "It prevents all uterine contraction"
+    "It is an anti-D antibody that blocks fetal red-cell sensitisation",
+    "It promotes uterine contractions and cervical ripening to expel the embryo",
+    "It blocks progesterone receptors only, leaving the cervix unchanged",
+    "It prevents all uterine contraction until the cervix is fully dilated"
    ],
    "ans": 1,
-   "exp": "Misoprostol causes uterine contractions and cervical ripening to expel the detached embryo. (Book p428)"
+   "exp": "Misoprostol promotes uterine contractions and cervical ripening or softening, expelling the detached embryo. (Book p428)"
   },
   {
    "id": "OBG-C10-019",
@@ -970,12 +970,12 @@
    "q": "Why is inability to comply with follow-up a contraindication to medical abortion?",
    "opts": [
     "The regimen requires assessment of completion and timely management of failure",
-    "It makes mifepristone act faster",
-    "It prevents all bleeding",
-    "It confirms a live pregnancy"
+    "Follow-up visits make mifepristone act faster and shorten the bleeding",
+    "Follow-up prevents all bleeding after the expulsion is complete",
+    "Follow-up attendance is what confirms the pregnancy is still live"
    ],
    "ans": 0,
-   "exp": "Patients must be able to comply with follow-up for medical abortion. (Book p429)"
+   "exp": "Medical abortion needs assessment that expulsion is complete and timely management of failure, so the woman must be able to comply with follow-up. (Book p429)"
   },
   {
    "id": "OBG-C10-032",
@@ -1223,13 +1223,13 @@
    "page": 429,
    "q": "Why is P/V examination performed in lithotomy before suction evacuation?",
    "opts": [
-    "To confirm uterine size and position, anteverted or retroverted",
-    "To diagnose fetal anemia",
-    "To determine Rh antigen type",
-    "To measure serum bile acids"
+    "To confirm uterine size and whether it is anteverted or retroverted",
+    "To diagnose fetal anaemia before the evacuation begins",
+    "To determine the maternal Rh antigen type on the spot",
+    "To measure serum bile acids from a swab taken at the os"
    ],
    "ans": 0,
-   "exp": "P/V examination confirms uterine size and position. (Book p429)"
+   "exp": "Before suction evacuation a P/V examination in lithotomy confirms uterine size and position, whether anteverted or retroverted. (Book p429)"
   },
   {
    "id": "OBG-C10-050",
@@ -1576,13 +1576,13 @@
    "page": 431,
    "q": "Which clinical deterioration suggests Karman-cannula perforation?",
    "opts": [
-    "Raised pulse with falling BP/shock and severe abdominal pain",
-    "Normal vitals with no pain",
-    "Only mild palmar itching",
-    "Fetal macrosomia"
+    "A rising pulse with falling BP and severe abdominal pain",
+    "Normal vital signs with no abdominal pain at all",
+    "Only mild palmar itching with a stable pulse",
+    "Fetal macrosomia noted on the scan before the procedure"
    ],
    "ans": 0,
-   "exp": "Perforation can cause shock (raised pulse/falling BP) and severe abdominal pain. (Book p431)"
+   "exp": "Karman-cannula perforation is suggested by a raised pulse with falling BP or shock and severe abdominal pain. (Book p431)"
   },
   {
    "id": "OBG-C10-075",
@@ -1590,13 +1590,13 @@
    "page": 431,
    "q": "What should be done immediately when Karman-cannula perforation is suspected?",
    "opts": [
-    "Give oral misoprostol only",
-    "Stop procedure, do not remove the cannula, inform senior consultant, and check vitals",
-    "Remove cannula immediately and discharge",
-    "Continue suction to completion"
+    "Give oral misoprostol only and review the patient",
+    "Stop, keep the cannula in place, inform a senior, and check the vitals",
+    "Remove the cannula immediately and discharge the patient",
+    "Continue the suction to completion and then reassess"
    ],
    "ans": 1,
-   "exp": "Stop, leave KC in place, call senior help, and assess vitals. (Book p431)"
+   "exp": "When Karman-cannula perforation is suspected, stop the procedure, do not remove the cannula, inform the senior consultant and check the vitals. (Book p431)"
   },
   {
    "id": "OBG-C10-076",
@@ -1873,13 +1873,13 @@
    "page": 432,
    "q": "Which instruments are used for dilatation and evacuation?",
    "opts": [
-    "MVA syringe only",
+    "The manual vacuum aspiration syringe on its own",
     "Ovum forceps or sponge-holding forceps",
-    "Karman cannula only",
-    "Hegar dilator only"
+    "The Karman cannula used on its own",
+    "Hegar dilators used on their own"
    ],
    "ans": 1,
-   "exp": "D&E uses ovum forceps or sponge-holding forceps. (Book p432)"
+   "exp": "Dilatation and evacuation is performed with ovum forceps or sponge-holding forceps. (Book p432)"
   },
   {
    "id": "OBG-C10-096",
@@ -2141,13 +2141,13 @@
    "page": 433,
    "q": "What is the most common site of ectopic pregnancy?",
    "opts": [
-    "Abdomen",
+    "Abdominal cavity",
     "Fallopian tube",
     "Ovary",
     "Cervix"
    ],
    "ans": 1,
-   "exp": "The fallopian tube is the most common site of ectopic pregnancy. (Book p433)"
+   "exp": "The most common site of ectopic pregnancy is the fallopian tube. (Book p433)"
   },
   {
    "id": "OBG-C10-115",
@@ -2169,13 +2169,13 @@
    "page": 433,
    "q": "Why is ampulla the most common tubal ectopic site according to the notes?",
    "opts": [
-    "It is the narrowest portion",
-    "It has no blood supply",
-    "It is an anatomic sphincter",
+    "It is the narrowest portion and slows the passage of the ovum",
+    "It has the poorest blood supply and is prone to ischaemia",
+    "It is an anatomical sphincter that traps the fertilised ovum",
     "It is the site of fertilization and has the maximum mucosal plicae"
    ],
    "ans": 3,
-   "exp": "Ampulla is the fertilization site and has the most plicae, making it the most common site. (Book p433)"
+   "exp": "The ampulla is the site of fertilization and has the most mucosal plicae, making it the commonest tubal ectopic site. (Book p433)"
   },
   {
    "id": "OBG-C10-117",
@@ -2310,13 +2310,13 @@
    "page": 434,
    "q": "Which criteria are used for cervical ectopic pregnancy?",
    "opts": [
-    "Spiegelberg criteria",
-    "Studdiford criteria",
-    "Swansea criteria",
+    "Spiegelberg criteria for ovarian pregnancy",
+    "Studdiford criteria for abdominal pregnancy",
+    "Swansea criteria for acute fatty liver of pregnancy",
     "Paalman criteria; Rubin criteria are obsolete"
    ],
    "ans": 3,
-   "exp": "Paalman is the newer cervical-ectopic criteria; Rubin is obsolete. (Book p434)"
+   "exp": "Cervical ectopic pregnancy is diagnosed on Paalman criteria; the Rubin criteria are obsolete. (Book p434)"
   },
   {
    "id": "OBG-C10-127",
@@ -2465,13 +2465,13 @@
    "page": 434,
    "q": "What happens to the absolute risk of ectopic pregnancy with contraception overall?",
    "opts": [
-    "It becomes 100%",
-    "It decreases because the chance of pregnancy decreases",
-    "It increases in every user",
-    "It is unaffected"
+    "It becomes 100% in every user of contraception",
+    "It decreases, because the chance of pregnancy decreases",
+    "It increases in every single user of contraception",
+    "It is unaffected by any method of contraception"
    ],
    "ans": 1,
-   "exp": "Contraception lowers absolute ectopic risk by lowering overall chance of pregnancy. (Book p434)"
+   "exp": "With contraception overall the absolute risk of ectopic pregnancy decreases, because the chance of any pregnancy decreases. (Book p434)"
   },
   {
    "id": "OBG-C10-138",
@@ -2804,13 +2804,13 @@
    "page": 436,
    "q": "What initial combination points directly to surgical management of ectopic pregnancy?",
    "opts": [
-    "Triad plus positive UPT plus localizing signs",
-    "Pruritus plus jaundice",
-    "Positive ICT alone",
-    "A normal glucose test"
+    "The triad plus a positive UPT plus localizing signs on examination",
+    "Pruritus together with jaundice and a raised bile acid level",
+    "A positive indirect Coombs test taken on its own",
+    "A normal blood glucose test with no other clinical signs"
    ],
    "ans": 0,
-   "exp": "The triad with positive UPT and localizing signs proceeds to surgical management. (Book p436)"
+   "exp": "Surgical management of ectopic pregnancy is indicated directly by the triad plus a positive UPT plus localizing signs. (Book p436)"
   },
   {
    "id": "OBG-C10-162",
@@ -2931,13 +2931,13 @@
    "page": 436,
    "q": "How does blood aspirated from a blood vessel differ from hemoperitoneum on culdocentesis?",
    "opts": [
-    "Blood-vessel sample clots, whereas pouch-of-Douglas blood does not clot",
-    "Both never clot",
-    "Both always clot identically",
-    "Only amniotic fluid clots"
+    "Blood from a vessel clots, whereas pouch-of-Douglas blood does not clot",
+    "Blood from a vessel does not clot, whereas pouch-of-Douglas blood clots",
+    "Both samples clot identically, so clotting cannot distinguish them",
+    "Neither sample ever clots, since both are defibrinated on aspiration"
    ],
    "ans": 0,
-   "exp": "Blood in a vessel clots; hemoperitoneum blood in pouch of Douglas lacks clotting factors and does not clot. (Book p436)"
+   "exp": "Aspirate drawn from a blood vessel clots, whereas blood from the pouch of Douglas in hemoperitoneum has lost clotting factors and does not clot. (Book p436)"
   },
   {
    "id": "OBG-C10-171",
@@ -2960,13 +2960,13 @@
    "page": 437,
    "q": "In amenorrhea with P/V bleeding and abdominal pain, what is the first investigation for ectopic pregnancy?",
    "opts": [
-    "UPT, positive in about 99% because of beta-hCG",
-    "MCA Doppler",
-    "Indirect Coombs test",
-    "HSG"
+    "Urine pregnancy test, positive in about 99% because of beta-hCG",
+    "Middle cerebral artery Doppler velocimetry of the fetus",
+    "Indirect Coombs test performed on maternal serum",
+    "Hysterosalpingography to outline the uterine cavity"
    ],
    "ans": 0,
-   "exp": "The first step is UPT, positive in about 99% due to beta-hCG. (Book p437)"
+   "exp": "In amenorrhea with P/V bleeding and abdominal pain, the first investigation for ectopic pregnancy is a urine pregnancy test, positive in about 99% because of beta-hCG. (Book p437)"
   },
   {
    "id": "OBG-C10-173",
@@ -3030,13 +3030,13 @@
    "page": 437,
    "q": "What is the most common inconclusive TVS finding of ectopic pregnancy?",
    "opts": [
-    "Cervical T shape",
-    "Complex adnexal mass due to areas of hemorrhage",
-    "Intrauterine yolk sac",
-    "Buddha sign"
+    "A cervical T shape on the transvaginal scan",
+    "A complex adnexal mass from areas of haemorrhage",
+    "An intrauterine yolk sac seen within the cavity",
+    "The Buddha sign of a collapsed empty sac"
    ],
    "ans": 1,
-   "exp": "Complex adnexal mass from hemorrhage is the most common inconclusive finding. (Book p437)"
+   "exp": "The most common inconclusive TVS finding in ectopic pregnancy is a complex adnexal mass due to areas of hemorrhage. (Book p437)"
   },
   {
    "id": "OBG-C10-178",
@@ -3355,13 +3355,13 @@
    "page": 438,
    "q": "How does fetal cardiac activity affect medical ectopic treatment if ectopic size is below 3.5 cm?",
    "opts": [
-    "It is not an absolute contraindication, but failure risk is higher",
-    "It guarantees treatment success",
-    "It makes surgery impossible",
-    "It removes need for follow-up"
+    "Not an absolute contraindication, but the risk of failure is higher",
+    "It guarantees that medical treatment will be successful",
+    "It makes surgery impossible if medical treatment fails",
+    "It removes any need for follow-up after the treatment"
    ],
    "ans": 0,
-   "exp": "Cardiac activity is not an absolute contraindication if size <3.5 cm, but it raises failure rate. (Book p438)"
+   "exp": "With an ectopic under 3.5 cm, fetal cardiac activity is not an absolute contraindication to medical treatment, but the failure risk is higher. (Book p438)"
   },
   {
    "id": "OBG-C10-201",
@@ -3905,13 +3905,13 @@
    "page": 440,
    "q": "Which are Studdiford criteria for primary abdominal ectopic pregnancy?",
    "opts": [
-    "Sac in ampulla with yolk sac",
-    "No uteroperitoneal fistula, normal tubes/ovaries, and pregnancy attached to peritoneum",
-    "Open internal os and sac in endocervix",
-    "Sac in ovary with ovarian tissue"
+    "Gestational sac in the ampulla with a visible yolk sac",
+    "No uteroperitoneal fistula, normal tubes and ovaries, peritoneal attachment",
+    "An open internal os with the gestational sac lying in the endocervix",
+    "A gestational sac in the ovary with ovarian tissue in its wall"
    ],
    "ans": 1,
-   "exp": "Studdiford requires no uteroperitoneal fistula, normal tubes/ovaries, and peritoneal attachment. (Book p440)"
+   "exp": "Studdiford criteria for primary abdominal ectopic pregnancy are: no uteroperitoneal fistula, normal tubes and ovaries, and a pregnancy attached to the peritoneum. (Book p440)"
   },
   {
    "id": "OBG-C10-240",

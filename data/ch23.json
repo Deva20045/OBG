@@ -9,13 +9,13 @@
    "page": 563,
    "q": "Pfannenstiel incision is placed ______ and its features are ______.",
    "opts": [
-    "A finger-breadth above pubic symphysis (low transverse); cosmetically good, rectus muscle not cut",
-    "3 cm below the ASIS line; straight",
-    "Midline infra-umbilical; rectus divided",
-    "At the umbilicus; curved"
+    "A finger-breadth above the symphysis pubis; cosmetic, rectus muscle not cut",
+    "Three centimetres below the ASIS line; straight, rectus muscle divided",
+    "A finger-breadth above the symphysis pubis; poor cosmetic result, rectus cut",
+    "In the midline below the umbilicus; cosmetic, rectus muscle not cut"
    ],
    "ans": 0,
-   "exp": "Pfannenstiel: finger breadth above symphysis, cosmetic, rectus not cut. (Book p563)"
+   "exp": "The Pfannenstiel incision sits a finger breadth above the pubic symphysis (low transverse); it is cosmetically good and the rectus muscle is not cut. (Book p563)"
   },
   {
    "id": "OBG-C23-002",
@@ -220,13 +220,13 @@
    "page": 564,
    "q": "Ideal position for caesarean and timing of elective CS for non-medical reasons:",
    "opts": [
-    "Supine with 15° left lateral tilt or wedge under right hip; 39 weeks",
-    "Lithotomy; 37 weeks",
-    "Trendelenburg; 38 weeks",
-    "Right lateral tilt; 40 weeks"
+    "Supine with 15° left lateral tilt; elective caesarean at 39 weeks",
+    "Supine with 15° left lateral tilt; elective caesarean at 37 weeks",
+    "Lithotomy position with a pelvic wedge; elective caesarean at 39 weeks",
+    "Right lateral tilt with a wedge under the hip; elective caesarean at 40 weeks"
    ],
    "ans": 0,
-   "exp": "15° left tilt / wedge under right hip; elective CS at 39 weeks. (Book p564)"
+   "exp": "The ideal position for caesarean is supine with 15° left lateral tilt or a wedge under the right hip, and elective caesarean for non-medical reasons is timed at 39 weeks. (Book p564)"
   },
   {
    "id": "OBG-C23-017",
@@ -263,13 +263,13 @@
    "page": 565,
    "q": "Relative contraindications where repeat CS is preferred:",
    "opts": [
-    "Macrosomia, post-term pregnancy, malpresentation (breech)",
-    "Twins, polyhydramnios",
-    "Previous vaginal delivery",
-    "Maternal age >30"
+    "Macrosomia, post-term pregnancy, and malpresentation such as breech",
+    "Twin pregnancy, polyhydramnios, and a previous caesarean section",
+    "A previous vaginal delivery and a low transverse uterine scar",
+    "Maternal age above 30 and a short interdelivery interval"
    ],
    "ans": 0,
-   "exp": "Relative: macrosomia, post-term, breech. Twins and polyhydramnios are NOT contraindications. (Book p565)"
+   "exp": "Relative contraindications where repeat caesarean is preferred are macrosomia, post-term pregnancy and malpresentation such as breech. (Book p565)"
   },
   {
    "id": "OBG-C23-020",
@@ -320,13 +320,13 @@
    "page": 566,
    "q": "Induction of labour in a previous C-section is done by:",
    "opts": [
-    "Mechanical method for cervical ripening followed by oxytocin",
-    "Misoprostol 25 mcg",
-    "Dinoprostone gel",
-    "Not possible – always CS"
+    "Mechanical cervical ripening followed by oxytocin; prostaglandins avoided",
+    "Misoprostol 25 micrograms vaginally for ripening; oxytocin is avoided",
+    "Dinoprostone gel for cervical ripening; mechanical methods are avoided",
+    "Induction is never attempted, so elective caesarean is always performed"
    ],
    "ans": 0,
-   "exp": "IOL possible: mechanical ripening → oxytocin (PGs avoided). (Book p566)"
+   "exp": "Induction of labour in a previous C-section is done by a mechanical method for cervical ripening followed by oxytocin; prostaglandins are avoided. (Book p566)"
   },
   {
    "id": "OBG-C23-024",

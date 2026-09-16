@@ -51,13 +51,13 @@
    "page": 528,
    "q": "Match the 4 Ts with the m/c examples – Tone : Trauma : Thrombin : Tissue.",
    "opts": [
-    "Atonic uterus (m/c overall & m/c 1° PPH) : perineal/cervical tear, hematoma, rupture : bleeding disorders : retained placental tissue (m/c 2° PPH)",
-    "Retained tissue : atonic uterus : tears : bleeding disorders",
-    "Bleeding disorders : retained tissue : atony : trauma",
-    "Trauma : atony : tissue : thrombin"
+    "Atonic uterus : perineal tear or rupture : bleeding disorders : retained placental tissue",
+    "Retained placental tissue : atonic uterus : perineal tear or rupture : bleeding disorders",
+    "Bleeding disorders : retained placental tissue : atonic uterus : perineal tear or rupture",
+    "Perineal tear or rupture : bleeding disorders : atonic uterus : retained placental tissue"
    ],
    "ans": 0,
-   "exp": "Tone – atonic uterus (m/c overall, m/c primary); Trauma – tears/hematoma/rupture; Thrombin – bleeding disorders; Tissue – retained placenta (m/c secondary). (Book p528)"
+   "exp": "The 4 Ts: Tone – atonic uterus (commonest overall and commonest primary PPH); Trauma – perineal or cervical tear, hematoma, rupture; Thrombin – bleeding disorders; Tissue – retained placental tissue (commonest secondary PPH). (Book p528)"
   },
   {
    "id": "OBG-C20-005",
@@ -320,13 +320,13 @@
    "page": 530,
    "q": "Mechanism, half-life and kinetics of IM oxytocin:",
    "opts": [
-    "↑ intracellular calcium and ↑ PGF2α from decidua; t½ 3–5 min; onset 3 min; duration 1 h; causes after-pains and milk ejection",
-    "↓ calcium; t½ 40 min; onset 10 min; duration 3 h",
-    "cAMP rise; t½ 1 h; onset 1 min; duration 30 min",
-    "Blocks progesterone; t½ 20 min; onset 5 min; duration 2 h"
+    "Raises intracellular calcium and decidual PGF2α; t½ 3-5 min; onset 3 min",
+    "Lowers intracellular calcium; t½ 40 min; onset 10 min",
+    "Raises cyclic AMP in the myometrium; t½ 1 h; onset 1 min",
+    "Blocks progesterone receptors; t½ 20 min; onset 5 min"
    ],
    "ans": 0,
-   "exp": "↑ intracellular Ca2+, ↑ PGF2α release; t½ 3–5 min; IM onset 3 min, duration 1 h; after-pains and milk ejection. (Book p530)"
+   "exp": "IM oxytocin raises intracellular calcium and decidual PGF2α; half-life 3-5 minutes, onset 3 minutes, duration 1 hour, and it causes after-pains and milk ejection. (Book p530)"
   },
   {
    "id": "OBG-C20-024",
@@ -419,13 +419,13 @@
    "page": 531,
    "q": "Carboprost (Hemabate) – class, status and dose:",
    "opts": [
-    "PGF2α; gold standard for PPH management; 250 mcg IM every 15–40 min, max 8 doses (2 mg); S/E diarrhoea",
-    "PGE2; first line; 500 mcg IV; S/E fever",
-    "PGE1; second line; 1 mg IM; S/E hypertension",
-    "PGI2; adjunct; 100 mcg SC"
+    "PGF2α; gold standard for PPH; 250 mcg IM every 15-40 min, max 8 doses; diarrhoea",
+    "PGE2; first-line alternative; 500 mcg by slow IV injection; pyrexia",
+    "PGE1; second-line agent; 1 mg IM repeated four-hourly; hypertension",
+    "PGI2; adjunct only; 100 mcg subcutaneously six-hourly; flushing"
    ],
    "ans": 0,
-   "exp": "Carboprost PGF2α – gold standard; 250 mcg IM q15–40 min, max 8 doses; S/E diarrhoea. (Book p531)"
+   "exp": "Carboprost (Hemabate) is PGF2α, the gold standard for PPH management, given as 250 mcg IM every 15-40 minutes to a maximum of 8 doses (2 mg); diarrhoea is the classic side effect. (Book p531)"
   },
   {
    "id": "OBG-C20-031",
@@ -518,13 +518,13 @@
    "page": 532,
    "q": "Compression sutures for PPH include (m/c first):",
    "opts": [
-    "B-Lynch/Brace (m/c), Hayman, Cho square, Pereira, Gunshella",
-    "McDonald, Shirodkar, Wurm",
-    "O'Leary, Burch, Kelly",
-    "Halsted, Lembert, Connell"
+    "B-Lynch or Brace, then Hayman, Cho square, Pereira, Gunshella",
+    "McDonald, then Shirodkar, then the Wurm modification",
+    "O'Leary, then the Burch procedure, then Kelly plication",
+    "Halsted stitch, then the Lembert stitch, then the Connell stitch"
    ],
    "ans": 0,
-   "exp": "B-Lynch (m/c), Hayman, Cho square, Pereira, Gunshella sutures. (Book p532)"
+   "exp": "Compression sutures for PPH are B-Lynch or Brace (commonest first), then Hayman, the Cho square sutures, Pereira and Gunshella. (Book p532)"
   },
   {
    "id": "OBG-C20-038",
@@ -731,13 +731,13 @@
    "page": 535,
    "q": "Match PAS types by depth of chorionic villi – Accreta : Increta : Percreta.",
    "opts": [
-    "Superficially attached to myometrium (m/c) : invade into myometrium : attached to/through serosa",
-    "Into myometrium : to serosa : superficial",
-    "To serosa : superficial : into myometrium",
-    "Into endometrium : into serosa : into bladder"
+    "Accreta attached to myometrium; increta into myometrium; percreta to or through serosa",
+    "Accreta invades the myometrium; increta reaches the serosa; percreta is superficial",
+    "Accreta reaches the serosa; increta is superficial; percreta invades myometrium",
+    "Accreta into endometrium; increta to serosa; percreta into the bladder"
    ],
    "ans": 0,
-   "exp": "Accreta (m/c) superficial attachment; increta invades myometrium; percreta reaches serosa. (Book p535)"
+   "exp": "By depth of chorionic villi: accreta is superficially attached to the myometrium (commonest), increta invades into the myometrium, and percreta is attached to or through the serosa. (Book p535)"
   },
   {
    "id": "OBG-C20-053",
@@ -816,13 +816,13 @@
    "page": 536,
    "q": "Classification by extent – 1st : 2nd : 3rd : 4th degree.",
    "opts": [
-    "Fundus into cavity not beyond os : fundus reaches os level, not protruding : fundus protrudes out of introitus : complete inversion of uterus and vagina",
-    "Fundus at os : fundus in vagina : fundus at introitus : vagina everted",
-    "Dimple in fundus : fundus at os : fundus in vagina : fundus outside",
-    "Fundus in vagina : at introitus : outside : with bladder"
+    "Fundus into the cavity not beyond the os : fundus at the os : fundus outside the introitus : complete inversion",
+    "Dimple in the fundus : fundus at the os : fundus in the vagina : fundus outside",
+    "Fundus at the os : fundus in the vagina : fundus at the introitus : vagina everted",
+    "Fundus in the vagina : at the introitus : outside : with the bladder drawn in"
    ],
    "ans": 0,
-   "exp": "1° within cavity; 2° reaches os; 3° protrudes out of introitus; 4° complete inversion of uterus and vagina. (Book p536)"
+   "exp": "By extent, inversion is graded: 1st the fundus dips into the cavity but not beyond the os; 2nd it reaches the os without protruding; 3rd it protrudes out of the introitus; 4th there is complete inversion of uterus and vagina. (Book p536)"
   },
   {
    "id": "OBG-C20-059",
@@ -873,13 +873,13 @@
    "page": 537,
    "q": "First steps in managing acute uterine inversion:",
    "opts": [
-    "Call for help + resuscitate → stop uterotonics (oxytocin) → manual replacement (Johnson's method)",
-    "Give oxytocin bolus → remove placenta → replace",
-    "Hysterectomy immediately",
-    "Pack vagina and wait"
+    "Call for help and resuscitate, stop uterotonics, then manual replacement",
+    "Give an oxytocin bolus, remove the placenta, then replace the uterus",
+    "Proceed to immediate hysterectomy through an abdominal incision",
+    "Pack the vagina firmly and wait for the uterus to contract"
    ],
    "ans": 0,
-   "exp": "Call for help, resuscitate, stop oxytocin, then Johnson's manual replacement. (Book p537)"
+   "exp": "The first steps in acute uterine inversion are to call for help and resuscitate, stop uterotonics such as oxytocin, then replace the uterus manually (Johnson's method). (Book p537)"
   },
   {
    "id": "OBG-C20-063",
@@ -887,13 +887,13 @@
    "page": 537,
    "q": "Principles of Johnson's method:",
    "opts": [
-    "The part that prolapsed first is repositioned last; do NOT separate the placenta (↑ hemorrhage)",
-    "Remove placenta first, then replace fundus",
-    "Push the cervix first",
-    "Apply traction to the cord"
+    "Reposition last what prolapsed first; do not separate the placenta",
+    "Remove the placenta first, then replace the fundus into the pelvis",
+    "Push the cervix upwards first, then replace the uterine fundus",
+    "Apply steady traction to the cord until the uterus is fully delivered"
    ],
    "ans": 0,
-   "exp": "First part to prolapse → last to be reposited; placenta not separated to avoid hemorrhage. (Book p537)"
+   "exp": "Johnson's method: the part that prolapsed first is repositioned last, and the placenta is not separated, since separation increases haemorrhage. (Book p537)"
   },
   {
    "id": "OBG-C20-064",

@@ -37,13 +37,13 @@
    "page": 499,
    "q": "The characteristic EVENT of the latent phase is ______ while the active phase involves ______.",
    "opts": [
-    "Effacement + dilatation of cervix; dilatation of cervix + partial descent of fetal head",
-    "Descent of head; effacement only",
-    "Rupture of membranes; full descent",
-    "Show; crowning"
+    "Effacement with slow dilatation; then rapid dilatation with descent",
+    "Descent with slow dilatation; then effacement with no further change",
+    "Rapid dilatation with descent; then effacement with slow progress",
+    "Effacement only, no dilatation; then descent with slow cervical change"
    ],
    "ans": 0,
-   "exp": "Latent phase = effacement + dilatation; active phase = dilatation + partial descent of fetal head. (Book p499)"
+   "exp": "The latent phase is the event of effacement with slow dilatation; the active phase is rapid dilatation with partial descent of the fetal head. (Book p499)"
   },
   {
    "id": "OBG-C17-004",
@@ -179,13 +179,13 @@
    "page": 500,
    "q": "Old vs new WHO recommendation on cervical dilatation:",
    "opts": [
-    "Old: minimum 1 cm/hr (basis of action line); New: <1 cm/hr can be normal and alert/action lines removed in Labour Care Guide",
-    "Old: 2 cm/hr; New: 1 cm/hr with alert line retained",
-    "Old: <1 cm/hr normal; New: 1 cm/hr minimum",
-    "Both: 1.5 cm/hr minimum"
+    "Old: at least 1 cm/hr, the basis of the action line; New: under 1 cm/hr can be normal",
+    "Old: at least 2 cm/hr, the basis of the action line; New: under 1 cm/hr can be normal",
+    "Old: at least 1 cm/hr, the basis of the action line; New: alert and action lines retained",
+    "Old: under 1 cm/hr was normal; New: at least 1 cm/hr with the alert line retained"
    ],
    "ans": 0,
-   "exp": "Old WHO: minimum 1 cm/hr (basis of action line). New WHO: dilatation <1 cm/hr → normal; alert and action lines removed in Labour Care Guide. (Book p500)"
+   "exp": "The old WHO recommendation was a minimum of 1 cm/hr, the basis of the action line; the new guidance accepts that under 1 cm/hr can be normal and removes the alert and action lines from the Labour Care Guide. (Book p500)"
   },
   {
    "id": "OBG-C17-014",
@@ -193,13 +193,13 @@
    "page": 500,
    "q": "Protracted active phase is defined as cervical dilatation ______ OR descent of head ______.",
    "opts": [
-    "<1 cm/hr; <1 cm/hr in primigravida or <2 cm/hr in multigravida",
-    "<2 cm/hr; <1 cm/hr in both",
-    "<1.2 cm/hr; <0.5 cm/hr",
-    "Nil for 2 hrs; nil for 1 hr"
+    "Under 1 cm/hr dilatation; descent under 1 cm/hr in primigravida or 2 cm/hr in multipara",
+    "Under 2 cm/hr dilatation; descent under 1 cm/hr in both primigravida and multipara",
+    "Under 1 cm/hr dilatation; descent under 2 cm/hr in primigravida or 1 cm/hr in multipara",
+    "No progress in dilatation for 2 hours; no descent of the head for 1 hour"
    ],
    "ans": 0,
-   "exp": "Protracted active phase: dilatation <1 cm/hr (slow progress) OR descent <1 cm/hr (primi) / <2 cm/hr (multi). (Book p500)"
+   "exp": "Protracted active phase is cervical dilatation under 1 cm/hr, or descent of the head under 1 cm/hr in a primigravida or under 2 cm/hr in a multigravida. (Book p500)"
   },
   {
    "id": "OBG-C17-015",
@@ -235,13 +235,13 @@
    "page": 500,
    "q": "Sequence of augmentation – head engaged : head not engaged.",
    "opts": [
-    "ARM → 30 mins → oxytocin : oxytocin followed by ARM (↑ risk of cord prolapse)",
-    "Oxytocin → ARM : ARM → oxytocin",
-    "ARM only : oxytocin only",
-    "Both: simultaneous ARM + oxytocin"
+    "Head engaged: ARM, wait 30 minutes, then oxytocin; not engaged: oxytocin then ARM",
+    "Head engaged: oxytocin, wait 30 minutes, then ARM; not engaged: ARM then oxytocin",
+    "Head engaged: ARM alone, no oxytocin; not engaged: oxytocin alone, no ARM",
+    "Both engaged and not engaged: simultaneous ARM and oxytocin together"
    ],
    "ans": 0,
-   "exp": "Head engaged: ARM, then oxytocin after 30 min. Head not engaged: oxytocin first then ARM, because early ARM risks cord prolapse. (Book p500)"
+   "exp": "With the head engaged, augment by ARM, wait 30 minutes, then oxytocin; with the head not engaged, give oxytocin followed by ARM, since ARM first raises the risk of cord prolapse. (Book p500)"
   },
   {
    "id": "OBG-C17-018",
@@ -532,13 +532,13 @@
    "page": 503,
    "q": "Bandl's ring on P/A examination is the ______ between the ______ upper segment and the ______ lower segment.",
    "opts": [
-    "Groove; retracted (tonically contracted); distended (passively dilated)",
-    "Bulge; relaxed; contracted",
-    "Groove; distended; retracted",
-    "Ridge; atonic; hypertonic"
+    "Groove; tonically contracted upper segment; passively distended lower segment",
+    "Groove; passively distended upper segment; tonically contracted lower segment",
+    "Bulge; relaxed and atonic upper segment; tonically contracted lower segment",
+    "Ridge; tonically contracted upper segment; hypertonic non-distended lower"
    ],
    "ans": 0,
-   "exp": "Bandl's ring = groove between the tonically contracted (retracted) upper segment and the passively dilated (distended) lower segment. (Book p503)"
+   "exp": "Bandl's ring is the groove between the retracted (tonically contracted) upper segment and the distended (passively dilated) lower segment. (Book p503)"
   },
   {
    "id": "OBG-C17-039",
@@ -560,13 +560,13 @@
    "page": 503,
    "q": "Management of obstructed labour and what must be AVOIDED:",
    "opts": [
-    "Immediate C-section + maternal resuscitation; avoid waiting, oxytocin and instrumental delivery",
-    "Oxytocin augmentation; avoid C-section",
-    "Forceps delivery; avoid waiting",
-    "Wait for spontaneous delivery; avoid oxytocin"
+    "Immediate caesarean with resuscitation; avoid waiting, oxytocin and instruments",
+    "Oxytocin augmentation to overcome the obstruction; avoid caesarean",
+    "Forceps delivery once fully dilated; avoid any further waiting",
+    "Wait for spontaneous delivery; avoid oxytocin in the meantime"
    ],
    "ans": 0,
-   "exp": "Immediate C-section with resuscitation; avoid waiting (↑ rupture risk), oxytocin and instrumental delivery. (Book p503)"
+   "exp": "Obstructed labour is managed by immediate caesarean section with maternal resuscitation; waiting, oxytocin and instrumental delivery must all be avoided. (Book p503)"
   },
   {
    "id": "OBG-C17-041",
@@ -603,13 +603,13 @@
    "page": 504,
    "q": "Match the cause – Bandl's ring : Schroeder's ring.",
    "opts": [
-    "Obstructed labour : spasm of a uterine segment due to inadvertent oxytocin use",
-    "Oxytocin overdose : obstructed labour",
-    "Prolonged latent phase : CPD",
-    "Uterine rupture : placenta accreta"
+    "Bandl's: obstructed labour; Schroeder's: segment spasm from oxytocin",
+    "Bandl's: oxytocin overdose; Schroeder's: obstructed labour",
+    "Bandl's: prolonged latent phase; Schroeder's: cephalopelvic disproportion",
+    "Bandl's: uterine rupture; Schroeder's: placenta accreta spectrum"
    ],
    "ans": 0,
-   "exp": "Bandl's ring results from obstructed labour; Schroeder's ring from spasm due to inadvertent oxytocin use. (Book p504)"
+   "exp": "Bandl's ring is caused by obstructed labour; Schroeder's ring is a spasm of a uterine segment due to inadvertent oxytocin use. (Book p504)"
   },
   {
    "id": "OBG-C17-044",
@@ -645,13 +645,13 @@
    "page": 504,
    "q": "Relief of Schroeder's ring is by ______, and if C-section is needed the incision is ______.",
    "opts": [
-    "Stopping oxytocin and uterine relaxants (terbutaline), C-section if no relaxation; vertical (Kronig's) / lower vertical incision",
-    "Oxytocin increase; lower segment transverse incision",
-    "Manual dilatation; classical fundal incision",
-    "Amnioinfusion; Pfannenstiel"
+    "Stopping oxytocin and giving uterine relaxants; a vertical (Kronig) lower-segment incision",
+    "Continuing oxytocin to overcome the ring; a vertical (Kronig) lower-segment incision",
+    "Stopping oxytocin and giving uterine relaxants; a transverse lower-segment incision",
+    "Manual dilatation of the constriction ring; a classical upper-segment fundal incision"
    ],
    "ans": 0,
-   "exp": "Schroeder's: cease oxytocin, terbutaline; C-section if no relaxation via vertical Kronig's / lower vertical incision. Bandl's ring is relieved by C-section. (Book p504)"
+   "exp": "Schroeder's ring is relieved by stopping oxytocin and giving uterine relaxants such as terbutaline; if caesarean is needed the incision is a vertical (Kronig) lower vertical incision. (Book p504)"
   },
   {
    "id": "OBG-C17-047",

@@ -362,13 +362,13 @@
    "page": 492,
    "q": "The most common cause of a free-floating head (no descent at term) in a primigravida is:",
    "opts": [
-    "Deflexed head (due to increased diameter)",
-    "Placenta previa",
-    "Contracted pelvis",
-    "Polyhydramnios"
+    "A deflexed head, which increases the presenting diameter",
+    "Placenta previa occupying the lower uterine segment",
+    "A contracted pelvis with a reduced obstetric conjugate",
+    "Polyhydramnios that prevents engagement of the presenting part"
    ],
    "ans": 0,
-   "exp": "M/c cause of free floating head at term in primigravida is a deflexed head (↑ diameter). (Book p492)"
+   "exp": "The commonest cause of a free-floating head at term in a primigravida is a deflexed head, which increases the presenting diameter. (Book p492)"
   },
   {
    "id": "OBG-C16-027",
@@ -955,13 +955,13 @@
    "page": 497,
    "q": "Third Leopold manoeuvre (Pawlik grip) – ballotable head means ______ and non-ballotable means ______; it infers presentation and ______.",
    "opts": [
-    "Not fixed; fixed; fixation (descent of head into pelvis)",
-    "Fixed; not fixed; attitude",
-    "Engaged; floating; lie",
-    "Deflexed; flexed; position"
+    "Not fixed; fixed; it infers fixation and descent of the head",
+    "Fixed; not fixed; it infers the attitude of the head",
+    "Engaged; floating; it infers the lie of the fetus in utero",
+    "Deflexed; flexed; it infers the position of the fetal head"
    ],
    "ans": 0,
-   "exp": "Pawlik grip: ballotable = not fixed, non-ballotable = fixed; interpretation = presentation and fixation. (Book p497)"
+   "exp": "In the Pawlik grip, a ballotable head means it is not fixed and a non-ballotable head means it is fixed; the grip infers fixation, that is descent of the head into the pelvis. (Book p497)"
   },
   {
    "id": "OBG-C16-069",

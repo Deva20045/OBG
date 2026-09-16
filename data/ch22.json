@@ -23,13 +23,13 @@
    "page": 550,
    "q": "M/c cause of breech overall and of recurrent breech:",
    "opts": [
-    "Prematurity (spontaneous rotation not yet occurred); uterine malformation",
-    "Placenta previa; fibroid",
-    "Oligohydramnios; twins",
-    "Macrosomia; contracted pelvis"
+    "Prematurity, since spontaneous rotation has not yet occurred; uterine malformation",
+    "Uterine malformation; prematurity, since spontaneous rotation has not yet occurred",
+    "Placenta previa preventing engagement; uterine fibroids distorting the cavity",
+    "Oligohydramnios limiting movement; multiple pregnancy crowding the cavity"
    ],
    "ans": 0,
-   "exp": "Overall prematurity; recurrent breech – uterine malformation. (Book p550)"
+   "exp": "The commonest cause of breech overall is prematurity (spontaneous rotation has not yet occurred) and of recurrent breech is uterine malformation. (Book p550)"
   },
   {
    "id": "OBG-C22-003",
@@ -65,13 +65,13 @@
    "page": 550,
    "q": "Occurrence – complete breech : frank breech.",
    "opts": [
-    "Least common breech overall, m/c in multigravida : m/c overall and in primigravida",
-    "M/c overall : least common",
-    "M/c in primigravida : m/c in multigravida",
-    "Equal frequency"
+    "Least common breech overall, commonest in multigravida : commonest overall and in primigravida",
+    "Commonest breech overall : the least common breech variety",
+    "Commonest in primigravida : commonest in multigravida",
+    "Both occur with equal frequency in all parities"
    ],
    "ans": 0,
-   "exp": "Complete: least common overall, m/c in multigravida; frank: m/c overall and in primigravida. (Book p550)"
+   "exp": "Complete breech is the least common breech overall and the commonest in multigravida; frank breech is the commonest overall and in primigravida. (Book p550)"
   },
   {
    "id": "OBG-C22-006",
@@ -249,13 +249,13 @@
    "page": 552,
    "q": "Prerequisites for assisted breech delivery:",
    "opts": [
-    "Centre with emergency C-section facilities, senior supervision, baby <4 kg, nil oral with IV fluids, continuous CTG",
-    "Home delivery permissible, baby any weight",
-    "Oral feeds allowed, intermittent auscultation",
-    "Junior doctor alone, no IV access"
+    "Emergency C-section facility, senior supervision, baby under 4 kg, IV fluids, CTG",
+    "Emergency C-section facility, senior supervision, baby up to 4.5 kg, oral fluids",
+    "Emergency C-section facility, registrar alone, baby under 4 kg, intermittent CTG",
+    "Emergency C-section facility, senior supervision, baby under 4 kg, no CTG needed"
    ],
    "ans": 0,
-   "exp": "Emergency CS facility, senior doctor, weight <4 kg, NPO + IV fluids, continuous CTG. (Book p552)"
+   "exp": "Assisted breech delivery requires a centre with emergency C-section facilities, senior supervision, an estimated fetal weight under 4 kg, nil by mouth with IV fluids, and continuous CTG monitoring. (Book p552)"
   },
   {
    "id": "OBG-C22-019",
@@ -547,13 +547,13 @@
    "page": 556,
    "q": "Breech extraction is indicated in:",
    "opts": [
-    "Twin pregnancy with 1st twin cephalic and 2nd twin transverse lie",
-    "Singleton frank breech at term",
-    "Footling breech in primigravida",
-    "Preterm breech"
+    "Twin pregnancy with the 1st twin cephalic and the 2nd in transverse lie",
+    "Singleton frank breech presenting at term in a primigravida",
+    "A footling breech in a primigravida at term, before labour",
+    "A preterm breech presenting before 34 completed weeks of gestation"
    ],
    "ans": 0,
-   "exp": "Indication: 2nd twin in transverse lie after vaginal delivery of cephalic 1st twin. (Book p556)"
+   "exp": "Breech extraction is indicated in twin pregnancy with the first twin cephalic and the second twin in transverse lie. (Book p556)"
   },
   {
    "id": "OBG-C22-040",
@@ -604,13 +604,13 @@
    "page": 557,
    "q": "Prerequisites mnemonic FORCEPS – expand it:",
    "opts": [
-    "Fully dilated os; Occiput/favourable position; Rotated head + Ruptured membranes; Consent + Contracting uterus; Episiotomy + Engaged head + Empty bladder; Pelvis adequate; CPD absent",
-    "Fetus alive; Oxytocin; Rotate; Cut; Extract; Pull; Suture",
-    "Forceps; Obstetrician; Room; Consent; Epidural; Pelvis; Scissors",
-    "Full term; Occiput anterior; Rupture; Catheter; Episiotomy; Push; Stitch"
+    "Fully dilated os; Occiput/favourable position; Rotated head and Ruptured membranes; Consent and Contractions; Episiotomy, Engaged, Empty bladder; Pelvis adequate; CPD absent",
+    "Forceps blades ready; Obstetrician experienced; Room prepared; Consent obtained; Epidural sited; Pelvis assessed; Scissors available",
+    "Full term gestation; Occiput anterior; Rupture the membranes; Catheterise the bladder; Episiotomy cut; Push with pains; Stitch the perineum",
+    "Fetal heart checked; Oxygen running; Rotate the head fully; Cut an episiotomy; Extract the head; Pull steadily; Suture the tear afterwards"
    ],
    "ans": 0,
-   "exp": "F full dilatation, O favourable position, R rotated head/ruptured membranes, C consent/contracting uterus, E episiotomy/engaged/empty bladder, P pelvis adequate, S (CPD) absent. (Book p557)"
+   "exp": "FORCEPS expands as: Fully dilated os; Occiput/favourable position; Rotated head + Ruptured membranes; Consent + Contracting uterus; Episiotomy + Engaged head + Empty bladder; Pelvis adequate; CPD absent. (Book p557)"
   },
   {
    "id": "OBG-C22-044",
@@ -618,13 +618,13 @@
    "page": 557,
    "q": "Favourable position for instrumental delivery:",
    "opts": [
-    "Sagittal suture in AP diameter with maximum rotation of 45° (DOA/DOP/ROA/LOA) and station ≥ +2",
-    "Any occipito-transverse position",
-    "Sagittal suture transverse at station 0",
-    "Occiput at 90° rotation"
+    "Sagittal suture anteroposterior, rotation up to 45°, station at least +2",
+    "Sagittal suture anteroposterior, rotation up to 45°, station above +2",
+    "Any occipito-transverse position, rotation up to 45°, station at +2",
+    "Sagittal suture transverse, rotation up to 45°, station at least +2"
    ],
    "ans": 0,
-   "exp": "Sagittal suture AP, ≤45° rotation (DOA, DOP, ROA, LOA), station ≥ +2. (Book p557)"
+   "exp": "A favourable position for instrumental delivery is the sagittal suture in the anteroposterior diameter with rotation of at most 45° (DOA, DOP, ROA, LOA) and station +2 or more. (Book p557)"
   },
   {
    "id": "OBG-C22-045",
@@ -831,12 +831,12 @@
    "q": "Wrigley forceps:",
    "opts": [
     "Outlet forceps; short and light; total length 27.5 cm, shank 2.5 cm",
-    "Long rotational forceps",
-    "Forceps for after-coming head",
-    "Solid-blade forceps"
+    "Long rotational forceps; total length 35 cm, sliding lock",
+    "Forceps for the aftercoming head; total length 27.5 cm",
+    "Solid-bladed forceps; short and light, shank 2.5 cm"
    ],
    "ans": 0,
-   "exp": "Wrigley: outlet, short, light, 27.5 cm total, 2.5 cm shank. (Book p560)"
+   "exp": "Wrigley forceps are outlet forceps, short and light, with a total length of 27.5 cm and a shank of 2.5 cm. (Book p560)"
   },
   {
    "id": "OBG-C22-060",
@@ -844,13 +844,13 @@
    "page": 560,
    "q": "Kielland forceps:",
    "opts": [
-    "Long, the only forceps that can rotate the fetal head (rotation forceps), sliding lock; outdated",
-    "Short outlet forceps with English lock",
-    "Longest forceps for breech head",
-    "Solid-blade forceps"
+    "Long, the only forceps that can rotate the head, with a sliding lock; outdated",
+    "Short outlet forceps with a fixed English lock and no rotation; still used",
+    "Longest forceps designed for the aftercoming head in breech; still used",
+    "Solid-bladed forceps with a fixed English lock and no rotation; outdated"
    ],
    "ans": 0,
-   "exp": "Kielland: long, rotational, sliding lock, outdated. (Book p560)"
+   "exp": "Kielland forceps are long, are the only forceps that can rotate the fetal head (rotation forceps), have a sliding lock, and are now largely outdated. (Book p560)"
   },
   {
    "id": "OBG-C22-061",
@@ -915,13 +915,13 @@
    "page": 561,
    "q": "Direction of pull – ideal position and basis; low forceps pulls : outlet forceps pulls.",
    "opts": [
-    "Lithotomy, based on maternal abdomen; low: downward+backward → downward → downward+forward : outlet: downward → downward+forward",
-    "Supine; low: upward → forward : outlet: backward",
-    "Left lateral; low: forward only : outlet: downward only",
-    "Squatting; both upward"
+    "Low forceps: downward and backward, then downward, then downward and forward",
+    "Outlet forceps in lithotomy: downward, then downward and forward",
+    "Low forceps in the supine position: upward, then forward throughout",
+    "Outlet forceps in left lateral position: forward only throughout the pull"
    ],
    "ans": 0,
-   "exp": "Lithotomy; directions relative to maternal abdomen. Low: down+back, down, down+forward. Outlet: down, down+forward. (Book p561)"
+   "exp": "Pull is directed in lithotomy with the operator's hand on the maternal abdomen; low forceps pull downward and backward, then downward, then downward and forward, while outlet forceps pull downward then downward and forward. (Book p561)"
   },
   {
    "id": "OBG-C22-066",
@@ -929,13 +929,13 @@
    "page": 561,
    "q": "Prior to forceps delivery:",
    "opts": [
-    "Consent, adequate analgesia (epidural/pudendal block), episiotomy",
-    "General anaesthesia mandatory",
-    "Oxytocin bolus",
-    "Catheter left in situ"
+    "Consent, adequate analgesia by epidural or pudendal block, and episiotomy",
+    "General anaesthesia, which is mandatory for all forceps deliveries",
+    "An oxytocin bolus given immediately before the blades are applied",
+    "A urinary catheter left in situ throughout the whole procedure"
    ],
    "ans": 0,
-   "exp": "Consent, epidural/pudendal analgesia, episiotomy. (Book p561)"
+   "exp": "Prior to forceps delivery one must obtain consent, give adequate analgesia (epidural or pudendal block) and perform an episiotomy. (Book p561)"
   },
   {
    "id": "OBG-C22-067",

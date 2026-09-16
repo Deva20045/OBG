@@ -467,13 +467,13 @@
    "page": 418,
    "q": "How is spontaneous abortion subdivided in the source flowchart?",
    "opts": [
-    "Only surgical or medical",
-    "Only complete or incomplete",
-    "Only antepartum or postpartum",
-    "Isolated single episode or recurrent with at least 3 abortions"
+    "Only into surgical and medical management",
+    "Only into complete and incomplete varieties",
+    "Only into antepartum and postpartum losses",
+    "Isolated single episode, or recurrent with at least 3 abortions"
    ],
    "ans": 3,
-   "exp": "Spontaneous abortion may be isolated (single episode) or recurrent (at least 3 abortions). (Book p418)"
+   "exp": "In the source flowchart spontaneous abortion is subdivided into an isolated single episode and recurrent abortion with at least 3 abortions. (Book p418)"
   },
   {
    "id": "OBG-C9-006",
@@ -848,13 +848,13 @@
    "page": 419,
    "q": "What is the most common chromosomal abnormality in recurrent abortion?",
    "opts": [
-    "Turner syndrome",
-    "Triploidy",
+    "Turner syndrome (45,X monosomy)",
+    "Triploidy with a 69,XXX karyotype",
     "Balanced chromosomal translocation",
-    "Trisomy 16"
+    "Trisomy 16 with a full autosomal trisomy"
    ],
    "ans": 2,
-   "exp": "Balanced translocation is the most common chromosomal abnormality in recurrent loss. (Book p419)"
+   "exp": "The most common chromosomal abnormality in recurrent abortion is a balanced chromosomal translocation. (Book p419)"
   },
   {
    "id": "OBG-C9-033",
@@ -919,13 +919,13 @@
    "page": 419,
    "q": "Which two etiologic tests are routinely included after recurrent losses in the source plan?",
    "opts": [
-    "Bile acids and HbA1c",
-    "DIPSI and fetal echo",
+    "Serum bile acids and HbA1c estimation",
+    "DIPSI testing and fetal echocardiography",
     "APLA antibody testing and parental karyotyping",
-    "TORCH and VDRL"
+    "TORCH screening and VDRL serology"
    ],
    "ans": 2,
-   "exp": "APLA antibody testing and parental karyotyping are included after two losses. (Book p419)"
+   "exp": "After recurrent losses the source plan routinely includes the etiologic tests APLA antibody testing and parental karyotyping. (Book p419)"
   },
   {
    "id": "OBG-C9-038",
@@ -1188,13 +1188,13 @@
    "page": 420,
    "q": "What physical finding is the basis for emergency cervical cerclage?",
    "opts": [
-    "Fetal macrosomia",
-    "Pregnant woman under 24 weeks with a dilated cervix",
-    "Closed cervix at 39 weeks",
-    "Only a positive ICT"
+    "Ultrasound evidence of fetal macrosomia before term",
+    "A pregnant woman under 24 weeks with a dilated cervix",
+    "A closed cervix at 39 weeks with a normal lie",
+    "Only a positive indirect Coombs test result"
    ],
    "ans": 1,
-   "exp": "Emergency cerclage is physical-examination based: under 24 weeks with a dilated cervix. (Book p420)"
+   "exp": "Emergency cervical cerclage is based on a pregnant woman under 24 weeks with a dilated cervix. (Book p420)"
   },
   {
    "id": "OBG-C9-057",
@@ -1244,13 +1244,13 @@
    "page": 420,
    "q": "Which history is an indication for progesterone in the source plan?",
    "opts": [
-    "Only molar pregnancy",
-    "Any painless second-trimester abortion or preterm labor history",
-    "Only normal term delivery",
-    "Only Rh-negative pregnancy"
+    "Only a previous molar pregnancy, to prevent trophoblastic disease",
+    "A history of painless second-trimester abortion or of preterm labour",
+    "Only a previous normal term delivery, to shorten the latent phase",
+    "Only an Rh-negative pregnancy, to prevent maternal sensitisation"
    ],
    "ans": 1,
-   "exp": "Progesterone is indicated with a history of painless T2 abortion or preterm labor. (Book p420)"
+   "exp": "In the source plan progesterone is used in a woman with a history of painless second-trimester abortion or preterm labour. (Book p420)"
   },
   {
    "id": "OBG-C9-061",
@@ -1300,13 +1300,13 @@
    "page": 421,
    "q": "After one prior painless T2 loss/early PTL, what is used if cervical length at 14 weeks is below 2.5 cm?",
    "opts": [
-    "Cerclage plus progesterone",
-    "Aspirin only",
-    "No treatment",
-    "Methotrexate"
+    "Cerclage plus progesterone support",
+    "Low-dose aspirin on its own",
+    "No treatment is given at all",
+    "Methotrexate to end the pregnancy"
    ],
    "ans": 0,
-   "exp": "A short cervix <2.5 cm leads to cerclage plus progesterone. (Book p421)"
+   "exp": "After one prior painless second-trimester loss or early preterm labour, a cervical length under 2.5 cm at 14 weeks is managed with cerclage plus progesterone. (Book p421)"
   },
   {
    "id": "OBG-C9-065",
@@ -1583,13 +1583,13 @@
    "page": 422,
    "q": "Why may a vaginal cerclage be removed earlier than 37 weeks?",
    "opts": [
-    "Preterm labor or premature rupture of membranes",
-    "Normal fetal movement",
-    "Mild nausea",
-    "Rh negativity"
+    "Preterm labour or premature rupture of the membranes",
+    "Normal fetal movements with a reassuring cardiotocograph",
+    "Mild nausea in the second trimester of the pregnancy",
+    "Rh negativity of the mother with no evidence of sensitisation"
    ],
    "ans": 0,
-   "exp": "Early removal is needed for preterm labor or PROM. (Book p422)"
+   "exp": "A vaginal cerclage may be removed earlier than 37 weeks if preterm labour or premature rupture of membranes supervenes. (Book p422)"
   },
   {
    "id": "OBG-C9-085",
@@ -1668,13 +1668,13 @@
    "page": 423,
    "q": "When is a tocolytic indicated with cerclage in the source notes?",
    "opts": [
-    "USG cervical length below 25 mm and emergency cerclage only",
-    "Every history-based cerclage",
-    "Any normal pregnancy",
-    "After delivery only"
+    "Cervical length under 25 mm on ultrasound, with emergency cerclage",
+    "Every history-based or elective cerclage as routine practice",
+    "Any normal pregnancy, given routinely as a prophylactic measure",
+    "Only after delivery, to treat postpartum uterine atony"
    ],
    "ans": 0,
-   "exp": "Tocolytic use is for cervical length <25 mm on USG and emergency cerclage only. (Book p423)"
+   "exp": "In the source notes a tocolytic is used with cerclage only when the ultrasound cervical length is below 25 mm and the cerclage is an emergency one. (Book p423)"
   },
   {
    "id": "OBG-C9-091",
@@ -1823,13 +1823,13 @@
    "page": 424,
    "q": "What placental complication underlies abortion, IUGR, and preterm labor in APS?",
    "opts": [
-    "Maternal TSH transfer",
-    "Placental thrombosis causing uteroplacental insufficiency",
-    "Placental overperfusion",
-    "Fetal hyperinsulinemia"
+    "Maternal TSH crossing the placenta and damaging the cytotrophoblast",
+    "Placental thrombosis and infarction causing uteroplacental insufficiency",
+    "Placental overperfusion from failure of physiological conversion",
+    "Fetal hyperinsulinaemia from transplacental maternal antibody transfer"
    ],
    "ans": 1,
-   "exp": "Placental thrombosis causes abortion, UPI with IUGR, and preterm labor. (Book p424)"
+   "exp": "Placental thrombosis in APS causes abortion, uteroplacental insufficiency with IUGR, and preterm labour. (Book p424)"
   },
   {
    "id": "OBG-C9-102",
@@ -2261,13 +2261,13 @@
    "page": 425,
    "q": "Which constellation is typical of incomplete abortion?",
    "opts": [
-    "No symptoms, closed os, empty uterus",
-    "Only spotting with fetal cardiac activity",
-    "Painless T2 loss with no dilatation",
-    "Bleeding and abdominal pain with history of expelled POC, open os, and POC coming out"
+    "No symptoms, a closed os and an empty uterus",
+    "Only spotting, with fetal cardiac activity still present",
+    "A painless second-trimester loss with no cervical dilatation",
+    "Bleeding and pain with expelled POC, an open os, and POC coming out"
    ],
    "ans": 3,
-   "exp": "Incomplete abortion includes bleeding/pain, prior expulsion, open os, and POC coming out. (Book p425)"
+   "exp": "Incomplete abortion typically presents with bleeding and abdominal pain, a history of expelled products of conception, an open os and POC coming out. (Book p425)"
   },
   {
    "id": "OBG-C9-133",
@@ -2289,13 +2289,13 @@
    "page": 425,
    "q": "What defines complete abortion?",
    "opts": [
-    "Sepsis is always present",
-    "Entire abortion completes spontaneously after all POC are expelled",
-    "No POC have been expelled",
-    "The os is open with retained POC"
+    "Sepsis is always present in these cases by definition",
+    "The entire abortion completes spontaneously after all POC are expelled",
+    "No products of conception have been expelled at all",
+    "The os is open with products of conception retained"
    ],
    "ans": 1,
-   "exp": "Complete abortion is spontaneous completion after all POC are expelled. (Book p425)"
+   "exp": "Complete abortion is defined as the entire abortion completing spontaneously once all products of conception have been expelled. (Book p425)"
   },
   {
    "id": "OBG-C9-135",
@@ -2317,13 +2317,13 @@
    "page": 425,
    "q": "What management is listed after complete abortion?",
    "opts": [
-    "Immediate cerclage",
-    "Immediate laparotomy",
-    "No Rh-related consideration",
+    "Immediate cervical cerclage before the woman leaves",
+    "Immediate laparotomy to exclude an ectopic gestation",
+    "No Rh-related consideration is needed at all after this event",
     "Reassurance and anti-D if Rh-positive exposure requires it"
    ],
    "ans": 3,
-   "exp": "Complete abortion is managed with reassurance and anti-D if Rh positive. (Book p425)"
+   "exp": "After complete abortion the listed management is reassurance and anti-D if Rh-positive exposure requires it. (Book p425)"
   },
   {
    "id": "OBG-C9-137",
@@ -2444,10 +2444,10 @@
    "page": 426,
    "q": "What management options are listed for missed abortion?",
    "opts": [
-    "Cerclage only",
-    "MCA Doppler only",
-    "Medical abortion or suction evacuation",
-    "Only reassurance"
+    "Cervical cerclage with bed rest until term",
+    "Middle cerebral artery Doppler surveillance only",
+    "Medical abortion or suction evacuation of the uterus",
+    "Reassurance and expectant management without intervention"
    ],
    "ans": 2,
    "exp": "Missed abortion can be managed with medical abortion or suction evacuation. (Book p426)"
@@ -2712,13 +2712,13 @@
    "page": 427,
    "q": "Which health-based indication is listed for MTP?",
    "opts": [
-    "To treat asymptomatic bacteriuria",
-    "To prevent normal labor",
-    "To save the pregnant woman’s life or prevent grave physical/mental injury",
-    "To ensure fetal macrosomia"
+    "To treat asymptomatic bacteriuria found in the pregnant woman",
+    "To prevent the onset of normal spontaneous labour at term",
+    "To save the woman's life or prevent grave physical or mental injury",
+    "To ensure the fetus reaches macrosomia before the delivery"
    ],
    "ans": 2,
-   "exp": "MTP may be indicated to save life or prevent grave physical/mental injury. (Book p427)"
+   "exp": "The listed health-based indication for MTP is to save the pregnant woman's life or to prevent grave physical or mental injury. (Book p427)"
   },
   {
    "id": "OBG-C9-165",
@@ -2726,13 +2726,13 @@
    "page": 427,
    "q": "What fetal indication is listed for MTP?",
    "opts": [
-    "Rh positivity alone",
-    "Female sex alone",
-    "Fetal weight above 3 kg alone",
+    "Rh positivity of the fetus alone, without any other factor",
+    "Female sex of the fetus alone, without any other factor",
+    "Fetal weight above 3 kg alone, without any other factor",
     "Substantial risk of physical or mental abnormalities in the fetus"
    ],
    "ans": 3,
-   "exp": "Substantial risk of fetal physical or mental abnormality is an indication. (Book p427)"
+   "exp": "The listed fetal indication for MTP is a substantial risk of physical or mental abnormalities in the fetus. (Book p427)"
   },
   {
    "id": "OBG-C9-166",

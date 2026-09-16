@@ -1226,13 +1226,13 @@
    "page": 404,
    "q": "Which effect of MgSO4 helps protect the brain in eclampsia?",
    "opts": [
-    "Loss of membrane potential",
-    "Reduced cerebral edema and oxidative stress with membrane stabilization",
-    "Increased cerebral edema",
-    "Increased free-radical production"
+    "Loss of the neuronal membrane potential in the cerebral cortex",
+    "Reduced cerebral edema and oxidative stress, with membrane stabilisation",
+    "Increased cerebral edema, which lowers the seizure threshold",
+    "Increased free-radical production within the cerebral cortex"
    ],
    "ans": 1,
-   "exp": "The stated effects are decreased cerebral edema/oxidative stress and stabilization of membrane potential. (Book p404)"
+   "exp": "MgSO4 protects the brain in eclampsia by reducing cerebral edema and oxidative stress and by stabilising membranes. (Book p404)"
   },
   {
    "id": "OBG-C8-048",
@@ -1537,12 +1537,12 @@
    "q": "What toxicity occurs at about 12 mEq/L of magnesium?",
    "opts": [
     "Respiratory depression progressing to respiratory arrest",
-    "Loss of knee jerk only",
-    "Cardiac arrhythmia only",
-    "Normal reflexes"
+    "Loss of the knee jerk with reflexes otherwise preserved",
+    "Cardiac arrhythmia with a normal respiratory rate",
+    "Normal deep tendon reflexes with no change in respiration"
    ],
    "ans": 0,
-   "exp": "At 12 mEq/L, respiratory depression and then arrest occur. (Book p405)"
+   "exp": "At about 12 mEq/L of magnesium, respiratory depression and then respiratory arrest occur. (Book p405)"
   },
   {
    "id": "OBG-C8-070",
@@ -1593,13 +1593,13 @@
    "page": 405,
    "q": "Is oliguria itself a sign of magnesium sulfate toxicity?",
    "opts": [
-    "Yes, it is the first sign",
-    "Yes, it proves cardiac arrest",
-    "It has no relevance to dosing",
+    "Yes, oliguria is the very first sign of magnesium toxicity",
+    "Yes, oliguria proves that cardiac arrest is imminent",
+    "No, oliguria has no relevance at all to magnesium dosing",
     "No; it prompts monitoring because MgSO4 is renally excreted"
    ],
    "ans": 3,
-   "exp": "Oliguria is not a toxicity sign but urine output matters because magnesium is excreted by the kidney. (Book p405)"
+   "exp": "Oliguria is not itself a sign of magnesium sulfate toxicity; it prompts monitoring because MgSO4 is excreted by the kidney. (Book p405)"
   },
   {
    "id": "OBG-C8-074",
@@ -1748,13 +1748,13 @@
    "page": 406,
    "q": "When does HELLP commonly present?",
    "opts": [
-    "Third trimester, and it may be seen within 48 hours after delivery",
-    "Only before 12 weeks",
-    "Only after 12 weeks postpartum",
-    "Only in labor before 20 weeks"
+    "Third trimester, and it may appear within 48 hours after delivery",
+    "Only before 12 weeks of gestation in early pregnancy",
+    "Only after 12 weeks following delivery in the puerperium",
+    "Only during labour presenting before 20 weeks of gestation"
    ],
    "ans": 0,
-   "exp": "HELLP is a third-trimester condition and may be seen within 48 hours postpartum. (Book p406)"
+   "exp": "HELLP commonly presents in the third trimester, and it may also be seen within 48 hours after delivery. (Book p406)"
   },
   {
    "id": "OBG-C8-085",
@@ -2101,13 +2101,13 @@
    "page": 407,
    "q": "What occurs in the mother when fatty-acid intermediates enter her circulation and she has limited oxidative capacity?",
    "opts": [
-    "All bile acids are cleared",
+    "All bile acids are cleared rapidly from the maternal circulation",
     "Fatty acid accumulates in the liver and free radicals form",
-    "Placental flow becomes normal",
-    "Fetal insulin decreases"
+    "Placental blood flow returns to normal once clearance starts",
+    "Fetal insulin secretion falls, improving the fetal condition"
    ],
    "ans": 1,
-   "exp": "Fatty-acid intermediates accumulate in maternal liver and generate free radicals. (Book p407)"
+   "exp": "When fatty-acid intermediates enter the maternal circulation with limited oxidative capacity, fatty acid accumulates in the liver and free radicals form. (Book p407)"
   },
   {
    "id": "OBG-C8-110",
@@ -2243,13 +2243,13 @@
    "page": 408,
    "q": "Which finding favors AFLP over HELLP syndrome?",
    "opts": [
-    "Hyperammonemia with mental confusion and hypoglycemia",
-    "Only hypertension",
-    "Proteinuria degree",
-    "A normal glucose level"
+    "Hyperammonaemia with mental confusion and hypoglycaemia",
+    "Hypertension alone, with no other metabolic disturbance",
+    "The degree of proteinuria, which is heavier in HELLP",
+    "A normal blood glucose level with preserved liver function"
    ],
    "ans": 0,
-   "exp": "High ammonia/mental confusion and hypoglycemia favor AFLP over HELLP. (Book p408)"
+   "exp": "Hyperammonaemia with mental confusion and hypoglycaemia favour AFLP over HELLP syndrome. (Book p408)"
   },
   {
    "id": "OBG-C8-120",
@@ -2483,13 +2483,13 @@
    "page": 409,
    "q": "How do bile acids contribute to meconium aspiration syndrome in ICP?",
    "opts": [
-    "They only cause maternal itching",
-    "They decrease amniotic fluid to zero",
-    "Fetal swallowing of bile-salt-containing fluid irritates bowel and triggers meconium passage",
-    "They prevent fetal bowel activity"
+    "Bile acids act only on maternal skin and cause itching, with no fetal effect",
+    "Bile acids reduce amniotic fluid production to zero and arrest fetal gut motility",
+    "Swallowed bile-salt-rich fluid irritates the fetal bowel and triggers meconium passage",
+    "Bile acids paralyse fetal bowel activity so that no meconium is passed at all"
    ],
    "ans": 2,
-   "exp": "Bile acid in amniotic fluid is swallowed, irritates fetal bowel, and promotes meconium passage and aspiration syndrome. (Book p409)"
+   "exp": "Bile salts in the amniotic fluid are swallowed by the fetus, irritate the bowel and trigger meconium passage, which underlies meconium-stained liquor and aspiration syndrome in ICP. (Book p409)"
   },
   {
    "id": "OBG-C8-137",
@@ -2894,12 +2894,12 @@
    "q": "What compensatory response produces erythroblastosis fetalis?",
    "opts": [
     "Hepatosplenomegaly and bone-marrow hyperplasia increasing erythrocytes",
-    "Reduced erythropoiesis in marrow",
-    "Fetal insulin suppression",
-    "Maternal platelet activation"
+    "Reduced erythropoiesis within the fetal bone marrow and liver",
+    "Fetal insulin suppression from maternal antibody transfer",
+    "Maternal platelet activation with consumptive coagulopathy"
    ],
    "ans": 0,
-   "exp": "Compensatory hepatosplenomegaly and marrow hyperplasia increase erythrocytes, leading to erythroblastosis fetalis. (Book p412)"
+   "exp": "Erythroblastosis fetalis reflects the compensatory response of hepatosplenomegaly and bone-marrow hyperplasia producing more erythrocytes. (Book p412)"
   },
   {
    "id": "OBG-C8-166",
@@ -2992,13 +2992,13 @@
    "page": 412,
    "q": "How does externally administered anti-D prevent Rh sensitization?",
    "opts": [
-    "It increases fetal hemolysis",
-    "It converts fetal Rh type to negative",
-    "It neutralizes Rh-positive fetal RBCs before the maternal immune system forms excess antibodies",
-    "It stimulates maternal anti-D production"
+    "It increases fetal haemolysis, clearing Rh-positive cells from the circulation",
+    "It converts the fetal Rh type from positive to negative while in utero",
+    "It neutralises Rh-positive fetal red cells before maternal antibodies form",
+    "It stimulates the mother to produce her own protective anti-D antibodies"
    ],
    "ans": 2,
-   "exp": "Anti-D neutralizes Rh-positive fetal RBCs and prevents maternal immune stimulation and excess antibody formation. (Book p412)"
+   "exp": "Externally administered anti-D neutralises Rh-positive fetal red cells before the maternal immune system mounts stimulation and forms excess antibodies. (Book p412)"
   },
   {
    "id": "OBG-C8-173",
@@ -3175,13 +3175,13 @@
    "page": 413,
    "q": "What is the role of anti-D after ICT is positive?",
    "opts": [
-    "Stop all fetal monitoring",
+    "Stop all fetal monitoring, since sensitisation is inevitable",
     "No role; manage as a sensitized Rh-negative pregnancy",
-    "Give a double routine dose",
-    "Give anti-D every day"
+    "Give double the routine dose of anti-D immediately",
+    "Give anti-D every day until delivery is achieved"
    ],
    "ans": 1,
-   "exp": "Once ICT is positive, sensitization has occurred and anti-D has no role. (Book p413)"
+   "exp": "Once the indirect Coombs test is positive, anti-D has no role and the pregnancy is managed as a sensitized Rh-negative pregnancy. (Book p413)"
   },
   {
    "id": "OBG-C8-186",
@@ -3810,13 +3810,13 @@
    "page": 416,
    "q": "Which first-trimester event is an indication for anti-D prophylaxis?",
    "opts": [
-    "Routine fetal movement counting",
-    "Normal glycosuria",
-    "Abortion, ectopic pregnancy, molar pregnancy, or chorionic-villus sampling",
-    "Normal nausea only"
+    "Routine fetal movement counting from 28 weeks of gestation onwards",
+    "Normal glycosuria detected on routine antenatal urine testing",
+    "Abortion, ectopic pregnancy, molar pregnancy or chorionic-villus sampling",
+    "Normal nausea and vomiting limited to the first trimester alone"
    ],
    "ans": 2,
-   "exp": "First-trimester indications include abortion, ectopic/molar pregnancy, and CVS. (Book p416)"
+   "exp": "First-trimester indications for anti-D prophylaxis include abortion, ectopic pregnancy, molar pregnancy and chorionic-villus sampling. (Book p416)"
   },
   {
    "id": "OBG-C8-231",

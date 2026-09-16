@@ -9,13 +9,13 @@
    "page": 460,
    "q": "Fill up: Dizygotic twins form when ______, whereas monozygotic twins form when ______.",
    "opts": [
-    "2 ova are fertilized by 2 different sperms; a single ovum fertilized by a single sperm divides into 2",
-    "1 ovum is fertilized by 2 sperms; 2 ova fuse",
-    "Both arise from 1 zygote",
-    "Both arise from 2 zygotes"
+    "2 ova fertilized by 2 different sperms; 1 ovum fertilized by 1 sperm then dividing into 2",
+    "1 ovum fertilized by 2 different sperms; 2 separate ova fusing together",
+    "Both twins arise from one zygote that splits after fertilisation",
+    "Both twins arise from two zygotes that implant separately"
    ],
    "ans": 0,
-   "exp": "Dizygotic = 2 ova + 2 sperms → 2 zygotes; monozygotic = 1 ovum + 1 sperm → 1 zygote that divides. (Book p460)"
+   "exp": "Dizygotic twins form when 2 ova are fertilized by 2 different sperms, whereas monozygotic twins form when a single ovum fertilized by a single sperm divides into 2. (Book p460)"
   },
   {
    "id": "OBG-C13-002",
@@ -235,13 +235,13 @@
    "page": 462,
    "q": "Division at 4–8 days (blastocyst stage) yields MCDA because:",
    "opts": [
-    "By day 8 a common chorion is already formed while amnions remain separate",
-    "The amnion forms before the chorion",
-    "Both membranes are shared",
-    "No membranes form"
+    "A common chorion has formed by day 8, while the amnions stay separate",
+    "The amnion forms before the chorion, so both fetuses share one sac",
+    "Both the chorion and the amnion are shared by the two fetuses",
+    "No fetal membranes have formed at all by the blastocyst stage"
    ],
    "ans": 0,
-   "exp": "Division after day 4 but before the common chorion/amnion sequence gives a shared chorion with two amnions. (Book p462)"
+   "exp": "Division at 4-8 days (blastocyst stage) yields MCDA twins because by day 8 a common chorion is already formed while the amnions remain separate. (Book p462)"
   },
   {
    "id": "OBG-C13-018",
@@ -277,13 +277,13 @@
    "page": 462,
    "q": "The m/c variety of twins overall and among monozygotic twins respectively are:",
    "opts": [
-    "DCDA (dizygotic); MCDA",
-    "MCDA; DCDA",
-    "MCMA; DCDA",
-    "DCDA; MCMA"
+    "DCDA (dizygotic); among monozygotic, MCDA",
+    "MCDA overall; among monozygotic, DCDA",
+    "MCMA overall; among monozygotic, DCDA",
+    "DCDA overall; among monozygotic, MCMA"
    ],
    "ans": 0,
-   "exp": "Overall m/c is DCDA; among monozygotic twins m/c is MCDA. (Book p462)"
+   "exp": "The commonest variety of twins overall is DCDA (dizygotic), and among monozygotic twins it is MCDA. (Book p462)"
   },
   {
    "id": "OBG-C13-021",
@@ -305,13 +305,13 @@
    "page": 462,
    "q": "Determination of chorionicity: IOC and timing are:",
    "opts": [
-    "USG (TVS) between 10–14 weeks (1st trimester)",
-    "TAS at 20–24 weeks",
-    "MRI at 28 weeks",
-    "Doppler at 16 weeks"
+    "Transvaginal ultrasound at 10-14 weeks of gestation",
+    "Transabdominal ultrasound at 20-24 weeks of gestation",
+    "Magnetic resonance imaging at 28 weeks of gestation",
+    "Umbilical artery Doppler at 16 weeks of gestation"
    ],
    "ans": 0,
-   "exp": "Chorionicity is best determined by TVS at 10–14 weeks. (Book p462)"
+   "exp": "Chorionicity is best determined by transvaginal ultrasound (TVS) at 10-14 weeks in the first trimester. (Book p462)"
   },
   {
    "id": "OBG-C13-023",
@@ -389,13 +389,13 @@
    "page": 463,
    "q": "Specific complications of MCDA and MCMA respectively:",
    "opts": [
-    "TTTS (due to deep vascular connections); cord entanglement",
-    "Cord entanglement; TTTS",
-    "Vanishing twin; TRAP",
-    "Selective IUGR; TAPS"
+    "TTTS from deep vascular anastomoses; cord entanglement",
+    "Cord entanglement; TTTS from deep vascular anastomoses",
+    "Vanishing twin in one sac; TRAP sequence in the other",
+    "Selective IUGR from unequal placental sharing; TAPS in both"
    ],
    "ans": 0,
-   "exp": "MCDA → TTTS via deep connections; MCMA → cord entanglement. (Book p463)"
+   "exp": "MCDA twins specifically risk TTTS through deep vascular connections; MCMA twins specifically risk cord entanglement. (Book p463)"
   },
   {
    "id": "OBG-C13-029",
@@ -403,13 +403,13 @@
    "page": 463,
    "q": "Delivery timing for DCDA, MCDA and MCMA twins:",
    "opts": [
-    "38 weeks; 36 weeks; 32–34 weeks by C-section after corticosteroids",
-    "40 weeks; 38 weeks; 36 weeks",
-    "36 weeks; 34 weeks; 32 weeks",
-    "37 weeks for all"
+    "38 weeks; 36 weeks; 32-34 weeks by caesarean after corticosteroids",
+    "40 weeks; 38 weeks; 36 weeks by caesarean after corticosteroids",
+    "36 weeks; 34 weeks; 32 weeks by caesarean after corticosteroids",
+    "37 weeks for all three, by caesarean after corticosteroids"
    ],
    "ans": 0,
-   "exp": "DCDA 38 weeks, MCDA 36 weeks, MCMA 32–34 weeks by C-section after steroids. (Book p463)"
+   "exp": "Delivery timing is 38 weeks for DCDA twins, 36 weeks for MCDA twins, and 32-34 weeks by caesarean after corticosteroids for MCMA twins. (Book p463)"
   },
   {
    "id": "OBG-C13-030",
@@ -488,13 +488,13 @@
    "page": 464,
    "q": "Management of conjoined twins is:",
    "opts": [
-    "C-section between 32–34 weeks after completing the steroid course",
-    "Vaginal delivery at 38 weeks",
-    "Fetal reduction at 12 weeks",
-    "Serial amnioreduction"
+    "Caesarean at 32-34 weeks after completing a steroid course",
+    "Vaginal delivery at 38 weeks after completing a steroid course",
+    "Fetal reduction at 12 weeks, then delivery at 38 weeks",
+    "Serial amnioreduction, then delivery at 34 completed weeks"
    ],
    "ans": 0,
-   "exp": "Deliver by C-section at 32–34 weeks after the steroid course. (Book p464)"
+   "exp": "Conjoined twins are managed by caesarean section between 32 and 34 weeks after completing the steroid course. (Book p464)"
   },
   {
    "id": "OBG-C13-036",
@@ -503,12 +503,12 @@
    "q": "Maternal complications of twin pregnancy include pronounced haemodynamic changes, ↑ placental size, polyhydramnios and which liver conditions?",
    "opts": [
     "Intrahepatic cholestasis and acute fatty liver of pregnancy",
-    "Cirrhosis and hepatitis E",
-    "Gilbert syndrome",
-    "Budd-Chiari syndrome"
+    "Cirrhosis and acute hepatitis E infection in pregnancy",
+    "Gilbert syndrome and Dubin-Johnson syndrome in pregnancy",
+    "Budd-Chiari syndrome and portal vein thrombosis in pregnancy"
    ],
    "ans": 0,
-   "exp": "Intrahepatic cholestasis and acute fatty liver of pregnancy are listed maternal complications. (Book p465)"
+   "exp": "Maternal complications of twin pregnancy include pronounced haemodynamic changes, increased placental size, polyhydramnios, and the liver conditions intrahepatic cholestasis and acute fatty liver of pregnancy. (Book p465)"
   },
   {
    "id": "OBG-C13-037",
@@ -558,13 +558,13 @@
    "page": 465,
    "q": "PIH prophylaxis in twin pregnancy uses:",
    "opts": [
-    "Low-dose aspirin 80–150 mg/day started before 16 weeks (ideal 12 weeks)",
-    "High-dose aspirin after 28 weeks",
-    "Calcium only after 20 weeks",
-    "Heparin from conception"
+    "Low-dose aspirin 80-150 mg/day started before 16 weeks, ideally 12",
+    "High-dose aspirin 300 mg/day started after 28 weeks",
+    "Calcium supplementation only, started after 20 weeks",
+    "Low-molecular-weight heparin from the time of conception"
    ],
    "ans": 0,
-   "exp": "Low-dose aspirin 80–150 mg/day before 16 weeks (ideally 12) is the prophylaxis. (Book p465)"
+   "exp": "PIH prophylaxis in twin pregnancy uses low-dose aspirin 80-150 mg/day started before 16 weeks, ideally at 12 weeks. (Book p465)"
   },
   {
    "id": "OBG-C13-041",
@@ -671,13 +671,13 @@
    "page": 466,
    "q": "Congenital anomalies in twins are m/c compared with singletons and follow which pattern?",
    "opts": [
-    "Twin > singleton; monochorionic > dichorionic; heart defects",
-    "Singleton > twin",
-    "Dichorionic > monochorionic",
-    "Neural tube defects only"
+    "Twin above singleton; monochorionic above dichorionic; heart defects",
+    "Singleton above twin; dichorionic above monochorionic",
+    "Dichorionic above monochorionic; neural tube defects only",
+    "Twin above singleton; monochorionic above dichorionic; renal defects"
    ],
    "ans": 0,
-   "exp": "Anomalies are more common in twins, especially monochorionic, with heart defects highlighted. (Book p466)"
+   "exp": "Congenital anomalies are commoner in twins than singletons, commoner in monochorionic than dichorionic twins, and heart defects predominate. (Book p466)"
   },
   {
    "id": "OBG-C13-049",
@@ -1137,13 +1137,13 @@
    "page": 470,
    "q": "Outcomes in the acardiac twin of TRAP are named:",
    "opts": [
-    "Acardiac acephalus (only lower part developed) and acardiac amorphous (amorphous mass, no parts)",
-    "Acardiac cephalus and acardiac thoracus",
-    "Hemi-acardius only",
-    "Acardiac anceps only"
+    "Acardiac acephalus (lower body developed); acardiac amorphous (no formed parts)",
+    "Acardiac acephalus (lower body developed); acardiac anceps (head formed only)",
+    "Acardiac amorphous (no formed parts); acardiac acephalus (lower body developed)",
+    "Acardiac anceps (head formed only); acardiac amorphous (no formed parts)"
    ],
    "ans": 0,
-   "exp": "Acardiac acephalus has only the lower part developed; acardiac amorphus is an amorphous mass. (Book p470)"
+   "exp": "Outcomes in the acardiac twin of TRAP are acardiac acephalus, in which only the lower part is developed, and acardiac amorphus, an amorphous mass with no formed parts. (Book p470)"
   },
   {
    "id": "OBG-C13-082",
@@ -1165,13 +1165,13 @@
    "page": 470,
    "q": "Causes of selective IUGR listed are:",
    "opts": [
-    "Unequal placental sharing and unequal splitting of the initial cell mass",
-    "Deep vascular anastomoses only",
-    "Maternal diabetes",
-    "Cord entanglement"
+    "Unequal placental sharing and unequal splitting of the cell mass",
+    "Deep vascular anastomoses with artery-to-artery connections",
+    "Maternal diabetes causing symmetrical overgrowth of both twins",
+    "Cord entanglement restricting blood flow to one twin only"
    ],
    "ans": 0,
-   "exp": "Unequal placental sharing or unequal splitting of the initial cell mass causes selective IUGR. (Book p470)"
+   "exp": "The listed causes of selective IUGR are unequal placental sharing and unequal splitting of the initial cell mass. (Book p470)"
   },
   {
    "id": "OBG-C13-084",
@@ -1180,12 +1180,12 @@
    "q": "Complications specific to MONOAMNIOTIC twins and the cause of cord entanglement:",
    "opts": [
     "Cord entanglement and conjoined twins; true knots form the cause",
-    "TTTS and TAPS; anastomoses",
-    "Selective IUGR; unequal sharing",
-    "Vanishing twin; thrombosis"
+    "TTTS and TAPS, caused by the deep vascular anastomoses",
+    "Selective IUGR, from unequal sharing of the placental mass",
+    "A vanishing twin, from thrombosis of the shared umbilical cord"
    ],
    "ans": 0,
-   "exp": "Monoamniotic twins face cord entanglement (true knots) and conjoining. (Book p470)"
+   "exp": "Complications specific to monoamniotic twins are cord entanglement and conjoined twins, with true knots forming the cause of the entanglement. (Book p470)"
   },
   {
    "id": "OBG-C13-085",
@@ -1277,13 +1277,13 @@
    "page": 471,
    "q": "After delivery of the 1st twin, which drug is contraindicated and why?",
    "opts": [
-    "Methylergometrine – it causes uterine contractions trapping the 2nd twin",
-    "Oxytocin – it causes hypotension",
-    "Misoprostol – it causes pyrexia",
-    "Magnesium – it causes sedation"
+    "Methylergometrine, since it contracts the uterus and traps the second twin",
+    "Oxytocin, since it causes maternal hypotension at this stage",
+    "Misoprostol, since it causes pyrexia at this stage of labour",
+    "Magnesium sulfate, since it causes maternal sedation and drowsiness"
    ],
    "ans": 0,
-   "exp": "Methylergometrine is c/i after the 1st twin as it contracts the uterus. (Book p471)"
+   "exp": "After delivery of the first twin, methylergometrine is contraindicated because it causes uterine contractions that trap the second twin. (Book p471)"
   },
   {
    "id": "OBG-C13-092",

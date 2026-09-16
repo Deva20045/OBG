@@ -425,13 +425,13 @@
    "page": 390,
    "q": "Which finding distinguishes pre-eclampsia from gestational hypertension in the source comparison?",
    "opts": [
-    "Elevated BP",
-    "A prior pregnancy",
-    "Proteinuria and/or signs of end-organ damage",
-    "Onset after 20 weeks"
+    "Elevated blood pressure alone, above 140/90 mmHg",
+    "A history of a prior pregnancy affected by hypertension",
+    "Proteinuria and/or signs of maternal end-organ damage",
+    "Onset of the hypertension after 20 weeks of gestation"
    ],
    "ans": 2,
-   "exp": "Both may arise after 20 weeks with high BP; pre-eclampsia has proteinuria and/or end-organ-damage signs. (Book p390)"
+   "exp": "In the source comparison, proteinuria and/or signs of end-organ damage distinguish pre-eclampsia from gestational hypertension. (Book p390)"
   },
   {
    "id": "OBG-C7-010",
@@ -1878,13 +1878,13 @@
    "page": 399,
    "q": "Which group requires immediate termination irrespective of gestational age in the p399 table?",
    "opts": [
-    "Diet-controlled GDM",
-    "Eclampsia, impending eclampsia, HELLP, fetal distress, or abruption",
-    "Mild PE alone at 28 weeks",
-    "Chronic HTN alone at 20 weeks"
+    "Diet-controlled gestational diabetes at any gestation",
+    "Eclampsia, impending eclampsia, HELLP, fetal distress or abruption",
+    "Mild pre-eclampsia alone presenting before 28 weeks",
+    "Chronic hypertension alone presenting before 20 weeks"
    ],
    "ans": 1,
-   "exp": "Eclampsia, impending eclampsia, HELLP, fetal distress, and PIH with abruption require immediate delivery. (Book p399)"
+   "exp": "In the p399 table, immediate termination irrespective of gestational age is required for eclampsia, impending eclampsia, HELLP, fetal distress or abruption. (Book p399)"
   },
   {
    "id": "OBG-C7-113",
@@ -2259,13 +2259,13 @@
    "page": 401,
    "q": "After airway/safety measures, what two treatment pillars are used for eclampsia?",
    "opts": [
-    "Insulin and anti-D",
-    "Aspirin and bed rest",
-    "Cerclage and progesterone",
+    "Insulin to control blood sugar and anti-D prophylaxis",
+    "Low-dose aspirin for prevention and strict bed rest",
+    "Cervical cerclage and vaginal progesterone support",
     "Magnesium sulfate for seizures and antihypertensives for BP"
    ],
    "ans": 3,
-   "exp": "MgSO4 treats convulsions and antihypertensives control BP before definitive delivery. (Book p401)"
+   "exp": "After airway and safety measures, eclampsia is treated with two pillars: magnesium sulfate for seizures and antihypertensives for blood pressure. (Book p401)"
   },
   {
    "id": "OBG-C7-140",

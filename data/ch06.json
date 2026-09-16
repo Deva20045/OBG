@@ -1130,13 +1130,13 @@
    "page": 378,
    "q": "Why is routine karyotyping not used for diabetic congenital-anomaly assessment?",
    "opts": [
-    "The concern is gross congenital anomalies, whereas karyotyping detects chromosomal abnormalities",
-    "Karyotyping detects only diabetes",
-    "Karyotyping cannot be done in pregnancy",
-    "Karyotyping is the diagnostic test for VSD"
+    "The concern is gross anomalies, whereas karyotyping detects chromosomal abnormalities",
+    "Karyotyping detects maternal diabetes and no other fetal condition",
+    "Karyotyping cannot technically be performed at all during pregnancy",
+    "Karyotyping is the definitive diagnostic test for a fetal VSD"
    ],
    "ans": 0,
-   "exp": "Level I ultrasound detects chromosomal anomalies, but diabetes-related assessment is for GCA; routine karyotyping is not done. (Book p378)"
+   "exp": "Routine karyotyping is not used for diabetic congenital-anomaly assessment because the concern is gross congenital anomalies, whereas karyotyping detects chromosomal abnormalities. (Book p378)"
   },
   {
    "id": "OBG-C6-049",
@@ -1200,13 +1200,13 @@
    "page": 378,
    "q": "Which preconception measure is advised to reduce gross congenital anomalies in pregestational diabetes?",
    "opts": [
-    "Wait until fetal movement begins",
+    "Wait until fetal movements begin before acting",
     "Switch to insulin before conception or once pregnancy is confirmed",
-    "Stop all glucose monitoring",
-    "Start radioactive iodine"
+    "Stop all glucose monitoring before conception",
+    "Start radioactive iodine ablation of the thyroid"
    ],
    "ans": 1,
-   "exp": "The notes advise switching to insulin before conception or on confirmation of pregnancy. (Book p378)"
+   "exp": "To reduce gross congenital anomalies in pregestational diabetes, switch to insulin before conception or once pregnancy is confirmed. (Book p378)"
   },
   {
    "id": "OBG-C6-054",
@@ -1214,13 +1214,13 @@
    "page": 378,
    "q": "What folic-acid schedule is listed for prevention of diabetic congenital anomalies?",
    "opts": [
-    "400 micrograms after 20 weeks only",
-    "No folic acid is advised",
-    "400 micrograms daily from 1 month before conception through 3 months after conception",
-    "5 mg daily only in labor"
+    "400 micrograms daily started at 20 weeks and continued until delivery",
+    "No folic acid is advised, since diet alone supplies enough in diabetic pregnancy",
+    "400 micrograms daily from 1 month before conception to 3 months after",
+    "5 mg daily given only during labour and the immediate postpartum period"
    ],
    "ans": 2,
-   "exp": "The source specifies 400 micrograms daily beginning a month before conception and continuing for 3 months after conception. (Book p378)"
+   "exp": "For prevention of diabetic congenital anomalies the listed schedule is 400 micrograms of folic acid daily, from 1 month before conception through 3 months after conception. (Book p378)"
   },
   {
    "id": "OBG-C6-055",
@@ -1412,13 +1412,13 @@
    "page": 379,
    "q": "Which growth-scan schedule is listed for pregestational diabetes?",
    "opts": [
-    "At 20 and 22 weeks only",
-    "At 28–30 and 34–36 weeks, with at least a 3-week gap",
-    "Only once at 12 weeks",
-    "Every day after 32 weeks"
+    "Only at 20 and 22 completed weeks of gestation",
+    "At 28-30 and 34-36 weeks, with at least a 3-week gap",
+    "Only once, at 12 completed weeks of gestation",
+    "Daily scans from 32 completed weeks until delivery"
    ],
    "ans": 1,
-   "exp": "At least two growth scans are listed: 28–30 and 34–36 weeks, separated by at least 3 weeks. (Book p379)"
+   "exp": "The listed growth-scan schedule for pregestational diabetes is at 28-30 and 34-36 weeks, with at least a 3-week gap. (Book p379)"
   },
   {
    "id": "OBG-C6-069",
@@ -1779,13 +1779,13 @@
    "page": 382,
    "q": "For a 2-hour PP level of 200 mg/dL or more in GDM, what immediate treatment is given?",
    "opts": [
-    "Aspirin and salt restriction",
+    "Aspirin with strict dietary salt restriction",
     "8 units insulin plus medical nutrition therapy and weight counseling",
-    "Only daily walking for two weeks",
-    "No treatment until 32 weeks"
+    "Only daily walking for two weeks and then a review",
+    "No treatment at all until 32 weeks of gestation"
    ],
    "ans": 1,
-   "exp": "At 200 mg/dL or more, the plan gives immediate 8-unit insulin alongside MNT and weight counseling. (Book p382)"
+   "exp": "For a 2-hour postprandial level of 200 mg/dL or more in GDM, the immediate treatment is 8 units of insulin plus medical nutrition therapy and weight counseling. (Book p382)"
   },
   {
    "id": "OBG-C6-095",
@@ -2527,13 +2527,13 @@
    "page": 385,
    "q": "What medication transition is listed from day 2 after delivery in pregestational diabetes?",
    "opts": [
-    "Start methotrexate",
-    "Shift back to oral hypoglycemic agents if needed",
-    "Start radioactive iodine",
-    "Stop all diabetic care"
+    "Start methotrexate to suppress the puerperal endometrium",
+    "Shift back to oral hypoglycemic agents if they are needed",
+    "Start radioactive iodine ablation of the maternal thyroid",
+    "Stop all diabetic care and monitoring after delivery"
    ],
    "ans": 1,
-   "exp": "From day 2 postpartum, the plan shifts pre-GDM patients back to oral hypoglycemic agents as appropriate. (Book p385)"
+   "exp": "From day 2 after delivery in pregestational diabetes, the listed transition is back to oral hypoglycemic agents if needed. (Book p385)"
   },
   {
    "id": "OBG-C6-148",
@@ -2556,13 +2556,13 @@
    "page": 386,
    "q": "Which set of infections is listed as increased in diabetes in pregnancy?",
    "opts": [
-    "Only neonatal sepsis",
-    "Asymptomatic bacteriuria, candidiasis, and puerperal sepsis",
-    "Rubella, measles, and mumps",
-    "Only urinary tuberculosis"
+    "Neonatal sepsis occurring in the first week of life",
+    "Asymptomatic bacteriuria, candidiasis and puerperal sepsis",
+    "Rubella, measles and mumps acquired during pregnancy",
+    "Urinary tuberculosis affecting the renal tract only"
    ],
    "ans": 1,
-   "exp": "The notes list increased asymptomatic bacteriuria, candidiasis, and puerperal sepsis. (Book p386)"
+   "exp": "Infections listed as increased in diabetes in pregnancy are asymptomatic bacteriuria, candidiasis and puerperal sepsis. (Book p386)"
   },
   {
    "id": "OBG-C6-150",
@@ -3135,13 +3135,13 @@
    "page": 389,
    "q": "Why does the McRoberts maneuver help shoulder dystocia?",
    "opts": [
-    "It rotates both shoulders internally",
-    "It decreases fetal shoulder width directly",
-    "It straightens the sacrum and increases available space without increasing pelvic diameter",
-    "It increases the bony pelvic diameter by 5 cm"
+    "It rotates both fetal shoulders internally at the pelvic brim",
+    "It decreases the bisacromial diameter of the fetal shoulders",
+    "It straightens the sacrum and increases the space available",
+    "It increases the bony pelvic diameter by about 5 cm"
    ],
    "ans": 2,
-   "exp": "McRoberts straightens the sacrum and increases available space, not the pelvic diameter. (Book p389)"
+   "exp": "The McRoberts manoeuvre straightens the sacrum relative to the lumbar spine and increases the available space, without increasing the pelvic diameter. (Book p389)"
   },
   {
    "id": "OBG-C6-191",

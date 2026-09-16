@@ -503,12 +503,12 @@
    "q": "Risk factors common to both placenta previa and abruptio are:",
    "opts": [
     "Increased maternal age, increased parity and smoking",
-    "Diabetes and Rh negativity",
-    "Thrombophilia and fibroid",
-    "Cocaine and trauma"
+    "Diabetes mellitus and Rh negativity of the mother",
+    "Thrombophilia and a fibroid uterus distorting the cavity",
+    "Cocaine use and blunt abdominal trauma in pregnancy"
    ],
    "ans": 0,
-   "exp": "Common risk factors: ↑ maternal age, ↑ parity (multiparae) and smoking. (Book p450)"
+   "exp": "Risk factors common to both placenta previa and abruptio placentae are increased maternal age, increased parity and smoking. (Book p450)"
   },
   {
    "id": "OBG-C12-037",
@@ -600,13 +600,13 @@
    "page": 450,
    "q": "Abruptio placenta is associated with increased chances of:",
    "opts": [
-    "PPH, DIC (d/t thromboplastin) and preterm labour",
-    "Placenta previa only",
-    "Vasa previa",
-    "Uterine inversion"
+    "PPH, DIC from thromboplastin release, and preterm labour",
+    "Placenta previa in a subsequent pregnancy, but nothing else",
+    "Vasa previa with rupture of fetal vessels in labour",
+    "Uterine inversion from traction on the placental site"
    ],
    "ans": 0,
-   "exp": "Associations: ↑ PPH, retroplacental clot, DIC via thromboplastin and preterm labour. (Book p450)"
+   "exp": "Abruptio placenta is associated with increased chances of PPH, DIC (from release of thromboplastin) and preterm labour. (Book p450)"
   },
   {
    "id": "OBG-C12-044",
@@ -614,13 +614,13 @@
    "page": 450,
    "q": "Name the rare associations of chronic abruption listed.",
    "opts": [
-    "Chronic abruption oligohydramnios sequence (CAOS) and precipitate labour (<3 hours)",
-    "Twin-to-twin transfusion and vasa previa",
-    "Uterine rupture and inversion",
-    "Cervical incompetence and show"
+    "Chronic abruption oligohydramnios sequence and precipitate labour under 3 hours",
+    "Twin-to-twin transfusion syndrome together with vasa previa",
+    "Uterine rupture together with acute inversion of the uterus",
+    "Cervical incompetence with a persistent bloody vaginal show"
    ],
    "ans": 0,
-   "exp": "Rare associations: CAOS and precipitate labour (entire labour completed in 3 hours). (Book p450)"
+   "exp": "The rare associations listed for chronic abruption are chronic abruption oligohydramnios sequence (CAOS) and precipitate labour of under 3 hours. (Book p450)"
   },
   {
    "id": "OBG-C12-045",
@@ -769,13 +769,13 @@
    "page": 451,
    "q": "Investigation of choice in placenta previa and its purpose:",
    "opts": [
-    "Transvaginal ultrasound – exact distance between external and internal os",
-    "Transabdominal ultrasound only",
-    "MRI pelvis",
-    "Digital cervical assessment"
+    "Transvaginal ultrasound, to measure the distance between external and internal os",
+    "Transabdominal ultrasound, to measure the distance between external and internal os",
+    "Transvaginal ultrasound, to grade the degree of placental calcification",
+    "MRI of the pelvis, to measure the distance between external and internal os"
    ],
    "ans": 0,
-   "exp": "TVS is IOC to measure the exact distance between the external and internal os. (Book p451)"
+   "exp": "The investigation of choice in placenta previa is transvaginal ultrasound, which gives the exact distance between the external and internal os. (Book p451)"
   },
   {
    "id": "OBG-C12-056",
@@ -953,13 +953,13 @@
    "page": 453,
    "q": "Advice given to a patient with a low-lying placenta includes avoiding:",
    "opts": [
-    "Intercourse, physical exercise, heavy lifting and standing ≥4 hours",
-    "All household work and walking",
-    "Fluid intake and salt",
-    "TVS scans"
+    "Intercourse, physical exercise, heavy lifting and standing 4 hours or more",
+    "All household work and walking about inside the house",
+    "Normal oral fluid intake and normal dietary salt intake",
+    "Transvaginal scans, which must be avoided after 28 weeks"
    ],
    "ans": 0,
-   "exp": "Avoid intercourse, exercise, heavy weights and standing ≥4 hours; TVS at 32 weeks and report any bleeding. (Book p453)"
+   "exp": "With a low-lying placenta the patient is advised to avoid intercourse, physical exercise, heavy lifting and standing for 4 hours or more. (Book p453)"
   },
   {
    "id": "OBG-C12-069",
@@ -1009,13 +1009,13 @@
    "page": 453,
    "q": "Mode of delivery: a low-lying placenta 1–2 cm from the internal os is best managed by:",
    "opts": [
-    "C-section preferred, though vaginal delivery can be done",
-    "Mandatory C-section always",
-    "Mandatory vaginal delivery",
-    "Forceps delivery"
+    "Caesarean preferred, though vaginal delivery can be done",
+    "Mandatory caesarean section in absolutely every single case",
+    "Mandatory vaginal delivery, caesarean is never considered",
+    "Forceps delivery to shorten the second stage of the labour"
    ],
    "ans": 0,
-   "exp": "Between 1–2 cm of the internal os, C-section is preferred but vaginal delivery is possible. (Book p453)"
+   "exp": "A low-lying placenta 1-2 cm from the internal os is best managed by caesarean section, though vaginal delivery can be done. (Book p453)"
   },
   {
    "id": "OBG-C12-073",
@@ -1037,13 +1037,13 @@
    "page": 453,
    "q": "In placenta previa WITH active bleeding, expectant management aims to:",
    "opts": [
-    "Continue pregnancy to attain fetal lung maturity without risking the mother's life",
-    "Terminate immediately in all cases",
-    "Delay delivery beyond 40 weeks",
-    "Avoid steroids"
+    "Continue pregnancy to attain fetal lung maturity without risking the mother",
+    "Terminate the pregnancy immediately by caesarean section in every case",
+    "Delay delivery until beyond 40 completed weeks regardless of bleeding",
+    "Avoid antenatal corticosteroids and transfuse only when symptomatic"
    ],
    "ans": 0,
-   "exp": "Expectant care continues pregnancy for fetal lung maturity without risking maternal life; active management terminates immediately by C-section. (Book p453)"
+   "exp": "In placenta previa with active bleeding, expectant management aims to continue pregnancy to attain fetal lung maturity without risking the mother's life. (Book p453)"
   },
   {
    "id": "OBG-C12-075",
@@ -1066,13 +1066,13 @@
    "page": 454,
    "q": "Which combination favours EXPECTANT management of bleeding previa?",
    "opts": [
-    "Stable vitals, absent active bleeding, <37 weeks, reactive CTG, no/minor anomaly – ALL conditions present",
-    "Unstable vitals with active bleeding",
-    "Fetal distress on CTG",
-    "Gross congenital anomaly of a non-viable fetus"
+    "Stable vitals, no active bleeding, under 37 weeks, reactive CTG, no major anomaly",
+    "Unstable vitals with active bleeding, under 37 weeks, non-reactive CTG",
+    "Stable vitals, no active bleeding, under 37 weeks, fetal distress on CTG",
+    "A gross congenital anomaly in a non-viable fetus, with stable vitals"
    ],
    "ans": 0,
-   "exp": "Expectant needs ALL of: stable vitals, no active bleeding, <37 weeks, normal FHS/CTG and no major anomaly. (Book p454)"
+   "exp": "Expectant management of bleeding previa requires all of: stable vitals, absent active bleeding, under 37 weeks, reactive CTG, and no or only a minor anomaly. (Book p454)"
   },
   {
    "id": "OBG-C12-077",
@@ -1122,13 +1122,13 @@
    "page": 454,
    "q": "Monitoring during expectant management covers:",
    "opts": [
-    "Maternal vitals, FHS and bleeding, with blood arranged",
-    "Only weekly hCG",
-    "Cervical length every day",
-    "Serial MRI"
+    "Maternal vitals, fetal heart sounds and bleeding, with blood arranged",
+    "Only a weekly serum beta-hCG measurement is required",
+    "Cervical length measured every single day by ultrasound",
+    "Serial magnetic resonance imaging of the pelvis each week"
    ],
    "ans": 0,
-   "exp": "Monitor maternal vitals, FHS and bleeding; arrange blood; give anti-D if Rh-negative. (Book p454)"
+   "exp": "Monitoring during expectant management covers maternal vitals, fetal heart sounds and bleeding, with blood arranged in advance. (Book p454)"
   },
   {
    "id": "OBG-C12-081",
@@ -1263,13 +1263,13 @@
    "page": 455,
    "q": "Management of DIC includes:",
    "opts": [
-    "Cryoprecipitate, FFP and blood transfusion",
-    "Heparin infusion only",
-    "Platelets only",
-    "Vitamin K alone"
+    "Cryoprecipitate, fresh frozen plasma and blood transfusion",
+    "A heparin infusion given on its own throughout",
+    "Platelet transfusion given on its own throughout",
+    "Vitamin K given alone by slow intravenous injection"
    ],
    "ans": 0,
-   "exp": "Treat DIC with cryoprecipitate, FFP and blood transfusion. (Book p455)"
+   "exp": "Management of DIC includes cryoprecipitate, fresh frozen plasma and blood transfusion. (Book p455)"
   },
   {
    "id": "OBG-C12-091",
@@ -1516,13 +1516,13 @@
    "page": 458,
    "q": "Which USG sign of PAS describes sonolucent areas with a moth-eaten appearance and ↑ vascularity on Doppler?",
    "opts": [
-    "Large placental lacunae / placental lakes",
-    "Twin peak sign",
-    "Snowstorm appearance",
-    "Ring of fire"
+    "Large placental lacunae, also called placental lakes",
+    "The twin peak sign of a dichorionic pregnancy",
+    "A snowstorm appearance filling the uterine cavity",
+    "The ring of fire seen around a corpus luteum"
    ],
    "ans": 0,
-   "exp": "Large lacunae/lakes with moth-eaten appearance and hypervascular lacunae are PAS signs. (Book p458)"
+   "exp": "Large placental lacunae (placental lakes) are sonolucent areas with a moth-eaten appearance and increased vascularity on Doppler. (Book p458)"
   },
   {
    "id": "OBG-C12-109",
@@ -1544,13 +1544,13 @@
    "page": 458,
    "q": "Bridging vessels in PAS are seen between the placenta and:",
    "opts": [
-    "The bladder–serosa interface (hypervascular on Doppler)",
-    "The umbilical cord",
-    "The cervix",
-    "The broad ligament veins"
+    "The bladder-serosa interface, appearing hypervascular on Doppler",
+    "The umbilical cord insertion into the placental mass",
+    "The cervix and the adjacent lower uterine segment",
+    "The veins of the broad ligament and ovarian plexus"
    ],
    "ans": 0,
-   "exp": "Bridging vessels cross the placenta–bladder/serosa interface with Doppler hypervascularity. (Book p458)"
+   "exp": "Bridging vessels in PAS are seen between the placenta and the bladder-serosa interface, appearing hypervascular on Doppler. (Book p458)"
   },
   {
    "id": "OBG-C12-111",
@@ -1559,12 +1559,12 @@
    "q": "Two further USG signs of PAS listed are disruption of the continuous white line and:",
    "opts": [
     "Loss of the normal retroplacental hypoechoic area (decidua basalis)",
-    "Gain of a retroplacental cyst",
-    "Thickening of the amnion",
-    "Absent fetal breathing"
+    "Gain of a new retroplacental cystic lesion behind the placenta",
+    "Marked thickening of the amnion over the placental surface",
+    "Absent fetal breathing movements on a 30-minute scan"
    ],
    "ans": 0,
-   "exp": "Loss of the retroplacental hypoechoic area (decidua basalis) and white-line disruption support PAS. (Book p458)"
+   "exp": "Besides disruption of the continuous white line, PAS shows loss of the normal retroplacental hypoechoic area (the decidua basalis). (Book p458)"
   },
   {
    "id": "OBG-C12-112",
@@ -1601,13 +1601,13 @@
    "page": 459,
    "q": "ACOG's management of choice for antenatally detected PAS is:",
    "opts": [
-    "Elective C-section between 34–35 weeks + 6/7 days followed by hysterectomy with placenta in situ",
-    "Vaginal delivery with manual removal",
-    "MTX therapy then curettage",
-    "C-section at 39 weeks with placental removal"
+    "Elective caesarean at 34-35 weeks and 6/7 days, then hysterectomy with placenta in situ",
+    "Elective caesarean at 39 completed weeks, then removal of the placenta",
+    "Vaginal delivery followed by manual removal of the placenta at delivery",
+    "Methotrexate therapy, then curettage once the placenta separates"
    ],
    "ans": 0,
-   "exp": "ACOG: elective C-section at 34–35 weeks + 6/7 days then hysterectomy leaving the placenta in situ. (Book p459)"
+   "exp": "ACOG's management of choice for antenatally detected PAS is elective caesarean at 34-35 weeks and 6/7 days, followed by hysterectomy with the placenta left in situ. (Book p459)"
   },
   {
    "id": "OBG-C12-115",
@@ -1629,13 +1629,13 @@
    "page": 459,
    "q": "Two intraoperative rules for PAS caesarean hysterectomy are:",
    "opts": [
-    "No attempt to separate/deliver the placenta and close the uterine incision before hysterectomy",
-    "Deliver the placenta manually then hysterectomy",
-    "Leave the uterus open during hysterectomy",
-    "Separate the placenta with cord traction"
+    "Do not attempt to separate the placenta, and close the uterine incision first",
+    "Deliver the placenta manually before starting the hysterectomy",
+    "Leave the uterine incision open throughout the hysterectomy",
+    "Separate the placenta using controlled traction on the cord"
    ],
    "ans": 0,
-   "exp": "The placenta is left undisturbed and the uterine incision is closed prior to hysterectomy to avoid bleeding. (Book p459)"
+   "exp": "Two intraoperative rules for PAS caesarean hysterectomy are: make no attempt to separate or deliver the placenta, and close the uterine incision before proceeding to hysterectomy. (Book p459)"
   },
   {
    "id": "OBG-C12-117",

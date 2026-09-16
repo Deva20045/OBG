@@ -262,16 +262,19 @@ lives in `AUDIT.md`; the headline numbers are:
   - true/false statement sets 17 → **67**
   - clinical scenarios 47 → **101**
   - odd-one-out 101 → **155**
-- **233 items de-biased**: every item where the answer was 3.0× or more longer
+- **514 items de-biased**: every item where the answer was 2.0× or more longer
   than its longest distractor was rewritten with parallel, same-family options
-  (paired items now offer four paired options; list items now offer four lists).
-  **Zero remain above 3.0×**, and only 27 remain above 2.5× (was 309).
-- Correct-option-is-longest fell 67.8% → **61.2%**; the average answer is now
-  55.9 characters against 37.6 for distractors (was 59.9 against 29.2).
-- The remaining bias is mild and diffuse (median ratio 1.23) across hundreds of
-  items, and 232 still sit above 2× — those are being rewritten worst-first by
-  hand, since bulk automated trimming would damage good items. Chapters 21 and
-  24 are the next targets, both still above 80%.
+  (paired items now offer four paired options; list items now offer four lists;
+  stub distractors were expanded into full clauses with the enumerative detail
+  moved into the explanation). **Zero remain above 2.0×**, which was 887 items.
+- Answer length is now 49.1 characters against 42.7 for the longest distractor,
+  rather than 59.9 against 29.2.
+- Correct-option-is-longest fell 67.8% → **57.8%** chapter mean, and no chapter
+  is still above 80% (chapter 24 was 91.7%).
+- 742 items still have the key as the longest option by 1.3× or more; the median
+  ratio is 1.12. Those are the next tranche, worst chapters first (24, 22, 20,
+  4, 21), rewritten by hand since bulk automated trimming would damage good
+  items.
 
 **Guard rails**
 - `check_integrity.py` now fails when an answer can be guessed from option

@@ -206,13 +206,13 @@
    "page": 443,
    "q": "Fill up: Partial mole arises from ______, whereas complete mole arises from ______.",
    "opts": [
-    "1 ovum + 2 sperms; an empty ovum with zygotic chromosome duplication",
-    "1 ovum + 1 sperm; 2 ova + 1 sperm",
-    "2 ova + 2 sperms; 1 ovum + 1 sperm",
-    "1 ovum + 1 sperm only in both"
+    "1 ovum with 2 sperms; an empty ovum with zygotic chromosome duplication",
+    "1 ovum with 1 sperm; 2 ova each fertilized by 1 sperm",
+    "2 ova with 2 sperms; 1 ovum fertilized by a single sperm",
+    "1 ovum with 1 sperm, in both partial and complete mole"
    ],
    "ans": 0,
-   "exp": "Partial mole = 1 ovum + 2 sperms; complete mole = empty ovum (no maternal genes) with chromosome duplication. (Book p443)"
+   "exp": "Partial mole arises from 1 ovum fertilized by 2 sperms, whereas complete mole arises from an empty ovum with duplication of the zygotic chromosomes. (Book p443)"
   },
   {
    "id": "OBG-C11-016",
@@ -304,13 +304,13 @@
    "page": 443,
    "q": "On HPE (gold standard), which feature separates partial from complete mole?",
    "opts": [
-    "Vascular villi with less hydropic change in partial; avascular villi with extensive hydropic degeneration in complete",
-    "Avascular villi in partial; vascular villi in complete",
-    "Villi absent in both",
-    "Fetal tissue absent in partial mole"
+    "Vascular villi with less hydropic change in partial; avascular villi with extensive change in complete",
+    "Avascular villi in the partial mole; vascular villi in the complete mole",
+    "Villi are absent in both partial and complete molar pregnancies",
+    "Fetal tissue is absent in the partial mole but present in the complete mole"
    ],
    "ans": 0,
-   "exp": "Partial mole keeps some fetal tissue and vascular villi with less hydropic change; complete mole has avascular villi and extensive hydropic degeneration. (Book p443)"
+   "exp": "On HPE, the gold standard, partial mole shows vascular villi with less hydropic change, while complete mole shows avascular villi with extensive hydropic degeneration. (Book p443)"
   },
   {
    "id": "OBG-C11-023",

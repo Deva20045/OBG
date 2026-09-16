@@ -93,13 +93,13 @@
    "page": 472,
    "q": "Maternal infections linked to PTL (with NO routine screening advised) are:",
    "opts": [
-    "Asymptomatic bacteriuria and bacterial vaginosis",
-    "Syphilis and HIV",
-    "TB and malaria",
-    "Chlamydia and gonorrhoea"
+    "Asymptomatic bacteriuria and bacterial vaginosis, neither routinely screened",
+    "Syphilis and HIV infection, neither routinely screened",
+    "Tuberculosis and malaria, neither routinely screened",
+    "Chlamydia and gonorrhoea, neither routinely screened"
    ],
    "ans": 0,
-   "exp": "Asymptomatic bacteriuria and bacterial vaginosis are listed; routine screening has no role. (Book p472)"
+   "exp": "Maternal infections linked to preterm labour for which no routine screening is advised are asymptomatic bacteriuria and bacterial vaginosis. (Book p472)"
   },
   {
    "id": "OBG-C14-008",
@@ -206,13 +206,13 @@
    "page": 473,
    "q": "Cervical circlage surgery requires ALL three of which indications?",
    "opts": [
-    "H/o preterm birth (+), cervical length ≤2.5 cm on TVS (+), singleton pregnancy",
-    "H/o PTL, twins, short cervix",
-    "Short cervix, bleeding, infection",
-    "Previous LSCS, short cervix, singleton"
+    "Preterm birth history, cervical length 2.5 cm or less on TVS, singleton",
+    "Preterm labour history, a twin pregnancy, and a short cervix",
+    "A short cervix, vaginal bleeding, and evidence of infection",
+    "A previous LSCS, a short cervix, and a singleton pregnancy"
    ],
    "ans": 0,
-   "exp": "All three: previous preterm birth, TVS cervix ≤2.5 cm and singleton pregnancy. (Book p473)"
+   "exp": "Cervical circlage requires all three of: a history of preterm birth, cervical length 2.5 cm or less on TVS, and a singleton pregnancy. (Book p473)"
   },
   {
    "id": "OBG-C14-016",
@@ -248,13 +248,13 @@
    "page": 473,
    "q": "Progesterone regimens listed: hydroxyprogesterone caproate and micronised progesterone.",
    "opts": [
-    "IM weekly starting 16–20 weeks and stopping at 36 weeks; micronised progesterone per vaginally daily",
-    "Oral daily till 20 weeks; IM at 36 weeks",
-    "Single dose at 12 weeks; none after",
-    "Per vaginally weekly; IM daily"
+    "Hydroxyprogesterone IM weekly from 16-20 weeks to 36 weeks; micronised PV daily",
+    "Hydroxyprogesterone IM weekly from 16-20 weeks to 36 weeks; micronised PV weekly",
+    "Hydroxyprogesterone orally daily until 20 weeks; micronised IM at 36 weeks",
+    "Hydroxyprogesterone as a single IM dose at 12 weeks; no further doses after"
    ],
    "ans": 0,
-   "exp": "Hydroxyprogesterone caproate IM weekly (16–20 wks to 36 wks); micronised progesterone PV daily. (Book p473)"
+   "exp": "The listed progesterone regimens are hydroxyprogesterone caproate IM weekly starting at 16-20 weeks and stopping at 36 weeks, and micronised progesterone per vaginam daily. (Book p473)"
   },
   {
    "id": "OBG-C14-019",
@@ -276,13 +276,13 @@
    "page": 473,
    "q": "True or false: progesterone can stop PTL once contractions have started.",
    "opts": [
-    "False – it is not a tocolytic and cannot prevent PTL after contractions start",
-    "True – it is the first-line tocolytic",
-    "True – but only with betamethasone",
-    "False – but it reverses effacement"
+    "False – it is not a tocolytic and cannot stop labour once contractions start",
+    "True – it is the first-line tocolytic agent in preterm labour",
+    "True – but only when given together with betamethasone",
+    "False – but it does reverse cervical effacement completely"
    ],
    "ans": 0,
-   "exp": "Progesterone is not a tocolytic; it cannot prevent PTL after contractions begin. (Book p473)"
+   "exp": "False: progesterone is not a tocolytic and cannot prevent preterm labour once contractions have started. (Book p473)"
   },
   {
    "id": "OBG-C14-021",
@@ -502,13 +502,13 @@
    "page": 474,
    "q": "Match steroid regimens: dexamethasone (DOC in India) and betamethasone (DOC worldwide).",
    "opts": [
-    "Dexamethasone 4 doses of 6 mg IM 12 hours apart; betamethasone 2 doses of 12 mg 24 hours apart with slightly higher fetal hypoglycaemia risk",
-    "Dexamethasone 2 doses of 12 mg; betamethasone 4 doses of 6 mg",
-    "Both single dose 6 mg",
-    "Both 4 doses 12-hourly orally"
+    "Dexamethasone 4 doses of 6 mg IM 12-hourly; betamethasone 2 doses of 12 mg 24-hourly",
+    "Dexamethasone 2 doses of 12 mg 24-hourly; betamethasone 4 doses of 6 mg 12-hourly",
+    "Dexamethasone 4 doses of 6 mg IM 12-hourly; betamethasone 4 doses of 6 mg 12-hourly",
+    "Both given as a single dose of 12 mg IM, repeated if delivery is delayed"
    ],
    "ans": 0,
-   "exp": "Dexamethasone 6 mg × 4 IM 12-hourly (India DOC); betamethasone 12 mg × 2 24-hourly (worldwide DOC). (Book p474)"
+   "exp": "Dexamethasone (DOC in India) is 4 doses of 6 mg IM 12 hours apart; betamethasone (DOC worldwide) is 2 doses of 12 mg 24 hours apart and carries a slightly higher fetal hypoglycaemia risk. (Book p474)"
   },
   {
    "id": "OBG-C14-037",
@@ -643,13 +643,13 @@
    "page": 476,
    "q": "MgSO4 in PTL is used for its ______ action and is given in all cases of PTL < ______ weeks.",
    "opts": [
-    "Neuroprotective (prevents cerebral palsy); 32 weeks",
-    "Tocolytic; 34 weeks",
-    "Antibiotic; 37 weeks",
-    "Surfactant; 28 weeks"
+    "Neuroprotective action (prevents cerebral palsy); given when PTL is under 32 weeks",
+    "Tocolytic action (arrests uterine contractions); given when PTL is under 32 weeks",
+    "Neuroprotective action (prevents cerebral palsy); given when PTL is over 34 weeks",
+    "Tocolytic action (arrests uterine contractions); given when PTL is over 34 weeks"
    ],
    "ans": 0,
-   "exp": "MgSO4 is neuroprotective against cerebral palsy and given when PTL <32 weeks. (Book p476)"
+   "exp": "MgSO4 in preterm labour is given for its neuroprotective action (reducing cerebral palsy), and it is given in all cases of PTL before 32 weeks. (Book p476)"
   },
   {
    "id": "OBG-C14-047",
@@ -967,13 +967,13 @@
    "page": 478,
    "q": "On USG in PROM you expect:",
    "opts": [
-    "↓ amniotic fluid due to ruptured membranes",
-    "Polyhydramnios",
-    "Normal fluid always",
-    "Snowstorm appearance"
+    "Reduced amniotic fluid because the membranes have ruptured",
+    "Polyhydramnios from accumulation of the leaking fluid",
+    "Normal amniotic fluid volume is always seen in these cases",
+    "A snowstorm appearance throughout the uterine cavity"
    ],
    "ans": 0,
-   "exp": "USG shows reduced amniotic fluid after rupture. (Book p478)"
+   "exp": "On ultrasound in PROM one expects reduced amniotic fluid due to rupture of the membranes. (Book p478)"
   },
   {
    "id": "OBG-C14-070",
@@ -1052,13 +1052,13 @@
    "page": 479,
    "q": "MgSO4 in the PROM table is given:",
    "opts": [
-    "Only in early PPROM with POG <32 weeks",
-    "In all PROM cases",
-    "In late PPROM only",
-    "Never"
+    "Only in early PPROM when the pregnancy is under 32 weeks",
+    "In all cases of PROM, whatever the gestation",
+    "Only in late PPROM, that is after 34 weeks",
+    "Never in PROM, since tocolysis is contraindicated"
    ],
    "ans": 0,
-   "exp": "MgSO4 only if POG <32 weeks (early PPROM). (Book p479)"
+   "exp": "In the PROM table, MgSO4 is given only in early PPROM with period of gestation under 32 weeks. (Book p479)"
   },
   {
    "id": "OBG-C14-076",
@@ -1320,13 +1320,13 @@
    "page": 481,
    "q": "Post-term pregnancy is defined as:",
    "opts": [
-    "≥ 42 weeks (≥ 294 days)",
-    "≥ 40 weeks",
-    "≥ 41 weeks",
-    "≥ 37 weeks"
+    "42 weeks or more, that is 294 days or more",
+    "40 weeks or more, that is 280 days or more",
+    "41 weeks or more, that is 287 days or more",
+    "37 weeks or more, that is 259 days or more"
    ],
    "ans": 0,
-   "exp": "Post-term = ≥42 weeks (≥294 days). (Book p481)"
+   "exp": "Post-term pregnancy is defined as 42 weeks or more (294 days or more). (Book p481)"
   },
   {
    "id": "OBG-C14-095",
@@ -1376,13 +1376,13 @@
    "page": 481,
    "q": "Order the fetal-placental estrogen pathway for onset of labour.",
    "opts": [
-    "Fetal adrenal C19 steroids → 17α-hydroxylase → DHEA/DHEA-S → placental sulphatase & aromatase → estrogen (E1,E2,E3) → ↑ myometrial contractility",
-    "Placental estrogen → fetal adrenals → DHEA → contractility",
-    "DHEA → C19 steroids → estrogen → aromatase",
-    "Estrogen → sulphatase → DHEA → contractility"
+    "Fetal adrenal C19 → 17α-hydroxylase → DHEA/DHEA-S → placental sulphatase and aromatase → estrogen → contractility",
+    "Placental estrogen → fetal adrenal C19 → 17α-hydroxylase → DHEA/DHEA-S → placental sulphatase → contractility",
+    "Fetal adrenal C19 → placental aromatase → DHEA/DHEA-S → 17α-hydroxylase → estrogen → myometrial contractility",
+    "Placental sulphatase → fetal adrenal C19 → DHEA/DHEA-S → placental aromatase → estrogen → myometrial relaxation"
    ],
    "ans": 0,
-   "exp": "Fetal adrenal C19 steroids are converted via 17α-hydroxylase to DHEA-S, then placental enzymes make estrogen driving contractility. (Book p481)"
+   "exp": "Fetal adrenal C19 steroids undergo 17α-hydroxylase action to DHEA/DHEA-S, then placental sulphatase and aromatase make estrogen (E1, E2, E3), which raises myometrial contractility. (Book p481)"
   },
   {
    "id": "OBG-C14-099",
@@ -1390,13 +1390,13 @@
    "page": 481,
    "q": "The pathophysiology of post-term pregnancy is:",
    "opts": [
-    "↓ estrogen → ↓ myometrial contractility → difficulty initiating labour",
-    "↑ estrogen → precipitate labour",
-    "↑ progesterone → uterine rupture",
-    "↓ prostaglandins only"
+    "Falling estrogen reduces myometrial contractility, so labour is hard to start",
+    "Rising estrogen makes the labour precipitate and very short",
+    "Rising progesterone causes uterine rupture before labour",
+    "Falling prostaglandins alone, with normal estrogen levels"
    ],
    "ans": 0,
-   "exp": "Reduced estrogen weakens contractility and delays labour onset. (Book p481)"
+   "exp": "Post-term pregnancy is explained by reduced estrogen leading to reduced myometrial contractility, so initiating labour is difficult. (Book p481)"
   },
   {
    "id": "OBG-C14-100",
@@ -1545,13 +1545,13 @@
    "page": 482,
    "q": "Best mode of delivery in macrosomia and C-section thresholds:",
    "opts": [
-    "Vaginal delivery; C-section if ≥4.5 kg in diabetics or ≥5.0 kg in non-diabetics",
-    "C-section always; no thresholds",
-    "Vaginal only; never C-section",
-    "C-section if ≥4.0 kg in all"
+    "Vaginal delivery; C-section at 4.5 kg in diabetics or 5.0 kg in non-diabetics",
+    "Vaginal delivery; C-section at 4.0 kg in diabetics or 4.5 kg in non-diabetics",
+    "Elective C-section for all; no weight threshold is applied in either group",
+    "Vaginal delivery only; C-section at 4.5 kg in diabetics and non-diabetics alike"
    ],
    "ans": 0,
-   "exp": "Vaginal delivery is best; C-section at ≥4.5 kg (diabetic) or ≥5.0 kg (non-diabetic). (Book p482)"
+   "exp": "In macrosomia vaginal delivery is the usual mode; caesarean is advised at 4.5 kg in diabetics and at 5.0 kg in non-diabetics. (Book p482)"
   },
   {
    "id": "OBG-C14-111",

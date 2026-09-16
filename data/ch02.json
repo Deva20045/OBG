@@ -837,13 +837,13 @@
    "page": 310,
    "q": "At 40 weeks of gestation, the fundal height appears identical to that at 32 weeks (two-thirds between umbilicus and xiphisternum). This phenomenon is termed:",
    "opts": [
-    "Lightening ('welcome sign') due to engagement of the fetal head",
-    "Uteroplacental insufficiency",
-    "Pathological oligohydramnios",
-    "Engagement arrest"
+    "Lightening, or the welcome sign, from engagement of the head",
+    "Uteroplacental insufficiency with a falling fundal height",
+    "Pathological oligohydramnios with reduced fetal growth",
+    "Arrest of engagement with a persistently floating head"
    ],
    "ans": 0,
-   "exp": "At 40 weeks, descent and engagement of the fetal head into the maternal pelvic inlet lowers the fundal height to 32-week level, providing respiratory relief (lightening). (Book p310)",
+   "exp": "When the fundal height at 40 weeks matches that at 32 weeks, the phenomenon is lightening ('welcome sign'), due to engagement of the fetal head. (Book p310)",
    "id": "OBG-C2-038"
   },
   {
@@ -1573,13 +1573,13 @@
    "page": 319,
    "q": "If a woman accidentally receives a live attenuated rubella vaccine, she should be advised to avoid conception for at least:",
    "opts": [
-    "1 month (4 weeks)",
-    "6 months",
-    "1 year",
-    "2 weeks"
+    "1 month, that is 4 weeks",
+    "6 months from vaccination",
+    "1 year from vaccination",
+    "2 weeks from vaccination"
    ],
    "ans": 0,
-   "exp": "Conception should be deferred for at least 1 month (4 weeks) following administration of a live attenuated vaccine. (Book p319)",
+   "exp": "After accidental live attenuated rubella vaccine, conception should be avoided for at least 1 month (4 weeks). (Book p319)",
    "id": "OBG-C2-090"
   },
   {
@@ -1672,13 +1672,13 @@
    "page": 321,
    "q": "Why is the use of ondansetron generally avoided during early organogenesis (<10 weeks of gestation) unless other therapies fail?",
    "opts": [
-    "Possible association with a small increased risk of oral clefts (cleft lip/palate)",
-    "High incidence of neural tube defects",
-    "Induction of fetal renal agenesis",
-    "Risk of phocomelia"
+    "A possible small increased risk of oral clefts, lip or palate",
+    "A high incidence of neural tube defects in the fetus",
+    "Induction of fetal renal agenesis in the first trimester",
+    "A definite risk of phocomelia after first-trimester use"
    ],
    "ans": 0,
-   "exp": "Early first-trimester exposure to ondansetron (<10 weeks) carries a controversial slight risk of fetal cleft lip and cleft palate. (Book p321)",
+   "exp": "Ondansetron is generally avoided during early organogenesis (under 10 weeks) because of a possible association with a small increased risk of oral clefts (cleft lip or palate). (Book p321)",
    "id": "OBG-C2-097"
   },
   {
@@ -1800,13 +1800,13 @@
    "page": 323,
    "q": "Bell's palsy (idiopathic facial nerve paralysis) occurring during the third trimester is primarily attributed to:",
    "opts": [
-    "Perineural edema, hypercoagulability, and physiological immunosuppression",
-    "Direct herpes zoster encephalitis",
-    "Intracranial aneurysm compression",
-    "Cerebral venous sinus thrombosis"
+    "Perineural edema, hypercoagulability and physiological immunosuppression",
+    "Direct herpes zoster encephalitis involving the facial nucleus",
+    "Compression by an intracranial aneurysm of the posterior circulation",
+    "Cerebral venous sinus thrombosis occurring late in the third trimester"
    ],
    "ans": 0,
-   "exp": "Bell's palsy in pregnancy is linked to perineural edema and fluid retention compressing the 7th cranial nerve; short-course steroids are used. (Book p323)",
+   "exp": "Bell's palsy in the third trimester is attributed mainly to perineural edema, hypercoagulability and physiological immunosuppression. (Book p323)",
    "id": "OBG-C2-106"
   },
   {

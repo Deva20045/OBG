@@ -60,11 +60,11 @@ Every unit now contains at least one non-recall item. Fill-ups appear in 113
 units, matching in 71, scenarios in 54, odd-one-out in 54 and true/false in 50.
 New items are tagged with a `fmt` field so the mix is measured, not guessed.
 
-**2. Predictability — de-biased the items that gave the answer away (233 items)**
+**2. Predictability — de-biased 514 items whose answer gave itself away**
 
 * All **78** items where the answer was ≥4× the longest distractor rewritten.
-* All items ≥3.5× rewritten, then all items ≥3.0× rewritten — **zero remain**
-  above 3.0×, and only 27 remain above 2.5× (previously 309).
+* All items ≥3.5× rewritten, then all ≥3.0×, then all ≥2.5×, then all ≥2.0× —
+  **zero remain above 2.0×**, which was 887 items before this work.
 * Distractors were rebuilt to be the same *kind* of thing and the same *length*
   as the key: paired items now offer four paired options (including the classic
   reversed-order trap), and list items now offer four lists.
@@ -74,26 +74,25 @@ New items are tagged with a `fmt` field so the mix is measured, not guessed.
 | Items ≥4× longest distractor | 78 | **0** |
 | Items ≥3.5× | 118 | **0** |
 | Items ≥3.0× | 194 | **0** |
-| Items ≥2.5× | 309 | **27** |
-| Items ≥2.0× | 887 | **232** |
-| Answer length vs distractor | 59.9 / 29.2 chars | **55.9 / 37.6 chars** |
-| Correct option is the longest, bank-wide | 67.8% | **61.2%** |
-| Worst chapter (24) | 91.7% | **83.7%** |
-| Best chapter (11) | 55.9% | **37.3%** |
+| Items ≥2.5× | 309 | **0** |
+| Items ≥2.0× | 887 | **0** |
+| Answer length vs distractor | 59.9 / 29.2 chars | **49.1 / 42.7 chars** |
+| Correct option is the longest, bank-wide | 67.8% | **57.8%** chapter mean |
+| Worst chapter (24) | 91.7% | **79.1%** |
+| Best chapter (6) | 36.1% | **37.1%** |
 
 ## Honest status of what is left
 
-The bank-wide "longest option is the answer" figure fell from 67.8% to 61.2%,
-and the average answer is now 55.9 characters against 37.6 for distractors
-rather than 59.9 against 29.2. What remains is *mild and diffuse* — the median
-item has a ratio of 1.23, not 4.0 — spread across hundreds of items rather
-than concentrated in a hundred. Clearing it means editing items one at a time:
+Every gross length tell is gone: the answer is never twice as long as its
+longest distractor, and the average answer is now 49.1 characters against 42.7
+for the longest distractor, rather than 59.9 against 29.2. The chapter-mean
+"longest option is the answer" figure is down to **57.8%** from 67.8%, and no
+chapter is still above 80% (chapter 24 was 91.7%).
 
-* **27** items still between 2.5× and 3.0×
-* **205** items between 2.0× and 2.5×
-
-Two chapters still sit above 80% (chapter 21 at 83.6% and chapter 24 at 83.7%),
-and they are where the next tranche of work should go.
+What remains is *mild*: **742** items still have the key as the longest option
+by 1.3× or more, and the median item now sits at a ratio of 1.12 rather than
+1.23. Those are the next tranche. Chapters 24, 22, 20, 4 and 21 are the worst
+remaining, all between 73% and 79%.
 
 Bulk trimming was deliberately *not* automated. A script that shortens the
 correct option by cutting its parenthetical or its trailing clause would have

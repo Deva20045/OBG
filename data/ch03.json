@@ -570,13 +570,13 @@
    "page": 332,
    "q": "The 'Lemon sign' seen on second-trimester fetal cranial sonography is characterized by:",
    "opts": [
-    "Inward scalloping and concavity of the frontal calvarial bones due to reduced intracranial pressure",
-    "A narrow, elongated anterior fontanelle",
-    "Widening of the posterior fossa cistern",
-    "Bulging parietal bones with coronal synostosis"
+    "Inward scalloping and concavity of the frontal calvarial bones",
+    "A narrow, elongated anterior fontanelle seen on the scan",
+    "Widening of the cisterna magna in the posterior fossa",
+    "Bulging parietal bones with premature coronal synostosis"
    ],
    "ans": 0,
-   "exp": "The 'lemon sign' represents inward scalloping of the frontal bones produced by downward traction on intracranial contents in open spina bifida. (Book p332)",
+   "exp": "The lemon sign is inward scalloping and concavity of the frontal calvarial bones, due to reduced intracranial pressure. (Book p332)",
    "id": "OBG-C3-027"
   },
   {
@@ -726,13 +726,13 @@
    "page": 334,
    "q": "What is the optimal gestational age window for screening maternal serum alpha-fetoprotein (MSAFP)?",
    "opts": [
-    "16 to 18 weeks of gestation (acceptable range: 15 to 20 weeks)",
-    "11 to 13 weeks + 6 days",
-    "24 to 28 weeks of gestation",
-    "6 to 8 weeks of gestation"
+    "16 to 18 weeks of gestation, acceptable 15 to 20 weeks",
+    "11 to 13 weeks and 6 days of gestation, acceptable 10 to 14",
+    "24 to 28 weeks of gestation, acceptable 22 to 30 weeks",
+    "6 to 8 weeks of gestation, acceptable 5 to 9 weeks"
    ],
    "ans": 0,
-   "exp": "MSAFP screening is ideally performed between 16 and 18 weeks (range 15-20 weeks); first-trimester MSAFP has very low diagnostic sensitivity. (Book p334)",
+   "exp": "The optimal window for maternal serum alpha-fetoprotein screening is 16 to 18 weeks, with 15 to 20 weeks acceptable. (Book p334)",
    "id": "OBG-C3-038"
   },
   {
@@ -740,13 +740,13 @@
    "page": 334,
    "q": "Which of the following conditions is characteristically associated with a pathologically ELEVATED maternal serum alpha-fetoprotein (MSAFP) level?",
    "opts": [
-    "Open neural tube defect (anencephaly, spina bifida aperta)",
-    "Down syndrome (Trisomy 21)",
-    "Complete hydatidiform mole",
-    "Overestimated gestational age"
+    "An open neural tube defect such as anencephaly or spina bifida aperta",
+    "Down syndrome, that is trisomy 21 of the fetus",
+    "A complete hydatidiform mole within the uterine cavity",
+    "Overestimation of the gestational age at the time of testing"
    ],
    "ans": 0,
-   "exp": "MSAFP is elevated in open NTDs, abdominal wall defects (gastroschisis, omphalocele), multiple pregnancy, fetal demise, and underestimated gestational age. (Book p334)",
+   "exp": "A pathologically elevated MSAFP is characteristically associated with an open neural tube defect (anencephaly, spina bifida aperta). (Book p334)",
    "id": "OBG-C3-039"
   },
   {
@@ -1123,13 +1123,13 @@
    "page": 339,
    "q": "What is the primary clinical limitation of Non-Invasive Prenatal Testing (NIPT)?",
    "opts": [
-    "It is an advanced screening test, NOT a definitive diagnostic test; positive results must be confirmed invasively",
-    "It has a sensitivity of less than 70% for Down syndrome",
-    "It causes a 1% risk of miscarriage",
-    "It cannot be performed in Rh-negative mothers"
+    "It is a screening and not a diagnostic test, so positives need confirmation",
+    "Its sensitivity for Down syndrome is under 70% in practice",
+    "It carries about a 1% risk of procedure-related miscarriage",
+    "It cannot be performed at all in Rh-negative mothers"
    ],
    "ans": 0,
-   "exp": "Despite >99% sensitivity for Trisomy 21, NIPT is not diagnostic due to potential confined placental mosaicism; positive results mandate invasive confirmation. (Book p339)",
+   "exp": "The primary limitation of NIPT is that it is an advanced screening test and not definitive; positive results must be confirmed invasively. (Book p339)",
    "id": "OBG-C3-066"
   },
   {
@@ -1194,13 +1194,13 @@
    "page": 339,
    "q": "A 32-year-old woman receives a combined first-trimester screening report indicating a Down syndrome risk of 1:80. What is the most appropriate next step in clinical management?",
    "opts": [
-    "Offer diagnostic confirmation via Chorionic Villus Sampling (or amniocentesis) or secondary screening with NIPT",
-    "Reassure the patient that the fetus is entirely normal",
-    "Perform an immediate emergency Caesarean delivery",
-    "Repeat the same biochemical test next week"
+    "Offer CVS or amniocentesis for diagnosis, or secondary screening with NIPT",
+    "Reassure the patient that the fetus is entirely normal on this result",
+    "Perform an immediate emergency caesarean delivery of the fetus",
+    "Repeat exactly the same biochemical test again next week"
    ],
    "ans": 0,
-   "exp": "A risk of 1:80 is screen-positive (>1:250); genetic counseling should be provided, offering definitive invasive testing (CVS/amniocentesis) or NIPT. (Book p339)",
+   "exp": "A combined first-trimester risk of 1:80 is screen positive, so offer diagnostic confirmation by CVS or amniocentesis, or secondary screening with NIPT. (Book p339)",
    "id": "OBG-C3-071"
   },
   {
