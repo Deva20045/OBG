@@ -715,13 +715,13 @@
    "page": 392,
    "q": "All of the following are listed visual warning symptoms of impending eclampsia EXCEPT:",
    "opts": [
-    "Presbyopia alone, corrected by reading glasses",
-    "Diplopia",
-    "Blurring of vision",
-    "Scotoma or blindness"
+    "Presbyopia needing reading glasses",
+    "Diplopia, or double vision",
+    "Blurring of the vision",
+    "Scotoma, or blindness"
    ],
    "ans": 0,
-   "exp": "The source lists diplopia, blurred vision, scotoma and blindness as warning symptoms of impending eclampsia; presbyopia alone is not one of them. (Book p392)",
+   "exp": "The source lists diplopia, blurred vision, scotoma and blindness as warning symptoms of impending eclampsia; presbyopia needing reading glasses is not one of them. (Book p392)",
    "fmt": "oddoneout"
   },
   {

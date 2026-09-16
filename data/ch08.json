@@ -696,13 +696,13 @@
    "page": 402,
    "q": "All of the following are recognised visual disturbances of pre-eclampsia EXCEPT:",
    "opts": [
-    "Hearing loss from eighth-nerve involvement",
-    "Scotoma",
-    "Diplopia",
-    "Blurred vision"
+    "Hearing loss from the eighth nerve",
+    "Scotoma, or a blind spot",
+    "Diplopia, or double vision",
+    "Blurring of the vision"
    ],
    "ans": 0,
-   "exp": "Blurred vision, scotoma, diplopia and blindness are the listed visual disturbances; hearing loss is not one of them. (Book p402)",
+   "exp": "Blurred vision, scotoma, diplopia and blindness are the listed visual disturbances of pre-eclampsia; hearing loss from the eighth nerve is not one of them. (Book p402)",
    "fmt": "oddoneout"
   },
   {
